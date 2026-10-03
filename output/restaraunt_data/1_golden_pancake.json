@@ -78,7 +78,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">13515 40th Rd #4</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354-5301</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "current_opening_hours": {
     "open_now": true,
     "periods": [
@@ -449,5 +449,6 @@
   "url": "https://maps.google.com/?cid=11054945678969380623",
   "user_ratings_total": 35,
   "utc_offset": -240,
-  "vicinity": "13515 40th Rd #4, Flushing"
+  "vicinity": "13515 40th Rd #4, Flushing",
+  "business_status_checked_at": "2026-10-03T20:04:34.821092+00:00"
 }

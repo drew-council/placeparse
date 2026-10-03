@@ -71,7 +71,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">38-4 61st St</span>, <span class=\"locality\">Woodside</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11377-5830</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "CLOSED_TEMPORARILY",
+  "business_status": "CLOSED_PERMANENTLY",
   "curbside_pickup": false,
   "delivery": true,
   "dine_in": true,
@@ -262,5 +262,6 @@
   "user_ratings_total": 117,
   "utc_offset": -240,
   "vicinity": "38-4 61st St, Woodside",
-  "website": "https://www.instagram.com/zhego_nyc_/"
+  "website": "https://www.instagram.com/zhego_nyc_/",
+  "business_status_checked_at": "2026-10-03T20:06:28.644557+00:00"
 }

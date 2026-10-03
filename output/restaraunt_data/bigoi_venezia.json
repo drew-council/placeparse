@@ -458,5 +458,6 @@
   "emails": [
     "email@example.com",
     "contact@bigoivenezia.com"
-  ]
+  ],
+  "business_status_checked_at": "2026-10-03T20:04:45.218360+00:00"
 }

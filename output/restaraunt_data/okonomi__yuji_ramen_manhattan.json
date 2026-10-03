@@ -64,7 +64,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">36 W 26th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10010</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "current_opening_hours": {
     "open_now": false,
     "periods": [
@@ -438,5 +438,6 @@
   "user_ratings_total": 53,
   "utc_offset": -240,
   "vicinity": "36 W 26th St, New York",
-  "website": "https://www.okonomi.us/"
+  "website": "https://www.okonomi.us/",
+  "business_status_checked_at": "2026-10-03T20:05:49.603552+00:00"
 }

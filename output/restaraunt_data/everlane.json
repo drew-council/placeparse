@@ -432,5 +432,6 @@
   "utc_offset": -240,
   "vicinity": "28 Prince St, New York",
   "website": "https://everlane.com/",
-  "wheelchair_accessible_entrance": true
+  "wheelchair_accessible_entrance": true,
+  "business_status_checked_at": "2026-10-03T20:05:06.887852+00:00"
 }

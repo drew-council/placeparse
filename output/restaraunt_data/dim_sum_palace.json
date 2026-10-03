@@ -458,5 +458,6 @@
   "utc_offset": -240,
   "vicinity": "27 Division St, New York",
   "website": "http://www.dimsumpalace.com/",
-  "wheelchair_accessible_entrance": true
+  "wheelchair_accessible_entrance": true,
+  "business_status_checked_at": "2026-10-03T20:05:01.163676+00:00"
 }

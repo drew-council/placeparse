@@ -71,7 +71,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">18 W 38th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018-6230</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "current_opening_hours": {
     "open_now": true,
     "periods": [
@@ -448,5 +448,6 @@
   "utc_offset": -240,
   "vicinity": "18 W 38th St, New York",
   "website": "https://pos.chowbus.com/online-ordering/store/13868?fbclid=PAAaZv3dcSFvn37VDLQythPBzMImumOMVXp6sJccvfEQ2w2K78xTEkD_b0TLc_aem_th_AV6eEcw_tB1aHa6KzBhYomTzCT123Jc_Wjo9Sk1vY0edZAKTL4WqaHUhgzHOKUYnqvU",
-  "wheelchair_accessible_entrance": true
+  "wheelchair_accessible_entrance": true,
+  "business_status_checked_at": "2026-10-03T20:06:19.122252+00:00"
 }

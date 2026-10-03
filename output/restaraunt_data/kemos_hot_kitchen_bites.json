@@ -647,5 +647,6 @@
   "wheelchair_accessible_entrance": true,
   "emails": [
     "13e49d785d8d4f828038b6136f3b48ba@sentry.io"
-  ]
+  ],
+  "business_status_checked_at": "2026-10-03T20:05:24.837400+00:00"
 }

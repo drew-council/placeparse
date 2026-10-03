@@ -425,5 +425,6 @@
   "utc_offset": -240,
   "vicinity": "701 Foster St, Durham",
   "website": "https://kingssandwichshop.com/index.html",
-  "wheelchair_accessible_entrance": true
+  "wheelchair_accessible_entrance": true,
+  "business_status_checked_at": "2026-10-03T20:05:26.239730+00:00"
 }

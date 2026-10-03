@@ -546,5 +546,6 @@
   "utc_offset": -240,
   "vicinity": "334 W 46th St, New York",
   "website": "https://www.dimsumpalace.com/",
-  "wheelchair_accessible_entrance": false
+  "wheelchair_accessible_entrance": false,
+  "business_status_checked_at": "2026-10-03T20:05:01.456800+00:00"
 }

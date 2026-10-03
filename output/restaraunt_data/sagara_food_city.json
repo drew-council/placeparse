@@ -64,7 +64,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">98 Victory Blvd</span>, <span class=\"locality\">Staten Island</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10301</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "curbside_pickup": true,
   "current_opening_hours": {
     "open_now": true,
@@ -630,5 +630,6 @@
   "url": "https://maps.google.com/?cid=5936948222641983597",
   "user_ratings_total": 153,
   "utc_offset": -240,
-  "vicinity": "98 Victory Blvd, Staten Island"
+  "vicinity": "98 Victory Blvd, Staten Island",
+  "business_status_checked_at": "2026-10-03T20:06:02.056485+00:00"
 }

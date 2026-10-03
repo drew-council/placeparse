@@ -460,5 +460,6 @@
   "emails": [
     "operation@chilinyc.com",
     "email@example.com"
-  ]
+  ],
+  "business_status_checked_at": "2026-10-03T20:04:54.941741+00:00"
 }

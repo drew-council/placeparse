@@ -64,7 +64,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">56-14 Van Horn St</span>, <span class=\"locality\">Elmhurst</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11373</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "current_opening_hours": {
     "open_now": true,
     "periods": [
@@ -420,5 +420,6 @@
   "utc_offset": -240,
   "vicinity": "56-14 Van Horn St, Elmhurst",
   "website": "https://www.facebook.com/Pata-Cafe-1631945920391968/",
-  "wheelchair_accessible_entrance": true
+  "wheelchair_accessible_entrance": true,
+  "business_status_checked_at": "2026-10-03T20:05:52.591117+00:00"
 }

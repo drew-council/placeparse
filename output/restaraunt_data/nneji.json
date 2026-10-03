@@ -64,7 +64,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">32-20 34th Ave</span>, <span class=\"locality\">Queens</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11106</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "curbside_pickup": true,
   "current_opening_hours": {
     "open_now": false,
@@ -398,5 +398,6 @@
   "url": "https://maps.google.com/?cid=4940844165813869984",
   "user_ratings_total": 136,
   "utc_offset": -240,
-  "vicinity": "32-20 34th Ave, Queens"
+  "vicinity": "32-20 34th Ave, Queens",
+  "business_status_checked_at": "2026-10-03T20:05:47.922201+00:00"
 }

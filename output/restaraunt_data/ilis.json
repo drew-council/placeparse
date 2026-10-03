@@ -64,7 +64,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">150 Green St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "curbside_pickup": false,
   "current_opening_hours": {
     "open_now": true,
@@ -404,5 +404,6 @@
   "emails": [
     "hello@ilisnyc.com",
     "press@ilisnyc.com"
-  ]
+  ],
+  "business_status_checked_at": "2026-10-03T20:05:19.938112+00:00"
 }

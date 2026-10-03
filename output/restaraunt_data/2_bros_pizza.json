@@ -448,5 +448,6 @@
   "utc_offset": -240,
   "vicinity": "557 8th Ave, New York",
   "website": "https://www.2brospizza.com/",
-  "wheelchair_accessible_entrance": true
+  "wheelchair_accessible_entrance": true,
+  "business_status_checked_at": "2026-10-03T20:04:35.167952+00:00"
 }

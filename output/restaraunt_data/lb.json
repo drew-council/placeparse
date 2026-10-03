@@ -570,5 +570,6 @@
   "user_ratings_total": 863,
   "utc_offset": -240,
   "vicinity": "20 7th Ave S, New York",
-  "wheelchair_accessible_entrance": false
+  "wheelchair_accessible_entrance": false,
+  "business_status_checked_at": "2026-10-03T20:05:31.545476+00:00"
 }

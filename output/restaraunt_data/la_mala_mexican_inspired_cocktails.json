@@ -63,7 +63,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">110 Corcoran St</span>, <span class=\"locality\">Durham</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27701</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "curbside_pickup": false,
   "current_opening_hours": {
     "open_now": true,
@@ -487,5 +487,6 @@
   "wheelchair_accessible_entrance": true,
   "emails": [
     "Lamalaraleighmanagement@gmail.com"
-  ]
+  ],
+  "business_status_checked_at": "2026-10-03T20:05:29.839209+00:00"
 }

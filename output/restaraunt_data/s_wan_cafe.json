@@ -421,5 +421,6 @@
   "user_ratings_total": 335,
   "utc_offset": -240,
   "vicinity": "85 Eldridge St, New York",
-  "wheelchair_accessible_entrance": false
+  "wheelchair_accessible_entrance": false,
+  "business_status_checked_at": "2026-10-03T20:06:01.740498+00:00"
 }

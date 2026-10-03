@@ -64,7 +64,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">189 Avenue A</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10009</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_TEMPORARILY",
   "curbside_pickup": false,
   "current_opening_hours": {
     "open_now": true,
@@ -399,5 +399,6 @@
   "emails": [
     "info@foxface.nyc",
     "henry.june@gmail.com"
-  ]
+  ],
+  "business_status_checked_at": "2026-10-03T20:05:09.587826+00:00"
 }

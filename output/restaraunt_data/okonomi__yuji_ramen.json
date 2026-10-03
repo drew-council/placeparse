@@ -603,5 +603,6 @@
   "utc_offset": -240,
   "vicinity": "150 Ainslie St, Brooklyn",
   "website": "https://www.okonomi.us/",
-  "wheelchair_accessible_entrance": false
+  "wheelchair_accessible_entrance": false,
+  "business_status_checked_at": "2026-10-03T20:05:49.217298+00:00"
 }

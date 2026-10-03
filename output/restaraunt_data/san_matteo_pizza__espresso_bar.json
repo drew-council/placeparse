@@ -71,7 +71,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">1716 2nd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128-3502</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "curbside_pickup": true,
   "current_opening_hours": {
     "open_now": true,
@@ -455,5 +455,6 @@
   "user_ratings_total": 897,
   "utc_offset": -240,
   "vicinity": "1716 2nd Ave, New York",
-  "website": "http://sanmatteomenu.com/?utm_source=gbp"
+  "website": "http://sanmatteomenu.com/?utm_source=gbp",
+  "business_status_checked_at": "2026-10-03T20:06:03.681297+00:00"
 }

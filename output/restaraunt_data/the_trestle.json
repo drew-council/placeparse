@@ -64,7 +64,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">34-02 Broadway</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11106</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "curbside_pickup": true,
   "current_opening_hours": {
     "open_now": true,
@@ -426,5 +426,6 @@
     "e0b4d631da7b4200828051f7f9c783e3@sentry-next.wixpress.com",
     "info@trestleastoria.com",
     "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
-  ]
+  ],
+  "business_status_checked_at": "2026-10-03T20:06:18.126315+00:00"
 }

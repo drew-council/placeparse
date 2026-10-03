@@ -69,7 +69,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">4104 Surles Ct UNIT 4</span>, <span class=\"locality\">Durham</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27703-8239</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "current_opening_hours": {
     "open_now": true,
     "periods": [
@@ -447,5 +447,6 @@
   "utc_offset": -240,
   "vicinity": "4104 Surles Ct UNIT 4, Durham",
   "website": "http://www.myurbannoodle.com/",
-  "wheelchair_accessible_entrance": true
+  "wheelchair_accessible_entrance": true,
+  "business_status_checked_at": "2026-10-03T20:06:22.506874+00:00"
 }

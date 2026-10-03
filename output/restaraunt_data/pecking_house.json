@@ -64,7 +64,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">244 Flatbush Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11217</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "CLOSED_TEMPORARILY",
+  "business_status": "CLOSED_PERMANENTLY",
   "curbside_pickup": false,
   "delivery": true,
   "dine_in": true,
@@ -264,5 +264,6 @@
   "utc_offset": -240,
   "vicinity": "244 Flatbush Ave, Brooklyn",
   "website": "http://www.peckinghouse.com/",
-  "wheelchair_accessible_entrance": true
+  "wheelchair_accessible_entrance": true,
+  "business_status_checked_at": "2026-10-03T20:05:53.230788+00:00"
 }

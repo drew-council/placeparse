@@ -71,7 +71,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">140 Stewart Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11237-1127</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "formatted_address": "140 Stewart Ave, Brooklyn, NY 11237, USA",
   "formatted_phone_number": "(347) 987-3146",
   "geometry": {
@@ -255,5 +255,6 @@
   "utc_offset": -240,
   "vicinity": "140 Stewart Ave, Brooklyn",
   "website": "https://www.avant-gardner.com/",
-  "wheelchair_accessible_entrance": true
+  "wheelchair_accessible_entrance": true,
+  "business_status_checked_at": "2026-10-03T20:06:16.058997+00:00"
 }

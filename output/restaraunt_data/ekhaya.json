@@ -518,5 +518,6 @@
   "emails": [
     "info@zwelis.com",
     "email@example.com"
-  ]
+  ],
+  "business_status_checked_at": "2026-10-03T20:05:05.050622+00:00"
 }

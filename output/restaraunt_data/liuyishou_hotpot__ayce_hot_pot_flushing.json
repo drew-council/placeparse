@@ -64,7 +64,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">136-76 39th Ave</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_TEMPORARILY",
   "curbside_pickup": false,
   "current_opening_hours": {
     "open_now": true,
@@ -566,5 +566,6 @@
     "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
     "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
     "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com"
-  ]
+  ],
+  "business_status_checked_at": "2026-10-03T20:05:33.137065+00:00"
 }

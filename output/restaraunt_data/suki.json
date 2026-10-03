@@ -64,7 +64,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">208 E 50th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10022</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "CLOSED_TEMPORARILY",
+  "business_status": "OPERATIONAL",
   "delivery": true,
   "dine_in": true,
   "editorial_summary": {
@@ -260,5 +260,6 @@
   "user_ratings_total": 345,
   "utc_offset": -240,
   "vicinity": "208 E 50th St, New York",
-  "website": "http://sukicurry.com/"
+  "website": "http://sukicurry.com/",
+  "business_status_checked_at": "2026-10-03T20:06:11.056304+00:00"
 }

@@ -1,3 +1,7 @@
 Takeout
 .ruff_cache
 .venv
+__pycache__/
+.direnv/
+.env
+.env.*

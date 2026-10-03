@@ -64,7 +64,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">13 Christopher St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10014</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "current_opening_hours": {
     "open_now": false,
     "periods": [
@@ -442,5 +442,6 @@
   "user_ratings_total": 318,
   "utc_offset": -240,
   "vicinity": "13 Christopher St, New York",
-  "website": "http://www.adhoccollective.com/"
+  "website": "http://www.adhoccollective.com/",
+  "business_status_checked_at": "2026-10-03T20:04:37.329651+00:00"
 }

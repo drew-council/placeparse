@@ -71,7 +71,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">42-05 35th Ave</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101-1445</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "curbside_pickup": false,
   "current_opening_hours": {
     "open_now": true,
@@ -351,5 +351,6 @@
   "user_ratings_total": 35,
   "utc_offset": -240,
   "vicinity": "42-05 35th Ave, Long Island City",
-  "website": "https://www.bunliciousny.com/"
+  "website": "https://www.bunliciousny.com/",
+  "business_status_checked_at": "2026-10-03T20:04:48.705051+00:00"
 }

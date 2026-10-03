@@ -554,5 +554,6 @@
   "utc_offset": -240,
   "vicinity": "178 Lexington Ave, New York",
   "website": "https://www.nycthincrust.com/location/vezzo-thin-crust/",
-  "wheelchair_accessible_entrance": true
+  "wheelchair_accessible_entrance": true,
+  "business_status_checked_at": "2026-10-03T20:06:23.179645+00:00"
 }

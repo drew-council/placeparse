@@ -445,5 +445,6 @@
   "utc_offset": -240,
   "vicinity": "447 Amsterdam Ave, New York",
   "website": "http://gazalasnyc.com/",
-  "wheelchair_accessible_entrance": true
+  "wheelchair_accessible_entrance": true,
+  "business_status_checked_at": "2026-10-03T20:05:11.427404+00:00"
 }

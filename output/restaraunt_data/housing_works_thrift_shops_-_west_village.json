@@ -447,5 +447,6 @@
   "utc_offset": -240,
   "vicinity": "245 W 10th St, New York",
   "website": "https://www.housingworks.org/locations/west-village-thrift-shop",
-  "wheelchair_accessible_entrance": true
+  "wheelchair_accessible_entrance": true,
+  "business_status_checked_at": "2026-10-03T20:05:18.317211+00:00"
 }

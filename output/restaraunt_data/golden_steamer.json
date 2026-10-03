@@ -441,5 +441,6 @@
   "user_ratings_total": 339,
   "utc_offset": -240,
   "vicinity": "143A Mott St, New York",
-  "wheelchair_accessible_entrance": false
+  "wheelchair_accessible_entrance": false,
+  "business_status_checked_at": "2026-10-03T20:05:12.769183+00:00"
 }

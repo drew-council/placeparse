@@ -436,5 +436,6 @@
   "wheelchair_accessible_entrance": true,
   "emails": [
     "user@domain.com"
-  ]
+  ],
+  "business_status_checked_at": "2026-10-03T20:05:57.526488+00:00"
 }

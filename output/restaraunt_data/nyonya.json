@@ -647,5 +647,6 @@
   "utc_offset": -240,
   "vicinity": "199 Grand St, New York",
   "website": "https://nyonya.store/",
-  "wheelchair_accessible_entrance": true
+  "wheelchair_accessible_entrance": true,
+  "business_status_checked_at": "2026-10-03T20:05:48.572277+00:00"
 }

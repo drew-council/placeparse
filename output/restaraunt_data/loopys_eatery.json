@@ -549,5 +549,6 @@
   "emails": [
     "contact@loopyseatery.com",
     "email@example.com"
-  ]
+  ],
+  "business_status_checked_at": "2026-10-03T20:05:33.546378+00:00"
 }

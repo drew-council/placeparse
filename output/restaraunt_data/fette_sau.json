@@ -64,7 +64,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">354 Metropolitan Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11211</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "current_opening_hours": {
     "open_now": true,
     "periods": [
@@ -452,5 +452,6 @@
   "wheelchair_accessible_entrance": true,
   "emails": [
     "fettesaubbq@gmail.com"
-  ]
+  ],
+  "business_status_checked_at": "2026-10-03T20:05:08.483661+00:00"
 }

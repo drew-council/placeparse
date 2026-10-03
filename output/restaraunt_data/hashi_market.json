@@ -433,5 +433,6 @@
   "utc_offset": -240,
   "vicinity": "330 5th Ave, New York",
   "website": "http://www.hashimarket.com/",
-  "wheelchair_accessible_entrance": true
+  "wheelchair_accessible_entrance": true,
+  "business_status_checked_at": "2026-10-03T20:05:15.692358+00:00"
 }

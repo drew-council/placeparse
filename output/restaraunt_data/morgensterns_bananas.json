@@ -64,7 +64,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">2 Rivington St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "current_opening_hours": {
     "open_now": true,
     "periods": [
@@ -441,5 +441,6 @@
   "utc_offset": -240,
   "vicinity": "2 Rivington St, New York",
   "website": "http://www.morgensternsbananas.com/",
-  "wheelchair_accessible_entrance": true
+  "wheelchair_accessible_entrance": true,
+  "business_status_checked_at": "2026-10-03T20:05:42.028667+00:00"
 }

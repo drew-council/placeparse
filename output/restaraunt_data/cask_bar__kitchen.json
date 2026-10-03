@@ -64,7 +64,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">167 E 33rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10016</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "curbside_pickup": true,
   "current_opening_hours": {
     "open_now": true,
@@ -790,5 +790,6 @@
   "wheelchair_accessible_entrance": true,
   "emails": [
     "info@casknyc.com"
-  ]
+  ],
+  "business_status_checked_at": "2026-10-03T20:04:51.949301+00:00"
 }

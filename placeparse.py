@@ -1,5 +1,7 @@
 import csv
 import json
+import os
+from datetime import datetime, timezone
 from pathlib import Path
 import click
 import requests
@@ -9,7 +11,6 @@ import re
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 
-API_KEY = "AIzaSyAPSiEwVygrDfJjJGovyoYPjpwMzNlv7NA"
 PROJECT_DIR = Path(__file__).parent
 SAVED_PLACES_FILE = PROJECT_DIR / "Takeout" / "Saved" / "Want to go.csv"
 OUT_DIR = PROJECT_DIR / "output"
@@ -17,6 +18,15 @@ OUT_JSON_DIR = OUT_DIR / "restaraunt_data"
 
 ALPHANUM_RE = re.compile(r"[^a-zA-Z0-9_-]")
 EMAIL_RE = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}", re.IGNORECASE)
+
+
+def get_api_key() -> str:
+    key = os.environ.get("GOOGLE_MAPS_API_KEY", "").strip()
+    if not key:
+        raise click.ClickException(
+            "Set GOOGLE_MAPS_API_KEY (see README.md for 1Password setup)."
+        )
+    return key
 
 
 def query_save_place(row: dict[str, str]):
@@ -37,18 +47,24 @@ def query_save_place(row: dict[str, str]):
     try:
         resp = requests.get(
             "https://maps.googleapis.com/maps/api/place/details/json",
-            params={"cid": cid, "key": API_KEY},
+            params={"cid": cid, "key": get_api_key()},
+            timeout=30,
         )
         resp.raise_for_status()
         result = resp.json()["result"]
     except Exception as e:
-        click.secho(f"Error for id: {cid}, title:{title}\n{e}", fg="red", err=True)
+        click.secho(
+            f"Error for id: {cid}, title:{title}\n{type(e).__name__}",
+            fg="red",
+            err=True,
+        )
         return
     rich.print(result)
 
     row["result"] = result
 
     out_file = OUT_JSON_DIR / f"{title}.json"
+    OUT_JSON_DIR.mkdir(parents=True, exist_ok=True)
     with out_file.open("w") as f:
         json.dump(result, f, indent=2)
 
@@ -61,9 +77,10 @@ def cli():
 @cli.command()
 def query_list() -> None:
     """Query the list of saved places' google maps data and save as json"""
+    get_api_key()
     with SAVED_PLACES_FILE.open() as f:
         rows = list(csv.DictReader(f))
-        for i, row in tqdm(enumerate(rows[1:])):
+        for i, row in tqdm(enumerate(rows), total=len(rows)):
             click.secho(f"\nQuerying row {i}...", fg="blue", italic=True)
             query_save_place(row)
             time.sleep(1)
@@ -75,7 +92,9 @@ def extract_emails_from_html(html: str) -> set[str]:
     soup = BeautifulSoup(html, "html.parser")
     for a in soup.select("a[href^=mailto]"):
         href = a.get("href", "")
-        addr = href.split(":", 1)[-1].split("?")[0]  # pyright: ignore
+        if not isinstance(href, str):
+            continue
+        addr = href.split(":", 1)[-1].split("?")[0]
         if EMAIL_RE.fullmatch(addr):
             emails.add(addr)
     # also run regex on the raw HTML just in case
@@ -84,7 +103,119 @@ def extract_emails_from_html(html: str) -> set[str]:
 
 
 def get_out_files() -> list[Path]:
-    return list(OUT_JSON_DIR.glob("*.json"))
+    return sorted(OUT_JSON_DIR.glob("*.json"))
+
+
+def fetch_business_status(place_id: str, key: str) -> tuple[str, str]:
+    """Request only status fields; never include credentials in error output."""
+    try:
+        response = requests.get(
+            "https://maps.googleapis.com/maps/api/place/details/json",
+            params={
+                "place_id": place_id,
+                "fields": "place_id,business_status",
+                "key": key,
+            },
+            timeout=30,
+        )
+        response.raise_for_status()
+        body = response.json()
+    except (requests.RequestException, ValueError) as exc:
+        return "FETCH_ERROR", type(exc).__name__
+    status = body.get("status", "INVALID_RESPONSE")
+    if status in {"REQUEST_DENIED", "OVER_QUERY_LIMIT", "OVER_DAILY_LIMIT"}:
+        raise click.ClickException(
+            f"Google Places returned {status}; stopping refresh."
+        )
+    if status != "OK":
+        return status, ""
+    business_status = body.get("result", {}).get("business_status", "")
+    if business_status not in {
+        "OPERATIONAL",
+        "CLOSED_TEMPORARILY",
+        "CLOSED_PERMANENTLY",
+    }:
+        return "UNKNOWN", "No recognized business status returned"
+    return "OK", business_status
+
+
+@cli.command()
+@click.option(
+    "--limit", type=click.IntRange(min=1), help="Limit requests for a smoke test."
+)
+@click.option("--delay", default=0.2, type=click.FloatRange(min=0), show_default=True)
+def refresh_status(limit: int | None, delay: float) -> None:
+    """Refresh existing cached places, preserving contacts; write a separate status CSV.
+
+    Does not synchronize saved-list membership. Google API billing may apply.
+    """
+    key = get_api_key()
+    files = get_out_files()
+    if not files:
+        raise click.ClickException(f"No cached places in {OUT_JSON_DIR}")
+    if limit:
+        files = files[:limit]
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    report = OUT_DIR / ("place_status_sample.csv" if limit else "place_status.csv")
+    counts: dict[str, int] = {}
+    with report.open("w", newline="") as out:
+        writer = csv.DictWriter(
+            out,
+            fieldnames=[
+                "Name",
+                "Place ID",
+                "Previous Status",
+                "Current Status",
+                "Checked At",
+                "Fetch Status",
+                "Note",
+            ],
+        )
+        writer.writeheader()
+        for file in tqdm(files):
+            data = json.loads(file.read_text())
+            place_id = data.get("place_id", "")
+            previous = data.get("business_status", "")
+            checked_at = datetime.now(timezone.utc).isoformat()
+            status, value = (
+                fetch_business_status(place_id, key)
+                if place_id
+                else (
+                    "MISSING_PLACE_ID",
+                    "No cached place ID",
+                )
+            )
+            current = value if status == "OK" else ""
+            if status == "OK":
+                data["business_status"] = current
+                data["business_status_checked_at"] = checked_at
+                temporary = file.with_suffix(".json.tmp")
+                temporary.write_text(json.dumps(data, indent=2) + "\n")
+                temporary.replace(file)
+            writer.writerow(
+                {
+                    "Name": data.get("name", file.stem),
+                    "Place ID": place_id,
+                    "Previous Status": previous,
+                    "Current Status": current,
+                    "Checked At": checked_at,
+                    "Fetch Status": status,
+                    "Note": "" if status == "OK" else value,
+                }
+            )
+            out.flush()
+            label = current or status
+            counts[label] = counts.get(label, 0) + 1
+            time.sleep(delay)
+    click.echo(f"Status report: {report}")
+    click.echo(json.dumps(counts, indent=2))
+    if any(
+        label not in {"OPERATIONAL", "CLOSED_TEMPORARILY", "CLOSED_PERMANENTLY"}
+        for label in counts
+    ):
+        raise click.ClickException(
+            "Some places could not be verified; see the status report."
+        )
 
 
 @cli.command()

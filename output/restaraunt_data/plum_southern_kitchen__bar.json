@@ -77,7 +77,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">501 Washington St C</span>, <span class=\"locality\">Durham</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27701-2169</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "curbside_pickup": true,
   "current_opening_hours": {
     "open_now": true,
@@ -414,5 +414,6 @@
   "utc_offset": -240,
   "vicinity": "501 Washington St C, Durham",
   "website": "https://plumdurham.com/",
-  "wheelchair_accessible_entrance": true
+  "wheelchair_accessible_entrance": true,
+  "business_status_checked_at": "2026-10-03T20:05:55.848497+00:00"
 }

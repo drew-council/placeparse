@@ -64,7 +64,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">42 Avenue A</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10009</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "curbside_pickup": true,
   "current_opening_hours": {
     "open_now": true,
@@ -582,5 +582,6 @@
   "wheelchair_accessible_entrance": true,
   "emails": [
     "shadow@2x.png"
-  ]
+  ],
+  "business_status_checked_at": "2026-10-03T20:06:21.170825+00:00"
 }

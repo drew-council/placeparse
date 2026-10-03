@@ -424,5 +424,6 @@
   "emails": [
     "email@example.com",
     "spigarestaurantnyc@gmail.com"
-  ]
+  ],
+  "business_status_checked_at": "2026-10-03T20:06:09.733745+00:00"
 }

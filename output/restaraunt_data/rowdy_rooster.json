@@ -71,7 +71,7 @@
     }
   ],
   "adr_address": "<span class=\"street-address\">149 1st Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003-2930</span>, <span class=\"country-name\">USA</span>",
-  "business_status": "OPERATIONAL",
+  "business_status": "CLOSED_PERMANENTLY",
   "current_opening_hours": {
     "open_now": true,
     "periods": [
@@ -466,5 +466,6 @@
     "press@uafoods.nyc",
     "hello@rowdyrooster.com",
     "events@uafoods.nyc"
-  ]
+  ],
+  "business_status_checked_at": "2026-10-03T20:06:01.101446+00:00"
 }
