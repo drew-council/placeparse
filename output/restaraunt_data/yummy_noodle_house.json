@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -267,13 +267,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -423,7 +423,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfowAlE9n0SwVHWArZYT11mHjjqgr9g-Chjxk_2-ZCpG5s0yEfzg=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "8 months ago",
-      "text": "Edit: wanted to update my review that the beef brisket with curry sauce (C2) is crazy good!\n\nFood was fine, never tried hot pot rice before this. It\u2019s cool to see authentic Hong Kong style food in this neighborhood. Interior was comfortable and service was good. To be honest the food was kinda forgettable but I would come back to try other dishes",
+      "text": "Edit: wanted to update my review that the beef brisket with curry sauce (C2) is crazy good!\n\nFood was fine, never tried hot pot rice before this. It’s cool to see authentic Hong Kong style food in this neighborhood. Interior was comfortable and service was good. To be honest the food was kinda forgettable but I would come back to try other dishes",
       "time": 1730215443,
       "translated": false
     }
@@ -448,9 +448,44 @@
   "vicinity": "33-35 Francis Lewis Blvd, Flushing",
   "website": "https://yummynoodlehousenyc.wixsite.com/home",
   "emails": [
+    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
     "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
-    "yummynoodlehousenyc@gmail.com",
-    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+    "yummynoodlehousenyc@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:28.320731+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:28.320731+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:26.533421+00:00",
+    "outcome": "found",
+    "sources": {
+      "yummynoodlehousenyc@gmail.com": [
+        "https://yummynoodlehousenyc.wixsite.com/home",
+        "https://yummynoodlehousenyc.wixsite.com/home/contact",
+        "https://yummynoodlehousenyc.wixsite.com/home/contact-us"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://yummynoodlehousenyc.wixsite.com/home",
+        "status": "ok",
+        "emails": [
+          "yummynoodlehousenyc@gmail.com"
+        ]
+      },
+      {
+        "url": "https://yummynoodlehousenyc.wixsite.com/home/contact",
+        "status": "ok",
+        "emails": [
+          "yummynoodlehousenyc@gmail.com"
+        ]
+      },
+      {
+        "url": "https://yummynoodlehousenyc.wixsite.com/home/contact-us",
+        "status": "ok",
+        "emails": [
+          "yummynoodlehousenyc@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

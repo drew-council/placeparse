@@ -1,0 +1,47 @@
+{
+  "adr_address": "<span class=\"street-address\">145D Hester St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "145D Hester St, New York, NY 10002, USA",
+  "formatted_phone_number": "(212) 226-7687",
+  "geometry": {
+    "location": {
+      "lat": 40.7172529,
+      "lng": -73.9950257
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71856248029149,
+        "lng": -73.9937098697085
+      },
+      "southwest": {
+        "lat": 40.7158645197085,
+        "lng": -73.9964078302915
+      }
+    }
+  },
+  "international_phone_number": "+1 212-226-7687",
+  "name": "Teado Tea Shop 葉風茶舖",
+  "place_id": "ChIJiRs__ydawokRKpAV0efG0xg",
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=1788992175943815210",
+  "website": "https://tea-leaf-conversions.lovable.app/",
+  "details_checked_at": "2026-10-03T21:59:35.875504+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:35.875504+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:27.063001+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://tea-leaf-conversions.lovable.app/",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
+}

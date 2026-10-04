@@ -1,0 +1,65 @@
+{
+  "adr_address": "<span class=\"street-address\">55 Water St #5FL</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11201</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "55 Water St #5FL, Brooklyn, NY 11201, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.703665,
+      "lng": -73.9914762
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7048234302915,
+        "lng": -73.9901960197085
+      },
+      "southwest": {
+        "lat": 40.7021254697085,
+        "lng": -73.99289398029151
+      }
+    }
+  },
+  "name": "Bark Barbecue",
+  "place_id": "ChIJ051SSnpbwokRRHizOSfAQjA",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=3477553136987764804",
+  "website": "http://barkbarbecueny.com/",
+  "details_checked_at": "2026-10-03T21:59:17.546915+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:17.546915+00:00",
+  "emails": [
+    "info@barkbarbecueny.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:55.717249+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@barkbarbecueny.com": [
+        "https://barkbarbecueny.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://barkbarbecueny.com/",
+        "status": "ok",
+        "emails": [
+          "info@barkbarbecueny.com"
+        ]
+      },
+      {
+        "url": "https://barkbarbecueny.com/brooklyn-5fl-bark-barbecue-party",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://barkbarbecueny.com/brooklyn-5fl-bark-barbecue-catering",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
+}

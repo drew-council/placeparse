@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 5:00 AM – 9:30 PM",
+      "Tuesday: 5:00 AM – 9:30 PM",
+      "Wednesday: 5:00 AM – 9:30 PM",
+      "Thursday: 5:00 AM – 9:30 PM",
+      "Friday: 5:00 AM – 9:30 PM",
+      "Saturday: 5:00 AM – 9:30 PM",
+      "Sunday: 5:00 AM – 9:30 PM"
     ]
   },
   "dine_in": true,
@@ -186,7 +186,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 646-546-2353",
-  "name": "\u8d85\u529b\u798f\u5dde\u7f8e\u98df No.1 Super Snack Inc. - Fuzhou Snacks",
+  "name": "超力福州美食 No.1 Super Snack Inc. - Fuzhou Snacks",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -262,13 +262,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 5:00 AM – 9:30 PM",
+      "Tuesday: 5:00 AM – 9:30 PM",
+      "Wednesday: 5:00 AM – 9:30 PM",
+      "Thursday: 5:00 AM – 9:30 PM",
+      "Friday: 5:00 AM – 9:30 PM",
+      "Saturday: 5:00 AM – 9:30 PM",
+      "Sunday: 5:00 AM – 9:30 PM"
     ]
   },
   "photos": [
@@ -283,7 +283,7 @@
     {
       "height": 4032,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/109673609811779688970\">Hubert Globe\u4f11\u4f2f\u7279\u4eba\u751f\u5e38\u6001</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/109673609811779688970\">Hubert Globe休伯特人生常态</a>"
       ],
       "photo_reference": "ATKogpd7nU_bi2YJBk9h6QziLQtuZuWZPMkveMNEsux_RyLei8usZhvYnAF1PTGar2NzsdpOAbQv2AwVTrU4xRanPIBnnQXWPejm5tw7OHM5rYzFgTuGpP7OYiy9LvE59PmIfgJlyf3grJPOSBlBX38SEQqz3rPsJbzN4g3E1ByfOBbepWd8ApNIyfRz9kRW3sYyfG9POIdXa_t6QjHVGg8BztAy8HUzWdz4s9Y0a5hUTO4QVJ-J12IlPwRvYuFlTjh6UwI0KR7KM0v89lIlyVX5AiQhkDAiSTGHNSgSyWTp816rvcPThshLUJdhmzoaiuXajjX3Lm5Sq8BkkMqQeBuZCsmHCwDqjZANeCeZ3O3CRFsxwhjacJQ4DWGmkQGJwsHDXEMiPYytoPN6kQyN7E7q--D5DyDP-QoD6hulfobOqVE",
       "width": 3024
@@ -323,7 +323,7 @@
     {
       "height": 3024,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/109673609811779688970\">Hubert Globe\u4f11\u4f2f\u7279\u4eba\u751f\u5e38\u6001</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/109673609811779688970\">Hubert Globe休伯特人生常态</a>"
       ],
       "photo_reference": "ATKogpcprsJ4jbsEvCr_d8cm3ASpLmMgsSxLh-CPmLuQkxrmpzRmJQc7O6QBUdnFrI6mNV0fb7NQG5B6eWHeUA4mimYHUwh9xPJyUz_1toMAkYtOXqLRxI00MxGriq4RRVRXCwqR5yUXUr9Wh00FxI_9qEOvTu0hY4wWiqu2zj1Pxp7DsU2MQFrVMTZtZbAVL3iw6L26Uh9XtX2YwHuZCMZRj02x_uw-yciby_crk11hkHryihy77UxBDloKN2W9M9SS11ILqBog4jRdQQYWBZGYpmSKMfn9tFV7ywRibw6r8-ZZ5cbLfT3ULpRX0LOx_aRpuXYeI4ipIkLm8y0rDY8jI8n4MUHl8LNFIFPSZ9EOl6EPse4uV4sIgTomJUHDsyxdmTX2LaML9QKI1xPxUelUPm-Cf9XeJ8jtTmRmTVrwy-OtqUwL",
       "width": 4032
@@ -370,7 +370,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6LulnHLlmH_7vc5ADNSxE5hHdQT38JQUsKs52DOH7dwwPlw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "7 months ago",
-      "text": "Yummy quick fast prepared food just point and pay. Amazing prices and very tasty snacks, love their deep fried taro cake (it\u2019s savory). Very crunchy and tasty. Accepts cash, have fun!",
+      "text": "Yummy quick fast prepared food just point and pay. Amazing prices and very tasty snacks, love their deep fried taro cake (it’s savory). Very crunchy and tasty. Accepts cash, have fun!",
       "time": 1730924555,
       "translated": false
     },
@@ -382,7 +382,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZ7S7BTHVhE8CWX1dkCa_WILODFz7j9jaxo4Tc_Ao_qeF2ahs=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "a year ago",
-      "text": "The plain buns are too sweet. The fish balls are just so so, but it\u2019s still a good choice for hotpot.",
+      "text": "The plain buns are too sweet. The fish balls are just so so, but it’s still a good choice for hotpot.",
       "time": 1706042450,
       "translated": false
     },
@@ -406,7 +406,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIEkcgZ48oBn08MxnxyJtrwZkxnB_uRMFv678JH6PdkdVo-cvG=s128-c0x00000000-cc-rp-mo-ba7",
       "rating": 4,
       "relative_time_description": "2 years ago",
-      "text": "They sell already made hot food and frozen items. Mainly things to snack on or you can get more to make it into a whole meal. Things are pretty cheap and affordable. It\u2019s right front of the bus stop so it\u2019s pretty obvious. Service is good.",
+      "text": "They sell already made hot food and frozen items. Mainly things to snack on or you can get more to make it into a whole meal. Things are pretty cheap and affordable. It’s right front of the bus stop so it’s pretty obvious. Service is good.",
       "time": 1659991863,
       "translated": false
     },
@@ -418,7 +418,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVls4s_TRfLcNlLeuL0rSFKSkruuTTqj6sEAqbqtm4yhotqHD8C=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 2,
       "relative_time_description": "a year ago",
-      "text": "Extensive menu offering many Fujian small eats. In Flushing, there are several of these shops. I had the taro cake which actually tasted and in appearance looked like a radish cake, the donut-shaped fried vegetable bites, and chicken skewers. Everything was fried and on the oily side. I\u2019ve had better taro cakes and chicken skewers at other establishments. The oiliness was a bit excessive. The vegetable bites were ok and it was my first time trying them so I have no basis to compare. What this place has going for it is its menu size. There\u2019s quite a bit on offer and drinks as well. I\u2019ll return and try their other less oily dishes and update this review. Prices were very reasonable.\n\nI returned to try some other options. The sweet tofu pudding is not tasty. I also tried their fried rice. It\u2019s actually stick rice even though it was sold as fried rice to me. They also overcharged me $1.",
+      "text": "Extensive menu offering many Fujian small eats. In Flushing, there are several of these shops. I had the taro cake which actually tasted and in appearance looked like a radish cake, the donut-shaped fried vegetable bites, and chicken skewers. Everything was fried and on the oily side. I’ve had better taro cakes and chicken skewers at other establishments. The oiliness was a bit excessive. The vegetable bites were ok and it was my first time trying them so I have no basis to compare. What this place has going for it is its menu size. There’s quite a bit on offer and drinks as well. I’ll return and try their other less oily dishes and update this review. Prices were very reasonable.\n\nI returned to try some other options. The sweet tofu pudding is not tasty. I also tried their fried rice. It’s actually stick rice even though it was sold as fried rice to me. They also overcharged me $1.",
       "time": 1689608873,
       "translated": false
     }
@@ -438,5 +438,13 @@
   "user_ratings_total": 25,
   "utc_offset": -240,
   "vicinity": "4128 Main St, Flushing",
-  "business_status_checked_at": "2026-10-03T20:05:48.255938+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:48.255938+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:35.604634+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

@@ -175,13 +175,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 4:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Tuesday: 4:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Wednesday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Thursday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Friday: 12:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Saturday: 12:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Sunday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM"
+      "Monday: 4:00 PM – 1:00 AM",
+      "Tuesday: 4:00 PM – 1:00 AM",
+      "Wednesday: 12:00 PM – 1:00 AM",
+      "Thursday: 12:00 PM – 1:00 AM",
+      "Friday: 12:00 PM – 3:00 AM",
+      "Saturday: 12:00 PM – 3:00 AM",
+      "Sunday: 12:00 PM – 1:00 AM"
     ]
   },
   "delivery": true,
@@ -284,13 +284,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 4:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Tuesday: 4:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Wednesday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Thursday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Friday: 12:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Saturday: 12:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Sunday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM"
+      "Monday: 4:00 PM – 1:00 AM",
+      "Tuesday: 4:00 PM – 1:00 AM",
+      "Wednesday: 12:00 PM – 1:00 AM",
+      "Thursday: 12:00 PM – 1:00 AM",
+      "Friday: 12:00 PM – 3:00 AM",
+      "Saturday: 12:00 PM – 3:00 AM",
+      "Sunday: 12:00 PM – 1:00 AM"
     ]
   },
   "photos": [
@@ -404,7 +404,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmf3xwmGqNVuZZBo1OZJozYun-IlYC6vbjzzHmO12rNS814AhK=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "Overall rating: 4.9\n\nAbsolutely underrated. HIGHLY RECOMMEND. Indian x fried chicken?! C\u2019mon. I went small and only got a lil rowdy sandwich & mango lassi. The Lassi was delightful and I will be coming back just for that. The sandwich was soo and I\u2019m very excited to go back and try other items.",
+      "text": "Overall rating: 4.9\n\nAbsolutely underrated. HIGHLY RECOMMEND. Indian x fried chicken?! C’mon. I went small and only got a lil rowdy sandwich & mango lassi. The Lassi was delightful and I will be coming back just for that. The sandwich was soo and I’m very excited to go back and try other items.",
       "time": 1739735653,
       "translated": false
     },
@@ -428,7 +428,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPqu4JpB3-bE9zCMPgf1t1ksXwveRPbJSI18WzTiY40WlRV_DS=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "a year ago",
-      "text": "Rowdy Rooster in New York is a delightful spot for anyone craving juicy fried chicken with a unique blend of Indian flavors. Despite being a small place, it's packed with incredible tastes that make a visit more than worthwhile. We sampled a variety of options from their menu, and each dish was a standout. The Indian spices and seasonings elevated the classic fried chicken to a whole new level, making for an unforgettable meal. Overall, I'd rate our experience a solid 9/10. If you're in the mood for something flavorful and satisfying, Rowdy Rooster is definitely the place to go. In summary, Rowdy Rooster delivers a fantastic dining experience that is both unique and memorable. With its outstanding fusion of Indian flavors and classic fried chicken, this spot is a must-visit for food lovers. I\u2019d give it a strong 9/10 and highly recommend it to anyone looking to try something truly special.",
+      "text": "Rowdy Rooster in New York is a delightful spot for anyone craving juicy fried chicken with a unique blend of Indian flavors. Despite being a small place, it's packed with incredible tastes that make a visit more than worthwhile. We sampled a variety of options from their menu, and each dish was a standout. The Indian spices and seasonings elevated the classic fried chicken to a whole new level, making for an unforgettable meal. Overall, I'd rate our experience a solid 9/10. If you're in the mood for something flavorful and satisfying, Rowdy Rooster is definitely the place to go. In summary, Rowdy Rooster delivers a fantastic dining experience that is both unique and memorable. With its outstanding fusion of Indian flavors and classic fried chicken, this spot is a must-visit for food lovers. I’d give it a strong 9/10 and highly recommend it to anyone looking to try something truly special.",
       "time": 1718385013,
       "translated": false
     },
@@ -440,7 +440,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvJzFBqwIjieKiuuCNyXPIWvLb9SNX3QPBNMYBzWK7l0PvvIM=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "We visit Rowdy Rooster often when we are in the city, primarily for their amazing chicken sandwich. It\u2019s super flavorful, the chicken is crispy from the outside and juicy from the inside. It\u2019s like a perfect blend of Indian flavors in a classic chicken sandwich. The seating space is limited so we often decide to opt for take out but the food is so good that it really doesn\u2019t matter. They have different spice levels so be careful about that. I always get level 2 which feels just like the right amount of spicy to me as I do not have high spice tolerance. If you\u2019re sensitive to heat, you might want to be careful about going higher. We\u2019re planning to try their boneless chicken for our next visit. All in all, a must visit place if you\u2019re in NYC and craving a crispy and flavorful chicken sandwich.",
+      "text": "We visit Rowdy Rooster often when we are in the city, primarily for their amazing chicken sandwich. It’s super flavorful, the chicken is crispy from the outside and juicy from the inside. It’s like a perfect blend of Indian flavors in a classic chicken sandwich. The seating space is limited so we often decide to opt for take out but the food is so good that it really doesn’t matter. They have different spice levels so be careful about that. I always get level 2 which feels just like the right amount of spicy to me as I do not have high spice tolerance. If you’re sensitive to heat, you might want to be careful about going higher. We’re planning to try their boneless chicken for our next visit. All in all, a must visit place if you’re in NYC and craving a crispy and flavorful chicken sandwich.",
       "time": 1696877700,
       "translated": false
     }
@@ -463,9 +463,48 @@
   "website": "http://www.rowdyrooster.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "press@uafoods.nyc",
+    "events@uafoods.nyc",
     "hello@rowdyrooster.com",
-    "events@uafoods.nyc"
+    "press@uafoods.nyc"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:01.101446+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:01.101446+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:51.367428+00:00",
+    "outcome": "found",
+    "sources": {
+      "events@uafoods.nyc": [
+        "https://www.rowdyrooster.com/",
+        "https://www.rowdyrooster.com/faqs"
+      ],
+      "hello@rowdyrooster.com": [
+        "https://www.rowdyrooster.com/",
+        "https://www.rowdyrooster.com/faqs"
+      ],
+      "press@uafoods.nyc": [
+        "https://www.rowdyrooster.com/",
+        "https://www.rowdyrooster.com/faqs"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.rowdyrooster.com/",
+        "status": "ok",
+        "emails": [
+          "events@uafoods.nyc",
+          "hello@rowdyrooster.com",
+          "press@uafoods.nyc"
+        ]
+      },
+      {
+        "url": "https://www.rowdyrooster.com/faqs",
+        "status": "ok",
+        "emails": [
+          "events@uafoods.nyc",
+          "hello@rowdyrooster.com",
+          "press@uafoods.nyc"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

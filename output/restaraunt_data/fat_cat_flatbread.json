@@ -169,13 +169,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM"
+      "Monday: 11:00 AM – 8:30 PM",
+      "Tuesday: 11:00 AM – 8:30 PM",
+      "Wednesday: 11:00 AM – 8:30 PM",
+      "Thursday: 11:00 AM – 8:30 PM",
+      "Friday: 11:00 AM – 8:30 PM",
+      "Saturday: 11:00 AM – 8:30 PM",
+      "Sunday: 11:00 AM – 8:30 PM"
     ]
   },
   "delivery": true,
@@ -278,13 +278,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM"
+      "Monday: 11:00 AM – 8:30 PM",
+      "Tuesday: 11:00 AM – 8:30 PM",
+      "Wednesday: 11:00 AM – 8:30 PM",
+      "Thursday: 11:00 AM – 8:30 PM",
+      "Friday: 11:00 AM – 8:30 PM",
+      "Saturday: 11:00 AM – 8:30 PM",
+      "Sunday: 11:00 AM – 8:30 PM"
     ]
   },
   "photos": [
@@ -387,7 +387,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkbis26c5CSe4DAhHAcWSONOrmdcW4oIK41VP2uM1ZscAvx_J_=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "The flat bread was really great! It\u2019s freshly made to order and very crispy and savory! We stayed in flushing for 5 days. With so many awesome food choices we went to have the flat bread twice! That was how good it was!",
+      "text": "The flat bread was really great! It’s freshly made to order and very crispy and savory! We stayed in flushing for 5 days. With so many awesome food choices we went to have the flat bread twice! That was how good it was!",
       "time": 1743130777,
       "translated": false
     },
@@ -411,7 +411,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUp7XPOYmYajMgsnmnm5A9EC4Sx3fYIxmtfH0wiRxIJfnV6JJMC=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Crispy, thin, and flavorful with a slightly sweet flavor. First time having them and it won\u2019t be the last time!",
+      "text": "Crispy, thin, and flavorful with a slightly sweet flavor. First time having them and it won’t be the last time!",
       "time": 1742908897,
       "translated": false
     },
@@ -454,5 +454,13 @@
   "utc_offset": -240,
   "vicinity": "Foot Court #6, 133-35, Roosevelt Ave, Flushing",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:07.855008+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:07.855008+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:46.163844+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

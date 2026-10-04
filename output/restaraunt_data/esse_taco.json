@@ -1,0 +1,76 @@
+{
+  "adr_address": "<span class=\"street-address\">219 Bedford Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11211-3211</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "219 Bedford Ave, Brooklyn, NY 11211, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7166492,
+      "lng": -73.95881000000001
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7179159802915,
+        "lng": -73.9576246697085
+      },
+      "southwest": {
+        "lat": 40.7152180197085,
+        "lng": -73.9603226302915
+      }
+    }
+  },
+  "name": "Esse Taco",
+  "place_id": "ChIJNcghJthZwokRbXz53Nk9gU4",
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=5656870612878589037",
+  "website": "http://essetaco.com/",
+  "details_checked_at": "2026-10-03T21:59:12.329081+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:12.329081+00:00",
+  "emails": [
+    "info@essetaco.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:59.978587+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@essetaco.com": [
+        "https://www.essetaco.com/",
+        "https://www.essetaco.com/about/",
+        "https://www.essetaco.com/location/esse-taco/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.essetaco.com/",
+        "status": "ok",
+        "emails": [
+          "info@essetaco.com"
+        ]
+      },
+      {
+        "url": "https://www.essetaco.com/about/",
+        "status": "ok",
+        "emails": [
+          "info@essetaco.com"
+        ]
+      },
+      {
+        "url": "https://www.essetaco.com/location/esse-taco/",
+        "status": "ok",
+        "emails": [
+          "info@essetaco.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.essetaco.com/",
+      "https://www.essetaco.com/about/",
+      "https://www.essetaco.com/location/esse-taco/"
+    ]
+  }
+}

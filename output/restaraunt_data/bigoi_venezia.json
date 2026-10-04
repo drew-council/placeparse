@@ -161,13 +161,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -274,13 +274,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -431,7 +431,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImEdCikB_anBekZdW9p3PVd18_M4aEaqPcMl9Ao6G6De5HZw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Lovely Pasta, the Flavour is Authentic\nAnd Pasta is Freshly homemade at the place \ud83d\udc9b.\nPrice is reasonable, When i am there crowd customer.\n\nFor sure the Owner Mr Sebastian is really Friendly\nStaff Ms Aping is Cheerfull, also Chef Mr Filipe \"Aglio Olio\" is Delicious...",
+      "text": "Lovely Pasta, the Flavour is Authentic\nAnd Pasta is Freshly homemade at the place 💛.\nPrice is reasonable, When i am there crowd customer.\n\nFor sure the Owner Mr Sebastian is really Friendly\nStaff Ms Aping is Cheerfull, also Chef Mr Filipe \"Aglio Olio\" is Delicious...",
       "time": 1743634596,
       "translated": false
     }
@@ -456,8 +456,40 @@
   "vicinity": "1415 2nd Ave, New York",
   "website": "http://www.bigoivenezia.com/",
   "emails": [
-    "email@example.com",
-    "contact@bigoivenezia.com"
+    "contact@bigoivenezia.com",
+    "email@example.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:04:45.218360+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:45.218360+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:09.837191+00:00",
+    "outcome": "found",
+    "sources": {
+      "contact@bigoivenezia.com": [
+        "https://bigoivenezia.com/",
+        "https://bigoivenezia.com/new-york-manhattan-bigoi-venezia-about"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://bigoivenezia.com/",
+        "status": "ok",
+        "emails": [
+          "contact@bigoivenezia.com"
+        ]
+      },
+      {
+        "url": "https://bigoivenezia.com/new-york-manhattan-bigoi-venezia-about",
+        "status": "ok",
+        "emails": [
+          "contact@bigoivenezia.com"
+        ]
+      },
+      {
+        "url": "https://bigoivenezia.com/new-york-manhattan-bigoi-venezia-events",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

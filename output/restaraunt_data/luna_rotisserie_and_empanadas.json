@@ -160,13 +160,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -273,13 +273,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -382,7 +382,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpLDXfHy2ngW2sX7zFYIe4ieYSRrsYI_4N0ylK1N2rdRcvBxI=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "This time up on the plate was Luna's Restaurant. Highlighted by their sensational Peruvian chicken, \"Pollo a la Brasa.\" This wasn't just any rotisserie chicken; it was a masterclass in flavor\u2014perfectly marinated, incredibly juicy with a delightful smoky char, and wonderfully crisp skin. The accompanying sides of Spicy bacon collards and Black bean coconut rice were inspired choices, and the vibrant Aji Verde and zesty Aji Amarillo sauces elevated every bite to a new level of culinary enjoyment.\n\nDon't miss the chance to try one of their expertly crafted Strawberry or Mango Mojitos from the bar. Luna's offers ample indoor and bar seating, along with charming sidewalk options, all within a short walk of public parking. Whether you're seeking a cozy date night or a lively family dinner, Luna's provides an excellent dining experience. Definitely on the next date night out in Durham. Great Job Luna\u2019s",
+      "text": "This time up on the plate was Luna's Restaurant. Highlighted by their sensational Peruvian chicken, \"Pollo a la Brasa.\" This wasn't just any rotisserie chicken; it was a masterclass in flavor—perfectly marinated, incredibly juicy with a delightful smoky char, and wonderfully crisp skin. The accompanying sides of Spicy bacon collards and Black bean coconut rice were inspired choices, and the vibrant Aji Verde and zesty Aji Amarillo sauces elevated every bite to a new level of culinary enjoyment.\n\nDon't miss the chance to try one of their expertly crafted Strawberry or Mango Mojitos from the bar. Luna's offers ample indoor and bar seating, along with charming sidewalk options, all within a short walk of public parking. Whether you're seeking a cozy date night or a lively family dinner, Luna's provides an excellent dining experience. Definitely on the next date night out in Durham. Great Job Luna’s",
       "time": 1747751978,
       "translated": false
     },
@@ -455,9 +455,43 @@
   "website": "http://www.lunarotisserie.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "infodurham@lunarotisserie.com",
     "email@example.com",
-    "infocarrboro@lunarotisserie.com"
+    "infocarrboro@lunarotisserie.com",
+    "infodurham@lunarotisserie.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:34.934508+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:34.934508+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:19.081847+00:00",
+    "outcome": "found",
+    "sources": {
+      "infodurham@lunarotisserie.com": [
+        "https://www.lunarotisserie.com/",
+        "https://www.lunarotisserie.com/about"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.lunarotisserie.com/",
+        "status": "ok",
+        "emails": [
+          "infodurham@lunarotisserie.com"
+        ]
+      },
+      {
+        "url": "https://www.lunarotisserie.com/about",
+        "status": "ok",
+        "emails": [
+          "infodurham@lunarotisserie.com"
+        ]
+      },
+      {
+        "url": "https://www.lunarotisserie.com/location",
+        "status": "HTTP_404",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.lunarotisserie.com/"
+    ]
+  }
 }

@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
     ]
   },
   "dine_in": true,
@@ -260,13 +260,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
     ]
   },
   "photos": [
@@ -403,7 +403,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4nRKE7z0KY2Nhh72da0JrqWgfiBF5x71acYYxDKqIp46dcXo=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "a year ago",
-      "text": "A very nice market with a bunch of food stalls everywhere inside the google building. I got the fish and chips. Also the chicken sandwich with salmon roll on the side. I don\u2019t recommend getting the salmon, it\u2019s pricey and it\u2019s not that good. Total came out around $48~.",
+      "text": "A very nice market with a bunch of food stalls everywhere inside the google building. I got the fish and chips. Also the chicken sandwich with salmon roll on the side. I don’t recommend getting the salmon, it’s pricey and it’s not that good. Total came out around $48~.",
       "time": 1718297671,
       "translated": false
     },
@@ -415,7 +415,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrR1_gLlO6tj3ZToEpcdf6oFW5ejAIQZmR_uiieZWBC4makLgwFg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "A nice market to walk around, all the stalls smelled very good but we didn\u2019t personally order any food to try. We passed through and took the elevator up to the Pier\u2019s rooftop park.\n\nThe building itself is huge, we didn\u2019t go all the way back to the bar, which had signs pointing further past the market and elevator bay.\n\nThere were a decent amount of people, and one cute dog, while we were there on a Friday afternoon. The staff was helpful and positioned around the market to answer any questions if you have any.",
+      "text": "A nice market to walk around, all the stalls smelled very good but we didn’t personally order any food to try. We passed through and took the elevator up to the Pier’s rooftop park.\n\nThe building itself is huge, we didn’t go all the way back to the bar, which had signs pointing further past the market and elevator bay.\n\nThere were a decent amount of people, and one cute dog, while we were there on a Friday afternoon. The staff was helpful and positioned around the market to answer any questions if you have any.",
       "time": 1741989138,
       "translated": false
     }
@@ -434,8 +434,75 @@
   "website": "https://pier57nyc.com/market-57",
   "wheelchair_accessible_entrance": true,
   "emails": [
+    "Pier57Leasing@jamestownlp.com",
     "pier57events@jamestownlp.com",
-    "Pier57Leasing@jamestownlp.com"
+    "pier57info@jamestownlp.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:37.386345+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:37.386345+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:21.237329+00:00",
+    "outcome": "found",
+    "sources": {
+      "pier57info@jamestownlp.com": [
+        "https://pier57nyc.com/market-57/",
+        "https://pier57nyc.com/about/",
+        "https://pier57nyc.com/events/",
+        "https://pier57nyc.com/location/",
+        "https://pier57nyc.com/bookings/privateevents/",
+        "https://pier57nyc.com/events/?events-category=market-57-food-hall"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://pier57nyc.com/market-57/",
+        "status": "ok",
+        "emails": [
+          "pier57info@jamestownlp.com"
+        ]
+      },
+      {
+        "url": "https://pier57nyc.com/about/",
+        "status": "ok",
+        "emails": [
+          "pier57info@jamestownlp.com"
+        ]
+      },
+      {
+        "url": "https://pier57nyc.com/events/",
+        "status": "ok",
+        "emails": [
+          "pier57info@jamestownlp.com"
+        ]
+      },
+      {
+        "url": "https://pier57nyc.com/location/",
+        "status": "ok",
+        "emails": [
+          "pier57info@jamestownlp.com"
+        ]
+      },
+      {
+        "url": "https://pier57nyc.com/bookings/privateevents/",
+        "status": "ok",
+        "emails": [
+          "pier57info@jamestownlp.com"
+        ]
+      },
+      {
+        "url": "https://pier57nyc.com/events/?events-category=market-57-food-hall",
+        "status": "ok",
+        "emails": [
+          "pier57info@jamestownlp.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://pier57nyc.com/market-57/",
+      "https://pier57nyc.com/about/",
+      "https://pier57nyc.com/events/",
+      "https://pier57nyc.com/location/",
+      "https://pier57nyc.com/bookings/privateevents/",
+      "https://pier57nyc.com/events/?events-category=market-57-food-hall"
+    ]
+  }
 }

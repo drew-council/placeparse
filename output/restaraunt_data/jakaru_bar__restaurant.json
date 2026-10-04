@@ -1,0 +1,55 @@
+{
+  "adr_address": "<span class=\"street-address\">108-59 Roosevelt Ave</span>, <span class=\"locality\">Corona</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11368</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "108-59 Roosevelt Ave, Corona, NY 11368, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7515473,
+      "lng": -73.8567235
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.75280198029149,
+        "lng": -73.8553251197085
+      },
+      "southwest": {
+        "lat": 40.75010401970849,
+        "lng": -73.8580230802915
+      }
+    }
+  },
+  "name": "Jakaru Bar & Restaurant",
+  "place_id": "ChIJR34FpRFfwokR-a7L1v4R5fw",
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=18222991253447618297",
+  "website": "https://jakarumenu.my.canva.site/",
+  "details_checked_at": "2026-10-03T21:59:37.307147+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:37.307147+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:10.681944+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://jakarumenu.my.canva.site/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://jakarumenu.my.canva.site/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:09:17.134256+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "adr_address": "<span class=\"street-address\">263 E 10th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10009</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "263 E 10th St, New York, NY 10009, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7285288,
+      "lng": -73.9832614
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7297859302915,
+        "lng": -73.98199166970849
+      },
+      "southwest": {
+        "lat": 40.72708796970851,
+        "lng": -73.98468963029151
+      }
+    }
+  },
+  "name": "From Lucie",
+  "place_id": "ChIJFylaePFZwokRfRdNdH7ujXI",
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=8254515918924486525",
+  "website": "http://www.fromlucie.com/",
+  "details_checked_at": "2026-10-03T21:59:27.420797+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:27.420797+00:00",
+  "emails": [
+    "orders@fromlucie.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:04.572675+00:00",
+    "outcome": "found",
+    "sources": {
+      "orders@fromlucie.com": [
+        "https://fromlucie.com/",
+        "https://fromlucie.com/?info=1",
+        "https://fromlucie.com/pages/faqs"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://fromlucie.com/",
+        "status": "ok",
+        "emails": [
+          "orders@fromlucie.com"
+        ]
+      },
+      {
+        "url": "https://fromlucie.com/?info=1",
+        "status": "ok",
+        "emails": [
+          "orders@fromlucie.com"
+        ]
+      },
+      {
+        "url": "https://fromlucie.com/pages/faqs",
+        "status": "ok",
+        "emails": [
+          "orders@fromlucie.com"
+        ]
+      },
+      {
+        "url": "https://fromlucie.com/pages/lucies-story",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
+}

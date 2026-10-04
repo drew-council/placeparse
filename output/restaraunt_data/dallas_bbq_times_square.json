@@ -176,13 +176,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
     ]
   },
   "delivery": true,
@@ -289,13 +289,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
     ]
   },
   "photos": [
@@ -374,7 +374,7 @@
     {
       "height": 4032,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/104623193526700452053\">\ud5c8\uc18c\ub2f4</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/104623193526700452053\">허소담</a>"
       ],
       "photo_reference": "ATKogpdblUIpQ6SwWS1C1C90Z7jUQ_3Guf3pH1yIFaW7Q7DJ541GsUshqc0ZJeVuvPwxtnt-Daj0rcbM-0shAqOaafXcEA91QUzpz2JgJEg0uYGLQHzacCmmqVcoeDFZire3UYhZO6LZpvIlGKOwBP-55IvIxIF-7rVu2cw_JU5vJoD8c5bxfrd2PiWzIuyKGcQFZvqbn77a_QXbG0jB4cJMGQ0PbdHVpXjXgZGF8xieFKCkuLU4_KM3iHL92vzvZyZAHhoWAqxMB0JAPzpfrR72iP98DaTMt0zfDXhqjqT3SVQkNZEMzEeBMEc9rEz91bK9NzkHz2QOJAzSTJ9ZSu0RoHImjKg7gYuBuAoZaf4udHmZ1db1fC2qPdnBzhA6q1LEJbF-mDMvCc8YZEMfVQ515t_hsaDeJSHzNfyj43-5WD9PrQ",
       "width": 3024
@@ -410,7 +410,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrxVJ-WGyEDuumAi2E2o4Z2Lq1y65ZTdOlEa1LrmfsbERAKfOEVQ=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 1,
       "relative_time_description": "a month ago",
-      "text": "The service was horrible\u2026 from management to the waiters. HORRIBLE!!!\n\nThe food on the other hand was pretty good. The DRINKS, were good and strong and worth every single penny lol.\n\nI would go back just for the drinks (especially if they can be ordered to go). Other than that\u2026 I wouldn\u2019t return or recommend",
+      "text": "The service was horrible… from management to the waiters. HORRIBLE!!!\n\nThe food on the other hand was pretty good. The DRINKS, were good and strong and worth every single penny lol.\n\nI would go back just for the drinks (especially if they can be ordered to go). Other than that… I wouldn’t return or recommend",
       "time": 1746359899,
       "translated": false
     },
@@ -542,13 +542,13 @@
       ],
       "type": "DELIVERY",
       "weekday_text": [
-        "Monday: 12:00\u2009\u2013\u200911:30\u202fPM",
-        "Tuesday: 12:00\u2009\u2013\u200911:30\u202fPM",
-        "Wednesday: 12:00\u2009\u2013\u200911:30\u202fPM",
-        "Thursday: 12:00\u2009\u2013\u200911:30\u202fPM",
-        "Friday: 12:00\u2009\u2013\u200911:30\u202fPM",
-        "Saturday: 12:00\u2009\u2013\u200911:30\u202fPM",
-        "Sunday: 12:00\u2009\u2013\u200911:30\u202fPM"
+        "Monday: 12:00 – 11:30 PM",
+        "Tuesday: 12:00 – 11:30 PM",
+        "Wednesday: 12:00 – 11:30 PM",
+        "Thursday: 12:00 – 11:30 PM",
+        "Friday: 12:00 – 11:30 PM",
+        "Saturday: 12:00 – 11:30 PM",
+        "Sunday: 12:00 – 11:30 PM"
       ]
     }
   ],
@@ -572,5 +572,79 @@
   "vicinity": "241 W 42nd St, New York",
   "website": "https://dallasbbq.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:00.519244+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:00.519244+00:00",
+  "emails": [
+    "collabs@dallasbbq.com",
+    "hello@dallasbbq.com",
+    "marketing@dallasbbq.com",
+    "rosa@dallasbbq.com",
+    "saha@dallasbbq.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:27.255015+00:00",
+    "outcome": "found",
+    "sources": {
+      "collabs@dallasbbq.com": [
+        "https://www.dallasbbq.com/contact"
+      ],
+      "hello@dallasbbq.com": [
+        "https://www.dallasbbq.com/contact"
+      ],
+      "marketing@dallasbbq.com": [
+        "https://www.dallasbbq.com/contact"
+      ],
+      "rosa@dallasbbq.com": [
+        "https://www.dallasbbq.com/contact"
+      ],
+      "saha@dallasbbq.com": [
+        "https://www.dallasbbq.com/contact"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.dallasbbq.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.dallasbbq.com/contact",
+        "status": "ok",
+        "emails": [
+          "collabs@dallasbbq.com",
+          "hello@dallasbbq.com",
+          "marketing@dallasbbq.com",
+          "rosa@dallasbbq.com",
+          "saha@dallasbbq.com"
+        ]
+      },
+      {
+        "url": "https://www.dallasbbq.com/events",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.dallasbbq.com/reservations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.dallasbbq.com/special-events",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.dallasbbq.com/times-square",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.dallasbbq.com/",
+      "https://www.dallasbbq.com/contact",
+      "https://www.dallasbbq.com/events",
+      "https://www.dallasbbq.com/reservations",
+      "https://www.dallasbbq.com/special-events",
+      "https://www.dallasbbq.com/times-square"
+    ]
+  }
 }

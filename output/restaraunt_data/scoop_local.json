@@ -218,7 +218,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5S_vWcR-S-Dong7b8up0_mUNTCbVaA2D5R1fnwNLo1eHjfvo=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "Excellent service and some of the best ice cream we\u2019ve ever had which says a lot since ice cream should be one of the 4 major food groups. Creamy, rich but not overly sweet.  We\u2019ve been here several times and have tried most of the flavors and they have all been wonderful. Skip the other places and seriously go here!",
+      "text": "Excellent service and some of the best ice cream we’ve ever had which says a lot since ice cream should be one of the 4 major food groups. Creamy, rich but not overly sweet.  We’ve been here several times and have tried most of the flavors and they have all been wonderful. Skip the other places and seriously go here!",
       "time": 1696125372,
       "translated": false
     },
@@ -230,7 +230,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIcCamIQodAyRfhsDEzfF_KBzPV-de8IxZeC0O-OG2f9zsMW9k=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "2 years ago",
-      "text": "Incredible ice cream! Got the strawberry flavor which was made with real strawberries. Not too heavy, felt very refreshed after! The human working the booth was very kind too! They let me try a bunch of different flavors and then helped me decide which one which was really helpful. Can\u2019t wait to try the other flavors! \ud83e\udd24",
+      "text": "Incredible ice cream! Got the strawberry flavor which was made with real strawberries. Not too heavy, felt very refreshed after! The human working the booth was very kind too! They let me try a bunch of different flavors and then helped me decide which one which was really helpful. Can’t wait to try the other flavors! 🤤",
       "time": 1686967188,
       "translated": false
     },
@@ -258,5 +258,13 @@
   "user_ratings_total": 20,
   "utc_offset": -240,
   "vicinity": "900 W Main St, Durham",
-  "business_status_checked_at": "2026-10-03T20:06:05.390862+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:05.390862+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:55.745838+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

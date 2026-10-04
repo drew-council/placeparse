@@ -149,12 +149,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
+      "Monday: 10:00 AM – 3:30 PM",
+      "Tuesday: 10:00 AM – 3:30 PM",
+      "Wednesday: 10:00 AM – 3:30 PM",
+      "Thursday: 10:00 AM – 3:30 PM",
+      "Friday: 10:00 AM – 3:30 PM",
+      "Saturday: 10:00 AM – 4:30 PM",
       "Sunday: Closed"
     ]
   },
@@ -245,12 +245,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
+      "Monday: 10:00 AM – 3:30 PM",
+      "Tuesday: 10:00 AM – 3:30 PM",
+      "Wednesday: 10:00 AM – 3:30 PM",
+      "Thursday: 10:00 AM – 3:30 PM",
+      "Friday: 10:00 AM – 3:30 PM",
+      "Saturday: 10:00 AM – 4:30 PM",
       "Sunday: Closed"
     ]
   },
@@ -354,7 +354,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBK0-9aTU5ibB0MfwEYOp3quNRp0K7y1IxK6vzLpt_wFCX3Q=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "My favorite lunch spot in the area. Sam\u2019s falafel sandwich enjoyed on a sunny bench is often exactly what I need. Their service is always super friendly. The falafel is very juicy (I often find falafel too dry but theirs are always perfect), and I love how they stuff them so I always have the perfect balance of bread / veggies / falafel / sauce with every bite until the last!!\nHope they will remain where they are for the foreseeable future. Thanks team for making my lunch break every single time!",
+      "text": "My favorite lunch spot in the area. Sam’s falafel sandwich enjoyed on a sunny bench is often exactly what I need. Their service is always super friendly. The falafel is very juicy (I often find falafel too dry but theirs are always perfect), and I love how they stuff them so I always have the perfect balance of bread / veggies / falafel / sauce with every bite until the last!!\nHope they will remain where they are for the foreseeable future. Thanks team for making my lunch break every single time!",
       "time": 1746030236,
       "translated": false
     },
@@ -378,7 +378,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXlGudjxQ_miJOGl9IXy6hFe6dwvNAPw6RGChxMPIGOYHQVQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "11 months ago",
-      "text": "UPDATE 7/23/2024:\nSandwich is $8 and platter $10\nFalafel tastes sour? I don\u2019t know if it\u2019s gone bad or maybe another ingredient but it was never this tangy.\n\n$7 sandwich with 100% fresh ingredients!!! Best bang for buck lunch in FiDi hands down",
+      "text": "UPDATE 7/23/2024:\nSandwich is $8 and platter $10\nFalafel tastes sour? I don’t know if it’s gone bad or maybe another ingredient but it was never this tangy.\n\n$7 sandwich with 100% fresh ingredients!!! Best bang for buck lunch in FiDi hands down",
       "time": 1721758377,
       "translated": false
     },
@@ -402,7 +402,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLT6RjO4nh0GMvYRnNNFbdKWY-tALC3DgzXAiWcpq3UMCqG1g=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Best place in New York for Falafel \ud83e\udd24\ud83d\ude0b\ud83d\udc4d",
+      "text": "Best place in New York for Falafel 🤤😋👍",
       "time": 1747017861,
       "translated": false
     }
@@ -423,5 +423,13 @@
   "user_ratings_total": 263,
   "utc_offset": -240,
   "vicinity": "100 Cedar St #90, New York",
-  "business_status_checked_at": "2026-10-03T20:06:03.350846+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:03.350846+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:52.371410+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

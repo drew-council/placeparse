@@ -169,13 +169,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 1:00 AM",
+      "Friday: 11:00 AM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 11:00 AM – 11:00 PM"
     ]
   },
   "delivery": true,
@@ -201,7 +201,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 914-275-0840",
-  "name": "D\u00f6ner Haus",
+  "name": "Döner Haus",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -277,20 +277,20 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 1:00 AM",
+      "Friday: 11:00 AM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 11:00 AM – 11:00 PM"
     ]
   },
   "photos": [
     {
       "height": 1096,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/117067008598441687112\">D\u00f6ner Haus</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/117067008598441687112\">Döner Haus</a>"
       ],
       "photo_reference": "ATKogpes5YibEJ9Vizb-StsohzULEnzM5Td-iZQ8rDydUjOgrF0-wH08AgPJTFQ-NspopokeBBzmcXZAgdq7uNfqHuCzsdLCmRA93J6epzOzUHXVfaB7h1l5v8fgNHOsCF2AlqxHvSRVsvd6B17djSgXg8ngfxqpWZEUbZ6uzTClWMTCCA4PAMR9OoZut4mpJ30dne4t34MxxC7t34PMBv8wRVsQ0ltfF3YfivGiwws34jpVHA55TLRVhdnyauEtfbT8VhPjgN8_yfuzfg_VqpSWppkMdE0VyIB1DKJx68xnDNokXg",
       "width": 1552
@@ -298,7 +298,7 @@
     {
       "height": 3200,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/117067008598441687112\">D\u00f6ner Haus</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/117067008598441687112\">Döner Haus</a>"
       ],
       "photo_reference": "ATKogpdLnZOcgTz_XnP3pgl-V2aTt9ywK0tVHc78n5zazZLyd68BYg-_cxkpAaAe3hQ13fMtttvHgnCrpUVqRxFsFmCsoxPxWfXi4hLzryjEbd_H_IMOfbtZuD3yYsFv-ZoZ8NpGRws_3c-wEhCierLOFeNsOwCy3CsCdIQex99Kn_3VPfcSJLnZAGSV4nnPCbBV3uDI5SU4FdqJxWIifDuC25weMiTPVUdO38k59Q2DJDBjB7gNNjIALW9EfYp4fwo55ozM1mgPtPLB8rSYV6-JLhkS25BzEjs_36KF_1buQaZZJw",
       "width": 4800
@@ -338,7 +338,7 @@
     {
       "height": 955,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/117067008598441687112\">D\u00f6ner Haus</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/117067008598441687112\">Döner Haus</a>"
       ],
       "photo_reference": "ATKogpe3opA0hEFjZ8f8uzJqWhUct-B1TVQ_FcYtRwUZMJc9t0a1LzVN0qx3_otLkKhwnlzQmYB-YpUn4oZyld0pj2d6W-hzsoBtnPDHEPy03sxO89pbUD8cfO84FhSqIRTyKX0WgWOmw7Vq3XfH2uCL8osITToRoOxo9wLfMSevIJI5pepfghNRO0l7OxSv6klw7Tz00xVvD7b-8gIrfOL7mxHFfAfnbRvJTyq8jKqKc6e8SkmHlM07cpuYdRQxdJyNgmZOG1q3chwnlrPBwvjU008HuEs2Zca8nOskF-aY2YHDvA",
       "width": 751
@@ -362,7 +362,7 @@
     {
       "height": 3839,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/117067008598441687112\">D\u00f6ner Haus</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/117067008598441687112\">Döner Haus</a>"
       ],
       "photo_reference": "ATKogpcKL10JhihrnOS49pikHZfDlJllqQ_OhBo9E0NxtQalBDtmRh44npojKPnb9aAp6rbfg69I1qTDzkSlOozC1SnJwFYXLs1dXlgIFif6uLEd7Icj6VyqbpyxG2ppzARg2hCAynIT33wAGRWBPUYFPWawo8tx7h4fDfxoUdNLEbUwTtvJcl1NtyP5QCv9d2fw09ja0SOYeVrR3wokNhHa-bP73gfjspciwRByJWkHg6A35I-hkoBloKQrms99H9ReBaAePVyg3t2xJHRF7YNlnvw60emxSgDb3AlCieTpwCiNIA",
       "width": 4800
@@ -386,7 +386,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzvUNDe2jC5ruEo6SQJAqH_84t30ujyy6JPpXMzy4F_uSvNLFfrw=s128-c0x00000000-cc-rp-mo-ba8",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "D\u00f6ner Haus offers tasty, Berlin-inspired d\u00f6ner kebabs with juicy meat, fresh veggies, and crispy bread. The portions are generous, service is quick, and the modern setting adds to the experience. Great spot for a satisfying, casual meal with authentic flavors and good value.",
+      "text": "Döner Haus offers tasty, Berlin-inspired döner kebabs with juicy meat, fresh veggies, and crispy bread. The portions are generous, service is quick, and the modern setting adds to the experience. Great spot for a satisfying, casual meal with authentic flavors and good value.",
       "time": 1746728096,
       "translated": false
     },
@@ -410,7 +410,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlj4i0KCzNBBRY6VU8nGYFi9kGBcXdblpzXCMnTc6rSDqon3betw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "4 months ago",
-      "text": "We usually love Doner Haus. Great sandwiches with great flavor.\n\nToday, after picking up my order and opening it up at home to enjoy my sandwich in privacy I took a bite to find something I could not chew. It was a burnt piece of PLASTIC INSIDE my sandwich. I called doner haus and an automated machine answered instead. I tried to complain on their website but they have not replied and you cannot upload photos on to their website. I\u2019m posting this on everywhere I can review because this is unacceptable!!! The least doner haus can do is issue a public apology and a refund.\nDo not eat from this place unless you want to die from a serious choking hazard! I can only imagine the deplorable kitchen conditions if this huge piece of plastic made it into the sandwich.",
+      "text": "We usually love Doner Haus. Great sandwiches with great flavor.\n\nToday, after picking up my order and opening it up at home to enjoy my sandwich in privacy I took a bite to find something I could not chew. It was a burnt piece of PLASTIC INSIDE my sandwich. I called doner haus and an automated machine answered instead. I tried to complain on their website but they have not replied and you cannot upload photos on to their website. I’m posting this on everywhere I can review because this is unacceptable!!! The least doner haus can do is issue a public apology and a refund.\nDo not eat from this place unless you want to die from a serious choking hazard! I can only imagine the deplorable kitchen conditions if this huge piece of plastic made it into the sandwich.",
       "time": 1739217734,
       "translated": false
     },
@@ -422,7 +422,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMtpnZwPg3chlTtsMSo7cLIb8A6H2HVm2h_PNpa_K53x7Jgp2A=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "I LOVED this place!! The sandwich and the loaded fries were to die for, I\u2019m so sad we don\u2019t have a location in my city. This is definitely going to be a go-to for me every time I\u2019m in New York.",
+      "text": "I LOVED this place!! The sandwich and the loaded fries were to die for, I’m so sad we don’t have a location in my city. This is definitely going to be a go-to for me every time I’m in New York.",
       "time": 1741659933,
       "translated": false
     },
@@ -434,7 +434,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyyXz4-OZo7iSR697p1s-bxbote5VJN86knA32i3iZFyAhRn1X=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "I live in the suburbs of Philly and originally come from Turkey, so I know a good d\u00f6ner when I taste one\u2014and D\u00f6ner Haus nails it! Their Berlin-style d\u00f6ner is absolutely delicious and reminds me of the ones I\u2019ve had back home and in Germany. The meat is flavorful, the bread is perfect, and the sauces take it to the next level. Every time I\u2019m in New York, I make sure to stop by\u2014it\u2019s a must! Highly recommend for anyone craving authentic d\u00f6ner.",
+      "text": "I live in the suburbs of Philly and originally come from Turkey, so I know a good döner when I taste one—and Döner Haus nails it! Their Berlin-style döner is absolutely delicious and reminds me of the ones I’ve had back home and in Germany. The meat is flavorful, the bread is perfect, and the sauces take it to the next level. Every time I’m in New York, I make sure to stop by—it’s a must! Highly recommend for anyone craving authentic döner.",
       "time": 1748207944,
       "translated": false
     }
@@ -458,5 +458,32 @@
   "vicinity": "240 E 14th St, New York",
   "website": "https://www.doner.haus/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:02.118095+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:02.118095+00:00",
+  "emails": [
+    "info@doner.haus"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:30.837253+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@doner.haus": [
+        "https://doner.haus/contact"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://doner.haus/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://doner.haus/contact",
+        "status": "ok",
+        "emails": [
+          "info@doner.haus"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

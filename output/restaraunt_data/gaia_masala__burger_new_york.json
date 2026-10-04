@@ -1,0 +1,86 @@
+{
+  "adr_address": "<span class=\"street-address\">33-11 Broadway</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11106-1860</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "33-11 Broadway, Astoria, NY 11106, USA",
+  "formatted_phone_number": "(718) 889-0530",
+  "geometry": {
+    "location": {
+      "lat": 40.7611833,
+      "lng": -73.9232347
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.76246013029149,
+        "lng": -73.9219575697085
+      },
+      "southwest": {
+        "lat": 40.75976216970849,
+        "lng": -73.9246555302915
+      }
+    }
+  },
+  "international_phone_number": "+1 718-889-0530",
+  "name": "Gaia Masala & Burger New York",
+  "place_id": "ChIJk6U4fq1fwokRzFzfiyyikPo",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=18055109218337250508",
+  "website": "https://gaiamasalaandburger.com/",
+  "details_checked_at": "2026-10-03T21:59:22.694850+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:22.694850+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:06.143888+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://gaiamasalaandburger.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://gaiamasalaandburger.com/contact",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://gaiamasalaandburger.com/locations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://gaiamasalaandburger.com/order-online?l=dHJ1ZQ==",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://gaiamasalaandburger.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://gaiamasalaandburger.com/contact",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://gaiamasalaandburger.com/locations",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://gaiamasalaandburger.com/",
+      "https://gaiamasalaandburger.com/contact",
+      "https://gaiamasalaandburger.com/locations",
+      "https://gaiamasalaandburger.com/order-online?l=dHJ1ZQ=="
+    ],
+    "browser_checked_at": "2026-10-03T22:08:52.769984+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

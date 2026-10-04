@@ -161,13 +161,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
     ]
   },
   "delivery": true,
@@ -274,13 +274,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
     ]
   },
   "photos": [
@@ -383,7 +383,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgibz-3opor1EsQy8QeTklc7tjJXvYmGheshPrW9BJdR3EmqjN_A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "Very cozy, intimate caf\u00e9. On a Sunday morning at 11 o\u2019clock, waited online for about 15 minutes before having our order taken. Purchase two matcha tiramisu lattes. They were absolutely perfect. The perfect amount of sweetness, thick, decadent, richness, and sprinkle of Matcha on top. Didn\u2019t try any of the food, but it seems like one girl was working the register and making all these amazing drinks by hand. By about 1230, the line had seemed to die down, but it was very consistent and long for a good hour. Would def come back.",
+      "text": "Very cozy, intimate café. On a Sunday morning at 11 o’clock, waited online for about 15 minutes before having our order taken. Purchase two matcha tiramisu lattes. They were absolutely perfect. The perfect amount of sweetness, thick, decadent, richness, and sprinkle of Matcha on top. Didn’t try any of the food, but it seems like one girl was working the register and making all these amazing drinks by hand. By about 1230, the line had seemed to die down, but it was very consistent and long for a good hour. Would def come back.",
       "time": 1737340632,
       "translated": false
     },
@@ -395,7 +395,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqS6w2C8kyD-XoLRXukVDJiBwrLVc3p1n8Cpq_JwvoguNPz4NA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "best tiramisu latte i\u2019ve had in the city! marcaspone foam is mixed into the latte itself rather than a thick cold foam on top. sweet but not too sweet!",
+      "text": "best tiramisu latte i’ve had in the city! marcaspone foam is mixed into the latte itself rather than a thick cold foam on top. sweet but not too sweet!",
       "time": 1741484129,
       "translated": false
     },
@@ -407,7 +407,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuIrG96PYZmmMOL6eolayz2BJ6jmzxO6T1TyVxHDfCE7rtTotQ=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "7 months ago",
-      "text": "Best matcha latte in NYC! Very limited seating available but you can sit outside when the weather is nice. Sadly we didn\u2019t get to check out the rooftop. Will definitely be back to try the food options next time.",
+      "text": "Best matcha latte in NYC! Very limited seating available but you can sit outside when the weather is nice. Sadly we didn’t get to check out the rooftop. Will definitely be back to try the food options next time.",
       "time": 1731952070,
       "translated": false
     },
@@ -419,7 +419,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWL4jOApWSw_MnT-Iyt2GmTb-94qLUeCH_msrUV3mGSwp4ic_w=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "6 months ago",
-      "text": "I knew it was going to be good but I wasn\u2019t prepared for it being THIS GOOD!!!\n\nI tried their Chasu-don bento box and it was so mouthwateringly good that I wolfed it down before I remembered to take a picture. I haven\u2019t had chasu this delicious and perfectly cooked before! Delectable! I did take a picture of my Onigiri (rice balls) which were also insanely tasty! Worth the price and the visit. Their cold brew is wonderful too. I\u2019m so glad I found this spot! In this Brooklyn area of all places!",
+      "text": "I knew it was going to be good but I wasn’t prepared for it being THIS GOOD!!!\n\nI tried their Chasu-don bento box and it was so mouthwateringly good that I wolfed it down before I remembered to take a picture. I haven’t had chasu this delicious and perfectly cooked before! Delectable! I did take a picture of my Onigiri (rice balls) which were also insanely tasty! Worth the price and the visit. Their cold brew is wonderful too. I’m so glad I found this spot! In this Brooklyn area of all places!",
       "time": 1734183149,
       "translated": false
     },
@@ -431,7 +431,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpV1egEG6alIyxtBpxMIVDdHij-3Jdub6DlEAsmKXWm1kdXQVP=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "This place rocks! They make delicious authentic Japanese bentos\u2026 made me super nostalgic for Japan (I used to go there every summer). I ordered the karaage bento + iced yuzu ginger honey mint tea",
+      "text": "This place rocks! They make delicious authentic Japanese bentos… made me super nostalgic for Japan (I used to go there every summer). I ordered the karaage bento + iced yuzu ginger honey mint tea",
       "time": 1738952366,
       "translated": false
     }
@@ -456,5 +456,36 @@
   "vicinity": "95 Montrose Ave, Brooklyn",
   "website": "https://www.brooklynballfactory.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:47.679071+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:47.679071+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:13.495667+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.brooklynballfactory.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.brooklynballfactory.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.brooklynballfactory.com/contact",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.brooklynballfactory.com/aboutus",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:07:49.038514+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

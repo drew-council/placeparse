@@ -222,13 +222,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u20099:45\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u20099:45\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u20099:45\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u20099:45\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:15\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20099:45\u202fPM"
+      "Monday: 12:00 – 2:45 PM, 5:00 – 9:45 PM",
+      "Tuesday: 12:00 – 2:45 PM, 5:00 – 9:45 PM",
+      "Wednesday: 12:00 – 2:45 PM, 5:00 – 9:45 PM",
+      "Thursday: 12:00 – 2:45 PM, 5:00 – 9:45 PM",
+      "Friday: 12:00 – 2:45 PM, 5:00 – 10:15 PM",
+      "Saturday: 12:00 – 10:15 PM",
+      "Sunday: 12:00 – 9:45 PM"
     ]
   },
   "delivery": true,
@@ -381,13 +381,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u20099:45\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u20099:45\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u20099:45\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u20099:45\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:15\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20099:45\u202fPM"
+      "Monday: 12:00 – 2:45 PM, 5:00 – 9:45 PM",
+      "Tuesday: 12:00 – 2:45 PM, 5:00 – 9:45 PM",
+      "Wednesday: 12:00 – 2:45 PM, 5:00 – 9:45 PM",
+      "Thursday: 12:00 – 2:45 PM, 5:00 – 9:45 PM",
+      "Friday: 12:00 – 2:45 PM, 5:00 – 10:15 PM",
+      "Saturday: 12:00 – 10:15 PM",
+      "Sunday: 12:00 – 9:45 PM"
     ]
   },
   "photos": [
@@ -502,7 +502,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAhz_ebMGE9AqKQYl-MdUQy5bQrtXPbZfDOR7JVO4hUhSTArH_=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "a week ago",
-      "text": "Lovely space, friendly staff, and great fresh food. I was especially pleased with the rolls \u2014 ordered the Ozakaya roll and it was great, but all the others also looked good and had creative ingredient sets. The raw fish was very fresh and delicious in all the sushi dishes. The chirashi bowl was large and had plenty of fresh fish, but at $39 is mediocre value. The chicken curry was good, but the rice it came with was a little overcooked. The staff were very efficient and, even without a reservation, we were able to get a table for 8 within 20 minutes on a weekday night. Overall, great spot! Patio and indoor dining available!",
+      "text": "Lovely space, friendly staff, and great fresh food. I was especially pleased with the rolls — ordered the Ozakaya roll and it was great, but all the others also looked good and had creative ingredient sets. The raw fish was very fresh and delicious in all the sushi dishes. The chirashi bowl was large and had plenty of fresh fish, but at $39 is mediocre value. The chicken curry was good, but the rice it came with was a little overcooked. The staff were very efficient and, even without a reservation, we were able to get a table for 8 within 20 minutes on a weekday night. Overall, great spot! Patio and indoor dining available!",
       "time": 1750435594,
       "translated": false
     },
@@ -514,7 +514,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGlADZlvJJaGuTAaEMsZpmxdkaY8c44z9Wna7PTLjBGAPF3Ew=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in the last week",
-      "text": "Absolutely loved our evening at Ozakaya! The cozy, authentic izakaya vibe is spot on and perfect for catching up with friends over great Japanese small plates. The mix of sushi and cooked items offers something for every palate, at very fair mid\u2011range prices. A must\u2011visit in Brooklyn!",
+      "text": "Absolutely loved our evening at Ozakaya! The cozy, authentic izakaya vibe is spot on and perfect for catching up with friends over great Japanese small plates. The mix of sushi and cooked items offers something for every palate, at very fair mid‑range prices. A must‑visit in Brooklyn!",
       "time": 1750557595,
       "translated": false
     },
@@ -526,7 +526,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVedGy_NFbUqoDWK8BeT6vkT49tPUtTDLFSXk--5FQ_zR1Ls0YQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "food was delicious!! ordered the mentaiko pasta, sake don, agedashi tofu, salmon ceviche, kurobuta sausage, hanabi roll, and yuzu highball. can\u2019t really complain about anything - everything was super flavorful. service was also attentive. they checked in often to make sure we were doing ok and food came out fairly quick. the seating space feels a bit awkward but other than that everything was wonderful. would definitely come back to try other items in the future!",
+      "text": "food was delicious!! ordered the mentaiko pasta, sake don, agedashi tofu, salmon ceviche, kurobuta sausage, hanabi roll, and yuzu highball. can’t really complain about anything - everything was super flavorful. service was also attentive. they checked in often to make sure we were doing ok and food came out fairly quick. the seating space feels a bit awkward but other than that everything was wonderful. would definitely come back to try other items in the future!",
       "time": 1749946865,
       "translated": false
     },
@@ -538,7 +538,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3zxLhpdfcbp2ihyRgBJxDsu3DjkJY5iCVapnclZeoscwbUSOf=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "this spot is a hidden gem if you\u2019re craving sushi. I absolutely loved everything and the service was amazing. the fishes were super fresh. I can\u2019t wait to come back for more!",
+      "text": "this spot is a hidden gem if you’re craving sushi. I absolutely loved everything and the service was amazing. the fishes were super fresh. I can’t wait to come back for more!",
       "time": 1747763461,
       "translated": false
     }
@@ -634,13 +634,13 @@
       ],
       "type": "LUNCH",
       "weekday_text": [
-        "Monday: 12:00\u2009\u2013\u20092:45\u202fPM",
-        "Tuesday: 12:00\u2009\u2013\u20092:45\u202fPM",
-        "Wednesday: 12:00\u2009\u2013\u20092:45\u202fPM",
-        "Thursday: 12:00\u2009\u2013\u20092:45\u202fPM",
-        "Friday: 12:00\u2009\u2013\u20092:45\u202fPM",
-        "Saturday: 12:00\u2009\u2013\u20095:00\u202fPM",
-        "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+        "Monday: 12:00 – 2:45 PM",
+        "Tuesday: 12:00 – 2:45 PM",
+        "Wednesday: 12:00 – 2:45 PM",
+        "Thursday: 12:00 – 2:45 PM",
+        "Friday: 12:00 – 2:45 PM",
+        "Saturday: 12:00 – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
       ]
     },
     {
@@ -733,13 +733,13 @@
       ],
       "type": "DINNER",
       "weekday_text": [
-        "Monday: 5:00\u2009\u2013\u20099:45\u202fPM",
-        "Tuesday: 5:00\u2009\u2013\u20099:45\u202fPM",
-        "Wednesday: 5:00\u2009\u2013\u20099:45\u202fPM",
-        "Thursday: 5:00\u2009\u2013\u20099:45\u202fPM",
-        "Friday: 5:00\u2009\u2013\u200910:15\u202fPM",
-        "Saturday: 5:00\u2009\u2013\u200910:15\u202fPM",
-        "Sunday: 5:00\u2009\u2013\u20099:45\u202fPM"
+        "Monday: 5:00 – 9:45 PM",
+        "Tuesday: 5:00 – 9:45 PM",
+        "Wednesday: 5:00 – 9:45 PM",
+        "Thursday: 5:00 – 9:45 PM",
+        "Friday: 5:00 – 10:15 PM",
+        "Saturday: 5:00 – 10:15 PM",
+        "Sunday: 5:00 – 9:45 PM"
       ]
     }
   ],
@@ -762,14 +762,61 @@
   "website": "http://www.ozakaya.com/",
   "emails": [
     "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
-    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
-    "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
-    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
-    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
-    "e0b4d631da7b4200828051f7f9c783e3@sentry-next.wixpress.com",
+    "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
     "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
     "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
-    "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com"
+    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+    "e0b4d631da7b4200828051f7f9c783e3@sentry-next.wixpress.com",
+    "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:51.555303+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:51.555303+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:40.966361+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.ozakaya.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.ozakaya.com/reservations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.ozakaya.com/hours-location",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.ozakaya.com/copy-of-hours-location",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.ozakaya.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.ozakaya.com/reservations",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.ozakaya.com/hours-location",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.ozakaya.com/reservations"
+    ],
+    "browser_checked_at": "2026-10-03T22:10:53.073102+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

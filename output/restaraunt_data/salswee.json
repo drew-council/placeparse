@@ -161,13 +161,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 8:00 PM",
+      "Sunday: 7:00 AM – 8:00 PM"
     ]
   },
   "dine_in": true,
@@ -267,13 +267,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 8:00 PM",
+      "Sunday: 7:00 AM – 8:00 PM"
     ]
   },
   "photos": [
@@ -374,7 +374,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxsm2dSfubmuPq6P4cRQZSNO2jSs_u4TBuWTN3Moo1MMrlqhU3gQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Absolutely love Salswee!!!\nPastries 10/10\nThe pastries are stunning and true edible art. Honestly, I haven\u2019t seen pastry work this beautiful outside of Europe. They\u2019re light, airy, and not overly sweet. We devoured five and could\u2019ve easily gone for more.\nBaked Goods 10/10\nThe truffle croissant and flat iron croissant were incredible. I wish I had tried more.\n\nI had the golden latte. It was caramel-flavored and a bit too sweet for my taste, but still enjoyable.\n\nDesign & Details 10/10\nIt\u2019s little touches like the baguette shaped door handles and beautiful coffee tech",
+      "text": "Absolutely love Salswee!!!\nPastries 10/10\nThe pastries are stunning and true edible art. Honestly, I haven’t seen pastry work this beautiful outside of Europe. They’re light, airy, and not overly sweet. We devoured five and could’ve easily gone for more.\nBaked Goods 10/10\nThe truffle croissant and flat iron croissant were incredible. I wish I had tried more.\n\nI had the golden latte. It was caramel-flavored and a bit too sweet for my taste, but still enjoyable.\n\nDesign & Details 10/10\nIt’s little touches like the baguette shaped door handles and beautiful coffee tech",
       "time": 1748535729,
       "translated": false
     },
@@ -386,7 +386,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlZgjMlfEqk_pSG-O3Cej4KOZKRJQjtvG8r6eEq2DYyI7XFA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "a week ago",
-      "text": "It wasn\u2019t the best but it was delicious. I ordered chocolate banana, cloud, apple and lemonade. I\u2019m not quite sure that was it because of the weather or I took time to take a picture for too long, all of them are almost melted. They weren\u2019t as crunchy as I expected, but overall they actually tasted good. The apple filling is a little bit sour, so it made me felt so refreshed after I walked through the hot weather for all day. Next time I\u2019d like to try a strawberry croissant.",
+      "text": "It wasn’t the best but it was delicious. I ordered chocolate banana, cloud, apple and lemonade. I’m not quite sure that was it because of the weather or I took time to take a picture for too long, all of them are almost melted. They weren’t as crunchy as I expected, but overall they actually tasted good. The apple filling is a little bit sour, so it made me felt so refreshed after I walked through the hot weather for all day. Next time I’d like to try a strawberry croissant.",
       "time": 1749951103,
       "translated": false
     },
@@ -398,7 +398,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5c70KEdSj8xsPobDFUTob_FMLVqqmrp2hEAjQbwwU3Ojq50IYng=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "Get ready to sell your soul here. It\u2019s pricey but it\u2019s worth every penny, the pastries are super fresh. Great quality flakey, yummy croissants.  I highly recommend trying the hazelnut crunch cloud cake & the mango mousse were my fav. The drip coffee has a great taste , also freshly made. Very fast and friendly service.",
+      "text": "Get ready to sell your soul here. It’s pricey but it’s worth every penny, the pastries are super fresh. Great quality flakey, yummy croissants.  I highly recommend trying the hazelnut crunch cloud cake & the mango mousse were my fav. The drip coffee has a great taste , also freshly made. Very fast and friendly service.",
       "time": 1749837784,
       "translated": false
     },
@@ -422,7 +422,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9gnv8qDO_oPl4l0qX8b8suhWc5MGi36I9VZF-2jGFXtrkVEoAXQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Every dessert here is so beautiful and the two we ordered were delicious. The mango was the perfect balance of sweet and sour, there were even mango chunks in the sauce on the inside. The yuzu flavor was tangy and the rice cracker on the bottom pairs perfectly. We didn\u2019t have to wait for a table at 2 pm on a Saturday, which was extra nice. I definitely want to come back and try more desserts in the future.",
+      "text": "Every dessert here is so beautiful and the two we ordered were delicious. The mango was the perfect balance of sweet and sour, there were even mango chunks in the sauce on the inside. The yuzu flavor was tangy and the rice cracker on the bottom pairs perfectly. We didn’t have to wait for a table at 2 pm on a Saturday, which was extra nice. I definitely want to come back and try more desserts in the future.",
       "time": 1746297090,
       "translated": false
     }
@@ -440,8 +440,56 @@
   "vicinity": "180 5th Ave, New York",
   "website": "https://www.salswee.com/",
   "emails": [
-    "store180@salswee.com",
-    "info@salswee.com"
+    "info@salswee.com",
+    "store180@salswee.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:02.684328+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:02.684328+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:52.154097+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@salswee.com": [
+        "https://salswee.com/",
+        "https://salswee.com/pages/faq",
+        "https://salswee.com/pages/about",
+        "https://salswee.com/pages/loaction"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://salswee.com/",
+        "status": "ok",
+        "emails": [
+          "info@salswee.com"
+        ]
+      },
+      {
+        "url": "https://salswee.com/pages/faq",
+        "status": "ok",
+        "emails": [
+          "info@salswee.com"
+        ]
+      },
+      {
+        "url": "https://salswee.com/pages/about",
+        "status": "ok",
+        "emails": [
+          "info@salswee.com"
+        ]
+      },
+      {
+        "url": "https://salswee.com/pages/loaction",
+        "status": "ok",
+        "emails": [
+          "info@salswee.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://salswee.com/",
+      "https://salswee.com/pages/faq",
+      "https://salswee.com/pages/about",
+      "https://salswee.com/pages/loaction"
+    ]
+  }
 }

@@ -204,12 +204,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 6:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM, 6:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
+      "Tuesday: 8:00 AM – 3:00 PM, 6:00 – 10:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM, 6:00 – 10:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM, 6:00 – 10:00 PM",
+      "Friday: 8:00 AM – 3:00 PM, 6:00 PM – 12:00 AM",
+      "Saturday: 10:00 AM – 4:00 PM, 6:00 PM – 12:00 AM",
+      "Sunday: 10:00 AM – 4:00 PM"
     ]
   },
   "delivery": true,
@@ -357,12 +357,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 6:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM, 6:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
+      "Tuesday: 8:00 AM – 3:00 PM, 6:00 – 10:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM, 6:00 – 10:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM, 6:00 – 10:00 PM",
+      "Friday: 8:00 AM – 3:00 PM, 6:00 PM – 12:00 AM",
+      "Saturday: 10:00 AM – 4:00 PM, 6:00 PM – 12:00 AM",
+      "Sunday: 10:00 AM – 4:00 PM"
     ]
   },
   "photos": [
@@ -464,7 +464,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0OqGoBOsKVcWz6PsJmouJrzrfEPB5jrvKRwrVK7BYKmLt8SXw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "this corner spot caught our eye at around 9 on a thursday with it\u2019s red glow & cute sunken dining room that is visible from the street. the ambiance - warm and cozy. the service - quick and very personable. the bartender is awesome. the food & drink - perfect. got the spiked horchata drink n a birria res gordita, both amazing and still thinking about\u2026 ***the best fresh masa/tortillas pressed right before serving - all within view from the bar - dinner n a show. literally can\u2019t say enough good things. excited to come back. :)",
+      "text": "this corner spot caught our eye at around 9 on a thursday with it’s red glow & cute sunken dining room that is visible from the street. the ambiance - warm and cozy. the service - quick and very personable. the bartender is awesome. the food & drink - perfect. got the spiked horchata drink n a birria res gordita, both amazing and still thinking about… ***the best fresh masa/tortillas pressed right before serving - all within view from the bar - dinner n a show. literally can’t say enough good things. excited to come back. :)",
       "time": 1743220113,
       "translated": false
     },
@@ -476,7 +476,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUp4ZFIlluUzum09xKIQtNf-1j4Fq_kV1Gx6qZzTfN2T6ZN58bMSA=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "a week ago",
-      "text": "Great place for Mexican breakfast & lunch. The latte was creamy, just to my liking, so that for me was a 10/10. I also tried \u201cLa gringa,\u201d a quesadilla of sorts with cheese, mushrooms, and cilantro in between two corn tortillas (instead of just one folded tortilla), and came with a side of guacamole.",
+      "text": "Great place for Mexican breakfast & lunch. The latte was creamy, just to my liking, so that for me was a 10/10. I also tried “La gringa,” a quesadilla of sorts with cheese, mushrooms, and cilantro in between two corn tortillas (instead of just one folded tortilla), and came with a side of guacamole.",
       "time": 1750372414,
       "translated": false
     },
@@ -538,5 +538,61 @@
   "utc_offset": -240,
   "vicinity": "343 Franklin Ave, Brooklyn",
   "website": "http://forallthingsgoodbk.com/",
-  "business_status_checked_at": "2026-10-03T20:05:09.203543+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:09.203543+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:48.913519+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.forallthingsgoodbk.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.forallthingsgoodbk.com/contact",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.forallthingsgoodbk.com/new-page-44",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.forallthingsgoodbk.com/new-events-1",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.forallthingsgoodbk.com/new-events-1/glass-pour-take-over-vos-selections",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.forallthingsgoodbk.com/new-events-1/wine-pour-take-over-critical-mass-selections",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.forallthingsgoodbk.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.forallthingsgoodbk.com/contact",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.forallthingsgoodbk.com/new-page-44",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:08:51.573611+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

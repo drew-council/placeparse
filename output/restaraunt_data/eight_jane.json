@@ -142,12 +142,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Saturday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
       "Sunday: Closed"
     ]
   },
@@ -240,12 +240,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Saturday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
       "Sunday: Closed"
     ]
   },
@@ -349,7 +349,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkbis26c5CSe4DAhHAcWSONOrmdcW4oIK41VP2uM1ZscAvx_J_=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "This hole in a wall Chinese breakfast place is pure amazing! The jianbing is very good and authentic enough and fulfilling. And it only costs 5 bucks!! For only 5 bucks what can go wrong? Also ordered the \u8089\u71d5 soup which is also pretty good. Will definitely come back here for breakfast all the time if I\u2019m in the flushing area!",
+      "text": "This hole in a wall Chinese breakfast place is pure amazing! The jianbing is very good and authentic enough and fulfilling. And it only costs 5 bucks!! For only 5 bucks what can go wrong? Also ordered the 肉燕 soup which is also pretty good. Will definitely come back here for breakfast all the time if I’m in the flushing area!",
       "time": 1747720231,
       "translated": false
     },
@@ -361,7 +361,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDBMBPZw1pC1SAWg_bHhpBVNY4yzGYe3aZqReBy3gef6J8gu5Wfw=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 4,
       "relative_time_description": "2 months ago",
-      "text": "I think this place is a little over hyped. It\u2019s a small hole in the wall and the Jing bang is good but not the best like everyone is boasting. The base is made well and the crispy adds great texture but the sauce / toppings are not evenly distributed leaving some bites very bland. The staff is really friend and it\u2019s cash only. At $6 it\u2019s a very affordable and filling meal.",
+      "text": "I think this place is a little over hyped. It’s a small hole in the wall and the Jing bang is good but not the best like everyone is boasting. The base is made well and the crispy adds great texture but the sauce / toppings are not evenly distributed leaving some bites very bland. The staff is really friend and it’s cash only. At $6 it’s a very affordable and filling meal.",
       "time": 1743557255,
       "translated": false
     },
@@ -373,7 +373,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt_hQND7V42cvip2pSD2b0E4VF-U5XkaRv-DodLvp2IUfhm6g=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "It\u2019s a must try for something different. No frills place. I ordered the savory crepe (jianbing) and it was delightful and budget friendly. Their staff was nice. It may look intimidating with their menu only printed in Chinese but definitely worth going out of your comfort zone to try. Will be a return customer",
+      "text": "It’s a must try for something different. No frills place. I ordered the savory crepe (jianbing) and it was delightful and budget friendly. Their staff was nice. It may look intimidating with their menu only printed in Chinese but definitely worth going out of your comfort zone to try. Will be a return customer",
       "time": 1744372069,
       "translated": false
     },
@@ -385,7 +385,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSPo2PCOmB0EXpYP5KtydAYRuP-nnaiSHTaaP5aJn0mKNzGmPi=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Highly recommend the jianbing! It\u2019s fresh, flavorful, and super satisfying. Just a heads up \u2014 make sure to bring cash, but they also accept Zelle if you forget.",
+      "text": "Highly recommend the jianbing! It’s fresh, flavorful, and super satisfying. Just a heads up — make sure to bring cash, but they also accept Zelle if you forget.",
       "time": 1742666192,
       "translated": false
     },
@@ -418,5 +418,13 @@
   "user_ratings_total": 241,
   "utc_offset": -240,
   "vicinity": "37-12 Main St, Flushing",
-  "business_status_checked_at": "2026-10-03T20:05:04.729121+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:04.729121+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:35.552326+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

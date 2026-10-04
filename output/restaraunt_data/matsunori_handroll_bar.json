@@ -1,0 +1,62 @@
+{
+  "adr_address": "<span class=\"street-address\">27-09 Thomson Ave</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "27-09 Thomson Ave, Long Island City, NY 11101, USA",
+  "formatted_phone_number": "(347) 396-5091",
+  "geometry": {
+    "location": {
+      "lat": 40.7465358,
+      "lng": -73.9427434
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74782068029151,
+        "lng": -73.9414241697085
+      },
+      "southwest": {
+        "lat": 40.74512271970851,
+        "lng": -73.9441221302915
+      }
+    }
+  },
+  "international_phone_number": "+1 347-396-5091",
+  "name": "Matsunori Handroll Bar",
+  "place_id": "ChIJKYSwRQRZwokRrQ427R4G4BQ",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=1504209005440274093",
+  "website": "https://matsunori.com/lic",
+  "details_checked_at": "2026-10-03T21:59:06.619783+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:06.619783+00:00",
+  "emails": [
+    "lic@matsunori.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:16.713690+00:00",
+    "outcome": "found",
+    "sources": {
+      "lic@matsunori.com": [
+        "https://matsunori.com/lic/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://matsunori.com/lic/",
+        "status": "ok",
+        "emails": [
+          "lic@matsunori.com"
+        ]
+      },
+      {
+        "url": "https://matsunori.com/",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
+}

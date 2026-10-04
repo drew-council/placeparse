@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "formatted_address": "89 South St, New York, NY 10038, USA",
@@ -261,13 +261,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -290,7 +290,7 @@
     {
       "height": 3600,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/115767123126429480434\">Mir \u201cMiirkat\u201d Khan</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/115767123126429480434\">Mir “Miirkat” Khan</a>"
       ],
       "photo_reference": "ATKogpcvJ5euVAJCwawj0qy-SNXZjqhdOhKLpPdbDvLkJnhz2JNYv-ly9-wGYwbmiHEc6NNllzK1qoJJLgrYUNBcpN4r--hAt1JTxIYL3yyhb5TFp2sjJuDBBJjdNzhnsqNwZx-dgtY3y6170psrTziY9dWhikm0Gt7rNPULC-H2QWVSIKJWm7p441VvvWg87kKyJCbh41mmuf8V48fzfAaC2gO6Llo2Y8qRHiBsFhnaxkzRHNKvw_g4SKcOd-3S9em5qCroHMgF_A54nY5TQd0LPv3Ow8KN8DOF1Nd0bIMAHo1Rio3lIjkJOlaUfFocLs8-KWEQSxhl2rVRAuWoWebbcG5VfBsEffDRGq7TI0BE0jETcaNFdJeoVj-UrogaOZSbrAxlSlKFguAxHWoRA_CRMvCWjnjlIiHnFUjutsjDxdOqNZtf",
       "width": 4800
@@ -392,7 +392,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCrV1MXSuUrzSDJlhemaQqLFkTOe1UWnQUnMqcdwsLy4xHvOXf_A=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Pier 17 in NYC is definitely one of those spots that surprises you with how versatile and scenic it is. The view from the rooftop is incredible, especially at sunset with the Brooklyn Bridge and East River in the background\u2014it\u2019s the kind of place that feels like a hidden gem even though it\u2019s in plain sight. There are great food options, seasonal events, and often live music or pop-ups that make the experience even more memorable. It\u2019s a perfect stop if you\u2019re walking through the South Street Seaport area or just looking for a nice urban spot to relax. Worth visiting, especially if you enjoy places that mix city energy with beautiful views.",
+      "text": "Pier 17 in NYC is definitely one of those spots that surprises you with how versatile and scenic it is. The view from the rooftop is incredible, especially at sunset with the Brooklyn Bridge and East River in the background—it’s the kind of place that feels like a hidden gem even though it’s in plain sight. There are great food options, seasonal events, and often live music or pop-ups that make the experience even more memorable. It’s a perfect stop if you’re walking through the South Street Seaport area or just looking for a nice urban spot to relax. Worth visiting, especially if you enjoy places that mix city energy with beautiful views.",
       "time": 1745376135,
       "translated": false
     },
@@ -433,5 +433,74 @@
   "vicinity": "89 South St, New York",
   "website": "https://rooftopatpier17.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:54.908442+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:54.908442+00:00",
+  "emails": [
+    "events@seaportentertainment.com",
+    "info@rooftopatpier17.com",
+    "pier17@pmkentertainment.com",
+    "sam.gips@seaportentertainment.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:44.214936+00:00",
+    "outcome": "found",
+    "sources": {
+      "events@seaportentertainment.com": [
+        "https://rooftopatpier17.com/contact-us/"
+      ],
+      "info@rooftopatpier17.com": [
+        "https://rooftopatpier17.com/contact-us/"
+      ],
+      "pier17@pmkentertainment.com": [
+        "https://rooftopatpier17.com/contact-us/"
+      ],
+      "sam.gips@seaportentertainment.com": [
+        "https://rooftopatpier17.com/contact-us/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://rooftopatpier17.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://rooftopatpier17.com/contact-us/",
+        "status": "ok",
+        "emails": [
+          "events@seaportentertainment.com",
+          "info@rooftopatpier17.com",
+          "pier17@pmkentertainment.com",
+          "sam.gips@seaportentertainment.com"
+        ]
+      },
+      {
+        "url": "https://rooftopatpier17.com/about-us/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://rooftopatpier17.com/events/san-holo-2026/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://rooftopatpier17.com/concerts/?cat=Concerts",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://rooftopatpier17.com/events/dj-pauly-d-2026/",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://rooftopatpier17.com/",
+      "https://rooftopatpier17.com/contact-us/",
+      "https://rooftopatpier17.com/about-us/",
+      "https://rooftopatpier17.com/events/san-holo-2026/",
+      "https://rooftopatpier17.com/concerts/?cat=Concerts",
+      "https://rooftopatpier17.com/events/dj-pauly-d-2026/"
+    ]
+  }
 }

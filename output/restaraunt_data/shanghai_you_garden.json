@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 8:30 AM – 10:00 PM",
+      "Sunday: 8:30 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -268,20 +268,20 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 8:30 AM – 10:00 PM",
+      "Sunday: 8:30 AM – 10:00 PM"
     ]
   },
   "photos": [
     {
       "height": 1074,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/108936376451076817242\">Shanghai You Garden \u4e0a\u6d77\u8c6b\u56ed</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/108936376451076817242\">Shanghai You Garden 上海豫园</a>"
       ],
       "photo_reference": "ATKogpcdZlt85yPZwM_jTYoqZTm5yI2TbnWhOTcNZCJEWCA55C1vEQHqxI1iwkW53N_VE4cVEBCt2K_-JFpiVwr2ymVdoK9qJhkrQ4XAi8Iuw8AM3mzeudseZmnQ6N_NFinn7NgO1FDiUnnnORTdkmyGnAGt-hzg-bjMwKwcjTeYquXxyJnQ93BWnLGA3H3Qvb2Vx_IZboJw3buvcVD1u7XKqJ0xVvtKQPzmnvK8IovlYBpGSLxc9bdCSaCGAzdkL9xelEqzLXAEz7Y37NA34r97-G2FJ-q91B4kEdtKQzgUZ82Fdg",
       "width": 1440
@@ -289,7 +289,7 @@
     {
       "height": 3200,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/108936376451076817242\">Shanghai You Garden \u4e0a\u6d77\u8c6b\u56ed</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/108936376451076817242\">Shanghai You Garden 上海豫园</a>"
       ],
       "photo_reference": "ATKogpcmrHyOqoPc3EEF7HpdU_QEZkR71K6l8lpJw4iwmconKs1f2h1myOJpShAF-RicvmDLN5U4Biv-OVFL_r0LMBjoLe8CidgpoIiXpLzmMrmvl6CpISyJX6BGL0SCpxDHEDSo81rM18_bDGdBuOm6S-rD2mhcYrDFWMbOJS_cYqoN1RZlc8TY128kPskaQtP6kU7d562GSgYaXN0KFNgKUUno93vgV3GTEKpzrO0r8OhJ-ZA6snmXwpIMeylaPqJCJK8ZR49CzTpfZvyQEvy4fKLygV9T0FNBSZzHjv8g40TS6g",
       "width": 4800
@@ -450,5 +450,51 @@
   "vicinity": "135-33 40th Rd, Flushing",
   "website": "https://www.shanghaiyougardennyc.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:06:06.751360+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:06.751360+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:56.514015+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.shanghaiyougardennyc.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.shanghaiyougardennyc.com/menu",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.shanghaiyougardennyc.com/about",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.shanghaiyougardennyc.com/locations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.shanghaiyougardennyc.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.shanghaiyougardennyc.com/menu",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.shanghaiyougardennyc.com/about",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:19.000237+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

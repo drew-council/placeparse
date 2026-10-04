@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -268,13 +268,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -377,7 +377,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKd-JQQs-M6vl5_py-pr6M3jPejjRKTfkRw0Bj15lsihQ-bJw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "Pros\n\nFood is outstanding especially for the cost. Every dish was delicious. I tried stingray for the first time and it was great. Also the value is unbeatable- very generous portions for the cost.\n\nWe also were seated very quickly and food comes out very quickly. I\u2019m not sure how they make everything so fast but it\u2019s great.\n\nCons\n\nI think it was just our waitress but she was outright rude multiple times. Maybe it was a bad night or a little bit of a language barrier.  But they sort of work as a team and we had other waiters/waitresses bring out our food/help with questions and they were great.",
+      "text": "Pros\n\nFood is outstanding especially for the cost. Every dish was delicious. I tried stingray for the first time and it was great. Also the value is unbeatable- very generous portions for the cost.\n\nWe also were seated very quickly and food comes out very quickly. I’m not sure how they make everything so fast but it’s great.\n\nCons\n\nI think it was just our waitress but she was outright rude multiple times. Maybe it was a bad night or a little bit of a language barrier.  But they sort of work as a team and we had other waiters/waitresses bring out our food/help with questions and they were great.",
       "time": 1749880063,
       "translated": false
     },
@@ -389,7 +389,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKY3HPKRqAutmSUmFLRQHdEL0oirLKVw6NxYAefwMBkqNlAcQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "This Michelin Guide restaurant did not disappoint! In fact, it is the best Malaysian meal I\u2019ve ever had in the U.S. The rich and bold southeast Asian flavors keeps you wanting more.\n\nThe ambiance is chill and service was amazing. This is a MUST VISIT!!",
+      "text": "This Michelin Guide restaurant did not disappoint! In fact, it is the best Malaysian meal I’ve ever had in the U.S. The rich and bold southeast Asian flavors keeps you wanting more.\n\nThe ambiance is chill and service was amazing. This is a MUST VISIT!!",
       "time": 1742439773,
       "translated": false
     },
@@ -413,7 +413,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWe1LhJpKAQAz5hhUk7ZlDb1wlV6c00JiFoU-P_o-3piEdIkjn4=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 4,
       "relative_time_description": "a month ago",
-      "text": "A Taste of Malaysia in the Heart of Chinatown\n\nLocated in Manhattan\u2019s Chinatown, Nyonya is a beloved Malaysian restaurant that delivers authentic flavors at very reasonable prices. It\u2019s a local favorite, often bustling with both New Yorkers and visitors seeking bold Southeast Asian cuisine.\n\nWhat to Try:\n\u2022\tRoti Canai: A flaky, crispy pancake served with a rich curry dipping sauce. It\u2019s a must-have appetizer.\n\u2022\tNasi Lemak: Coconut rice served with anchovies, boiled egg, sambal, peanuts, and curry chicken\u2014a national dish of Malaysia.\n\u2022\tBeef Rendang: Tender beef braised in a thick, spiced coconut gravy. Deep, comforting flavors.\n\u2022\tPrawn Mee: A spicy shrimp noodle soup with pork, bean sprouts, and hard-boiled egg in a rich, aromatic broth.\n\u2022\tChar Kway Teow: Stir-fried flat rice noodles with shrimp, squid, egg, and bean sprouts\u2014smoky and satisfying.\n\nAtmosphere & Service:\n\nThe setting is casual and often busy, but service is usually quick and efficient. The interior is simple, and while it can get loud during peak hours, the food more than makes up for it.\n\nVerdict:\nIf you\u2019re craving bold, spicy, and complex Malaysian dishes in NYC, Nyonya is a fantastic pick. Great for casual dinners or adventurous eaters looking to try something new.\n\nGood to know\nCash only",
+      "text": "A Taste of Malaysia in the Heart of Chinatown\n\nLocated in Manhattan’s Chinatown, Nyonya is a beloved Malaysian restaurant that delivers authentic flavors at very reasonable prices. It’s a local favorite, often bustling with both New Yorkers and visitors seeking bold Southeast Asian cuisine.\n\nWhat to Try:\n•\tRoti Canai: A flaky, crispy pancake served with a rich curry dipping sauce. It’s a must-have appetizer.\n•\tNasi Lemak: Coconut rice served with anchovies, boiled egg, sambal, peanuts, and curry chicken—a national dish of Malaysia.\n•\tBeef Rendang: Tender beef braised in a thick, spiced coconut gravy. Deep, comforting flavors.\n•\tPrawn Mee: A spicy shrimp noodle soup with pork, bean sprouts, and hard-boiled egg in a rich, aromatic broth.\n•\tChar Kway Teow: Stir-fried flat rice noodles with shrimp, squid, egg, and bean sprouts—smoky and satisfying.\n\nAtmosphere & Service:\n\nThe setting is casual and often busy, but service is usually quick and efficient. The interior is simple, and while it can get loud during peak hours, the food more than makes up for it.\n\nVerdict:\nIf you’re craving bold, spicy, and complex Malaysian dishes in NYC, Nyonya is a fantastic pick. Great for casual dinners or adventurous eaters looking to try something new.\n\nGood to know\nCash only",
       "time": 1747343373,
       "translated": false
     },
@@ -521,13 +521,13 @@
       ],
       "type": "DELIVERY",
       "weekday_text": [
-        "Monday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Friday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-        "Saturday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-        "Sunday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+        "Monday: 11:00 AM – 9:30 PM",
+        "Tuesday: 11:00 AM – 9:30 PM",
+        "Wednesday: 11:00 AM – 9:30 PM",
+        "Thursday: 11:00 AM – 9:30 PM",
+        "Friday: 11:00 AM – 10:30 PM",
+        "Saturday: 11:00 AM – 10:30 PM",
+        "Sunday: 11:00 AM – 9:30 PM"
       ]
     },
     {
@@ -620,13 +620,13 @@
       ],
       "type": "TAKEOUT",
       "weekday_text": [
-        "Monday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Friday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-        "Saturday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-        "Sunday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+        "Monday: 11:00 AM – 9:30 PM",
+        "Tuesday: 11:00 AM – 9:30 PM",
+        "Wednesday: 11:00 AM – 9:30 PM",
+        "Thursday: 11:00 AM – 9:30 PM",
+        "Friday: 11:00 AM – 10:30 PM",
+        "Saturday: 11:00 AM – 10:30 PM",
+        "Sunday: 11:00 AM – 9:30 PM"
       ]
     }
   ],
@@ -648,5 +648,31 @@
   "vicinity": "199 Grand St, New York",
   "website": "https://nyonya.store/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:48.572277+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:48.572277+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:35.604640+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://nyonya.locallya.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://nyonya.locallya.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://nyonya.locallya.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:10:34.240546+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

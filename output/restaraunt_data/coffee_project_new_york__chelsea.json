@@ -161,13 +161,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
-      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
-      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
-      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
-      "Friday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM"
+      "Monday: 7:00 AM – 5:30 PM",
+      "Tuesday: 7:00 AM – 5:30 PM",
+      "Wednesday: 7:00 AM – 5:30 PM",
+      "Thursday: 7:00 AM – 5:30 PM",
+      "Friday: 7:00 AM – 5:30 PM",
+      "Saturday: 8:00 AM – 5:30 PM",
+      "Sunday: 8:00 AM – 5:30 PM"
     ]
   },
   "delivery": true,
@@ -270,13 +270,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
-      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
-      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
-      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
-      "Friday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM"
+      "Monday: 7:00 AM – 5:30 PM",
+      "Tuesday: 7:00 AM – 5:30 PM",
+      "Wednesday: 7:00 AM – 5:30 PM",
+      "Thursday: 7:00 AM – 5:30 PM",
+      "Friday: 7:00 AM – 5:30 PM",
+      "Saturday: 8:00 AM – 5:30 PM",
+      "Sunday: 8:00 AM – 5:30 PM"
     ]
   },
   "photos": [
@@ -315,7 +315,7 @@
     {
       "height": 3024,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/105049033996262226022\">Y Tonetti (\u3068\u306d\u3063\u3061)</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/105049033996262226022\">Y Tonetti (とねっち)</a>"
       ],
       "photo_reference": "ATKogpc_6q_SA6H1dIRxqckpC02SORVvjKPYLP9FYDbPq3a9FwF7VD8zBmzSTKjeei3VaHIxVqH1mYuQQoXcO5cHFVHibpv1VjOgoyV0nT3MunEIyfPHOQOb8u5dMZ0KDRUVioDRrFHC2sBbnypEyx-stYaPoRZsjLByeF8Qm3HcLPjxzgCxU-neZkF_GYkGJON-ZNcFozYptD8STpMi_MzeBJTh2USHO8cTlMqH2-adlTBkLCWl7HAKHb43IeCphOd1LWNttOrp0I8udmvzk6pzoPvL8NvcouF6JBPLOj0SSpZzOElRbHNo_lOSY8ePdAJdFWT6-zysk8WM79jRf7EXltloYeqN1JIJ7GPweSYU2AQGo3IHksu9qbRJsbpnkGFBuBhEAnvha2ZbQlVANuKLgLtWpg36hUSK-zFnyYwHb2MAyEE",
       "width": 4032
@@ -331,7 +331,7 @@
     {
       "height": 4032,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/105061327436182923816\">sebahat kuruta\u015f</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/105061327436182923816\">sebahat kurutaş</a>"
       ],
       "photo_reference": "ATKogpdY5RD6o9exdTSQRfxnpM0lb9lGuxEZy4TrlKGjqaiNQsTC6KhdmARAGmvwbti6Hb9uxCJKk0rgSlhTOBmBEjRI49V6I9Xx3BPNCfuQuary4Hu_JmTlOpjHAxHWgyZOlwseuIV2iCW7sGbHPpfnKm4jhsDQS6xtqtkqB4_LpR34nPfNJxYclFzpLNHNJHUBWvAmsp377KOwZspO9wjaVl3pFL5J6O1QzXVLXOV-tbot1LR_tpuyAhP2gvSgYgi2i_4bL2E7uFvB1loo-YnmTlSgFekNwC-rC5nn3uq68wCUICBt7rBRn1ws2XKI6DYOU_cE9IEq1dtVR3HwUFxndlBCmp9abYh0Ee2w0pQ_Aw3o4jxy-FTLcZcbol2iiKuXw56OKOBQgmtBv9X3neUVG6GpBwJ1Y2HQM1IbbWTTIbO_ZQ",
       "width": 3024
@@ -339,7 +339,7 @@
     {
       "height": 3024,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/105049033996262226022\">Y Tonetti (\u3068\u306d\u3063\u3061)</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/105049033996262226022\">Y Tonetti (とねっち)</a>"
       ],
       "photo_reference": "ATKogpf7IasnKAoSSKfd_GQ09vmubRXyo5vu3Obkr1SzB4Mgw3OKPCI1ztOmB56zMkNrLyb4tTD841P9Fnog-OHzVuqrUHT66vLUohwDemDs_Mo3UWSSVotGsl_Tvvt4--XuFvN2VkYwSlA9ePYewVQle8N_OsY1zDwX54jfd9ZqPdWQnfqppmD5oQBd_zjR9Fw-qXr8-lLrXcPyue-hj0XHV109GUHXqWcLCDr1qJVmlFMraKLE5Z454efci-AlVxA7iXfE0vlCOAf3FxOhXGaDERvM1FOMLv63_ZG9WDscRIeHX3OvmX72Qp62Gvw5iL0lcqavMXWsJ3QbfEV7cLZYqPvisVWT4q1qljisERPfyX_5k-PdQCpKW4emuMQqbbsGGwJV1ja4sjg970d_wgOqh0PhK7sDsLRs5tG3OuyI1E9khQ0Z",
       "width": 4032
@@ -371,14 +371,14 @@
   "reservable": false,
   "reviews": [
     {
-      "author_name": "sebahat kuruta\u015f",
+      "author_name": "sebahat kurutaş",
       "author_url": "https://www.google.com/maps/contrib/105061327436182923816/reviews",
       "language": "en",
       "original_language": "en",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWN-GDPHThWIAWVvhgbq7Upjy-8MLWwBV8cdvxW_3hGDOMyrmD1=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Coffee Project has a nice, open space with cute seating options, making it a great place to relax or get some work done. The coffee was solid, and the croissant I had was delicious.\n\nTheir food menu includes avocado toast, muffins, and a variety of croissants\u2014plenty of good options for a quick bite. Definitely a spot worth coming back to, and perfect for a casual stop when you\u2019re in the area!",
+      "text": "Coffee Project has a nice, open space with cute seating options, making it a great place to relax or get some work done. The coffee was solid, and the croissant I had was delicious.\n\nTheir food menu includes avocado toast, muffins, and a variety of croissants—plenty of good options for a quick bite. Definitely a spot worth coming back to, and perfect for a casual stop when you’re in the area!",
       "time": 1743105445,
       "translated": false
     },
@@ -426,7 +426,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_QSDPLIej-QkIgJM1OoDbSpxGx3VaUMsSNpx2nv2GJCBz-WdY=s128-c0x00000000-cc-rp-mo-ba7",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "Matcha latte was fantastic, staff are very warm and friendly and the space is great if you\u2019re looking for a place to chill",
+      "text": "Matcha latte was fantastic, staff are very warm and friendly and the space is great if you’re looking for a place to chill",
       "time": 1750007995,
       "translated": false
     }
@@ -449,5 +449,19 @@
   "vicinity": "155 7th Ave, New York",
   "website": "https://coffeeprojectny.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb_ch",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:57.508263+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:57.508263+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:25.351133+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://coffeeprojectny.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb_ch",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -161,13 +161,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20096:45\u202fPM"
+      "Monday: 10:00 AM – 7:45 PM",
+      "Tuesday: 10:00 AM – 7:45 PM",
+      "Wednesday: 10:00 AM – 7:45 PM",
+      "Thursday: 10:00 AM – 7:45 PM",
+      "Friday: 10:00 AM – 7:45 PM",
+      "Saturday: 10:00 AM – 7:45 PM",
+      "Sunday: 11:00 AM – 6:45 PM"
     ]
   },
   "editorial_summary": {
@@ -272,13 +272,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20096:45\u202fPM"
+      "Monday: 10:00 AM – 7:45 PM",
+      "Tuesday: 10:00 AM – 7:45 PM",
+      "Wednesday: 10:00 AM – 7:45 PM",
+      "Thursday: 10:00 AM – 7:45 PM",
+      "Friday: 10:00 AM – 7:45 PM",
+      "Saturday: 10:00 AM – 7:45 PM",
+      "Sunday: 11:00 AM – 6:45 PM"
     ]
   },
   "photos": [
@@ -317,7 +317,7 @@
     {
       "height": 4032,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/112528181105182836171\">Gr\u00e9gory DUQUENNE</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/112528181105182836171\">Grégory DUQUENNE</a>"
       ],
       "photo_reference": "ATKogpcyabeJ31s_hch-71bRhWNEYEDoql_ZX_MbiCgXXDO7Ie0cuOXpUkrLxiA4AKr47mY15B56vOlWgqmpeBPNyC82sg821kzs_JuOBZc2SoA9VrT8yT0GNpn5UQFfYNzpyku8SPH3YQ5qoGGUdE0iEkHYEXBpPBgKYlRZM8mGF4cRr83eV4x98eZX30yf9G2krv97zJfnv2qZdJ13pcSUdbCvuAXh_qm1XRZA8tjsY5WIxQ-uUPo8VwlxIoOG_xRUdiQ5UCcRp1A8w8K0zvlkFVFqpkDduuioJgSybZwpUqoUh5-OOc0h-MbCuti1SitHjQZxLMpguVMllhKy_rlcQrR0_dKgpTXD4IzKyt-1cBWlowdGGnghViuGHkjCDQ3TPGLmayH-TzsHhtTabpaV7efmmBddH-R9THyiPWc-YyGnjhtc",
       "width": 3024
@@ -341,7 +341,7 @@
     {
       "height": 4032,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/112528181105182836171\">Gr\u00e9gory DUQUENNE</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/112528181105182836171\">Grégory DUQUENNE</a>"
       ],
       "photo_reference": "ATKogpd-nU87fte6PPTx3T_ARb5vwefdw-15qKFpPZmfJKiwXzWJeNkMqCk33TKLbk63lIRhfoF8NOa9oFBxglVxhZ2VXcM5LK1SXSibfwZiChRF-GZ-FMuXSbhtSOUttZHjPwY1NmydzAlYEpm7LORcZd8yq_xGeUNTCR4zlXkQltczKVYbFYnR1XhBddHil3UfXgD4G-e6xA2Fe4PfrE44Nx2-kYEZapjS_Jyrv3lJiXu9eRv6HWClINUxfV9zISSSnT3luvAVa49BG72mnJUK2zdB16EkI5yE8fyvImCAaW1pteClBFezaI7DYm6rmXk8N1G7d4y8YqXFiEUPV_VUFxSF_6zoGVVO-pfezDv4mMe9cwcn40QI9VKed-ptTJW7k2PugitnsKIrsp1a55BiC9VgdEDDKjA3pbiDCx7mW-rCRw",
       "width": 3024
@@ -357,7 +357,7 @@
     {
       "height": 4000,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/109381887099655332437\">C\u00e9sar E. Urrea Manjarrez</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/109381887099655332437\">César E. Urrea Manjarrez</a>"
       ],
       "photo_reference": "ATKogpcUxBGhKYIC2vlU-gO1CuaLuQhihApa5hfuVdwj3Ker2ownsZ2_ZGtZM3dzwKry3K11t4qlCbZc8X5wPuZe6nFrV8AMm4et4yl8yDmZFLW93_k1IDPXZTm36doJjmb51G9CsWkZepUazzZ8g3RQrkBGBRDGfH5Dr8GehyOxnLv5l9WTNsSl4jfcdILn5aYPQ2UNnQrqXdpp9lT19xLQX00TK1XkRQiyCy2aYTSSBErsNQBVHXzfPtdPYCg-QaPb2uI1fNkX0akTnH9D315LvPNiqTPIjlpWfK-nfvBqHa537nKjc3IuyQ9EQXI3bsc-cNT9CZGdvpEH-Z1SwNeXeDzjELiN5Iunp3aHNO-MWUsJ8vqkYFyCMWCeeKAOGNE0olxlqkGwC_dTZwnRUAqvko1D0Xp_OW9nCkiyS3YLu986320",
       "width": 3000
@@ -403,7 +403,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKCdSYPvCCsIMWqFXnvef2GcljyBbTL5h_Tofszbu7UJZuI4Ey=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "a year ago",
-      "text": "Today I was racially profiled by 1 of your workers at the 491 Broadway location. A Mexican girl. I spent close to an hour trying on clothes. And when I went to put back an item on rack, she started to pat down the pockets. She then ask to see a jacket I was holding. And patted the jacket too. I didn\u2019t understand what was going on because I\u2019ve never experienced that before. I then purchased 2 items and as I was walking towards the exit, 2 white girls in front of me started to beep. They continued walking out BUT I was stop by the same worker. She asked for the store bag, and I gave her the bag with my receipt inside. She then asked for me to open up my personal purse. And I open that too but was embarrassed.\nAt that point I knew I was being racially profiled by that worker. I left a complaint about her with the store manager who shrugged it off. I also spoke to her myself because what she did was hurtful and I\u2019m pretty sure it\u2019s not store policy to pat down customer items as they are shopping. After reading some of their reviews I\u2019m seeing that it\u2019s a normal thing for this store",
+      "text": "Today I was racially profiled by 1 of your workers at the 491 Broadway location. A Mexican girl. I spent close to an hour trying on clothes. And when I went to put back an item on rack, she started to pat down the pockets. She then ask to see a jacket I was holding. And patted the jacket too. I didn’t understand what was going on because I’ve never experienced that before. I then purchased 2 items and as I was walking towards the exit, 2 white girls in front of me started to beep. They continued walking out BUT I was stop by the same worker. She asked for the store bag, and I gave her the bag with my receipt inside. She then asked for me to open up my personal purse. And I open that too but was embarrassed.\nAt that point I knew I was being racially profiled by that worker. I left a complaint about her with the store manager who shrugged it off. I also spoke to her myself because what she did was hurtful and I’m pretty sure it’s not store policy to pat down customer items as they are shopping. After reading some of their reviews I’m seeing that it’s a normal thing for this store",
       "time": 1698534075,
       "translated": false
     },
@@ -427,7 +427,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoMRUvhTEuXbq7qV5RWlOIr4resaWlo7ds2jCL7WvLjZnbkQ=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "3 years ago",
-      "text": "I\u2019ve been going to this boutique a 4 \u2b50\ufe0f review (for reasons below).\nI\u2019ve been going there since it opened and I\u2019ve always been successful to have some thing that I needed so that\u2019s good the only thing I can tell the owners is that the cashier clerk works really well very friendly with smiles the team that works the floor they need training or you need to get new people I would suggest training first.\nI\u2019m not about to get someone fired but there\u2019s a really short woman that closes that has a short bad attitude that I\u2019m sure that person in the last review is talking about..she\u2019s the one that isn\u2019t so kind. The tall\ngentleman works very seriously may smile if spoken to",
+      "text": "I’ve been going to this boutique a 4 ⭐️ review (for reasons below).\nI’ve been going there since it opened and I’ve always been successful to have some thing that I needed so that’s good the only thing I can tell the owners is that the cashier clerk works really well very friendly with smiles the team that works the floor they need training or you need to get new people I would suggest training first.\nI’m not about to get someone fired but there’s a really short woman that closes that has a short bad attitude that I’m sure that person in the last review is talking about..she’s the one that isn’t so kind. The tall\ngentleman works very seriously may smile if spoken to",
       "time": 1639452199,
       "translated": false
     }
@@ -444,5 +444,21 @@
   "vicinity": "491 Broadway, New York",
   "website": "http://www.mystiqueboutiquenyc.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:43.294218+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:43.294218+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:31.584463+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.mystiqueboutiquenyc.com/password",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.mystiqueboutiquenyc.com/password"
+    ]
+  }
 }

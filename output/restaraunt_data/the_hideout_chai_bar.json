@@ -143,12 +143,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      "Tuesday: 10:00 AM – 7:00 PM",
+      "Wednesday: 10:00 AM – 7:00 PM",
+      "Thursday: 10:00 AM – 7:00 PM",
+      "Friday: 10:00 AM – 7:00 PM",
+      "Saturday: 10:00 AM – 7:00 PM",
+      "Sunday: 10:00 AM – 7:00 PM"
     ]
   },
   "delivery": true,
@@ -242,12 +242,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      "Tuesday: 10:00 AM – 7:00 PM",
+      "Wednesday: 10:00 AM – 7:00 PM",
+      "Thursday: 10:00 AM – 7:00 PM",
+      "Friday: 10:00 AM – 7:00 PM",
+      "Saturday: 10:00 AM – 7:00 PM",
+      "Sunday: 10:00 AM – 7:00 PM"
     ]
   },
   "photos": [
@@ -361,7 +361,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURwFcrHzw8wmnPsRL0j7aSBj8iM---QlsBzxWuQlTS4c13NtKq=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "6 months ago",
-      "text": "Totally a hidden gem that you want a great drink but not necessarily coffee.. amazing tea lattes!\nThe store is stylish and the staff is super nice.\n\n\u2764\ufe0f\u200d\ud83d\udd25\u2728\u2728Nitro chai latte was soooo good! It was smooth with rich spiced flavors. (They ran out of it but I got to taste a little leftover.. definitely going back for this.)\n\n\u2728\u2615\ufe0fchai latte is totally a great option on a cold day. Same, great spiced flavor, warming you up.\n\nOrange cookie was neat, housemade style. It crumbled and slightly dry. The staff said it was main to be paired with hot chai latte which I would recommend dip into ur drink.",
+      "text": "Totally a hidden gem that you want a great drink but not necessarily coffee.. amazing tea lattes!\nThe store is stylish and the staff is super nice.\n\n❤️‍🔥✨✨Nitro chai latte was soooo good! It was smooth with rich spiced flavors. (They ran out of it but I got to taste a little leftover.. definitely going back for this.)\n\n✨☕️chai latte is totally a great option on a cold day. Same, great spiced flavor, warming you up.\n\nOrange cookie was neat, housemade style. It crumbled and slightly dry. The staff said it was main to be paired with hot chai latte which I would recommend dip into ur drink.",
       "time": 1734217710,
       "translated": false
     },
@@ -385,7 +385,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEJ-B9bgM5WLK8I587InBzk9VY5hOKYXennazZ9ZjYlQH_xmFf-g=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "If you\u2019re not paying attention you\u2019ll miss it. I was lucky to see the sign and look below to see a gem of a spot. I\u2019m more of a coffee person so I brought my chai loving friend. We absolutely find the drinks lovely and the space tranquil.\nThe barista (owner?) was stirring the tall pot on the stove when we approached them counter in the back. The menu is limited probably cause everything is made there. I had the earl grey and OG. Smooth and full of flavors. Perfect on a chilly NYC day.\nThe space is simple and zen. Not distracting and quiet so you can have quiet conversations or focus to work.\nWorth repeating.",
+      "text": "If you’re not paying attention you’ll miss it. I was lucky to see the sign and look below to see a gem of a spot. I’m more of a coffee person so I brought my chai loving friend. We absolutely find the drinks lovely and the space tranquil.\nThe barista (owner?) was stirring the tall pot on the stove when we approached them counter in the back. The menu is limited probably cause everything is made there. I had the earl grey and OG. Smooth and full of flavors. Perfect on a chilly NYC day.\nThe space is simple and zen. Not distracting and quiet so you can have quiet conversations or focus to work.\nWorth repeating.",
       "time": 1737057575,
       "translated": false
     },
@@ -397,7 +397,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8XcwXsMBR5iNpQMqQE0OGii4b3FxOCAqrLDu6-L_A7WOK9N4_=s128-c0x00000000-cc-rp-mo-ba7",
       "rating": 5,
       "relative_time_description": "8 months ago",
-      "text": "Stumbled upon this chai spot and was immediately blown away \u2013 it\u2019s hands down the best chai I\u2019ve ever had! Incredibly rich & earthy with layers of flavor and depth. The shop itself is cozy with a number of seats available, and the barista was super friendly. It\u2019s the perfect place to enjoy a cup of chai, hang out with friends, or relax with a book.",
+      "text": "Stumbled upon this chai spot and was immediately blown away – it’s hands down the best chai I’ve ever had! Incredibly rich & earthy with layers of flavor and depth. The shop itself is cozy with a number of seats available, and the barista was super friendly. It’s the perfect place to enjoy a cup of chai, hang out with friends, or relax with a book.",
       "time": 1728248288,
       "translated": false
     }
@@ -421,8 +421,33 @@
   "website": "http://thehideoutnyc.com/",
   "wheelchair_accessible_entrance": false,
   "emails": [
-    "hi@mystore.com",
-    "13e49d785d8d4f828038b6136f3b48ba@sentry.io"
+    "13e49d785d8d4f828038b6136f3b48ba@sentry.io",
+    "hi@mystore.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:16.698060+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:16.698060+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:06.496505+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.thehideoutnyc.com",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.thehideoutnyc.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.thehideoutnyc.com/about",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:43.947094+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

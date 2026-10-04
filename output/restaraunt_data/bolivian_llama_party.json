@@ -1,0 +1,95 @@
+{
+  "adr_address": "<span class=\"street-address\">44-14 48th Ave</span>, <span class=\"locality\">Woodside</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11377-6344</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "44-14 48th Ave, Woodside, NY 11377, USA",
+  "formatted_phone_number": "(347) 370-9102",
+  "geometry": {
+    "location": {
+      "lat": 40.7393493,
+      "lng": -73.9207462
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7407539302915,
+        "lng": -73.91937731970849
+      },
+      "southwest": {
+        "lat": 40.7380559697085,
+        "lng": -73.92207528029151
+      }
+    }
+  },
+  "international_phone_number": "+1 347-370-9102",
+  "name": "Bolivian Llama Party",
+  "place_id": "ChIJ4T48ovNfwokRzcUcEojz55M",
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=10657754808940545485",
+  "website": "http://www.blp.nyc/",
+  "details_checked_at": "2026-10-03T21:59:36.893182+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:36.893182+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:56.356828+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.blp.nyc/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.blp.nyc/contact-us",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.blp.nyc/location",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.blp.nyc/location/blissville",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.blp.nyc/location/celtic-park",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.blp.nyc/location/dutch-kills",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.blp.nyc/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.blp.nyc/contact-us",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.blp.nyc/location",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.blp.nyc/contact-us"
+    ],
+    "browser_checked_at": "2026-10-03T22:07:25.363827+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

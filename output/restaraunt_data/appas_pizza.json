@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -264,13 +264,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -373,7 +373,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9aI9N7YIBUxQLz8U8exCmzViRwY5Z-U3VKyBvCgZrPBWEaMwy=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Who knew potato pizza could taste this amazing? Totally blown away by the flavor! The corn pizza wasn\u2019t quite my favorite, but still pretty good. And don\u2019t even get me started on the fried chicken, crispy and absolutely delicious.\"",
+      "text": "Who knew potato pizza could taste this amazing? Totally blown away by the flavor! The corn pizza wasn’t quite my favorite, but still pretty good. And don’t even get me started on the fried chicken, crispy and absolutely delicious.\"",
       "time": 1747722399,
       "translated": false
     },
@@ -385,7 +385,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfM4WFzncCUNgqi2gQAdP-30tGf4x3B_1ZD86hmGVN9vTxVEPCmw=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "in the last week",
-      "text": "Adore this place. Korean pizza w corn crust. The sauce was SO good. The flavours impressive!!! One pizza is more than enough for a person. You can add two flavours to your pizza. The dipping sauce was delish. Mochi doughnut also great. I can\u2019t wait to come back!\n\nEasy to get a seat on a friday night.\n\nSweet potato pizza was really nice",
+      "text": "Adore this place. Korean pizza w corn crust. The sauce was SO good. The flavours impressive!!! One pizza is more than enough for a person. You can add two flavours to your pizza. The dipping sauce was delish. Mochi doughnut also great. I can’t wait to come back!\n\nEasy to get a seat on a friday night.\n\nSweet potato pizza was really nice",
       "time": 1750605471,
       "translated": false
     },
@@ -397,7 +397,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvrXyys2r2xyHoxTSPaUba3xOECs8ToaVDP3iCUlhUhr82LQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Just tried Appas Pizza and it\u2019s a must-visit! The hammelon smoothie\ud83c\udf48 is refreshing and perfectly sweet, while the pear juice\ud83c\udf50 is light and delicious. Their fried chicken\ud83c\udf57 (available in two flavors, or as a combo) is crispy and juicy\u2014so good!\n\nBut the star is definitely the pizza\ud83c\udf55! Perfectly suited for Asian tastes, the shrimp-chicken and bacon pizzas are loaded with flavor. Can\u2019t wait to come back and try more!\n\nHighly recommend for a unique and satisfying meal! \ud83d\udc4c",
+      "text": "Just tried Appas Pizza and it’s a must-visit! The hammelon smoothie🍈 is refreshing and perfectly sweet, while the pear juice🍐 is light and delicious. Their fried chicken🍗 (available in two flavors, or as a combo) is crispy and juicy—so good!\n\nBut the star is definitely the pizza🍕! Perfectly suited for Asian tastes, the shrimp-chicken and bacon pizzas are loaded with flavor. Can’t wait to come back and try more!\n\nHighly recommend for a unique and satisfying meal! 👌",
       "time": 1740948138,
       "translated": false
     },
@@ -421,7 +421,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFVRCHgVtyNpQ0dhpjl4Du2VY7HCYCuwd3UqyBJDZ9OVeYNSnh=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 2,
       "relative_time_description": "in the last week",
-      "text": "Reminded me Little Caesar\u2019s or Marco\u2019s Pizza. Overly cheesy with dough and crust this is too thick. While the Korean flavors were non-existent (we thought the Bulgoi was a Supreme pizza for a bit)\n\nMy advice would be to double down on the wings - those were at least crisp and nice to eat",
+      "text": "Reminded me Little Caesar’s or Marco’s Pizza. Overly cheesy with dough and crust this is too thick. While the Korean flavors were non-existent (we thought the Bulgoi was a Supreme pizza for a bit)\n\nMy advice would be to double down on the wings - those were at least crisp and nice to eat",
       "time": 1750594350,
       "translated": false
     }
@@ -517,13 +517,13 @@
       ],
       "type": "DELIVERY",
       "weekday_text": [
-        "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
       ]
     },
     {
@@ -616,13 +616,13 @@
       ],
       "type": "TAKEOUT",
       "weekday_text": [
-        "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
       ]
     }
   ],
@@ -648,5 +648,18 @@
   "emails": [
     "hello@appaspizza.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:04:40.763655+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:40.763655+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:06.570670+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.aftynforcongress.com/?utm_source=google",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

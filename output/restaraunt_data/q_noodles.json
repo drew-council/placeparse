@@ -145,13 +145,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:30 PM",
+      "Saturday: 11:00 AM – 9:30 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -254,13 +254,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:30 PM",
+      "Saturday: 11:00 AM – 9:30 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -398,7 +398,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxoOgF40Pj92PjF4Uz-EbXXrPghj6vDLjgODMSKh7ZfvYpFIY1=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Super happy we stopped here for our late lunch! We got their cucumber in garlic sauce appetizer, super delicious only a little spicy, we both got a drink (mango smoothie & virgin passion fruit mojito) absolutely delicious. Would definitely recommend the mojito. We got their mixed soup dumplings, super super good can\u2019t go wrong with soup dumplings definitely recommend. Got their steamed chicken & mushroom gyoza & their Chongqing noodles. The gyoza were amazing, the noodles were pretty yummy, the broth was delicious.",
+      "text": "Super happy we stopped here for our late lunch! We got their cucumber in garlic sauce appetizer, super delicious only a little spicy, we both got a drink (mango smoothie & virgin passion fruit mojito) absolutely delicious. Would definitely recommend the mojito. We got their mixed soup dumplings, super super good can’t go wrong with soup dumplings definitely recommend. Got their steamed chicken & mushroom gyoza & their Chongqing noodles. The gyoza were amazing, the noodles were pretty yummy, the broth was delicious.",
       "time": 1746135857,
       "translated": false
     },
@@ -410,7 +410,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUA2IQ-bykFmdiMsrBASi1ipMtgozb6pyXFQumFApgXpPNNH34=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "Tried the spicy wontons, piggy buns, and soup dumplings at Q Noodles all were delicious! The wontons had a nice kick, the piggy buns were cute and tasty, and the soup dumplings were full of flavor. Great food and friendly service. I\u2019ll be back!",
+      "text": "Tried the spicy wontons, piggy buns, and soup dumplings at Q Noodles all were delicious! The wontons had a nice kick, the piggy buns were cute and tasty, and the soup dumplings were full of flavor. Great food and friendly service. I’ll be back!",
       "time": 1749573288,
       "translated": false
     }
@@ -437,5 +437,25 @@
   "emails": [
     "user@domain.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:57.526488+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:57.526488+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:47.704206+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.qnoodles.co/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.qnoodles.co/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:07.653471+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

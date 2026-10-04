@@ -168,13 +168,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Tuesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 4:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 1:00 AM",
+      "Saturday: 12:00 PM – 1:00 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
     ]
   },
   "delivery": true,
@@ -281,13 +281,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Tuesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 4:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 1:00 AM",
+      "Saturday: 12:00 PM – 1:00 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
     ]
   },
   "photos": [
@@ -426,7 +426,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9L2pvSqwQmekBN_3yDJIXIAT_HvtKQ09Abpz-8JBzFHWU9nca=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "Very cozy and cool place to visit with family or friends. We came there for a drink, to relax after a long week. Moscow Mule was excellent! The next day we came back for oysters. They were just amazing! The staff is very friendly and they recognized us right away which means they pay attention to their customers\u263a\ufe0f We are definitely planning to visit this place again when we will travel to Brooklyn again.",
+      "text": "Very cozy and cool place to visit with family or friends. We came there for a drink, to relax after a long week. Moscow Mule was excellent! The next day we came back for oysters. They were just amazing! The staff is very friendly and they recognized us right away which means they pay attention to their customers☺️ We are definitely planning to visit this place again when we will travel to Brooklyn again.",
       "time": 1688160229,
       "translated": false
     },
@@ -479,8 +479,8 @@
         "Wednesday: Closed",
         "Thursday: Closed",
         "Friday: Closed",
-        "Saturday: 12:00\u2009\u2013\u20093:00\u202fPM",
-        "Sunday: 12:00\u2009\u2013\u20093:00\u202fPM"
+        "Saturday: 12:00 – 3:00 PM",
+        "Sunday: 12:00 – 3:00 PM"
       ]
     }
   ],
@@ -503,5 +503,32 @@
   "emails": [
     "otbbrooklyn@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:51.245861+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:51.245861+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:39.879847+00:00",
+    "outcome": "found",
+    "sources": {
+      "otbbrooklyn@gmail.com": [
+        "http://www.otbbk.com/",
+        "http://www.otbbk.com/hours-location"
+      ]
+    },
+    "pages": [
+      {
+        "url": "http://www.otbbk.com/",
+        "status": "ok",
+        "emails": [
+          "otbbrooklyn@gmail.com"
+        ]
+      },
+      {
+        "url": "http://www.otbbk.com/hours-location",
+        "status": "ok",
+        "emails": [
+          "otbbrooklyn@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

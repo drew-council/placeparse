@@ -129,11 +129,11 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 11:30 AM – 8:00 PM",
+      "Wednesday: 11:30 AM – 8:00 PM",
+      "Thursday: 11:30 AM – 8:00 PM",
+      "Friday: 11:30 AM – 8:00 PM",
+      "Saturday: 11:30 AM – 8:00 PM",
       "Sunday: Closed"
     ]
   },
@@ -222,11 +222,11 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 11:30 AM – 8:00 PM",
+      "Wednesday: 11:30 AM – 8:00 PM",
+      "Thursday: 11:30 AM – 8:00 PM",
+      "Friday: 11:30 AM – 8:00 PM",
+      "Saturday: 11:30 AM – 8:00 PM",
       "Sunday: Closed"
     ]
   },
@@ -330,7 +330,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtdYtvXdsdwZ63kIXnEoGIPEw1vC9I4miKXsX-QNTpFIrWQYKOkA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "6 months ago",
-      "text": "Bullock\u2019s has been a tradition passed down through my family for years now. We\u2019re not in the area frequently, but this is the place we go when we are! Definitely recommend checking this place out.\n\nThe real way to go is get the family style dinner with a large group, and you\u2019d still have plenty of food to bring home. Tonight we didn\u2019t want leftovers so we go individual meals and the brisket was the choice. Don\u2019t recommend the green beans. Way overcooked with no flavor. The chicken, the Brunswick stew, the baked beans, is flavor you can\u2019t get anywhere else. Another bonus: they start you with hushpuppies. Great restaurant to stop at if you\u2019re hungry and need something to start before your meal. One critic; they used to make the sweet butter but now they use premade. Miss a bit of the authenticity.\n\nService was phenomenal! Waitress never let our drinks empty, and was very friendly. Typical experience is friendly accommodating staff. They allow substitutes for most of their combos as well.\n\nOverall, good BBQ!!",
+      "text": "Bullock’s has been a tradition passed down through my family for years now. We’re not in the area frequently, but this is the place we go when we are! Definitely recommend checking this place out.\n\nThe real way to go is get the family style dinner with a large group, and you’d still have plenty of food to bring home. Tonight we didn’t want leftovers so we go individual meals and the brisket was the choice. Don’t recommend the green beans. Way overcooked with no flavor. The chicken, the Brunswick stew, the baked beans, is flavor you can’t get anywhere else. Another bonus: they start you with hushpuppies. Great restaurant to stop at if you’re hungry and need something to start before your meal. One critic; they used to make the sweet butter but now they use premade. Miss a bit of the authenticity.\n\nService was phenomenal! Waitress never let our drinks empty, and was very friendly. Typical experience is friendly accommodating staff. They allow substitutes for most of their combos as well.\n\nOverall, good BBQ!!",
       "time": 1734062489,
       "translated": false
     },
@@ -403,5 +403,36 @@
   "vicinity": "3330 Quebec Dr, Durham",
   "website": "http://www.bullocks-bbq.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:48.071377+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:48.071377+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:13.717184+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://www.bullocks-bbq.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "http://www.bullocks-bbq.com/about.html",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.bullocks-bbq.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.bullocks-bbq.com/about.html",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:07:53.463168+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

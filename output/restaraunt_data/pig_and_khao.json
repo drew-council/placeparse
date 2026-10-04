@@ -219,7 +219,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZeinWeyRj5M-q0Hfi-pOfQaW3Sfxbs_cYE6Wqn8zioDQwLCq4=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "2 months ago",
-      "text": "dinner menu > lunch menu\n- so i usually go here for dinner when im in nyc & tdy was my first time having lunch here. the lunch menu was alr, food is good (8/10) but the DINNER MENU??? so delicious so fye. they got pork adobo & the duck for dinner SO GOOD\n- we ordered a lot for lunch so it was v fulfilling but in general portions r pretty small\n\nservice: 10/10 excellent hospitality! matthew (our server) gave us free dessert hihi tdy. he was a vibe\ud83d\ude0e\n\natmosphere: good music, love the aesthetic",
+      "text": "dinner menu > lunch menu\n- so i usually go here for dinner when im in nyc & tdy was my first time having lunch here. the lunch menu was alr, food is good (8/10) but the DINNER MENU??? so delicious so fye. they got pork adobo & the duck for dinner SO GOOD\n- we ordered a lot for lunch so it was v fulfilling but in general portions r pretty small\n\nservice: 10/10 excellent hospitality! matthew (our server) gave us free dessert hihi tdy. he was a vibe😎\n\natmosphere: good music, love the aesthetic",
       "time": 1744569809,
       "translated": false
     },
@@ -269,7 +269,45 @@
   "website": "http://www.pigandkhao.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
+    "events@pigandkhao.com",
     "info@pigandkhao.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:55.212707+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:55.212707+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:44.400678+00:00",
+    "outcome": "found",
+    "sources": {
+      "events@pigandkhao.com": [
+        "https://www.pigandkhao.com/contact",
+        "https://www.pigandkhao.com/events"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.pigandkhao.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.pigandkhao.com/contact",
+        "status": "ok",
+        "emails": [
+          "events@pigandkhao.com"
+        ]
+      },
+      {
+        "url": "https://www.pigandkhao.com/events",
+        "status": "ok",
+        "emails": [
+          "events@pigandkhao.com"
+        ]
+      },
+      {
+        "url": "https://www.pigandkhao.com/uwsreservations",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -1,0 +1,61 @@
+{
+  "adr_address": "<span class=\"extended-address\">Gennaro Restaurant</span>, <span class=\"street-address\">665 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "Gennaro Restaurant, 665 Amsterdam Ave, New York, NY 10025, USA",
+  "formatted_phone_number": "(212) 665-5348",
+  "geometry": {
+    "location": {
+      "lat": 40.7918526,
+      "lng": -73.9717536
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7931989302915,
+        "lng": -73.9705022697085
+      },
+      "southwest": {
+        "lat": 40.7905009697085,
+        "lng": -73.97320023029151
+      }
+    }
+  },
+  "international_phone_number": "+1 212-665-5348",
+  "name": "Gennaro Restaurant",
+  "place_id": "ChIJgZf5t4JYwokREzCI3PUjwvY",
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=17780813817686011923",
+  "website": "https://www.gennaronyc.com/",
+  "details_checked_at": "2026-10-03T21:59:03.955483+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:03.955483+00:00",
+  "emails": [
+    "gennaro@gennaronyc.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:06.463413+00:00",
+    "outcome": "found",
+    "sources": {
+      "gennaro@gennaronyc.com": [
+        "https://www.gennaronyc.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.gennaronyc.com/",
+        "status": "ok",
+        "emails": [
+          "gennaro@gennaronyc.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.gennaronyc.com/"
+    ]
+  }
+}

@@ -144,12 +144,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
     ]
   },
   "dine_in": true,
@@ -246,12 +246,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -353,7 +353,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDdHkU5Kp3fCBnbbH_anzU-M5PNRdRNMdPEZjCJ_tL_fe5fA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Recently had the pleasure of enjoying my first omakase experience at Sanyuu West, and it truly exceeded expectations. The dedicated chef assigned to our party crafted one masterpiece after another, all prepared right in front of us. The atmosphere was calm and inviting - perfect for a special dinner. At $78, the 15-course meal felt like great value and surprisingly accessible. To top it off, guests were offered the option to reorder their favorite dishes from the \u00e0 la carte menu at the end.",
+      "text": "Recently had the pleasure of enjoying my first omakase experience at Sanyuu West, and it truly exceeded expectations. The dedicated chef assigned to our party crafted one masterpiece after another, all prepared right in front of us. The atmosphere was calm and inviting - perfect for a special dinner. At $78, the 15-course meal felt like great value and surprisingly accessible. To top it off, guests were offered the option to reorder their favorite dishes from the à la carte menu at the end.",
       "time": 1746263248,
       "translated": false
     },
@@ -377,7 +377,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYChEoluwgenqY8CduIC5j6trXxvgUjtaq2iI-W-RIeTtf5TQQaQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 3,
       "relative_time_description": "2 months ago",
-      "text": "I enjoyed this place, until I didn\u2019t. It took me a while to write this review because, unfortunately, the experience wasn\u2019t the best for me. At the beginning of our meal, the sushi chef  went to the back with their gloves still on and returned about three minutes later without changing them. If I could wipe that image from my mind, I would say the sushi was delicious, but overall, the service left much to be desired.\nIn addition, our chef was running behind, so by the time everyone else had finished, we had not. As a result, toward the end of our meal, we were being rushed out.",
+      "text": "I enjoyed this place, until I didn’t. It took me a while to write this review because, unfortunately, the experience wasn’t the best for me. At the beginning of our meal, the sushi chef  went to the back with their gloves still on and returned about three minutes later without changing them. If I could wipe that image from my mind, I would say the sushi was delicious, but overall, the service left much to be desired.\nIn addition, our chef was running behind, so by the time everyone else had finished, we had not. As a result, toward the end of our meal, we were being rushed out.",
       "time": 1745813526,
       "translated": false
     },
@@ -423,5 +423,32 @@
   "emails": [
     "hello@sanyuuwest.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:04.338100+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:04.338100+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:54.767224+00:00",
+    "outcome": "found",
+    "sources": {
+      "hello@sanyuuwest.com": [
+        "https://www.sanyuuwest.com/",
+        "https://www.sanyuuwest.com/reservations"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.sanyuuwest.com/",
+        "status": "ok",
+        "emails": [
+          "hello@sanyuuwest.com"
+        ]
+      },
+      {
+        "url": "https://www.sanyuuwest.com/reservations",
+        "status": "ok",
+        "emails": [
+          "hello@sanyuuwest.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -1,0 +1,64 @@
+{
+  "adr_address": "<span class=\"street-address\">35-11 35th Ave</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11106</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "35-11 35th Ave, Astoria, NY 11106, USA",
+  "formatted_phone_number": "(718) 204-5002",
+  "geometry": {
+    "location": {
+      "lat": 40.7567144,
+      "lng": -73.9246701
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7578376302915,
+        "lng": -73.9231892197085
+      },
+      "southwest": {
+        "lat": 40.75513966970851,
+        "lng": -73.92588718029151
+      }
+    }
+  },
+  "international_phone_number": "+1 718-204-5002",
+  "name": "Sac's Place",
+  "place_id": "ChIJ9yi_ITdfwokR-NlVT6D9tMw",
+  "types": [
+    "establishment",
+    "food",
+    "meal_delivery",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=14750693544512838136",
+  "website": "http://www.sacsplace.com/",
+  "details_checked_at": "2026-10-03T21:59:22.360456+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:22.360456+00:00",
+  "emails": [
+    "sacsplace@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:21.676051+00:00",
+    "outcome": "found",
+    "sources": {
+      "sacsplace@gmail.com": [
+        "https://sacsplace.com"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://sacsplace.com",
+        "status": "ok",
+        "emails": [
+          "sacsplace@gmail.com"
+        ]
+      },
+      {
+        "url": "https://sacsplace.com/private-dinners",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
+}

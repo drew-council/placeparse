@@ -1,0 +1,62 @@
+{
+  "adr_address": "<span class=\"street-address\">166 1st Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10009-4502</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "166 1st Ave, New York, NY 10009, USA",
+  "formatted_phone_number": "(646) 454-1844",
+  "geometry": {
+    "location": {
+      "lat": 40.7288416,
+      "lng": -73.9840888
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7302364302915,
+        "lng": -73.98286356970848
+      },
+      "southwest": {
+        "lat": 40.72753846970851,
+        "lng": -73.98556153029149
+      }
+    }
+  },
+  "international_phone_number": "+1 646-454-1844",
+  "name": "Good Time Country Buffet",
+  "place_id": "ChIJLyAweABZwokRUplPxH-_6ZM",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=10658260548624292178",
+  "website": "http://www.goodtimebuffet.com/",
+  "details_checked_at": "2026-10-03T21:59:04.911712+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:04.911712+00:00",
+  "emails": [
+    "contact@goodtimebuffet.com",
+    "goodtime@hellobecca.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:07.192811+00:00",
+    "outcome": "found",
+    "sources": {
+      "contact@goodtimebuffet.com": [
+        "https://www.goodtimebuffet.com/"
+      ],
+      "goodtime@hellobecca.com": [
+        "https://www.goodtimebuffet.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.goodtimebuffet.com/",
+        "status": "ok",
+        "emails": [
+          "contact@goodtimebuffet.com",
+          "goodtime@hellobecca.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
+}

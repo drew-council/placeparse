@@ -1,0 +1,70 @@
+{
+  "adr_address": "<span class=\"extended-address\">Vanderbilt Market - Bars &amp; Eateries</span>, <span class=\"street-address\">230 Park Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10169</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "Vanderbilt Market - Bars & Eateries, 230 Park Ave, New York, NY 10169, USA",
+  "formatted_phone_number": "(646) 866-6900",
+  "geometry": {
+    "location": {
+      "lat": 40.7543604,
+      "lng": -73.9761919
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.75571833029149,
+        "lng": -73.97486511970848
+      },
+      "southwest": {
+        "lat": 40.75302036970849,
+        "lng": -73.9775630802915
+      }
+    }
+  },
+  "international_phone_number": "+1 646-866-6900",
+  "name": "Tradisyon",
+  "place_id": "ChIJdyk-enFZwokR1bLvV9GdJSQ",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=2604661481952752341",
+  "website": "http://www.tradisyonnyc.com/",
+  "details_checked_at": "2026-10-03T21:59:16.490400+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:16.490400+00:00",
+  "emails": [
+    "info@tradisyonnyc.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:29.163512+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@tradisyonnyc.com": [
+        "https://tradisyonnyc.com/",
+        "https://tradisyonnyc.com/new-york-tradisyon-about"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://tradisyonnyc.com/",
+        "status": "ok",
+        "emails": [
+          "info@tradisyonnyc.com"
+        ]
+      },
+      {
+        "url": "https://tradisyonnyc.com/new-york-tradisyon-catering",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://tradisyonnyc.com/new-york-tradisyon-about",
+        "status": "ok",
+        "emails": [
+          "info@tradisyonnyc.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
+}

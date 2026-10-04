@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
     ]
   },
   "delivery": true,
@@ -268,13 +268,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
     ]
   },
   "photos": [
@@ -377,7 +377,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXhXgKO0BhX62-xjaukavtwMEwC8ijRy7nJK012rINBy3WtUrynw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "2 months ago",
-      "text": "Absolutely the worst Indian buffet I\u2019ve ever had. The food was worse than worst \u2014 cold, stale, and completely tasteless. Minimal variety and shockingly, breads aren\u2019t even included. What kind of buffet does that?\n\nOnly saving grace was the server, who was polite and kind \u2014 but sadly, no good service can make up for food this bad.\n\nDhaba NYC is on a whole different level. Do yourself a favor and stay far away from this place.",
+      "text": "Absolutely the worst Indian buffet I’ve ever had. The food was worse than worst — cold, stale, and completely tasteless. Minimal variety and shockingly, breads aren’t even included. What kind of buffet does that?\n\nOnly saving grace was the server, who was polite and kind — but sadly, no good service can make up for food this bad.\n\nDhaba NYC is on a whole different level. Do yourself a favor and stay far away from this place.",
       "time": 1744399189,
       "translated": false
     },
@@ -401,7 +401,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkIcicGbjq6P4H94_weEmzRgvuRQZriF4WxKtETnmJxrriwS0=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "Amazing customer service. Everyone is so sweet here and their food is amazing. I got the butter chicken with a white rice on the side and garlic none 100/10 well, come again!!\ud83e\udd70\ud83e\udd70",
+      "text": "Amazing customer service. Everyone is so sweet here and their food is amazing. I got the butter chicken with a white rice on the side and garlic none 100/10 well, come again!!🥰🥰",
       "time": 1748988961,
       "translated": false
     },
@@ -413,7 +413,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKd54JYxrCYOMMXyREM7oA-OLyiN96eHKPw6Qj3-KP2X6KjAQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Incredible meal! I had the coconut chicken and it was delicious, perfectly portioned, amazing spices, 10 out of 10!\n\nService was great. All of the folks were very kind and attentive and quick.\n\nI\u2019m just bummed that I spent two years living in this neighborhood and not going before today.",
+      "text": "Incredible meal! I had the coconut chicken and it was delicious, perfectly portioned, amazing spices, 10 out of 10!\n\nService was great. All of the folks were very kind and attentive and quick.\n\nI’m just bummed that I spent two years living in this neighborhood and not going before today.",
       "time": 1745871466,
       "translated": false
     },
@@ -425,7 +425,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5DzNGFgkRQPA36a6BBSJ0-8BVvfP0746ESlQb5G5ECAJ5DQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "We had lunch today at it was amazing, everything was so good & the waiters were so friendly. I\u2019d definitely recommend the lasso mango which was citrusy and thick, we\u2019re definitely coming back.",
+      "text": "We had lunch today at it was amazing, everything was so good & the waiters were so friendly. I’d definitely recommend the lasso mango which was citrusy and thick, we’re definitely coming back.",
       "time": 1742688246,
       "translated": false
     }
@@ -450,5 +450,44 @@
   "vicinity": "195 5th Ave, Brooklyn",
   "website": "http://www.namastebk.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:43.935005+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:43.935005+00:00",
+  "emails": [
+    "hello@divibrewery.com",
+    "info@namastebk.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:32.582834+00:00",
+    "outcome": "found",
+    "sources": {
+      "hello@divibrewery.com": [
+        "https://namastebk.com/contact/"
+      ],
+      "info@namastebk.com": [
+        "https://namastebk.com/contact/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "http://www.namastebk.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://namastebk.com/contact/",
+        "status": "ok",
+        "emails": [
+          "hello@divibrewery.com",
+          "info@namastebk.com"
+        ]
+      },
+      {
+        "url": "https://namastebk.com/about-us/",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://namastebk.com/contact/"
+    ]
+  }
 }

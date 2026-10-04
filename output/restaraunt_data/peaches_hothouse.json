@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -267,13 +267,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -388,7 +388,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVELAo3Pgw1X0OCQg0nx8J5WEwpBnJTrZU-NL1pi2aqqhyQguwi=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "5 months ago",
-      "text": "Quite good southern food within the Peaches Restaurant empire in Brooklyn. It\u2019s a fast casual spot, along with brunch, and also it seems like it\u2019s great for the summer and spring months as well.\n\nThe Chicken was juicy, flavorful, and fried nicely. Hot was hot. Spicier than let\u2019s say an El Yucateco. Cornbread was moist and fresh. The fries were a bit sad.\n\nThe collard greens were absolutely delicious. Easily the best part of southern food and it\u2019s been a while since I\u2019ve had. $7, costly, but worth it. Same with the Mac, which was more like Cheese and Mac rather than Mac and Cheese. Still delicious and gluttonous.\n\nI\u2019ll be back to try some sandwiches in the sunny months.",
+      "text": "Quite good southern food within the Peaches Restaurant empire in Brooklyn. It’s a fast casual spot, along with brunch, and also it seems like it’s great for the summer and spring months as well.\n\nThe Chicken was juicy, flavorful, and fried nicely. Hot was hot. Spicier than let’s say an El Yucateco. Cornbread was moist and fresh. The fries were a bit sad.\n\nThe collard greens were absolutely delicious. Easily the best part of southern food and it’s been a while since I’ve had. $7, costly, but worth it. Same with the Mac, which was more like Cheese and Mac rather than Mac and Cheese. Still delicious and gluttonous.\n\nI’ll be back to try some sandwiches in the sunny months.",
       "time": 1738042618,
       "translated": false
     },
@@ -424,7 +424,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI60lM2FusLm4N4eK-fhVSBcIZBw6SVQ1iHtTsSB80IVTnvjA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "5 months ago",
-      "text": "Went for a quick meal for lunch and it was a great atmosphere. The staff was friendly the music was great . The grits weren\u2019t the best I felt like I was eating butter and grits not grits with butter . It was so over powering I didn\u2019t eat more than 2 spoonfuls. The collard greens were ok and the shrimp was good.",
+      "text": "Went for a quick meal for lunch and it was a great atmosphere. The staff was friendly the music was great . The grits weren’t the best I felt like I was eating butter and grits not grits with butter . It was so over powering I didn’t eat more than 2 spoonfuls. The collard greens were ok and the shrimp was good.",
       "time": 1737764341,
       "translated": false
     }
@@ -496,11 +496,11 @@
       ],
       "type": "HAPPY_HOUR",
       "weekday_text": [
-        "Monday: 1:00\u2009\u2013\u20096:00\u202fPM",
-        "Tuesday: 1:00\u2009\u2013\u20096:00\u202fPM",
-        "Wednesday: 1:00\u2009\u2013\u20096:00\u202fPM",
-        "Thursday: 1:00\u2009\u2013\u20096:00\u202fPM",
-        "Friday: 1:00\u2009\u2013\u20096:00\u202fPM",
+        "Monday: 1:00 – 6:00 PM",
+        "Tuesday: 1:00 – 6:00 PM",
+        "Wednesday: 1:00 – 6:00 PM",
+        "Thursday: 1:00 – 6:00 PM",
+        "Friday: 1:00 – 6:00 PM",
         "Saturday: Closed",
         "Sunday: Closed"
       ]
@@ -526,5 +526,59 @@
   "vicinity": "Tompkins Avenue Merchants Association, 415 Tompkins Ave, Brooklyn",
   "website": "http://www.bcrestaurantgroup.com/hothouse",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:52.899029+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:52.899029+00:00",
+  "emails": [
+    "peachesgrand@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:42.020224+00:00",
+    "outcome": "found",
+    "sources": {
+      "peachesgrand@gmail.com": [
+        "https://www.bcrestaurantgroup.com/location/peaches-grand/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.bcrestaurantgroup.com/location/peaches-hot-house-bed-stuy/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.bcrestaurantgroup.com/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.bcrestaurantgroup.com/about/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.bcrestaurantgroup.com/private-dining/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.bcrestaurantgroup.com/catering-and-events/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.bcrestaurantgroup.com/location/peaches-grand/",
+        "status": "ok",
+        "emails": [
+          "peachesgrand@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.bcrestaurantgroup.com/location/peaches-hot-house-bed-stuy/",
+      "https://www.bcrestaurantgroup.com/contact/",
+      "https://www.bcrestaurantgroup.com/about/",
+      "https://www.bcrestaurantgroup.com/private-dining/",
+      "https://www.bcrestaurantgroup.com/catering-and-events/",
+      "https://www.bcrestaurantgroup.com/location/peaches-grand/"
+    ]
+  }
 }

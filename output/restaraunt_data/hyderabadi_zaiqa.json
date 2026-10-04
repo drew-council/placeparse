@@ -1,0 +1,56 @@
+{
+  "adr_address": "<span class=\"street-address\">184 Lexington Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10016</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "184 Lexington Ave, New York, NY 10016, USA",
+  "formatted_phone_number": "(646) 454-0033",
+  "geometry": {
+    "location": {
+      "lat": 40.7448906,
+      "lng": -73.9811604
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7462011302915,
+        "lng": -73.97967826970849
+      },
+      "southwest": {
+        "lat": 40.74350316970851,
+        "lng": -73.9823762302915
+      }
+    }
+  },
+  "international_phone_number": "+1 646-454-0033",
+  "name": "HYDERABADI ZAIQA",
+  "place_id": "ChIJjV-YTgBZwokRVeWJgF_z7eE",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=16279935819518174549",
+  "website": "https://hyderabadizaiqalexington.com/",
+  "details_checked_at": "2026-10-03T21:59:29.613408+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:29.613408+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:08.914361+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://hyderabadizaiqalexington.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://hyderabadizaiqalexington.com/",
+        "status": "browser_blocked",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:09:15.294406+00:00",
+    "browser_outcome": "incomplete_lookup"
+  }
+}

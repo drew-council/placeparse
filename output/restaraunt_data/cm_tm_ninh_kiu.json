@@ -215,12 +215,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM"
+      "Tuesday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM",
+      "Wednesday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM",
+      "Thursday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM",
+      "Friday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM",
+      "Saturday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM",
+      "Sunday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM"
     ]
   },
   "delivery": true,
@@ -251,7 +251,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 718-450-3833",
-  "name": "C\u01a1m T\u1ea5m Ninh Ki\u1ec1u",
+  "name": "Cơm Tấm Ninh Kiều",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -378,19 +378,19 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM"
+      "Tuesday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM",
+      "Wednesday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM",
+      "Thursday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM",
+      "Friday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM",
+      "Saturday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM",
+      "Sunday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM"
     ]
   },
   "photos": [
     {
       "height": 2269,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/116747334423237357061\">C\u01a1m T\u1ea5m Ninh Ki\u1ec1u</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/116747334423237357061\">Cơm Tấm Ninh Kiều</a>"
       ],
       "photo_reference": "ATKogpeLizN4YV7cJdL2KLLVDvLuIeMq6IDZSk6WYbXf6Zh1oatC_XyFsac2gnmL6ia3m_UhVc9xAixbaYTpm2wN8nXUcCQo2iTxtOlBdIbCSDt_IEVcZTkm8YesZZiS6J_V6Lbd9_bonRCDSJG8Fs6l8huPD-fie5k_PX2ZFoEh2EbU7VlkZih2scyGXBnx2MLQqXfiN_f5mTxWvryFBeD_gzhqeslAVUv87ic5NL7GSoyQg0Lr5FftCQaUwiFGLKUWI2XBZyHva7NdpewlDpTWm8g_mKLm-AV9bjDoHALQB1c5sA",
       "width": 4032
@@ -486,7 +486,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPu7vik0ama4YFIBo_PhOK38fLtc5qSXwVBY4mDm3MQ2lb2N1U=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "My friends and I went to visit a Vietnamese cuisine, and we entered a comfortable and calm restaurant with a home-like atmosphere, which is good for customers who want to relax. The waiter directed us to our seats upon our arrival. After we settled down for 15 minutes, the friendly waiter took our orders. We got our drinks first, which was a delicious Viet Iced Coffee. My friends notified me that the wait time was considerably long, and he counted about 35 minutes, and they said that four people who ordered after us were already served. My friends are used to being served quickly, so I just listened to their opinion. I didn\u2019t pay attention to my surroundings, and I was okay with the long wait, since I believed that the food was being prepared with great care. After 35 minutes, the Wings were served. They were delicious. I had to take pictures of the  noodles and soups. The beef was especially tasty and the seasoning was perfect. The bowls the waiter gave us were huge. I was filled with all the food. I was thinking of getting a second beef order with dessert, but the savory Beef Pho Soup already made me full and happy. I had a good time catching up with our daily lives.\n\nGoing to this Vietnamese restaurant really took me to a new ride in healthy Asian cuisine!",
+      "text": "My friends and I went to visit a Vietnamese cuisine, and we entered a comfortable and calm restaurant with a home-like atmosphere, which is good for customers who want to relax. The waiter directed us to our seats upon our arrival. After we settled down for 15 minutes, the friendly waiter took our orders. We got our drinks first, which was a delicious Viet Iced Coffee. My friends notified me that the wait time was considerably long, and he counted about 35 minutes, and they said that four people who ordered after us were already served. My friends are used to being served quickly, so I just listened to their opinion. I didn’t pay attention to my surroundings, and I was okay with the long wait, since I believed that the food was being prepared with great care. After 35 minutes, the Wings were served. They were delicious. I had to take pictures of the  noodles and soups. The beef was especially tasty and the seasoning was perfect. The bowls the waiter gave us were huge. I was filled with all the food. I was thinking of getting a second beef order with dessert, but the savory Beef Pho Soup already made me full and happy. I had a good time catching up with our daily lives.\n\nGoing to this Vietnamese restaurant really took me to a new ride in healthy Asian cuisine!",
       "time": 1740082656,
       "translated": false
     },
@@ -498,7 +498,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGicIcSLuGaadgLC255wJKOTcQ0ahMc4mkmyDflwgkyLsacgU=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "Local gem! The lemongrass chicken rice bowl are crispy spring rolls are so good! Portions are really big and prices are low comparatively. If you pay cash, you get a small discount. Service is always great, but seating can fill up, as it\u2019s such a popular spot. Get there early if you want to try the Banh Bao Thit Heo, as it can sell out by the afternoon. Atmosphere is modest\u2026you go there for the food, not the vibes.",
+      "text": "Local gem! The lemongrass chicken rice bowl are crispy spring rolls are so good! Portions are really big and prices are low comparatively. If you pay cash, you get a small discount. Service is always great, but seating can fill up, as it’s such a popular spot. Get there early if you want to try the Banh Bao Thit Heo, as it can sell out by the afternoon. Atmosphere is modest…you go there for the food, not the vibes.",
       "time": 1738250413,
       "translated": false
     },
@@ -510,7 +510,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAIifV78Mx_D8Hdh1ZsOP5Wr-MSBWpmjZ78jJAmK56b4OjUic=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "9 months ago",
-      "text": "A gem in the neighborhood! Huge portion for the price with friendly and attentive staffs. We got iced coffee, beef pho, spring roll, and lemongrass chicken over rice. While the iced coffee and beef pho was average, the crispy spring roll takes the cake - it was so good and love at first bite! Not sure what the sauce that came with it was, but it really complement each other. The lemongrass was second place with chicken soft and tender. Quite hard to find street parking but overall worth a visit especially in winter when you\u2019re looking for a hearty meal.",
+      "text": "A gem in the neighborhood! Huge portion for the price with friendly and attentive staffs. We got iced coffee, beef pho, spring roll, and lemongrass chicken over rice. While the iced coffee and beef pho was average, the crispy spring roll takes the cake - it was so good and love at first bite! Not sure what the sauce that came with it was, but it really complement each other. The lemongrass was second place with chicken soft and tender. Quite hard to find street parking but overall worth a visit especially in winter when you’re looking for a hearty meal.",
       "time": 1727460427,
       "translated": false
     },
@@ -559,5 +559,19 @@
   "vicinity": "2641 Jerome Ave, Bronx",
   "website": "http://toasttab.com/com-tam-ninh-kieu-2641-jerome-ave",
   "wheelchair_accessible_entrance": false,
-  "business_status_checked_at": "2026-10-03T20:04:56.829076+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:56.829076+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:24.711950+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://toasttab.com/com-tam-ninh-kieu-2641-jerome-ave",
+        "status": "HTTP_403",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

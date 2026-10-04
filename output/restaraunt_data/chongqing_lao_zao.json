@@ -1,0 +1,66 @@
+{
+  "adr_address": "<span class=\"street-address\">37-04 Prince St</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "37-04 Prince St, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(917) 563-7171",
+  "geometry": {
+    "location": {
+      "lat": 40.7606738,
+      "lng": -73.8330235
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.76204933029151,
+        "lng": -73.83162041970849
+      },
+      "southwest": {
+        "lat": 40.75935136970851,
+        "lng": -73.83431838029149
+      }
+    }
+  },
+  "international_phone_number": "+1 917-563-7171",
+  "name": "Chongqing Lao Zao",
+  "place_id": "ChIJu4mR1fFhwokR94Uup8tbWZE",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=10473503338668131831",
+  "website": "https://www.chongqinglaozao.com/",
+  "details_checked_at": "2026-10-03T21:59:30.302600+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:30.302600+00:00",
+  "emails": [
+    "chongqinglaozao.media@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:58.247946+00:00",
+    "outcome": "found",
+    "sources": {
+      "chongqinglaozao.media@gmail.com": [
+        "https://www.chongqinglaozao.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.chongqinglaozao.com/",
+        "status": "ok",
+        "emails": [
+          "chongqinglaozao.media@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.chongqinglaozao.com/",
+        "status": "browser_ok",
+        "emails": [
+          "chongqinglaozao.media@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:08:16.159852+00:00",
+    "browser_outcome": "found"
+  }
+}

@@ -162,13 +162,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 5:00 – 9:30 PM",
+      "Tuesday: 5:00 – 9:30 PM",
+      "Wednesday: 5:00 – 9:30 PM",
+      "Thursday: 5:00 – 9:30 PM",
+      "Friday: 11:30 AM – 10:30 PM",
+      "Saturday: 11:30 AM – 10:30 PM",
+      "Sunday: 11:30 AM – 9:30 PM"
     ]
   },
   "delivery": false,
@@ -271,13 +271,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 5:00 – 9:30 PM",
+      "Tuesday: 5:00 – 9:30 PM",
+      "Wednesday: 5:00 – 9:30 PM",
+      "Thursday: 5:00 – 9:30 PM",
+      "Friday: 11:30 AM – 10:30 PM",
+      "Saturday: 11:30 AM – 10:30 PM",
+      "Sunday: 11:30 AM – 9:30 PM"
     ]
   },
   "photos": [
@@ -392,7 +392,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2JGbXBcuaoBYeclxTBtbVfuVa-2CsbLXKWsl3ZFWpcU6nBXU=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "in the last week",
-      "text": "Overall, the food was satisfying. However, the sushi rice was too sticky, making it hard to eat all of it in one gulp. The Toro Uni Shari was the best dish. However, it was too noisy, and the price of the food that came out was too high. The service wasn\u2019t outstanding because our family waited more than an hour for some dishes. The food order wasn\u2019t good either. The sushi and the Toro Uni Shari came out 40 minutes before the main dish came out. Also, our family thought rice would come with the katsu, but there wasn't. I think that was an error. It was hard to talk with my family because it was chaos. The air conditioner was like BROKEN. It was too hot there, so we thought we should get out before the main dish came out. I would say this is a pretty good restaurant, but it needs quite a few changes. It would be nice to come back a few times but wouldn\u2019t mind.",
+      "text": "Overall, the food was satisfying. However, the sushi rice was too sticky, making it hard to eat all of it in one gulp. The Toro Uni Shari was the best dish. However, it was too noisy, and the price of the food that came out was too high. The service wasn’t outstanding because our family waited more than an hour for some dishes. The food order wasn’t good either. The sushi and the Toro Uni Shari came out 40 minutes before the main dish came out. Also, our family thought rice would come with the katsu, but there wasn't. I think that was an error. It was hard to talk with my family because it was chaos. The air conditioner was like BROKEN. It was too hot there, so we thought we should get out before the main dish came out. I would say this is a pretty good restaurant, but it needs quite a few changes. It would be nice to come back a few times but wouldn’t mind.",
       "time": 1750897109,
       "translated": false
     },
@@ -404,7 +404,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUl32fWR95oWDayXkyal2Z-pwvveUvZ3JAOkYpTP-VJuZkgFSsSrA=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "I had lunch at Konban NYC with two friends, and it was a wonderful experience from start to finish. I had made a reservation for 12pm, and everything was ready when we arrived.\n\nThe food was excellent\u2014fresh, flavorful, and beautifully presented. The ambiance was calm and stylish, making it a great spot to relax and enjoy a meal. Our server was very kind and attentive, offering helpful advice on the menu that made our choices even better.\n\nI highly recommend Konban NYC for anyone looking for a great Japanese meal in the city. We\u2019ll definitely be coming back!",
+      "text": "I had lunch at Konban NYC with two friends, and it was a wonderful experience from start to finish. I had made a reservation for 12pm, and everything was ready when we arrived.\n\nThe food was excellent—fresh, flavorful, and beautifully presented. The ambiance was calm and stylish, making it a great spot to relax and enjoy a meal. Our server was very kind and attentive, offering helpful advice on the menu that made our choices even better.\n\nI highly recommend Konban NYC for anyone looking for a great Japanese meal in the city. We’ll definitely be coming back!",
       "time": 1747204104,
       "translated": false
     },
@@ -416,7 +416,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPRjQwlP-nxheL-drgc2CqILq6u-2m6WsWLKODaRSCXgBxi-o0=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "Service: 100/100 \u2014 truly excellent.\n\nFood: Overall solid \u2014 nothing groundbreaking, but tasty and satisfying.\n\nAtmosphere: Relaxed and chill, great for outings with friends or family.\n\nFamily-Friendliness: Note that there\u2019s no nursery or changing table available for toddlers.",
+      "text": "Service: 100/100 — truly excellent.\n\nFood: Overall solid — nothing groundbreaking, but tasty and satisfying.\n\nAtmosphere: Relaxed and chill, great for outings with friends or family.\n\nFamily-Friendliness: Note that there’s no nursery or changing table available for toddlers.",
       "time": 1750038396,
       "translated": false
     },
@@ -453,5 +453,32 @@
   "emails": [
     "hello@konbannyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:27.916610+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:27.916610+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:10.895374+00:00",
+    "outcome": "found",
+    "sources": {
+      "hello@konbannyc.com": [
+        "https://www.konbannyc.com/",
+        "https://www.konbannyc.com/about"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.konbannyc.com/",
+        "status": "ok",
+        "emails": [
+          "hello@konbannyc.com"
+        ]
+      },
+      {
+        "url": "https://www.konbannyc.com/about",
+        "status": "ok",
+        "emails": [
+          "hello@konbannyc.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

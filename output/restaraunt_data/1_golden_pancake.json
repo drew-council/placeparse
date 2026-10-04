@@ -168,13 +168,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
     ]
   },
   "delivery": true,
@@ -276,13 +276,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
     ]
   },
   "photos": [
@@ -384,7 +384,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqKM09qQrNdur1aJw8HW7r9yiuZIDMMoykSw02FY_FMGyAIw-5=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "A Corn Croissant Egg Tart sounded unusual. Was there an egg in it? What I ate was a revelation in textures as it was balanced nicely: crisp croissant, creamy filling and crunchy br\u00fbl\u00e9ed corn. I sat at a school desk to eat this dessert. As I cut it in half, a pool of creamy custard rippled languidly onto the crust. Each spoonful made me moan with joy. The umami crunch and flavor of the corn was exquisite. I had to wonder how this tiny counter kitchen located at the end of a narrow passage way create such a magnificent dessert? Opened six years ago, Zi Chu and Miao run this tiny well equipped kitchen. Located a few doors down from Shanghai You Garden, this was dessert for me. I am already dreaming about my return visit. Highly recommended.",
+      "text": "A Corn Croissant Egg Tart sounded unusual. Was there an egg in it? What I ate was a revelation in textures as it was balanced nicely: crisp croissant, creamy filling and crunchy brûléed corn. I sat at a school desk to eat this dessert. As I cut it in half, a pool of creamy custard rippled languidly onto the crust. Each spoonful made me moan with joy. The umami crunch and flavor of the corn was exquisite. I had to wonder how this tiny counter kitchen located at the end of a narrow passage way create such a magnificent dessert? Opened six years ago, Zi Chu and Miao run this tiny well equipped kitchen. Located a few doors down from Shanghai You Garden, this was dessert for me. I am already dreaming about my return visit. Highly recommended.",
       "time": 1749604005,
       "translated": false
     },
@@ -396,7 +396,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBCC4-_wwEPi0hldWm8axkTelQE2-6_y61qzCyFBkM7alILIgQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "in the last week",
-      "text": "Ok this is the size of an egg tart and $8 but LEMME TELL U it was $8 worth spending, idk how they do it but there is corn pulp with every bite and the cream was corny perfection. Next time I feel corny I know where to go \ud83c\udf3d\n\nThere may only be 1 golden pancake location so far, but I wish u world domination \ud83c\udf3d\ud83c\udf3d\ud83c\udf3d",
+      "text": "Ok this is the size of an egg tart and $8 but LEMME TELL U it was $8 worth spending, idk how they do it but there is corn pulp with every bite and the cream was corny perfection. Next time I feel corny I know where to go 🌽\n\nThere may only be 1 golden pancake location so far, but I wish u world domination 🌽🌽🌽",
       "time": 1750551877,
       "translated": false
     },
@@ -420,7 +420,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXo__lMWXryYiz6XGins1yA0FnXDlc_tsnofnvDJ2GfQmdch6J9Qw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "4 weeks ago",
-      "text": "Had the corn desert, it was amazing. They make it there while you wait so it\u2019s fresh. Waited a little bit but not terribly long. Atmosphere is not that great, not much room to sit\u2026",
+      "text": "Had the corn desert, it was amazing. They make it there while you wait so it’s fresh. Waited a little bit but not terribly long. Atmosphere is not that great, not much room to sit…",
       "time": 1748720799,
       "translated": false
     },
@@ -450,5 +450,13 @@
   "user_ratings_total": 35,
   "utc_offset": -240,
   "vicinity": "13515 40th Rd #4, Flushing",
-  "business_status_checked_at": "2026-10-03T20:04:34.821092+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:34.821092+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:03.204684+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

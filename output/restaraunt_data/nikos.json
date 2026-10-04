@@ -181,13 +181,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 5:00 – 9:00 PM",
       "Tuesday: Closed",
-      "Wednesday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Sunday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM"
     ]
   },
   "delivery": false,
@@ -300,13 +300,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 5:00 – 9:00 PM",
       "Tuesday: Closed",
-      "Wednesday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Sunday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM"
     ]
   },
   "photos": [
@@ -409,7 +409,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrAUktgj60AhEBcdJk-EDKyoezapR7i9eiQwoLng7zoXclYw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "This place has stunning decor, amazing staff, and the food is authentic and delectable. My fianc\u00e9 and I were drooling from the salad and the calamari to our mains. Dessert was a bonus, thank you to Athena for a special birthday treat! Next time I am in Durham I will definitely be going back here as it came highly recommended by all the locals.",
+      "text": "This place has stunning decor, amazing staff, and the food is authentic and delectable. My fiancé and I were drooling from the salad and the calamari to our mains. Dessert was a bonus, thank you to Athena for a special birthday treat! Next time I am in Durham I will definitely be going back here as it came highly recommended by all the locals.",
       "time": 1742842532,
       "translated": false
     },
@@ -445,7 +445,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQWNLOHMi0SeoiJ-VjnYXOBLF7S_507ytclIkLtZqlj0Qtj6AUqw=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "Went here with my wife on a double date and we really loved it! The Brussels were amazing and the beets were so fresh. The potatoes were really good though felt like a little more crisp would have been solid.\n\nOur waitress was really kind.\n\nWe were disappointed in the desserts - one had clearly just been taken from the freezer and was thawing, but the cr\u00e8me br\u00fbl\u00e9e was good enough.\n\nWill be back for sure!",
+      "text": "Went here with my wife on a double date and we really loved it! The Brussels were amazing and the beets were so fresh. The potatoes were really good though felt like a little more crisp would have been solid.\n\nOur waitress was really kind.\n\nWe were disappointed in the desserts - one had clearly just been taken from the freezer and was thawing, but the crème brûlée was good enough.\n\nWill be back for sure!",
       "time": 1740692697,
       "translated": false
     },
@@ -498,8 +498,8 @@
         "Wednesday: Closed",
         "Thursday: Closed",
         "Friday: Closed",
-        "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
-        "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+        "Saturday: 11:00 AM – 3:00 PM",
+        "Sunday: 11:00 AM – 3:00 PM"
       ]
     }
   ],
@@ -525,5 +525,71 @@
   "emails": [
     "info@nikosdurham.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:47.191246+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:47.191246+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:34.785300+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@nikosdurham.com": [
+        "https://www.nikosdurham.com/",
+        "https://www.nikosdurham.com/contact/",
+        "https://www.nikosdurham.com/join-our-team/",
+        "https://www.nikosdurham.com/upcomingevents/",
+        "https://www.nikosdurham.com/private-events/",
+        "https://www.nikosdurham.com/event/opa-hour-1/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.nikosdurham.com/",
+        "status": "ok",
+        "emails": [
+          "info@nikosdurham.com"
+        ]
+      },
+      {
+        "url": "https://www.nikosdurham.com/contact/",
+        "status": "ok",
+        "emails": [
+          "info@nikosdurham.com"
+        ]
+      },
+      {
+        "url": "https://www.nikosdurham.com/join-our-team/",
+        "status": "ok",
+        "emails": [
+          "info@nikosdurham.com"
+        ]
+      },
+      {
+        "url": "https://www.nikosdurham.com/upcomingevents/",
+        "status": "ok",
+        "emails": [
+          "info@nikosdurham.com"
+        ]
+      },
+      {
+        "url": "https://www.nikosdurham.com/private-events/",
+        "status": "ok",
+        "emails": [
+          "info@nikosdurham.com"
+        ]
+      },
+      {
+        "url": "https://www.nikosdurham.com/event/opa-hour-1/",
+        "status": "ok",
+        "emails": [
+          "info@nikosdurham.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.nikosdurham.com/",
+      "https://www.nikosdurham.com/contact/",
+      "https://www.nikosdurham.com/join-our-team/",
+      "https://www.nikosdurham.com/upcomingevents/",
+      "https://www.nikosdurham.com/private-events/",
+      "https://www.nikosdurham.com/event/opa-hour-1/"
+    ]
+  }
 }

@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM"
+      "Monday: 8:00 AM – 2:30 PM",
+      "Tuesday: 8:00 AM – 2:30 PM",
+      "Wednesday: 8:00 AM – 2:30 PM",
+      "Thursday: 8:00 AM – 2:30 PM",
+      "Friday: 8:00 AM – 2:30 PM",
+      "Saturday: 8:00 AM – 2:30 PM",
+      "Sunday: 8:00 AM – 2:30 PM"
     ]
   },
   "dine_in": true,
@@ -262,13 +262,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM"
+      "Monday: 8:00 AM – 2:30 PM",
+      "Tuesday: 8:00 AM – 2:30 PM",
+      "Wednesday: 8:00 AM – 2:30 PM",
+      "Thursday: 8:00 AM – 2:30 PM",
+      "Friday: 8:00 AM – 2:30 PM",
+      "Saturday: 8:00 AM – 2:30 PM",
+      "Sunday: 8:00 AM – 2:30 PM"
     ]
   },
   "photos": [
@@ -369,7 +369,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJoSNHd6bOzJCZM53TYHHo8ATgQPkVw1L8q6XgcjraatfGA3U=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Loved the food. We got the yakizakana set. For the fish, the yellowtail tasted very good and fresh. It was well cooked. The service was impeccable and the atmosphere here is calm. Adds the perfect touch to the Japanese culture. Will come back\n\nAlso, you don\u2019t necessarily need a reservation for the manhattan location as opposed to Brooklyn\u2019s. Went on a weekend day, plenty of seats available.",
+      "text": "Loved the food. We got the yakizakana set. For the fish, the yellowtail tasted very good and fresh. It was well cooked. The service was impeccable and the atmosphere here is calm. Adds the perfect touch to the Japanese culture. Will come back\n\nAlso, you don’t necessarily need a reservation for the manhattan location as opposed to Brooklyn’s. Went on a weekend day, plenty of seats available.",
       "time": 1744136080,
       "translated": false
     },
@@ -381,7 +381,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJKPBb78mJkfrKe7Eb9YEMuOcl1_bhef_ZLpeaZmDz2o1DHJgIag=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "8 months ago",
-      "text": "This place was great! I came here with my boyfriend on a Monday night and the inside was super cool.\n\nWe started with both appetizers (the sashimi and the eel dish) which were AMAZING! The quality of the fish was unmatched. We also got a piece of uni each. I\u2019ve recently traveled to Japan, and the quality of their uni at this restaurant was superior to many that I tried in Japan. It was INCREDIBLE.\n\nMy boyfriend got the eel and it was amazing. The sides were a bit strange and disappointing, but the main dish was the star. The eel was incredible, even their miso soup was flavorful.\n\nI got the spicy tuna mazemen. Here\u2019s where my problem was. Unfortunately, my noodles were basically raw. When you bit a noodle in half, you could still see the white hard interior. The noodles were inedible which was extremely disappointing. The tuna and spicy flavors were great though.\n\nThe dessert was AMAZING, it was a hojicha panna cotta (that was only 6$?!?! WOW) and blew us away. It was light and flavorful and perfectly sweet.",
+      "text": "This place was great! I came here with my boyfriend on a Monday night and the inside was super cool.\n\nWe started with both appetizers (the sashimi and the eel dish) which were AMAZING! The quality of the fish was unmatched. We also got a piece of uni each. I’ve recently traveled to Japan, and the quality of their uni at this restaurant was superior to many that I tried in Japan. It was INCREDIBLE.\n\nMy boyfriend got the eel and it was amazing. The sides were a bit strange and disappointing, but the main dish was the star. The eel was incredible, even their miso soup was flavorful.\n\nI got the spicy tuna mazemen. Here’s where my problem was. Unfortunately, my noodles were basically raw. When you bit a noodle in half, you could still see the white hard interior. The noodles were inedible which was extremely disappointing. The tuna and spicy flavors were great though.\n\nThe dessert was AMAZING, it was a hojicha panna cotta (that was only 6$?!?! WOW) and blew us away. It was light and flavorful and perfectly sweet.",
       "time": 1727828522,
       "translated": false
     },
@@ -393,7 +393,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFCPhQJRWoQZ0H80nSq80PhemEp89sINZ7eXicVFT7rjl8DYut=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "8 months ago",
-      "text": "In general I think it\u2019s delicious. However, I think the appetizer (we had sashimi) looked and tasted like it\u2019s been cut and ready for too long that the fish was a bit dry on the edge.\n\nThe unagi was ok.\n\nEbi ramen was quite special since I haven\u2019t seen much fish/shrimp based ramen and I personally enjoyed it. I can see the shrimp meat from the soup base and it has a very strong shrimp flavor. Aside from those, I do feel like the tuna was a bit smelly and the soup is a bit too salty.\n\nDessert was awesome!",
+      "text": "In general I think it’s delicious. However, I think the appetizer (we had sashimi) looked and tasted like it’s been cut and ready for too long that the fish was a bit dry on the edge.\n\nThe unagi was ok.\n\nEbi ramen was quite special since I haven’t seen much fish/shrimp based ramen and I personally enjoyed it. I can see the shrimp meat from the soup base and it has a very strong shrimp flavor. Aside from those, I do feel like the tuna was a bit smelly and the soup is a bit too salty.\n\nDessert was awesome!",
       "time": 1730081519,
       "translated": false
     },
@@ -439,5 +439,19 @@
   "utc_offset": -240,
   "vicinity": "36 W 26th St, New York",
   "website": "https://www.okonomi.us/",
-  "business_status_checked_at": "2026-10-03T20:05:49.603552+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:49.603552+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:37.548316+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.okonomi.us/",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

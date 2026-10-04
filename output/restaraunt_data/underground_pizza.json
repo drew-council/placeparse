@@ -150,12 +150,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
       "Sunday: Closed"
     ]
   },
@@ -253,12 +253,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
       "Sunday: Closed"
     ]
   },
@@ -362,7 +362,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWKE8kvz_CKjajQbKL6K2vlHW3sI-olnAFP7Chz1YZWTu1E1g=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "The vodka slice at underground pizza was my favourite slice in New York and came as recommendation from my partners father.\nIn my short stay I tried many places but this took the top spot, not my usual Neapolitan pizza but I wish I could have another slice. Amazing depth of flavour, proper amounts of sauce and cheese with a super crisp and airy base. The \u201csoda\u201d as the yanks call it was very sweet just to my taste.\nThe only discrepancy was the garlic knots weren\u2019t very flavoursome. Iv had more garlic taste from a Frenchman\u2019s breath. However that Vodka slice pushed the 5star \ud83d\udc4d\ud83c\udffb Highly recommend.",
+      "text": "The vodka slice at underground pizza was my favourite slice in New York and came as recommendation from my partners father.\nIn my short stay I tried many places but this took the top spot, not my usual Neapolitan pizza but I wish I could have another slice. Amazing depth of flavour, proper amounts of sauce and cheese with a super crisp and airy base. The “soda” as the yanks call it was very sweet just to my taste.\nThe only discrepancy was the garlic knots weren’t very flavoursome. Iv had more garlic taste from a Frenchman’s breath. However that Vodka slice pushed the 5star 👍🏻 Highly recommend.",
       "time": 1740695667,
       "translated": false
     },
@@ -374,7 +374,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXf5heE3vMKrPOMIGQAr70ZJtZtx2iIvmBiqbZ-jnzzAu3dsgP7=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Absolutely perfect pizza. The crust was light and crispy\u2014just the right balance of crunch and chew.\n\nThe cheese and sauce had great flavor, rich and well-seasoned without overpowering each other. And the pepperoni? Real, authentic slices that crisped up beautifully on the edges.\n\nIt's easily one of the best slices I've had in a long time.",
+      "text": "Absolutely perfect pizza. The crust was light and crispy—just the right balance of crunch and chew.\n\nThe cheese and sauce had great flavor, rich and well-seasoned without overpowering each other. And the pepperoni? Real, authentic slices that crisped up beautifully on the edges.\n\nIt's easily one of the best slices I've had in a long time.",
       "time": 1744285444,
       "translated": false
     },
@@ -410,7 +410,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXD_-_pDNtbt145XMih7Vh0nTa709SKGY3yRSjg7zbzPi6rgXyW=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "My husband and I were visiting NYC and wanted an authentic slice of pizza (but vegan).  This was one of the only places we found with dairy-free cheese. We ordered a pie to share between the two of us since the pizza by the slice is only regular cheese. This pizza was so good!  Even today, we\u2019ll talk about our yummy NYC pizza. We got it to-go and walked to a nearby park to sit and eat while looking at the statue of liberty.",
+      "text": "My husband and I were visiting NYC and wanted an authentic slice of pizza (but vegan).  This was one of the only places we found with dairy-free cheese. We ordered a pie to share between the two of us since the pizza by the slice is only regular cheese. This pizza was so good!  Even today, we’ll talk about our yummy NYC pizza. We got it to-go and walked to a nearby park to sit and eat while looking at the statue of liberty.",
       "time": 1735858864,
       "translated": false
     }
@@ -494,12 +494,12 @@
       ],
       "type": "DRIVE_THROUGH",
       "weekday_text": [
-        "Monday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Thursday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Friday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Saturday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
         "Sunday: Closed"
       ]
     }
@@ -523,5 +523,26 @@
   "vicinity": "3 Hanover Square #2615, New York",
   "website": "https://www.undergroundpizzamenu.com/?utm_source=gbp",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:06:21.833527+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:21.833527+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:18.451935+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.undergroundpizzamenu.com/?utm_source=gbp",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.undergroundpizzamenu.com/?utm_source=gbp",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:12:28.151539+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

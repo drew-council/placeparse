@@ -204,7 +204,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULQ2xhoh8kdw5CRtydT0KIfX3raTO3O59M1mP6m9SbX0j_M-Kf5g=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "Seriously, folks, this little gem got my tastebuds singing.  Let's talk about the star of the show: the classic fried chicken sando. Juicy, flavorful, and everything you dream of in a chicken sandwich.  But wait, there's more! The cornbread? Forget about it.  The best I've ever had \u2013 seriously.  And don't even get me started on the salted egg chicken leg and the garlic herb cauliflower. That cauliflower was crispy perfection \u2013 seasoned to the nines and not a soggy bite in sight.  This place is a must-try!",
+      "text": "Seriously, folks, this little gem got my tastebuds singing.  Let's talk about the star of the show: the classic fried chicken sando. Juicy, flavorful, and everything you dream of in a chicken sandwich.  But wait, there's more! The cornbread? Forget about it.  The best I've ever had – seriously.  And don't even get me started on the salted egg chicken leg and the garlic herb cauliflower. That cauliflower was crispy perfection – seasoned to the nines and not a soggy bite in sight.  This place is a must-try!",
       "time": 1739472056,
       "translated": false
     },
@@ -221,14 +221,14 @@
       "translated": false
     },
     {
-      "author_name": "Ra\u00edsa Lin Garden-Lucerna",
+      "author_name": "Raísa Lin Garden-Lucerna",
       "author_url": "https://www.google.com/maps/contrib/118211526052704801144/reviews",
       "language": "en",
       "original_language": "en",
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxzVNdsN5enT9ZzSqXa7yl8PmM47orjol8cCs93zOnY-_aE1s=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "So delicious I had to come back the day after and have it again! I like the relaxed atmosphere and the garlic and herb wings were my favorite. I think the prices are good and it\u2019s a great place to come and share dishes",
+      "text": "So delicious I had to come back the day after and have it again! I like the relaxed atmosphere and the garlic and herb wings were my favorite. I think the prices are good and it’s a great place to come and share dishes",
       "time": 1741655171,
       "translated": false
     },
@@ -240,7 +240,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNAbIMQevWqYSN5BmCXNUfPlvckQbZzMaFiQHBa2Ws5zV40eqt=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "7 months ago",
-      "text": "Great little spot with excellent fried chicken and cauliflower. We also think the cornbread is one of the best I\u2019ve had - it\u2019s *delicious*. The chili chicken Sando was great, and we really thought the cauliflower was amazingly crispy and flavorful. Well seasoned, not soggy at all.",
+      "text": "Great little spot with excellent fried chicken and cauliflower. We also think the cornbread is one of the best I’ve had - it’s *delicious*. The chili chicken Sando was great, and we really thought the cauliflower was amazingly crispy and flavorful. Well seasoned, not soggy at all.",
       "time": 1732913007,
       "translated": false
     }
@@ -265,5 +265,47 @@
   "vicinity": "244 Flatbush Ave, Brooklyn",
   "website": "http://www.peckinghouse.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:53.230788+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:53.230788+00:00",
+  "emails": [
+    "info@peckinghouse.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:42.616428+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@peckinghouse.com": [
+        "https://www.peckinghouse.com/visitus",
+        "https://www.peckinghouse.com/faq"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.peckinghouse.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.peckinghouse.com/visitus",
+        "status": "ok",
+        "emails": [
+          "info@peckinghouse.com"
+        ]
+      },
+      {
+        "url": "https://www.peckinghouse.com/faq",
+        "status": "ok",
+        "emails": [
+          "info@peckinghouse.com"
+        ]
+      },
+      {
+        "url": "https://www.peckinghouse.com/about",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.peckinghouse.com/"
+    ]
+  }
 }

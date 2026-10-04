@@ -162,13 +162,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -271,13 +271,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -379,7 +379,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMsXtMKhxMnVDaMrYNQs99304CA0RIAM0a9cK37LvA7owrdU8tfQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "If you ever feel like craving a delicious food, then I can definitely recommend you visiting this place! The food is AMAZING, EXTREMELY DELICIOUS\ud83e\udd24 whatever we ordered was amazing. Didn\u2019t get a chance to try sushi, but I think that it will hit a spot too. So the place is definitely recommended \ud83d\udcaf\ud83c\udf1f",
+      "text": "If you ever feel like craving a delicious food, then I can definitely recommend you visiting this place! The food is AMAZING, EXTREMELY DELICIOUS🤤 whatever we ordered was amazing. Didn’t get a chance to try sushi, but I think that it will hit a spot too. So the place is definitely recommended 💯🌟",
       "time": 1746246377,
       "translated": false
     },
@@ -391,7 +391,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWo1BRwbILlby5JkLVeVDCXds4CKOkAhEMQ1utcaYJcLW9JFLit=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Visited this place for the first time with the family. For 7 people to sit together in one table we had to wait around 1 hrs, the time was after 6pm and it was pretty crowded. But I\u2019ll tell you what, it totally worth the wait time. Halal, kids friendly, staff is amazing and friendly, the food was very delicious and felt like home. Definitely would come again!\n\nP.S. portions are quite large, with one meal you\u2019ll be full pretty quickly!",
+      "text": "Visited this place for the first time with the family. For 7 people to sit together in one table we had to wait around 1 hrs, the time was after 6pm and it was pretty crowded. But I’ll tell you what, it totally worth the wait time. Halal, kids friendly, staff is amazing and friendly, the food was very delicious and felt like home. Definitely would come again!\n\nP.S. portions are quite large, with one meal you’ll be full pretty quickly!",
       "time": 1747004812,
       "translated": false
     },
@@ -403,7 +403,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPOHyE-4g3DgY2dZ1C_IjL9_QCkdJ06DFHMxWgcYeArxG6A_ch=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "2 months ago",
-      "text": "The food was decent\u2014nothing extraordinary, in my opinion. The lagman (Dry-Fried Noodles) was definitely tasty, but everything else was just okay. I am a bit surprised by all the 5-star reviews. That said, the staff really stood out\u2014super attentive and very accommodating. Excellent service!",
+      "text": "The food was decent—nothing extraordinary, in my opinion. The lagman (Dry-Fried Noodles) was definitely tasty, but everything else was just okay. I am a bit surprised by all the 5-star reviews. That said, the staff really stood out—super attentive and very accommodating. Excellent service!",
       "time": 1745336400,
       "translated": false
     },
@@ -427,7 +427,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXE8AGcZYlfPeuyAojw_WMLNUwB9vEJ3V2FFYiC0msENLHqSMwO=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "Very nice and attentive staff. Good service \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\n\nBeautiful interior. And most important delicious food. We ordered couple dishes and Moroccan Tea and everything was so tasty!\n\nDefinitely visit them again!\n\nWonderful!!",
+      "text": "Very nice and attentive staff. Good service ⭐️⭐️⭐️⭐️⭐️\n\nBeautiful interior. And most important delicious food. We ordered couple dishes and Moroccan Tea and everything was so tasty!\n\nDefinitely visit them again!\n\nWonderful!!",
       "time": 1737333283,
       "translated": false
     }
@@ -451,5 +451,45 @@
   "emails": [
     "laghmanexpress@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:30.568522+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:30.568522+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:14.693149+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://laghmanexpress.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://laghmanexpress.com/about/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://laghmanexpress.com/about-us",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://laghmanexpress.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://laghmanexpress.com/about/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://laghmanexpress.com/about-us",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:09:34.729056+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

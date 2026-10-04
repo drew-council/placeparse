@@ -1,0 +1,74 @@
+{
+  "adr_address": "<span class=\"street-address\">36-01 Ditmars Blvd</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11105</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "36-01 Ditmars Blvd, Astoria, NY 11105, USA",
+  "formatted_phone_number": "(718) 545-8666",
+  "geometry": {
+    "location": {
+      "lat": 40.7743819,
+      "lng": -73.90794749999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7761448302915,
+        "lng": -73.90729021970849
+      },
+      "southwest": {
+        "lat": 40.7734468697085,
+        "lng": -73.90998818029149
+      }
+    }
+  },
+  "international_phone_number": "+1 718-545-8666",
+  "name": "Taverna Kyclades Astoria",
+  "place_id": "ChIJ90pvtWdfwokRw86tuNLCG7g",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=13266411337647247043",
+  "website": "http://www.tavernakyclades.com/",
+  "details_checked_at": "2026-10-03T21:59:20.225748+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:20.225748+00:00",
+  "emails": [
+    "tavernakyclades@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:26.812837+00:00",
+    "outcome": "found",
+    "sources": {
+      "tavernakyclades@gmail.com": [
+        "https://www.tavernakyclades.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.tavernakyclades.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.tavernakyclades.com/contact-us",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.tavernakyclades.com/about-us",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.tavernakyclades.com/",
+        "status": "browser_ok",
+        "emails": [
+          "tavernakyclades@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:39.691843+00:00",
+    "browser_outcome": "found"
+  }
+}

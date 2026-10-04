@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 4:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 4:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 4:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: 4:00 – 10:00 PM"
     ]
   },
   "delivery": false,
@@ -192,7 +192,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 347-529-6400",
-  "name": "Bernie\u2019s",
+  "name": "Bernie’s",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -268,13 +268,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 4:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 4:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 4:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: 4:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -297,7 +297,7 @@
     {
       "height": 496,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/108206818140547571463\">Bernie\u2019s</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/108206818140547571463\">Bernie’s</a>"
       ],
       "photo_reference": "ATKogpfyq3gqiDHMTPE0jWRS-xzcDxkcKExLPoCguWgE52QPD4rg0zq_iiF6Om3v8Igp3d8eeXKjSIrgT4dZA1Oz5maVv2b-OORlruwp8f5S7PiN5bhpxG-vWI8upQ4fsO61EWWybaMY1W34CYAfJCANlhrwXZ4yucd2yBSfMTR5oI98Zs6ZKVdcqhs1hIyz-KRaG4DRPCzBooPyyM2BAr-StTHNv2KulMFpuFZ9iQK8ouApBcDv38imKKMWecGOY0yfm_HAu7Z_0Mbw9NFg62nGSjqPkJIB_4d-Gi6IVcATRhiRTA",
       "width": 640
@@ -376,7 +376,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaeNeUnRjtKNWX8vgafBxQlEz5_9sAtCLZKAZf0MGOJcSEdW03RQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Sigh. I honestly understand the hype. I am perpetuating the hype of every other nyc restaurant but good is good. Burger, fries, sundae, MOZZARELLA STICKS, and VINEGAR CHICKEN. All excellent but especially the last two. I was so so full. The margarita my bf had was whatever so you can skip that. Probably good if you\u2019re into beer but I don\u2019t drink that. The coke. lol they got a good syrup. That coke HITS. Especially with a squeeze of lemon. We ended up getting three they were so good. The baby back ribs were a bit tough so I would skip that as well but flavor was good. I honestly can\u2019t wait to go back and try the buffalo wings and the chicken parm but we were beyond stuffed. Honestly wasn\u2019t a bad wait. Should up about 25 min before open on a Sunday and got in easily. Looks like all the people who came when up to 15 min before open got in immediately (or sat outside) once they opened at 4. I know waiting in lines is so not New Yorker of me but it was definitely worth a 20 min wait.",
+      "text": "Sigh. I honestly understand the hype. I am perpetuating the hype of every other nyc restaurant but good is good. Burger, fries, sundae, MOZZARELLA STICKS, and VINEGAR CHICKEN. All excellent but especially the last two. I was so so full. The margarita my bf had was whatever so you can skip that. Probably good if you’re into beer but I don’t drink that. The coke. lol they got a good syrup. That coke HITS. Especially with a squeeze of lemon. We ended up getting three they were so good. The baby back ribs were a bit tough so I would skip that as well but flavor was good. I honestly can’t wait to go back and try the buffalo wings and the chicken parm but we were beyond stuffed. Honestly wasn’t a bad wait. Should up about 25 min before open on a Sunday and got in easily. Looks like all the people who came when up to 15 min before open got in immediately (or sat outside) once they opened at 4. I know waiting in lines is so not New Yorker of me but it was definitely worth a 20 min wait.",
       "time": 1747773781,
       "translated": false
     },
@@ -388,7 +388,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2uj-uEFdoBJqkeShSbQe-PzFAoJOU8nsDPYkPrNUq8KjQEsSdAw=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Incredible food! The ribs are an absolute must-try. If you can swing an early dinner, you\u2019ll beat the rush and avoid the wait. The staff is warm and welcoming, and the whole place has a great local vibe.",
+      "text": "Incredible food! The ribs are an absolute must-try. If you can swing an early dinner, you’ll beat the rush and avoid the wait. The staff is warm and welcoming, and the whole place has a great local vibe.",
       "time": 1747388304,
       "translated": false
     },
@@ -400,7 +400,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLp7ZS6rLdiljb7VaqAdG5eAEMujACNd7W6-MOxOjEFn0KvsTg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "a month ago",
-      "text": "We were seated after 10 minutes on a Thursday evening. The staff was really kind and service was fast. We ordered mozzarella sticks which were good, burgers also good and two other chicken dishes that were meh. This is a good spot for a meal when ur in the area if you can get a table but I wouldn\u2019t go back, it\u2019s pricey. Just ok overall.",
+      "text": "We were seated after 10 minutes on a Thursday evening. The staff was really kind and service was fast. We ordered mozzarella sticks which were good, burgers also good and two other chicken dishes that were meh. This is a good spot for a meal when ur in the area if you can get a table but I wouldn’t go back, it’s pricey. Just ok overall.",
       "time": 1746289041,
       "translated": false
     },
@@ -424,7 +424,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaGciavbxCPFvSAYJKtogLkQy9e2JEoLBDpe7MHoWkeQAHefzS=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 4,
       "relative_time_description": "a year ago",
-      "text": "6 star review if possible. Everything is top notch.\n\nBernie\u2019s has become green points. Best neighborhood bar for great drinks and spectacular comfort food. They are only open Tuesday through Sunday for just a few hours each day but every minute packed with people. They do not take reservation however plenty of outdoor seating while you wait. Best to get a drink while you\u2019re at it.\n\nWhat else can I say aside from perfect place to kick back, enjoy and have fun.",
+      "text": "6 star review if possible. Everything is top notch.\n\nBernie’s has become green points. Best neighborhood bar for great drinks and spectacular comfort food. They are only open Tuesday through Sunday for just a few hours each day but every minute packed with people. They do not take reservation however plenty of outdoor seating while you wait. Best to get a drink while you’re at it.\n\nWhat else can I say aside from perfect place to kick back, enjoy and have fun.",
       "time": 1718289529,
       "translated": false
     }
@@ -449,5 +449,53 @@
   "emails": [
     "info@berniesnyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:04:44.821505+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:44.821505+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:09.820758+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@berniesnyc.com": [
+        "https://www.berniesnyc.com/",
+        "https://www.berniesnyc.com/about/",
+        "https://www.berniesnyc.com/private-events/",
+        "https://www.berniesnyc.com/location/bernies/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.berniesnyc.com/",
+        "status": "ok",
+        "emails": [
+          "info@berniesnyc.com"
+        ]
+      },
+      {
+        "url": "https://www.berniesnyc.com/about/",
+        "status": "ok",
+        "emails": [
+          "info@berniesnyc.com"
+        ]
+      },
+      {
+        "url": "https://www.berniesnyc.com/private-events/",
+        "status": "ok",
+        "emails": [
+          "info@berniesnyc.com"
+        ]
+      },
+      {
+        "url": "https://www.berniesnyc.com/location/bernies/",
+        "status": "ok",
+        "emails": [
+          "info@berniesnyc.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.berniesnyc.com/",
+      "https://www.berniesnyc.com/about/",
+      "https://www.berniesnyc.com/private-events/",
+      "https://www.berniesnyc.com/location/bernies/"
+    ]
+  }
 }

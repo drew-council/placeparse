@@ -168,13 +168,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 8:00 AM – 9:00 PM",
+      "Tuesday: 8:00 AM – 9:00 PM",
+      "Wednesday: 8:00 AM – 9:00 PM",
+      "Thursday: 8:00 AM – 9:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 9:00 AM – 9:00 PM",
+      "Sunday: 9:00 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -281,13 +281,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 8:00 AM – 9:00 PM",
+      "Tuesday: 8:00 AM – 9:00 PM",
+      "Wednesday: 8:00 AM – 9:00 PM",
+      "Thursday: 8:00 AM – 9:00 PM",
+      "Friday: 8:00 AM – 9:00 PM",
+      "Saturday: 9:00 AM – 9:00 PM",
+      "Sunday: 9:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -426,7 +426,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUR4XqVDL_yVDKWM2tpvlGwQ3gak7DPRb4S67izl8WFqOr2su6hg=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "7 months ago",
-      "text": "Excellent Montreal style Jewish deli in the heart of Brooklyn.\nIf you don\u2019t know, their smoked meat is sorta like pastrami but a little different (sorry, maybe a little less spicy?) but it a really delicious and is a nice change.\nGet a sandwich or a platter to share.  They serve both leans and fatty style. The fatty style has a little more flavor - my suggestion is to ask for 50% of each on the platter.\nTheir matzo ball soup was also very flavorful. Not too salty. Nice big matzo ball soup and even some vegetables and chicken in it.\nMy one small quibble- you can\u2019t get it on a Montreal style bagel - bah.\nI really liked the place.",
+      "text": "Excellent Montreal style Jewish deli in the heart of Brooklyn.\nIf you don’t know, their smoked meat is sorta like pastrami but a little different (sorry, maybe a little less spicy?) but it a really delicious and is a nice change.\nGet a sandwich or a platter to share.  They serve both leans and fatty style. The fatty style has a little more flavor - my suggestion is to ask for 50% of each on the platter.\nTheir matzo ball soup was also very flavorful. Not too salty. Nice big matzo ball soup and even some vegetables and chicken in it.\nMy one small quibble- you can’t get it on a Montreal style bagel - bah.\nI really liked the place.",
       "time": 1731160156,
       "translated": false
     },
@@ -438,7 +438,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPriSy6pd-b_g3yrjSoAFXNjklSHo4ongijI4sq-ElRtRVIBCHzA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Came here and tried the Eli Reuben sandwich featuring a mix of corned beef and smoked meat, and it was delicious! Maybe just a bit too much sauce as it was overflowing and messy to eat, but on the other hand maybe that\u2019s what made it so good. Highly recommended.",
+      "text": "Came here and tried the Eli Reuben sandwich featuring a mix of corned beef and smoked meat, and it was delicious! Maybe just a bit too much sauce as it was overflowing and messy to eat, but on the other hand maybe that’s what made it so good. Highly recommended.",
       "time": 1742336840,
       "translated": false
     }
@@ -534,13 +534,13 @@
       ],
       "type": "HAPPY_HOUR",
       "weekday_text": [
-        "Monday: 4:00\u2009\u2013\u20096:00\u202fPM",
-        "Tuesday: 4:00\u2009\u2013\u20096:00\u202fPM",
-        "Wednesday: 4:00\u2009\u2013\u20096:00\u202fPM",
-        "Thursday: 4:00\u2009\u2013\u20096:00\u202fPM",
-        "Friday: 4:00\u2009\u2013\u20096:00\u202fPM",
-        "Saturday: 4:00\u2009\u2013\u20096:00\u202fPM",
-        "Sunday: 4:00\u2009\u2013\u20096:00\u202fPM"
+        "Monday: 4:00 – 6:00 PM",
+        "Tuesday: 4:00 – 6:00 PM",
+        "Wednesday: 4:00 – 6:00 PM",
+        "Thursday: 4:00 – 6:00 PM",
+        "Friday: 4:00 – 6:00 PM",
+        "Saturday: 4:00 – 6:00 PM",
+        "Sunday: 4:00 – 6:00 PM"
       ]
     },
     {
@@ -633,13 +633,13 @@
       ],
       "type": "DINNER",
       "weekday_text": [
-        "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
-        "Tuesday: 5:00\u2009\u2013\u20099:00\u202fPM",
-        "Wednesday: 5:00\u2009\u2013\u20099:00\u202fPM",
-        "Thursday: 5:00\u2009\u2013\u20099:00\u202fPM",
-        "Friday: 5:00\u2009\u2013\u20099:00\u202fPM",
-        "Saturday: 5:00\u2009\u2013\u20099:00\u202fPM",
-        "Sunday: 5:00\u2009\u2013\u20099:00\u202fPM"
+        "Monday: 5:00 – 9:00 PM",
+        "Tuesday: 5:00 – 9:00 PM",
+        "Wednesday: 5:00 – 9:00 PM",
+        "Thursday: 5:00 – 9:00 PM",
+        "Friday: 5:00 – 9:00 PM",
+        "Saturday: 5:00 – 9:00 PM",
+        "Sunday: 5:00 – 9:00 PM"
       ]
     }
   ],
@@ -665,5 +665,36 @@
   "vicinity": "97 Hoyt St, Brooklyn",
   "website": "http://www.mileenddeli.com/",
   "wheelchair_accessible_entrance": false,
-  "business_status_checked_at": "2026-10-03T20:05:39.359583+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:39.359583+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:25.007317+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.mileenddeli.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.mileenddeli.com/events",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.mileenddeli.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.mileenddeli.com/events",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:10:17.819243+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

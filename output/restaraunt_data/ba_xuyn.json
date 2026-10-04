@@ -162,13 +162,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
-      "Tuesday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
-      "Wednesday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
-      "Thursday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
-      "Friday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
-      "Saturday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
-      "Sunday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM"
+      "Monday: 7:30 AM – 6:30 PM",
+      "Tuesday: 7:30 AM – 6:30 PM",
+      "Wednesday: 7:30 AM – 6:30 PM",
+      "Thursday: 7:30 AM – 6:30 PM",
+      "Friday: 7:30 AM – 6:30 PM",
+      "Saturday: 7:30 AM – 6:30 PM",
+      "Sunday: 7:30 AM – 6:30 PM"
     ]
   },
   "editorial_summary": {
@@ -197,7 +197,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 718-633-6601",
-  "name": "Ba Xuy\u00ean",
+  "name": "Ba Xuyên",
   "opening_hours": {
     "open_now": false,
     "periods": [
@@ -273,13 +273,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
-      "Tuesday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
-      "Wednesday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
-      "Thursday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
-      "Friday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
-      "Saturday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
-      "Sunday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM"
+      "Monday: 7:30 AM – 6:30 PM",
+      "Tuesday: 7:30 AM – 6:30 PM",
+      "Wednesday: 7:30 AM – 6:30 PM",
+      "Thursday: 7:30 AM – 6:30 PM",
+      "Friday: 7:30 AM – 6:30 PM",
+      "Saturday: 7:30 AM – 6:30 PM",
+      "Sunday: 7:30 AM – 6:30 PM"
     ]
   },
   "photos": [
@@ -302,7 +302,7 @@
     {
       "height": 4032,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/103010987590483124915\">\u7d00\u5609\u6def</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/103010987590483124915\">紀嘉淯</a>"
       ],
       "photo_reference": "ATKogpfMQgJvSV5_wuWnDkxZiTHJ1Srg8LLcb_9y6Q-GqSbHZefLeXZyY-oYWT4EAIJr7q0TFz7zqddVgLkNQDqN8L7FYEV470vzTkS8_II4QH4QH_aySJCRiqJH3ZE5eCKxhdNMalvALlGcw0xByVWLnX4c3baPDkdD3FUfyWZEhr57Aq6gGrWvcJJJBv-A_OYTCQE4XW9d20qsNsyAzWIR0nAQ-0edSjMo20ziXd6ohnfhMZW_5uQ3b8gcrELFr_asQVsHe5oJvTHfUaPxLaxXszE-kcST5XZab_sG2jwNRLm1qBjYo1FLyEomYn5SkIozZEIpdQojOGMOqCoNdFwtiBXRRLzhHIzHqZeEJp4VJtpiO7G0dB0vbG1PLqv5bK8zT9ejVKgTXZkG1CpCfhQavUHJzxG11aiGn_6pU5rkafA8cEIu",
       "width": 3024
@@ -350,7 +350,7 @@
     {
       "height": 4032,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/103010987590483124915\">\u7d00\u5609\u6def</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/103010987590483124915\">紀嘉淯</a>"
       ],
       "photo_reference": "ATKogpeoCUuNyt5fdWOauNRrgedyDAaEjLM-u2-lXGKcHqx22PhalDW4WFhm8srLhffksPrCJjcQy9cZ5lGtD_pMHTBtfQEvJ9u1Eyr8jDDl5CBb0O2iR2SxnMap7ps89pwRGBUtWeg65iOLIaQMx3989f7O7qIwKVgnrDI9yFX5NcfBM1DoR88GU81CTQTE_127rxZVXlvhEIxLjeaNy7DT8LcgxKR59-25sx_qaEt5NeCI_AgE_cNj_cLCyKMJvpDEjdeAO7tuaA7uFYXo6zFloqraUf3PoMqxlYRq-BACNdASUK8zdn8xK2UPgMRO0PbAKGSEnsfz5w7bftYre7NdkmRKtb5BGg0XAkvF2fsDi96WRD9VOfPg_UyyIkSw5F3aYom1JLochRCURVEiPMaa68zLZBMrJQ6e1wDzTOYWPsqpnQ",
       "width": 3024
@@ -382,7 +382,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpc5C7uxfIocsMu-uVq0ABqFO0exdRkL6S1EQy74ecUx1c_g=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "4 months ago",
-      "text": "Service was fast and there wasn\u2019t a lot of people when I went so there was a lot of space. I order the grilled pork banh mi for 8 dollars which is very reasonable considering the size and flavors. The bread (assuming baguette) is nice and crispy exterior with a chewy interior. But it starts to cut the side of your mouth and makes it dry. The fillings flavors were very harmonized and well balanced but to have all of them together you gotta take a big bite because the meat is all the way inside while cilantro is in the outer layer. The flavors are very rich and have that sweet and sour taste in the sauce for the meat. Meat is also tender and is given in a fair amount. The vegetables are very fresh and the pepper gives it that extra spice which brings everything together. I believe the vegetables like cucumber may be pickled because the overall flavors are complex and deep. Closing statement: Bringing your own drink can help quench the dryness that the bread will give you.",
+      "text": "Service was fast and there wasn’t a lot of people when I went so there was a lot of space. I order the grilled pork banh mi for 8 dollars which is very reasonable considering the size and flavors. The bread (assuming baguette) is nice and crispy exterior with a chewy interior. But it starts to cut the side of your mouth and makes it dry. The fillings flavors were very harmonized and well balanced but to have all of them together you gotta take a big bite because the meat is all the way inside while cilantro is in the outer layer. The flavors are very rich and have that sweet and sour taste in the sauce for the meat. Meat is also tender and is given in a fair amount. The vegetables are very fresh and the pepper gives it that extra spice which brings everything together. I believe the vegetables like cucumber may be pickled because the overall flavors are complex and deep. Closing statement: Bringing your own drink can help quench the dryness that the bread will give you.",
       "time": 1738350220,
       "translated": false
     },
@@ -406,7 +406,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEc8q2egU0J07_bT2mLLm8jbRXznQ3xFLrsoL5wp3lRSRmrw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "No frills Vietnamese sandwich and light take-out spot, but don\u2019t let that stop you from trying it out. This place is truly a gem. I go 45 mins out of my way for the B\u00e1nh b\u00e8o here and am happy to do so. Really feels like a place you\u2019d find in Westminster or sgv",
+      "text": "No frills Vietnamese sandwich and light take-out spot, but don’t let that stop you from trying it out. This place is truly a gem. I go 45 mins out of my way for the Bánh bèo here and am happy to do so. Really feels like a place you’d find in Westminster or sgv",
       "time": 1748321126,
       "translated": false
     },
@@ -454,5 +454,26 @@
   "utc_offset": -240,
   "vicinity": "4222 8th Ave, Brooklyn",
   "website": "https://orderbaxuyen.com/",
-  "business_status_checked_at": "2026-10-03T20:04:43.059632+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:43.059632+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:08.301164+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.quinnslighthouse.com/press2.html",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.quinnslighthouse.com/press2.html",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:07:20.592045+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

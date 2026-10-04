@@ -149,13 +149,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Monday: 10:00 AM – 7:00 PM",
       "Tuesday: Closed",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      "Wednesday: 10:00 AM – 7:00 PM",
+      "Thursday: 10:00 AM – 7:00 PM",
+      "Friday: 10:00 AM – 7:00 PM",
+      "Saturday: 9:00 AM – 7:00 PM",
+      "Sunday: 9:00 AM – 7:00 PM"
     ]
   },
   "delivery": true,
@@ -252,13 +252,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Monday: 10:00 AM – 7:00 PM",
       "Tuesday: Closed",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      "Wednesday: 10:00 AM – 7:00 PM",
+      "Thursday: 10:00 AM – 7:00 PM",
+      "Friday: 10:00 AM – 7:00 PM",
+      "Saturday: 9:00 AM – 7:00 PM",
+      "Sunday: 9:00 AM – 7:00 PM"
     ]
   },
   "photos": [
@@ -373,7 +373,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzHISkYkHWptQoQ_ffRzvWyfhvQIdc4J5qLPV1e4htDAa91Q=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Yesterday, I went to \"Renee's Kitchenette & Grill,\" located at 69-14 Roosevelt Ave in Woodside, NY, which is a delightful spot that transports diners to the heart of Filipino culinary traditions. The atmosphere is warm and inviting, reflecting the essence of Filipino hospitality. The menu offers a diverse selection of traditional dishes that highlight the rich flavors of the Philippines. Diners rave about the adobo, which is perfectly balanced with savory and slightly tangy notes, and the sinigang, known for its comforting and sour broth. The lechon kawali, crispy on the outside and tender inside, is also a crowd favorite.Portion sizes are generous, making it a great place for sharing with friends or family. The service is generally attentive and friendly, adding to the welcoming charm of the restaurant.In addition to the main dishes, don\u2019t miss out on the desserts. Traditional sweets like halo-halo or leche flan provide a perfect finish to your meal. Overall, \"Renee's Kitchenette & Grill\" offers a satisfying dining experience with authentic flavors, making it a must-visit for both Filipino food lovers and newcomers eager to explore. Whether you\u2019re stopping by for a quick lunch or a leisurely dinner, you\u2019re sure to leave with a full belly and a happy heart. #filipinofood #onlyinqueens",
+      "text": "Yesterday, I went to \"Renee's Kitchenette & Grill,\" located at 69-14 Roosevelt Ave in Woodside, NY, which is a delightful spot that transports diners to the heart of Filipino culinary traditions. The atmosphere is warm and inviting, reflecting the essence of Filipino hospitality. The menu offers a diverse selection of traditional dishes that highlight the rich flavors of the Philippines. Diners rave about the adobo, which is perfectly balanced with savory and slightly tangy notes, and the sinigang, known for its comforting and sour broth. The lechon kawali, crispy on the outside and tender inside, is also a crowd favorite.Portion sizes are generous, making it a great place for sharing with friends or family. The service is generally attentive and friendly, adding to the welcoming charm of the restaurant.In addition to the main dishes, don’t miss out on the desserts. Traditional sweets like halo-halo or leche flan provide a perfect finish to your meal. Overall, \"Renee's Kitchenette & Grill\" offers a satisfying dining experience with authentic flavors, making it a must-visit for both Filipino food lovers and newcomers eager to explore. Whether you’re stopping by for a quick lunch or a leisurely dinner, you’re sure to leave with a full belly and a happy heart. #filipinofood #onlyinqueens",
       "time": 1741018256,
       "translated": false
     },
@@ -385,7 +385,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpmPfW3SFHrj6nmkyQDPFlSgVcjsIzlOrwqPXDUvadiUl1lX_K=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "6 months ago",
-      "text": "Food was ok, had fair share of Filipino food before and was excited for try this family style restaurant. Portion was on the smaller size and flavor was mild not rich, ordered pinabet can\u2019t taste the shrimp paste. Definitely didn\u2019t give me the wag bang flavor I used to get from other Filipino restaurant",
+      "text": "Food was ok, had fair share of Filipino food before and was excited for try this family style restaurant. Portion was on the smaller size and flavor was mild not rich, ordered pinabet can’t taste the shrimp paste. Definitely didn’t give me the wag bang flavor I used to get from other Filipino restaurant",
       "time": 1735597830,
       "translated": false
     },
@@ -397,7 +397,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVv-kaTRiAPaBYWFAoUjPIhOmNJTJcoy9FgnTqPqNzY4arkl5x_=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "5 months ago",
-      "text": "Small place with lots of options.\nThey don\u2019t take reservations and street parking only.\nWe ordered chicken, sinigang, tortang talong, avocado shake and empanadas to go!\nIt\u2019s a must to try and get your quick Filipino food fix.",
+      "text": "Small place with lots of options.\nThey don’t take reservations and street parking only.\nWe ordered chicken, sinigang, tortang talong, avocado shake and empanadas to go!\nIt’s a must to try and get your quick Filipino food fix.",
       "time": 1736930768,
       "translated": false
     },
@@ -432,5 +432,50 @@
   "utc_offset": -240,
   "vicinity": "69-14 Roosevelt Ave, Woodside",
   "website": "http://www.reneeskitchenette.com/",
-  "business_status_checked_at": "2026-10-03T20:05:59.483715+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:59.483715+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:49.713529+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.reneeskitchenette.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.reneeskitchenette.com/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.reneeskitchenette.com/location/none/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.reneeskitchenette.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.reneeskitchenette.com/contact/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.reneeskitchenette.com/location/none/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.reneeskitchenette.com/",
+      "https://www.reneeskitchenette.com/contact/",
+      "https://www.reneeskitchenette.com/location/none/"
+    ],
+    "browser_checked_at": "2026-10-03T22:11:10.705159+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

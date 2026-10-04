@@ -1,0 +1,43 @@
+{
+  "adr_address": "<span class=\"street-address\">28-12 Ditmars Blvd</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11105</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "28-12 Ditmars Blvd, Astoria, NY 11105, USA",
+  "formatted_phone_number": "(718) 728-5169",
+  "geometry": {
+    "location": {
+      "lat": 40.7768732,
+      "lng": -73.9122415
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7783109802915,
+        "lng": -73.9107779197085
+      },
+      "southwest": {
+        "lat": 40.7756130197085,
+        "lng": -73.9134758802915
+      }
+    }
+  },
+  "international_phone_number": "+1 718-728-5169",
+  "name": "Astoria Bagel Shop",
+  "place_id": "ChIJUyVxHFxfwokR1IlQnzpuDUc",
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=5119869549450136020",
+  "details_checked_at": "2026-10-03T21:59:07.411566+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:07.411566+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:53.833099+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
+}

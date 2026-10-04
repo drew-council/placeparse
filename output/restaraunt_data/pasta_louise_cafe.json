@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 8:00 AM – 9:00 PM",
+      "Tuesday: 8:00 AM – 9:00 PM",
+      "Wednesday: 8:00 AM – 9:00 PM",
+      "Thursday: 8:00 AM – 9:00 PM",
+      "Friday: 8:00 AM – 9:00 PM",
+      "Saturday: 9:00 AM – 9:00 PM",
+      "Sunday: 9:00 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -268,13 +268,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 8:00 AM – 9:00 PM",
+      "Tuesday: 8:00 AM – 9:00 PM",
+      "Wednesday: 8:00 AM – 9:00 PM",
+      "Thursday: 8:00 AM – 9:00 PM",
+      "Friday: 8:00 AM – 9:00 PM",
+      "Saturday: 9:00 AM – 9:00 PM",
+      "Sunday: 9:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -388,7 +388,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRqiGOQNvcS75xCgEaly7PokH1PgMF2ipAqAoaFwfUODIIZg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "6 months ago",
-      "text": "I want to give this place another try because this go round didn\u2019t thrill me. I ordered delivery on a busy weekend which might have been the issue. The pasta bolognese (with added whipped ricotta) had the perfect homemade noodle texture, but the sauce was weirdly lacking in meat or any kind of texture/filling for a bolognese sauce. The Roman sandwich\u2019s fillings were amazing but the bread was so hard and crumbly it was hard to actually eat it as a sandwich. If I\u2019m honest I just ate the fillings with my bare hands like an animal because the bread was so intolerable. Would like to try it again.",
+      "text": "I want to give this place another try because this go round didn’t thrill me. I ordered delivery on a busy weekend which might have been the issue. The pasta bolognese (with added whipped ricotta) had the perfect homemade noodle texture, but the sauce was weirdly lacking in meat or any kind of texture/filling for a bolognese sauce. The Roman sandwich’s fillings were amazing but the bread was so hard and crumbly it was hard to actually eat it as a sandwich. If I’m honest I just ate the fillings with my bare hands like an animal because the bread was so intolerable. Would like to try it again.",
       "time": 1734574530,
       "translated": false
     },
@@ -400,7 +400,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxU_P31XpLNnmHcMPtJjWV2atnN_ojfyKylK_CjfzCNAmvzHY=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "6 months ago",
-      "text": "I look forward to every visit to NYC just to come back to Pasta Louise!\n\nAs always, the food today was absolutely exquisite, and the coffee martini was perfection. This restaurant consistently delivers when it comes to flavors and quality.\n\nHowever, I have to mention that our waiter chewing gum while talking to us was a major turnoff. It's unprofessional and a bit off-putting, especially in such a lovely dining setting.\n\nThat said, this one hiccup won\u2019t stop me from returning. Pasta Louise remains a must-visit on every trip to NYC!",
+      "text": "I look forward to every visit to NYC just to come back to Pasta Louise!\n\nAs always, the food today was absolutely exquisite, and the coffee martini was perfection. This restaurant consistently delivers when it comes to flavors and quality.\n\nHowever, I have to mention that our waiter chewing gum while talking to us was a major turnoff. It's unprofessional and a bit off-putting, especially in such a lovely dining setting.\n\nThat said, this one hiccup won’t stop me from returning. Pasta Louise remains a must-visit on every trip to NYC!",
       "time": 1733611218,
       "translated": false
     },
@@ -424,7 +424,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPPV7jdGCCil96OyhQhZ2dSWT_Arqgaw2osw5mfk969E_yHw=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "2 months ago",
-      "text": "20-minute wait for a chicken salad sandwich is wild. I was excited to finally come here but this was super disappointing. The sandwich itself was very good, but I specifically ordered the chicken salad assuming it would the quickest option to make on the menu. I\u2019m not sure if they forgot to make it or what took so long, considering there were no other customers dining in and waiting for lunch. (For context, only a few other customers were there with cafe drinks only, no numbers on their dining tables for lunch.)",
+      "text": "20-minute wait for a chicken salad sandwich is wild. I was excited to finally come here but this was super disappointing. The sandwich itself was very good, but I specifically ordered the chicken salad assuming it would the quickest option to make on the menu. I’m not sure if they forgot to make it or what took so long, considering there were no other customers dining in and waiting for lunch. (For context, only a few other customers were there with cafe drinks only, no numbers on their dining tables for lunch.)",
       "time": 1743803601,
       "translated": false
     }
@@ -448,5 +448,68 @@
   "utc_offset": -240,
   "vicinity": "803 8th Ave, Brooklyn",
   "website": "https://www.pastalouise.com/",
-  "business_status_checked_at": "2026-10-03T20:05:51.893899+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:51.893899+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:41.470147+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.pastalouise.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.pastalouise.com/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.pastalouise.com/about/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.pastalouise.com/PLevents/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.pastalouise.com/reservations/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.pastalouise.com/location/pasta-louise/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.pastalouise.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.pastalouise.com/contact/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.pastalouise.com/about/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.pastalouise.com/",
+      "https://www.pastalouise.com/contact/",
+      "https://www.pastalouise.com/about/",
+      "https://www.pastalouise.com/PLevents/",
+      "https://www.pastalouise.com/reservations/",
+      "https://www.pastalouise.com/location/pasta-louise/"
+    ],
+    "browser_checked_at": "2026-10-03T22:10:57.172286+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

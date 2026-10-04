@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Tuesday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Wednesday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Thursday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Friday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Saturday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Sunday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Monday: 6:00 AM – 6:00 PM",
+      "Tuesday: 6:00 AM – 6:00 PM",
+      "Wednesday: 6:00 AM – 6:00 PM",
+      "Thursday: 6:00 AM – 6:00 PM",
+      "Friday: 6:00 AM – 6:00 PM",
+      "Saturday: 6:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
     ]
   },
   "delivery": true,
@@ -267,13 +267,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Tuesday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Wednesday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Thursday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Friday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Saturday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Sunday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Monday: 6:00 AM – 6:00 PM",
+      "Tuesday: 6:00 AM – 6:00 PM",
+      "Wednesday: 6:00 AM – 6:00 PM",
+      "Thursday: 6:00 AM – 6:00 PM",
+      "Friday: 6:00 AM – 6:00 PM",
+      "Saturday: 6:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
     ]
   },
   "photos": [
@@ -375,7 +375,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZj6W7XG4-rNFmOrGaap4oZXNju5nQLdy6IXx5fMaWK8I4H4Io=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "This place has been a favorite spot of my girlfriend\u2019s for a very long time, and I see way. There\u2019s so much to love about NYBCH.\n\nThey have excellent quality bagels (and a large assortment), excellent quality spreads (and a large assortment, great coffee drinks, and even some sleeper hits like their quiche.\n\nOn top of all that, they usually have plenty of seating if you want to relax and stay awhile. If the weather is nice, they even have a great outdoor seating area, too!\n\nHighly recommend stopping by if you\u2019re in Queens. Also, be sure to get some of their quiche. It may actually be the best quiche I\u2019ve ever eaten.",
+      "text": "This place has been a favorite spot of my girlfriend’s for a very long time, and I see way. There’s so much to love about NYBCH.\n\nThey have excellent quality bagels (and a large assortment), excellent quality spreads (and a large assortment, great coffee drinks, and even some sleeper hits like their quiche.\n\nOn top of all that, they usually have plenty of seating if you want to relax and stay awhile. If the weather is nice, they even have a great outdoor seating area, too!\n\nHighly recommend stopping by if you’re in Queens. Also, be sure to get some of their quiche. It may actually be the best quiche I’ve ever eaten.",
       "time": 1718087313,
       "translated": false
     },
@@ -387,7 +387,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJ4A5RSzJiwBohkoXinYsgAog1t4e0k8s5y5mgZ_bHGu6eoA=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "Great fresh bagels \ud83e\udd6f that seem to be baked on premises. They're big, soft, and just the right amount of chewy. This location is small but cozy and the staff is friendly and efficient. I highly recommend as a quick pit-stop if you're around Steinway.",
+      "text": "Great fresh bagels 🥯 that seem to be baked on premises. They're big, soft, and just the right amount of chewy. This location is small but cozy and the staff is friendly and efficient. I highly recommend as a quick pit-stop if you're around Steinway.",
       "time": 1749246819,
       "translated": false
     },
@@ -448,5 +448,30 @@
   "emails": [
     "micah@micahrich.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:46.859870+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:46.859870+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:34.622557+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://nycbch.com/",
+        "status": "HTTP_404",
+        "emails": []
+      },
+      {
+        "url": "https://nycbch.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://nycbch.com/events.html",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:10:27.244551+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

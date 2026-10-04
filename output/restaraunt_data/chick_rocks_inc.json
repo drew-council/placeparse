@@ -169,13 +169,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 10:00 AM – 9:30 PM",
+      "Tuesday: 10:00 AM – 9:30 PM",
+      "Wednesday: 10:00 AM – 9:30 PM",
+      "Thursday: 10:00 AM – 9:30 PM",
+      "Friday: 10:00 AM – 9:30 PM",
+      "Saturday: 10:00 AM – 9:30 PM",
+      "Sunday: 10:00 AM – 9:30 PM"
     ]
   },
   "delivery": true,
@@ -278,13 +278,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 10:00 AM – 9:30 PM",
+      "Tuesday: 10:00 AM – 9:30 PM",
+      "Wednesday: 10:00 AM – 9:30 PM",
+      "Thursday: 10:00 AM – 9:30 PM",
+      "Friday: 10:00 AM – 9:30 PM",
+      "Saturday: 10:00 AM – 9:30 PM",
+      "Sunday: 10:00 AM – 9:30 PM"
     ]
   },
   "photos": [
@@ -387,7 +387,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSdVhPoqMn90f-3FZ97PoYafgr3bupeTraruxVDosIOmqXy96E=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "6 months ago",
-      "text": "Chick Rocks is serving up affordable chicken, crawfish, fries, and much more dishes. Located in the New World Mall. It can get a bit packed at the dining hall. Besides that the food is pretty good. All the fried dishes were freshly cooked and seasoned.This was my first time trying crawfish and it surprised me it has that seafood taste but it\u2019s not fishy. The crawfish was juicy and tender. You can get it on a bun or in curry chicken spaghetti. Also, there\u2019s a variety of sauces. The service was good. If you\u2019re in flushing queens make sure to check it out for yourself.",
+      "text": "Chick Rocks is serving up affordable chicken, crawfish, fries, and much more dishes. Located in the New World Mall. It can get a bit packed at the dining hall. Besides that the food is pretty good. All the fried dishes were freshly cooked and seasoned.This was my first time trying crawfish and it surprised me it has that seafood taste but it’s not fishy. The crawfish was juicy and tender. You can get it on a bun or in curry chicken spaghetti. Also, there’s a variety of sauces. The service was good. If you’re in flushing queens make sure to check it out for yourself.",
       "time": 1735032720,
       "translated": false
     },
@@ -399,7 +399,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3zxLhpdfcbp2ihyRgBJxDsu3DjkJY5iCVapnclZeoscwbUSOf=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "this spot is located inside new world mall in flushing and they have such great deals!! they have combo deals for $9.95. their fried chicken is so crispy and juicy. their menu has a huge selection whether you want fried chicken, a burger, a wrap, spaghetti, they got you!! their milk tea is also really delicious and it\u2019s only $4.95 for a large. definitely will be back!",
+      "text": "this spot is located inside new world mall in flushing and they have such great deals!! they have combo deals for $9.95. their fried chicken is so crispy and juicy. their menu has a huge selection whether you want fried chicken, a burger, a wrap, spaghetti, they got you!! their milk tea is also really delicious and it’s only $4.95 for a large. definitely will be back!",
       "time": 1714830971,
       "translated": false
     },
@@ -455,5 +455,13 @@
   "user_ratings_total": 60,
   "utc_offset": -240,
   "vicinity": "136-20 Roosevelt Ave #25, Flushing",
-  "business_status_checked_at": "2026-10-03T20:04:54.605510+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:54.605510+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:22.650782+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

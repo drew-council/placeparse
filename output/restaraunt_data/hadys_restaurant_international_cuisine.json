@@ -160,13 +160,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -273,13 +273,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -302,7 +302,7 @@
     {
       "height": 3600,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101660977401020162354\">I don\u2019t forgive</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101660977401020162354\">I don’t forgive</a>"
       ],
       "photo_reference": "ATKogpce1U_1oQ9eaDjnO-T45YP7bvlYU-IvDs3Qj-hepDiil3Z6poHpvi39pZ_KuXAFxDfR6Q6b2rOvNaIasVhpi6X6Xn9HHXy5s060UjnstMjehtVXBhogkbDhqMbc-Pc_vdEKmPiIPZo_ETLhkGYsuBx2IWsY_m3KVqFHvobrsl0LCdwpEujcq978afGqn1zSC5MrHcNOoh2n6b5twbyhZshQ6HEIaTXRQOfgvgN2zeKycwr_BSyUuqo92_rfk0iXRbzB7NHsvX26j9LL3nBAf8V39mKYRVDDhtX-TuGllvPRe0spSDpMjcdC5WddqVyaMB3QQVvd8dYXadnioHywkAfNDEuWgXipB-jDNsINDgNhNL_SO5gTJ9409unBK48MdfCc5BWSddb-T6oaLsAtGx2B-a9c7llIs9jfussgvvSovFg",
       "width": 4800
@@ -394,7 +394,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMJhfoVSqffhn93Y8zJyqSmPMIf083Bb3hc_uDVTWZonsB6jfG=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "6 months ago",
-      "text": "A great place to vibe out at but the food has not been the same this year. I\u2019ve had it 5 times and each time it has gotten worse. Curry chunky. Chicken dry and got a single bone but Yk that\u2019s okay the meat be falling off the bone! Rice & beans dry ! Like ughh I just wanted some curry chicken. I\u2019m sad gotta order food from else where.",
+      "text": "A great place to vibe out at but the food has not been the same this year. I’ve had it 5 times and each time it has gotten worse. Curry chunky. Chicken dry and got a single bone but Yk that’s okay the meat be falling off the bone! Rice & beans dry ! Like ughh I just wanted some curry chicken. I’m sad gotta order food from else where.",
       "time": 1735358281,
       "translated": false
     },
@@ -471,8 +471,8 @@
         "Wednesday: Closed",
         "Thursday: Closed",
         "Friday: Closed",
-        "Saturday: 6:00\u2009\u2013\u200911:00\u202fAM",
-        "Sunday: 6:00\u2009\u2013\u200911:00\u202fAM"
+        "Saturday: 6:00 – 11:00 AM",
+        "Sunday: 6:00 – 11:00 AM"
       ]
     }
   ],
@@ -498,5 +498,31 @@
   "emails": [
     "info@hadyinternational.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:13.733998+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:13.733998+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:55.316366+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@hadyinternational.com": [
+        "https://hadyinternational.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://hadyinternational.com/",
+        "status": "HTTP_403",
+        "emails": []
+      },
+      {
+        "url": "https://hadyinternational.com/",
+        "status": "browser_ok",
+        "emails": [
+          "info@hadyinternational.com"
+        ]
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:08:54.113018+00:00",
+    "browser_outcome": "found"
+  }
 }

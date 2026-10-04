@@ -130,13 +130,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
       "Friday: Closed",
       "Saturday: Closed",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -223,13 +223,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
       "Friday: Closed",
       "Saturday: Closed",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -244,7 +244,7 @@
     {
       "height": 3000,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/108743087455720442186\">\u05d0\u05d1\u05e8\u05d9\u05d9\u05de\u05e7\u05d4 \u05d0\u05d9\u05d9\u05d6\u05e0\u05e9\u05d8\u05d9\u05d9\u05df</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/108743087455720442186\">אבריימקה אייזנשטיין</a>"
       ],
       "photo_reference": "ATKogpeEi3YxYXv7WxUUr_2oDzkBwYJ04q-cs79ItF4Qk0sIxc-Odt7g1Uv3zKqGRZ2-ogYSvsbvpzt2RGOWuRGtFDGZQCPH-HYLxW4NcJOSLByxdJiLWNRJ2a5YE_CO7DhNO7T6h58_WxH5d-0IZ9PxyKuNtwYUVLZ1Wr9V_K0l7dZ0_dsBbVEDxZr7hpUI4B61a4-NPVdUiY5bKykUHkit7ZKv7hrjc_50cK31zNZwfVGIw-_5MFqqiZHOc7_AuZSTRMl9_dde4dGs55Pcuz842nlTG2hjTXOPKRP19MC_4IotmXTb4r334pjeFvPPbwQcywFp9OgpsozD-taW7q0cbVAfOM0Cwpfhc-8C708V7XqK_uLpR2PTmE8y_fKA7cziGKY2VdJ0OBvv4iDn35tc3d6ZqR3zOt_QaPel3KYO5CqeqOw",
       "width": 4000
@@ -292,7 +292,7 @@
     {
       "height": 3000,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/108743087455720442186\">\u05d0\u05d1\u05e8\u05d9\u05d9\u05de\u05e7\u05d4 \u05d0\u05d9\u05d9\u05d6\u05e0\u05e9\u05d8\u05d9\u05d9\u05df</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/108743087455720442186\">אבריימקה אייזנשטיין</a>"
       ],
       "photo_reference": "ATKogpeUJetUqTf-nmNHGMPlgDvqGY69_nino6CgJ5JeWRQsQgFmQlUWfq391ip0jfFnccBnbtErjvolLeMFyL9OeplGGF38PpI64C73BTSjppvyQ00rCpHrxdWGHKBcJkbO6UM8fpwxYamwNzEMBqi7gknj_Q7bluodFi--IOlKYCGhlKgzQyhAHtOb_Utytae2Xr4YAqggkoB2Dhxm_vuKRsN7bx03lU0XlLcwrsyskMeLA96KZUOmG0w1KxRAPT1MHY4qdAk5f2tMO30Tc1_yv7XC4xHep0WFJxgmZFqsiJuCPG3TtahWu4wzb8NO_SsXow-dPntx5Ukk8nz8a5z58BlV09VQsr3kri-bX6VHr49HLpXUFORegyxA3d8cg3mfuTWYkV512mc0G3dynkjM-pUx0OyBKd4e-ZMuJCA4vTsH4G3M",
       "width": 4000
@@ -332,7 +332,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXq9hJcY75imB58XFTki1mLxy3D1sbz3eVPfC-VBIiwA8LvJPTN=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "The best falafel in New York City!\nSuper original and authentic. The staff is very friendly, the prices are really affordable, and the service is fast and always with a smile.\nHighly recommended for anyone looking for real, high-quality Israeli food\u2014this is the place to go!",
+      "text": "The best falafel in New York City!\nSuper original and authentic. The staff is very friendly, the prices are really affordable, and the service is fast and always with a smile.\nHighly recommended for anyone looking for real, high-quality Israeli food—this is the place to go!",
       "time": 1750391126,
       "translated": false
     },
@@ -344,7 +344,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxp7S3eGYlsgIxvlNATobA762ItaYo26BqCjL1bZpCL0120ow=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Never had Falafel before. My friend took me & I was skeptical but also excited. Upon arrival you would see that it wasn\u2019t the most up-kept place but don\u2019t let the mom and pop feeling fool you. The falafel pita was sooooo light refreshing flavorful, like I was at lost for words with each bite. I plan on taking a trip VERY SOON\u2026 NY TIMES was spot on when they said they are the best in the city.",
+      "text": "Never had Falafel before. My friend took me & I was skeptical but also excited. Upon arrival you would see that it wasn’t the most up-kept place but don’t let the mom and pop feeling fool you. The falafel pita was sooooo light refreshing flavorful, like I was at lost for words with each bite. I plan on taking a trip VERY SOON… NY TIMES was spot on when they said they are the best in the city.",
       "time": 1745709439,
       "translated": false
     },
@@ -356,7 +356,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRqiGOQNvcS75xCgEaly7PokH1PgMF2ipAqAoaFwfUODIIZg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "Unbelievable quality falafel and pita. One pita will literally keep you full all day. Whatever toppings you want and they don\u2019t cost extra! A gem.",
+      "text": "Unbelievable quality falafel and pita. One pita will literally keep you full all day. Whatever toppings you want and they don’t cost extra! A gem.",
       "time": 1750336244,
       "translated": false
     },
@@ -368,7 +368,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaurp1W-OegkOYRHaptMBvMyS3PRH1DWEgzAI3fzz9CgpDFU_K=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "6 months ago",
-      "text": "Was curious to try out this place went the first time and absolutely loved it! I underestimated the serving size so I ordered some hummus on the side and just the pita alone left me absolutely STUFFED. Healthy, homemade, simple and delicious. I am officially a regular. Can\u2019t wait to come back!!",
+      "text": "Was curious to try out this place went the first time and absolutely loved it! I underestimated the serving size so I ordered some hummus on the side and just the pita alone left me absolutely STUFFED. Healthy, homemade, simple and delicious. I am officially a regular. Can’t wait to come back!!",
       "time": 1733170384,
       "translated": false
     },
@@ -405,5 +405,35 @@
   "emails": [
     "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:07.520958+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:07.520958+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:45.433492+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://falafeltanami.com/?utm_source=GMB&utm_medium=Website%20button&utm_id=Falafel%20Tanami",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://falafeltanami.com/about-us/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://falafeltanami.com/?utm_source=GMB&utm_medium=Website%20button&utm_id=Falafel%20Tanami",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://falafeltanami.com/about-us/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:08:44.049529+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

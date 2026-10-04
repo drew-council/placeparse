@@ -1,0 +1,42 @@
+{
+  "adr_address": "37-09 College Point Boulevard Space #FH9&amp;10, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "37-09 College Point Boulevard Space #FH9&10, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(929) 520-6667",
+  "geometry": {
+    "location": {
+      "lat": 40.760238,
+      "lng": -73.8346885
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7613593302915,
+        "lng": -73.8333153697085
+      },
+      "southwest": {
+        "lat": 40.75866136970851,
+        "lng": -73.83601333029151
+      }
+    }
+  },
+  "international_phone_number": "+1 929-520-6667",
+  "name": "GanBlaze",
+  "place_id": "ChIJP8DBhlFhwokRNYw10D3xX8w",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=14726754554313280565",
+  "details_checked_at": "2026-10-03T21:59:20.946645+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:20.946645+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:06.205663+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
+}

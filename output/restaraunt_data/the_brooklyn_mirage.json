@@ -193,7 +193,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMQDvFH8FCtBrqYDJdfMr790zWE2Kf56f131j1m_fL12paZg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "a week ago",
-      "text": "Avant- Gardner is Avant Gardner. Great sound system, the screens are a bit much for me but that\u2019s what the scenes has become. Other than that it\u2019s no frills. Happy it\u2019s stayed open while mirage is closed. I do have to say I am disappointed the food window with the mozzarella sticks is closed. Literally, the best mozzarella sticks I\u2019ve ever had.",
+      "text": "Avant- Gardner is Avant Gardner. Great sound system, the screens are a bit much for me but that’s what the scenes has become. Other than that it’s no frills. Happy it’s stayed open while mirage is closed. I do have to say I am disappointed the food window with the mozzarella sticks is closed. Literally, the best mozzarella sticks I’ve ever had.",
       "time": 1750297666,
       "translated": false
     },
@@ -205,7 +205,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAhaqcr1dv29bfwvN_MZ0Du_UeFQgWt2G7c6cegwuThD5Ju2-h=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "6 months ago",
-      "text": "The security to get in here was crazier than TSA. Also super weird that they don\u2019t accept cash or credit cards in the venue - you have to load money onto your wristband. Once inside drinks are pricey. You also have to coat check and then walk back outside to get to the hall which wasn\u2019t super fun because it\u2019s cold. The atmosphere was cool though.",
+      "text": "The security to get in here was crazier than TSA. Also super weird that they don’t accept cash or credit cards in the venue - you have to load money onto your wristband. Once inside drinks are pricey. You also have to coat check and then walk back outside to get to the hall which wasn’t super fun because it’s cold. The atmosphere was cool though.",
       "time": 1733234344,
       "translated": false
     },
@@ -217,7 +217,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICCuepR1S68BsvniWlmhQdVNzVviMyQYhCBrbauuGRcK1ioA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "I went to Avant Gardner to see Meute and was pleasantly surprised by the experience.\nFor the rare few like me that may need it, they do take foreign passport as an id. No questions asked. Security was quick and friendly and so was the bar. The sound and lights were awesome. The surroundings are industrial but the streets are lit and there are crowds going to the MTA stations. All in all a good experience and I won\u2019t hesitate to return for the right type of band.",
+      "text": "I went to Avant Gardner to see Meute and was pleasantly surprised by the experience.\nFor the rare few like me that may need it, they do take foreign passport as an id. No questions asked. Security was quick and friendly and so was the bar. The sound and lights were awesome. The surroundings are industrial but the streets are lit and there are crowds going to the MTA stations. All in all a good experience and I won’t hesitate to return for the right type of band.",
       "time": 1743867124,
       "translated": false
     },
@@ -241,7 +241,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbeG5VW9EY0iUwDh_pvXnjfsUZxUhTnBvO_hvQhoaakPLjDOcq=s128-c0x00000000-cc-rp-mo-ba8",
       "rating": 3,
       "relative_time_description": "7 months ago",
-      "text": "I have been to the Mirage before but this was my first time at Avant Gardner. Overall the show was good. The sound quality was pretty good but depended a bit where you were standing. Light show was good.\n\nI didn\u2019t like the crowd layout. The place is a rectangle so you can be directly in front of the DJ only. So if you don\u2019t arrive early you\u2019ll be far back with little chance of moving forward.\n\nThe security at the door was impolite to my friend. He was really strict on his ID even though it was him. He was asking him questions and for other forms of ID. This experience started off a bad vibe at the entrance but it got better after.\n\nCoat check was fairly expensive. Paid like $6-8 per coat.\n\nEvery machine and interaction has predatory tipping. Of course drinks, including just water, were expensive. $7 per water is steep.",
+      "text": "I have been to the Mirage before but this was my first time at Avant Gardner. Overall the show was good. The sound quality was pretty good but depended a bit where you were standing. Light show was good.\n\nI didn’t like the crowd layout. The place is a rectangle so you can be directly in front of the DJ only. So if you don’t arrive early you’ll be far back with little chance of moving forward.\n\nThe security at the door was impolite to my friend. He was really strict on his ID even though it was him. He was asking him questions and for other forms of ID. This experience started off a bad vibe at the entrance but it got better after.\n\nCoat check was fairly expensive. Paid like $6-8 per coat.\n\nEvery machine and interaction has predatory tipping. Of course drinks, including just water, were expensive. $7 per water is steep.",
       "time": 1732434174,
       "translated": false
     }
@@ -256,5 +256,19 @@
   "vicinity": "140 Stewart Ave, Brooklyn",
   "website": "https://www.avant-gardner.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:06:16.058997+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:16.058997+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:05.874463+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.avant-gardner.com/",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

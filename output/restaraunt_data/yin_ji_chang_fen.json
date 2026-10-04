@@ -161,13 +161,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM"
+      "Monday: 8:00 AM – 7:45 PM",
+      "Tuesday: 8:00 AM – 7:45 PM",
+      "Wednesday: 9:00 AM – 7:45 PM",
+      "Thursday: 8:00 AM – 7:45 PM",
+      "Friday: 8:00 AM – 7:45 PM",
+      "Saturday: 8:00 AM – 7:45 PM",
+      "Sunday: 8:00 AM – 7:45 PM"
     ]
   },
   "delivery": true,
@@ -194,7 +194,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 315-878-6668",
-  "name": "Yin Ji Chang Fen \u9280\u8a18\u8178\u7c89",
+  "name": "Yin Ji Chang Fen 銀記腸粉",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -270,13 +270,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM"
+      "Monday: 8:00 AM – 7:45 PM",
+      "Tuesday: 8:00 AM – 7:45 PM",
+      "Wednesday: 9:00 AM – 7:45 PM",
+      "Thursday: 8:00 AM – 7:45 PM",
+      "Friday: 8:00 AM – 7:45 PM",
+      "Saturday: 8:00 AM – 7:45 PM",
+      "Sunday: 8:00 AM – 7:45 PM"
     ]
   },
   "photos": [
@@ -379,7 +379,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV72VepOg_6xO1-IMp395_za90pIVLI5brMQStKsbsUUe-Pkdpi=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 4,
       "relative_time_description": "a week ago",
-      "text": "This is a Chinese congee/rice roll spot in Flushing, New York. The food comes out very quickly after you order, which is good if you\u2019re looking for a quick and satisfying meal. Everything is served on paper plates, so if you can\u2019t finish, it\u2019s easy to take it to go. The congee has a light, comforting flavor, and the rice rolls and side dishes are tasty, street-food style snacks. Nice place for a casual and affordable bite.",
+      "text": "This is a Chinese congee/rice roll spot in Flushing, New York. The food comes out very quickly after you order, which is good if you’re looking for a quick and satisfying meal. Everything is served on paper plates, so if you can’t finish, it’s easy to take it to go. The congee has a light, comforting flavor, and the rice rolls and side dishes are tasty, street-food style snacks. Nice place for a casual and affordable bite.",
       "time": 1750036884,
       "translated": false
     },
@@ -450,5 +450,41 @@
   "utc_offset": -240,
   "vicinity": "38-12 Prince St, Flushing",
   "website": "http://yinji-usa.com/",
-  "business_status_checked_at": "2026-10-03T20:06:27.995758+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:27.995758+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:26.004567+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.yinji-usa.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.yinji-usa.com/contact-us/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.yinji-usa.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.yinji-usa.com/contact-us/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.yinji-usa.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:12:42.714115+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

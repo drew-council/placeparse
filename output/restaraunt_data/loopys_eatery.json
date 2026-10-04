@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 12:00 – 9:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -264,13 +264,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 12:00 – 9:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
     ]
   },
   "photos": [
@@ -373,7 +373,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOMZhbLl5_uQsxC_ocXbM-hCIIkzt6ZO6x6tUiRGTj6jlCqk99=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "As a first time NYC visitor from Houston, TX eating here was worth all the time, cost, and service. We were greeted and served by Tex, who I believe is the owner of the restaurant. The service was exceptional and the food matched along with it. Deliciously flavored and the portions kept us comfortably full. I got the bento box with bulgogi beef, yum yum sauce and their popcorn chicken is a must have! My wife ate their steam pot bibimbap bowl which was also fantastic. Don\u2019t forget to order the Thai milk tea as well! We will definitely make a stop here on our next visit to NYC and highly encourage others to do the same!",
+      "text": "As a first time NYC visitor from Houston, TX eating here was worth all the time, cost, and service. We were greeted and served by Tex, who I believe is the owner of the restaurant. The service was exceptional and the food matched along with it. Deliciously flavored and the portions kept us comfortably full. I got the bento box with bulgogi beef, yum yum sauce and their popcorn chicken is a must have! My wife ate their steam pot bibimbap bowl which was also fantastic. Don’t forget to order the Thai milk tea as well! We will definitely make a stop here on our next visit to NYC and highly encourage others to do the same!",
       "time": 1742770542,
       "translated": false
     },
@@ -421,7 +421,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0pt_c1RV-h53j6eXQn3RHu1DJC2L9BHTPENqCsNHhPgxNfPYk=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "7 months ago",
-      "text": "We stopped by Loopy\u2019s this past weekend prior to a concert at Madison Square Garden, and we were so glad we did! This was the best food of our entire trip! It\u2019s extremely reasonably priced, cozy atmosphere, fabulous service. Our server was so kind and helpful, and the food was incredible. The shrimp tempura was fresh and not too greasy like some places, the yum yum sauce was the best I\u2019ve ever had. The beef was flavorful, tender and not fatty at all\u2026the salad came with a fantastic sesame dressing, and the vegetable fried rice was delightful. We come to NYC a couple times a year and we will absolutely be back here!",
+      "text": "We stopped by Loopy’s this past weekend prior to a concert at Madison Square Garden, and we were so glad we did! This was the best food of our entire trip! It’s extremely reasonably priced, cozy atmosphere, fabulous service. Our server was so kind and helpful, and the food was incredible. The shrimp tempura was fresh and not too greasy like some places, the yum yum sauce was the best I’ve ever had. The beef was flavorful, tender and not fatty at all…the salad came with a fantastic sesame dressing, and the vegetable fried rice was delightful. We come to NYC a couple times a year and we will absolutely be back here!",
       "time": 1732929324,
       "translated": false
     }
@@ -517,13 +517,13 @@
       ],
       "type": "DELIVERY",
       "weekday_text": [
-        "Monday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
-        "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
-        "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
-        "Thursday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
-        "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Saturday: 12:00\u2009\u2013\u20098:30\u202fPM",
-        "Sunday: 12:00\u2009\u2013\u20098:30\u202fPM"
+        "Monday: 11:00 AM – 8:30 PM",
+        "Tuesday: 11:00 AM – 8:30 PM",
+        "Wednesday: 11:00 AM – 8:30 PM",
+        "Thursday: 11:00 AM – 8:30 PM",
+        "Friday: 11:00 AM – 9:30 PM",
+        "Saturday: 12:00 – 8:30 PM",
+        "Sunday: 12:00 – 8:30 PM"
       ]
     }
   ],
@@ -550,5 +550,32 @@
     "contact@loopyseatery.com",
     "email@example.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:33.546378+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:33.546378+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:18.248751+00:00",
+    "outcome": "found",
+    "sources": {
+      "contact@loopyseatery.com": [
+        "https://loopyseatery.com/",
+        "https://loopyseatery.com/new-york-chelsea-loopy-s-eatery-about"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://loopyseatery.com/",
+        "status": "ok",
+        "emails": [
+          "contact@loopyseatery.com"
+        ]
+      },
+      {
+        "url": "https://loopyseatery.com/new-york-chelsea-loopy-s-eatery-about",
+        "status": "ok",
+        "emails": [
+          "contact@loopyseatery.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -1,0 +1,66 @@
+{
+  "adr_address": "<span class=\"street-address\">42-59 Hunter St</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101-4116</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "42-59 Hunter St, Long Island City, NY 11101, USA",
+  "formatted_phone_number": "(718) 988-7788",
+  "geometry": {
+    "location": {
+      "lat": 40.7485243,
+      "lng": -73.9398664
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7500214302915,
+        "lng": -73.9386082197085
+      },
+      "southwest": {
+        "lat": 40.7473234697085,
+        "lng": -73.9413061802915
+      }
+    }
+  },
+  "international_phone_number": "+1 718-988-7788",
+  "name": "ChiChicken 吃鸡",
+  "place_id": "ChIJoSrPE3dZwokReX5_-Up2Ek0",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=5553631354886782585",
+  "website": "http://www.chichicken.food/",
+  "details_checked_at": "2026-10-03T21:59:07.054065+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:07.054065+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:57.392862+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.chichicken.food/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.chichicken.food/contact-us/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.chichicken.food/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.chichicken.food/contact-us/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:08:13.464455+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "adr_address": "<span class=\"street-address\">35-57 Crescent St</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11106</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "35-57 Crescent St, Astoria, NY 11106, USA",
+  "formatted_phone_number": "(917) 832-7165",
+  "geometry": {
+    "location": {
+      "lat": 40.758408,
+      "lng": -73.932968
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7598012802915,
+        "lng": -73.93170996970849
+      },
+      "southwest": {
+        "lat": 40.7571033197085,
+        "lng": -73.93440793029151
+      }
+    }
+  },
+  "international_phone_number": "+1 917-832-7165",
+  "name": "Sami's Kabab House",
+  "place_id": "ChIJp_5OfTJfwokRPTrvl90VXkw",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=5502859836174318141",
+  "website": "https://samis.nyc/",
+  "details_checked_at": "2026-10-03T21:59:05.758356+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:05.758356+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:23.127538+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://samis.nyc/",
+        "status": "SSLError",
+        "emails": []
+      },
+      {
+        "url": "https://samis.nyc/",
+        "status": "browser_load_error",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:15.384904+00:00",
+    "browser_outcome": "incomplete_lookup"
+  }
+}

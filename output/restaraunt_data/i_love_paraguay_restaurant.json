@@ -1,0 +1,104 @@
+{
+  "adr_address": "<span class=\"street-address\">43-16 Greenpoint Ave</span>, <span class=\"locality\">Sunnyside</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11104-2606</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "43-16 Greenpoint Ave, Sunnyside, NY 11104, USA",
+  "formatted_phone_number": "(718) 786-5534",
+  "geometry": {
+    "location": {
+      "lat": 40.7409452,
+      "lng": -73.9214274
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7423837302915,
+        "lng": -73.9201161197085
+      },
+      "southwest": {
+        "lat": 40.7396857697085,
+        "lng": -73.9228140802915
+      }
+    }
+  },
+  "international_phone_number": "+1 718-786-5534",
+  "name": "I Love Paraguay Restaurant",
+  "place_id": "ChIJ2YiAK9pewokRNHMumPYb3EU",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=5033929229422457652",
+  "website": "http://www.ilovepy.com/",
+  "details_checked_at": "2026-10-03T21:59:37.648933+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:37.648933+00:00",
+  "emails": [
+    "info@ilovepy.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:09.483845+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@ilovepy.com": [
+        "https://www.ilovepy.com/",
+        "https://www.ilovepy.com/pages/contact-us",
+        "https://www.ilovepy.com/pages/about-us",
+        "https://www.ilovepy.com/pages/reservation",
+        "https://www.ilovepy.com/pages/join-our-team",
+        "https://www.ilovepy.com/pages/hours-location"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.ilovepy.com/",
+        "status": "ok",
+        "emails": [
+          "info@ilovepy.com"
+        ]
+      },
+      {
+        "url": "https://www.ilovepy.com/pages/contact-us",
+        "status": "ok",
+        "emails": [
+          "info@ilovepy.com"
+        ]
+      },
+      {
+        "url": "https://www.ilovepy.com/pages/about-us",
+        "status": "ok",
+        "emails": [
+          "info@ilovepy.com"
+        ]
+      },
+      {
+        "url": "https://www.ilovepy.com/pages/reservation",
+        "status": "ok",
+        "emails": [
+          "info@ilovepy.com"
+        ]
+      },
+      {
+        "url": "https://www.ilovepy.com/pages/join-our-team",
+        "status": "ok",
+        "emails": [
+          "info@ilovepy.com"
+        ]
+      },
+      {
+        "url": "https://www.ilovepy.com/pages/hours-location",
+        "status": "ok",
+        "emails": [
+          "info@ilovepy.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.ilovepy.com/",
+      "https://www.ilovepy.com/pages/contact-us",
+      "https://www.ilovepy.com/pages/about-us",
+      "https://www.ilovepy.com/pages/reservation",
+      "https://www.ilovepy.com/pages/join-our-team",
+      "https://www.ilovepy.com/pages/hours-location"
+    ]
+  }
+}

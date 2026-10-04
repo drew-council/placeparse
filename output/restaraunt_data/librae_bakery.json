@@ -1,0 +1,97 @@
+{
+  "adr_address": "<span class=\"street-address\">35 Cooper Sq</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "35 Cooper Sq, New York, NY 10003, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.72811859999999,
+      "lng": -73.99075239999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7294426802915,
+        "lng": -73.98947701970849
+      },
+      "southwest": {
+        "lat": 40.7267447197085,
+        "lng": -73.9921749802915
+      }
+    }
+  },
+  "name": "Librae Bakery",
+  "place_id": "ChIJDyCs8UNZwokRaNcdvn_c6jU",
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=3885160069769058152",
+  "website": "http://libraebakery.com/",
+  "details_checked_at": "2026-10-03T21:59:31.327018+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:31.327018+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:14.791488+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.libraebakery.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.libraebakery.com/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.libraebakery.com/catering/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.libraebakery.com/about/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.libraebakery.com/location/librae-bakery/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.libraebakery.com/team-member/rebeca-newman/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.libraebakery.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.libraebakery.com/contact/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.libraebakery.com/catering/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.libraebakery.com/",
+      "https://www.libraebakery.com/contact/",
+      "https://www.libraebakery.com/catering/",
+      "https://www.libraebakery.com/about/",
+      "https://www.libraebakery.com/location/librae-bakery/",
+      "https://www.libraebakery.com/team-member/rebeca-newman/"
+    ],
+    "browser_checked_at": "2026-10-03T22:09:45.403730+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

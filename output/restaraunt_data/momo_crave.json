@@ -142,13 +142,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 12:00 – 9:00 PM",
       "Tuesday: Closed",
-      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20099:45\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20099:45\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+      "Wednesday: 12:00 – 9:00 PM",
+      "Thursday: 12:00 – 9:00 PM",
+      "Friday: 12:00 – 9:45 PM",
+      "Saturday: 12:00 – 9:45 PM",
+      "Sunday: 12:00 – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -245,13 +245,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 12:00 – 9:00 PM",
       "Tuesday: Closed",
-      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20099:45\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20099:45\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+      "Wednesday: 12:00 – 9:00 PM",
+      "Thursday: 12:00 – 9:00 PM",
+      "Friday: 12:00 – 9:45 PM",
+      "Saturday: 12:00 – 9:45 PM",
+      "Sunday: 12:00 – 9:00 PM"
     ]
   },
   "photos": [
@@ -390,7 +390,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDVzCSIQddgQHuNdGft2okehlbKn6gdqdxW0wAjRK6p7U34BDv=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "2 months ago",
-      "text": "This place was good. We ordered Chicken Tandoori Momos and a Chicken Kathi Roll. The momos were tasty, but the kathi roll was just okay\u2014the bread wasn\u2019t cooked properly. If the bread was crispier, it would have tasted much better.",
+      "text": "This place was good. We ordered Chicken Tandoori Momos and a Chicken Kathi Roll. The momos were tasty, but the kathi roll was just okay—the bread wasn’t cooked properly. If the bread was crispier, it would have tasted much better.",
       "time": 1744600354,
       "translated": false
     },
@@ -430,5 +430,28 @@
     "momocrave@gmail.com",
     "whoisanup@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:41.024130+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:41.024130+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:29.166026+00:00",
+    "outcome": "found",
+    "sources": {
+      "momocrave@gmail.com": [
+        "https://momocrave.com/"
+      ],
+      "whoisanup@gmail.com": [
+        "https://momocrave.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://momocrave.com/",
+        "status": "ok",
+        "emails": [
+          "momocrave@gmail.com",
+          "whoisanup@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

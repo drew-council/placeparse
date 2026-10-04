@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 1:30\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 1:30 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -263,13 +263,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 1:30\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 1:30 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -371,7 +371,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCDs0Pi-Hl08CL64sUOcdLqFp2TUBk6TF33q3VuIKzcISmCc4=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "Stopped by Abuqir for lunch and was seriously impressed! We had grilled octopus, seared scallops, Egyptian rice, grilled whole shrimp, fried calamari, and grilled red snapper. Everything was incredibly fresh, seasoned just right, and cooked perfectly.\n\nOne thing to know is that the dining experience is a bit different (in a good way). Once your table is ready, the waiter will tell you to head over to the seafood stand to pick out what you want. They\u2019ll then cook it up fresh to order and it shows in the flavor.\n\nIndoor seating is limited and cozy, with a few outdoor tables available when the weather cooperates. It\u2019s casual and no-frills, but if you\u2019re into high-quality seafood without the fuss, this place is a hidden gem.\n\nHighly recommend for seafood lovers looking for something authentic and delicious!",
+      "text": "Stopped by Abuqir for lunch and was seriously impressed! We had grilled octopus, seared scallops, Egyptian rice, grilled whole shrimp, fried calamari, and grilled red snapper. Everything was incredibly fresh, seasoned just right, and cooked perfectly.\n\nOne thing to know is that the dining experience is a bit different (in a good way). Once your table is ready, the waiter will tell you to head over to the seafood stand to pick out what you want. They’ll then cook it up fresh to order and it shows in the flavor.\n\nIndoor seating is limited and cozy, with a few outdoor tables available when the weather cooperates. It’s casual and no-frills, but if you’re into high-quality seafood without the fuss, this place is a hidden gem.\n\nHighly recommend for seafood lovers looking for something authentic and delicious!",
       "time": 1750418335,
       "translated": false
     },
@@ -395,7 +395,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIeimkw4bdE91FhjFwZV8UFlhsY9PuX9WJ65IvPE1sj9IXykg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in the last week",
-      "text": "If you like grill fresh seafood, you must try this restaurant.  The seafood here is very very fresh, you select the raw seafood you see in the counter.  They grill everything to the perfection.  We love their grill scallops, river giant shrimp, squid, etc\u2026the Greek salad and tahini were very good as well.  We enjoyed everything and will come back again.\n\nNeed to go there early or you need to wait for the table.",
+      "text": "If you like grill fresh seafood, you must try this restaurant.  The seafood here is very very fresh, you select the raw seafood you see in the counter.  They grill everything to the perfection.  We love their grill scallops, river giant shrimp, squid, etc…the Greek salad and tahini were very good as well.  We enjoyed everything and will come back again.\n\nNeed to go there early or you need to wait for the table.",
       "time": 1750720286,
       "translated": false
     },
@@ -407,7 +407,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFE0ImeaubnG7CB3nzZ6VT_S8aW0r2hqtyLC-R83aAQ7jlP4vY=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "in the last week",
-      "text": "This is the restaurant that you make the most of and it\u2019s not big on an overbearing style of service from staff.\n\nThey\u2019re very nice but won\u2019t get up in your face and pressure to order etc.\n\nAsk questions and be proactive about the catch of the day etc.\n\nThat might just be the style and it\u2019s what I prepared myself for reading the diverse reviews\n\nThis is Egyptian style and it\u2019s a mom and pop shop. Very chill and nice to quickly get a good set of scallops and good sea bass.",
+      "text": "This is the restaurant that you make the most of and it’s not big on an overbearing style of service from staff.\n\nThey’re very nice but won’t get up in your face and pressure to order etc.\n\nAsk questions and be proactive about the catch of the day etc.\n\nThat might just be the style and it’s what I prepared myself for reading the diverse reviews\n\nThis is Egyptian style and it’s a mom and pop shop. Very chill and nice to quickly get a good set of scallops and good sea bass.",
       "time": 1750793390,
       "translated": false
     },
@@ -419,7 +419,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQxS7uCYX2g5A-ZygeH6k9UP2DalpVhKIM67HvLirzpzotYg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 2,
       "relative_time_description": "a week ago",
-      "text": "I have heard so much about this place and finally having the experience\u2014I was disappointed.  The servers explained nothing.  We were seated and just waited without directions or a menu\u2014this alone is a deal breaker and not worth the aggravation. The food was inconsistent.  The shrimp was slightly rubbery, the extra jumbo shrimp was tough (waste of money).  The pita bread was inconsistent\u2014the first batch tasted freshly made\u2014while the 2nd batch was tough as if old bread reheated in microwave. The high point was the snapper which was a perfect fry and the salad was good.  But overall a lack luster dining experience which I more likely will not be returning.",
+      "text": "I have heard so much about this place and finally having the experience—I was disappointed.  The servers explained nothing.  We were seated and just waited without directions or a menu—this alone is a deal breaker and not worth the aggravation. The food was inconsistent.  The shrimp was slightly rubbery, the extra jumbo shrimp was tough (waste of money).  The pita bread was inconsistent—the first batch tasted freshly made—while the 2nd batch was tough as if old bread reheated in microwave. The high point was the snapper which was a perfect fry and the salad was good.  But overall a lack luster dining experience which I more likely will not be returning.",
       "time": 1750295155,
       "translated": false
     }
@@ -439,5 +439,13 @@
   "user_ratings_total": 873,
   "utc_offset": -240,
   "vicinity": "24-19 Steinway St, Astoria",
-  "business_status_checked_at": "2026-10-03T20:04:36.927623+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:36.927623+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:03.414226+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

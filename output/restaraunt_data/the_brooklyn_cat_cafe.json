@@ -119,13 +119,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Monday: 12:00 – 7:00 PM",
       "Tuesday: Closed",
       "Wednesday: Closed",
       "Thursday: Closed",
-      "Friday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      "Friday: 12:00 – 7:00 PM",
+      "Saturday: 11:00 AM – 7:00 PM",
+      "Sunday: 11:00 AM – 7:00 PM"
     ]
   },
   "delivery": false,
@@ -201,13 +201,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Monday: 12:00 – 7:00 PM",
       "Tuesday: Closed",
       "Wednesday: Closed",
       "Thursday: Closed",
-      "Friday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      "Friday: 12:00 – 7:00 PM",
+      "Saturday: 11:00 AM – 7:00 PM",
+      "Sunday: 11:00 AM – 7:00 PM"
     ]
   },
   "photos": [
@@ -321,7 +321,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5B2K-OY7MnVqYORZfW3-BdUnN-I-la3JQhYmIf6fkSo9EovT2_Q=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "One of the best days EVER! Im already a cat lover and this is the place to go to be submerged in cuteness \ud83d\ude3d. Some of the kitties are timid but thats okay, they have a red collar to exhibit that. Majority of them are very very friendly and fun to play with and it warmed my heart to know that the kitties get adopted very often. Before leaving I donated willingly because I believe in the cause of fighting cat homelessness in NYC! I love the work the work they\u2019re doing here and I firmly believe in this Non profit organization. Definitely will be returning with friends and family very soon! And definitely interested in volunteering \ud83e\udd17",
+      "text": "One of the best days EVER! Im already a cat lover and this is the place to go to be submerged in cuteness 😽. Some of the kitties are timid but thats okay, they have a red collar to exhibit that. Majority of them are very very friendly and fun to play with and it warmed my heart to know that the kitties get adopted very often. Before leaving I donated willingly because I believe in the cause of fighting cat homelessness in NYC! I love the work the work they’re doing here and I firmly believe in this Non profit organization. Definitely will be returning with friends and family very soon! And definitely interested in volunteering 🤗",
       "time": 1749858163,
       "translated": false
     },
@@ -333,7 +333,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFKTewNuy-IfzpmooDS84n89z4lkdxhw4gbT3ZO5narMu7DVsc=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "This cafe is such a cute place to visit! It\u2019s a great habitat for the cats and animals. The staff was super friendly and was there to answer any questions about the cats. Would definitely recommend making an appointment and showing up early!",
+      "text": "This cafe is such a cute place to visit! It’s a great habitat for the cats and animals. The staff was super friendly and was there to answer any questions about the cats. Would definitely recommend making an appointment and showing up early!",
       "time": 1749129109,
       "translated": false
     },
@@ -350,14 +350,14 @@
       "translated": false
     },
     {
-      "author_name": "Ann Su\u00e1rez",
+      "author_name": "Ann Suárez",
       "author_url": "https://www.google.com/maps/contrib/114165891554998809624/reviews",
       "language": "en",
       "original_language": "en",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxiNyKdKBNOWFn_Xs0MthLVvng2xRT5c7c6d5J8Q8cBaxRviWt=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "6 months ago",
-      "text": "Had the best time with the kitties. They are everywhere and they love treats.\nGetting there was super easy as well as the process to check in. Half an hour is enough time to go around give them some pets and maybe find one to play with for a bit if you are not planning on taking any home (tho I can assure you it\u2019s super hard not to).\nThey also have \ud83d\udc30\nWonderful experience!",
+      "text": "Had the best time with the kitties. They are everywhere and they love treats.\nGetting there was super easy as well as the process to check in. Half an hour is enough time to go around give them some pets and maybe find one to play with for a bit if you are not planning on taking any home (tho I can assure you it’s super hard not to).\nThey also have 🐰\nWonderful experience!",
       "time": 1733855718,
       "translated": false
     }
@@ -372,5 +372,62 @@
   "utc_offset": -240,
   "vicinity": "76 Montague St, Brooklyn",
   "website": "http://www.catcafebk.com/",
-  "business_status_checked_at": "2026-10-03T20:06:15.745747+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:15.745747+00:00",
+  "emails": [
+    "meow@catcafebk.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:05.130309+00:00",
+    "outcome": "found",
+    "sources": {
+      "meow@catcafebk.com": [
+        "https://catcafebk.com/",
+        "https://catcafebk.com/faqs/",
+        "https://catcafebk.com/reservations/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://catcafebk.com/",
+        "status": "ok",
+        "emails": [
+          "meow@catcafebk.com"
+        ]
+      },
+      {
+        "url": "https://catcafebk.com/faqs/",
+        "status": "ok",
+        "emails": [
+          "meow@catcafebk.com"
+        ]
+      },
+      {
+        "url": "https://www-1558g.bookeo.com/bookeo/b_catcafebk_start.html?ctlsrc2=2R4ANhiM8LPIA4aa1N4EkbfDemm3bmqVJNwUnB314Do%3D&src=02v&category=41558X3LWAT18978E1C72C",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://catcafebk.com/reservations/",
+        "status": "ok",
+        "emails": [
+          "meow@catcafebk.com"
+        ]
+      },
+      {
+        "url": "https://catcafebk.com/contact/",
+        "status": "HTTP_404",
+        "emails": []
+      },
+      {
+        "url": "https://catcafebk.com/faqs/donations@bbaw.org",
+        "status": "HTTP_404",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://catcafebk.com/",
+      "https://catcafebk.com/faqs/",
+      "https://catcafebk.com/reservations/"
+    ]
+  }
 }

@@ -142,12 +142,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20098:00\u202fPM",
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 12:00 – 8:00 PM",
       "Sunday: Closed"
     ]
   },
@@ -241,12 +241,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20098:00\u202fPM",
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 12:00 – 8:00 PM",
       "Sunday: Closed"
     ]
   },
@@ -294,7 +294,7 @@
     {
       "height": 820,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101464282835607818672\">\uc774\ud604\uc219</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101464282835607818672\">이현숙</a>"
       ],
       "photo_reference": "ATKogpdOyk5Dz7-8zCRdmzu7B2wH58G78Ye7qfu_2RNorIg7m7wivxtb_glxU9gt9jEZnCVmTBXOD-efu8BRaf6vi1NkR1mS-FyYIffxDp87tRE4uSwINUTw6MrI5Oo36hUcKXrn5HiX5Oqe4scob3TXBr-kKf6ku4XHGYGU6cQmIJyz2nVXUN0lhB6cgXgsuRp9Gq5-Ny0qUIOgnIdp5tJVCCMjL9zuYloKHIU7Z2R_M5p5TMNeuWklwUkqUrh3juuH4Y-6uh94wZQWz3_NiAl4fIjYDeK5UyULtnguyhVHCZKgS4pXsJlfx8Qf-7D7Tp47U8dUmi0fnt5wDI8Xd8AMJsrwFKTCTEHDOB8oOaUtfHcLOjrFvPTd2DZTlU4pSLZAKtVWzIaneo-BXJvX74t3giqdmFtVqtcoNY-Askrob6WVig",
       "width": 1059
@@ -349,7 +349,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSdVhPoqMn90f-3FZ97PoYafgr3bupeTraruxVDosIOmqXy96E=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "6 months ago",
-      "text": "This has to be the best food I\u2019ve had in a while. Handsome Rice is serving up modern Korean comfort food and it\u2019s really good.\n\nI ordered the Handsome rice meal and Kim chi Mac and cheese. You get all Korean meats with this meal (Chicken, Short Rib, Rib Eye, And Pork)  stacked on Korean purple rice with a salad on the side. My favorite meat had to be the rib eye. It was my first time trying purple rice and it was a really good base for this dish. The potatoes in the salad were so good. Covered in a pesto sauce and adding that refreshing taste.I love how the portions are just right and you get a healthy balance of protein, carbs, and veggies.\n\nThen the Kim chi mac and cheese was no joke. It wasn\u2019t like your average mac and cheese. I love how they mixed Kim chi within the noodles. Korean fusion executed well.\n\nThey\u2019re a small shop but I love the aesthetic. Small inside then outside dining. This would be the perfect spot to eat in the spring summer.\n\nService is on point. Shout out to the staff at Handsome Rice.",
+      "text": "This has to be the best food I’ve had in a while. Handsome Rice is serving up modern Korean comfort food and it’s really good.\n\nI ordered the Handsome rice meal and Kim chi Mac and cheese. You get all Korean meats with this meal (Chicken, Short Rib, Rib Eye, And Pork)  stacked on Korean purple rice with a salad on the side. My favorite meat had to be the rib eye. It was my first time trying purple rice and it was a really good base for this dish. The potatoes in the salad were so good. Covered in a pesto sauce and adding that refreshing taste.I love how the portions are just right and you get a healthy balance of protein, carbs, and veggies.\n\nThen the Kim chi mac and cheese was no joke. It wasn’t like your average mac and cheese. I love how they mixed Kim chi within the noodles. Korean fusion executed well.\n\nThey’re a small shop but I love the aesthetic. Small inside then outside dining. This would be the perfect spot to eat in the spring summer.\n\nService is on point. Shout out to the staff at Handsome Rice.",
       "time": 1733672476,
       "translated": false
     },
@@ -361,7 +361,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1poSni0yaB0ph9ojUUVrlRaHHo3WDS-MsuVWzPHWEPDW9If8=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "After trying their catering several times, I can confidently say this place is amazing.\n\nMy top picks are the handsome rice, creamy kimchi pasta, and the signature handsome burger.\nAmong them, the handsome rice stands out \u2014 a perfect platter that brings together a variety of flavors in one dish.\n\nThe signature handsome burger reminds me of the Korean-style burgers I used to have back in Korea \u2014 nostalgic and incredibly crave-worthy.\n\nHighly recommend overall!",
+      "text": "After trying their catering several times, I can confidently say this place is amazing.\n\nMy top picks are the handsome rice, creamy kimchi pasta, and the signature handsome burger.\nAmong them, the handsome rice stands out — a perfect platter that brings together a variety of flavors in one dish.\n\nThe signature handsome burger reminds me of the Korean-style burgers I used to have back in Korea — nostalgic and incredibly crave-worthy.\n\nHighly recommend overall!",
       "time": 1749797863,
       "translated": false
     },
@@ -385,7 +385,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUy7RQLlYV0t-2ul7tIdQiQeLEyafbAyLeM2ZFEdRu-8BS_eBbj=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "a month ago",
-      "text": "This place must have fake reviews. Food was disgusting. 90% rice soaked in oil and fat and grisly low quality \u201cbeef\u201d paired with a side of frozen vegetables",
+      "text": "This place must have fake reviews. Food was disgusting. 90% rice soaked in oil and fat and grisly low quality “beef” paired with a side of frozen vegetables",
       "time": 1748538736,
       "translated": false
     },
@@ -420,13 +420,45 @@
   "website": "http://www.handsomerice.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
     "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
-    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
-    "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
-    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
     "8c4075d5481d476e945486754f783364@sentry.io",
-    "handsomericenyc@gmail.com"
+    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+    "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+    "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+    "handsomericenyc@gmail.com",
+    "hello@handsomerice.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:15.065251+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:15.065251+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:57.064497+00:00",
+    "outcome": "found",
+    "sources": {
+      "handsomericenyc@gmail.com": [
+        "https://www.handsomerice.com/"
+      ],
+      "hello@handsomerice.com": [
+        "https://www.handsomerice.com/general-5"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.handsomerice.com/",
+        "status": "ok",
+        "emails": [
+          "handsomericenyc@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.handsomerice.com/general-5",
+        "status": "ok",
+        "emails": [
+          "hello@handsomerice.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.handsomerice.com/"
+    ]
+  }
 }

@@ -149,13 +149,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
       "Wednesday: Closed",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -248,13 +248,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
       "Wednesday: Closed",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -369,7 +369,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxtmrIW90cVpxHxvMdbJ9dcFQd_Fovegqdc17aq2GbiC3pvJtK=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 3,
       "relative_time_description": "4 months ago",
-      "text": "I got curious about Tibetan cuisine so tried it out.\n\n-Butter milk tea was pretty interesting cause it felt something like mild beef soup made out of bones, but with a hint of butter scent in it. Can\u2019t really say I enjoyed it cause it was too new thing to me but it was interesting experience, so no regret for trying.\n-Noodle soup was unfortunately not that good. Soup was too mild with just little flavor for my palate, veggies in there felt too raw for what\u2019s in soup noodle, and noodle\u2019s texture was dissappointing. Pic in the menu suggests it\u2019s red(spicy) but in reality it\u2019s not.\n-Dumplings were pretty good, although the style of it wan\u2019t really new to me. Dumpling dough was the version that was made out of potato, so it\u2019s bit more transparent/sticky/chewy than usual ones.",
+      "text": "I got curious about Tibetan cuisine so tried it out.\n\n-Butter milk tea was pretty interesting cause it felt something like mild beef soup made out of bones, but with a hint of butter scent in it. Can’t really say I enjoyed it cause it was too new thing to me but it was interesting experience, so no regret for trying.\n-Noodle soup was unfortunately not that good. Soup was too mild with just little flavor for my palate, veggies in there felt too raw for what’s in soup noodle, and noodle’s texture was dissappointing. Pic in the menu suggests it’s red(spicy) but in reality it’s not.\n-Dumplings were pretty good, although the style of it wan’t really new to me. Dumpling dough was the version that was made out of potato, so it’s bit more transparent/sticky/chewy than usual ones.",
       "time": 1740530540,
       "translated": false
     },
@@ -381,7 +381,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyesK4_2M8fzwLhHLC1efmDByyNWLk3bknTemqt48KgF9_kvGw=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "Really enjoyed trying Tibetan food. This place is super chill and we just popped in without reservation to try something new. Their butter tea was like nothing I\u2019ve ever tried! The food is a bit on the spicy side, so let the waiter know if that will be an issue for you and he will offer modifications. Overall, I recommend this place for a casual night out when you want to be adventurous with your food",
+      "text": "Really enjoyed trying Tibetan food. This place is super chill and we just popped in without reservation to try something new. Their butter tea was like nothing I’ve ever tried! The food is a bit on the spicy side, so let the waiter know if that will be an issue for you and he will offer modifications. Overall, I recommend this place for a casual night out when you want to be adventurous with your food",
       "time": 1705370358,
       "translated": false
     },
@@ -427,5 +427,13 @@
   "user_ratings_total": 301,
   "utc_offset": -240,
   "vicinity": "177 1st Ave, New York",
-  "business_status_checked_at": "2026-10-03T20:05:32.502359+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:32.502359+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:17.091745+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

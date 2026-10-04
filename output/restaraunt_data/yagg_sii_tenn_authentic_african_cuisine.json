@@ -138,11 +138,11 @@
     "weekday_text": [
       "Monday: Closed",
       "Tuesday: Closed",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 3:00\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 1:00\u2009\u2013\u20097:00\u202fPM"
+      "Wednesday: 11:30 AM – 8:30 PM",
+      "Thursday: 11:30 AM – 8:30 PM",
+      "Friday: 11:30 AM – 9:00 PM",
+      "Saturday: 3:00 – 9:00 PM",
+      "Sunday: 1:00 – 7:00 PM"
     ]
   },
   "delivery": true,
@@ -227,11 +227,11 @@
     "weekday_text": [
       "Monday: Closed",
       "Tuesday: Closed",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 3:00\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 1:00\u2009\u2013\u20097:00\u202fPM"
+      "Wednesday: 11:30 AM – 8:30 PM",
+      "Thursday: 11:30 AM – 8:30 PM",
+      "Friday: 11:30 AM – 9:00 PM",
+      "Saturday: 3:00 – 9:00 PM",
+      "Sunday: 1:00 – 7:00 PM"
     ]
   },
   "photos": [
@@ -270,7 +270,7 @@
     {
       "height": 4284,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/104399998552214040944\">Renee \u201cSosanna\u201d Olson</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/104399998552214040944\">Renee “Sosanna” Olson</a>"
       ],
       "photo_reference": "ATKogpc2_gUv23v66-WD-pLUE1bEs--661yYVdhloGZ5j6ul6g6Xsw9FSMA36y7QOV-0DFSjErtGWt3PuD0hQ_nD56_OcAww8BGXzXB6npzVMzc5RvI1ITaZQ3ucQev4-8Kg_PGtxbxbfQ0vh92pCXP8FAcUzYnoU-usVy6mS_yEYyDn7Qdq28NoEfe_vD4_u718KuIh7gmYhpTjLZU8ya_JuvL2dLpVK28kiQGszuUEkeGAQ5aHPVX1_3-Omodgrz7KnHiGpvBqdTBJHKHqBDUpS7uchFnXtaF1G2cCHR6Wz8eTBQ_NfwJgaIxTie5O4Su5bmFdqpognJJG_k5TnaqB5SQgi8HEnTU7oE0iQGhaRWtCeFktlQmk-xuz4nkuRrnBlLZ8bDwBn6mltr1KbqlAp54lxi7ZiH4izcWX0rA8HAplHiYYTo-Qsr-BEKjZPQ",
       "width": 4284
@@ -357,7 +357,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLH0Td3KgZUDMzmNpsfF7VARN-0pdj1ZNU4xFX6Y2hZlm_fvw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "This place is fantastic!  The staff are so patient and helpful answering questions and helping everyone find a dish they\u2019ll enjoy. (There was a group there during one visit with soooo many questions and the lady at the counter was eternally patient with them.)\nMy husband and I love African cuisine and this place easily beat the African restaurants we\u2019ve visited in D.C. or anywhere else. They have a very wide menu, and everything we\u2019ve had has been incredibly flavorful and perfectly balanced! (I love SPICY and my dish did not disappoint, but they have plenty of non-spicy dishes as well.)",
+      "text": "This place is fantastic!  The staff are so patient and helpful answering questions and helping everyone find a dish they’ll enjoy. (There was a group there during one visit with soooo many questions and the lady at the counter was eternally patient with them.)\nMy husband and I love African cuisine and this place easily beat the African restaurants we’ve visited in D.C. or anywhere else. They have a very wide menu, and everything we’ve had has been incredibly flavorful and perfectly balanced! (I love SPICY and my dish did not disappoint, but they have plenty of non-spicy dishes as well.)",
       "time": 1749062838,
       "translated": false
     },
@@ -369,7 +369,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIRVXjercGW0IjPnkn4wTN0y4GP8Ia31rNKDqta98wkWubD4hc=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "They need more restaurants like this in the Triangle. Being able to have both injera and jollof rice in one place for one meal is impressive enough, and it tastes scrumptious. Meat and rice are both seasoned properly and the spice levels are perfect. They cooked here \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+      "text": "They need more restaurants like this in the Triangle. Being able to have both injera and jollof rice in one place for one meal is impressive enough, and it tastes scrumptious. Meat and rice are both seasoned properly and the spice levels are perfect. They cooked here 🔥🔥🔥",
       "time": 1748459802,
       "translated": false
     },
@@ -381,7 +381,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIj1ppVvWkPDROeqcf83nb4ra5sle_ILuXi_sEdewsTGZLZpA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Truly a hidden gem! I never really tried any African cuisine outside of Ethiopian food, but oh boy this place is in its own league. Some items like hummus, tabouli etc beats any other greek restaurants. We tried the chicken pyramid and jolof rice, pyramid was our favorite. My only word of advice is if you\u2019re ordering hot spicy, better be prepared for the heat!",
+      "text": "Truly a hidden gem! I never really tried any African cuisine outside of Ethiopian food, but oh boy this place is in its own league. Some items like hummus, tabouli etc beats any other greek restaurants. We tried the chicken pyramid and jolof rice, pyramid was our favorite. My only word of advice is if you’re ordering hot spicy, better be prepared for the heat!",
       "time": 1747172178,
       "translated": false
     }
@@ -406,8 +406,28 @@
   "website": "http://www.yaggsitenn.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "yaggsitenn@gmail.com",
-    "wdesign@wzuser.com"
+    "wdesign@wzuser.com",
+    "yaggsitenn@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:26.875832+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:26.875832+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:25.650272+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://yaggsitenn.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://yaggsitenn.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:12:40.763701+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

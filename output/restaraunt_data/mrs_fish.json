@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -263,13 +263,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -408,7 +408,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLh_zG9-0eC72Iw0hJ3lhHnJ-RQzeFCzx_nsZvV8XkSUJ97r6m=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "2 years ago",
-      "text": "We had a good experience at this place.\nThe food was amazing but the service was slow and not great.\nThe staff were nice and friendly but got confused with our order and the other one\u2019s order.\nMake sure to try \u201cDumpling in Chili Oil\u201d and \u201cSoup Dumplings\u201d. Both tasted super delicious and fresh! The chili oil was not that much spicy. I would come back for this dish!\nThey have both inside and outside settings, but the outside is close to the corner of the street and not a good place to sit and eat.\nHighly recommended!",
+      "text": "We had a good experience at this place.\nThe food was amazing but the service was slow and not great.\nThe staff were nice and friendly but got confused with our order and the other one’s order.\nMake sure to try “Dumpling in Chili Oil” and “Soup Dumplings”. Both tasted super delicious and fresh! The chili oil was not that much spicy. I would come back for this dish!\nThey have both inside and outside settings, but the outside is close to the corner of the street and not a good place to sit and eat.\nHighly recommended!",
       "time": 1660518638,
       "translated": false
     },
@@ -420,7 +420,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISWziHBZL7K16cJKl8kDCbEF9OsQS0fESS0tr54xTJrz97rRMz=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "3 years ago",
-      "text": "The food was aighttt \u2014 it got the job done. It wasn\u2019t great\u2026 it could use a a bit more flavor. Specifically the lomein, which is typically an easily flavorful dish. The green beans also lacked some flavor, or salt, rather. I did however think the pineapple fried rice was good, I enjoyed the presentation of it in the pineapple and all. The service was attentive, until it was time to pay. But that could just be my impatience :) The street has complete outdoor seating and the area felt what I believe to be authentic. I think I would come back to try the Beef Udon noodle and show friends and family this cute little private street. Perhaps we just didn\u2019t get the right things. Also the lobster dishes looked good, but I didn\u2019t feel like discovering what the market price was going to be. And speaking of price, I think the food was a wee but overpriced for what it was. Ok, that\u2019s all",
+      "text": "The food was aighttt — it got the job done. It wasn’t great… it could use a a bit more flavor. Specifically the lomein, which is typically an easily flavorful dish. The green beans also lacked some flavor, or salt, rather. I did however think the pineapple fried rice was good, I enjoyed the presentation of it in the pineapple and all. The service was attentive, until it was time to pay. But that could just be my impatience :) The street has complete outdoor seating and the area felt what I believe to be authentic. I think I would come back to try the Beef Udon noodle and show friends and family this cute little private street. Perhaps we just didn’t get the right things. Also the lobster dishes looked good, but I didn’t feel like discovering what the market price was going to be. And speaking of price, I think the food was a wee but overpriced for what it was. Ok, that’s all",
       "time": 1633791182,
       "translated": false
     }
@@ -441,5 +441,13 @@
   "utc_offset": -240,
   "vicinity": "34 Pell St, New York",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:42.662278+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:42.662278+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:31.511015+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

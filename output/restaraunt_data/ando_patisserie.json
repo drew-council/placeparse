@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 1:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 1:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 1:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 1:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 1:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 1:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 1:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 1:00 – 9:00 PM",
+      "Tuesday: 1:00 – 9:00 PM",
+      "Wednesday: 1:00 – 9:00 PM",
+      "Thursday: 1:00 – 9:00 PM",
+      "Friday: 1:00 – 10:00 PM",
+      "Saturday: 1:00 – 10:00 PM",
+      "Sunday: 1:00 – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -263,13 +263,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 1:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 1:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 1:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 1:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 1:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 1:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 1:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 1:00 – 9:00 PM",
+      "Tuesday: 1:00 – 9:00 PM",
+      "Wednesday: 1:00 – 9:00 PM",
+      "Thursday: 1:00 – 9:00 PM",
+      "Friday: 1:00 – 10:00 PM",
+      "Saturday: 1:00 – 10:00 PM",
+      "Sunday: 1:00 – 9:00 PM"
     ]
   },
   "photos": [
@@ -371,7 +371,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAWniZv23SxyZo2UF1cR74QeEt0ZjEu_KQeqKSsByirlANtOk6=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Absolutely love this dessert shop! The desserts are out of this world. I tried their signature Basque, and it was perfectly balanced\u2014sweet, rich, and full of flavor. The presentation was beautiful, and you can tell they use high-quality ingredients. The staff was super friendly. If you have a sweet tooth, this place is a must-visit. Can\u2019t wait to come back and try more!",
+      "text": "Absolutely love this dessert shop! The desserts are out of this world. I tried their signature Basque, and it was perfectly balanced—sweet, rich, and full of flavor. The presentation was beautiful, and you can tell they use high-quality ingredients. The staff was super friendly. If you have a sweet tooth, this place is a must-visit. Can’t wait to come back and try more!",
       "time": 1742926810,
       "translated": false
     },
@@ -395,7 +395,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLThpwxZAsEB6AVD86ID0FPxbQiJ0eB1bvwRR_yni3wY-mNlQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Everything we ordered was just excellent. If you love the contrast of sweet and salty in desserts, order the sea salt cheese cream sponge cake. The umami salty flavor of the pork floss with seaweed complimented the sea salt cheese cream filling. For a unique take on basque cake flavors, have a slice of the osmanthus oolong basque lava cake. The floral notes of the osmanthus pairs well with the malty undertones of the oolong tea. Add this spot to your list of places to visit if you\u2019re ever around the East Village.",
+      "text": "Everything we ordered was just excellent. If you love the contrast of sweet and salty in desserts, order the sea salt cheese cream sponge cake. The umami salty flavor of the pork floss with seaweed complimented the sea salt cheese cream filling. For a unique take on basque cake flavors, have a slice of the osmanthus oolong basque lava cake. The floral notes of the osmanthus pairs well with the malty undertones of the oolong tea. Add this spot to your list of places to visit if you’re ever around the East Village.",
       "time": 1741376641,
       "translated": false
     },
@@ -407,7 +407,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLr1HnFNMgRu0V2w5ty78ah0WBilBhoEpJa_FLYx2SS7ODqpQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "a week ago",
-      "text": "We tried the oolong basque cheesecake and the mango pomelo sago. The cheesecake had a subtle tea flavor\u2014super creamy and not too sweet, which we enjoyed. The mango pomelo sago was pretty standard, nothing particularly standout. It\u2019s a small shop, and there was a bit of a wait when we went around 5pm on a Sunday, so just be prepared if you\u2019re visiting during peak hours.",
+      "text": "We tried the oolong basque cheesecake and the mango pomelo sago. The cheesecake had a subtle tea flavor—super creamy and not too sweet, which we enjoyed. The mango pomelo sago was pretty standard, nothing particularly standout. It’s a small shop, and there was a bit of a wait when we went around 5pm on a Sunday, so just be prepared if you’re visiting during peak hours.",
       "time": 1750103894,
       "translated": false
     },
@@ -419,7 +419,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnJqCflwmPXbLwtLLY_e7TS1eo79VZSmfzMH5cVwp55vQJVrs=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Enjoyed my experience here! It\u2019s clean, service was nice, and fast. Got the osmanthus basque lava cake and panna cotta. Would come back again to try the boozy tiramisu",
+      "text": "Enjoyed my experience here! It’s clean, service was nice, and fast. Got the osmanthus basque lava cake and panna cotta. Would come back again to try the boozy tiramisu",
       "time": 1745178784,
       "translated": false
     }
@@ -440,5 +440,26 @@
   "vicinity": "214 E 10th St, New York",
   "website": "https://www.andopatisserie-official.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:40.016499+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:40.016499+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:05.957463+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.andopatisserie-official.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.andopatisserie-official.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:07:17.835446+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

@@ -1,0 +1,85 @@
+{
+  "adr_address": "<span class=\"street-address\">43-16 Queens Blvd</span>, <span class=\"locality\">Sunnyside</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11104</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "43-16 Queens Blvd, Sunnyside, NY 11104, USA",
+  "formatted_phone_number": "(347) 808-8100",
+  "geometry": {
+    "location": {
+      "lat": 40.7431387,
+      "lng": -73.9209075
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7445502302915,
+        "lng": -73.91953156970848
+      },
+      "southwest": {
+        "lat": 40.7418522697085,
+        "lng": -73.92222953029149
+      }
+    }
+  },
+  "international_phone_number": "+1 347-808-8100",
+  "name": "Bajeko Sekuwa",
+  "place_id": "ChIJcbpWrW5fwokRu5R0WlKyVgk",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=672921261113119931",
+  "website": "https://bajekosekuwaus.com/sunnyside?utm_source=google",
+  "details_checked_at": "2026-10-03T21:59:24.898266+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:24.898266+00:00",
+  "emails": [
+    "bajekosekuwa2019@gmail.com",
+    "myofficecolorado@gmail.com",
+    "namastenepalbajeko@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:54.265282+00:00",
+    "outcome": "found",
+    "sources": {
+      "bajekosekuwa2019@gmail.com": [
+        "https://bajekosekuwaus.com/sunnyside?utm_source=google"
+      ],
+      "myofficecolorado@gmail.com": [
+        "https://bajekosekuwaus.com/sunnyside?utm_source=google"
+      ],
+      "namastenepalbajeko@gmail.com": [
+        "https://bajekosekuwaus.com/sunnyside?utm_source=google"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://bajekosekuwaus.com/sunnyside?utm_source=google",
+        "status": "ok",
+        "emails": [
+          "bajekosekuwa2019@gmail.com",
+          "myofficecolorado@gmail.com",
+          "namastenepalbajeko@gmail.com"
+        ]
+      },
+      {
+        "url": "https://bajekosekuwaus.com/catering",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://bajekosekuwaus.com/page/contact-us",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://bajekosekuwaus.com/page/our-locations",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://bajekosekuwaus.com/catering",
+      "https://bajekosekuwaus.com/page/contact-us"
+    ]
+  }
+}

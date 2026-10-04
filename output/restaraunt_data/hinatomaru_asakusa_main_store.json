@@ -17,8 +17,8 @@
       ]
     },
     {
-      "long_name": "1-ch\u014dme",
-      "short_name": "1-ch\u014dme",
+      "long_name": "1-chōme",
+      "short_name": "1-chōme",
       "types": [
         "sublocality_level_3",
         "sublocality",
@@ -66,7 +66,7 @@
       ]
     }
   ],
-  "adr_address": "<span class=\"street-address\">1-ch\u014dme-20-10 Asakusa, Taito City</span>, <span class=\"region\">Tokyo</span> <span class=\"postal-code\">111-0032</span>, <span class=\"country-name\">Japan</span>",
+  "adr_address": "<span class=\"street-address\">1-chōme-20-10 Asakusa, Taito City</span>, <span class=\"region\">Tokyo</span> <span class=\"postal-code\">111-0032</span>, <span class=\"country-name\">Japan</span>",
   "business_status": "OPERATIONAL",
   "current_opening_hours": {
     "open_now": false,
@@ -157,18 +157,18 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 10:00 PM",
+      "Friday: 11:30 AM – 10:30 PM",
+      "Saturday: 11:30 AM – 10:30 PM",
+      "Sunday: 11:30 AM – 10:00 PM"
     ]
   },
   "delivery": true,
   "dine_in": true,
-  "formatted_address": "1-ch\u014dme-20-10 Asakusa, Taito City, Tokyo 111-0032, Japan",
+  "formatted_address": "1-chōme-20-10 Asakusa, Taito City, Tokyo 111-0032, Japan",
   "formatted_phone_number": "03-5806-4222",
   "geometry": {
     "location": {
@@ -266,20 +266,20 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 10:00 PM",
+      "Friday: 11:30 AM – 10:30 PM",
+      "Saturday: 11:30 AM – 10:30 PM",
+      "Sunday: 11:30 AM – 10:00 PM"
     ]
   },
   "photos": [
     {
       "height": 540,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/102424430306621053926\">\u65e5\u5411\u4e38 \u6d45\u8349\u672c\u5e97</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/102424430306621053926\">日向丸 浅草本店</a>"
       ],
       "photo_reference": "ATKogpcEDPRfScAn5_-255k954_y99DtUzJCanVkLvHN4dU_59kWv5R_OO9Cc2Esr527IqB1BO-xYhJzdOgv8t5vNMDXrSas87U0Yi4ZXa7Q7ASu3F0w6FA8YbCKlFIiPRCPTBcBOoTXOu7T5gC-I2-qg0h2JvdgyUIs-WJpYAn4j1aXDS_f3UaDYAMGT1nA0nVsii1jW00tC_vhY_X8hseeWJPnhZ2tPCZGkTYtciR_Sipvbmw0nzw8BDxvkX-JRMz1Ose3jVy3Ard8O0PX2W7G6Dbse8PF6XFoyoSpW6tcyOCu2g",
       "width": 720
@@ -287,7 +287,7 @@
     {
       "height": 2160,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/116149895806721665486\">\u30ba\u30b3</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/116149895806721665486\">ズコ</a>"
       ],
       "photo_reference": "ATKogpdbUzdWjcOqMcDt6LxS3ZaaJ1JdpDjbFLh29F2SpZfmWI97sTzCLKb2TsLtIO5T6FYLuJnmAYaSChzSO7aOz8KddenTEGQ3OKXJkxZ6W3ko36i20rb87B9Yx7kYT415qWX8mOHi_WK8IDBzq8Uj8WeI20uL8K7mY_cnHGPzkgEy2oo3h8vKvszwn9dwAAnUVjdxqINRwE4_AVQid6rmRL8H0F2ggqlDKRMrr1UJSd9WetsJWG8PlYNfH8WBrcG6tFMqCc4gOBgDWdGZyAnwMmy2xDRN2YSB9SuQBAlg1ZsOADTH4c6aGteILzPK8AQar8VesaHix-COk5MJukrFqBQC53uM5T30o-LXY13qxgRmv_8v-OmB1ptwi6Uky7-JzadOnlt4TFQ-Q3UrJU1FCwuVMDUTtAbFcRoK9pV7fME",
       "width": 2160
@@ -303,7 +303,7 @@
     {
       "height": 3840,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/103400386340287620635\">\u304b\u3057\u308f</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/103400386340287620635\">かしわ</a>"
       ],
       "photo_reference": "ATKogpfe3DnsPF77hnpGP0-m50EA4d-s7mgnRjP5T4WPRQGEGIXRlDur3WfcaW2PrJ1jPNsBaac5i44EetPtyTRxFjGKGEyGkuGB_gHSvEjxCElcycCYA1kegJ5oCDtcqlE7qLwaEX9cyZAaPxzWqX58wbPMOX4O1P-gl9A5-cIsIiSW0wbQJgP-pNngziQb23ssC0F6gH9VKwLSFpQJWtaCYzWfWsAHt7QUuGDV7k3cKNFrHhgYV7Q1C-hg5dhZhX9sRtNtvW64oUs1Sq8hHkwED-DEFV0ERz49Y2WiLfUSks7P0WMnbqpHcD_9KMGHaC4YG7ysN49f4F92NlMNLayYSm45bSDBFWY1Ay-6Vnd9293SAbyyE_2Y8fdqHqE-ClP05Vh9fo9VeTTlA4ToBVEwcNdW29Qw6kLs9T2_-XjEBwyeXb3S",
       "width": 4800
@@ -319,7 +319,7 @@
     {
       "height": 3000,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/117065681762980488784\">\u3051\u3051\u305f</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/117065681762980488784\">けけた</a>"
       ],
       "photo_reference": "ATKogpdBr4Tn93Z7BvA88x-5JjedPKDpDbR7b-U_Qe35U-XvxgWpr4agOOZLC9ILF-009f9ic9K2g_Xsn1HjLr00ovvcCz5I4oEYief-mXqcpz20CLbR2eKZySUaYPDBaWznChTBfiq5ex4pfHUqjpJlvhmPboOU3l1He5D3Ety862bpYrpkeuiGI6QHccup17gphPMl6AcVK0tNtw-Zmais7UvCovhplFGgo9K5uT4ANKjw64Sehvyg5NjJjkiVaNEwaT317fBFVAOG_YIz6Tn-LC3cOj2iHNTYoASkTRMZu4TsdKwqfcPf17xln1VQGyKUXExKFnAbjdng3oIst8WnPe1Ra8WDmRDIV2H1RvQguHQJuMJ9CGOByjfIGqtkcHJcmW4x4bOeXG6mI9rgP_0yXEhOEN-auh21aJInD1UPlsBshJKb",
       "width": 4000
@@ -335,7 +335,7 @@
     {
       "height": 3024,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101573330273094692348\">\u6d69\u5e73\u5c0f\u5c71</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101573330273094692348\">浩平小山</a>"
       ],
       "photo_reference": "ATKogpdaDVmwVuWTkFnFetgXi1eSf49Zco3bQ81R1q-5bT1WMwZu8PRyIm3c9Z6qSYsYYtDsQ2td8HCVqcXx-CshjSmrKQ9UpefladfSKd_3SFOM2ZSUx31lbBmfb-DsE79BNvuCl04_NpCZR_imOIVKKnzY8Mi-BCSYY9e81Jq_7mTx25Vp4V2GSHDRrzJgNONZ-FV_cuxyjCixjKfcHVPy4Q-puF48RUXS4e2r5nMyCL3NOgRWAvKGdAZVL2ZwdDcbW4uqrcE4PNqCT_XvDRfmyk_tq_muFUYRgWWmllGsuZSMotEH_1-_V7ffDrRr3DymHmWIKdPjYQwi2V4hQhA9-U_tYO0id1t-zPyp5Fr1kTTKouQzAyI97uoqXCEU8Oee32M7zjaN_8VDcYA-QmZHK0OPM-rjimP0TG5jMEl0mJs",
       "width": 4032
@@ -399,7 +399,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPuaROqWyrx9WPi5mLd6Y2cXcbgQO4_YJyv-9eirMb-lonlpu5=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "Hinatomaru Asakusa Main Store was a fantastic introduction to both sushi in Japan and the conveyor belt dining experience! This was our first time trying a kaiten sushi restaurant, and we absolutely loved it. The variety of sushi passing by on the conveyor belt was impressive, and everything we tried was fresh, flavorful, and delicious.\n\nThe experience of picking dishes directly from the belt was fun and exciting, adding a unique touch to the meal. The restaurant\u2019s atmosphere was lively yet comfortable, and it truly made us feel immersed in Japanese food culture.\n\nIf you\u2019re in Asakusa and want to try authentic sushi in a casual and enjoyable setting, Hinatomaru is a great choice. Highly recommended for sushi lovers and anyone looking for a memorable dining experience!",
+      "text": "Hinatomaru Asakusa Main Store was a fantastic introduction to both sushi in Japan and the conveyor belt dining experience! This was our first time trying a kaiten sushi restaurant, and we absolutely loved it. The variety of sushi passing by on the conveyor belt was impressive, and everything we tried was fresh, flavorful, and delicious.\n\nThe experience of picking dishes directly from the belt was fun and exciting, adding a unique touch to the meal. The restaurant’s atmosphere was lively yet comfortable, and it truly made us feel immersed in Japanese food culture.\n\nIf you’re in Asakusa and want to try authentic sushi in a casual and enjoyable setting, Hinatomaru is a great choice. Highly recommended for sushi lovers and anyone looking for a memorable dining experience!",
       "time": 1736259710,
       "translated": false
     },
@@ -519,13 +519,13 @@
       ],
       "type": "TAKEOUT",
       "weekday_text": [
-        "Monday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM",
-        "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM",
-        "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM",
-        "Thursday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM",
-        "Friday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM",
-        "Saturday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM",
-        "Sunday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM"
+        "Monday: 11:30 AM – 9:45 PM",
+        "Tuesday: 11:30 AM – 9:45 PM",
+        "Wednesday: 11:30 AM – 9:45 PM",
+        "Thursday: 11:30 AM – 9:45 PM",
+        "Friday: 11:30 AM – 9:45 PM",
+        "Saturday: 11:30 AM – 9:45 PM",
+        "Sunday: 11:30 AM – 9:45 PM"
       ]
     }
   ],
@@ -545,8 +545,39 @@
   "url": "https://maps.google.com/?cid=7595895462890564858",
   "user_ratings_total": 477,
   "utc_offset": 540,
-  "vicinity": "1-ch\u014dme-20-10 Asakusa, Taito City",
+  "vicinity": "1-chōme-20-10 Asakusa, Taito City",
   "website": "https://tabelog.com/tokyo/A1311/A131102/13075573/table/",
   "wheelchair_accessible_entrance": false,
-  "business_status_checked_at": "2026-10-03T20:05:16.299594+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:16.299594+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:58.068622+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://tabelog.com/tokyo/A1311/A131102/13075573/table/",
+        "status": "HTTP_403",
+        "emails": []
+      },
+      {
+        "url": "https://tabelog.com/tokyo/A1311/A131102/13075573/table/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://tabelog.com/support/user_inquiry?type=17",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://tabelog.com/support/inquiry?type=99",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:09:09.406811+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

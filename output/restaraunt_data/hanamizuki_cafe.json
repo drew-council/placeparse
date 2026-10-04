@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      "Monday: 11:00 AM – 7:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 7:00 PM"
     ]
   },
   "delivery": false,
@@ -267,13 +267,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      "Monday: 11:00 AM – 7:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 7:00 PM"
     ]
   },
   "photos": [
@@ -336,7 +336,7 @@
     {
       "height": 2418,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/113097720699564570277\">\u3078\u3080\u3078\u3080\u3081\u3042\u308a</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/113097720699564570277\">へむへむめあり</a>"
       ],
       "photo_reference": "ATKogpdiIcCnLiadvY5D0BvlGH7FUShra5PkUSQ_FhdB_ktz7ln48_ToKV7WNdgf4Aw4pXRHuksNHWjIpMoRiM_H0fprpUl6oW_PJkdLpDHL5mG0YjFIS9dhKG45qPxlhk6p3F-rnApRtrE_uMtxGB8Q2bo05ni-BWg6AcIB-yPMqjb0ABLgb0DUloHyS9nDTtR5OqQ5GNGzznl613TaqSVwrBFEAf1jo2_kvXgEIzPJLx62ILqV841g-dCglQqelm5ihrRyuVQuKbQe_DSEkBGSOqZraggZwmC1uGtebV6PWXnGIsmRUyZCMmfvYRIsZXgR1cXBSs1ULm2usYsUmLvLp-MK5g_vV52IVNMOsgRBeXWbAZdsHlaF2kyBtMsf-ppHUVfqBKPKcI0kNz4eIw-DFujDZa13hGeSynH843ACzAge80f2",
       "width": 4032
@@ -376,7 +376,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJN2vSU5ycd5OW74jkINJbTBDgWRpfnojLNfIbijLL7e_jVZ2u=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "in the last week",
-      "text": "I came here with one mission dessert! \ud83c\udf70\nAnd it absolutely did not disappoint.\n\nTried both the matcha crepe cake and the mango shaved ice and wow.\n\nThe crepe cake was soft and rich with matcha flavor, perfectly balanced with the light whipped cream. The mango shaved ice was incredibly fluffy, almost snow-like, with a sweet mango sauce and juicy peach slices on top. So refreshing!",
+      "text": "I came here with one mission dessert! 🍰\nAnd it absolutely did not disappoint.\n\nTried both the matcha crepe cake and the mango shaved ice and wow.\n\nThe crepe cake was soft and rich with matcha flavor, perfectly balanced with the light whipped cream. The mango shaved ice was incredibly fluffy, almost snow-like, with a sweet mango sauce and juicy peach slices on top. So refreshing!",
       "time": 1750572617,
       "translated": false
     },
@@ -400,7 +400,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGL6Qo81DfTM9BVJfzLzuxWAoJonvzlazIYvUHhApHnrWfsdA5=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 2,
       "relative_time_description": "2 months ago",
-      "text": "April Fools on me; fell for aesthetics instead of authenticity.\n\nI know what onigiri is and that ratio to fillings is going to be more rice but this place is super skimpy. Please look at the menu pictures versus actual product. There was a whisper of salmon on top of mine with just radish inside. The unagi had no eel. I took it apart and could not find one piece (that dark spot was skin).\n\nThis is how I itemized the set, drink is extra.\n\nYuzu Peach Tea $5 - two tea bags and water\nSalmon $5.50\nUnagi $6\nMiso soup $3\nSide $2.50\nTax $1.95\nTotal $23.95\n\nFor the same price I could\u2019ve gotten a chirashi bowl full of fish or multiple pieces of onigiri (with sides and drink) from HMart or Dainobu. Those have a normal amount of filling to leave you satisfied.\n\nI personally will not come back or recommend given the value and quality, but to each their own.\n\nPS - they also need to do some cleaning where people are eating.",
+      "text": "April Fools on me; fell for aesthetics instead of authenticity.\n\nI know what onigiri is and that ratio to fillings is going to be more rice but this place is super skimpy. Please look at the menu pictures versus actual product. There was a whisper of salmon on top of mine with just radish inside. The unagi had no eel. I took it apart and could not find one piece (that dark spot was skin).\n\nThis is how I itemized the set, drink is extra.\n\nYuzu Peach Tea $5 - two tea bags and water\nSalmon $5.50\nUnagi $6\nMiso soup $3\nSide $2.50\nTax $1.95\nTotal $23.95\n\nFor the same price I could’ve gotten a chirashi bowl full of fish or multiple pieces of onigiri (with sides and drink) from HMart or Dainobu. Those have a normal amount of filling to leave you satisfied.\n\nI personally will not come back or recommend given the value and quality, but to each their own.\n\nPS - they also need to do some cleaning where people are eating.",
       "time": 1744802613,
       "translated": false
     },
@@ -412,7 +412,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfPAM3j0ThFBHePH6tN2UBhBgwW6zXVF-bx3I8qqnqwC6Rq5fI=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Such a cute little cafe! There were so many onigiri options to choose from it was hard on to decide on just one and they\u2019re so very filling too. They\u2019re absolutely fresh and delicious. I\u2019m looking forward on coming back again and trying more flavors.",
+      "text": "Such a cute little cafe! There were so many onigiri options to choose from it was hard on to decide on just one and they’re so very filling too. They’re absolutely fresh and delicious. I’m looking forward on coming back again and trying more flavors.",
       "time": 1741556983,
       "translated": false
     },
@@ -453,5 +453,32 @@
   "emails": [
     "info@hanamizukinyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:14.735137+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:14.735137+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:56.197445+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@hanamizukinyc.com": [
+        "https://www.hanamizukinyc.com/",
+        "https://www.hanamizukinyc.com/about"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.hanamizukinyc.com/",
+        "status": "ok",
+        "emails": [
+          "info@hanamizukinyc.com"
+        ]
+      },
+      {
+        "url": "https://www.hanamizukinyc.com/about",
+        "status": "ok",
+        "emails": [
+          "info@hanamizukinyc.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

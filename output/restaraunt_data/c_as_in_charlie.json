@@ -162,13 +162,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 6:00\u2009\u2013\u200910:30\u202fPM",
-      "Tuesday: 6:00\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 6:00\u2009\u2013\u200910:30\u202fPM",
-      "Thursday: 6:00\u2009\u2013\u200911:30\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200911:30\u202fPM",
-      "Saturday: 5:00\u2009\u2013\u200911:30\u202fPM",
-      "Sunday: 5:00\u2009\u2013\u200910:30\u202fPM"
+      "Monday: 6:00 – 10:30 PM",
+      "Tuesday: 6:00 – 10:30 PM",
+      "Wednesday: 6:00 – 10:30 PM",
+      "Thursday: 6:00 – 11:30 PM",
+      "Friday: 5:00 – 11:30 PM",
+      "Saturday: 5:00 – 11:30 PM",
+      "Sunday: 5:00 – 10:30 PM"
     ]
   },
   "delivery": false,
@@ -269,13 +269,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 6:00\u2009\u2013\u200910:30\u202fPM",
-      "Tuesday: 6:00\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 6:00\u2009\u2013\u200910:30\u202fPM",
-      "Thursday: 6:00\u2009\u2013\u200911:30\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200911:30\u202fPM",
-      "Saturday: 5:00\u2009\u2013\u200911:30\u202fPM",
-      "Sunday: 5:00\u2009\u2013\u200910:30\u202fPM"
+      "Monday: 6:00 – 10:30 PM",
+      "Tuesday: 6:00 – 10:30 PM",
+      "Wednesday: 6:00 – 10:30 PM",
+      "Thursday: 6:00 – 11:30 PM",
+      "Friday: 5:00 – 11:30 PM",
+      "Saturday: 5:00 – 11:30 PM",
+      "Sunday: 5:00 – 10:30 PM"
     ]
   },
   "photos": [
@@ -450,10 +450,45 @@
   "website": "http://c-asincharlie.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "CHARLIE@C-ASINCHARLIE.COM",
     "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
-    "charlie@c-asincharlie.com",
-    "CASINCHARLIE@BECCAPR.COM"
+    "CASINCHARLIE@BECCAPR.COM",
+    "CHARLIE@C-ASINCHARLIE.COM",
+    "charlie@c-asincharlie.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:04:49.358589+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:49.358589+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:14.281287+00:00",
+    "outcome": "found",
+    "sources": {
+      "charlie@c-asincharlie.com": [
+        "https://www.c-asincharlie.com/",
+        "https://www.c-asincharlie.com",
+        "https://www.c-asincharlie.com/about-1"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.c-asincharlie.com/",
+        "status": "ok",
+        "emails": [
+          "charlie@c-asincharlie.com"
+        ]
+      },
+      {
+        "url": "https://www.c-asincharlie.com",
+        "status": "ok",
+        "emails": [
+          "charlie@c-asincharlie.com"
+        ]
+      },
+      {
+        "url": "https://www.c-asincharlie.com/about-1",
+        "status": "ok",
+        "emails": [
+          "charlie@c-asincharlie.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

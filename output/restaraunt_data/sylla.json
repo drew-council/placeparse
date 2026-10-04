@@ -169,13 +169,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM"
+      "Monday: 9:00 AM – 2:00 AM",
+      "Tuesday: 9:00 AM – 2:00 AM",
+      "Wednesday: 9:00 AM – 2:00 AM",
+      "Thursday: 9:00 AM – 2:00 AM",
+      "Friday: 9:00 AM – 2:00 AM",
+      "Saturday: 9:00 AM – 2:00 AM",
+      "Sunday: 9:00 AM – 2:00 AM"
     ]
   },
   "delivery": true,
@@ -278,13 +278,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM"
+      "Monday: 9:00 AM – 2:00 AM",
+      "Tuesday: 9:00 AM – 2:00 AM",
+      "Wednesday: 9:00 AM – 2:00 AM",
+      "Thursday: 9:00 AM – 2:00 AM",
+      "Friday: 9:00 AM – 2:00 AM",
+      "Saturday: 9:00 AM – 2:00 AM",
+      "Sunday: 9:00 AM – 2:00 AM"
     ]
   },
   "photos": [
@@ -299,7 +299,7 @@
     {
       "height": 472,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/110827553491532309953\">Sylla\u2019s Restaurant INC</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/110827553491532309953\">Sylla’s Restaurant INC</a>"
       ],
       "photo_reference": "ATKogpdL-EjmUQsJvScqnv-myoayt1Jcmz6G-KJTdYUly5dnrt1-xlnUQNEUasKLN0gL3CAFYnJRTG_iRoob4eBLnu1q3BUAC8fV30lRo_rc6_kgC2ZE9M-FjCsGu6tKjORUuuht9sttB_7B8sJ-Xo5RxWOxWl6_Lsw4sBTdQmBffJUdNDArrxeXihfurgk7FhgjRjbyamRFsQZDFPqfYAl8VxmV4QgnIllCEbm0bUGsZR6Kjgu0N4AUZVLsceYo4cjy_jACUiLOpZWCFa0HqW1G3myq2MYknVxz53m2s6G6kndVBA",
       "width": 480
@@ -399,7 +399,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOE3m51gmsqi6X3ftxnv1JIyHNksNjVrz-XSyNScCpi1mVCg=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "6 months ago",
-      "text": "Classic Ivorian food with a wonderful, fresh flavor!\n\nI saw this restaurant on TikTok and made my way there, the staff and the owner are all very warm and welcoming. The design of the restaurant is very simple but tasteful, I noticed the restaurant is super clean as well.\n\nThe menu is very straightforward which I love. The prices are also great for 2024! If I lived closer I could imagine eating here at least once a week.\n\nMr. Sylla is a people person, he really engaged us in conversation as well as keeping on top of the orders. It\u2019s the mark of a good business when the owner is actually present to ensure everything runs smoothly!\n\nKeep up the good work Sylla \ud83e\udd58",
+      "text": "Classic Ivorian food with a wonderful, fresh flavor!\n\nI saw this restaurant on TikTok and made my way there, the staff and the owner are all very warm and welcoming. The design of the restaurant is very simple but tasteful, I noticed the restaurant is super clean as well.\n\nThe menu is very straightforward which I love. The prices are also great for 2024! If I lived closer I could imagine eating here at least once a week.\n\nMr. Sylla is a people person, he really engaged us in conversation as well as keeping on top of the orders. It’s the mark of a good business when the owner is actually present to ensure everything runs smoothly!\n\nKeep up the good work Sylla 🥘",
       "time": 1735287163,
       "translated": false
     },
@@ -423,7 +423,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2jWB5dxqA-adYGEF2PX6CgQfURcOC99R0PYYNg-8AgU3KRg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "My first African food , fufu was very interesting and the ginger and hibiscus drinks were both yum !\nI recommend the grilled fish over the chicken soup as there was barely any meat there \ud83d\ude23\nOverall it was a nice experience and the service was great , thank you",
+      "text": "My first African food , fufu was very interesting and the ginger and hibiscus drinks were both yum !\nI recommend the grilled fish over the chicken soup as there was barely any meat there 😣\nOverall it was a nice experience and the service was great , thank you",
       "time": 1750522190,
       "translated": false
     },
@@ -435,7 +435,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHayMmoiBLfBTI5CPdEVyFf7YucL8nEke-HanyVBme_ZLngLoR5g=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "9 months ago",
-      "text": "outstanding culinary experience! came at 11pm on a Monday night and can say this is the best west African food I\u2019ve had. Every thing was superb, had the grilled fish with the vermicelli which was so good, lamb shank with fried plantains, gombo stew with fufu, and several ginger drinks. compliments to the chef, the owner, and the service. If I had to choose 2 dishes to get for the perfect pairing, it would be the grilled fish and the stew. Vermicelli was unexpected but delicious, and plantains were perfectly fried. The fish was grilled perfectly, flavored just the right amount. Lamb was very tender, and maybe only slightly dry. The stew was richly complex in flavor and comforting. The ginger drink was surprisingly spectacular, with just the right amount of kick to have me wanting more and more. Thank you Sylla.",
+      "text": "outstanding culinary experience! came at 11pm on a Monday night and can say this is the best west African food I’ve had. Every thing was superb, had the grilled fish with the vermicelli which was so good, lamb shank with fried plantains, gombo stew with fufu, and several ginger drinks. compliments to the chef, the owner, and the service. If I had to choose 2 dishes to get for the perfect pairing, it would be the grilled fish and the stew. Vermicelli was unexpected but delicious, and plantains were perfectly fried. The fish was grilled perfectly, flavored just the right amount. Lamb was very tender, and maybe only slightly dry. The stew was richly complex in flavor and comforting. The ginger drink was surprisingly spectacular, with just the right amount of kick to have me wanting more and more. Thank you Sylla.",
       "time": 1725996312,
       "translated": false
     }
@@ -454,5 +454,13 @@
   "utc_offset": -240,
   "vicinity": "1664 Park Ave, New York",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:06:13.083105+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:13.083105+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:01.544615+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

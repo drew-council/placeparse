@@ -1,0 +1,56 @@
+{
+  "adr_address": "<span class=\"street-address\">31-11 23rd Ave</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11105-2406</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "31-11 23rd Ave, Astoria, NY 11105, USA",
+  "formatted_phone_number": "(718) 626-0430",
+  "geometry": {
+    "location": {
+      "lat": 40.7742472,
+      "lng": -73.9123278
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.77552643029149,
+        "lng": -73.9110652697085
+      },
+      "southwest": {
+        "lat": 40.77282846970849,
+        "lng": -73.91376323029151
+      }
+    }
+  },
+  "international_phone_number": "+1 718-626-0430",
+  "name": "Koliba",
+  "place_id": "ChIJh9_0AmhfwokRnt4e6aYwMwk",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=662927063587413662",
+  "website": "https://www.kolibarestaurant.com/",
+  "details_checked_at": "2026-10-03T21:59:36.208642+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:36.208642+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:13.244224+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.kolibarestaurant.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.kolibarestaurant.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:09:24.652527+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -188,7 +188,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 212-787-1800",
-  "name": "Gazala\u2019s Mediterranean Restaurant",
+  "name": "Gazala’s Mediterranean Restaurant",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -264,20 +264,20 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "photos": [
     {
       "height": 668,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala\u2019s Mediterranean Restaurant</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala’s Mediterranean Restaurant</a>"
       ],
       "photo_reference": "ATKogpfre1LVYQFdUjCDA-RpDZbcw8aAyadiRUA2brrod-67Cgz27-vmP9uuwLYueUFn8knEIOfgYvDPAAgnULh28MPJz5dbt9s_Kg8dYPuyxNqpMWZo_aFmXyXxo7VXaU1dj_v_5X-MvB-2vqnRS2jb26ZnAIW_bq9uV9Sjfqsja9Bk2b0uuws27oENCDC1s4RFyZhXC8kpDKj_3ZzLB-n9b3Nfq--aaKSAHwqAP3tx2h7nkM9W2UbZPRs950cYVHEtzWPbRwPaeBSBHH59KdxemjP2ZtnF5QmAAyW87mArBr4g4w",
       "width": 1000
@@ -285,7 +285,7 @@
     {
       "height": 1280,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala\u2019s Mediterranean Restaurant</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala’s Mediterranean Restaurant</a>"
       ],
       "photo_reference": "ATKogpe7TUzgAU562sKd-pxYBEa6USEBId_ss1VTUKs0yEQmbHf6qnj2CO-QoVQXeKM9ifjxLQ6Xw41-RfjZssaSwIeLhvIqh3bfuOjpvK3JpVYkEljv63fOwSpthCygf9vcsZxKcEeH2LEGXNrcFOPc0_tcpBSC4w34eZxMm5r-UQhUBIEDlThlHEMc2FHsIk3XlyPcbJkrBLEGy-7EWEbh8YBAMXODem7CWcjdVUeq6J4kIJaBNLg8YOuGhRuJDvUn9gq-v68cOO8EllHs1QmjDhWCPv4_zV_qR_LshgGe8C3Zvw",
       "width": 1280
@@ -301,7 +301,7 @@
     {
       "height": 1200,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala\u2019s Mediterranean Restaurant</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala’s Mediterranean Restaurant</a>"
       ],
       "photo_reference": "ATKogpfCHu9S4zKOwbwvkRbgC87yI1rMEFSxWKWt6bROeIlebLqTQ6sUSFIWrG05hFZ2mmQJbL-P1rSpUrRAeTMV6MHHI-omyEJ1MGzMMiUpChsQxLYdXPOe7uG4AEOFOXY6AqqC9PPjmowSem64nhrARMejdq2Vhv6duGQNtkIHQ0p3Q_9VfukVHypVKQ4fliYFR_klOvteOb5bFtyJtHEkDqgEsEOrnpSybuKtOaZcpLOEbBqkJ5YMq5BKR5_ZktBOGfAK22zJk5TMtjG7AvXfafBSQyXL9YsbZfgJR1TOS7zidg",
       "width": 1200
@@ -317,7 +317,7 @@
     {
       "height": 686,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala\u2019s Mediterranean Restaurant</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala’s Mediterranean Restaurant</a>"
       ],
       "photo_reference": "ATKogpct0IVrsjACIS9qf1PvK9G9dEutd7Zv_l2t36kfA7gK-igEof7ffCE53WoX_CwLP0StYbd6feBxXKot-n6kzGWg13pD9yzBoZMyX8xEq0WGu7bzXfdDH6kDgKLtC9-tnJ4bp3y4C2ZiVfqLumexP2V-Ec51TOadM-Ph6ISUquJD8lV_uXE-guh0sXQh7Han0AVVDbNs7dMmbKeLb9JEFygQHQBJKsf9mVjBzfG5CdJe1xikGvCVtLCDjeSeokkorIet4KdqRg0GQAW4VUvQi-dQ2AVJGd5PT3aDRox3z6co_g",
       "width": 1024
@@ -325,7 +325,7 @@
     {
       "height": 1200,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala\u2019s Mediterranean Restaurant</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala’s Mediterranean Restaurant</a>"
       ],
       "photo_reference": "ATKogpeYBiP9rtEjnKxBlTnCFZLmQh0txundi2EmOCMLNZLsvTGdMqsgWo0zI3duSRx7T3rLQjQMgljxGRp31JJnOx6wooAX8yXGefFFdZb0fvqaf2_WWSHBaeaWKofp3eWkSd-xs5PFoTUQGMJ9q1pojv48CC8Vn0B8HbyhjQnnenKKfB2CHHlKGEvibZJw-pMj6A3VEjOeUPJWPCjKKsQBZ6Kyq6ASOTnHrawjrAhBtoF_27XdjwUghlVqrd3e9cNAz2WZ68LM2Yq13SNdKzPvOdH8IoOGDXaawXhjzfWLGzmfWw",
       "width": 1200
@@ -333,7 +333,7 @@
     {
       "height": 1200,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala\u2019s Mediterranean Restaurant</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala’s Mediterranean Restaurant</a>"
       ],
       "photo_reference": "ATKogpfwdjnNKnIE8eAhVcEciWzYqnw3h0G0ZXdxT9BFpc8Xps-qAnhM1JB56ktpgOiaXNoEKT8d4dwsTC2Nh22nMD1tyz2vBRKcvZ8CLaNhUmgvxl_OPS2qyLTb6hOXDpaMz6CqhOj4ib0qufBdEHf3Vh6TS62gyLhIWyUHXeGiXD8whMGNUAbTLHthz2LfwzSVANH8t0BeW4zFjMSkNxfs1XvThnqvfNBgJj4h7nixFwxoUx7puxdMYazdETV_vvVsh7hW9zBgju4og5byYIPladEkCrk7MZ80DZE89C-R2tB8WQ",
       "width": 1200
@@ -341,7 +341,7 @@
     {
       "height": 667,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala\u2019s Mediterranean Restaurant</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala’s Mediterranean Restaurant</a>"
       ],
       "photo_reference": "ATKogpdmSKvSRLMKzlIlkk9G3tmH9UbLUYk6_l6CY_rpmG1krkHKbWP4aYCwPaHKahZw_SwrXeVOqQ6b4HeHUMOEpyo3JQn0-U9H_ey9exb1FV0RDDlIP_NsodGGw46VWGsi3TMqBkbFSRNz7mJyydv-v4iRzJ3M5P0R8HoilYteul6Z0Pc75mfFSrBHdN7R461RcvI0X_6BQkXHSP_MMksUB23-CrZgGVm3hrdVyCjU0TCB-zYdGnwqgA7ZAmEYKF2Nn8zYKuHxMXxwDwwz2lfLWd2eQoz5IqaKuxqosL57FOpodQ",
       "width": 1000
@@ -373,7 +373,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5zdBaSyeL8mYp6DO7j8-6Tak88Jm82zlvBhjNK0hncd1pf7Hs=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "What a treat! We tried Gazala for the first time and we were extremely impressed. The visual appeal was very traditional, which was great, we wanted the experience.  The taste and texture of the foods were divine! We had the garlic bread and oh my goodness\u2014 talk about fresh and tasty.  The crust was thin and chock-full of garlic and the intensity of the heat and the garlic was a big win! The kebeh was crispy and seasoned well.  Our mouths were in a happy place.  All of our appetizers were spot-on! The eggplant is a must- have. Everything was fresh and presented so nicely. We loved the cabbage and corn, great way to get your prebiotic. The entire experience was great the atmosphere, the service and value were great! The host was great, we did not catch his name, but he was so very efficient. We plan to return, soon. Great food!",
+      "text": "What a treat! We tried Gazala for the first time and we were extremely impressed. The visual appeal was very traditional, which was great, we wanted the experience.  The taste and texture of the foods were divine! We had the garlic bread and oh my goodness— talk about fresh and tasty.  The crust was thin and chock-full of garlic and the intensity of the heat and the garlic was a big win! The kebeh was crispy and seasoned well.  Our mouths were in a happy place.  All of our appetizers were spot-on! The eggplant is a must- have. Everything was fresh and presented so nicely. We loved the cabbage and corn, great way to get your prebiotic. The entire experience was great the atmosphere, the service and value were great! The host was great, we did not catch his name, but he was so very efficient. We plan to return, soon. Great food!",
       "time": 1750103432,
       "translated": false
     },
@@ -446,5 +446,37 @@
   "vicinity": "447 Amsterdam Ave, New York",
   "website": "http://gazalasnyc.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:11.427404+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:11.427404+00:00",
+  "emails": [
+    "gazalasrestaurant@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:51.924661+00:00",
+    "outcome": "found",
+    "sources": {
+      "gazalasrestaurant@gmail.com": [
+        "https://gazalasnyc.com/book-a-private-party"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://gazalasnyc.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://gazalasnyc.com/book-a-private-party",
+        "status": "ok",
+        "emails": [
+          "gazalasrestaurant@gmail.com"
+        ]
+      },
+      {
+        "url": "https://gazalasnyc.com/reservations",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "adr_address": "<span class=\"street-address\">536 Metropolitan Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11211</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "536 Metropolitan Ave, Brooklyn, NY 11211, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7139457,
+      "lng": -73.9509425
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7153557802915,
+        "lng": -73.94959296970849
+      },
+      "southwest": {
+        "lat": 40.7126578197085,
+        "lng": -73.9522909302915
+      }
+    }
+  },
+  "name": "Quimby's Bookstore NYC",
+  "place_id": "ChIJh92VBllZwokR02frzAmb3MA",
+  "types": [
+    "book_store",
+    "establishment",
+    "point_of_interest",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=13897153016553498579",
+  "website": "https://quimbysnyc.com/",
+  "details_checked_at": "2026-10-03T21:59:32.368852+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:32.368852+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:20.441110+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://quimbysnyc.com/",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
+}

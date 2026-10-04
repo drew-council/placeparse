@@ -1,0 +1,88 @@
+{
+  "adr_address": "<span class=\"street-address\">357 Grand St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "357 Grand St, New York, NY 10002, USA",
+  "formatted_phone_number": "(212) 656-9739",
+  "geometry": {
+    "location": {
+      "lat": 40.71644,
+      "lng": -73.9890623
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7178706802915,
+        "lng": -73.9873879197085
+      },
+      "southwest": {
+        "lat": 40.71517271970851,
+        "lng": -73.9900858802915
+      }
+    }
+  },
+  "international_phone_number": "+1 212-656-9739",
+  "name": "The Pickle Guys",
+  "place_id": "ChIJXb4wVodZwokR5x8y1U_sFqA",
+  "types": [
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=11535667323179507687",
+  "website": "http://pickleguys.com/",
+  "details_checked_at": "2026-10-03T21:59:13.171488+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:13.171488+00:00",
+  "emails": [
+    "sales@pickleguys.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:27.789617+00:00",
+    "outcome": "found",
+    "sources": {
+      "sales@pickleguys.com": [
+        "https://pickleguys.com/",
+        "https://pickleguys.com/pages/contact-us",
+        "https://pickleguys.com/pages/faqs",
+        "https://pickleguys.com/pages/about-us"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://pickleguys.com/",
+        "status": "ok",
+        "emails": [
+          "sales@pickleguys.com"
+        ]
+      },
+      {
+        "url": "https://pickleguys.com/pages/contact-us",
+        "status": "ok",
+        "emails": [
+          "sales@pickleguys.com"
+        ]
+      },
+      {
+        "url": "https://pickleguys.com/pages/faqs",
+        "status": "ok",
+        "emails": [
+          "sales@pickleguys.com"
+        ]
+      },
+      {
+        "url": "https://pickleguys.com/pages/about-us",
+        "status": "ok",
+        "emails": [
+          "sales@pickleguys.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://pickleguys.com/",
+      "https://pickleguys.com/pages/contact-us",
+      "https://pickleguys.com/pages/faqs",
+      "https://pickleguys.com/pages/about-us"
+    ]
+  }
+}

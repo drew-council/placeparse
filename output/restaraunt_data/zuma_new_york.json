@@ -209,13 +209,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:30\u202fPM",
-      "Friday: 5:30\u2009\u2013\u200911:30\u202fPM",
-      "Saturday: 5:30\u2009\u2013\u200911:30\u202fPM",
-      "Sunday: 5:30\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 3:00 PM, 5:30 – 11:00 PM",
+      "Tuesday: 11:30 AM – 3:00 PM, 5:30 – 11:00 PM",
+      "Wednesday: 11:30 AM – 3:00 PM, 5:30 – 11:00 PM",
+      "Thursday: 11:30 AM – 3:00 PM, 5:30 – 11:30 PM",
+      "Friday: 5:30 – 11:30 PM",
+      "Saturday: 5:30 – 11:30 PM",
+      "Sunday: 5:30 – 10:00 PM"
     ]
   },
   "dine_in": true,
@@ -371,13 +371,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:30\u202fPM",
-      "Saturday: 5:30\u2009\u2013\u200911:30\u202fPM",
-      "Sunday: 5:30\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 3:00 PM, 5:30 – 11:00 PM",
+      "Tuesday: 11:30 AM – 3:00 PM, 5:30 – 11:00 PM",
+      "Wednesday: 11:30 AM – 3:00 PM, 5:30 – 11:00 PM",
+      "Thursday: 11:30 AM – 3:00 PM, 5:30 – 11:30 PM",
+      "Friday: 11:30 AM – 3:00 PM, 5:30 – 11:30 PM",
+      "Saturday: 5:30 – 11:30 PM",
+      "Sunday: 5:30 – 10:00 PM"
     ]
   },
   "photos": [
@@ -432,7 +432,7 @@
     {
       "height": 3600,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/112439085975222561670\">Angie \u201cAngie\u201d</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/112439085975222561670\">Angie “Angie”</a>"
       ],
       "photo_reference": "ATKogpebG4PfVI-gRxDTwQ0pdq2P4uvObrqga_Ue1uUOmqc_OTrVEY4eTTM3eRtvNxap1G0kc-_DH52WLC-XHyOXcQ2L6Jw0FWiDX3pchfGx8doo5L194OduPAjd1yeusbdcVno6gRueXcqbac0BtljmJF-CqcmF_oCdekOL8Rkf2n__uHmr1wuFr-wYNkVfEFVGLixCik1OXe0-2HDVDR6vhyls3IoVI2Au4sMX3BCoLEcMvz4J0C1_xtFQt3zKE0VwvgpiFLqHAp47pDXZbu6p0lmbotWwla8GueWNMGYg3u0PSJ3B4hrblmpoGpmK7jG9-lCCRJ5Zz1wvRrVCYkymgXvd5542vYHMfgXob3i5LnwLDbQJCQa6ysT1BdKOhv0R56EBXwDHylrIfR3b5K5DOX_bbIT__VpbyeoqbnJNEXM",
       "width": 4800
@@ -440,7 +440,7 @@
     {
       "height": 3024,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/112439085975222561670\">Angie \u201cAngie\u201d</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/112439085975222561670\">Angie “Angie”</a>"
       ],
       "photo_reference": "ATKogpdBxVWLyHv6hmirF4xKKxfGpdMqAqlNKij75jLDZBSWuQ9rRjoRbXtC3JCR0Ta033PFsUmbWJWLHFiMZxc55fHj5bcgZUzJ5EAKeD6pkeo2UD2A1i-krBPQUy2qwa6sm-RWHXCOjg0KpHIuw_KpoPn1EGQKVPw26nPddG7RAaYXIbxkeEVt7nu5E2I2V83hjADBAxIYeaGmJRDMQdLtgj9V0Ue7AYUL3gpNxJETqPuw0ZAbNEzUimwWpU1RZZe2A86_IOJEGFzGEojH3r8WrC1SzbNMNwJFjbUOZ6EXkuNAUHSovzdevXi0RGOF-BhDwhAx3iH8GeRoZ9RkWX_PSXhWPUAxyeeFRnQOFxi4TPwTUeo_FQbSCmUXRROeVlLwLGhbZj_8veo5Ey7y2Nn8NrMlem4VoJHMNxMxZXQJgsV8Mg",
       "width": 4032
@@ -480,7 +480,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXn2HmE2hI_DrXFDqldv2-K0VWu3VvMRfJ7McuzD1HeodxVs-qthw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "PHENOMENAL! STUNNING! BREATHTAKING!\nThis is where my partner and I celebrated our 2yr anniversary and I can't fangirl enough about this place, it was absolutely magical. Definitely we had to save up for a fancy place like this, around $400 for us in total for the signature menu but it was worth every penny to celebrate such a special moment. The staff made it such a memorable night to remember!\nThank you so much for the excellent service, we hope to save up for it again some time in the future! \ud83d\udc95",
+      "text": "PHENOMENAL! STUNNING! BREATHTAKING!\nThis is where my partner and I celebrated our 2yr anniversary and I can't fangirl enough about this place, it was absolutely magical. Definitely we had to save up for a fancy place like this, around $400 for us in total for the signature menu but it was worth every penny to celebrate such a special moment. The staff made it such a memorable night to remember!\nThank you so much for the excellent service, we hope to save up for it again some time in the future! 💕",
       "time": 1750505586,
       "translated": false
     },
@@ -492,7 +492,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMIi8gXpn2ZEdZcW1L5taPIfVZw0Lnrim26MqDExbhMlQ14cE=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Zuma is a full vibe from the moment you walk in. The ambiance is sleek, dark, and upscale with a modern zen feel.\n\nService was top-notch\u2014our waiter Pasha was amazing: attentive, personable, and knew the menu inside out. And Tyson, the manager, is one of the best, sharpest, and coolest I\u2019ve ever come across. He\u2019s young, making a name for himself in the industry, and you get the sense he might be a restaurateur one day, I go out often, and his presence stood out.\n\nThe Lychee Martinis were smooth & perfectly balanced.\nWe had Yellowtail Roll, Tuna Tataki, and signature rolls topped with caviar\u2014 all were fresh, flavorful, and beautifully presented.\n\nThe Dessert Platter was a showstopper\u2014gorgeous presentation with fresh fruit, sorbet, and Zuma\u2019s iconic chocolate lava cake.\n\n*\ufe0f\u20e3: sit on the upstairs balcony area for the best vibe and view. And if you\u2019re with a larger party, the private rooms are definitely the move.\n\nIt\u2019s a splurge, but 100% worth it for the quality, service, and overall experience. Ideal for celebrations or a standout night out.",
+      "text": "Zuma is a full vibe from the moment you walk in. The ambiance is sleek, dark, and upscale with a modern zen feel.\n\nService was top-notch—our waiter Pasha was amazing: attentive, personable, and knew the menu inside out. And Tyson, the manager, is one of the best, sharpest, and coolest I’ve ever come across. He’s young, making a name for himself in the industry, and you get the sense he might be a restaurateur one day, I go out often, and his presence stood out.\n\nThe Lychee Martinis were smooth & perfectly balanced.\nWe had Yellowtail Roll, Tuna Tataki, and signature rolls topped with caviar— all were fresh, flavorful, and beautifully presented.\n\nThe Dessert Platter was a showstopper—gorgeous presentation with fresh fruit, sorbet, and Zuma’s iconic chocolate lava cake.\n\n*️⃣: sit on the upstairs balcony area for the best vibe and view. And if you’re with a larger party, the private rooms are definitely the move.\n\nIt’s a splurge, but 100% worth it for the quality, service, and overall experience. Ideal for celebrations or a standout night out.",
       "time": 1745191768,
       "translated": false
     },
@@ -504,7 +504,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjtNL8pq9fXt3UPbTlRJOMhzsaHZQle-lW6_Nle8vcQpz9Jls2JQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "I\u2019ve been to the Miami location a couple of times, but this was my first time visiting the one in New York.\n\nI had my pre-birthday dinner here with a small group of close friends, and overall, both the food and the service were great. The atmosphere is elegant yet modern, and the bar area is lovely.\n\nI\u2019d love to come back\u2014maybe just with my partner\u2014to experience that side of the place more fully.",
+      "text": "I’ve been to the Miami location a couple of times, but this was my first time visiting the one in New York.\n\nI had my pre-birthday dinner here with a small group of close friends, and overall, both the food and the service were great. The atmosphere is elegant yet modern, and the bar area is lovely.\n\nI’d love to come back—maybe just with my partner—to experience that side of the place more fully.",
       "time": 1748972781,
       "translated": false
     },
@@ -516,7 +516,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXOz2g1OpSTABc1OvqIwjK9CBek3NiA0DSIVffSNdyahvjAiMh8g=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Food was good I loved the hamachi crudo, shishito peppers, and miso black cod.  The sushi special of the day was sooo bomb it had truffle I think . Vibe was super chic, service was great. Har\u00e1 at the bar was kind and beautiful she recommended me a really yummy cocktail I can\u2019t remember the name of it lol . Will def be back",
+      "text": "Food was good I loved the hamachi crudo, shishito peppers, and miso black cod.  The sushi special of the day was sooo bomb it had truffle I think . Vibe was super chic, service was great. Hará at the bar was kind and beautiful she recommended me a really yummy cocktail I can’t remember the name of it lol . Will def be back",
       "time": 1745902882,
       "translated": false
     },
@@ -600,11 +600,11 @@
       ],
       "type": "LUNCH",
       "weekday_text": [
-        "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
-        "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
-        "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
-        "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
-        "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Monday: 11:30 AM – 3:00 PM",
+        "Tuesday: 11:30 AM – 3:00 PM",
+        "Wednesday: 11:30 AM – 3:00 PM",
+        "Thursday: 11:30 AM – 3:00 PM",
+        "Friday: 11:30 AM – 3:00 PM",
         "Saturday: Closed",
         "Sunday: Closed"
       ]
@@ -699,13 +699,13 @@
       ],
       "type": "DINNER",
       "weekday_text": [
-        "Monday: 5:30\u2009\u2013\u200911:00\u202fPM",
-        "Tuesday: 5:30\u2009\u2013\u200911:00\u202fPM",
-        "Wednesday: 5:30\u2009\u2013\u200911:00\u202fPM",
-        "Thursday: 5:30\u2009\u2013\u200911:30\u202fPM",
-        "Friday: 5:30\u2009\u2013\u200911:30\u202fPM",
-        "Saturday: 5:30\u2009\u2013\u200911:30\u202fPM",
-        "Sunday: 5:30\u2009\u2013\u200910:00\u202fPM"
+        "Monday: 5:30 – 11:00 PM",
+        "Tuesday: 5:30 – 11:00 PM",
+        "Wednesday: 5:30 – 11:00 PM",
+        "Thursday: 5:30 – 11:30 PM",
+        "Friday: 5:30 – 11:30 PM",
+        "Saturday: 5:30 – 11:30 PM",
+        "Sunday: 5:30 – 10:00 PM"
       ]
     }
   ],
@@ -729,5 +729,63 @@
   "vicinity": "261 Madison Ave, New York",
   "website": "https://www.zumarestaurant.com/en/new-york?utm_source=InfoButtonClick&utm_medium=Home&utm_campaign=GoogleBusinessProfile",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:06:28.969284+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:28.969284+00:00",
+  "emails": [
+    "events.ny@zumarestaurant.us",
+    "info.ny@zumarestaurant.us"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:27.220647+00:00",
+    "outcome": "found",
+    "sources": {
+      "info.ny@zumarestaurant.us": [
+        "https://www.zumarestaurant.com/en/new-york?utm_source=InfoButtonClick&utm_medium=Home&utm_campaign=GoogleBusinessProfile",
+        "https://www.zumarestaurant.com/en/new-york"
+      ],
+      "events.ny@zumarestaurant.us": [
+        "https://www.zumarestaurant.com/en/new-york/private-dining"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.zumarestaurant.com/en/new-york?utm_source=InfoButtonClick&utm_medium=Home&utm_campaign=GoogleBusinessProfile",
+        "status": "ok",
+        "emails": [
+          "info.ny@zumarestaurant.us"
+        ]
+      },
+      {
+        "url": "https://www.zumarestaurant.com/en/new-york",
+        "status": "ok",
+        "emails": [
+          "info.ny@zumarestaurant.us"
+        ]
+      },
+      {
+        "url": "https://www.zumarestaurant.com/en/about-us",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.zumarestaurant.com/en/private-dining",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.zumarestaurant.com/en/new-york/whats-on",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.zumarestaurant.com/en/new-york/private-dining",
+        "status": "ok",
+        "emails": [
+          "events.ny@zumarestaurant.us"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.zumarestaurant.com/en/new-york/private-dining"
+    ]
+  }
 }

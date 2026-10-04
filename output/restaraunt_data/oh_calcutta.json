@@ -222,13 +222,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Tuesday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Wednesday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Thursday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Friday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Saturday: 11:30 AM – 10:00 PM",
+      "Sunday: 11:30 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -381,13 +381,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Tuesday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Wednesday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Thursday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Friday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM",
+      "Saturday: 11:30 AM – 10:00 PM",
+      "Sunday: 11:30 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -490,7 +490,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlcONBjRzqlWDppmbnQub9D_iJqYsZWBZiNmeM0ccLrvtPvU8o=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Oh! Calcutta is such a cozy and inviting Indian restaurant\u2014clean, warm, and full of charm! You can really taste the freshness of their ingredients and the delicate flavors they\u2019ve crafted; everything is perfectly balanced. The owner and staff are attentive and genuinely care about providing the best service and food. One small suggestion would be to have paper napkins and place the utensils on top instead of directly on the table for a bit more presentation and hygiene. Overall, it\u2019s a must-visit! Go try it out, ask for recommendations, and let them wow your taste buds.",
+      "text": "Oh! Calcutta is such a cozy and inviting Indian restaurant—clean, warm, and full of charm! You can really taste the freshness of their ingredients and the delicate flavors they’ve crafted; everything is perfectly balanced. The owner and staff are attentive and genuinely care about providing the best service and food. One small suggestion would be to have paper napkins and place the utensils on top instead of directly on the table for a bit more presentation and hygiene. Overall, it’s a must-visit! Go try it out, ask for recommendations, and let them wow your taste buds.",
       "time": 1741194404,
       "translated": false
     },
@@ -502,7 +502,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsgriCFXIkCIy5qy3GMTroC_m6VGSQ1-kYbJDt_dy_FGD6x1nm=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "First time trying this place and overall it was a great experience!\nWe would\u2019ve appreciated a bit more guidance through the menu highlights, especially since it was our first time trying this kind of food \u2014 but the dishes we tried were flavorful and satisfying. The atmosphere was warm and welcoming, and the food was well-prepared. Definitely a nice spot to explore Indian/Bengali cuisin",
+      "text": "First time trying this place and overall it was a great experience!\nWe would’ve appreciated a bit more guidance through the menu highlights, especially since it was our first time trying this kind of food — but the dishes we tried were flavorful and satisfying. The atmosphere was warm and welcoming, and the food was well-prepared. Definitely a nice spot to explore Indian/Bengali cuisin",
       "time": 1744847486,
       "translated": false
     },
@@ -538,7 +538,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6YPeYmH0_ytfLiP1cst3gHX4m-UeA_1McTBfVyseRMS59ajdi=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "2 months ago",
-      "text": "The food was okay\u2014appetizing but not particularly memorable. I had the malai kofta, which was unfortunately bland and lacked the rich flavor I was expecting. The samosas were light but not very filling, while my friend enjoyed her lamb dish. The rice and garlic naan were good, probably the highlights of the meal for me. The restaurant itself was clean with plenty of seating, and the service was polite, though nothing stood out. I might have just picked the wrong dish, but overall, I\u2019ve had more flavorful Indian food elsewhere.",
+      "text": "The food was okay—appetizing but not particularly memorable. I had the malai kofta, which was unfortunately bland and lacked the rich flavor I was expecting. The samosas were light but not very filling, while my friend enjoyed her lamb dish. The rice and garlic naan were good, probably the highlights of the meal for me. The restaurant itself was clean with plenty of seating, and the service was polite, though nothing stood out. I might have just picked the wrong dish, but overall, I’ve had more flavorful Indian food elsewhere.",
       "time": 1744812108,
       "translated": false
     }
@@ -562,5 +562,24 @@
   "emails": [
     "ohcalcuttanyc@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:48.903172+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:48.903172+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:37.110313+00:00",
+    "outcome": "found",
+    "sources": {
+      "ohcalcuttanyc@gmail.com": [
+        "https://ohcalcuttanyc.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://ohcalcuttanyc.com/",
+        "status": "ok",
+        "emails": [
+          "ohcalcuttanyc@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

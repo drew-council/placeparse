@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -267,13 +267,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -452,5 +452,53 @@
   "emails": [
     "talkto@goldendinerny.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:12.470371+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:12.470371+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:53.771700+00:00",
+    "outcome": "found",
+    "sources": {
+      "talkto@goldendinerny.com": [
+        "https://www.goldendinerny.com/",
+        "https://www.goldendinerny.com/faq",
+        "https://www.goldendinerny.com/about",
+        "https://www.goldendinerny.com/events-and-catering"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.goldendinerny.com/",
+        "status": "ok",
+        "emails": [
+          "talkto@goldendinerny.com"
+        ]
+      },
+      {
+        "url": "https://www.goldendinerny.com/faq",
+        "status": "ok",
+        "emails": [
+          "talkto@goldendinerny.com"
+        ]
+      },
+      {
+        "url": "https://www.goldendinerny.com/about",
+        "status": "ok",
+        "emails": [
+          "talkto@goldendinerny.com"
+        ]
+      },
+      {
+        "url": "https://www.goldendinerny.com/events-and-catering",
+        "status": "ok",
+        "emails": [
+          "talkto@goldendinerny.com"
+        ]
+      },
+      {
+        "url": "https://www.goldendinerny.com/parties-and-events",
+        "status": "HTTP_404",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

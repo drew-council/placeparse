@@ -176,13 +176,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Tuesday: 5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Wednesday: 5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Thursday: 5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Friday: 4:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Saturday: 4:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Sunday: 4:00\u202fPM\u2009\u2013\u20093:00\u202fAM"
+      "Monday: 5:00 PM – 3:00 AM",
+      "Tuesday: 5:00 PM – 3:00 AM",
+      "Wednesday: 5:00 PM – 3:00 AM",
+      "Thursday: 5:00 PM – 3:00 AM",
+      "Friday: 4:00 PM – 3:00 AM",
+      "Saturday: 4:00 PM – 3:00 AM",
+      "Sunday: 4:00 PM – 3:00 AM"
     ]
   },
   "delivery": false,
@@ -209,7 +209,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 646-650-3834",
-  "name": "Chubby Skewers\uff5cAuthentic Chinese BBQ",
+  "name": "Chubby Skewers｜Authentic Chinese BBQ",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -285,20 +285,20 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Tuesday: 5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Wednesday: 5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Thursday: 5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Friday: 4:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Saturday: 4:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Sunday: 4:00\u202fPM\u2009\u2013\u20093:00\u202fAM"
+      "Monday: 5:00 PM – 3:00 AM",
+      "Tuesday: 5:00 PM – 3:00 AM",
+      "Wednesday: 5:00 PM – 3:00 AM",
+      "Thursday: 5:00 PM – 3:00 AM",
+      "Friday: 4:00 PM – 3:00 AM",
+      "Saturday: 4:00 PM – 3:00 AM",
+      "Sunday: 4:00 PM – 3:00 AM"
     ]
   },
   "photos": [
     {
       "height": 3199,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101293662842834755907\">Chubby Skewers\uff5cAuthentic Chinese BBQ</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101293662842834755907\">Chubby Skewers｜Authentic Chinese BBQ</a>"
       ],
       "photo_reference": "ATKogpdv7n8R4i0e5pS5QWPbfWgFEXS61GqCGiypIK4N6NxBA4RtgTBURmA5NfnKhKOMVLIAu3oTw2GvgukQWoH4LS2winIUHxDLEKdirvcoWsfijz6qIEt7RgAKhf7i2LcaWSeBMI5cLZzFTnJHZxSHgH9A6dZZsicaoSLNWrrhyR5gH-dZJngiLrFsTmB1zkHM5kio9w5J4-sn9xRD26bR2dTJYY2xH-C00u__rq60wTeXLzCOgEk6lHJ9RSlWgtcOgctoe-csbzKETsTg3NrfdOMYEJ6q5ay835PdjOw2oLVjdA",
       "width": 4800
@@ -314,7 +314,7 @@
     {
       "height": 4800,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101293662842834755907\">Chubby Skewers\uff5cAuthentic Chinese BBQ</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101293662842834755907\">Chubby Skewers｜Authentic Chinese BBQ</a>"
       ],
       "photo_reference": "ATKogpfZiIsn4s0fym51PZAQXOccs-YsDeEJqfjTkCqERwieYQ671nsDJQBarvXZ-Bs22_lqeknvgChTnUa3d3nb2O2zlYbzJcVX7a9xivbEp-umLuEbZQkyYn9gmR8xEDbFWAAleeofrtTs_6i_MqLbmYaIBikGFYXlf0ksAtA4oIuOelR4cREyjdacKFvsMueezASAZzHEGKlOg5XcSRGBYyMqhOweRGD9n8Wz8SzTuyaLsUJQ6HoUjDs6n2mhd6PLbIWB1esJs67q-HLua_UOv_mvBn6GUQHLBYgcs7Abr9cDMg",
       "width": 3199
@@ -362,7 +362,7 @@
     {
       "height": 1706,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101293662842834755907\">Chubby Skewers\uff5cAuthentic Chinese BBQ</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101293662842834755907\">Chubby Skewers｜Authentic Chinese BBQ</a>"
       ],
       "photo_reference": "ATKogpeiHU6n5QvcGm3hh28WidBeUFA0GMpcXAipgvYcsSY6WJdWcn7uZR3OyjFJIdWbj45eBIyX4T6rFlsjxi4GiZWqWIBCAk-lr5Piije1-uJ20_q8gMYzRYs61zzUSoXdGUq8xFjB7afSBA08pnwqjb_soBLlNE5lJ4ZJ1kXSn_x5BHCr86IGq4CMefh2Wrx1pTx9ardLFyVTF_nmW1C-QsMj2oVC4TSSrjdlk7Yqqao6MA0N2JXygZ8tDsDUFVnr5yLmFqdDWeM9CBqhvRTcGJtIqo3wcwS495k6v4JNnZVoeg",
       "width": 1280
@@ -416,7 +416,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkOokpv6o-NS37jYZK8nSacBWzh9xB7mKF_5MGWjXQMc-m7zQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "They haven\u2019t fully opened yet but I was able to visit before their soft opening! Food is delicious and the experience is unique compared to other spots in Manhattan. It\u2019s self service Chinese BBQ skewers- each skewer is only $1.10 and the beef options are all wagyu! Can\u2019t imagine a better deal than that\u2026 can\u2019t wait for when they fully open and bring my friends here!",
+      "text": "They haven’t fully opened yet but I was able to visit before their soft opening! Food is delicious and the experience is unique compared to other spots in Manhattan. It’s self service Chinese BBQ skewers- each skewer is only $1.10 and the beef options are all wagyu! Can’t imagine a better deal than that… can’t wait for when they fully open and bring my friends here!",
       "time": 1745192965,
       "translated": false
     },
@@ -428,7 +428,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZQTEEQCrSpRcEeerXIaZdIY8Qi023eq6kU7yxmkAJ06bagfxH=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Fun vibe, tasty skewers \u2014 but be prepared!\nI found Chubby Skewers on Instagram and thought it might be like a traditional Iranian liver skewer place \u2014 but it\u2019s actually a Korean-style grill restaurant, and they don\u2019t serve liver or heart. We didn\u2019t have a reservation and were told it would be a 45-minute wait, but it ended up being over an hour.\n\nThat said, the atmosphere was lively \u2014 great music, and the staff were full of energy, even dancing as they served! The setup was new to me: short tables with built-in grills, and you cook your skewers yourself. I wore a short skirt, which made sitting a bit uncomfortable \u2014 most women there were dressed more practically for this kind of seating.\n\nThe skewers were $1 each \u2014 small, but really delicious. A staff member kindly explained how to choose them from the fridge and grill them at our table.\nOverall, it was a fun and unique experience \u2014 I\u2019d definitely recommend it, but make sure to reserve ahead of time and dress accordingly!",
+      "text": "Fun vibe, tasty skewers — but be prepared!\nI found Chubby Skewers on Instagram and thought it might be like a traditional Iranian liver skewer place — but it’s actually a Korean-style grill restaurant, and they don’t serve liver or heart. We didn’t have a reservation and were told it would be a 45-minute wait, but it ended up being over an hour.\n\nThat said, the atmosphere was lively — great music, and the staff were full of energy, even dancing as they served! The setup was new to me: short tables with built-in grills, and you cook your skewers yourself. I wore a short skirt, which made sitting a bit uncomfortable — most women there were dressed more practically for this kind of seating.\n\nThe skewers were $1 each — small, but really delicious. A staff member kindly explained how to choose them from the fridge and grill them at our table.\nOverall, it was a fun and unique experience — I’d definitely recommend it, but make sure to reserve ahead of time and dress accordingly!",
       "time": 1745979435,
       "translated": false
     },
@@ -459,5 +459,50 @@
   "utc_offset": -240,
   "vicinity": "252 W 37th St, New York",
   "website": "https://chubbyskewers.com/locations/chubby-skewers-manhattan/",
-  "business_status_checked_at": "2026-10-03T20:04:55.742184+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:55.742184+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:23.946591+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://chubbyskewers.com/locations/chubby-skewers-manhattan/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://chubbyskewers.com/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://chubbyskewers.com/contact-us/",
+        "status": "HTTP_404",
+        "emails": []
+      },
+      {
+        "url": "https://chubbyskewers.com/events/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://chubbyskewers.com/locations/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://chubbyskewers.com/locations/chubby-skewers-mesa/",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://chubbyskewers.com/locations/chubby-skewers-manhattan/",
+      "https://chubbyskewers.com/contact/",
+      "https://chubbyskewers.com/events/",
+      "https://chubbyskewers.com/locations/",
+      "https://chubbyskewers.com/locations/chubby-skewers-mesa/"
+    ]
+  }
 }

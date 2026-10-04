@@ -161,13 +161,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 9:00 PM",
+      "Friday: 8:00 AM – 9:00 PM",
+      "Saturday: 8:00 AM – 9:00 PM",
+      "Sunday: 8:00 AM – 8:00 PM"
     ]
   },
   "delivery": true,
@@ -273,13 +273,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 9:00 PM",
+      "Friday: 8:00 AM – 9:00 PM",
+      "Saturday: 8:00 AM – 9:00 PM",
+      "Sunday: 8:00 AM – 8:00 PM"
     ]
   },
   "photos": [
@@ -381,7 +381,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdmiNZRHwBo7k2YKwdNgYC2Z8p_MkWVrPqsTXb1dpgbnwv7IjcfA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "If you\u2019re on the hunt for authentic Italian pastries in Brooklyn, Pasticceria Monteleone is a must-visit. This family-owned bakery offers an impressive selection of traditional treats that are sure to satisfy any sweet tooth.\n\nDuring our visit, we couldn\u2019t resist trying their lobster tails, cannelloni, and a delightful small pastry reminiscent of the lobster tail. Each item was freshly made, bursting with flavor, and clearly crafted with care.\n\nThe bakery\u2019s extensive variety makes choosing just a few items a delightful challenge. Whether you\u2019re a longtime fan of Italian pastries or new to these delights, Pasticceria Monteleone offers an experience worth savoring.",
+      "text": "If you’re on the hunt for authentic Italian pastries in Brooklyn, Pasticceria Monteleone is a must-visit. This family-owned bakery offers an impressive selection of traditional treats that are sure to satisfy any sweet tooth.\n\nDuring our visit, we couldn’t resist trying their lobster tails, cannelloni, and a delightful small pastry reminiscent of the lobster tail. Each item was freshly made, bursting with flavor, and clearly crafted with care.\n\nThe bakery’s extensive variety makes choosing just a few items a delightful challenge. Whether you’re a longtime fan of Italian pastries or new to these delights, Pasticceria Monteleone offers an experience worth savoring.",
       "time": 1742608691,
       "translated": false
     },
@@ -405,7 +405,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUp7XPOYmYajMgsnmnm5A9EC4Sx3fYIxmtfH0wiRxIJfnV6JJMC=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "8 months ago",
-      "text": "If there\u2019s a pastry you\u2019re looking for, this bakery will have it! They had so many different varieties of pastries and desserts, each one more intricate and detailed than the last. The vibes are so positive and wholesome all around",
+      "text": "If there’s a pastry you’re looking for, this bakery will have it! They had so many different varieties of pastries and desserts, each one more intricate and detailed than the last. The vibes are so positive and wholesome all around",
       "time": 1730327719,
       "translated": false
     },
@@ -417,7 +417,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISj71USwPLFzJhFQoA2jxxiN-3KWjOpCwhs0ECjSqOik19DQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Very nice authentic and well priced Italian cake shop. We ordered a custom Pok\u00e9mon cake for our son\u2019s birthday! Got it on time, the staff was super kind and friendly. The cake was awesome! Thank you very much",
+      "text": "Very nice authentic and well priced Italian cake shop. We ordered a custom Pokémon cake for our son’s birthday! Got it on time, the staff was super kind and friendly. The cake was awesome! Thank you very much",
       "time": 1740949017,
       "translated": false
     },
@@ -447,5 +447,13 @@
   "utc_offset": -240,
   "vicinity": "355 Court St, Brooklyn",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:52.213158+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:52.213158+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:41.966856+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

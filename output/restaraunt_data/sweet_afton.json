@@ -1,0 +1,123 @@
+{
+  "adr_address": "<span class=\"street-address\">30-09 34th St</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11103</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "30-09 34th St, Astoria, NY 11103, USA",
+  "formatted_phone_number": "(718) 777-2570",
+  "geometry": {
+    "location": {
+      "lat": 40.76544090000001,
+      "lng": -73.91912099999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7667972302915,
+        "lng": -73.9178438197085
+      },
+      "southwest": {
+        "lat": 40.7640992697085,
+        "lng": -73.9205417802915
+      }
+    }
+  },
+  "international_phone_number": "+1 718-777-2570",
+  "name": "Sweet Afton",
+  "place_id": "ChIJWx0TrzhfwokRjlhD_Yop39c",
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=15555197314892257422",
+  "website": "http://www.sweetaftonbar.com/",
+  "details_checked_at": "2026-10-03T21:59:33.039334+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:33.039334+00:00",
+  "emails": [
+    "chelsea@buabar.com",
+    "events@sweetaftonbar.com",
+    "info@sweetaftonbar.com",
+    "livemusic@sweetaftonbar.com",
+    "media@sweetaftonbar.com",
+    "music@sweetaftonbar.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:25.297131+00:00",
+    "outcome": "found",
+    "sources": {
+      "chelsea@buabar.com": [
+        "https://www.sweetaftonbar.com/",
+        "https://www.sweetaftonbar.com/events/",
+        "https://www.sweetaftonbar.com/hours-and-location/"
+      ],
+      "events@sweetaftonbar.com": [
+        "https://www.sweetaftonbar.com/",
+        "https://www.sweetaftonbar.com/events/",
+        "https://www.sweetaftonbar.com/hours-and-location/"
+      ],
+      "info@sweetaftonbar.com": [
+        "https://www.sweetaftonbar.com/",
+        "https://www.sweetaftonbar.com/events/",
+        "https://www.sweetaftonbar.com/hours-and-location/"
+      ],
+      "livemusic@sweetaftonbar.com": [
+        "https://www.sweetaftonbar.com/",
+        "https://www.sweetaftonbar.com/events/",
+        "https://www.sweetaftonbar.com/hours-and-location/"
+      ],
+      "media@sweetaftonbar.com": [
+        "https://www.sweetaftonbar.com/",
+        "https://www.sweetaftonbar.com/events/",
+        "https://www.sweetaftonbar.com/hours-and-location/"
+      ],
+      "music@sweetaftonbar.com": [
+        "https://www.sweetaftonbar.com/",
+        "https://www.sweetaftonbar.com/events/",
+        "https://www.sweetaftonbar.com/hours-and-location/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.sweetaftonbar.com/",
+        "status": "ok",
+        "emails": [
+          "chelsea@buabar.com",
+          "events@sweetaftonbar.com",
+          "info@sweetaftonbar.com",
+          "livemusic@sweetaftonbar.com",
+          "media@sweetaftonbar.com",
+          "music@sweetaftonbar.com"
+        ]
+      },
+      {
+        "url": "https://www.sweetaftonbar.com/events/",
+        "status": "ok",
+        "emails": [
+          "chelsea@buabar.com",
+          "events@sweetaftonbar.com",
+          "info@sweetaftonbar.com",
+          "livemusic@sweetaftonbar.com",
+          "media@sweetaftonbar.com",
+          "music@sweetaftonbar.com"
+        ]
+      },
+      {
+        "url": "https://www.sweetaftonbar.com/hours-and-location/",
+        "status": "ok",
+        "emails": [
+          "chelsea@buabar.com",
+          "events@sweetaftonbar.com",
+          "info@sweetaftonbar.com",
+          "livemusic@sweetaftonbar.com",
+          "media@sweetaftonbar.com",
+          "music@sweetaftonbar.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.sweetaftonbar.com/",
+      "https://www.sweetaftonbar.com/events/",
+      "https://www.sweetaftonbar.com/hours-and-location/"
+    ]
+  }
+}

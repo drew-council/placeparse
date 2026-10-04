@@ -239,13 +239,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20092:15\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20092:15\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 12:00 – 2:15 PM, 5:00 – 9:30 PM",
+      "Tuesday: 12:00 – 2:15 PM, 5:00 – 9:30 PM",
+      "Wednesday: 12:00 – 2:15 PM, 5:00 – 9:30 PM",
+      "Thursday: 12:00 – 2:15 PM, 5:00 – 9:30 PM",
+      "Friday: 12:00 – 2:15 PM, 5:00 – 10:30 PM",
+      "Saturday: 12:00 – 2:15 PM, 4:30 – 10:30 PM",
+      "Sunday: 12:00 – 2:15 PM, 4:30 – 9:30 PM"
     ]
   },
   "delivery": true,
@@ -422,13 +422,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20092:15\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20092:15\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 12:00 – 2:15 PM, 5:00 – 9:30 PM",
+      "Tuesday: 12:00 – 2:15 PM, 5:00 – 9:30 PM",
+      "Wednesday: 12:00 – 2:15 PM, 5:00 – 9:30 PM",
+      "Thursday: 12:00 – 2:15 PM, 5:00 – 9:30 PM",
+      "Friday: 12:00 – 2:15 PM, 5:00 – 10:30 PM",
+      "Saturday: 12:00 – 2:15 PM, 4:30 – 10:30 PM",
+      "Sunday: 12:00 – 2:15 PM, 4:30 – 9:30 PM"
     ]
   },
   "photos": [
@@ -531,7 +531,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMfO3-3XgHCn7z7CuJuWYzpi92d5OkGDEBPe4mADSvQX-cfoDDeQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "in the last week",
-      "text": "Hear me out\u2026the food was delicious and arrived quickly, which we appreciated. However, we informed our server of a serious food allergy and specifically asked to be told if any of our dishes contained the allergen. When the first dish came out, we spotted the allergen ourselves and asked for it to be removed.\n\nHalfway through the meal, the server returned and admitted that other items we had already eaten also contained the allergen. We expressed our concern to the manager, who simply smiled, explained that the server was new, and walked away. We paid our bill in full and left unwell and extremely disappointed.",
+      "text": "Hear me out…the food was delicious and arrived quickly, which we appreciated. However, we informed our server of a serious food allergy and specifically asked to be told if any of our dishes contained the allergen. When the first dish came out, we spotted the allergen ourselves and asked for it to be removed.\n\nHalfway through the meal, the server returned and admitted that other items we had already eaten also contained the allergen. We expressed our concern to the manager, who simply smiled, explained that the server was new, and walked away. We paid our bill in full and left unwell and extremely disappointed.",
       "time": 1750631354,
       "translated": false
     },
@@ -543,7 +543,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvvqx2jl-I6rIo3xRXFjlkQHagccAmMj5-sDgeAm3lCc89YHNgJw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "Love Izakaya MEW.\n\nThe tapas style dishes are perfectly portioned to order plenty and share. Must try is the kimchi creamy udon, it\u2019s so good!\n\nService was good, they\u2019re constantly busy especially during rush hour, so it\u2019s quick and easy.\n\nAtmosphere can be a bit overwhelming. It\u2019s a smaller space so it\u2019s very loud and limited space.",
+      "text": "Love Izakaya MEW.\n\nThe tapas style dishes are perfectly portioned to order plenty and share. Must try is the kimchi creamy udon, it’s so good!\n\nService was good, they’re constantly busy especially during rush hour, so it’s quick and easy.\n\nAtmosphere can be a bit overwhelming. It’s a smaller space so it’s very loud and limited space.",
       "time": 1750054600,
       "translated": false
     },
@@ -567,7 +567,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkohZo8CTksnZjNYkCneGqBdpV-7rbP_mEe_plmDzOBW5DWFpPlg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Small bites over large portions\u2014every time.\nIf you\u2019re someone who lives for flavor-packed dishes meant for sharing, this hidden NYC spot is calling your name. Every single plate felt like it was crafted to nourish not just your appetite, but your soul.\n\nBest $$$$ spent\u2014without breaking the bank.\nIt\u2019s not expensive, but every bite is cooked to absolute perfection. Perfect for a first date\u2014affordable, cozy, and made for sharing stories over shared plates.",
+      "text": "Small bites over large portions—every time.\nIf you’re someone who lives for flavor-packed dishes meant for sharing, this hidden NYC spot is calling your name. Every single plate felt like it was crafted to nourish not just your appetite, but your soul.\n\nBest $$$$ spent—without breaking the bank.\nIt’s not expensive, but every bite is cooked to absolute perfection. Perfect for a first date—affordable, cozy, and made for sharing stories over shared plates.",
       "time": 1745263261,
       "translated": false
     },
@@ -579,7 +579,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUHUoymr4fH3SwmMONWOo4Bcd-fmIf3wWkYf7ND5BioPJfY33xvQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Izakaya Mew always hits the spot. We ordered from their lunch special and were so impressed! Everything was super fresh, flavorful, and nicely portioned. The prices are very reasonable for the quality you\u2019re getting. The space has a cool, modern vibe with good lighting, and the staff made the whole experience even better with how friendly and attentive they were. I\u2019d definitely recommend checking it out, especially for lunch, their lunch menu is a total win.",
+      "text": "Izakaya Mew always hits the spot. We ordered from their lunch special and were so impressed! Everything was super fresh, flavorful, and nicely portioned. The prices are very reasonable for the quality you’re getting. The space has a cool, modern vibe with good lighting, and the staff made the whole experience even better with how friendly and attentive they were. I’d definitely recommend checking it out, especially for lunch, their lunch menu is a total win.",
       "time": 1745949621,
       "translated": false
     }
@@ -675,13 +675,13 @@
       ],
       "type": "LUNCH",
       "weekday_text": [
-        "Monday: 12:00\u2009\u2013\u20092:15\u202fPM",
-        "Tuesday: 12:00\u2009\u2013\u20092:15\u202fPM",
-        "Wednesday: 12:00\u2009\u2013\u20092:15\u202fPM",
-        "Thursday: 12:00\u2009\u2013\u20092:15\u202fPM",
-        "Friday: 12:00\u2009\u2013\u20092:15\u202fPM",
-        "Saturday: 12:00\u2009\u2013\u20092:15\u202fPM",
-        "Sunday: 12:00\u2009\u2013\u20092:15\u202fPM"
+        "Monday: 12:00 – 2:15 PM",
+        "Tuesday: 12:00 – 2:15 PM",
+        "Wednesday: 12:00 – 2:15 PM",
+        "Thursday: 12:00 – 2:15 PM",
+        "Friday: 12:00 – 2:15 PM",
+        "Saturday: 12:00 – 2:15 PM",
+        "Sunday: 12:00 – 2:15 PM"
       ]
     },
     {
@@ -774,13 +774,13 @@
       ],
       "type": "DINNER",
       "weekday_text": [
-        "Monday: 5:00\u2009\u2013\u20099:30\u202fPM",
-        "Tuesday: 5:00\u2009\u2013\u20099:30\u202fPM",
-        "Wednesday: 5:00\u2009\u2013\u20099:30\u202fPM",
-        "Thursday: 5:00\u2009\u2013\u20099:30\u202fPM",
-        "Friday: 5:00\u2009\u2013\u200910:30\u202fPM",
-        "Saturday: 4:30\u2009\u2013\u200910:30\u202fPM",
-        "Sunday: 4:30\u2009\u2013\u20099:30\u202fPM"
+        "Monday: 5:00 – 9:30 PM",
+        "Tuesday: 5:00 – 9:30 PM",
+        "Wednesday: 5:00 – 9:30 PM",
+        "Thursday: 5:00 – 9:30 PM",
+        "Friday: 5:00 – 10:30 PM",
+        "Saturday: 4:30 – 10:30 PM",
+        "Sunday: 4:30 – 9:30 PM"
       ]
     }
   ],
@@ -803,5 +803,37 @@
   "vicinity": "53 W 35th St, New York",
   "website": "http://mewnyc.com/",
   "wheelchair_accessible_entrance": false,
-  "business_status_checked_at": "2026-10-03T20:05:20.900747+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:20.900747+00:00",
+  "emails": [
+    "mew.manhattan@handhospitality.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:05.857452+00:00",
+    "outcome": "found",
+    "sources": {
+      "mew.manhattan@handhospitality.com": [
+        "http://mewnyc.com/mew35contact"
+      ]
+    },
+    "pages": [
+      {
+        "url": "http://mewnyc.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "http://mewnyc.com/mew35contact",
+        "status": "ok",
+        "emails": [
+          "mew.manhattan@handhospitality.com"
+        ]
+      },
+      {
+        "url": "http://mewnyc.com/about",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

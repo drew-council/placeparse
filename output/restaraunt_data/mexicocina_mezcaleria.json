@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:30 PM",
+      "Saturday: 9:00 AM – 11:30 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
     ]
   },
   "delivery": true,
@@ -268,13 +268,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:30 PM",
+      "Saturday: 9:00 AM – 11:30 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
     ]
   },
   "photos": [
@@ -377,7 +377,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKtbjnXWXQTRfuxhtgDw1f__-F3GprKpPoQPVmOFoV8Egee5kK=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in the last week",
-      "text": "I went here yesterday and ordered the chips and guacamole, 3 birria tacos, and a horchata. The guacamole was perfectly seasoned and would say it\u2019s a good size for a party of 2-4 people to share. The horchata was sweet & refreshing during yesterday\u2019s heat. The birria tacos were $16 and their consomm\u00e9 was delicious. This place was very good & would recommend.",
+      "text": "I went here yesterday and ordered the chips and guacamole, 3 birria tacos, and a horchata. The guacamole was perfectly seasoned and would say it’s a good size for a party of 2-4 people to share. The horchata was sweet & refreshing during yesterday’s heat. The birria tacos were $16 and their consommé was delicious. This place was very good & would recommend.",
       "time": 1750708560,
       "translated": false
     },
@@ -401,7 +401,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3ZOfvsCfv-4AIGWKIJE9zwKHAEQ0thCs_qsRb7Izi8ZnypQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 years ago",
-      "text": "Second time visiting this place and this experience was better. I\u2019ve had the steak nachos both times and it was TOP TIER. I ordered the cecina flautas and it was better than most.\nThe burrito was prepared excellently, specify that you don\u2019t want it cut in half. It takes away from the whole experience.\nOverall, 10/10 * chefs kiss*",
+      "text": "Second time visiting this place and this experience was better. I’ve had the steak nachos both times and it was TOP TIER. I ordered the cecina flautas and it was better than most.\nThe burrito was prepared excellently, specify that you don’t want it cut in half. It takes away from the whole experience.\nOverall, 10/10 * chefs kiss*",
       "time": 1686444427,
       "translated": false
     },
@@ -413,7 +413,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVODms323cw4841CxWRDizQhq6eusGPqH53TJkGx6WO5-LJtv5=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "4 years ago",
-      "text": "Be forewarned that the place is super small, but I think it\u2019s worth it if you want good drinks. The server is actually the one preparing the drinks and he does a great job managing both the customers and the bar. The food can be a little better in terms of flavor, but overall it\u2019s a good date spot.",
+      "text": "Be forewarned that the place is super small, but I think it’s worth it if you want good drinks. The server is actually the one preparing the drinks and he does a great job managing both the customers and the bar. The food can be a little better in terms of flavor, but overall it’s a good date spot.",
       "time": 1619986113,
       "translated": false
     },
@@ -425,7 +425,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPky_rs_1aWDRD7lERx-5YPDJnEIBj6reoSeI8Gx34xN0MAw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "a month ago",
-      "text": "I have ordered from here COUNTLESS times through uber eats. Today, I decided to order directly through their website and after an hour of waiting my order was suddenly canceled by this resturant. The DELIVERY was supposed to be through doordash after I ordered almost $100 worth of food so I was notified to call the resturant which I did. I called and they claimed to not have had an order from me and they told me to call doordash which I did but since the order wasn\u2019t through doordash only the delivery they had no trace of the order. I called the resturant back and they refused to give a refund although the order had been canceled BY them.\n\nTerrible customer service; hands down the worst I\u2019ve ever seen in my life to refuse to give a customer money back for something they never received. Will never and I mean NEVER give them a dime again after this.\n\nIf I could give 0 stars, I would.",
+      "text": "I have ordered from here COUNTLESS times through uber eats. Today, I decided to order directly through their website and after an hour of waiting my order was suddenly canceled by this resturant. The DELIVERY was supposed to be through doordash after I ordered almost $100 worth of food so I was notified to call the resturant which I did. I called and they claimed to not have had an order from me and they told me to call doordash which I did but since the order wasn’t through doordash only the delivery they had no trace of the order. I called the resturant back and they refused to give a refund although the order had been canceled BY them.\n\nTerrible customer service; hands down the worst I’ve ever seen in my life to refuse to give a customer money back for something they never received. Will never and I mean NEVER give them a dime again after this.\n\nIf I could give 0 stars, I would.",
       "time": 1747440140,
       "translated": false
     }
@@ -521,13 +521,13 @@
       ],
       "type": "DELIVERY",
       "weekday_text": [
-        "Monday: 9:00\u2009\u2013\u200910:45\u202fAM",
-        "Tuesday: 9:00\u2009\u2013\u200910:45\u202fAM",
-        "Wednesday: 9:00\u2009\u2013\u200910:45\u202fAM",
-        "Thursday: 9:00\u202fAM\u2009\u2013\u200910:45\u202fPM",
-        "Friday: 9:00\u202fAM\u2009\u2013\u200911:45\u202fPM",
-        "Saturday: 9:00\u2009\u2013\u200911:45\u202fAM",
-        "Sunday: 9:00\u202fAM\u2009\u2013\u200910:45\u202fPM"
+        "Monday: 9:00 – 10:45 AM",
+        "Tuesday: 9:00 – 10:45 AM",
+        "Wednesday: 9:00 – 10:45 AM",
+        "Thursday: 9:00 AM – 10:45 PM",
+        "Friday: 9:00 AM – 11:45 PM",
+        "Saturday: 9:00 – 11:45 AM",
+        "Sunday: 9:00 AM – 10:45 PM"
       ]
     }
   ],
@@ -554,8 +554,61 @@
   "website": "http://mexicocinanyc.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "mexicocinabny@gmail.com",
-    "email@example.com"
+    "email@example.com",
+    "mexicocinabny@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:39.013605+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:39.013605+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:24.757257+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://mexicocinanyc.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://mexicocinanyc.com/contact-us/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://mexicocinanyc.com/about-us/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://mexicocinanyc.com/reservations/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://mexicocinanyc.com/join-a-growing-team-with-a-love-for-food/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://mexicocinanyc.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://mexicocinanyc.com/contact-us/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://mexicocinanyc.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://mexicocinanyc.com/contact-us/",
+      "https://mexicocinanyc.com/join-a-growing-team-with-a-love-for-food/"
+    ],
+    "browser_checked_at": "2026-10-03T22:10:13.400196+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

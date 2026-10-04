@@ -168,13 +168,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Tuesday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Wednesday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Thursday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Friday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM"
+      "Monday: 5:30 PM – 1:00 AM",
+      "Tuesday: 5:30 PM – 1:00 AM",
+      "Wednesday: 5:30 PM – 1:00 AM",
+      "Thursday: 5:30 PM – 1:00 AM",
+      "Friday: 5:30 PM – 1:00 AM",
+      "Saturday: 5:30 PM – 1:00 AM",
+      "Sunday: 5:30 PM – 1:00 AM"
     ]
   },
   "dine_in": true,
@@ -274,13 +274,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Tuesday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Wednesday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Thursday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Friday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM"
+      "Monday: 5:30 PM – 1:00 AM",
+      "Tuesday: 5:30 PM – 1:00 AM",
+      "Wednesday: 5:30 PM – 1:00 AM",
+      "Thursday: 5:30 PM – 1:00 AM",
+      "Friday: 5:30 PM – 1:00 AM",
+      "Saturday: 5:30 PM – 1:00 AM",
+      "Sunday: 5:30 PM – 1:00 AM"
     ]
   },
   "photos": [
@@ -382,7 +382,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaqB1RynVLpHZURMJzSCgJivYEf1km74nXyCYGC0u5clgu4a_0=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "TLDR: A little Chinese skewer cart in Chinatown serving up classic skewers at reasonable prices. Lots of options\n\n\ud83d\udcb8 They ONLY take cash\n\n-[LAMB STICK] $2.50\n\ud83d\udc11 Can be made spicy or regular\n\ud83d\udc11 Opted for regular but the lamb itself was seasoned well and grilled perfectly thus keeping the meat juicy\n\n-[SCALLOP WITH BACON] $2.50\n\ud83e\udd53 Similarly to the above, can be made spicy or regular but we opted for regular\n\ud83e\udd53 Scallop is the perfect level of cooked that allows it to be firm with a slight snap\n\ud83e\udd53 The bacon allowed for this to have the perfect flavor profile especially added to whatever they season their skewers with\n\n-[CRISPY STEAM BUN] $2.00\n\ud83c\udf5e It looked a little like toasted marshmallows but was sweet and ever so slightly savory\n\ud83c\udf5e Made for a perfect \"dessert\" skewer",
+      "text": "TLDR: A little Chinese skewer cart in Chinatown serving up classic skewers at reasonable prices. Lots of options\n\n💸 They ONLY take cash\n\n-[LAMB STICK] $2.50\n🐑 Can be made spicy or regular\n🐑 Opted for regular but the lamb itself was seasoned well and grilled perfectly thus keeping the meat juicy\n\n-[SCALLOP WITH BACON] $2.50\n🥓 Similarly to the above, can be made spicy or regular but we opted for regular\n🥓 Scallop is the perfect level of cooked that allows it to be firm with a slight snap\n🥓 The bacon allowed for this to have the perfect flavor profile especially added to whatever they season their skewers with\n\n-[CRISPY STEAM BUN] $2.00\n🍞 It looked a little like toasted marshmallows but was sweet and ever so slightly savory\n🍞 Made for a perfect \"dessert\" skewer",
       "time": 1745340559,
       "translated": false
     },
@@ -418,7 +418,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0V12X_j9IUKoiepDb2YQQgXmgfXGRqE9OUeoqRFZ5ocSBdooY=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "This is surprisingly well-seasoned compared to other \u201csuper salty\u201d places I\u2019ve tried at lol. I would recommend eating it right after they grilled it so that it\u2019s hot and fresh. Yummy!",
+      "text": "This is surprisingly well-seasoned compared to other “super salty” places I’ve tried at lol. I would recommend eating it right after they grilled it so that it’s hot and fresh. Yummy!",
       "time": 1743185153,
       "translated": false
     },
@@ -450,5 +450,13 @@
   "user_ratings_total": 246,
   "utc_offset": -240,
   "vicinity": "246 Grand St, New York",
-  "business_status_checked_at": "2026-10-03T20:05:13.110127+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:13.110127+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:54.879897+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

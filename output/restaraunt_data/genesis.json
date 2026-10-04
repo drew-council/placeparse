@@ -142,12 +142,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
       "Sunday: Closed"
     ]
   },
@@ -245,12 +245,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
       "Sunday: Closed"
     ]
   },
@@ -354,7 +354,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxHOu2RFx-Spp3ISxCbFMr8D_QoZVq94XzEb7sG67E_Y3ohQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "a month ago",
-      "text": "The food was very bad and it was so spicy and everything that I bought from them was spicy even and when I open my Mac and cheese this is what it look like and I was so disappointed because it was never like this before. I wouldn\u2019t recommend this place to nobody.",
+      "text": "The food was very bad and it was so spicy and everything that I bought from them was spicy even and when I open my Mac and cheese this is what it look like and I was so disappointed because it was never like this before. I wouldn’t recommend this place to nobody.",
       "time": 1746136446,
       "translated": false
     },
@@ -366,7 +366,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp77NANMfbdtI_egLtTyIxKcrDP2fHQ5l9fvR9Fj0l0xq-LQ=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "a month ago",
-      "text": "Worst Jamaican food I\u2019ve ever tasted, I ordered on Uber eats and big mistake, no way they\u2019re Jamaican.\nWould not order here ever ever again",
+      "text": "Worst Jamaican food I’ve ever tasted, I ordered on Uber eats and big mistake, no way they’re Jamaican.\nWould not order here ever ever again",
       "time": 1747178364,
       "translated": false
     },
@@ -486,12 +486,12 @@
       ],
       "type": "TAKEOUT",
       "weekday_text": [
-        "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Wednesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Friday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
         "Sunday: Closed"
       ]
     }
@@ -516,5 +516,37 @@
   "utc_offset": -240,
   "vicinity": "162-23 Hillside Ave., Jamaica",
   "website": "http://www.genesis1restaurant.com/",
-  "business_status_checked_at": "2026-10-03T20:05:11.762335+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:11.762335+00:00",
+  "emails": [
+    "genesis1rest@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:52.023517+00:00",
+    "outcome": "found",
+    "sources": {
+      "genesis1rest@gmail.com": [
+        "http://www.genesis1restaurant.com/contact/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "http://www.genesis1restaurant.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "http://www.genesis1restaurant.com/contact/",
+        "status": "ok",
+        "emails": [
+          "genesis1rest@gmail.com"
+        ]
+      },
+      {
+        "url": "http://www.genesis1restaurant.com/about-us/",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

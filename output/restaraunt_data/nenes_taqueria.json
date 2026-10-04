@@ -156,13 +156,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 11:00 PM"
     ]
   },
   "delivery": true,
@@ -265,13 +265,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 11:00 PM"
     ]
   },
   "photos": [
@@ -374,7 +374,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITNC2sKmatByQdrBHe95tZdgWNnrVB_BXY1pqUom6Dr7FreQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "a month ago",
-      "text": "The tacos were crispy and meaty, with red onion and cilantro topping. Mmm. The birria portion is small, which worked out well since it\u2019s quite salty. I enjoyed the taco I did not squeeze my lime onto best since the effect, when taken with the soup, was sour. I would eat the tacos again. Mmmm.\n\nThe horchata is so thick and creamy, with strong rice flavor which I love. It was too sweet for me.\n\nThe store is beautiful and I loved sitting there while I ate. I enjoyed the water cooler. I do not believe there to be a bathroom.",
+      "text": "The tacos were crispy and meaty, with red onion and cilantro topping. Mmm. The birria portion is small, which worked out well since it’s quite salty. I enjoyed the taco I did not squeeze my lime onto best since the effect, when taken with the soup, was sour. I would eat the tacos again. Mmmm.\n\nThe horchata is so thick and creamy, with strong rice flavor which I love. It was too sweet for me.\n\nThe store is beautiful and I loved sitting there while I ate. I enjoyed the water cooler. I do not believe there to be a bathroom.",
       "time": 1746947643,
       "translated": false
     },
@@ -398,7 +398,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNAbIMQevWqYSN5BmCXNUfPlvckQbZzMaFiQHBa2Ws5zV40eqt=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "2 weeks ago",
-      "text": "A good little taco shop. The birria is good and the tortillas are fresh, the food is made to order in front of you. Slightly Americanized and a little messy, but I enjoyed it and I\u2019d be happy to go back!",
+      "text": "A good little taco shop. The birria is good and the tortillas are fresh, the food is made to order in front of you. Slightly Americanized and a little messy, but I enjoyed it and I’d be happy to go back!",
       "time": 1749916826,
       "translated": false
     },
@@ -410,7 +410,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXWSDNE4u-ECN_kiSqERCoLYEg8944BSwCooBsnrBevlJlF2Q=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "There weren\u2019t a lot of seatings and no bathroom I\u2019m pretty sure\u2026 place is really small but can\u2019t wait for it to expand! Food is really good I got birria pizza ($27 I believe ) and some drinks\u2026It was SO GOOD and BIG in portion. The pizza was filled with all the ingredients! Definitely WORTH the money! They also provide napkins,lemon,jalapenos, ice water and more on the side! Will def go back!",
+      "text": "There weren’t a lot of seatings and no bathroom I’m pretty sure… place is really small but can’t wait for it to expand! Food is really good I got birria pizza ($27 I believe ) and some drinks…It was SO GOOD and BIG in portion. The pizza was filled with all the ingredients! Definitely WORTH the money! They also provide napkins,lemon,jalapenos, ice water and more on the side! Will def go back!",
       "time": 1744145670,
       "translated": false
     },
@@ -422,7 +422,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdGFeJPL5zrN3WNgeXSS-hCE2wkeT5W3HfJnOSJuY44pczi0hA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "i love nenes, their quesadilla is straight up the best thing ive put in my mouth. Every time i\u2019m remotely close to them i find an excuse to get one and add a taco for good measure. They said their tacos were chingones and bro did not lied, nenes was cooking fr. Love and nothing else",
+      "text": "i love nenes, their quesadilla is straight up the best thing ive put in my mouth. Every time i’m remotely close to them i find an excuse to get one and add a taco for good measure. They said their tacos were chingones and bro did not lied, nenes was cooking fr. Love and nothing else",
       "time": 1743124980,
       "translated": false
     }
@@ -444,5 +444,26 @@
   "utc_offset": -240,
   "vicinity": "660 Degraw St, Brooklyn",
   "website": "https://nenestaqueria.com/",
-  "business_status_checked_at": "2026-10-03T20:05:45.882781+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:45.882781+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:34.114784+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://nenestaqueria.com/",
+        "status": "SSLError",
+        "emails": []
+      },
+      {
+        "url": "https://www.totaladblock.com/deal/me",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:10:23.118567+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

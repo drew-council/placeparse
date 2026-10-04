@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
     ]
   },
   "dine_in": true,
@@ -262,13 +262,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
     ]
   },
   "photos": [
@@ -370,7 +370,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIdOrjvcg9vO1limgGlOEO3liiiYhRirvdKaxBXbme9x4y9g8=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "cute cafe! great spot to work remotely or hang out with friends. there\u2019s some tables outside to enjoy on a nice day too. i don\u2019t like my coffee very sweet so my go-to is the black sesame latte: nutty & delicious (also the best one i can find in the area). i\u2019m a big fan of their coconut banana cookie they have available by the register too\u2014definitely have it warmed up! i absolutely recommend this place to anyone seeking a cafe with a balance of both specialty and typical options for drinks/treats. there\u2019s something for everyone!",
+      "text": "cute cafe! great spot to work remotely or hang out with friends. there’s some tables outside to enjoy on a nice day too. i don’t like my coffee very sweet so my go-to is the black sesame latte: nutty & delicious (also the best one i can find in the area). i’m a big fan of their coconut banana cookie they have available by the register too—definitely have it warmed up! i absolutely recommend this place to anyone seeking a cafe with a balance of both specialty and typical options for drinks/treats. there’s something for everyone!",
       "time": 1745534916,
       "translated": false
     },
@@ -382,7 +382,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEJfIF8Fp5LJ_U-z5JuQtfNorV4S6UN_T8W4hsNJMWFFXrJA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "My friend recommended this place, so we came together\u2014and it was such a pleasant and cozy cafe\ud83d\udc97\nEverything she suggested, from the drinks to the pastries, was delicious. I especially loved the ube bun and the sweet talk latte. I also appreciated the decaf and dairy-free milk options. I\u2019ll definitely be back for those!",
+      "text": "My friend recommended this place, so we came together—and it was such a pleasant and cozy cafe💗\nEverything she suggested, from the drinks to the pastries, was delicious. I especially loved the ube bun and the sweet talk latte. I also appreciated the decaf and dairy-free milk options. I’ll definitely be back for those!",
       "time": 1748275554,
       "translated": false
     },
@@ -394,7 +394,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvTM6Gfm88wFOH-hfgGxdYZA5ELn5QA77kevJ461-tIIvh8g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "The atmosphere was very cute and modern, and it had many plants. The worker was very nice bc I was using Apple Pay which we didn\u2019t know how to use and she helped me through it and she even searched it up and stuff. The drinks were very good despite having lots of ice and overall a great place!",
+      "text": "The atmosphere was very cute and modern, and it had many plants. The worker was very nice bc I was using Apple Pay which we didn’t know how to use and she helped me through it and she even searched it up and stuff. The drinks were very good despite having lots of ice and overall a great place!",
       "time": 1750440674,
       "translated": false
     },
@@ -406,7 +406,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWr0wBhd55uLh-UKZqXSvaYJLladi63YXTMnqX1qxED9iWYNh7=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "A cozy cafe with minimalistic and chic vibe? This is it. The coffee and matcha here is absolutely incredible! Absolutely in love with the Vietnamese coffee, blueberry matcha, purple bun and honey garlic toast! Can\u2019t wait to go back again to try their other coffees and drinks! \ud83e\udef6\ud83d\ude3b",
+      "text": "A cozy cafe with minimalistic and chic vibe? This is it. The coffee and matcha here is absolutely incredible! Absolutely in love with the Vietnamese coffee, blueberry matcha, purple bun and honey garlic toast! Can’t wait to go back again to try their other coffees and drinks! 🫶😻",
       "time": 1750268653,
       "translated": false
     },
@@ -418,7 +418,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvCBdymu4r5iXIYJWzcwxVQ7bQKsWX60p5ylLNLcPjGtRQKB9f=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "Yall... I tried a new local place with a friend. I can't recommend this place enough.\n\nWe had the Tiramisu Cr\u00e8me Croffle:\nMascarpone cr\u00e8me infused with Vietnamese coffee, chocolate powder, and chocolate shavings. It is croissant dough cooked in a waffle iron. It was soooo good! It's not super sweet but full of flavor!\n\nI had the Lychee Sparkling Lemonade:\nLychee sparkling lemonade. It was so refreshing, and the flavor was super good.\n\nMy friend had the Sugar Crunch Latte:\nIced caramel latte topped with Korean-style golden toffee.\n\nThis place is owned by a friend of a friend, and I am glad we both go to try it! Please support this local spot. Everyone was so friendly and the atmosphere was nice as well!",
+      "text": "Yall... I tried a new local place with a friend. I can't recommend this place enough.\n\nWe had the Tiramisu Crème Croffle:\nMascarpone crème infused with Vietnamese coffee, chocolate powder, and chocolate shavings. It is croissant dough cooked in a waffle iron. It was soooo good! It's not super sweet but full of flavor!\n\nI had the Lychee Sparkling Lemonade:\nLychee sparkling lemonade. It was so refreshing, and the flavor was super good.\n\nMy friend had the Sugar Crunch Latte:\nIced caramel latte topped with Korean-style golden toffee.\n\nThis place is owned by a friend of a friend, and I am glad we both go to try it! Please support this local spot. Everyone was so friendly and the atmosphere was nice as well!",
       "time": 1749418842,
       "translated": false
     }
@@ -514,13 +514,13 @@
       ],
       "type": "KITCHEN",
       "weekday_text": [
-        "Monday: 8:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-        "Tuesday: 8:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-        "Wednesday: 8:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-        "Thursday: 8:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-        "Friday: 8:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-        "Saturday: 8:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-        "Sunday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM"
+        "Monday: 8:00 AM – 7:30 PM",
+        "Tuesday: 8:00 AM – 7:30 PM",
+        "Wednesday: 8:00 AM – 7:30 PM",
+        "Thursday: 8:00 AM – 7:30 PM",
+        "Friday: 8:00 AM – 7:30 PM",
+        "Saturday: 8:00 AM – 7:30 PM",
+        "Sunday: 8:00 AM – 5:30 PM"
       ]
     }
   ],
@@ -543,8 +543,41 @@
   "vicinity": "2008 Creekside Landing Dr, Apex",
   "website": "https://www.sweettalkcafenc.com/",
   "emails": [
-    "sweettalkcafenc@gmail.com",
-    "sweettalkcafe@gmail.com"
+    "sweettalkcafe@gmail.com",
+    "sweettalkcafenc@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:12.386036+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:12.386036+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:01.237976+00:00",
+    "outcome": "found",
+    "sources": {
+      "sweettalkcafe@gmail.com": [
+        "https://www.sweettalkcafenc.com/",
+        "https://www.sweettalkcafenc.com/joinourteam"
+      ],
+      "sweettalkcafenc@gmail.com": [
+        "https://www.sweettalkcafenc.com/",
+        "https://www.sweettalkcafenc.com/joinourteam"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.sweettalkcafenc.com/",
+        "status": "ok",
+        "emails": [
+          "sweettalkcafe@gmail.com",
+          "sweettalkcafenc@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.sweettalkcafenc.com/joinourteam",
+        "status": "ok",
+        "emails": [
+          "sweettalkcafe@gmail.com",
+          "sweettalkcafenc@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

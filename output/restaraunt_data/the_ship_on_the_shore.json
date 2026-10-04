@@ -1,0 +1,69 @@
+{
+  "adr_address": "<span class=\"street-address\">24-26 Shore</span>, <span class=\"extended-address\">Leith</span>, <span class=\"locality\">Edinburgh</span> <span class=\"postal-code\">EH6 6QN</span>, <span class=\"country-name\">UK</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "24-26 Shore, Leith, Edinburgh EH6 6QN, UK",
+  "formatted_phone_number": "0131 555 0409",
+  "geometry": {
+    "location": {
+      "lat": 55.97661919999999,
+      "lng": -3.1693069
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 55.9779600802915,
+        "lng": -3.168059619708499
+      },
+      "southwest": {
+        "lat": 55.9752621197085,
+        "lng": -3.170757580291502
+      }
+    }
+  },
+  "international_phone_number": "+44 131 555 0409",
+  "name": "The Ship on The Shore",
+  "place_id": "ChIJd9qq9wS4h0gRPCl3pJsttBg",
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=1780097899220642108",
+  "website": "https://www.theshipontheshore.co.uk/",
+  "details_checked_at": "2026-10-03T21:59:14.286237+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:14.286237+00:00",
+  "emails": [
+    "seafood@theshipontheshore.co.uk"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:28.763683+00:00",
+    "outcome": "found",
+    "sources": {
+      "seafood@theshipontheshore.co.uk": [
+        "https://www.theshipontheshore.co.uk/",
+        "https://www.theshipontheshore.co.uk/reservations/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.theshipontheshore.co.uk/",
+        "status": "ok",
+        "emails": [
+          "seafood@theshipontheshore.co.uk"
+        ]
+      },
+      {
+        "url": "https://www.theshipontheshore.co.uk/reservations/",
+        "status": "ok",
+        "emails": [
+          "seafood@theshipontheshore.co.uk"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.theshipontheshore.co.uk/",
+      "https://www.theshipontheshore.co.uk/reservations/"
+    ]
+  }
+}

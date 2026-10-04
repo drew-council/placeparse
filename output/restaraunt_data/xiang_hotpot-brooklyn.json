@@ -169,13 +169,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Tuesday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Wednesday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Thursday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Friday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM"
+      "Monday: 12:00 PM – 1:00 AM",
+      "Tuesday: 12:00 PM – 1:00 AM",
+      "Wednesday: 12:00 PM – 1:00 AM",
+      "Thursday: 12:00 PM – 1:00 AM",
+      "Friday: 12:00 PM – 1:00 AM",
+      "Saturday: 12:00 PM – 1:00 AM",
+      "Sunday: 12:00 PM – 1:00 AM"
     ]
   },
   "delivery": true,
@@ -282,13 +282,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Tuesday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Wednesday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Thursday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Friday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM"
+      "Monday: 12:00 PM – 1:00 AM",
+      "Tuesday: 12:00 PM – 1:00 AM",
+      "Wednesday: 12:00 PM – 1:00 AM",
+      "Thursday: 12:00 PM – 1:00 AM",
+      "Friday: 12:00 PM – 1:00 AM",
+      "Saturday: 12:00 PM – 1:00 AM",
+      "Sunday: 12:00 PM – 1:00 AM"
     ]
   },
   "photos": [
@@ -391,7 +391,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7SDTfZhM3dbVd66i8hHqPrrzTttwN-KG6vo4UMt6I8EyjeAT4OQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "This restaurant has a cool and stylish interior that makes it a great place to relax and enjoy a meal.Of course, the highlight is the food\u2014everything I\u2019ve tried has been absolutely delicious.\nTo top it all off, the staff are incredibly kind and attentive. They go out of their way to make sure you feel welcome and have everything you need. Their friendly service makes the dining experience even more enjoyable. I highly recommend checking this place out!\n\nIf you're having trouble booking an appointment online, don\u2019t worry\u2014just give them a call! There's a good chance they'll be able to fit you in.",
+      "text": "This restaurant has a cool and stylish interior that makes it a great place to relax and enjoy a meal.Of course, the highlight is the food—everything I’ve tried has been absolutely delicious.\nTo top it all off, the staff are incredibly kind and attentive. They go out of their way to make sure you feel welcome and have everything you need. Their friendly service makes the dining experience even more enjoyable. I highly recommend checking this place out!\n\nIf you're having trouble booking an appointment online, don’t worry—just give them a call! There's a good chance they'll be able to fit you in.",
       "time": 1742696993,
       "translated": false
     },
@@ -403,7 +403,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaY7pg6j2nKeKNaSJQcv05lUU0INxl3qmL75n-cu-x9H6InA=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "2 months ago",
-      "text": "Unfortunately, the service at this restaurant was really disappointing. One of the managers noticed I spoke Chinese and kept trying to push me to top up money on their curry card\u2014I wasn\u2019t really interested, but I ended up being pressured into adding $200. That basically forced me to come back again just to use the credit.\n\nThe second visit wasn\u2019t any better. I ordered a larger meal with more meat, but it took over an hour for the food to arrive. The restaurant wasn\u2019t even busy at the time\u2014only a few tables were seated, and most of the staff seemed to be on break. I only received my food after asking multiple times and reminding the staff to check. The checkout process also felt disorganized and awkward.\n\nThe staff behavior was honestly very strange and unprofessional overall.\n\nThat said, the one thing I always enjoy here is the dessert. Every time I come for hot pot, I make sure to order it\u2014the desserts are absolutely delicious and beautifully presented. It\u2019s the only reason I\u2019d even consider returning.",
+      "text": "Unfortunately, the service at this restaurant was really disappointing. One of the managers noticed I spoke Chinese and kept trying to push me to top up money on their curry card—I wasn’t really interested, but I ended up being pressured into adding $200. That basically forced me to come back again just to use the credit.\n\nThe second visit wasn’t any better. I ordered a larger meal with more meat, but it took over an hour for the food to arrive. The restaurant wasn’t even busy at the time—only a few tables were seated, and most of the staff seemed to be on break. I only received my food after asking multiple times and reminding the staff to check. The checkout process also felt disorganized and awkward.\n\nThe staff behavior was honestly very strange and unprofessional overall.\n\nThat said, the one thing I always enjoy here is the dessert. Every time I come for hot pot, I make sure to order it—the desserts are absolutely delicious and beautifully presented. It’s the only reason I’d even consider returning.",
       "time": 1743741247,
       "translated": false
     },
@@ -415,7 +415,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhcW1rVeTONyO6ofD6E0kXTxnZywPGT-763ztjrLpIl2oZ8O1L=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "If you\u2019re craving authentic hotpot, Xiang Hotpot is the place to go! The broth is rich and flavorful, with plenty of options to customize your meal just the way you like it.\n\nThey offer a great selection of high-quality meats, fresh seafood, and a variety of vegetables, so you can mix and match to your heart\u2019s content. The sauce bar is also a highlight\u2014you can create your own dipping sauce for the perfect flavor combo.\n\nWhat I love the most is the spicy broth\u2014it has just the right amount of heat without being overwhelming. But if you\u2019re not into spicy food, their mild broths are just as delicious.\n\nOn top of that, the servers are incredibly friendly and attentive, making the whole experience even better! Plus, if you sign up for their membership program and load money onto your account, you can enjoy a free dessert\u2014so I highly recommend signing up!\n\nOverall, Xiang Hotpot is a fantastic spot for a fun and satisfying meal, especially if you\u2019re dining with a group. Definitely a must-visit for hotpot lovers!",
+      "text": "If you’re craving authentic hotpot, Xiang Hotpot is the place to go! The broth is rich and flavorful, with plenty of options to customize your meal just the way you like it.\n\nThey offer a great selection of high-quality meats, fresh seafood, and a variety of vegetables, so you can mix and match to your heart’s content. The sauce bar is also a highlight—you can create your own dipping sauce for the perfect flavor combo.\n\nWhat I love the most is the spicy broth—it has just the right amount of heat without being overwhelming. But if you’re not into spicy food, their mild broths are just as delicious.\n\nOn top of that, the servers are incredibly friendly and attentive, making the whole experience even better! Plus, if you sign up for their membership program and load money onto your account, you can enjoy a free dessert—so I highly recommend signing up!\n\nOverall, Xiang Hotpot is a fantastic spot for a fun and satisfying meal, especially if you’re dining with a group. Definitely a must-visit for hotpot lovers!",
       "time": 1741316748,
       "translated": false
     },
@@ -427,7 +427,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUVvWjOHivALAK1JJ6cP6QEux5ASPvgeVhsc0F7aX-oRYmpqxs=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "I was impressed! Let\u2019s start from the service as simple as they solved the obvious problem that most hot pot and bbq restaurants have been experiencing but most of them don\u2019t care enough to do anything to create a better experience for customers\u2014it\u2019s the stinky jacket problem! The last time we went to a hot pot restaurant in other state in the US, we ended up spending over $50 to have our winter coats cleaned. So the first thing after we arrived, right away they asked us to keep our jackets in a big plastic bag that was tugged underneath the side table next to us which was brilliant!\n\nNow, let\u2019s talk about food and how simple and easy it was to place orders. They gave us a tablet that we can place orders of whatever in the selection and whenever we want. The selection has many interesting and delicious items that made me want to order many of them to try.\n\nWe had 2 different broths; pork bone broth and the spicy popular broth. The pork bone broth was absolutely flavorful. The spicy was good but I still prefer the simple umami broth. The hot pot items were fresh and delicious. We were quite surprised how much we enjoyed the sashimi plate (non-hot pot item) very much. It was fresh with a decent quality.\n\nWe appreciate the little thoughtful services they have around the restaurant. Absolutely lovely!\n\nWe will be back again soon!",
+      "text": "I was impressed! Let’s start from the service as simple as they solved the obvious problem that most hot pot and bbq restaurants have been experiencing but most of them don’t care enough to do anything to create a better experience for customers—it’s the stinky jacket problem! The last time we went to a hot pot restaurant in other state in the US, we ended up spending over $50 to have our winter coats cleaned. So the first thing after we arrived, right away they asked us to keep our jackets in a big plastic bag that was tugged underneath the side table next to us which was brilliant!\n\nNow, let’s talk about food and how simple and easy it was to place orders. They gave us a tablet that we can place orders of whatever in the selection and whenever we want. The selection has many interesting and delicious items that made me want to order many of them to try.\n\nWe had 2 different broths; pork bone broth and the spicy popular broth. The pork bone broth was absolutely flavorful. The spicy was good but I still prefer the simple umami broth. The hot pot items were fresh and delicious. We were quite surprised how much we enjoyed the sashimi plate (non-hot pot item) very much. It was fresh with a decent quality.\n\nWe appreciate the little thoughtful services they have around the restaurant. Absolutely lovely!\n\nWe will be back again soon!",
       "time": 1744495920,
       "translated": false
     },
@@ -439,7 +439,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlYV7vF6KfXQId_hsPSy4xj_My5a3jwsqC2faIsG4d7yN4Qw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "3 weeks ago",
-      "text": "Walking into this place you feel like your traveled to China. The decore is if you traveled to small village in China. Theres bench seats like in those old school movies. If you like spicy hotpot this spots for you. They have all you can eat\u2026 the quality of the meets are exceptionally delicious. Once you\u2019re seated and the wait staff shows you how to use the tablet to order. This place once you order does not keep you waiting very long before your food comes out. You spicy broth comes in a teddy bear shaped spicy oil. The Wagyu beef was soft and tender, the crab legs were meaty and great quality. They even have sashimi very fresh. They have aprons for you too so you don\u2019t splashed. There\u2019s a drink station there for you to serve yourself. There\u2019s a desert area and if you pay cash you get a chance to get a prize from the gum-ball machine Easter eggs.",
+      "text": "Walking into this place you feel like your traveled to China. The decore is if you traveled to small village in China. Theres bench seats like in those old school movies. If you like spicy hotpot this spots for you. They have all you can eat… the quality of the meets are exceptionally delicious. Once you’re seated and the wait staff shows you how to use the tablet to order. This place once you order does not keep you waiting very long before your food comes out. You spicy broth comes in a teddy bear shaped spicy oil. The Wagyu beef was soft and tender, the crab legs were meaty and great quality. They even have sashimi very fresh. They have aprons for you too so you don’t splashed. There’s a drink station there for you to serve yourself. There’s a desert area and if you pay cash you get a chance to get a prize from the gum-ball machine Easter eggs.",
       "time": 1748836085,
       "translated": false
     }
@@ -535,13 +535,13 @@
       ],
       "type": "KITCHEN",
       "weekday_text": [
-        "Monday: 12:00\u2009\u2013\u200911:50\u202fPM",
-        "Tuesday: 12:00\u2009\u2013\u200911:50\u202fPM",
-        "Wednesday: 12:00\u2009\u2013\u200911:50\u202fPM",
-        "Thursday: 12:00\u2009\u2013\u200911:50\u202fPM",
-        "Friday: 12:00\u2009\u2013\u200911:50\u202fPM",
-        "Saturday: 12:00\u2009\u2013\u200911:50\u202fPM",
-        "Sunday: 12:00\u2009\u2013\u200911:50\u202fPM"
+        "Monday: 12:00 – 11:50 PM",
+        "Tuesday: 12:00 – 11:50 PM",
+        "Wednesday: 12:00 – 11:50 PM",
+        "Thursday: 12:00 – 11:50 PM",
+        "Friday: 12:00 – 11:50 PM",
+        "Saturday: 12:00 – 11:50 PM",
+        "Sunday: 12:00 – 11:50 PM"
       ]
     }
   ],
@@ -563,5 +563,37 @@
   "utc_offset": -240,
   "vicinity": "5816 Fort Hamilton Pkwy, Brooklyn",
   "website": "https://xianghotpotbrooklyn.shop/",
-  "business_status_checked_at": "2026-10-03T20:06:26.166936+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:26.166936+00:00",
+  "emails": [
+    "localoria.com@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:25.185773+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://xiang-hotpot-brooklyn.localoria.com/",
+        "status": "ok",
+        "emails": [
+          "localoria.com@gmail.com"
+        ]
+      },
+      {
+        "url": "https://xiang-hotpot-brooklyn.localoria.com/",
+        "status": "non_restaurant_email_excluded",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "excluded_sources": {
+      "localoria.com@gmail.com": {
+        "urls": [
+          "https://xiang-hotpot-brooklyn.localoria.com/"
+        ],
+        "reason": "Placeholder, publisher/vendor, or non-restaurant mailbox; withheld from restaurant contact exports."
+      }
+    },
+    "quality_reviewed_at": "2026-10-04T05:58:56.899370+00:00"
+  }
 }

@@ -1,0 +1,91 @@
+{
+  "adr_address": "<span class=\"street-address\">239 E 5th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003-8507</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "239 E 5th St, New York, NY 10003, USA",
+  "formatted_phone_number": "(646) 832-4658",
+  "geometry": {
+    "location": {
+      "lat": 40.72705089999999,
+      "lng": -73.9893101
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7283594302915,
+        "lng": -73.98799056970849
+      },
+      "southwest": {
+        "lat": 40.7256614697085,
+        "lng": -73.99068853029151
+      }
+    }
+  },
+  "international_phone_number": "+1 646-832-4658",
+  "name": "Chubby TAN｜New York",
+  "place_id": "ChIJLzF4vNlZwokRnPwpmyeZM1s",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=6571764676649680028",
+  "website": "https://www.chubbytan.com/",
+  "details_checked_at": "2026-10-03T21:59:19.785492+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:19.785492+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:58.642979+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://chubbytan.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://chubbytan.com/contact-us/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://chubbytan.com/events",
+        "status": "HTTP_404",
+        "emails": []
+      },
+      {
+        "url": "https://chubbytan.com/about-us/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://chubbytan.com/locations/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://chubbytan.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://chubbytan.com/contact-us/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://chubbytan.com/events",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://chubbytan.com/",
+      "https://chubbytan.com/contact-us/",
+      "https://chubbytan.com/about-us/",
+      "https://chubbytan.com/locations/"
+    ],
+    "browser_checked_at": "2026-10-03T22:08:21.830319+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

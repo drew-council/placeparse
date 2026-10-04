@@ -162,13 +162,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:30\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:30\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:30 – 10:00 PM",
+      "Saturday: 12:30 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -271,20 +271,20 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:30\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:30\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:30 – 10:00 PM",
+      "Saturday: 12:30 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "photos": [
     {
       "height": 4032,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/112097179099056187750\">yangyang\u7518</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/112097179099056187750\">yangyang甘</a>"
       ],
       "photo_reference": "ATKogpeJMFBD4XLiwwAM-NHncRy317S22cIk9LFX8nXl7XTpdT0_2ffazZ5jZkny0TMvCG3uilHCWhU7g8kBGVV7k0UYKL6vr-Bv4qoN0mNgzzcyAqAAnhCZeBXa7zqsxFXze53eYehW4EOvSxN9KPU8SCTSUKF6Hf1iCJnphp8Fl7siwKoCExQ0FISrx3zysSzFEMk2ADdta5atXM1Qfyq9cNfSSLuVe9wOfZADVfFDTWxjeT9WqQmr_87r7gRZZVkaUdej6VfF-7pTcviGxZT5agivM0jKgjDtHUrR_fCdkWgXYy7p1L8BGzmuP_sEsWuHIuQrQ1BF_hY3x-OhnUfWRYA3ETWLHI8-DGahETQM-AM-ohmxLe2jWH74-Zd0uUUuG0aSz9M6CMunaYciOcSoRNah5yzC3uZtcaT2XypB5aJSvg",
       "width": 3024
@@ -379,7 +379,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOb433vjF0RI5L3PW0HdFZ8-nlOvRaCGa74z7Px3NJ5aKLRz4ETg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "This place is so good. I\u2019m surprised the ratings aren\u2019t higher. Chicken is so so bomb. Fave was the dark meat combo. Super tender and juicy and the perfect amount of spice while not feeling greasy or heavy at all. Think it\u2019s fried first and then steamed. Cucumber salad and steamed rice are the perfect sides. So delicious and amazing staff. I\u2019ll for sure be back. \ud83e\udd70",
+      "text": "This place is so good. I’m surprised the ratings aren’t higher. Chicken is so so bomb. Fave was the dark meat combo. Super tender and juicy and the perfect amount of spice while not feeling greasy or heavy at all. Think it’s fried first and then steamed. Cucumber salad and steamed rice are the perfect sides. So delicious and amazing staff. I’ll for sure be back. 🥰",
       "time": 1736884214,
       "translated": false
     },
@@ -391,7 +391,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPdvJxcLJv6pBVi3A8j10VfYtgiwkWDG7XEvKWxvLp612oefJM=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Delicious and juicy chicken at reasonable prices. You eat the chicken with your hands with gloves so I might not go there on a date, but it\u2019s great with friends. It\u2019s very small and there\u2019s not many tables. Not sure if they take reservations.",
+      "text": "Delicious and juicy chicken at reasonable prices. You eat the chicken with your hands with gloves so I might not go there on a date, but it’s great with friends. It’s very small and there’s not many tables. Not sure if they take reservations.",
       "time": 1748484760,
       "translated": false
     },
@@ -447,5 +447,13 @@
   "user_ratings_total": 194,
   "utc_offset": -240,
   "vicinity": "190 Bleecker St, New York",
-  "business_status_checked_at": "2026-10-03T20:04:52.605203+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:52.605203+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:20.134165+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

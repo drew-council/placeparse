@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+      "Monday: 11:30 AM – 8:30 PM",
+      "Tuesday: 11:30 AM – 8:30 PM",
+      "Wednesday: 11:30 AM – 8:30 PM",
+      "Thursday: 11:30 AM – 8:30 PM",
+      "Friday: 11:30 AM – 8:30 PM",
+      "Saturday: 11:30 AM – 8:30 PM",
+      "Sunday: 11:30 AM – 8:30 PM"
     ]
   },
   "delivery": true,
@@ -264,13 +264,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+      "Monday: 11:30 AM – 8:30 PM",
+      "Tuesday: 11:30 AM – 8:30 PM",
+      "Wednesday: 11:30 AM – 8:30 PM",
+      "Thursday: 11:30 AM – 8:30 PM",
+      "Friday: 11:30 AM – 8:30 PM",
+      "Saturday: 11:30 AM – 8:30 PM",
+      "Sunday: 11:30 AM – 8:30 PM"
     ]
   },
   "photos": [
@@ -373,7 +373,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7y3ERMlh74HTWrpJ-Bfmc7CRKty2mQrCdQzZ5sr586BmsBQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "4 weeks ago",
-      "text": "Noodle shop with a Google review you get a free drink!\n\nBeef Udon was a bit bitter for my liking. I might just like my beef udon on the sweeter side. They were generous on the beef but it was mostly fat. The egg was an add on for either $2.75 or $2.95, I don\u2019t remember. But the egg flavor was great!",
+      "text": "Noodle shop with a Google review you get a free drink!\n\nBeef Udon was a bit bitter for my liking. I might just like my beef udon on the sweeter side. They were generous on the beef but it was mostly fat. The egg was an add on for either $2.75 or $2.95, I don’t remember. But the egg flavor was great!",
       "time": 1748665401,
       "translated": false
     },
@@ -441,5 +441,36 @@
   "vicinity": "31 W 4th St, New York",
   "website": "https://www.sanukiudonusa.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:06:04.008128+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:04.008128+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:54.394055+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.sanukiudonusa.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.sanukiudonusa.com/contact",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.sanukiudonusa.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.sanukiudonusa.com/contact",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:15.869853+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

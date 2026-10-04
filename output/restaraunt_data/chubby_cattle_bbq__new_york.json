@@ -1,0 +1,93 @@
+{
+  "adr_address": "<span class=\"street-address\">206 Spring St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012-3559</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "206 Spring St, New York, NY 10012, USA",
+  "formatted_phone_number": "(646) 594-9742",
+  "geometry": {
+    "location": {
+      "lat": 40.7251549,
+      "lng": -74.00384079999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7266192302915,
+        "lng": -74.00239661970848
+      },
+      "southwest": {
+        "lat": 40.7239212697085,
+        "lng": -74.0050945802915
+      }
+    }
+  },
+  "international_phone_number": "+1 646-594-9742",
+  "name": "Chubby Cattle BBQ | New York",
+  "place_id": "ChIJ82C5uURZwokRgCm9U5LSEjk",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=4112580935654648192",
+  "website": "https://www.chubbycattle.com/project/chubby-cattle-new-york/",
+  "details_checked_at": "2026-10-03T21:59:18.980295+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:18.980295+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:58.567360+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.chubbycattle.com/project/chubby-cattle-new-york/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.chubbycattle.com/contact-us/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.chubbycattle.com/about-us/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.chubbycattle.com/locations/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.chubbycattle.com/about-us/page/2/?et_blog",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.chubbycattle.com/chubby-cattle-to-open-a-location-on-coit-road-in-plano/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.chubbycattle.com/project/chubby-cattle-new-york/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.chubbycattle.com/contact-us/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.chubbycattle.com/about-us/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.chubbycattle.com/contact-us/"
+    ],
+    "browser_checked_at": "2026-10-03T22:08:18.898323+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

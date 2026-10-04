@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+      "Monday: 9:00 AM – 9:00 PM",
+      "Tuesday: 9:00 AM – 9:00 PM",
+      "Wednesday: 9:00 AM – 9:00 PM",
+      "Thursday: 9:00 AM – 9:00 PM",
+      "Friday: 9:00 AM – 9:00 PM",
+      "Saturday: 9:00 AM – 9:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
     ]
   },
   "delivery": true,
@@ -264,13 +264,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+      "Monday: 9:00 AM – 9:00 PM",
+      "Tuesday: 9:00 AM – 9:00 PM",
+      "Wednesday: 9:00 AM – 9:00 PM",
+      "Thursday: 9:00 AM – 9:00 PM",
+      "Friday: 9:00 AM – 9:00 PM",
+      "Saturday: 9:00 AM – 9:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
     ]
   },
   "photos": [
@@ -420,7 +420,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEn17-RQ7DqpQnrdl44rvDcRoAJ6i4jLB-XjeQq3XQg4m8-ryP=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "9 months ago",
-      "text": "I was visiting from out of town and decided to drop in while I was in the neighborhood. Worth pointing out that as of Sep 2024 they have a small dine-in area (there are a handful of Sri Lankan grocers in the area but fewer sit down options). The owner was super welcoming and recommended a lamprais, which I had with mutton. Portion sizes are huge - lamprais was the size of my face - and the mutton really juicy. I thought the fried eggplant (?) also complemented the dish really well with some added sweetness.\n\nAlso chatted with the owner a little bit about the Sri Lankan community here on SI which numbers about 7,000. Will have to drop in again next time I\u2019m in NY!",
+      "text": "I was visiting from out of town and decided to drop in while I was in the neighborhood. Worth pointing out that as of Sep 2024 they have a small dine-in area (there are a handful of Sri Lankan grocers in the area but fewer sit down options). The owner was super welcoming and recommended a lamprais, which I had with mutton. Portion sizes are huge - lamprais was the size of my face - and the mutton really juicy. I thought the fried eggplant (?) also complemented the dish really well with some added sweetness.\n\nAlso chatted with the owner a little bit about the Sri Lankan community here on SI which numbers about 7,000. Will have to drop in again next time I’m in NY!",
       "time": 1726592914,
       "translated": false
     }
@@ -516,13 +516,13 @@
       ],
       "type": "TAKEOUT",
       "weekday_text": [
-        "Monday: 10:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
-        "Tuesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-        "Wednesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-        "Thursday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-        "Friday: 11:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
-        "Saturday: 11:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-        "Sunday: 11:30\u202fAM\u2009\u2013\u20097:30\u202fPM"
+        "Monday: 10:30 AM – 7:30 PM",
+        "Tuesday: 11:00 AM – 7:00 PM",
+        "Wednesday: 11:00 AM – 7:00 PM",
+        "Thursday: 11:00 AM – 7:00 PM",
+        "Friday: 11:30 AM – 7:30 PM",
+        "Saturday: 11:00 AM – 7:30 PM",
+        "Sunday: 11:30 AM – 7:30 PM"
       ]
     },
     {
@@ -603,13 +603,13 @@
       ],
       "type": "ONLINE_SERVICE_HOURS",
       "weekday_text": [
-        "Monday: 11:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Tuesday: 11:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
-        "Wednesday: 11:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
-        "Thursday: 11:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
-        "Friday: 11:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Monday: 11:30 AM – 5:00 PM",
+        "Tuesday: 11:30 AM – 7:30 PM",
+        "Wednesday: 11:30 AM – 7:30 PM",
+        "Thursday: 11:30 AM – 7:30 PM",
+        "Friday: 11:30 AM – 7:30 PM",
         "Saturday: Closed",
-        "Sunday: 9:00\u202fAM\u2009\u2013\u20096:30\u202fPM"
+        "Sunday: 9:00 AM – 6:30 PM"
       ]
     }
   ],
@@ -631,5 +631,13 @@
   "user_ratings_total": 153,
   "utc_offset": -240,
   "vicinity": "98 Victory Blvd, Staten Island",
-  "business_status_checked_at": "2026-10-03T20:06:02.056485+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:02.056485+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:51.428222+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

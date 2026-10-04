@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+      "Monday: 11:30 AM – 10:30 PM",
+      "Tuesday: 11:30 AM – 10:30 PM",
+      "Wednesday: 11:30 AM – 10:30 PM",
+      "Thursday: 11:30 AM – 10:30 PM",
+      "Friday: 11:30 AM – 11:00 PM",
+      "Saturday: 11:30 AM – 11:00 PM",
+      "Sunday: 11:30 AM – 10:30 PM"
     ]
   },
   "delivery": true,
@@ -263,13 +263,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+      "Monday: 11:30 AM – 10:30 PM",
+      "Tuesday: 11:30 AM – 10:30 PM",
+      "Wednesday: 11:30 AM – 10:30 PM",
+      "Thursday: 11:30 AM – 10:30 PM",
+      "Friday: 11:30 AM – 11:00 PM",
+      "Saturday: 11:30 AM – 11:00 PM",
+      "Sunday: 11:30 AM – 10:30 PM"
     ]
   },
   "photos": [
@@ -372,7 +372,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUz1KhaK_xhUhi2jahhhDlJgZD29ap6rkicDLeVTdRc69Jp2LKJ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "I love hot pot\ud83d\ude1dand this was my first time visiting this restaurant. I had the yuan-yang pot with tomato and mildly spicy beef tallow broth \u2014 the base was absolutely amazing! \ud83d\udc4d\nAll the ingredients were super fresh and tasted delicious after cooking. The beef tongue was especially tender, not tough at all. \ud83d\udc4fThey also offer a wide variety of dipping sauces. I highly recommend the crispy fried pork and the cucumber salad as side dishes. \ud83e\udd29And the watermelon juice paired perfectly with the hot pot \u2014 such a refreshing combo for summer!\ud83d\udc4f\ud83d\udc4f",
+      "text": "I love hot pot😝and this was my first time visiting this restaurant. I had the yuan-yang pot with tomato and mildly spicy beef tallow broth — the base was absolutely amazing! 👍\nAll the ingredients were super fresh and tasted delicious after cooking. The beef tongue was especially tender, not tough at all. 👏They also offer a wide variety of dipping sauces. I highly recommend the crispy fried pork and the cucumber salad as side dishes. 🤩And the watermelon juice paired perfectly with the hot pot — such a refreshing combo for summer!👏👏",
       "time": 1750382104,
       "translated": false
     },
@@ -396,7 +396,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhzXNCkoy48NZai9GKw6U50xrhbQ1QKUkfAINeCoEWtVHByKVI=s128-c0x00000000-cc-rp-mo-ba7",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Mala Hot Pot surely knows how to bring out the heat in Midtown Manhattan. This bright and clean hot pot spot welcomes you with mouthwatering aromas of bubbling broth and the sound of happy diners dunking in. Customize your broth, ingredients, and drinks right from your phone via their QR Code. Friendly and attentive staffs are constantly checking in to refill your broth and clear plates so you can focus on cooking and enjoying your feast. Don\u2019t miss their signature Nine-Grid Spicy Beef Tallow Broth! This fiery broth is loaded with peppercorns, chillies, herbs, and spices that delivers a knockout punch of bold flavors. Here\u2019s a tip. Cool off with their ultra refreshing homemade iced lemon tea that perfectly balances all that spicy goodness. If their generous portions and top notch quality with reasonable prices are not enough, their weekly specials will sure tempt you.",
+      "text": "Mala Hot Pot surely knows how to bring out the heat in Midtown Manhattan. This bright and clean hot pot spot welcomes you with mouthwatering aromas of bubbling broth and the sound of happy diners dunking in. Customize your broth, ingredients, and drinks right from your phone via their QR Code. Friendly and attentive staffs are constantly checking in to refill your broth and clear plates so you can focus on cooking and enjoying your feast. Don’t miss their signature Nine-Grid Spicy Beef Tallow Broth! This fiery broth is loaded with peppercorns, chillies, herbs, and spices that delivers a knockout punch of bold flavors. Here’s a tip. Cool off with their ultra refreshing homemade iced lemon tea that perfectly balances all that spicy goodness. If their generous portions and top notch quality with reasonable prices are not enough, their weekly specials will sure tempt you.",
       "time": 1744342785,
       "translated": false
     },
@@ -444,9 +444,40 @@
   "website": "https://www.malahotpotnyc.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
     "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
-    "Kevin@malahotpotnyc.com"
+    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "Kevin@malahotpotnyc.com",
+    "kevin@malahotpotnyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:35.935657+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:35.935657+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:19.917717+00:00",
+    "outcome": "found",
+    "sources": {
+      "kevin@malahotpotnyc.com": [
+        "https://www.malahotpotnyc.com/",
+        "https://www.malahotpotnyc.com"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.malahotpotnyc.com/",
+        "status": "ok",
+        "emails": [
+          "kevin@malahotpotnyc.com"
+        ]
+      },
+      {
+        "url": "https://www.malahotpotnyc.com",
+        "status": "ok",
+        "emails": [
+          "kevin@malahotpotnyc.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.malahotpotnyc.com/",
+      "https://www.malahotpotnyc.com"
+    ]
+  }
 }

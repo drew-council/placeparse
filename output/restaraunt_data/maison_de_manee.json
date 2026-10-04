@@ -1,0 +1,57 @@
+{
+  "adr_address": "<span class=\"street-address\">4110-12 34th Ave</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "4110-12 34th Ave, Long Island City, NY 11101, USA",
+  "formatted_phone_number": "(347) 448-6085",
+  "geometry": {
+    "location": {
+      "lat": 40.75605059999999,
+      "lng": -73.91981489999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7574472302915,
+        "lng": -73.91841636970848
+      },
+      "southwest": {
+        "lat": 40.7547492697085,
+        "lng": -73.92111433029149
+      }
+    }
+  },
+  "international_phone_number": "+1 347-448-6085",
+  "name": "Maison de Manee",
+  "place_id": "ChIJpwTxmbxfwokRxo0vObXSGHs",
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=8870071141896523206",
+  "website": "https://www.maisondemaneenyc.com/",
+  "details_checked_at": "2026-10-03T21:59:29.968218+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:29.968218+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:15.212116+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.maisondemaneenyc.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.maisondemaneenyc.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:09:57.889929+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

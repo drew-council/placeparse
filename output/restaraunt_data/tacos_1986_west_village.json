@@ -1,0 +1,86 @@
+{
+  "adr_address": "<span class=\"street-address\">1 Cornelia St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10014</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "1 Cornelia St, New York, NY 10014, USA",
+  "formatted_phone_number": "(332) 322-1986",
+  "geometry": {
+    "location": {
+      "lat": 40.7317888,
+      "lng": -74.0013085
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.73310978029149,
+        "lng": -73.99994206970848
+      },
+      "southwest": {
+        "lat": 40.73041181970849,
+        "lng": -74.0026400302915
+      }
+    }
+  },
+  "international_phone_number": "+1 332-322-1986",
+  "name": "Tacos 1986 West Village",
+  "place_id": "ChIJG4KjIzNZwokRoNPsES4eqaA",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=11576817500350632864",
+  "website": "https://tacos1986.com/westvillage",
+  "details_checked_at": "2026-10-03T21:59:39.463308+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:39.463308+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:25.368237+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://tacos1986.com/westvillage",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://tacos1986.com/contact",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://tacos1986.com/jobs",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://tacos1986.com/about",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://tacos1986.com/locations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://tacos1986.com/westvillage",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://tacos1986.com/contact",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://tacos1986.com/jobs",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:31.123752+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

@@ -157,12 +157,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 4:00\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 4:00\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 11:00 AM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "dine_in": true,
@@ -255,12 +255,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 4:00\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 4:00\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 11:00 AM – 1:00 AM",
+      "Saturday: 11:00 AM – 1:00 AM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -361,7 +361,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIB5g-A1ChxJBd5ejeX38iMthzWLLJQSyWCqtXrtuyJaCUBg-3-=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "in the last week",
-      "text": "I went to La Mala a month ago over the weekend and it was nice! It\u2019s a smaller venue, pretty dark (like you really need the small lamp decor to see the menu), but clean, cute and chic/modern. I sat at the bar and the customer service was great!\n\nThe food was pretty ok. I was recommended the Mexican fries and they were fine. A good portion but not really what I expected. Perfect if you\u2019re about to drink on the strip later in the evening. Also had 2 drinks - spicy watermelon and a margarita. Not very strong but a little pricey in my opinion. But they were good and pretty and definitely worth a try!\n\nA server told me they have great taco deals on Tuesday or Wednesday. Definitely would go back and try the tacos or some other dish!",
+      "text": "I went to La Mala a month ago over the weekend and it was nice! It’s a smaller venue, pretty dark (like you really need the small lamp decor to see the menu), but clean, cute and chic/modern. I sat at the bar and the customer service was great!\n\nThe food was pretty ok. I was recommended the Mexican fries and they were fine. A good portion but not really what I expected. Perfect if you’re about to drink on the strip later in the evening. Also had 2 drinks - spicy watermelon and a margarita. Not very strong but a little pricey in my opinion. But they were good and pretty and definitely worth a try!\n\nA server told me they have great taco deals on Tuesday or Wednesday. Definitely would go back and try the tacos or some other dish!",
       "time": 1750885566,
       "translated": false
     },
@@ -373,7 +373,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxPqxjRAm7kZoCREgoeIVvpw3OYRWDZyknCCN3rcEsPBaG=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "This place is great it\u2019s our second time coming here the drinks are so fun the food is amazing we love the Mexican fries are one of our favorites! Within 20 mins of being here tonight we had two managers stop by the table to make sure we were enjoying everything! Our server Andrea was so sweet and attentive! The service was phenomenal the atmosphere is definitely a vibe! You won\u2019t regret coming here for a meal and some drinks! The free shots were a nice touch too!",
+      "text": "This place is great it’s our second time coming here the drinks are so fun the food is amazing we love the Mexican fries are one of our favorites! Within 20 mins of being here tonight we had two managers stop by the table to make sure we were enjoying everything! Our server Andrea was so sweet and attentive! The service was phenomenal the atmosphere is definitely a vibe! You won’t regret coming here for a meal and some drinks! The free shots were a nice touch too!",
       "time": 1743213495,
       "translated": false
     },
@@ -461,9 +461,9 @@
         "Tuesday: Closed",
         "Wednesday: Closed",
         "Thursday: Closed",
-        "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
-        "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
-        "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+        "Friday: 11:00 AM – 3:00 PM",
+        "Saturday: 11:00 AM – 3:00 PM",
+        "Sunday: 11:00 AM – 3:00 PM"
       ]
     }
   ],
@@ -486,7 +486,27 @@
   "website": "https://lamalamx.com/home/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "Lamalaraleighmanagement@gmail.com"
+    "Lamalaraleighmanagement@gmail.com",
+    "lamalaraleighmanagement@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:29.839209+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:29.839209+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:14.004612+00:00",
+    "outcome": "found",
+    "sources": {
+      "lamalaraleighmanagement@gmail.com": [
+        "https://lamalamx.com/home/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://lamalamx.com/home/",
+        "status": "ok",
+        "emails": [
+          "lamalaraleighmanagement@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

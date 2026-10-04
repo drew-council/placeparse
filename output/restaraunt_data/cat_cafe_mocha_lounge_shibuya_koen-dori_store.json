@@ -31,8 +31,8 @@
       ]
     },
     {
-      "long_name": "1-ch\u014dme",
-      "short_name": "1-ch\u014dme",
+      "long_name": "1-chōme",
+      "short_name": "1-chōme",
       "types": [
         "political",
         "sublocality",
@@ -80,7 +80,7 @@
       ]
     }
   ],
-  "adr_address": "<span class=\"country-name\">Japan</span>, <span class=\"postal-code\">\u3012150-0041</span> <span class=\"region\">Tokyo</span>, <span class=\"street-address\">Shibuya, Jinnan, 1-ch\u014dme\u221216\u2212\uff13 Boule Vard, 5F</span>",
+  "adr_address": "<span class=\"country-name\">Japan</span>, <span class=\"postal-code\">〒150-0041</span> <span class=\"region\">Tokyo</span>, <span class=\"street-address\">Shibuya, Jinnan, 1-chōme−16−３ Boule Vard, 5F</span>",
   "business_status": "OPERATIONAL",
   "curbside_pickup": false,
   "current_opening_hours": {
@@ -172,18 +172,18 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
     ]
   },
   "delivery": false,
   "dine_in": true,
-  "formatted_address": "Japan, \u3012150-0041 Tokyo, Shibuya, Jinnan, 1-ch\u014dme\u221216\u2212\uff13 Boule Vard, 5F",
+  "formatted_address": "Japan, 〒150-0041 Tokyo, Shibuya, Jinnan, 1-chōme−16−３ Boule Vard, 5F",
   "formatted_phone_number": "03-6277-5745",
   "geometry": {
     "location": {
@@ -281,20 +281,20 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
     ]
   },
   "photos": [
     {
       "height": 1602,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/114537896319377976726\">\u732b\u30ab\u30d5\u30a7 MOCHA\uff08\u30e2\u30ab\uff09 \u30e9\u30a6\u30f3\u30b8\u6e0b\u8c37\u516c\u5712\u901a\u308a\u5e97</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/114537896319377976726\">猫カフェ MOCHA（モカ） ラウンジ渋谷公園通り店</a>"
       ],
       "photo_reference": "ATKogpdrywnezz7v905KpkWOPm0MApRiEI8Tqdnu-fQHiV1cG2bII5tlLGV-KtgC0bkICEJuQ7Fynq81iftuypVmebXQD7mHhKbH96R9bgAAkOB2SQ8NaFVBWflUnk9aAtJxuCS8oDePQn6r7CF5ZQdJ3eJ4TBLsw0PtUKZKui7ocx0bVQh6ifL_DVwip415tQyXiI-16rNxGrpT_3Ywdjepj51ryWdqKG9RNbfev7J6NX2vv7OTVt3LlPmv9u3OYGwpGhPIjPCerMtgn32vAgq5njjUdmhxUbHKJ5PkdsFbM8MmjQ",
       "width": 2400
@@ -334,7 +334,7 @@
     {
       "height": 3000,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/107339698862150200500\">Rub\u00e9n Hern\u00e1ndez Chaich\u00edo</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/107339698862150200500\">Rubén Hernández Chaichío</a>"
       ],
       "photo_reference": "ATKogpcp_jvwaN7Z8xxA7SjH2tg1JTI9-po8R7TNePSvRaFwDQM6ucAcGWf1486zgnceju3QCTe1W2NUp-QOQJPxSRJscMwU0Yv632WyvCHeijDAf4GvfK18BTTTAz58r2gwLwPdUuAA1n47mNIb5q4K4q-sovFIXHSUEho4A6gwQql2ykAkAg46mFLec2OTSS-fLzznziGE_M5tj0uocARpUu7cDmBzzDBpNFrY3Nid0kyWDBpzkeAIO9Qg-xbmTlz5ITyjZuFMniQ3reVg9Y8ZWaMipmzGwusg7BcWxJMp7d7E1dwlnb2H2L-iKkfAP6n5qCvBQyNrqMRdghjau7iBciEcZvNBhpJLzDawE5IGu1PWK3KYgeUKxRdQjMMdBshNsxYW7pMrWZ4QkUZRYdx3i778V1tU5unnqAeaGir-8yrGAw",
       "width": 4000
@@ -358,7 +358,7 @@
     {
       "height": 3199,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/114537896319377976726\">\u732b\u30ab\u30d5\u30a7 MOCHA\uff08\u30e2\u30ab\uff09 \u30e9\u30a6\u30f3\u30b8\u6e0b\u8c37\u516c\u5712\u901a\u308a\u5e97</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/114537896319377976726\">猫カフェ MOCHA（モカ） ラウンジ渋谷公園通り店</a>"
       ],
       "photo_reference": "ATKogpeHkG1YAg9B6v1cmvE5islVMAvl300dHoN1OgeKP8XArwnVwK2Z2mSGpKCOzMPBD1wVB45HXhVBZuhA4_ko10Kk7vADUoTYlMVqEd_PEPxN8ox7iWtuboKgKAqwaSr29Zrs-6W6cgx4B6YsrVqZIya6H7J5bralnztmDE9DMoJ56a3Bu8j_GX6tYDbJA8EADizwP5fDtxG_EPHxTI5wvUyaTMIotQJ55D9DthJ3rAXXkf_MTtf3-F0KsVHIW513VaICcPJM0lPqbDclRKYiZz7UxHR3MkGwkuQiElZFUSdyaw",
       "width": 4800
@@ -401,7 +401,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDL7dOhhWS50NjFml-0729mAYDDtKJ9S7tegh291Yf5J83TQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "These cats were so special and sweet. Staff was very helpful, and made the visit smooth even though we don\u2019t speak Japanese. Peaceful, warm atmosphere. Wish we had places like this where I live!!\n\nEdit: I\u2019ve visited three other animal cafes after this one, and none of them were as good (I was even concerned for the animals at one!). This place set the bar high with it cleanliness and how their animals seemed treated. It just really felt like a genuine cafe with cats, rather than a petting zoo. Also it had the best drinks of any of the businesses.",
+      "text": "These cats were so special and sweet. Staff was very helpful, and made the visit smooth even though we don’t speak Japanese. Peaceful, warm atmosphere. Wish we had places like this where I live!!\n\nEdit: I’ve visited three other animal cafes after this one, and none of them were as good (I was even concerned for the animals at one!). This place set the bar high with it cleanliness and how their animals seemed treated. It just really felt like a genuine cafe with cats, rather than a petting zoo. Also it had the best drinks of any of the businesses.",
       "time": 1741420913,
       "translated": false
     },
@@ -425,7 +425,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNXRGuwYyJ_ucw-hCbcFaZbUZYV1dzzyz8DN73s1ZR4HZfnEXC=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "I highly recommend coming here!\nIt\u2019s a good fee and it has a lovely atmosphere\nThe cats are beautiful, with many different breeds there! You can tell they are well taken care of and have many places to sleep, play and eat.\n\nWe bought 2 treats and the cats LOVED them, we were getting followed by 6 at one point!\n\nBut please if you go there, give the cats the respect they deserve!",
+      "text": "I highly recommend coming here!\nIt’s a good fee and it has a lovely atmosphere\nThe cats are beautiful, with many different breeds there! You can tell they are well taken care of and have many places to sleep, play and eat.\n\nWe bought 2 treats and the cats LOVED them, we were getting followed by 6 at one point!\n\nBut please if you go there, give the cats the respect they deserve!",
       "time": 1742284460,
       "translated": false
     },
@@ -437,7 +437,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcgqDfCxTHLAW7eR6PMLvGYviCIhbh-629bj6JjCfo86Kxyg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "This was a very beautiful and clean place. The staff was very friendly and constantly were cleaning things. There\u2019s Mario Kart in the back, plenty of beautiful cats and plenty of space. If you love cats, definitely stop by for 30-60 minutes.",
+      "text": "This was a very beautiful and clean place. The staff was very friendly and constantly were cleaning things. There’s Mario Kart in the back, plenty of beautiful cats and plenty of space. If you love cats, definitely stop by for 30-60 minutes.",
       "time": 1742882855,
       "translated": false
     }
@@ -456,8 +456,51 @@
   "url": "https://maps.google.com/?cid=7014666220945010616",
   "user_ratings_total": 461,
   "utc_offset": 540,
-  "vicinity": "Shibuya, Jinnan, 1-ch\u014dme\u221216\u22123 Boule Vard, 5F",
+  "vicinity": "Shibuya, Jinnan, 1-chōme−16−3 Boule Vard, 5F",
   "website": "http://catmocha.jp/shibuyakoendori/",
   "wheelchair_accessible_entrance": false,
-  "business_status_checked_at": "2026-10-03T20:04:52.283107+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:52.283107+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:19.321618+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://catmocha.jp/shop/shibuyakoendori/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://catmocha.jp/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://catmocha.jp/faq/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://catmocha.jp/shop/shibuyakoendori/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://catmocha.jp/contact/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://catmocha.jp/faq/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://catmocha.jp/contact/"
+    ],
+    "browser_checked_at": "2026-10-03T22:07:56.507711+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

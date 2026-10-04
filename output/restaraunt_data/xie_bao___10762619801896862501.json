@@ -1,0 +1,42 @@
+{
+  "adr_address": "<span class=\"street-address\">650 9th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "650 9th Ave, New York, NY 10036, USA",
+  "formatted_phone_number": "(724) 390-6466",
+  "geometry": {
+    "location": {
+      "lat": 40.7606411,
+      "lng": -73.9907896
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.76203393029149,
+        "lng": -73.9895333697085
+      },
+      "southwest": {
+        "lat": 40.75933596970849,
+        "lng": -73.9922313302915
+      }
+    }
+  },
+  "international_phone_number": "+1 724-390-6466",
+  "name": "Xie Bao 蟹宝",
+  "place_id": "ChIJjTA_UwBZwokRJcOl4K-BXJU",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=10762619801896862501",
+  "details_checked_at": "2026-10-03T21:59:21.689879+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:21.689879+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:30.454182+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
+}

@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -266,13 +266,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -327,7 +327,7 @@
     {
       "height": 4032,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/103010987590483124915\">\u7d00\u5609\u6def</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/103010987590483124915\">紀嘉淯</a>"
       ],
       "photo_reference": "ATKogpeK0DEnw39ipFaFYePc07WpyJ1ko7lfOFDld6lcnkp49651lnmvzs_Ejnm_Q05_1h02PeSzUvI9oD1gLP9pvumfAdKFoYvgid3cniYcFmN63UwRy5YcwYzPzlotmeNyC8Owp8J6u4ibXJrLjb-Jw6FsZf9METXBa3UCCqMf7cA0faC5cvBv5UvTdJUpbnKctvQyBaifaZuSxHT3UyvEQFQePkynkoOumrckpYMBLTbaQ8G8ZSg8O4vmex57Op6MKr5Rwg41TP_zAIxrmbp5PZuG9S6f71LYyzI94GD5EE9duq8JFWSjrtwbLHcbSBB06LR7S7fnacUKEreX4zVj1ko-KdeL7w8OIf44TdxKIFSbkAjdA29IAFmyjjosELeXETPOjKCyyBmPPjltOOUTbnfgS24GViyu0N9XO_cUSeo",
       "width": 3024
@@ -398,19 +398,19 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVACDsznK4NJRviQaQLEyMdQB4kuyiGUc3E0mCaMUVLsd1dfa_a=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "3 weeks ago",
-      "text": "Been a fan of their pints sold at Whole Foods for years and their Manhattan location that closed down. First visit to the Brooklyn shop and was disappointed. I sampled quite a few flavors and they were all icy/texture was terrible except for the apricot which was more melty and sorbet like. I thought maybe it was a fluke and only the surface had frosted over so ended up getting something anyway - split scoop of the strawberry pie and cinnamon honeybun. Flavors were on point but again texture seemed like they had freezer burn and visible frost. It\u2019s really not acceptable for an ice cream shop to not get the texture right, seems like it\u2019s way more \u201cice\u201d than \u201ccream.\u201d  I barely ate half of it before tossing.\n\nOn second thought I should\u2019ve gotten the saffron soft serve because that was actually quite delicious.\n\nStaff was really friendly and cheerful so no issues with service.",
+      "text": "Been a fan of their pints sold at Whole Foods for years and their Manhattan location that closed down. First visit to the Brooklyn shop and was disappointed. I sampled quite a few flavors and they were all icy/texture was terrible except for the apricot which was more melty and sorbet like. I thought maybe it was a fluke and only the surface had frosted over so ended up getting something anyway - split scoop of the strawberry pie and cinnamon honeybun. Flavors were on point but again texture seemed like they had freezer burn and visible frost. It’s really not acceptable for an ice cream shop to not get the texture right, seems like it’s way more “ice” than “cream.”  I barely ate half of it before tossing.\n\nOn second thought I should’ve gotten the saffron soft serve because that was actually quite delicious.\n\nStaff was really friendly and cheerful so no issues with service.",
       "time": 1748961514,
       "translated": false
     },
     {
-      "author_name": "G\u00e9ne Bello",
+      "author_name": "Géne Bello",
       "author_url": "https://www.google.com/maps/contrib/110822827413518751577/reviews",
       "language": "en",
       "original_language": "en",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4OpDSxzxa4cHMSGIQmqFN6OcAGMXknOtzq89y764HHqRocNOfuQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "I first visited the location they had at the Pier next to little island. I felt in love with their sea salt vanilla ice cream. They closed down that location and now they are in Brooklyn! Couldn\u2019t be more trilled since now is closer to me. The ice cream flavors are delicious and creative and affordable. The atmosphere and staff are very friendly and welcoming. One of my favorite ice cream shops. You can come in a sit with family and friends.",
+      "text": "I first visited the location they had at the Pier next to little island. I felt in love with their sea salt vanilla ice cream. They closed down that location and now they are in Brooklyn! Couldn’t be more trilled since now is closer to me. The ice cream flavors are delicious and creative and affordable. The atmosphere and staff are very friendly and welcoming. One of my favorite ice cream shops. You can come in a sit with family and friends.",
       "time": 1737037089,
       "translated": false
     },
@@ -422,7 +422,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFzKNoik9o_mVHaS2ERqXlYfPru5hKIsVA2TidphNIg3O-6w=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "2 months ago",
-      "text": "I was so excited to finally try Malai, it had been on my list for a while! I convinced my friend to make the trip & while the flavors themselves didn\u2019t disappoint, the experience did. I tried two flavors before deciding what to get in the moment & after purchasing my ice cream, I went back to buy a pint. However, the cashier only allowed me to try one more flavor, making it a total of just three samples even after I had already made a purchase. I would have bought more pints, but without being able to sample, I stuck to 2 of the Pistachio Saffron.\n\nTo make it more frustrating, after reading reviews, it turns out that other employees have allowed customers to try more flavors. I get that it was a Saturday, but it wasn\u2019t even busy. It honestly felt like her shift was about to end\u2014who knows\u2014but her tone was noticeably nicer to other customers. She also rushed us through our order & didn\u2019t even seem to know which flavors were in the soft serve, which made the experience more confusing. These aren\u2019t your typical vanilla or chocolate chip flavors, so sampling really mattered. We weren\u2019t asking for full spoons, just a small taste would have been enough.\n\nAs someone of Indian descent, I also expected a more authentic experience. The staff didn\u2019t seem knowledgeable about the flavors, & other customers were relying on us for descriptions. It felt odd, like going to an Italian restaurant & not being greeted by anyone familiar with Italian cuisine.\n\nAfter taking three subway transfers to get there, I don\u2019t think I\u2019d return. Instead, I\u2019d recommend visiting any Indian grocery store like Patel Brothers & trying Vadilal-branded ice creams\u2014you can get smaller sizes & sample a variety for the price of one pint here. Honestly, it\u2019ll probably be a better & more authentic experience.\nFor a more authentic cultural vibe (though no ice cream), visit Kolkata Chai Co.\u2014you\u2019ll enjoy the staff\u2019s warmth, the energy, & of course, their flavorful, thoughtfully crafted chai!\n\nThe flavors we did try at Malai were good, but the interaction with the staff completely ruined it for us.",
+      "text": "I was so excited to finally try Malai, it had been on my list for a while! I convinced my friend to make the trip & while the flavors themselves didn’t disappoint, the experience did. I tried two flavors before deciding what to get in the moment & after purchasing my ice cream, I went back to buy a pint. However, the cashier only allowed me to try one more flavor, making it a total of just three samples even after I had already made a purchase. I would have bought more pints, but without being able to sample, I stuck to 2 of the Pistachio Saffron.\n\nTo make it more frustrating, after reading reviews, it turns out that other employees have allowed customers to try more flavors. I get that it was a Saturday, but it wasn’t even busy. It honestly felt like her shift was about to end—who knows—but her tone was noticeably nicer to other customers. She also rushed us through our order & didn’t even seem to know which flavors were in the soft serve, which made the experience more confusing. These aren’t your typical vanilla or chocolate chip flavors, so sampling really mattered. We weren’t asking for full spoons, just a small taste would have been enough.\n\nAs someone of Indian descent, I also expected a more authentic experience. The staff didn’t seem knowledgeable about the flavors, & other customers were relying on us for descriptions. It felt odd, like going to an Italian restaurant & not being greeted by anyone familiar with Italian cuisine.\n\nAfter taking three subway transfers to get there, I don’t think I’d return. Instead, I’d recommend visiting any Indian grocery store like Patel Brothers & trying Vadilal-branded ice creams—you can get smaller sizes & sample a variety for the price of one pint here. Honestly, it’ll probably be a better & more authentic experience.\nFor a more authentic cultural vibe (though no ice cream), visit Kolkata Chai Co.—you’ll enjoy the staff’s warmth, the energy, & of course, their flavorful, thoughtfully crafted chai!\n\nThe flavors we did try at Malai were good, but the interaction with the staff completely ruined it for us.",
       "time": 1744697815,
       "translated": false
     }
@@ -440,5 +440,74 @@
   "vicinity": "268 Smith St, Brooklyn",
   "website": "https://www.malai.co/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:36.407612+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:36.407612+00:00",
+  "emails": [
+    "events@malai.co",
+    "info@malai.co",
+    "press@malai.co",
+    "wholesale@malai.co"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:20.205986+00:00",
+    "outcome": "found",
+    "sources": {
+      "events@malai.co": [
+        "https://www.malai.co/contact"
+      ],
+      "info@malai.co": [
+        "https://www.malai.co/contact"
+      ],
+      "press@malai.co": [
+        "https://www.malai.co/contact"
+      ],
+      "wholesale@malai.co": [
+        "https://www.malai.co/contact"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.malai.co/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.malai.co/contact",
+        "status": "ok",
+        "emails": [
+          "events@malai.co",
+          "info@malai.co",
+          "press@malai.co",
+          "wholesale@malai.co"
+        ]
+      },
+      {
+        "url": "https://www.malai.co/events",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.malai.co/find-us",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.malai.co/catering-events",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.malai.co/ice-cream-desserts/gulab-jamun-ice-cream-cake",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.malai.co/",
+      "https://www.malai.co/contact",
+      "https://www.malai.co/events",
+      "https://www.malai.co/find-us",
+      "https://www.malai.co/catering-events",
+      "https://www.malai.co/ice-cream-desserts/gulab-jamun-ice-cream-cake"
+    ]
+  }
 }

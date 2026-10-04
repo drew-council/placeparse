@@ -1,0 +1,55 @@
+{
+  "adr_address": "<span class=\"street-address\">280 Bleecker St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10014</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "280 Bleecker St, New York, NY 10014, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7317208,
+      "lng": -74.0034605
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7330964302915,
+        "lng": -74.0020384697085
+      },
+      "southwest": {
+        "lat": 40.7303984697085,
+        "lng": -74.0047364302915
+      }
+    }
+  },
+  "name": "Salt Hank’s",
+  "place_id": "ChIJ330HVABZwokRvqws3mNYmsU",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=14238790357837720766",
+  "website": "https://salthanks.com/",
+  "details_checked_at": "2026-10-03T21:59:32.026842+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:32.026842+00:00",
+  "emails": [
+    "contact@salthanks.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:22.695677+00:00",
+    "outcome": "found",
+    "sources": {
+      "contact@salthanks.com": [
+        "https://salthanks.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://salthanks.com/",
+        "status": "ok",
+        "emails": [
+          "contact@salthanks.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
+}

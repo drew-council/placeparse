@@ -1,0 +1,65 @@
+{
+  "adr_address": "<span class=\"street-address\">173 Madison Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10016</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "173 Madison Ave, New York, NY 10016, USA",
+  "formatted_phone_number": "(212) 696-0300",
+  "geometry": {
+    "location": {
+      "lat": 40.7472556,
+      "lng": -73.9831166
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74864678029149,
+        "lng": -73.9818484197085
+      },
+      "southwest": {
+        "lat": 40.7459488197085,
+        "lng": -73.9845463802915
+      }
+    }
+  },
+  "international_phone_number": "+1 212-696-0300",
+  "name": "Ravagh Persian Grill",
+  "place_id": "ChIJa7gEeahZwokRXPN6Y_WqYO0",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=17104859355665855324",
+  "website": "https://www.ravaghrestaurants.com/",
+  "details_checked_at": "2026-10-03T21:59:32.706716+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:32.706716+00:00",
+  "emails": [
+    "info@ravaghrestaurants.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:20.997328+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@ravaghrestaurants.com": [
+        "https://www.ravaghrestaurants.com/",
+        "https://www.ravaghrestaurants.com/location"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.ravaghrestaurants.com/",
+        "status": "ok",
+        "emails": [
+          "info@ravaghrestaurants.com"
+        ]
+      },
+      {
+        "url": "https://www.ravaghrestaurants.com/location",
+        "status": "ok",
+        "emails": [
+          "info@ravaghrestaurants.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
+}

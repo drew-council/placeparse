@@ -140,12 +140,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
       "Sunday: Closed"
     ]
   },
@@ -243,12 +243,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
       "Sunday: Closed"
     ]
   },
@@ -364,7 +364,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEHBpz8n6-SGWzF5ArTppUpaWkamvuhtaRXm_EbZR-NTiccw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "This is the best pho place in Durham! Hands down. I\u2019m from Vegas, have traveled and lived in many states and this is some of the best pho I\u2019ve ever had. It\u2019s good takeout or dine it. It\u2019s consistently good and it\u2019s near my job. Their summer rolls are also perfect 10/10",
+      "text": "This is the best pho place in Durham! Hands down. I’m from Vegas, have traveled and lived in many states and this is some of the best pho I’ve ever had. It’s good takeout or dine it. It’s consistently good and it’s near my job. Their summer rolls are also perfect 10/10",
       "time": 1741111868,
       "translated": false
     },
@@ -388,7 +388,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQLzDlDJv_OaIQkuLVokTV_7tRqsEHDbR9s3TTjkN_De8uvg=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "5 months ago",
-      "text": "I\u2019ve been traveling to Durham for work and was pleased to find a hotel with food options within walking distance.\n\nWhen I first tried this place the lady who served me was pleasant and very nice and the pho was tasty. The 2nd timey order was taken by a man who seemed more annoyed than anything. The pho was not as good.\n\nIt\u2019s been well over 3 weeks since my last trip, thought I would give it another try. Same annoyed man and the pho was tasteless. I mean it was close to being hot water. I ordered spring rolls he brought me egg rolls. I took a couple of bites and left the pho and will not go back.\n\nIt\u2019s too bad because their egg rolls and spring rolls are not bad.",
+      "text": "I’ve been traveling to Durham for work and was pleased to find a hotel with food options within walking distance.\n\nWhen I first tried this place the lady who served me was pleasant and very nice and the pho was tasty. The 2nd timey order was taken by a man who seemed more annoyed than anything. The pho was not as good.\n\nIt’s been well over 3 weeks since my last trip, thought I would give it another try. Same annoyed man and the pho was tasteless. I mean it was close to being hot water. I ordered spring rolls he brought me egg rolls. I took a couple of bites and left the pho and will not go back.\n\nIt’s too bad because their egg rolls and spring rolls are not bad.",
       "time": 1736809185,
       "translated": false
     },
@@ -425,5 +425,31 @@
   "vicinity": "2816 Erwin Rd #207, Durham",
   "website": "http://www.phopokehouse.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:54.579069+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:54.579069+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:44.146970+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.phopokehouse.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.phopokehouse.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.phopokehouse.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:01.485086+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

@@ -214,7 +214,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUreoGQGrYsHXWSCEDg1ggnavys0h3NbKXAfizk8kZTRZQIrK-=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "4 years ago",
-      "text": "Not many restaurants actually have a tantalizing aroma (unless you validate that which is naturally being produced as a result of chemistry occurring in the kitchen). However, a wonderful scent drifts within the confined walls of Blue Corn Caf\u00e9! The pleasant smell isn\u2019t intense; you only get a whiff upon entering. Anyway, the caf\u00e9 is well kept, clean, comfortable and nicely decorated. For an appetizer, my daughter and I had guacamole and cheese dip with multicolored chips. Appetizing indeed! For our main dishes, she selected a steak quesadilla and I had steak fajitas. I highly recommend both! Very delicious meals (she gave me a bite)! I did notice, unlike other restaurants offering Hispanic foods, the black beans had a distinct, sweet taste. I personally enjoyed them! Our server was a young man, Sebastian. He was raised with great manners. Not only did he served us well, but he even held the door for us when exiting the lobby. We shall return! \ud83d\ude04",
+      "text": "Not many restaurants actually have a tantalizing aroma (unless you validate that which is naturally being produced as a result of chemistry occurring in the kitchen). However, a wonderful scent drifts within the confined walls of Blue Corn Café! The pleasant smell isn’t intense; you only get a whiff upon entering. Anyway, the café is well kept, clean, comfortable and nicely decorated. For an appetizer, my daughter and I had guacamole and cheese dip with multicolored chips. Appetizing indeed! For our main dishes, she selected a steak quesadilla and I had steak fajitas. I highly recommend both! Very delicious meals (she gave me a bite)! I did notice, unlike other restaurants offering Hispanic foods, the black beans had a distinct, sweet taste. I personally enjoyed them! Our server was a young man, Sebastian. He was raised with great manners. Not only did he served us well, but he even held the door for us when exiting the lobby. We shall return! 😄",
       "time": 1619625915,
       "translated": false
     },
@@ -273,5 +273,29 @@
   "vicinity": "716 9th St, Durham",
   "website": "http://www.bluecorncafedurham.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:45.937523+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:45.937523+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:09.858565+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://www.bluecorncafedurham.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://bluecorncafedurham.com/content/contact-us.id.html?label=gog235jc-10CAsoaEI2dHVwYWl3aW4tcmVrb21lbmRhc2ktdG90by1zbG90LXRlcnBlcmNheWEtbWluLWRlcG8tMTBrSAlYA2hoiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALNvt3GBsACAdICJDczM2Y4YTUyLTgzY2YtNGYzYS04NjJmLWQxY2ZiMDEzMmI1ZtgCAeACAQ&sid=763c41d2c3813906f2527013f103b837&aid=356980",
+        "status": "HTTP_404",
+        "emails": []
+      },
+      {
+        "url": "https://bluecorncafedurham.com/content/about.id.html?label=gog235jc-10CAsoaEI2dHVwYWl3aW4tcmVrb21lbmRhc2ktdG90by1zbG90LXRlcnBlcmNheWEtbWluLWRlcG8tMTBrSAlYA2hoiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALNvt3GBsACAdICJDczM2Y4YTUyLTgzY2YtNGYzYS04NjJmLWQxY2ZiMDEzMmI1ZtgCAeACAQ&sid=763c41d2c3813906f2527013f103b837&aid=356980",
+        "status": "HTTP_404",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

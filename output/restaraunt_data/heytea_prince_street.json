@@ -1,0 +1,56 @@
+{
+  "adr_address": "<span class=\"street-address\">38-02 Prince St Floor 1</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354-4430</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "38-02 Prince St Floor 1, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(347) 732-0666",
+  "geometry": {
+    "location": {
+      "lat": 40.760024,
+      "lng": -73.83280110000001
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.76141558029151,
+        "lng": -73.8313407197085
+      },
+      "southwest": {
+        "lat": 40.75871761970851,
+        "lng": -73.83403868029151
+      }
+    }
+  },
+  "international_phone_number": "+1 347-732-0666",
+  "name": "heytea (Prince Street)",
+  "place_id": "ChIJD1o2Jm1hwokR-i1CJRvJzIc",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=9785417208795639290",
+  "website": "https://www.heytea.com/",
+  "details_checked_at": "2026-10-03T21:59:10.704111+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:10.704111+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:08.094009+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.heytea.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.heytea.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:09:06.993897+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

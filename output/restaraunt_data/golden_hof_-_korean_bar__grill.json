@@ -1,0 +1,74 @@
+{
+  "adr_address": "<span class=\"street-address\">16 W 48th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036-1801</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "16 W 48th St, New York, NY 10036, USA",
+  "formatted_phone_number": "(212) 592-0752",
+  "geometry": {
+    "location": {
+      "lat": 40.7576225,
+      "lng": -73.9792159
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7590111802915,
+        "lng": -73.97779896970849
+      },
+      "southwest": {
+        "lat": 40.7563132197085,
+        "lng": -73.9804969302915
+      }
+    }
+  },
+  "international_phone_number": "+1 212-592-0752",
+  "name": "Golden HOF - Korean Bar & Grill",
+  "place_id": "ChIJc6vecABZwokRBHqMFj4UsbY",
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=13164325442679503364",
+  "website": "https://www.goldenhof.com/",
+  "details_checked_at": "2026-10-03T21:59:25.647994+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:25.647994+00:00",
+  "emails": [
+    "talkto@goldenhof.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:06.909639+00:00",
+    "outcome": "found",
+    "sources": {
+      "talkto@goldenhof.com": [
+        "https://www.goldenhof.com/",
+        "https://www.goldenhof.com/about",
+        "https://www.goldenhof.com/parties-and-events"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.goldenhof.com/",
+        "status": "ok",
+        "emails": [
+          "talkto@goldenhof.com"
+        ]
+      },
+      {
+        "url": "https://www.goldenhof.com/about",
+        "status": "ok",
+        "emails": [
+          "talkto@goldenhof.com"
+        ]
+      },
+      {
+        "url": "https://www.goldenhof.com/parties-and-events",
+        "status": "ok",
+        "emails": [
+          "talkto@goldenhof.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
+}

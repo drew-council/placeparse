@@ -168,13 +168,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 3:00 AM",
+      "Saturday: 11:00 AM – 3:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
     ]
   },
   "delivery": true,
@@ -277,13 +277,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 3:00 AM",
+      "Saturday: 11:00 AM – 3:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
     ]
   },
   "photos": [
@@ -385,7 +385,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAqJPiC5VziMJS34NrUBfgV-ejmNFYEtMFT3i6QD-LgGT0Yh3Y=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Dropped by with my wife on a chill Tuesday afternoon \u2014 no crowds, no chaos, just tacos. Were they the best tacos in East Village? Maybe not. But were they good? Absolutely. The sauces had a nice kick, and the vibe was super laid-back. Staff was friendly, food came out fast, and we left happy and full. Sometimes that\u2019s all you really need.",
+      "text": "Dropped by with my wife on a chill Tuesday afternoon — no crowds, no chaos, just tacos. Were they the best tacos in East Village? Maybe not. But were they good? Absolutely. The sauces had a nice kick, and the vibe was super laid-back. Staff was friendly, food came out fast, and we left happy and full. Sometimes that’s all you really need.",
       "time": 1748397079,
       "translated": false
     },
@@ -433,7 +433,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXn9ICvi4SB68gxWhemKuFxSr-Hk8ckoO86JD1pu--RGeUNuTARpA=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "Came here with a friend and got the tacos, dumplings, and birria de res consome. The tacos were quite small, however anything drenched in that consome was delicious. The broth was rich with a strong cilantro flavor. Portions are definitely on smaller side and the dumplings were a little dry, but overall really enjoyed the food. It\u2019s pretty messy but they have hand sanitizer ever and it\u2019s usually not packed. Would come back literally just for the consome!",
+      "text": "Came here with a friend and got the tacos, dumplings, and birria de res consome. The tacos were quite small, however anything drenched in that consome was delicious. The broth was rich with a strong cilantro flavor. Portions are definitely on smaller side and the dumplings were a little dry, but overall really enjoyed the food. It’s pretty messy but they have hand sanitizer ever and it’s usually not packed. Would come back literally just for the consome!",
       "time": 1718453474,
       "translated": false
     }
@@ -455,5 +455,13 @@
   "utc_offset": -240,
   "vicinity": "34 St Marks Pl, New York",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:45.537873+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:45.537873+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:09.858555+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

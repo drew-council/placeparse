@@ -165,12 +165,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 5:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Wednesday: 5:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Thursday: 5:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Friday: 5:00\u202fPM\u2009\u2013\u20091:30\u202fAM",
-      "Saturday: 5:00\u202fPM\u2009\u2013\u20091:30\u202fAM",
-      "Sunday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 1:00 AM",
+      "Friday: 5:00 PM – 1:30 AM",
+      "Saturday: 5:00 PM – 1:30 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
     ]
   },
   "delivery": true,
@@ -266,12 +266,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 5:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Wednesday: 5:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Thursday: 5:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Friday: 5:00\u202fPM\u2009\u2013\u20091:30\u202fAM",
-      "Saturday: 5:00\u202fPM\u2009\u2013\u20091:30\u202fAM",
-      "Sunday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 5:00 PM – 1:00 AM",
+      "Thursday: 5:00 PM – 1:00 AM",
+      "Friday: 5:00 PM – 1:30 AM",
+      "Saturday: 5:00 PM – 1:30 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
     ]
   },
   "photos": [
@@ -385,7 +385,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfyg25jjfcW7otvLyKq6NgHCZIfm7Y4AOvxj2EAGYSg8V0O6Sl=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "This is hands down the best bar in NYC \u2014 and one of the top bars in the world for a reason! I waited in line for over an hour before it even opened, but it was totally worth it. The drinks and food were all incredible \u2014 I honestly couldn\u2019t pick a favorite. What made it extra special was their unique 3-course drink experience: appetizers, entr\u00e9es, and dessert-style cocktails. It felt like a full tasting menu, but in drink form \u2014 so creative and fancy! The decoration is also so cool and stylish \u2014 every corner feels thoughtfully designed. An unforgettable experience that truly lived up to the hype.",
+      "text": "This is hands down the best bar in NYC — and one of the top bars in the world for a reason! I waited in line for over an hour before it even opened, but it was totally worth it. The drinks and food were all incredible — I honestly couldn’t pick a favorite. What made it extra special was their unique 3-course drink experience: appetizers, entrées, and dessert-style cocktails. It felt like a full tasting menu, but in drink form — so creative and fancy! The decoration is also so cool and stylish — every corner feels thoughtfully designed. An unforgettable experience that truly lived up to the hype.",
       "time": 1748492610,
       "translated": false
     },
@@ -409,7 +409,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYnxyvM2zUIqVeXvOLHgmGLH7rZ663ZtjU0fliTJjSyS4dYHFs=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Long wait on weekend but worth it. Great ambience and service. The chicken was really tender and absolutely loved the donut combo with it. Lime cake cocktail was also yummy, didn\u2019t taste much like alcohol but it still hit hard later. Mango rice drink was very strong though. Definitely coming back to try the other drinks!",
+      "text": "Long wait on weekend but worth it. Great ambience and service. The chicken was really tender and absolutely loved the donut combo with it. Lime cake cocktail was also yummy, didn’t taste much like alcohol but it still hit hard later. Mango rice drink was very strong though. Definitely coming back to try the other drinks!",
       "time": 1745358627,
       "translated": false
     },
@@ -421,7 +421,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoUJz1kme90BfavYSkhoNgcEAuhjatHxnoE1LRsU0ZTTV6FoVQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Really awesome place! Highly recommend and would go back. Very pricey so save it for special occasion. Get a reservation or show up early in line though. This place fills up fast! And the line queue outside during wintertime on the windy street isn\u2019t great.\n\nThe drinks are the best, most creative we\u2019ve ever had! Their mixologists are onto something with the vastly diverse and interesting tastes. Loved every sip.\n\nFood menu is very limited but what was on it is delicious too. If you\u2019re not into fried chicken then maybe eat beforehand.\n\nService and ambiance specular. Spacious but feels like a speakeasy. Given the popularity they do time you pretty strictly though.",
+      "text": "Really awesome place! Highly recommend and would go back. Very pricey so save it for special occasion. Get a reservation or show up early in line though. This place fills up fast! And the line queue outside during wintertime on the windy street isn’t great.\n\nThe drinks are the best, most creative we’ve ever had! Their mixologists are onto something with the vastly diverse and interesting tastes. Loved every sip.\n\nFood menu is very limited but what was on it is delicious too. If you’re not into fried chicken then maybe eat beforehand.\n\nService and ambiance specular. Spacious but feels like a speakeasy. Given the popularity they do time you pretty strictly though.",
       "time": 1743737604,
       "translated": false
     }
@@ -507,12 +507,12 @@
       "type": "KITCHEN",
       "weekday_text": [
         "Monday: Closed",
-        "Tuesday: 5:00\u2009\u2013\u200911:00\u202fPM",
-        "Wednesday: 5:00\u2009\u2013\u200911:00\u202fPM",
-        "Thursday: 5:00\u2009\u2013\u200911:00\u202fPM",
-        "Friday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Saturday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Sunday: 5:00\u2009\u2013\u200911:00\u202fPM"
+        "Tuesday: 5:00 – 11:00 PM",
+        "Wednesday: 5:00 – 11:00 PM",
+        "Thursday: 5:00 – 11:00 PM",
+        "Friday: 5:00 PM – 12:00 AM",
+        "Saturday: 5:00 PM – 12:00 AM",
+        "Sunday: 5:00 – 11:00 PM"
       ]
     }
   ],
@@ -534,8 +534,31 @@
   "website": "http://www.doublechickenplease.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "takochang@doublechickenplease.com",
-    "info@doublechickenplease.com"
+    "info@doublechickenplease.com",
+    "takochang@doublechickenplease.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:03.082163+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:03.082163+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:33.052954+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@doublechickenplease.com": [
+        "https://doublechickenplease.com/"
+      ],
+      "takochang@doublechickenplease.com": [
+        "https://doublechickenplease.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://doublechickenplease.com/",
+        "status": "ok",
+        "emails": [
+          "info@doublechickenplease.com",
+          "takochang@doublechickenplease.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

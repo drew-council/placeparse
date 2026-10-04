@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 11:00 AM – 9:30 PM",
+      "Tuesday: 11:00 AM – 9:30 PM",
+      "Wednesday: 11:00 AM – 9:30 PM",
+      "Thursday: 11:00 AM – 9:30 PM",
+      "Friday: 11:00 AM – 9:30 PM",
+      "Saturday: 11:00 AM – 9:30 PM",
+      "Sunday: 11:00 AM – 9:30 PM"
     ]
   },
   "delivery": true,
@@ -188,7 +188,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 212-660-9666",
-  "name": "Hi Sunny Restaurant Salad&Dimsum \u82b1\u56ed\u8f7b\u98df",
+  "name": "Hi Sunny Restaurant Salad&Dimsum 花园轻食",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -264,13 +264,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 11:00 AM – 9:30 PM",
+      "Tuesday: 11:00 AM – 9:30 PM",
+      "Wednesday: 11:00 AM – 9:30 PM",
+      "Thursday: 11:00 AM – 9:30 PM",
+      "Friday: 11:00 AM – 9:30 PM",
+      "Saturday: 11:00 AM – 9:30 PM",
+      "Sunday: 11:00 AM – 9:30 PM"
     ]
   },
   "photos": [
@@ -285,7 +285,7 @@
     {
       "height": 1440,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum \u82b1\u56ed\u8f7b\u98df</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum 花园轻食</a>"
       ],
       "photo_reference": "ATKogpeRqGYkOC6MTwGmH1F1k2HgQiaifBM_d4sRp8Iw-pk_mDcQia7W4AGAQBHm0Kbf5oh-C0acsi8zuy9J6W42pZKRzJoE3VtU3ugAuUnU8Tf4YSVXuH2VFgn1MAN0V39y__2kyE-T2jceMGqiQVxHbRBpDPoJesNISGopKMVixekB36W-Ul_DTIitXMTazIF9dc-W25Rvb_gw99I67qm6g7tYt6aCrz9I2RUI1Pns5Ex_YVwK1yPeEtJMamSVN7FWZYNUbldjll-2ahlzfRWi2m0WN9Da5EIOFAXzHEF0BFkczA",
       "width": 2560
@@ -317,7 +317,7 @@
     {
       "height": 500,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum \u82b1\u56ed\u8f7b\u98df</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum 花园轻食</a>"
       ],
       "photo_reference": "ATKogpc_KqGmgWpqOQ000PaYMNmzO-SnqnID3gymANZUZ7HdF6c2QBOxF5KzcSDiQCty4nkiDY5PDsOI7vo7V3sPpOT4D--Lz1X11tVb7ef3_uw-JYXZQN6YkfDO_Lkafx9t8iUTdYgXSrSWiKrTufEAe8QZWAz9nS8FkDPJc3LPGAMs2_hg-SrXw4FVY6YWv1wJM9kP57SIFKGrCsUxagu3_YBfNbf4M1O3CK-ixbvjEbPNYpVSlRAF96fOGSQ55qLVimqEf8QqdRRjs43yrXHev-6ADKoSvN0lMQ7MGGpLdj2bCQ",
       "width": 750
@@ -325,7 +325,7 @@
     {
       "height": 400,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum \u82b1\u56ed\u8f7b\u98df</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum 花园轻食</a>"
       ],
       "photo_reference": "ATKogpfRQle33aE-TYfBt95gXBZPkgwH_gmuBB7ZK_mbvohG3dIWzgePqxBRaqqJc5cSHs_dzrr5I4gZ-pnmRiXHU8sArPP_Pycqw2tZvUqxseIm6fWHfFQsj2Uy7kqsq5vLvAylpSu5dnUXa13zK743zbhcGvm-kMt46HXWLQ-GzXViWkFMr1dIyaRGnB0b6fOPoc0IPynPiJKUioHYOUTmeEcDFXYr0698n-fRMSALu3eEzRpSNFlgmoWjD2jHVGxooW3EbjB-Zv3llrqbw9gdG3f2mJ7NQwljtXYQ-CeVXVMmzw",
       "width": 600
@@ -333,7 +333,7 @@
     {
       "height": 393,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum \u82b1\u56ed\u8f7b\u98df</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum 花园轻食</a>"
       ],
       "photo_reference": "ATKogpdOouzBPNQ1tdHfJHt7Qa5ltrfhiZWqYLhLtLTOhUZvjH7DPtjfg2MPnuUmq6hbo384g9vZ-CwTSzWxFwjYv6Kugg8dTP5xgNOgyHOWMw6Oi6B3iGfl-iISXV3xW11R6-dh6biGLqQbJqkB0CQhUTheRtL5Et5gfiShOwZhzyIM62J1tbRXP7zex1SkUC3vnssyozfxkbmMVjlKi__85Rc_cIG74Qf4FV0xY-5e0xx1pHpXTzNkKhBvbvzxL0rMX0Imai1XaGW67UXS0fsFsuMTp1HJiX5vE7XYUhSc4hX9gQ",
       "width": 550
@@ -341,7 +341,7 @@
     {
       "height": 1440,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum \u82b1\u56ed\u8f7b\u98df</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum 花园轻食</a>"
       ],
       "photo_reference": "ATKogpeUMFrSSi-Yspfj8wTmXtmZDEIvKpxiuO7tefmSxd4auW0cUnRzF6ISjbmjsPguIq--aDOB9KLPXlT_ky4UOizFq-X9X67M_92bpFQZl3x0dPQFGaLCCaPPXUlZ8K_93FyXXi2pH3uhha3sQpQit9Id1XAYpvgHzNf4AieRuinWK6FaWhYMQnDhE0LnathJj8owJJRS6G1O0wYKbiSUFCMvAme3BjIXJB1PT9NlsYFgkwKQpOvcc-8zzS1rjPP8xcQHz6sowj0Wl5Y6QCdLSqyJSyT0JXG0gnqoS74SUHG9iw",
       "width": 2560
@@ -349,7 +349,7 @@
     {
       "height": 520,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum \u82b1\u56ed\u8f7b\u98df</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum 花园轻食</a>"
       ],
       "photo_reference": "ATKogpdcJSGundQJqDqJFi6RUTEDOFrPyvKNCiOq5H7aq49wuW3GUMF0bS_sE9Vj-B3ids-71us6hLKwX30MnCtV5ajEGFb4yjAhAeGu8KDSuVxLIH125lZjeVlkiTEQn-PirwUSYnmFuLT5L1xPqTb4zvkfhkdvz8z9q_sNO265lgWw4HY3C5FjC_4GY3hEu7TyY-vY95gXu3Scwy5fSgtPlpfHNdVoyMN8xLgRhU22pDkm1FIx8aTXUFO7AhC3M7PES_k8lMdRB3CMBBlfp9TVkfesU03Du5tS4Up4RWmF1o242A",
       "width": 638
@@ -372,7 +372,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJgFJSBzdeIkhl5EWDMTSU4WO62FSgzeJjCTWFT11VFiqVd5A=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "This place was amazing! The food was so good, fresh, and full of flavor. The soup dumplings were perfect, and the sauces made them even better. The restaurant itself was super cute, really clean, and had such a nice vibe. The decor was beautiful, and they had great music playing, which made the whole experience even better. Our server was so nice and attentive, making sure we had everything we needed. Definitely a great spot, I\u2019d absolutely come back!",
+      "text": "This place was amazing! The food was so good, fresh, and full of flavor. The soup dumplings were perfect, and the sauces made them even better. The restaurant itself was super cute, really clean, and had such a nice vibe. The decor was beautiful, and they had great music playing, which made the whole experience even better. Our server was so nice and attentive, making sure we had everything we needed. Definitely a great spot, I’d absolutely come back!",
       "time": 1741553269,
       "translated": false
     },
@@ -384,7 +384,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIJva94Qinr81rQR3QLdrkI59u9J_yhFW3Bq5duN8a9Vf8bqo=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 4,
       "relative_time_description": "a month ago",
-      "text": "The place is a bit hard to find since it still has the old restaurant\u2019s sign. The interior is narrow but clean and nicely decorated. I had the dried chicken mushroom noodle\u2014flavorful, slightly sweet with a Southern Chinese style, though a bit too salty for me. Staff were friendly, and I got a free Diet Coke offered with this review.",
+      "text": "The place is a bit hard to find since it still has the old restaurant’s sign. The interior is narrow but clean and nicely decorated. I had the dried chicken mushroom noodle—flavorful, slightly sweet with a Southern Chinese style, though a bit too salty for me. Staff were friendly, and I got a free Diet Coke offered with this review.",
       "time": 1746633489,
       "translated": false
     },
@@ -408,7 +408,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVl3KzDTKKbLL3WVITvhhYkVCrZOq1W4P8yL8saUml6JazAeMls=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "Tucked away in the heart of midtown, this charming little Chinese restaurant has truly been a delightful surprise! Their innovative menu seamlessly blends Eastern and Western flavors, offering unique combinations like Chinese dim sum with a brunch-style twist.\n\nDespite its cozy size, the interior exudes a serene and welcoming atmosphere, making it the perfect spot to unwind. The staff are incredibly warm and attentive\u2014our server even took the time to chat with us and offered personalized recommendations based on our preferences.\n\nIf you're looking for a hidden gem with delicious food and a peaceful vibe, this place comes highly recommended!",
+      "text": "Tucked away in the heart of midtown, this charming little Chinese restaurant has truly been a delightful surprise! Their innovative menu seamlessly blends Eastern and Western flavors, offering unique combinations like Chinese dim sum with a brunch-style twist.\n\nDespite its cozy size, the interior exudes a serene and welcoming atmosphere, making it the perfect spot to unwind. The staff are incredibly warm and attentive—our server even took the time to chat with us and offered personalized recommendations based on our preferences.\n\nIf you're looking for a hidden gem with delicious food and a peaceful vibe, this place comes highly recommended!",
       "time": 1739072866,
       "translated": false
     },
@@ -440,5 +440,36 @@
   "utc_offset": -240,
   "vicinity": "342 7th Ave, New York",
   "website": "https://www.hisunnyrestaurantny.com/",
-  "business_status_checked_at": "2026-10-03T20:05:16.003488+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:16.003488+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:57.379865+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.hisunnyrestaurantny.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.hisunnyrestaurantny.com/contact-us/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.hisunnyrestaurantny.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.hisunnyrestaurantny.com/contact-us/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:09:08.637720+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

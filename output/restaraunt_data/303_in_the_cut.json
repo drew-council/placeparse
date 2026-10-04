@@ -159,13 +159,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Tuesday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Wednesday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Thursday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Friday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM"
+      "Monday: 7:00 PM – 1:00 AM",
+      "Tuesday: 7:00 PM – 1:00 AM",
+      "Wednesday: 7:00 PM – 1:00 AM",
+      "Thursday: 7:00 PM – 1:00 AM",
+      "Friday: 7:00 PM – 1:00 AM",
+      "Saturday: 7:00 PM – 1:00 AM",
+      "Sunday: 7:00 PM – 1:00 AM"
     ]
   },
   "delivery": true,
@@ -268,13 +268,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Tuesday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Wednesday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Thursday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Friday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM"
+      "Monday: 7:00 PM – 1:00 AM",
+      "Tuesday: 7:00 PM – 1:00 AM",
+      "Wednesday: 7:00 PM – 1:00 AM",
+      "Thursday: 7:00 PM – 1:00 AM",
+      "Friday: 7:00 PM – 1:00 AM",
+      "Saturday: 7:00 PM – 1:00 AM",
+      "Sunday: 7:00 PM – 1:00 AM"
     ]
   },
   "photos": [
@@ -376,7 +376,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcaJjUXDllTyk9IXoqvrI3FhlZljPDye0uHs-cN3sYEhX0Y2KCLw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "Talk about delicious! 303 In The cut has been on my \u201cmust visit\u201d list for a long time! I was so excited to try the dirty dog (cheese sauce on top) and the cheese cake in the cut. The server guy was amazing and so funny, the perfect amount of chatty. He even matched my cousin and my energy while we were waiting! Which made the experience even better.\nI will definitely go back again!!",
+      "text": "Talk about delicious! 303 In The cut has been on my “must visit” list for a long time! I was so excited to try the dirty dog (cheese sauce on top) and the cheese cake in the cut. The server guy was amazing and so funny, the perfect amount of chatty. He even matched my cousin and my energy while we were waiting! Which made the experience even better.\nI will definitely go back again!!",
       "time": 1750111878,
       "translated": false
     },
@@ -400,7 +400,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIh2pxQUHN48SXsnaD4kMnjTChnDBpEcLyHAJYhiMjCMxIMXlyjQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "a month ago",
-      "text": "I\u2019ve been seeing this food truck pop up on my Instagram feed for months, and I finally had the chance to try it while visiting Las Vegas. It\u2019s located in the parking lot of a strip club, definitely a unique setting, but there was no line, and the service was excellent.\n\nI ordered a slice of tiramisu, and it was absolutely delicious. Rich, creamy, and full of flavor, it definitely lived up to the taste expectations. However, for the price of that single slice, I felt like I could\u2019ve bought an entire cake elsewhere. The hype and maybe a bit of clever marketing seem to have inflated the price.\n\nI get that it\u2019s located in Las Vegas, just off the Strip, but even so, I believe the slice could be priced under $10. Still, it was a great treat, and I\u2019m curious to try the cheesecake next time, since that seems to be their most popular dessert.",
+      "text": "I’ve been seeing this food truck pop up on my Instagram feed for months, and I finally had the chance to try it while visiting Las Vegas. It’s located in the parking lot of a strip club, definitely a unique setting, but there was no line, and the service was excellent.\n\nI ordered a slice of tiramisu, and it was absolutely delicious. Rich, creamy, and full of flavor, it definitely lived up to the taste expectations. However, for the price of that single slice, I felt like I could’ve bought an entire cake elsewhere. The hype and maybe a bit of clever marketing seem to have inflated the price.\n\nI get that it’s located in Las Vegas, just off the Strip, but even so, I believe the slice could be priced under $10. Still, it was a great treat, and I’m curious to try the cheesecake next time, since that seems to be their most popular dessert.",
       "time": 1747792357,
       "translated": false
     },
@@ -412,7 +412,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUF5CTe0uBFzS6ix30PvpU3O43fqMipJRnAcKx7O3iXZarJ8ZAg=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "So wife was watching social media and said to me we must go, it\u2019s 830pm on a Thursday. I was like go she said I must go, so we went. Just because she saw some Reel on Social Platform.\n\nSo we went and boy did it live up to the expectations, we ordered the Cheesecake Sandwich and it was amazing so good we didn\u2019t take a picture that\u2019s how you know it\u2019s good.\n\nWe will be returning and exploring the menu, people, food are excellent.  Highly recommended.",
+      "text": "So wife was watching social media and said to me we must go, it’s 830pm on a Thursday. I was like go she said I must go, so we went. Just because she saw some Reel on Social Platform.\n\nSo we went and boy did it live up to the expectations, we ordered the Cheesecake Sandwich and it was amazing so good we didn’t take a picture that’s how you know it’s good.\n\nWe will be returning and exploring the menu, people, food are excellent.  Highly recommended.",
       "time": 1741922804,
       "translated": false
     },
@@ -424,7 +424,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEhbiGYL9lBPlpZSVKCZAQD7ixU50-pocoez7x_diJP5MxeQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "A small food truck in the parking lot of a strip joint, lol.\nOwner friendly and talkative. We initially saw him and his business on a social media page talking about thr food, so we decided since we were driving to Vegas from Arizona anyways, we would put this on our list of places to try.\nI was impressed with the burrito, my hubby and I shared one since they are big and we wanted to get both desserts so we had to have some room in our tummy. The burrito came  with beans inside and I absolutely hate beans of any kind but my husband loves them so I left them in there and just ate it anyways. Know what? I could barely taste them anyways because the burrito was stuff with so much stuff, I didn't pay attention to the beans, ha. We also got a side of French fries and those were so dang good, I said next time, I would have them put some of the fries inside the burrito for that extra crunch..ya baby! The burrito was damn delicious. Now i had to get the cheesecake since owner claims it's the best in Las Vegas, it's decent but not something I would get again, I am a cheesecake junkie but I am very picky about my cheesecake and I love Juniors cheesecake the best. With that being said, both places are different style cheesecakes and like I said it's good but not great, sorry.....Now, we also got the tiramisu, which by the way, WAS THE BEST I have ever ever ever had and I would get this each and everytime I come to Vegas. I might even get 2 slices. The portions are huge and worth it's weight in gold. It's not overly sweet, it's just right. Next time I want to try the fried chicken fries and of course get the tiramisu. Who would have thought a food truck would be that good! Prices are somewhat high, but when you're on vacation,  everything goes...Do yourself a favor, run don't walk and get yourself some 303 in the Cut, you wont be sorry. Until next time \ud83e\udd70",
+      "text": "A small food truck in the parking lot of a strip joint, lol.\nOwner friendly and talkative. We initially saw him and his business on a social media page talking about thr food, so we decided since we were driving to Vegas from Arizona anyways, we would put this on our list of places to try.\nI was impressed with the burrito, my hubby and I shared one since they are big and we wanted to get both desserts so we had to have some room in our tummy. The burrito came  with beans inside and I absolutely hate beans of any kind but my husband loves them so I left them in there and just ate it anyways. Know what? I could barely taste them anyways because the burrito was stuff with so much stuff, I didn't pay attention to the beans, ha. We also got a side of French fries and those were so dang good, I said next time, I would have them put some of the fries inside the burrito for that extra crunch..ya baby! The burrito was damn delicious. Now i had to get the cheesecake since owner claims it's the best in Las Vegas, it's decent but not something I would get again, I am a cheesecake junkie but I am very picky about my cheesecake and I love Juniors cheesecake the best. With that being said, both places are different style cheesecakes and like I said it's good but not great, sorry.....Now, we also got the tiramisu, which by the way, WAS THE BEST I have ever ever ever had and I would get this each and everytime I come to Vegas. I might even get 2 slices. The portions are huge and worth it's weight in gold. It's not overly sweet, it's just right. Next time I want to try the fried chicken fries and of course get the tiramisu. Who would have thought a food truck would be that good! Prices are somewhat high, but when you're on vacation,  everything goes...Do yourself a favor, run don't walk and get yourself some 303 in the Cut, you wont be sorry. Until next time 🥰",
       "time": 1741327094,
       "translated": false
     }
@@ -447,5 +447,51 @@
   "vicinity": "4120 Spring Mountain Rd, Las Vegas",
   "website": "http://303inthecut.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:35.586452+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:35.586452+00:00",
+  "emails": [
+    "303inthecut@gmail.com",
+    "info@303inthecut.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:03.205316+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@303inthecut.com": [
+        "https://303inthecut.com/contact-us"
+      ],
+      "303inthecut@gmail.com": [
+        "https://303inthecut.com/catering-%26-events"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://303inthecut.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://303inthecut.com/contact-us",
+        "status": "ok",
+        "emails": [
+          "info@303inthecut.com"
+        ]
+      },
+      {
+        "url": "https://303inthecut.com/hours-%2B-location",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://303inthecut.com/catering-%26-events",
+        "status": "ok",
+        "emails": [
+          "303inthecut@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://303inthecut.com/contact-us",
+      "https://303inthecut.com/hours-%2B-location"
+    ]
+  }
 }

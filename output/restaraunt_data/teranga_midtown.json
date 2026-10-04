@@ -1,0 +1,81 @@
+{
+  "adr_address": "<span class=\"extended-address\">601 Lexington Avenue</span>, <span class=\"street-address\">153 E 53rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10022</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "601 Lexington Avenue, 153 E 53rd St, New York, NY 10022, USA",
+  "formatted_phone_number": "(332) 910-8138",
+  "geometry": {
+    "location": {
+      "lat": 40.758362,
+      "lng": -73.9698216
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7596234802915,
+        "lng": -73.9688370197085
+      },
+      "southwest": {
+        "lat": 40.75692551970851,
+        "lng": -73.97153498029151
+      }
+    }
+  },
+  "international_phone_number": "+1 332-910-8138",
+  "name": "Teranga Midtown",
+  "place_id": "ChIJi-bJgEtZwokRFayt5jCnQz0",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=4414555888223628309",
+  "website": "https://itsteranga.com/",
+  "details_checked_at": "2026-10-03T21:59:40.205301+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:40.205301+00:00",
+  "emails": [
+    "info@itsteranga.com",
+    "jobs@itsteranga.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:27.522561+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@itsteranga.com": [
+        "https://itsteranga.com/conact-us"
+      ],
+      "jobs@itsteranga.com": [
+        "https://itsteranga.com/conact-us"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://itsteranga.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://itsteranga.com/conact-us",
+        "status": "ok",
+        "emails": [
+          "info@itsteranga.com",
+          "jobs@itsteranga.com"
+        ]
+      },
+      {
+        "url": "https://itsteranga.com/about",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://itsteranga.com/information",
+        "status": "HTTP_404",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://itsteranga.com/",
+      "https://itsteranga.com/conact-us",
+      "https://itsteranga.com/about"
+    ]
+  }
+}

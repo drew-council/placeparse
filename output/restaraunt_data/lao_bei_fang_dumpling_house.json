@@ -142,13 +142,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 11:00 AM – 9:00 PM",
       "Tuesday: Closed",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -245,13 +245,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 11:00 AM – 9:00 PM",
       "Tuesday: Closed",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -354,7 +354,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6lhENwEkOQ8VpmwFQztv_xRDyIb9-eHQ6SNbaKBd0tpGB-5FL=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 4,
       "relative_time_description": "a week ago",
-      "text": "Found this place off of an internet recommendation and it didn\u2019t disappoint. The scallion pancakes and dumplings were delicious, particularly the dumplings dipped in a savory soy sauce they had. The food is both oily & down-to-earth.",
+      "text": "Found this place off of an internet recommendation and it didn’t disappoint. The scallion pancakes and dumplings were delicious, particularly the dumplings dipped in a savory soy sauce they had. The food is both oily & down-to-earth.",
       "time": 1750018159,
       "translated": false
     },
@@ -378,7 +378,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1HEpnxDhVXRqQSgo9DAAmxQ2CE1xMbwE-iHFRJXYOzBfs3-OG=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "My favorite dine out place since childhood. I ate their famous hand pulled noodles for 9 years and still keep going. Though I visited less nowadays since I moved to Brooklyn but every time when I come to Elmhurst this is my go-to spot. And I love that sweet beautiful sister taking orders at the counter. She is the nicest person I\u2019d ever met in my life. Wish this place great success for years to come!",
+      "text": "My favorite dine out place since childhood. I ate their famous hand pulled noodles for 9 years and still keep going. Though I visited less nowadays since I moved to Brooklyn but every time when I come to Elmhurst this is my go-to spot. And I love that sweet beautiful sister taking orders at the counter. She is the nicest person I’d ever met in my life. Wish this place great success for years to come!",
       "time": 1738563954,
       "translated": false
     },
@@ -498,13 +498,13 @@
       ],
       "type": "TAKEOUT",
       "weekday_text": [
-        "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 9:00 PM",
+        "Saturday: 11:00 AM – 9:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
       ]
     }
   ],
@@ -526,5 +526,46 @@
   "vicinity": "83-05 Broadway, Elmhurst",
   "website": "https://northerndumplinghouse.shop/",
   "wheelchair_accessible_entrance": false,
-  "business_status_checked_at": "2026-10-03T20:05:30.884300+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:30.884300+00:00",
+  "emails": [
+    "billing@totalav.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:15.094493+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://northerndumplinghouse.shop/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.totalav.com/deal",
+        "status": "browser_ok",
+        "emails": [
+          "billing@totalav.com"
+        ]
+      },
+      {
+        "url": "https://www.totalav.com/deal",
+        "status": "non_restaurant_email_excluded",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://northerndumplinghouse.shop/"
+    ],
+    "browser_checked_at": "2026-10-03T22:09:35.790780+00:00",
+    "browser_outcome": "found",
+    "excluded_sources": {
+      "billing@totalav.com": {
+        "urls": [
+          "https://www.totalav.com/deal"
+        ],
+        "reason": "Placeholder, publisher/vendor, or non-restaurant mailbox; withheld from restaurant contact exports."
+      }
+    },
+    "quality_reviewed_at": "2026-10-04T05:58:56.901472+00:00"
+  }
 }

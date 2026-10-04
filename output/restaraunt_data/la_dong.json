@@ -1,0 +1,62 @@
+{
+  "adr_address": "<span class=\"street-address\">11 E 17th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "11 E 17th St, New York, NY 10003, USA",
+  "formatted_phone_number": "(917) 289-0019",
+  "geometry": {
+    "location": {
+      "lat": 40.7377201,
+      "lng": -73.9912047
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7389777802915,
+        "lng": -73.98990446970849
+      },
+      "southwest": {
+        "lat": 40.7362798197085,
+        "lng": -73.9926024302915
+      }
+    }
+  },
+  "international_phone_number": "+1 917-289-0019",
+  "name": "La Dong",
+  "place_id": "ChIJzRCbxRVZwokRDAzYpDpbyG4",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=7982730646946057228",
+  "website": "http://www.ladongnyc.com/",
+  "details_checked_at": "2026-10-03T21:59:27.092739+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:27.092739+00:00",
+  "emails": [
+    "reservation@ladongnyc.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:14.134165+00:00",
+    "outcome": "found",
+    "sources": {
+      "reservation@ladongnyc.com": [
+        "https://www.ladongnyc.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.ladongnyc.com/",
+        "status": "ok",
+        "emails": [
+          "reservation@ladongnyc.com"
+        ]
+      },
+      {
+        "url": "https://www.ladongnyc.com/about-8",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "adr_address": "<span class=\"street-address\">50 Eldridge St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "50 Eldridge St, New York, NY 10002, USA",
+  "formatted_phone_number": "(212) 301-0723",
+  "geometry": {
+    "location": {
+      "lat": 40.7159928,
+      "lng": -73.99278919999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7173987302915,
+        "lng": -73.99155456970848
+      },
+      "southwest": {
+        "lat": 40.7147007697085,
+        "lng": -73.9942525302915
+      }
+    }
+  },
+  "international_phone_number": "+1 212-301-0723",
+  "name": "Sushi Hatsune",
+  "place_id": "ChIJaUL6oqlbwokRJicLoAka3-0",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=17140447335437510438",
+  "website": "https://sushihatsunenyc.com/?utm_source=google",
+  "details_checked_at": "2026-10-03T21:59:31.672818+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:31.672818+00:00",
+  "emails": [
+    "sushihatsune50@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:25.174636+00:00",
+    "outcome": "found",
+    "sources": {
+      "sushihatsune50@gmail.com": [
+        "https://sushihatsunenyc.com/?utm_source=google"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://sushihatsunenyc.com/?utm_source=google",
+        "status": "ok",
+        "emails": [
+          "sushihatsune50@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
+}

@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
     ]
   },
   "formatted_address": "79 Chrystie St, New York, NY 10002, USA",
@@ -261,13 +261,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
     ]
   },
   "photos": [
@@ -368,7 +368,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6OzFXivgIZCo86yL6RJ2dZYa3YnvW-2bTZ_0FnB2zGWHJ0EN_=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "One of my favorite things to eat is egg tart.  Their egg tarts were so delicious and awesome.  I had both regular and Portuguese version.  The regular egg tart was subtle and smooth without any fishy egg smell.  Portuguese egg tart was sweeter and more cream br\u00fbl\u00e9e like.  I enjoyed both so much.  One of the bests.",
+      "text": "One of my favorite things to eat is egg tart.  Their egg tarts were so delicious and awesome.  I had both regular and Portuguese version.  The regular egg tart was subtle and smooth without any fishy egg smell.  Portuguese egg tart was sweeter and more cream brûlée like.  I enjoyed both so much.  One of the bests.",
       "time": 1749735335,
       "translated": false
     },
@@ -380,7 +380,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3LrrVwi-mDW5WQKHXOamURBu-eEORn8gD4ZzWQ3IMFrFb_ts=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "The touching moment when I finally found an egg tart in Chinatown NYC that's on par with the BEST egg tart in Hong Kong!\n\nTao Hong is a hole-in-the-wall bakery right next to the famous Wah Fung No.1. As I walked past the bakery, the cashier lady excitedly told me they had just baked a fresh batch of hot egg tarts.  $1.75 each, CASH ONLY.\n\n\uff0aEgg Tart \u86cb\u64bb $1.75\nThe puff pastry tart shell was buttery, light, crumbly, and incredibly flaky, with perfectly laminated layers that weren't greasy at all. It was paired with a silky smooth, slightly jiggly egg custard. The filling had just the right amount of sweetness, though I did wish for a richer egg flavor. Even though I usually prefer a cookie crust, this one still won me over.\n\nBtw they also sell mini mooncakes in black sesame and green tea flavors, which really interest me. I will definitely go back to try those and let you guys know my thoughts.",
+      "text": "The touching moment when I finally found an egg tart in Chinatown NYC that's on par with the BEST egg tart in Hong Kong!\n\nTao Hong is a hole-in-the-wall bakery right next to the famous Wah Fung No.1. As I walked past the bakery, the cashier lady excitedly told me they had just baked a fresh batch of hot egg tarts.  $1.75 each, CASH ONLY.\n\n＊Egg Tart 蛋撻 $1.75\nThe puff pastry tart shell was buttery, light, crumbly, and incredibly flaky, with perfectly laminated layers that weren't greasy at all. It was paired with a silky smooth, slightly jiggly egg custard. The filling had just the right amount of sweetness, though I did wish for a richer egg flavor. Even though I usually prefer a cookie crust, this one still won me over.\n\nBtw they also sell mini mooncakes in black sesame and green tea flavors, which really interest me. I will definitely go back to try those and let you guys know my thoughts.",
       "time": 1743191182,
       "translated": false
     },
@@ -434,5 +434,13 @@
   "user_ratings_total": 118,
   "utc_offset": -240,
   "vicinity": "79 Chrystie St, New York",
-  "business_status_checked_at": "2026-10-03T20:06:14.371475+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:14.371475+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:03.390654+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

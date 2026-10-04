@@ -1,0 +1,69 @@
+{
+  "adr_address": "<span class=\"street-address\">37-66 74th St.</span>, <span class=\"locality\">Jackson Heights</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11372</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "37-66 74th St., Jackson Heights, NY 11372, USA",
+  "formatted_phone_number": "(718) 507-1111",
+  "geometry": {
+    "location": {
+      "lat": 40.7470867,
+      "lng": -73.8916869
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74846863029151,
+        "lng": -73.89023921970849
+      },
+      "southwest": {
+        "lat": 40.74577066970851,
+        "lng": -73.89293718029151
+      }
+    }
+  },
+  "international_phone_number": "+1 718-507-1111",
+  "name": "Namaste Tasi Delek Restaurant & Bar",
+  "place_id": "ChIJ6Sx0LQdfwokR4xVSoZkDkyo",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=3067799729540830691",
+  "website": "https://namastetasidelek.com/",
+  "details_checked_at": "2026-10-03T21:59:28.924537+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:28.924537+00:00",
+  "emails": [
+    "prajwalmishra5@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:18.000709+00:00",
+    "outcome": "found",
+    "sources": {
+      "prajwalmishra5@gmail.com": [
+        "https://namastetasidelek.com/",
+        "https://namastetasidelek.com/Contact"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://namastetasidelek.com/",
+        "status": "HTTP_400",
+        "emails": []
+      },
+      {
+        "url": "https://namastetasidelek.com/",
+        "status": "browser_ok",
+        "emails": [
+          "prajwalmishra5@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:10:20.143294+00:00",
+    "browser_outcome": "found",
+    "quality_review": {
+      "checked_at": "2026-10-04T05:58:56.917781+00:00",
+      "note": "Published under FIND US on the restaurant Contact page alongside matching phone and Jackson Heights address. No ungrounded search-result email was added."
+    }
+  }
+}

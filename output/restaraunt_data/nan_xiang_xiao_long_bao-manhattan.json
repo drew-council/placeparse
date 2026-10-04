@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM"
+      "Monday: 11:00 AM – 10:30 PM",
+      "Tuesday: 11:00 AM – 10:30 PM",
+      "Wednesday: 11:00 AM – 10:30 PM",
+      "Thursday: 11:00 AM – 10:30 PM",
+      "Friday: 11:00 AM – 10:30 PM",
+      "Saturday: 11:00 AM – 10:30 PM",
+      "Sunday: 11:00 AM – 10:30 PM"
     ]
   },
   "delivery": true,
@@ -263,13 +263,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM"
+      "Monday: 11:00 AM – 10:30 PM",
+      "Tuesday: 11:00 AM – 10:30 PM",
+      "Wednesday: 11:00 AM – 10:30 PM",
+      "Thursday: 11:00 AM – 10:30 PM",
+      "Friday: 11:00 AM – 10:30 PM",
+      "Saturday: 11:00 AM – 10:30 PM",
+      "Sunday: 11:00 AM – 10:30 PM"
     ]
   },
   "photos": [
@@ -324,7 +324,7 @@
     {
       "height": 2564,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/114807531691711396768\">\u725b\u725b</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/114807531691711396768\">牛牛</a>"
       ],
       "photo_reference": "ATKogpcfnMiMGXzPQpvNx6u9OW0I1Hh_s1Kg93EjgTJlgZ-Dk4uElWMPQXVKph-YCGvRZi4y4mQm1ZtbF5EXhSOvX1_ZHr7GELuY4ep9NwkLucIK7Fo5CpbB4Vujl0R-bdyJgaiV6tbHb4dszk9s6B_SrLmBbcLvLlHTsHZfT-bIZK05IHjIzWa7MX7ad-lIEVcttSZrUU6oNuUHEIc3GaQbp1e_z4quf3sCD9VTeDd0XEpQnOSDj_921NT9FcLkNvjlKHOI_MfHN_3oQ87CAe0NoBN-TKKL76XfeJs8N5AFz2VlgvQvEOwx5NYTGSEvAr9JHQJLLGiFcykooL2PSzr9sz1qGytztNja8r5yw6l9gZTO1LrHYOVSesdoMAeOU5wqge_d1aTR-nFRyhmAkshg14ka22Tt7-ho1tNI7P8XYSMIvpMB",
       "width": 3419
@@ -371,7 +371,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyboe_RAGJ7JGuxCRBqz_G6Gb-Lq4PjJ3FvtQti0_Lz01Tc-9I=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "The food here is entirely worth the wait and trip if you\u2019re not super close. The udon and Lucky six Soup Dumplings options were my favorite. The Lucky Six is an especially good deal to try out different flavors without having to get a whole set of each one. Staff was kind even when they let us know we had to give up the table (the place was getting busier since we arrived and my friend and I somewhat overstayed our welcome. I understood and brought the leftovers with me). Would love to pass by again for another meal",
+      "text": "The food here is entirely worth the wait and trip if you’re not super close. The udon and Lucky six Soup Dumplings options were my favorite. The Lucky Six is an especially good deal to try out different flavors without having to get a whole set of each one. Staff was kind even when they let us know we had to give up the table (the place was getting busier since we arrived and my friend and I somewhat overstayed our welcome. I understood and brought the leftovers with me). Would love to pass by again for another meal",
       "time": 1743441172,
       "translated": false
     },
@@ -383,7 +383,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_ARP0HA73h_rELVpGcyXbSxU21L3YH7j1TczVrPC-McP95_hn=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "The chicken soup dumplings were amazing \u2014 it was my first time trying soup dumplings, and I\u2019m absolutely in love! Highly recommend. The veggie dumplings were just okay, but the place itself is beautiful, with a calm atmosphere that makes it easy to talk and enjoy your time.",
+      "text": "The chicken soup dumplings were amazing — it was my first time trying soup dumplings, and I’m absolutely in love! Highly recommend. The veggie dumplings were just okay, but the place itself is beautiful, with a calm atmosphere that makes it easy to talk and enjoy your time.",
       "time": 1750431362,
       "translated": false
     },
@@ -407,7 +407,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_JvKYAbs9hH4TR3BFN3wpASfnjM9jdZYI3u5QBlV9MCkV3FYq=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "If you\u2019re looking for Chinese Food & Xiao Long Bao in Manhattan, please check this place out.\n\nAmple seating and great ambience. Came in close to 5pm before the crowd and the restaurant is pretty quiet.\n\nOrdered the standard XLB, skin is on the thicker side but they did not back down on the \u2018soup\u2019 in it. Large amounts of meat and \u2018soup\u2019, great choice & recommended to try it out.\n\nNext is the Pork & Veg Wonton in Spicy Peanut Sauce. Aroma is great, skin is fairly thin and the meat is delicious. Definitely a must order.\n\nScallion Pancake is rather dense, mostly made out of flour and lightly fried skin.\n\nThe Pork Chop Noodle Soup does the job. The soup is on the bland side but the pork chop makes up for it.\n\nHot Soybean Milk is also a great try, but do take note it\u2019s served w/o sugar.\n\nOverall, great place and find on Google Maps. I would definitely recommend to give this place a try!",
+      "text": "If you’re looking for Chinese Food & Xiao Long Bao in Manhattan, please check this place out.\n\nAmple seating and great ambience. Came in close to 5pm before the crowd and the restaurant is pretty quiet.\n\nOrdered the standard XLB, skin is on the thicker side but they did not back down on the ‘soup’ in it. Large amounts of meat and ‘soup’, great choice & recommended to try it out.\n\nNext is the Pork & Veg Wonton in Spicy Peanut Sauce. Aroma is great, skin is fairly thin and the meat is delicious. Definitely a must order.\n\nScallion Pancake is rather dense, mostly made out of flour and lightly fried skin.\n\nThe Pork Chop Noodle Soup does the job. The soup is on the bland side but the pork chop makes up for it.\n\nHot Soybean Milk is also a great try, but do take note it’s served w/o sugar.\n\nOverall, great place and find on Google Maps. I would definitely recommend to give this place a try!",
       "time": 1747085123,
       "translated": false
     },
@@ -443,5 +443,19 @@
   "vicinity": "24 W 33rd St, New York",
   "website": "https://nanxiangxiaolongbao.com/?utm_source=gbp&utm_medium=organic&utm_content=ktown",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:45.241272+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:45.241272+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:33.933198+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://nanxiangxiaolongbao.com/?utm_source=gbp&utm_medium=organic&utm_content=ktown",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

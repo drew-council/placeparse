@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Tuesday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 12:00 PM – 12:00 AM",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
     ]
   },
   "delivery": true,
@@ -267,13 +267,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Tuesday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 12:00 PM – 12:00 AM",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
     ]
   },
   "photos": [
@@ -375,7 +375,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXC7kKXXwfcuefWlbTDSaJ6aDSFaMeyeZULkCcFPSw4Onvn92iF=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "a month ago",
-      "text": "It was a beautiful Sunday afternoon in the City on Mother\u2019Day. After some pizza at Lombardi\u2019s on Spring St., it was time for a dessert. A great option close by (right off of Bowery) is Morgenstern\u2019s, and that\u2019s where I headed. I\u2019m a regular there because their ice cream flavors are just so good and interesting. On this occasion I had the salted peanut butter, which was excellent and refreshing. I\u2019ve had most things on the menu and my two current favorites being the salted peanut butter and the banana teddy graham, which I\u2019ll come back for next weekend. So good! This is one of my favorite places in the City for soft serve ice cream because they have many creative and interesting flavor options and combinations. If you try Morgenstern\u2019s I\u2019m sure it\u2019ll become one of your favorites. It can be an expensive venture, but recommended!",
+      "text": "It was a beautiful Sunday afternoon in the City on Mother’Day. After some pizza at Lombardi’s on Spring St., it was time for a dessert. A great option close by (right off of Bowery) is Morgenstern’s, and that’s where I headed. I’m a regular there because their ice cream flavors are just so good and interesting. On this occasion I had the salted peanut butter, which was excellent and refreshing. I’ve had most things on the menu and my two current favorites being the salted peanut butter and the banana teddy graham, which I’ll come back for next weekend. So good! This is one of my favorite places in the City for soft serve ice cream because they have many creative and interesting flavor options and combinations. If you try Morgenstern’s I’m sure it’ll become one of your favorites. It can be an expensive venture, but recommended!",
       "time": 1747071270,
       "translated": false
     },
@@ -387,7 +387,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVsQl3DhpMmvI_zmQQrOvVIP0SSkl1NyqMJTpAym0HxAyd1n2c=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "We ordered the Banana and Chocolate flavors from Morgenstern\u2019s Bananas, and they were absolutely amazing!\n\nThe Banana flavor was pure, creamy, and packed with real banana goodness\u2014nothing artificial, just smooth, natural sweetness with the perfect texture. It tasted like the best version of a banana, elevated into ice cream form.\n\nThe Chocolate was incredibly rich and decadent, with a deep cocoa flavor that was bold yet silky. Every spoonful was super satisfying, like a luxurious chocolate experience in frozen form.\n\nBoth flavors were perfectly balanced, not too sweet, and had that signature high-quality texture Morgenstern\u2019s is known for. If you love premium ice cream with intense, real flavors, this place is a must-try.",
+      "text": "We ordered the Banana and Chocolate flavors from Morgenstern’s Bananas, and they were absolutely amazing!\n\nThe Banana flavor was pure, creamy, and packed with real banana goodness—nothing artificial, just smooth, natural sweetness with the perfect texture. It tasted like the best version of a banana, elevated into ice cream form.\n\nThe Chocolate was incredibly rich and decadent, with a deep cocoa flavor that was bold yet silky. Every spoonful was super satisfying, like a luxurious chocolate experience in frozen form.\n\nBoth flavors were perfectly balanced, not too sweet, and had that signature high-quality texture Morgenstern’s is known for. If you love premium ice cream with intense, real flavors, this place is a must-try.",
       "time": 1741581593,
       "translated": false
     },
@@ -399,7 +399,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMvsimH4MId1v0NQg9-XamBS4a8TFzopL4O6xjZVosOmX2TTEb=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "a week ago",
-      "text": "There are some delicious vegan options available! We tried two of them, and both were really good. My favorite was the milkshake with the dried strawberries. \ud83c\udf53",
+      "text": "There are some delicious vegan options available! We tried two of them, and both were really good. My favorite was the milkshake with the dried strawberries. 🍓",
       "time": 1750296734,
       "translated": false
     },
@@ -411,7 +411,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiHSlByWjxIguuUn6apkeaTt5XYI3Ikx5rGqcYmlCzflDnun1F4A=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "The chocolate and peanut butter flavours are great. Sometimes you can swirl them, and that\u2019s the best. You should alwaysss be able to swirl them.\nThe chocolate is really dark and delicious. It\u2019s vegan (dairy free) but you wouldn\u2019t know it.\nThe peanut butter dip is not worth the $0.77. The shell is super dooper thin and adds nothin\u2019.\nSome spots to sit. They sell tubs of Morgensterns and Bananas.",
+      "text": "The chocolate and peanut butter flavours are great. Sometimes you can swirl them, and that’s the best. You should alwaysss be able to swirl them.\nThe chocolate is really dark and delicious. It’s vegan (dairy free) but you wouldn’t know it.\nThe peanut butter dip is not worth the $0.77. The shell is super dooper thin and adds nothin’.\nSome spots to sit. They sell tubs of Morgensterns and Bananas.",
       "time": 1750293677,
       "translated": false
     },
@@ -423,7 +423,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAGBM3suoTFuluPoYxqzVML40-h9BdJ61nZa4YVkr0su1ndA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Absolutely delicious. Had the mixed midnight chocolate and salted peanut butter. It was rich, not too sweet.. some of the best (if not the best) vegan ice cream I\u2019ve ever had!!! Wish there was some better seating in/outside as I was on crutches and it was busy- tiny shop. But it seriously was so incredible!\n\nHusband got - midnight choc cone\nI got- midnight choc and pb swirl regular size\nBest friend- got banana soft serve with strawberry sauce in a mini!!!!",
+      "text": "Absolutely delicious. Had the mixed midnight chocolate and salted peanut butter. It was rich, not too sweet.. some of the best (if not the best) vegan ice cream I’ve ever had!!! Wish there was some better seating in/outside as I was on crutches and it was busy- tiny shop. But it seriously was so incredible!\n\nHusband got - midnight choc cone\nI got- midnight choc and pb swirl regular size\nBest friend- got banana soft serve with strawberry sauce in a mini!!!!",
       "time": 1747870291,
       "translated": false
     }
@@ -442,5 +442,36 @@
   "vicinity": "2 Rivington St, New York",
   "website": "http://www.morgensternsbananas.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:42.028667+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:42.028667+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:31.126533+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://morgensternsbananas.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://morgensternsbananas.com/pages/contact",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://morgensternsbananas.com/pages/faq",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://morgensternsbananas.com/pages/about-us",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://morgensternsbananas.com/pages/contact"
+    ]
+  }
 }

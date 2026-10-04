@@ -143,12 +143,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20096:00\u202fPM"
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 12:00 – 6:00 PM"
     ]
   },
   "delivery": false,
@@ -242,12 +242,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20096:00\u202fPM"
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 12:00 – 6:00 PM"
     ]
   },
   "photos": [
@@ -350,7 +350,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2C_uV_doEOwk1ypEHrzavQL74kcDidQXLXX9dcPxpvFqRO6Md=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "Great seafood \ud83e\udd9e \ud83c\udf64!! Fantastic taste! I can recommend to go for Triple Threat Combo!!! Lobster, Crab, and Shrimp \u201cOh My!\u201d\n\nFull half pound lobster tail (fried or steamed, with a Full Crab Leg Cluster covered with our famously delicious garlic sauce and a dozen sauteed large garlic shell on shrimp set on a bed of baby red potatoes, with RogerWood smoked sausage, complemented with two pieces of sweet corn. They do mot serve alcohol \ud83c\udf7a .",
+      "text": "Great seafood 🦞 🍤!! Fantastic taste! I can recommend to go for Triple Threat Combo!!! Lobster, Crab, and Shrimp “Oh My!”\n\nFull half pound lobster tail (fried or steamed, with a Full Crab Leg Cluster covered with our famously delicious garlic sauce and a dozen sauteed large garlic shell on shrimp set on a bed of baby red potatoes, with RogerWood smoked sausage, complemented with two pieces of sweet corn. They do mot serve alcohol 🍺 .",
       "time": 1748777500,
       "translated": false
     },
@@ -423,11 +423,48 @@
   "website": "http://shonuffseafood.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "preact@10.5.13.module.js",
+    "preact@10.5.13.compat.module.min.js",
     "preact@10.5.13.devtools.module.js",
-    "shonuff@shonuffseafood.com",
     "preact@10.5.13.hooks.module.js",
-    "preact@10.5.13.compat.module.min.js"
+    "preact@10.5.13.module.js",
+    "shonuff@shonuffseafood.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:07.090893+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:07.090893+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:56.687474+00:00",
+    "outcome": "found",
+    "sources": {
+      "shonuff@shonuffseafood.com": [
+        "https://shonuffseafood.com/",
+        "https://shonuffseafood.com/contact_us/",
+        "https://shonuffseafood.com/about_us/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://shonuffseafood.com/",
+        "status": "ok",
+        "emails": [
+          "shonuff@shonuffseafood.com"
+        ]
+      },
+      {
+        "url": "https://shonuffseafood.com/contact_us/",
+        "status": "ok",
+        "emails": [
+          "shonuff@shonuffseafood.com"
+        ]
+      },
+      {
+        "url": "https://shonuffseafood.com/about_us/",
+        "status": "ok",
+        "emails": [
+          "shonuff@shonuffseafood.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://shonuffseafood.com/contact_us/"
+    ]
+  }
 }

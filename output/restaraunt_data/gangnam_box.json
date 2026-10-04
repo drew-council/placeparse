@@ -1,0 +1,49 @@
+{
+  "adr_address": "<span class=\"street-address\">39 W 32nd St #2FL</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10001</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "CLOSED_PERMANENTLY",
+  "formatted_address": "39 W 32nd St #2FL, New York, NY 10001, USA",
+  "formatted_phone_number": "(347) 276-8007",
+  "geometry": {
+    "location": {
+      "lat": 40.7481614,
+      "lng": -73.9872958
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74941803029149,
+        "lng": -73.98601461970848
+      },
+      "southwest": {
+        "lat": 40.74672006970849,
+        "lng": -73.9887125802915
+      }
+    }
+  },
+  "international_phone_number": "+1 347-276-8007",
+  "name": "Gangnam Box",
+  "place_id": "ChIJ172bjGVZwokRZCFp3PjHEd8",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=16073848416725705060",
+  "website": "http://www.gangnambox.nyc/",
+  "details_checked_at": "2026-10-03T21:59:28.155034+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:28.155034+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:06.205682+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://www.gangnambox.nyc/",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
+}

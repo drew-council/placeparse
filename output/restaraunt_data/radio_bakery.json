@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Tuesday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Wednesday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Thursday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Friday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Saturday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Sunday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM"
+      "Monday: 7:30 AM – 3:30 PM",
+      "Tuesday: 7:30 AM – 3:30 PM",
+      "Wednesday: 7:30 AM – 3:30 PM",
+      "Thursday: 7:30 AM – 3:30 PM",
+      "Friday: 7:30 AM – 3:30 PM",
+      "Saturday: 7:30 AM – 3:30 PM",
+      "Sunday: 7:30 AM – 3:30 PM"
     ]
   },
   "delivery": false,
@@ -261,13 +261,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Tuesday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Wednesday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Thursday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Friday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Saturday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "Sunday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM"
+      "Monday: 7:30 AM – 3:30 PM",
+      "Tuesday: 7:30 AM – 3:30 PM",
+      "Wednesday: 7:30 AM – 3:30 PM",
+      "Thursday: 7:30 AM – 3:30 PM",
+      "Friday: 7:30 AM – 3:30 PM",
+      "Saturday: 7:30 AM – 3:30 PM",
+      "Sunday: 7:30 AM – 3:30 PM"
     ]
   },
   "photos": [
@@ -368,7 +368,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ53SPUTmZ8IwB_recDpjah5JMCHdA5maGvi5nZiTvQeMMcnA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "I love this place! We tried the cheese and prosciutto sandwich, and it was absolutely delicious!!!perfectly balanced and full of flavor. We\u2019ve had both breakfast and lunch here, and everything has been consistently amazing. The pastries are super creative and the vibe is always welcoming. The line can get long, but it moves fairly quickly and it\u2019s totally worth it. Definitely one of my favorite spots in the city now!",
+      "text": "I love this place! We tried the cheese and prosciutto sandwich, and it was absolutely delicious!!!perfectly balanced and full of flavor. We’ve had both breakfast and lunch here, and everything has been consistently amazing. The pastries are super creative and the vibe is always welcoming. The line can get long, but it moves fairly quickly and it’s totally worth it. Definitely one of my favorite spots in the city now!",
       "time": 1749400020,
       "translated": false
     },
@@ -380,7 +380,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIJva94Qinr81rQR3QLdrkI59u9J_yhFW3Bq5duN8a9Vf8bqo=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 4,
       "relative_time_description": "3 weeks ago",
-      "text": "This place always has a line\u2014and I finally understand why, though I wouldn\u2019t say it fully lives up to the hype (for me).\n\nThe tofu sandwich was excellent: cold, refreshing, and packed with flavor. The sweet and spicy sauce, plus the creamy tofu and crunchy slaw, made it perfect for a hot day. I\u2019d go back for this alone.\n\nThe triple chocolate croissant, however, didn\u2019t impress. Not as crispy or layered as what you\u2019d get at Nick + Sons, though it was rich and buttery.\n\nSurprisingly, the iced peach tea had no added sugar\u2014light, clean, and a great pairing with the sandwich.\n\nYou can\u2019t count on specific items being in stock, so what you get depends on timing and luck. Overall: worth trying, especially if you\u2019re curious about the sandwich\u2014but I wouldn\u2019t wait in a long line for the pastries.",
+      "text": "This place always has a line—and I finally understand why, though I wouldn’t say it fully lives up to the hype (for me).\n\nThe tofu sandwich was excellent: cold, refreshing, and packed with flavor. The sweet and spicy sauce, plus the creamy tofu and crunchy slaw, made it perfect for a hot day. I’d go back for this alone.\n\nThe triple chocolate croissant, however, didn’t impress. Not as crispy or layered as what you’d get at Nick + Sons, though it was rich and buttery.\n\nSurprisingly, the iced peach tea had no added sugar—light, clean, and a great pairing with the sandwich.\n\nYou can’t count on specific items being in stock, so what you get depends on timing and luck. Overall: worth trying, especially if you’re curious about the sandwich—but I wouldn’t wait in a long line for the pastries.",
       "time": 1748735825,
       "translated": false
     },
@@ -404,7 +404,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWH21OfLJ6DCzEB0M35rwW0DXYHRIAZujHFHPAfWKDNp6kZhaDh=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "BEST bakery I\u2019ve ever been to!  Worth the hype, and the wait is not too bad if you get there early.  If the line is wrapped well around the block it could take an hour.\n\nThe sandwiches are great, and the focaccia they make is incredible. The turkey pesto sandwich is filled with pine nuts, refreshing kale, and perfect pesto\u2014 its is a must-try.\n\nThe pastries are fantastic, for me croissants are my favorite and the rhubarb croissant was the best!  It had a light custard filling, almost like an egg tart, and fresh tart rhubarb layered on flaky pastry.\n\nNice staff, cute interior- overall I think its deserving of the No. 1 nyc bakery title",
+      "text": "BEST bakery I’ve ever been to!  Worth the hype, and the wait is not too bad if you get there early.  If the line is wrapped well around the block it could take an hour.\n\nThe sandwiches are great, and the focaccia they make is incredible. The turkey pesto sandwich is filled with pine nuts, refreshing kale, and perfect pesto— its is a must-try.\n\nThe pastries are fantastic, for me croissants are my favorite and the rhubarb croissant was the best!  It had a light custard filling, almost like an egg tart, and fresh tart rhubarb layered on flaky pastry.\n\nNice staff, cute interior- overall I think its deserving of the No. 1 nyc bakery title",
       "time": 1745162997,
       "translated": false
     },
@@ -416,7 +416,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVikZvhBSYSeJHyC2iVE3uoSeiUL7_8Q-E6SrAo6CM8YBBQWbE=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "TLDR; get the shakshuka focaccia\n\nWe got here 30 minutes after they opened and there was already a long line out the door. It took us about 30ish minutes to get to the front and order.\n\nWe got a plain croissant, a shakshuka focaccia and a blueberry danish - they were all wonderful buy I especially want to call out the shakshuka focaccia, it has SO MUCH flavour, the texture was perfect, the spice level was amazing and it felt so hearty and warm. So many regrets not getting a second piece but I couldn\u2019t bring myself to stand in line again that has become even longer.\n\nThe iced mocha was pretty good too.",
+      "text": "TLDR; get the shakshuka focaccia\n\nWe got here 30 minutes after they opened and there was already a long line out the door. It took us about 30ish minutes to get to the front and order.\n\nWe got a plain croissant, a shakshuka focaccia and a blueberry danish - they were all wonderful buy I especially want to call out the shakshuka focaccia, it has SO MUCH flavour, the texture was perfect, the spice level was amazing and it felt so hearty and warm. So many regrets not getting a second piece but I couldn’t bring myself to stand in line again that has become even longer.\n\nThe iced mocha was pretty good too.",
       "time": 1750029837,
       "translated": false
     }
@@ -436,5 +436,48 @@
   "vicinity": "135 India St, Brooklyn",
   "website": "http://radiobakery.nyc/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:58.191260+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:58.191260+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:48.388312+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.radiobakery.nyc/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.radiobakery.nyc/contact",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.radiobakery.nyc/faq",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.radiobakery.nyc/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.radiobakery.nyc/contact",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.radiobakery.nyc/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.radiobakery.nyc/"
+    ],
+    "browser_checked_at": "2026-10-03T22:11:08.681697+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

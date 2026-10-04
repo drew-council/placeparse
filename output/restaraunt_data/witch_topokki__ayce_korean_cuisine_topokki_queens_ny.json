@@ -149,7 +149,7 @@
     {
       "height": 3024,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/113603482767338256866\">\u4e0d\u8981\u54e5\u54e5</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/113603482767338256866\">不要哥哥</a>"
       ],
       "photo_reference": "ATKogpeWbvJuc9qkF7iNP-nQfx_8zSR_SMtLczNJ7gHiHBFnEhg5svPx9BSDhqi3diz3FhN1nbdbMeCNe4y31cxItTq571hiJbblIW1DcRyqDVKIZ6KFQuSwbOpGQkHnV28W_rrGTiYAK0bA7mWcS1X9dJBuBeAtYE6WHHWzX9QUvgG1bHpm3cx-V-jmGun-cWeftsSrzJXEwPKyN_TH9hVKEw-cTWHxATEsYhAziP2lVbC69OSqB_n2nm55NLxbFB3TG92unXoA13hWTMM72SUTU5WiB_2O_unCmWDSiI-UXQ-qUzkU983rq3sgjdxBP8reO5DZ66Wk8AMMLLZ22pY0DdU6E73iuLlMaMIoeg3vuPdhiBum6NdQ0SR5s2owH4QVmh8Nlro31bgalQTyZQ4-ancPxEmGyYqgkW0d-06fMWoEP_hM",
       "width": 4032
@@ -221,7 +221,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZtt9p1QDnVRIXLGOo-ANbP0IUOpcardh2t_h5QTMguHVqXmyh=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "The staff is very helpful, they\u2019ll show you what to do and where everything is. They have great selection of ramen, broth flavors, hotpot balls, veggies, and other side dishes! Its also to easy to mix the flavors of the broth because they have a guide posted on how you want your broth to turn out.",
+      "text": "The staff is very helpful, they’ll show you what to do and where everything is. They have great selection of ramen, broth flavors, hotpot balls, veggies, and other side dishes! Its also to easy to mix the flavors of the broth because they have a guide posted on how you want your broth to turn out.",
       "time": 1718053132,
       "translated": false
     },
@@ -245,7 +245,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-rX1ubD8MwAG5mxiDzUfpakx3i8inYpav2y9a_KjSYF8jg2cW=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "the atmosphere was nice and the food was good. they offer a variety of fried foods and vegetables, and you can also choose from a selection of ramen! overall amazing meal, well worth the money. can\u2019t wait for the manhattan location to open up!",
+      "text": "the atmosphere was nice and the food was good. they offer a variety of fried foods and vegetables, and you can also choose from a selection of ramen! overall amazing meal, well worth the money. can’t wait for the manhattan location to open up!",
       "time": 1713824259,
       "translated": false
     }
@@ -271,5 +271,18 @@
   "emails": [
     "info@witchtopokki.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:25.214916+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:25.214916+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:24.662782+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://witchtopokki.com/",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

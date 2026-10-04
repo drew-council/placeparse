@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
     ]
   },
   "delivery": true,
@@ -267,13 +267,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
     ]
   },
   "photos": [
@@ -376,19 +376,19 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVELAo3Pgw1X0OCQg0nx8J5WEwpBnJTrZU-NL1pi2aqqhyQguwi=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "2 months ago",
-      "text": "A nice elevated Mexican neighborhood restaurant in the crown heights / prospect heights area. As we walked in, this place immediately got a line out the door, it gets packed on the weekends!\n\nThe food was solid. The Plato don Carne was quite good, the chicken imo was better than the steak. The enchiladas mariscos was okay. The shrimp and crabmeat were good. Salmon was an odd choice for a filling. Mole was standard mole, nothing too insane. The pozole was one of the better pozoles I\u2019ve had. The ceviche was fresh and delicious! Salsas were fine and the guacamole was fresh.\n\nOverall, I think I would come back and try some different stuff.",
+      "text": "A nice elevated Mexican neighborhood restaurant in the crown heights / prospect heights area. As we walked in, this place immediately got a line out the door, it gets packed on the weekends!\n\nThe food was solid. The Plato don Carne was quite good, the chicken imo was better than the steak. The enchiladas mariscos was okay. The shrimp and crabmeat were good. Salmon was an odd choice for a filling. Mole was standard mole, nothing too insane. The pozole was one of the better pozoles I’ve had. The ceviche was fresh and delicious! Salsas were fine and the guacamole was fresh.\n\nOverall, I think I would come back and try some different stuff.",
       "time": 1745806892,
       "translated": false
     },
     {
-      "author_name": "Howard \u201cHowie\u201d Tran",
+      "author_name": "Howard “Howie” Tran",
       "author_url": "https://www.google.com/maps/contrib/102282366062470933320/reviews",
       "language": "en",
       "original_language": "en",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVuYn2ebn2P-2SpxzoUqwP98gSHMjUsctueP-LCJ-jf5mcMx6l=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 2,
       "relative_time_description": "2 months ago",
-      "text": "The food we ordered was disappointing. We love Mexican food & I have made multiple trips to Mexico, but this food was blah. The Huevos Rancheros were inedible, and the tacos also tasted off. The best things were the guacamole & homemade tortilla chips, and the quesadillas, but even these were just okay, not great, just okay. Also, the food was overpriced for the area and what you get. Perhaps this place used to be better, or this was an off day. We\u2019ve eaten much better Mexican food in the East Village, our neighborhood.\n\nOn our way out we noticed they have a \u201cB\u201d sanitary rating, this may explain part of the problem. The plates & glasses were a bit dirty.",
+      "text": "The food we ordered was disappointing. We love Mexican food & I have made multiple trips to Mexico, but this food was blah. The Huevos Rancheros were inedible, and the tacos also tasted off. The best things were the guacamole & homemade tortilla chips, and the quesadillas, but even these were just okay, not great, just okay. Also, the food was overpriced for the area and what you get. Perhaps this place used to be better, or this was an off day. We’ve eaten much better Mexican food in the East Village, our neighborhood.\n\nOn our way out we noticed they have a “B” sanitary rating, this may explain part of the problem. The plates & glasses were a bit dirty.",
       "time": 1744914314,
       "translated": false
     },
@@ -412,7 +412,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJukCw8u725v0BM6JQahM1Uphsv1sw3xx1G2jZOtZGDhGlDpA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "Some of the best Mexican food I\u2019ve had in NYC. Of course it doesn\u2019t compare w CDMX or LA BUT the food is fresh, the restaurant\u2019s ambiance is lively and fashionable, the service is fast and friendly. Definitely recommend- the cactus and mushroom tacos are veggie friendly and amazing!! Also loved the margarita pitcher",
+      "text": "Some of the best Mexican food I’ve had in NYC. Of course it doesn’t compare w CDMX or LA BUT the food is fresh, the restaurant’s ambiance is lively and fashionable, the service is fast and friendly. Definitely recommend- the cactus and mushroom tacos are veggie friendly and amazing!! Also loved the margarita pitcher",
       "time": 1749403278,
       "translated": false
     },
@@ -424,7 +424,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZEMob239x36RCljT_hJGdkc7LwhrDNvdz2VLDTrzLr6Pys-JD=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 2,
       "relative_time_description": "3 months ago",
-      "text": "The food was ok, but it was missing the authentic Mexican flavors. I read the reviews, and it was mentioned that \u201cthis is the best Mexican food in the city.\u201d\u2026\u2026I guess people don\u2019t get out much.\nThe biggest disappointment was the churros; I was distraught. I am an eat dessert first kind of gal, but if I had eaten these churros first, I would have left right after. There was NO crunch, and the middle was oily and soft, two things that are big no-nos when we are talking about churros. I could have cried on the spot, and no, I\u2019m not being dramatic; dessert is my thing. Check out my review before this one if uou want to try an amazing Mexican restaurant, they are my favorite, from start to finish! \ud83d\ude4c\ud83c\udffe\n\nAs for service, I felt rushed. When I put down my fork, they grabbed it IMMEDIATELY. I didn\u2019t get the \u201chey stay have another drink vibe,\u201d instead it\u2019s been 30 minutes you had ONE drink and some food, byeeeee.\nIt's not the place where I want to have a pitcher of sangria and hang out. I won't be back.",
+      "text": "The food was ok, but it was missing the authentic Mexican flavors. I read the reviews, and it was mentioned that “this is the best Mexican food in the city.”……I guess people don’t get out much.\nThe biggest disappointment was the churros; I was distraught. I am an eat dessert first kind of gal, but if I had eaten these churros first, I would have left right after. There was NO crunch, and the middle was oily and soft, two things that are big no-nos when we are talking about churros. I could have cried on the spot, and no, I’m not being dramatic; dessert is my thing. Check out my review before this one if uou want to try an amazing Mexican restaurant, they are my favorite, from start to finish! 🙌🏾\n\nAs for service, I felt rushed. When I put down my fork, they grabbed it IMMEDIATELY. I didn’t get the “hey stay have another drink vibe,” instead it’s been 30 minutes you had ONE drink and some food, byeeeee.\nIt's not the place where I want to have a pitcher of sangria and hang out. I won't be back.",
       "time": 1743249281,
       "translated": false
     }
@@ -484,10 +484,10 @@
       ],
       "type": "HAPPY_HOUR",
       "weekday_text": [
-        "Monday: 4:00\u2009\u2013\u20097:00\u202fPM",
-        "Tuesday: 4:00\u2009\u2013\u20097:00\u202fPM",
-        "Wednesday: 4:00\u2009\u2013\u20097:00\u202fPM",
-        "Thursday: 4:00\u2009\u2013\u20097:00\u202fPM",
+        "Monday: 4:00 – 7:00 PM",
+        "Tuesday: 4:00 – 7:00 PM",
+        "Wednesday: 4:00 – 7:00 PM",
+        "Thursday: 4:00 – 7:00 PM",
         "Friday: Closed",
         "Saturday: Closed",
         "Sunday: Closed"
@@ -514,5 +514,36 @@
   "vicinity": "736 Franklin Ave, Brooklyn",
   "website": "http://chavelasnyc.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:53.623712+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:53.623712+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:21.095960+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://chavelasnyc.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "http://chavelasnyc.com/about/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://chavelasnyc.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://chavelasnyc.com/about/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:08:07.307580+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

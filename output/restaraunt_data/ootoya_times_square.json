@@ -238,13 +238,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Tuesday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Wednesday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Thursday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Friday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Saturday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Sunday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -421,13 +421,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Tuesday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Wednesday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Thursday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Friday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Saturday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Sunday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM"
     ]
   },
   "photos": [
@@ -530,7 +530,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXe60i8i-L6cx2MO0kRUkFalnbF7tRc3ZlQkxd8-vqsyih-k00=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "First meal in NYC. Waited for 5 minutes and sat on a bar table on Sunday night. Recommend Washu beef sukiyaki nabe (added a onsen tamago), Katsu toji with chicken, and beef potato croquette. All of them are tasty, and I feel it worthwhile to add rice to make it a set (really good Japanese rice). Paid 90 (before tax and tip) for 2 people, but in general I feel it a bit pricey though (but maybe that\u2019s reasonable price on time square\u2026 I\u2019m not sure) No one added water to our table so I feel the service could be improved.",
+      "text": "First meal in NYC. Waited for 5 minutes and sat on a bar table on Sunday night. Recommend Washu beef sukiyaki nabe (added a onsen tamago), Katsu toji with chicken, and beef potato croquette. All of them are tasty, and I feel it worthwhile to add rice to make it a set (really good Japanese rice). Paid 90 (before tax and tip) for 2 people, but in general I feel it a bit pricey though (but maybe that’s reasonable price on time square… I’m not sure) No one added water to our table so I feel the service could be improved.",
       "time": 1750035833,
       "translated": false
     },
@@ -578,7 +578,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXry5wUg-IJoYYBKX2Nr6GgtU5tq9Qqaj3erndOzDJh0W4RCUpx=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "I really enjoyed the authentic Japanese style of set piece and you can create your own combo! I got a salmon set piece and it\u2019s so delicious, light and comforting! The seaweed rice is utmost delicious!\ud83e\udd24 The best part is its affordability given it\u2019s in Times Square! \ud83d\udc4d\ud83c\udffc",
+      "text": "I really enjoyed the authentic Japanese style of set piece and you can create your own combo! I got a salmon set piece and it’s so delicious, light and comforting! The seaweed rice is utmost delicious!🤤 The best part is its affordability given it’s in Times Square! 👍🏼",
       "time": 1746973035,
       "translated": false
     }
@@ -602,5 +602,74 @@
   "utc_offset": -240,
   "vicinity": "141 W 41st St, New York",
   "website": "http://ootoya.us/",
-  "business_status_checked_at": "2026-10-03T20:05:50.942346+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:50.942346+00:00",
+  "emails": [
+    "chelsea@ootoya.us",
+    "corporate@ootoya.us",
+    "recruit@ootoya.us",
+    "timessquare@ootoya.us",
+    "unionsquare@ootoya.us"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:39.266649+00:00",
+    "outcome": "found",
+    "sources": {
+      "corporate@ootoya.us": [
+        "https://www.ootoya.us/about",
+        "https://www.ootoya.us/reservations",
+        "https://www.ootoya.us/join-our-team"
+      ],
+      "chelsea@ootoya.us": [
+        "https://www.ootoya.us/locations"
+      ],
+      "timessquare@ootoya.us": [
+        "https://www.ootoya.us/locations"
+      ],
+      "unionsquare@ootoya.us": [
+        "https://www.ootoya.us/locations"
+      ],
+      "recruit@ootoya.us": [
+        "https://www.ootoya.us/join-our-team"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.ootoya.us/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.ootoya.us/about",
+        "status": "ok",
+        "emails": [
+          "corporate@ootoya.us"
+        ]
+      },
+      {
+        "url": "https://www.ootoya.us/locations",
+        "status": "ok",
+        "emails": [
+          "chelsea@ootoya.us",
+          "timessquare@ootoya.us",
+          "unionsquare@ootoya.us"
+        ]
+      },
+      {
+        "url": "https://www.ootoya.us/reservations",
+        "status": "ok",
+        "emails": [
+          "corporate@ootoya.us"
+        ]
+      },
+      {
+        "url": "https://www.ootoya.us/join-our-team",
+        "status": "ok",
+        "emails": [
+          "corporate@ootoya.us",
+          "recruit@ootoya.us"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

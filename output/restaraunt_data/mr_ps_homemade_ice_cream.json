@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:30\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 12:30\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 12:30\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 12:30\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 12:30 – 9:00 PM",
+      "Tuesday: 12:30 – 9:00 PM",
+      "Wednesday: 12:30 – 9:00 PM",
+      "Thursday: 12:30 – 9:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 8:00 PM"
     ]
   },
   "delivery": true,
@@ -262,13 +262,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:30\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 12:30\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 12:30\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 12:30\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 12:30 – 9:00 PM",
+      "Tuesday: 12:30 – 9:00 PM",
+      "Wednesday: 12:30 – 9:00 PM",
+      "Thursday: 12:30 – 9:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 8:00 PM"
     ]
   },
   "photos": [
@@ -370,7 +370,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIhWFz-V9YKq0pkK5odAYkQvTus6kHgggK9uInPMdQXcmH39IuEA=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "The best icecream \ud83c\udf66 in NYC. Quality ingredients. Made with love. So many different carribean flavors. Shout out to Dwuane for explaining everything to us and being so kind. The icecream is perfectly sweet. Nice custard. I give this place 10 star. Vegan and Dairy free options with icecream and cakes and shakes. The peanut and banana were my favorite. The ginger flavors outrageous.   The mauby tree bark so unique and delicious \ud83d\ude0b. Guava and grape nuts great. Charcoal was fun.  The elderberry and ginget special was outrageous. Beautiful inside. Well be back. Top notch.",
+      "text": "The best icecream 🍦 in NYC. Quality ingredients. Made with love. So many different carribean flavors. Shout out to Dwuane for explaining everything to us and being so kind. The icecream is perfectly sweet. Nice custard. I give this place 10 star. Vegan and Dairy free options with icecream and cakes and shakes. The peanut and banana were my favorite. The ginger flavors outrageous.   The mauby tree bark so unique and delicious 😋. Guava and grape nuts great. Charcoal was fun.  The elderberry and ginget special was outrageous. Beautiful inside. Well be back. Top notch.",
       "time": 1746506211,
       "translated": false
     },
@@ -382,7 +382,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXajEtyUcNXLkTiDPG-hextuz1s4SzwY7URxqOjLIFp37YWcPGC=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "5 months ago",
-      "text": "Amazing ice cream\u2026 my favorite are the grape nut and soursop. Also their carrot cake is absolutely delicious. Good place to get your homemade ice cream and cakes \ud83d\udcaf\ud83d\ude09",
+      "text": "Amazing ice cream… my favorite are the grape nut and soursop. Also their carrot cake is absolutely delicious. Good place to get your homemade ice cream and cakes 💯😉",
       "time": 1736003400,
       "translated": false
     },
@@ -406,7 +406,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWe_xNQB5hG5jdWQYRNu3BGL4TgQ4_qmjA31G-Ya16dUd4ZXt_GtQ=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "10 months ago",
-      "text": "Updated review 8/14/24:\n\nMr. P\u2019s is still here serving the most delicious homemade ice creams with so many flavors to choose from. Today, I decided to get the soursop cherry ice cream in a cup and boy oh boy, I\u2019m happy with my choice. It is extremely refreshing and delicious.\n\n09/7/23\n\nI stopped by to try a scoop of soursop ice cream. It was sweet but delicious. They have so many unique and  different flavors. I\u2019m excited to visit again to try out the other flavors. The decor is very colorful and nice.",
+      "text": "Updated review 8/14/24:\n\nMr. P’s is still here serving the most delicious homemade ice creams with so many flavors to choose from. Today, I decided to get the soursop cherry ice cream in a cup and boy oh boy, I’m happy with my choice. It is extremely refreshing and delicious.\n\n09/7/23\n\nI stopped by to try a scoop of soursop ice cream. It was sweet but delicious. They have so many unique and  different flavors. I’m excited to visit again to try out the other flavors. The decor is very colorful and nice.",
       "time": 1723677435,
       "translated": false
     },
@@ -434,5 +434,13 @@
   "user_ratings_total": 127,
   "utc_offset": -240,
   "vicinity": "1397 Nostrand Ave, Brooklyn",
-  "business_status_checked_at": "2026-10-03T20:05:42.337110+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:42.337110+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:31.511002+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

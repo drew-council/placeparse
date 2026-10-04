@@ -137,13 +137,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u20098:30\u202fPM",
+      "Monday: 5:00 – 8:30 PM",
       "Tuesday: Closed",
       "Wednesday: Closed",
-      "Thursday: 5:00\u2009\u2013\u20098:30\u202fPM",
-      "Friday: 5:00\u2009\u2013\u20098:30\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20093:45\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20093:45\u202fPM"
+      "Thursday: 5:00 – 8:30 PM",
+      "Friday: 5:00 – 8:30 PM",
+      "Saturday: 12:00 – 3:45 PM",
+      "Sunday: 12:00 – 3:45 PM"
     ]
   },
   "dine_in": true,
@@ -167,7 +167,7 @@
   "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-  "name": "M\u1eafm",
+  "name": "Mắm",
   "opening_hours": {
     "open_now": false,
     "periods": [
@@ -223,13 +223,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u20098:30\u202fPM",
+      "Monday: 5:00 – 8:30 PM",
       "Tuesday: Closed",
       "Wednesday: Closed",
-      "Thursday: 5:00\u2009\u2013\u20098:30\u202fPM",
-      "Friday: 5:00\u2009\u2013\u20098:30\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20093:45\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20093:45\u202fPM"
+      "Thursday: 5:00 – 8:30 PM",
+      "Friday: 5:00 – 8:30 PM",
+      "Saturday: 12:00 – 3:45 PM",
+      "Sunday: 12:00 – 3:45 PM"
     ]
   },
   "photos": [
@@ -331,7 +331,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyXMveRraoMQk1aUIn6gUEATOokPkZM5IrHJw57r6B7O24J0cH=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "Everything we ordered was so delicious. We got seated quickly (on a Saturday!). The menu is not too extensive, so it\u2019s easy to choose. The sauce with the egg for the eggplant was finger licking good. The enoki were so crispy and perfect. Great summer food. I had been wanting to come here for a while and it did not disappoint.",
+      "text": "Everything we ordered was so delicious. We got seated quickly (on a Saturday!). The menu is not too extensive, so it’s easy to choose. The sauce with the egg for the eggplant was finger licking good. The enoki were so crispy and perfect. Great summer food. I had been wanting to come here for a while and it did not disappoint.",
       "time": 1749526755,
       "translated": false
     },
@@ -343,7 +343,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWos5bQUcdqzsaOboMakWFwns-gMZ4tfWBjR7eH-eOGUzHUYhu6=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "This Vietnamese spot brings serious Saigon street food vibes to NYC \u2014 and nails it. The ambiance instantly transports you with outdoor seating on short plastic stools, which adds a fun and authentic touch that\u2019s rare to find in the city. It\u2019s casual, energetic, and full of character.\n\nThe food? Absolutely on point. Everything was well-seasoned and balanced, with flavors that really pop. The mushroom lettuce wraps were a standout \u2014 fresh, savory, and perfectly textured. The menu\u2019s small plates make it great for sharing, which adds to the social, laid-back feel.\n\nBonus: there\u2019s a cozy wine bar next door that\u2019s ideal for a nightcap after dinner. Altogether, this place delivers a unique and memorable dining experience \u2014 from the food to the setting to the post-dinner plans.",
+      "text": "This Vietnamese spot brings serious Saigon street food vibes to NYC — and nails it. The ambiance instantly transports you with outdoor seating on short plastic stools, which adds a fun and authentic touch that’s rare to find in the city. It’s casual, energetic, and full of character.\n\nThe food? Absolutely on point. Everything was well-seasoned and balanced, with flavors that really pop. The mushroom lettuce wraps were a standout — fresh, savory, and perfectly textured. The menu’s small plates make it great for sharing, which adds to the social, laid-back feel.\n\nBonus: there’s a cozy wine bar next door that’s ideal for a nightcap after dinner. Altogether, this place delivers a unique and memorable dining experience — from the food to the setting to the post-dinner plans.",
       "time": 1750527677,
       "translated": false
     },
@@ -355,7 +355,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvJYV-0aOyga3qCHdMduU-aTA462D5GWHd8F0nCQIAcbsD=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "4 weeks ago",
-      "text": "This place is NO tips!! How nice. Food and atmosphere are both amazing. A immersive and authentic dining experience as if you\u2019re in Vietnam.\n\nThe tofu and meat platter is great for sharing. A ton of variety of flavors and textures.\n\nThe snail dish is a bit different than I imagined but still delicious. It has a lot of pork mixed in with the snail meat so portion wise is large. The sauce was delicious and I used it to dip other dishes as well.\n\nThe fried prawns were fine but not super memorable. fried to the point that the shells are edible too.",
+      "text": "This place is NO tips!! How nice. Food and atmosphere are both amazing. A immersive and authentic dining experience as if you’re in Vietnam.\n\nThe tofu and meat platter is great for sharing. A ton of variety of flavors and textures.\n\nThe snail dish is a bit different than I imagined but still delicious. It has a lot of pork mixed in with the snail meat so portion wise is large. The sauce was delicious and I used it to dip other dishes as well.\n\nThe fried prawns were fine but not super memorable. fried to the point that the shells are edible too.",
       "time": 1748716452,
       "translated": false
     },
@@ -367,7 +367,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNsYrd6yTJr4F7eHIXTtBRYQU_v4q3SZJDkaiDfnhbuFw3Ns8=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "a week ago",
-      "text": "I had the stuffed snails, clam salad, iced coffee, and the non-vegetarian main platter.\n\nThe clam salad was a recommendation from an employee \u2014 this was my fave dish here! Very fresh tasting. Stuffed snails were also good, with chewy texture and a sauce that complimented it well.\n\nThe main platter is a lot more filling than you would think. I was there with only 1 other friend, so the blood sausage and intestine felt a bit gamey by the time we were finished because there was just a lot of it.\n\nMy friend got the regular iced coffee and I got the vegan one with coconut cream. Both tasted great and the coffee was real strong.\n\nGreat vibes inside especially for warmer months and the service is really chill. I\u2019d love to come back in the winter when they have pho!",
+      "text": "I had the stuffed snails, clam salad, iced coffee, and the non-vegetarian main platter.\n\nThe clam salad was a recommendation from an employee — this was my fave dish here! Very fresh tasting. Stuffed snails were also good, with chewy texture and a sauce that complimented it well.\n\nThe main platter is a lot more filling than you would think. I was there with only 1 other friend, so the blood sausage and intestine felt a bit gamey by the time we were finished because there was just a lot of it.\n\nMy friend got the regular iced coffee and I got the vegan one with coconut cream. Both tasted great and the coffee was real strong.\n\nGreat vibes inside especially for warmer months and the service is really chill. I’d love to come back in the winter when they have pho!",
       "time": 1750355165,
       "translated": false
     },
@@ -379,7 +379,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXicd_Ehih71NHa4twRCKx-Fu6MGAFyjZa3ClO0WhAiRqQ8V_VJ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "2 months ago",
-      "text": "We came for their pho but apparently it\u2019s a winter menu only item. In my opinion, this makes absolutely no sense. Pho is not bound to the winter time. We tried their spring special and it was good, but I definitely need a broth dish. The snails and fried shrimp were good. The outdoor seating is unique and reminds me of Hanoi.",
+      "text": "We came for their pho but apparently it’s a winter menu only item. In my opinion, this makes absolutely no sense. Pho is not bound to the winter time. We tried their spring special and it was good, but I definitely need a broth dish. The snails and fried shrimp were good. The outdoor seating is unique and reminds me of Hanoi.",
       "time": 1745280016,
       "translated": false
     }
@@ -398,5 +398,19 @@
   "utc_offset": -240,
   "vicinity": "70 Forsyth St, New York",
   "website": "https://instagram.com/mam.nyc",
-  "business_status_checked_at": "2026-10-03T20:05:39.957918+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:39.957918+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:26.577084+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://instagram.com/mam.nyc",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -142,13 +142,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 12:00 – 9:00 PM",
       "Tuesday: Closed",
-      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 1:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 1:00\u2009\u2013\u20099:00\u202fPM"
+      "Wednesday: 12:00 – 9:00 PM",
+      "Thursday: 12:00 – 9:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 1:00 – 10:00 PM",
+      "Sunday: 1:00 – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -241,13 +241,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 12:00 – 9:00 PM",
       "Tuesday: Closed",
-      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 1:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 1:00\u2009\u2013\u20099:00\u202fPM"
+      "Wednesday: 12:00 – 9:00 PM",
+      "Thursday: 12:00 – 9:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 1:00 – 10:00 PM",
+      "Sunday: 1:00 – 9:00 PM"
     ]
   },
   "photos": [
@@ -350,7 +350,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVn7-x4u368_Ly71GF6Bg-HR_EsBt0rp7xceQytTBOLzh5nu12Y=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "Philomena\u2019s is the best!!! I judge pizza places based on their plain cheese slice, and this place fits the bill. Delicious sauce, perfect cheese ratio, and a crispy crust! Plus some fresh basil and parmesan cheese on top, if you\u2019d like.\n\nI had the opportunity to meet Mr. Philomena on one of my visits. So friendly and welcoming! Same with Kenny at the register. Thank you for an amazing pizza spot in NYC! \ud83c\udf55\u2764\ufe0f",
+      "text": "Philomena’s is the best!!! I judge pizza places based on their plain cheese slice, and this place fits the bill. Delicious sauce, perfect cheese ratio, and a crispy crust! Plus some fresh basil and parmesan cheese on top, if you’d like.\n\nI had the opportunity to meet Mr. Philomena on one of my visits. So friendly and welcoming! Same with Kenny at the register. Thank you for an amazing pizza spot in NYC! 🍕❤️",
       "time": 1748921880,
       "translated": false
     },
@@ -362,7 +362,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaeNeUnRjtKNWX8vgafBxQlEz5_9sAtCLZKAZf0MGOJcSEdW03RQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "UPDATED REVIEW 4/10/2025\nThe review below was Super Bowl Sunday 2025. The owner Dave was very nice to offer me a free pizza and to give his shop another chance. I\u2019m on a bit of a review kick so it was unlikely I would have returned any time soon. The ninja turtle was really good, I loved how chewy the crust was and the pizza was quite cheesy how I liked. All the toppings were quite hearty and it  was filling. I would have liked it a little less floppy but I know that would have been quite hard with all the toppings on it. Flavor was quite good so yes I would definitely eat it again. Most of all I appreciate an owner willing to take criticism and eager to correct it and not brush it off. He clearly cares about his product and customers. Please give the pizza a try when you\u2019re in the neighborhood!\n\nSo I ordered takeout online and the regular pie was not an option so I got square. They told me 5 more min, I stepped out and came back and it was another 5 more min. Fairly slow and pizza was not good but I don\u2019t really like square. I just wanted to prepay and get out. I would go back to try a regular slice but my first experience annoyed me so I won\u2019t be back soon.",
+      "text": "UPDATED REVIEW 4/10/2025\nThe review below was Super Bowl Sunday 2025. The owner Dave was very nice to offer me a free pizza and to give his shop another chance. I’m on a bit of a review kick so it was unlikely I would have returned any time soon. The ninja turtle was really good, I loved how chewy the crust was and the pizza was quite cheesy how I liked. All the toppings were quite hearty and it  was filling. I would have liked it a little less floppy but I know that would have been quite hard with all the toppings on it. Flavor was quite good so yes I would definitely eat it again. Most of all I appreciate an owner willing to take criticism and eager to correct it and not brush it off. He clearly cares about his product and customers. Please give the pizza a try when you’re in the neighborhood!\n\nSo I ordered takeout online and the regular pie was not an option so I got square. They told me 5 more min, I stepped out and came back and it was another 5 more min. Fairly slow and pizza was not good but I don’t really like square. I just wanted to prepay and get out. I would go back to try a regular slice but my first experience annoyed me so I won’t be back soon.",
       "time": 1744294209,
       "translated": false
     },
@@ -386,7 +386,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3Zd_XlbkZnvC-hET7xszTMZcZdmSNpUY3ZHpYdSuK1Q_z9fA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 2,
       "relative_time_description": "3 weeks ago",
-      "text": "The pizza arrived cold, not even warm . I call to place the order half & half pie, on hour later I get at call from the owner or manager saying they can\u2019t make that order only regular half & half I say ok . Then they can\u2019t fix the bill I was at ready charge for the special order , we chose to compensate with at dessert\nReally bad experience with the famous philomena\u2019s pizza\nI\u2019m open to try again",
+      "text": "The pizza arrived cold, not even warm . I call to place the order half & half pie, on hour later I get at call from the owner or manager saying they can’t make that order only regular half & half I say ok . Then they can’t fix the bill I was at ready charge for the special order , we chose to compensate with at dessert\nReally bad experience with the famous philomena’s pizza\nI’m open to try again",
       "time": 1748741423,
       "translated": false
     },
@@ -423,9 +423,29 @@
   "website": "http://philomenasqueens.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
     "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
-    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+    "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:54.254175+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:54.254175+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:43.429836+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.philomenasqueens.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.philomenasqueens.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:10:58.930702+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

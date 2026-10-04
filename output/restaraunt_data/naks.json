@@ -167,12 +167,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM",
+      "Sunday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM"
     ]
   },
   "dine_in": true,
@@ -283,12 +283,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM",
+      "Sunday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -414,7 +414,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyCReqls0Onrh5kWqDGJQu960onpoUUAqzRJOmA_kNQINFvhAg1g=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Came to Naks to celebrate my birthday. From the moment we stepped in, the space felt lively, colourful and inviting - we knew we were in for a treat!\n\nWe tried the KFC, adobo and the Dungeness crab curry. While we enjoyed everything we ordered, the fried chicken (KFC) was my favourite - bursting with flavour, super crispy on the outside and juicy on the inside. Perfection! I love fried chicken and this is one of my favourites I\u2019ve ever eaten.\n\nOverall the food was spot on - no notes! Excited to come back with a larger group so as to try more dishes!\n\nDrinks wise, I unfortunately found the mocktail I ordered to be much too sweet and couldn\u2019t finish it.\n\nOverall a great meal and I will be recommending Naks to my friends !",
+      "text": "Came to Naks to celebrate my birthday. From the moment we stepped in, the space felt lively, colourful and inviting - we knew we were in for a treat!\n\nWe tried the KFC, adobo and the Dungeness crab curry. While we enjoyed everything we ordered, the fried chicken (KFC) was my favourite - bursting with flavour, super crispy on the outside and juicy on the inside. Perfection! I love fried chicken and this is one of my favourites I’ve ever eaten.\n\nOverall the food was spot on - no notes! Excited to come back with a larger group so as to try more dishes!\n\nDrinks wise, I unfortunately found the mocktail I ordered to be much too sweet and couldn’t finish it.\n\nOverall a great meal and I will be recommending Naks to my friends !",
       "time": 1742529925,
       "translated": false
     },
@@ -438,7 +438,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRxWT9SyrDthhFhhYfYjdbzNKAIt0ehus0HfVesqWPDtECtYo=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in the last week",
-      "text": "I have never left a review but this is something that I had to do. I walked past it earlier in the day and i had flowers in my hand and said what\u2019s up to the workers. They knew i was coming in for dinner to celebrate my anniversary and they took the flowers and had them on the table when she walked in. Being a Filipino has always been something i was proud of but going into this restauranti felt like i was in the backyard while my Tito was cooking lechon. Everyone treated me like i was their Kuya and it was awesome. The food was also incredible and the drinks i could drink all night. Will come back every time my family comes to visit. Thanks to the staff and to the chef. You made our day more special.",
+      "text": "I have never left a review but this is something that I had to do. I walked past it earlier in the day and i had flowers in my hand and said what’s up to the workers. They knew i was coming in for dinner to celebrate my anniversary and they took the flowers and had them on the table when she walked in. Being a Filipino has always been something i was proud of but going into this restauranti felt like i was in the backyard while my Tito was cooking lechon. Everyone treated me like i was their Kuya and it was awesome. The food was also incredible and the drinks i could drink all night. Will come back every time my family comes to visit. Thanks to the staff and to the chef. You made our day more special.",
       "time": 1750808169,
       "translated": false
     }
@@ -463,7 +463,62 @@
   "wheelchair_accessible_entrance": true,
   "emails": [
     "Resy-Box-Logo-Red@2x.png",
-    "events@uafoods.nyc"
+    "events@uafoods.nyc",
+    "hello@naks.nyc",
+    "press@uafoods.nyc"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:43.618731+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:43.618731+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:32.478622+00:00",
+    "outcome": "found",
+    "sources": {
+      "hello@naks.nyc": [
+        "https://www.naks.nyc/",
+        "https://www.naks.nyc/private-events-1",
+        "https://www.naks.nyc/private-events",
+        "https://www.naks.nyc/cateringinquiry"
+      ],
+      "press@uafoods.nyc": [
+        "https://www.naks.nyc/",
+        "https://www.naks.nyc/private-events-1",
+        "https://www.naks.nyc/private-events",
+        "https://www.naks.nyc/cateringinquiry"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.naks.nyc/",
+        "status": "ok",
+        "emails": [
+          "hello@naks.nyc",
+          "press@uafoods.nyc"
+        ]
+      },
+      {
+        "url": "https://www.naks.nyc/private-events-1",
+        "status": "ok",
+        "emails": [
+          "hello@naks.nyc",
+          "press@uafoods.nyc"
+        ]
+      },
+      {
+        "url": "https://www.naks.nyc/private-events",
+        "status": "ok",
+        "emails": [
+          "hello@naks.nyc",
+          "press@uafoods.nyc"
+        ]
+      },
+      {
+        "url": "https://www.naks.nyc/cateringinquiry",
+        "status": "ok",
+        "emails": [
+          "hello@naks.nyc",
+          "press@uafoods.nyc"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

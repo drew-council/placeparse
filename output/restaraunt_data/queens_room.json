@@ -1,0 +1,96 @@
+{
+  "adr_address": "<span class=\"street-address\">36-02 Ditmars Blvd</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11105</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "36-02 Ditmars Blvd, Astoria, NY 11105, USA",
+  "formatted_phone_number": "(347) 987-3994",
+  "geometry": {
+    "location": {
+      "lat": 40.7741458,
+      "lng": -73.9082597
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.77556338029149,
+        "lng": -73.90693646970851
+      },
+      "southwest": {
+        "lat": 40.77286541970849,
+        "lng": -73.90963443029152
+      }
+    }
+  },
+  "international_phone_number": "+1 347-987-3994",
+  "name": "Queen’s Room",
+  "place_id": "ChIJS0-CIGZfwokRgs6ADyiQEKE",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=11605934741466959490",
+  "website": "http://queensroomnyc.com/",
+  "details_checked_at": "2026-10-03T21:59:11.169512+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:11.169512+00:00",
+  "emails": [
+    "events@queensroomnyc.com",
+    "info@queensroomnyc.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:20.068018+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@queensroomnyc.com": [
+        "https://www.queensroomnyc.com/",
+        "https://www.queensroomnyc.com/contact",
+        "https://www.queensroomnyc.com/about",
+        "https://www.queensroomnyc.com/reservationsandevents"
+      ],
+      "events@queensroomnyc.com": [
+        "https://www.queensroomnyc.com/contact"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.queensroomnyc.com/",
+        "status": "ok",
+        "emails": [
+          "info@queensroomnyc.com"
+        ]
+      },
+      {
+        "url": "http://queensroomnyc.com/contact-1",
+        "status": "HTTP_404",
+        "emails": []
+      },
+      {
+        "url": "https://www.queensroomnyc.com/contact",
+        "status": "ok",
+        "emails": [
+          "events@queensroomnyc.com",
+          "info@queensroomnyc.com"
+        ]
+      },
+      {
+        "url": "https://www.queensroomnyc.com/about",
+        "status": "ok",
+        "emails": [
+          "info@queensroomnyc.com"
+        ]
+      },
+      {
+        "url": "http://queensroomnyc.com/reservations",
+        "status": "HTTP_404",
+        "emails": []
+      },
+      {
+        "url": "https://www.queensroomnyc.com/reservationsandevents",
+        "status": "ok",
+        "emails": [
+          "info@queensroomnyc.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
+}

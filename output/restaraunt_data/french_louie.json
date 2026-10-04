@@ -178,13 +178,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 11:30 AM – 9:30 PM",
+      "Wednesday: 11:30 AM – 9:30 PM",
+      "Thursday: 11:30 AM – 9:30 PM",
+      "Friday: 11:30 AM – 10:30 PM",
+      "Saturday: 11:00 AM – 3:00 PM, 5:00 – 10:30 PM",
+      "Sunday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -311,13 +311,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 11:30 AM – 9:30 PM",
+      "Wednesday: 11:30 AM – 9:30 PM",
+      "Thursday: 11:30 AM – 9:30 PM",
+      "Friday: 11:30 AM – 10:30 PM",
+      "Saturday: 11:00 AM – 3:00 PM, 5:00 – 10:30 PM",
+      "Sunday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM"
     ]
   },
   "photos": [
@@ -432,7 +432,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXac20YAknjryWWT3EDPbCPTsIkyCw8KErm6SzehaNJtNhMLvp8=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "I loved this place.  It's a small place but it is comfortable.  They have a very cute patio, which I was happy to be able to enjoy.  The service is very good.  I had the Anchovies Frites.  They were \ud83d\ude0b especially when paired with the Aioli that comes with it.  I also had the Gougers.  They were good.  The prices are reasonable.  I have to come back and try something else on the menu.",
+      "text": "I loved this place.  It's a small place but it is comfortable.  They have a very cute patio, which I was happy to be able to enjoy.  The service is very good.  I had the Anchovies Frites.  They were 😋 especially when paired with the Aioli that comes with it.  I also had the Gougers.  They were good.  The prices are reasonable.  I have to come back and try something else on the menu.",
       "time": 1741366963,
       "translated": false
     },
@@ -444,7 +444,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK60u59MrI6tA8KgKXNZT91-F4B-KMuLNypCib8yCSUADwgcSJf=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 3,
       "relative_time_description": "2 weeks ago",
-      "text": "Update: The first time that we dined here, we had such a wonderful time and were excited to come back. Unfortunately, our most recent experience wasn\u2019t as great. The service is  friendly, but absolutely not attentive. No one ever checked in on our table, they do not pour wine or water even when you purchase bottles. I had to wait several minutes to flag someone down to have them fix my meal. They don\u2019t observe dietary restrictions and food, allergies. they never asked us if we wanted anything else before they brought the check. They rushed the appetizers. It was a stereotypical young , uninspired BK staff. We will not return.\n2023: We had a beautiful dining experience in the garden. The 2019 Saint Emilion was perfect. We split a salad, and enjoyed the duck and the papardelle with poached egg. Can\u2019t wait for our next date night at French Louie.",
+      "text": "Update: The first time that we dined here, we had such a wonderful time and were excited to come back. Unfortunately, our most recent experience wasn’t as great. The service is  friendly, but absolutely not attentive. No one ever checked in on our table, they do not pour wine or water even when you purchase bottles. I had to wait several minutes to flag someone down to have them fix my meal. They don’t observe dietary restrictions and food, allergies. they never asked us if we wanted anything else before they brought the check. They rushed the appetizers. It was a stereotypical young , uninspired BK staff. We will not return.\n2023: We had a beautiful dining experience in the garden. The 2019 Saint Emilion was perfect. We split a salad, and enjoyed the duck and the papardelle with poached egg. Can’t wait for our next date night at French Louie.",
       "time": 1749938048,
       "translated": false
     },
@@ -456,7 +456,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQUyurfsg8cr7lwBKng7S-s6zdh8mIfC3mBPw_riE9C60a3Del=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "5 months ago",
-      "text": "Beautiful ambiance but a bit tight. Great attentive staff. Food was good but didn\u2019t blow me away. The octopus is really small. Did not like the leeks vinagrette. The mussels are great! The banana foster dessert is to die for. Heard great things about the pasta. Tried a bit of the cast iron chicken: nice and smoky, big portion. The fish looked good too - heard it was very bony.",
+      "text": "Beautiful ambiance but a bit tight. Great attentive staff. Food was good but didn’t blow me away. The octopus is really small. Did not like the leeks vinagrette. The mussels are great! The banana foster dessert is to die for. Heard great things about the pasta. Tried a bit of the cast iron chicken: nice and smoky, big portion. The fish looked good too - heard it was very bony.",
       "time": 1736202272,
       "translated": false
     },
@@ -509,8 +509,8 @@
         "Wednesday: Closed",
         "Thursday: Closed",
         "Friday: Closed",
-        "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
-        "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+        "Saturday: 11:00 AM – 3:00 PM",
+        "Sunday: 11:00 AM – 3:00 PM"
       ]
     },
     {
@@ -603,13 +603,13 @@
       ],
       "type": "DINNER",
       "weekday_text": [
-        "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
-        "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-        "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-        "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
-        "Friday: 5:00\u2009\u2013\u200910:30\u202fPM",
-        "Saturday: 5:00\u2009\u2013\u200910:30\u202fPM",
-        "Sunday: 5:00\u2009\u2013\u20099:00\u202fPM"
+        "Monday: 5:00 – 10:00 PM",
+        "Tuesday: 5:00 – 10:00 PM",
+        "Wednesday: 5:00 – 10:00 PM",
+        "Thursday: 5:00 – 10:00 PM",
+        "Friday: 5:00 – 10:30 PM",
+        "Saturday: 5:00 – 10:30 PM",
+        "Sunday: 5:00 – 9:00 PM"
       ]
     }
   ],
@@ -638,5 +638,18 @@
     "info@frenchlouienyc.com",
     "john@frenchlouienyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:09.882615+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:09.882615+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:50.080007+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://frenchlouienyc.com/",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

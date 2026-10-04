@@ -161,13 +161,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
     ]
   },
   "delivery": true,
@@ -274,13 +274,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
     ]
   },
   "photos": [
@@ -418,7 +418,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW26Kp79rA3-LfvAh9zQSA9g4NM54LqkfMcR7VVXSRwJKFmyPoW=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "11 months ago",
-      "text": "I love that you can really customize drinks here\u2014just tea and grass jelly? No sugar and a little bit of ice, no problem! They have options that aren\u2019t available at other places, brew the teas in house instead of using mixes, and have some dairy alternative (and lactose free) milk options. The staff were friendly and helpful. You also have the option to order from a kiosk or a person :) It\u2019s more of a grab and go place than a sit down and chill one, but that\u2019s exactly what I needed. The four seasons oolong is flavorful and not over brewed. Definitely coming back.",
+      "text": "I love that you can really customize drinks here—just tea and grass jelly? No sugar and a little bit of ice, no problem! They have options that aren’t available at other places, brew the teas in house instead of using mixes, and have some dairy alternative (and lactose free) milk options. The staff were friendly and helpful. You also have the option to order from a kiosk or a person :) It’s more of a grab and go place than a sit down and chill one, but that’s exactly what I needed. The four seasons oolong is flavorful and not over brewed. Definitely coming back.",
       "time": 1721583885,
       "translated": false
     },
@@ -449,5 +449,31 @@
   "emails": [
     "nyc@teazzi.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:15.002981+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:15.002981+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:03.619139+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://teazzi.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://teazzi.com/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://teazzi.com/franchise-inquiries/",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://teazzi.com/contact/",
+      "https://teazzi.com/franchise-inquiries/"
+    ]
+  }
 }

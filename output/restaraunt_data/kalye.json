@@ -144,12 +144,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -243,12 +243,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -351,7 +351,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSPo2PCOmB0EXpYP5KtydAYRuP-nnaiSHTaaP5aJn0mKNzGmPi=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "3 months ago",
-      "text": "I came across this restaurant on TikTok and had been looking forward to trying it.\n\nThe standout for me was definitely the Ube sliders. The soft, pillowy ube buns were unique and paired perfectly with the chorizo patty, sauce, and toppings. It was a creative take on Filipino fusion and absolutely delicious.\n\nWe also ordered the lumpia shanghai. They were generously sized, but the wrapper wasn\u2019t as crispy as I would\u2019ve liked. The sauce, however, was flavorful and complemented the dish well.\n\nThe pork BBQ skewers were good \u2014 tender meat with just the right amount of sauce that wasn\u2019t overly sweet. While it didn\u2019t quite compare to the BBQ skewers back home, it was still enjoyable.\n\nThe lechon was another highlight. The skin was perfectly crispy, and the meat was thick-cut, juicy, and tender with just the right amount of fat \u2014 buttery but not rubbery. The sauce it came with wasn\u2019t the traditional lechon sauce I\u2019m used to; it leaned more vinegary, which didn\u2019t quite hit the mark for me. The inasal rice was also underwhelming \u2014 it lacked the bold garlic flavor I was expecting and tasted quite bland.\n\nOverall, the service was great, and the staff were friendly and attentive. While I enjoyed parts of the meal, I don\u2019t think I\u2019ll be back.",
+      "text": "I came across this restaurant on TikTok and had been looking forward to trying it.\n\nThe standout for me was definitely the Ube sliders. The soft, pillowy ube buns were unique and paired perfectly with the chorizo patty, sauce, and toppings. It was a creative take on Filipino fusion and absolutely delicious.\n\nWe also ordered the lumpia shanghai. They were generously sized, but the wrapper wasn’t as crispy as I would’ve liked. The sauce, however, was flavorful and complemented the dish well.\n\nThe pork BBQ skewers were good — tender meat with just the right amount of sauce that wasn’t overly sweet. While it didn’t quite compare to the BBQ skewers back home, it was still enjoyable.\n\nThe lechon was another highlight. The skin was perfectly crispy, and the meat was thick-cut, juicy, and tender with just the right amount of fat — buttery but not rubbery. The sauce it came with wasn’t the traditional lechon sauce I’m used to; it leaned more vinegary, which didn’t quite hit the mark for me. The inasal rice was also underwhelming — it lacked the bold garlic flavor I was expecting and tasted quite bland.\n\nOverall, the service was great, and the staff were friendly and attentive. While I enjoyed parts of the meal, I don’t think I’ll be back.",
       "time": 1742606194,
       "translated": false
     },
@@ -375,7 +375,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKdN6uaFtk6xaui7TXhlrGBlAuw2BJFGZX4SzZz2U2UQ4FhQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "Great experience at Kalye! We saw a few videos on TikTok of this tiny Filipino restaurant that everybody was raving about so we decided to check it out. Food was packed with flavor, service was excellent, and ambience was warm and inviting. Staff went out of their way to ensure that we had a pleasant experience. Definitely coming back soon. If you\u2019re visiting or live in the city you gotta check this spot out!",
+      "text": "Great experience at Kalye! We saw a few videos on TikTok of this tiny Filipino restaurant that everybody was raving about so we decided to check it out. Food was packed with flavor, service was excellent, and ambience was warm and inviting. Staff went out of their way to ensure that we had a pleasant experience. Definitely coming back soon. If you’re visiting or live in the city you gotta check this spot out!",
       "time": 1749841943,
       "translated": false
     },
@@ -387,7 +387,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURwFcrHzw8wmnPsRL0j7aSBj8iM---QlsBzxWuQlTS4c13NtKq=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 4,
       "relative_time_description": "5 months ago",
-      "text": "My first time officially trying Philippine food, really interesting flavors, tastes vary. Big portions; staff was really nice and friendly.\nSpace is small so reservations are suggested on weekends. However, the smell inside the restaurant would be strong when they are deep frying food.\n\n\ud83c\udf74\u2728Deep fried spring roll was my favorite. It was filled with grounded meat and huge! Nice flavor with slight crispy skin.\n\nThe pork belly was delicious, tender and juicy. But the fried pork skin came with meat was too hard.\n\nCoconut shrimp rice was a light one, pretty refreshing. Simple seasoned shrimps with mango slices. The rice was a little bit over cooked, kinda soggy.\n\n\ud83d\udc9c\ud83c\udf68\ud83d\udc9bUbe ice cream the best! It was so rich and creamy with sauces and toppings. Definitely the must-order dessert.\n\nUbe buns were good too, but a little bit unflavored, so eat it with more sauces on the top.",
+      "text": "My first time officially trying Philippine food, really interesting flavors, tastes vary. Big portions; staff was really nice and friendly.\nSpace is small so reservations are suggested on weekends. However, the smell inside the restaurant would be strong when they are deep frying food.\n\n🍴✨Deep fried spring roll was my favorite. It was filled with grounded meat and huge! Nice flavor with slight crispy skin.\n\nThe pork belly was delicious, tender and juicy. But the fried pork skin came with meat was too hard.\n\nCoconut shrimp rice was a light one, pretty refreshing. Simple seasoned shrimps with mango slices. The rice was a little bit over cooked, kinda soggy.\n\n💜🍨💛Ube ice cream the best! It was so rich and creamy with sauces and toppings. Definitely the must-order dessert.\n\nUbe buns were good too, but a little bit unflavored, so eat it with more sauces on the top.",
       "time": 1736718624,
       "translated": false
     },
@@ -399,7 +399,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoNxSpL3Xdx_UVy99YH_NyNkEUbGFCSrxXApgWuK1LQpRWxQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "4 weeks ago",
-      "text": "Ube Sliders ($11 during happy hour) slapped. Not sure the ube buns really added much, they weren\u2019t as fluffy as a typical bun but the pork sausage patty with melted Swiss and that crispy onion bacon jam made this a small app packed with flavor.\n\nBeef Tapa was standard. The meat tasted good, but the meat-to-rice ratio felt off (especially at $19 for dinner). Also, the photos show a whole egg, so why'd I only get half? \ud83d\ude2d\ud83d\ude2d Recession indicator fr\n\nUbe Ice Cream ($8) - first bite was so good. It\u2019s made in house and has a bit of salt mixed in to bring out the ube flavor, and at first I was really into it. But the more I ate, the more I felt like maybe they went a little overboard with the salt. If they dialed that back just a bit, it would be perfect.",
+      "text": "Ube Sliders ($11 during happy hour) slapped. Not sure the ube buns really added much, they weren’t as fluffy as a typical bun but the pork sausage patty with melted Swiss and that crispy onion bacon jam made this a small app packed with flavor.\n\nBeef Tapa was standard. The meat tasted good, but the meat-to-rice ratio felt off (especially at $19 for dinner). Also, the photos show a whole egg, so why'd I only get half? 😭😭 Recession indicator fr\n\nUbe Ice Cream ($8) - first bite was so good. It’s made in house and has a bit of salt mixed in to bring out the ube flavor, and at first I was really into it. But the more I ate, the more I felt like maybe they went a little overboard with the salt. If they dialed that back just a bit, it would be perfect.",
       "time": 1748577441,
       "translated": false
     }
@@ -424,24 +424,53 @@
   "website": "https://www.kalye.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
-    "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
-    "info@kalyenyc.com",
-    "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
-    "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
     "0c52cb89aa4d4154857a1584b6701db6@sentry.wixpress.com",
-    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
-    "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
-    "e0b4d631da7b4200828051f7f9c783e3@sentry-next.wixpress.com",
-    "8c4075d5481d476e945486754f783364@sentry.io",
-    "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
-    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
-    "c5095236fd2e4b8fae9ed6d73cdd81a3@sentry.wixpress.com",
-    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+    "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
     "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
     "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
     "7025fe2ce4ed466a9751d9607bc63a44@sentry.wixpress.com",
-    "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com"
+    "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+    "8c4075d5481d476e945486754f783364@sentry.io",
+    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+    "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+    "c5095236fd2e4b8fae9ed6d73cdd81a3@sentry.wixpress.com",
+    "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+    "e0b4d631da7b4200828051f7f9c783e3@sentry-next.wixpress.com",
+    "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+    "info@kalyenyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:23.445961+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:23.445961+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:07.354718+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@kalyenyc.com": [
+        "https://www.kalye.com/boodleevents"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.kalye.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.kalye.com/boodleevents",
+        "status": "ok",
+        "emails": [
+          "info@kalyenyc.com"
+        ]
+      },
+      {
+        "url": "https://www.kalye.com/copy-of-overview-1",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

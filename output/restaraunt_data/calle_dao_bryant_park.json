@@ -148,13 +148,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
       "Friday: Closed",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -261,13 +261,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -394,7 +394,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZQ5Yo4hAmaHriQARrQsXV_iajY6m1FuLFfCO7w2_hwyozvaz7tg=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 4,
       "relative_time_description": "2 months ago",
-      "text": "We went for an early dinner at 5pm and noticed they had a happy hour special until 7pm. It was easy to make a same day reservation for 7 people. We shared a bunch of oysters, small bites (ranging from $10-15 a plate) and a couple of entrees. We also ended up sharing the tres leches and flan (which at first they said they didn\u2019t have any ready but the staff came back 10 mins later and said it\u2019s ready to be served if we wanted it). The food overall was good but did lack some flavor (a lot of the dishes tasted a bit bland); chicken wings were the best out of all, tbh. Even with the happy hour deal, it\u2019s a bit pricey based on portion size. The drinks on the other hand were tasty (I had two glasses of margaritas and the tropi crystal). Overall, a cool concept of mixing Cuban and Chinese food but better to go for the drinks if going for the happy hour special.",
+      "text": "We went for an early dinner at 5pm and noticed they had a happy hour special until 7pm. It was easy to make a same day reservation for 7 people. We shared a bunch of oysters, small bites (ranging from $10-15 a plate) and a couple of entrees. We also ended up sharing the tres leches and flan (which at first they said they didn’t have any ready but the staff came back 10 mins later and said it’s ready to be served if we wanted it). The food overall was good but did lack some flavor (a lot of the dishes tasted a bit bland); chicken wings were the best out of all, tbh. Even with the happy hour deal, it’s a bit pricey based on portion size. The drinks on the other hand were tasty (I had two glasses of margaritas and the tropi crystal). Overall, a cool concept of mixing Cuban and Chinese food but better to go for the drinks if going for the happy hour special.",
       "time": 1744079239,
       "translated": false
     },
@@ -418,7 +418,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqpyz9CrgMIOlwuDvHP0yEXt6xe2oe-c-Bm6kBTk15IDoNljQC=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "8 months ago",
-      "text": "Calle Dao in Bryant Park is a hidden gem that masterfully blends Cuban and Chinese flavors into dishes that feel both innovative and harmonious. Each recipe seemed meticulously planned, and the way the flavors worked together was impressive\u2014delivering a dining experience that was both surprising and satisfying.\n\nThe atmosphere is equally remarkable, with a vibrant yet comfortable ambiance that makes you feel instantly at ease. The music sets the perfect tone for the evening, and the staff goes above and beyond to make you feel welcome.\n\nA special mention has to go to the manager, Jessica, who is absolutely the most wonderful person. She was incredibly attentive to us, especially because we were there for a tasting, as we\u2019re considering booking the restaurant for our wedding. Her warmth and attention to detail made our experience all the more special, and we left feeling confident in our choice.\n\nOverall, I\u2019d rate Calle Dao a 9 out of 10\u2014a fantastic place to dine, with great food, atmosphere, and exceptional service. Highly recommended!",
+      "text": "Calle Dao in Bryant Park is a hidden gem that masterfully blends Cuban and Chinese flavors into dishes that feel both innovative and harmonious. Each recipe seemed meticulously planned, and the way the flavors worked together was impressive—delivering a dining experience that was both surprising and satisfying.\n\nThe atmosphere is equally remarkable, with a vibrant yet comfortable ambiance that makes you feel instantly at ease. The music sets the perfect tone for the evening, and the staff goes above and beyond to make you feel welcome.\n\nA special mention has to go to the manager, Jessica, who is absolutely the most wonderful person. She was incredibly attentive to us, especially because we were there for a tasting, as we’re considering booking the restaurant for our wedding. Her warmth and attention to detail made our experience all the more special, and we left feeling confident in our choice.\n\nOverall, I’d rate Calle Dao a 9 out of 10—a fantastic place to dine, with great food, atmosphere, and exceptional service. Highly recommended!",
       "time": 1729622922,
       "translated": false
     }
@@ -444,5 +444,68 @@
   "vicinity": "38 W 39th St, New York",
   "website": "https://www.calledao.com/location/calle-dao-bryant-park/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:50.793857+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:50.793857+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:18.574943+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.calledao.com/location/calle-dao-bryant-park/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.calledao.com/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.calledao.com/reservations/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.calledao.com/holiday-party/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.calledao.com/private-dining/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.calledao.com/about-bryant-park/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.calledao.com/location/calle-dao-bryant-park/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.calledao.com/contact/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.calledao.com/reservations/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.calledao.com/location/calle-dao-bryant-park/",
+      "https://www.calledao.com/contact/",
+      "https://www.calledao.com/reservations/",
+      "https://www.calledao.com/holiday-party/",
+      "https://www.calledao.com/private-dining/",
+      "https://www.calledao.com/about-bryant-park/"
+    ],
+    "browser_checked_at": "2026-10-03T22:07:54.622595+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

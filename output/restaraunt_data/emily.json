@@ -185,13 +185,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 9:30 PM",
+      "Saturday: 12:00 – 3:30 PM, 5:00 – 9:30 PM",
+      "Sunday: 12:00 – 3:30 PM, 5:00 – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -318,13 +318,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 9:30 PM",
+      "Saturday: 12:00 – 3:30 PM, 5:00 – 9:30 PM",
+      "Sunday: 12:00 – 3:30 PM, 5:00 – 9:00 PM"
     ]
   },
   "photos": [
@@ -427,7 +427,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoUJz1kme90BfavYSkhoNgcEAuhjatHxnoE1LRsU0ZTTV6FoVQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Absolutely delicious and will definitely be back!\n\nHad four people on a Monday night before happy hour ended. We got the following:\n- Appetizer olives\n- Nguyen wings\n- Emmy burger\n- Brender pizza\n- Emily pizza\n- Happy Hour cocktails, wines, and beer\n\nAll items were so yummy and delicious! Good portion sizes and flavors. Would recommend everything on the menu we had.\n\nService was efficient. There were only three-ish parties at the restaurant around 6:30pm on a Monday so they were attentive to our table.\n\nOn their windows they have a lot of accolades. We can definitely see why\u2026 it was so delicious. Excited to go back and try their other menu items!",
+      "text": "Absolutely delicious and will definitely be back!\n\nHad four people on a Monday night before happy hour ended. We got the following:\n- Appetizer olives\n- Nguyen wings\n- Emmy burger\n- Brender pizza\n- Emily pizza\n- Happy Hour cocktails, wines, and beer\n\nAll items were so yummy and delicious! Good portion sizes and flavors. Would recommend everything on the menu we had.\n\nService was efficient. There were only three-ish parties at the restaurant around 6:30pm on a Monday so they were attentive to our table.\n\nOn their windows they have a lot of accolades. We can definitely see why… it was so delicious. Excited to go back and try their other menu items!",
       "time": 1743555884,
       "translated": false
     },
@@ -439,7 +439,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnAaNWfJnbEpOvgph_ovaPuwL3llG9jfTic6P6YvwkGgvDr1c=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "a month ago",
-      "text": "I ordered the colony for delivery (DoorDash) and needless to say\u2026 I won\u2019t be getting pizza from this place again. $26 for this??? Where is the mozzarella? And did they run out of pepperoni and jalepe\u00f1os or something? And the honey??? Also, who cut this? Do you see how uneven the slices are? It looks like the even skimped on the sauce! How can you charge $26 for this??????\n\nIdk if this is one of those places that are better in person, but after receiving this sad excuse for a pizza (and spending as much as I did!), I don\u2019t think I\u2019ll even bother paying a visit to the actual place.\n\nSave your money. There are way better pizza spots around Brooklyn.",
+      "text": "I ordered the colony for delivery (DoorDash) and needless to say… I won’t be getting pizza from this place again. $26 for this??? Where is the mozzarella? And did they run out of pepperoni and jalepeños or something? And the honey??? Also, who cut this? Do you see how uneven the slices are? It looks like the even skimped on the sauce! How can you charge $26 for this??????\n\nIdk if this is one of those places that are better in person, but after receiving this sad excuse for a pizza (and spending as much as I did!), I don’t think I’ll even bother paying a visit to the actual place.\n\nSave your money. There are way better pizza spots around Brooklyn.",
       "time": 1746055398,
       "translated": false
     },
@@ -451,7 +451,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeiMF1yP98QDEg5LEIHRSRtZuW6jI8qN2bTKTkdulRlrNNley5=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Incredible burger that I\u2019ll be thinking about for a while. I normally prefer smash burgers with thinner patties + more veggies, but this one won me over. The patty was impossibly juicy, the caramelized onions and sauce were dripping with flavor. And the pretzel bun was surprisingly a great addition. Fries were decent too.\n\nThis city has plenty of great burgers, but this was stands out in both uniqueness and execution. Will be back.",
+      "text": "Incredible burger that I’ll be thinking about for a while. I normally prefer smash burgers with thinner patties + more veggies, but this one won me over. The patty was impossibly juicy, the caramelized onions and sauce were dripping with flavor. And the pretzel bun was surprisingly a great addition. Fries were decent too.\n\nThis city has plenty of great burgers, but this was stands out in both uniqueness and execution. Will be back.",
       "time": 1741464224,
       "translated": false
     },
@@ -463,7 +463,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmKCToty6dQYlZdUJHHRyny2xUbwUarfVkD5Txo4kE_iuffQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "a week ago",
-      "text": "Wife and I visited for a quick dinner - we shared the colony pizza and burger / fries.\n\nPizza. 3 stars\nBurger/fries: 5 stars\n\nThe colony pizza crust was absolutely undercooked a wet/doughy. I asked the waitress if it be cooked longer. To their credit, they brought me a whole new pizza cooked until the edges of the crust were extremely crispy, but the bottom of the pizza was still wet, dense, and doughy. I was shocked. Perhaps their quality control is poor, but it wasn\u2019t enjoyable at all.\n\nThat said, the toppings were very nice: great flavor and balance across the sauce, cheese, and pepperoni, with a healthy amount of jalape\u00f1o. Ingredients seemed top tier. But with a wet doughy crust it doesn\u2019t matter.\n\nThe burger was quite good. Taste and texture of freshly ground aged beef. Emmy\u2019s sauce was incredible. And the fries were thin and extra crispy. The house ketchup is tasty.\n\nBut alas we went for the pizza, and without some kind of assurance that the wet doughy crust was a fluke, I would absolutely not ever eat this pizza again.\n\nEnvironment is intimate and comfortable.",
+      "text": "Wife and I visited for a quick dinner - we shared the colony pizza and burger / fries.\n\nPizza. 3 stars\nBurger/fries: 5 stars\n\nThe colony pizza crust was absolutely undercooked a wet/doughy. I asked the waitress if it be cooked longer. To their credit, they brought me a whole new pizza cooked until the edges of the crust were extremely crispy, but the bottom of the pizza was still wet, dense, and doughy. I was shocked. Perhaps their quality control is poor, but it wasn’t enjoyable at all.\n\nThat said, the toppings were very nice: great flavor and balance across the sauce, cheese, and pepperoni, with a healthy amount of jalapeño. Ingredients seemed top tier. But with a wet doughy crust it doesn’t matter.\n\nThe burger was quite good. Taste and texture of freshly ground aged beef. Emmy’s sauce was incredible. And the fries were thin and extra crispy. The house ketchup is tasty.\n\nBut alas we went for the pizza, and without some kind of assurance that the wet doughy crust was a fluke, I would absolutely not ever eat this pizza again.\n\nEnvironment is intimate and comfortable.",
       "time": 1749996830,
       "translated": false
     },
@@ -502,7 +502,65 @@
   "vicinity": "919 Fulton St, Brooklyn",
   "website": "https://www.pizzalovesemily.com/location/brooklyn/",
   "emails": [
-    "Hello@EmilyBrooklyn.com"
+    "Hello@EmilyBrooklyn.com",
+    "catering@pizzalovesemily.com",
+    "hello@emilybrooklyn.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:05.994858+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:05.994858+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:39.379469+00:00",
+    "outcome": "found",
+    "sources": {
+      "hello@emilybrooklyn.com": [
+        "https://www.pizzalovesemily.com/location/brooklyn/"
+      ],
+      "catering@pizzalovesemily.com": [
+        "https://www.pizzalovesemily.com/private-events-west-village/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.pizzalovesemily.com/location/brooklyn/",
+        "status": "ok",
+        "emails": [
+          "hello@emilybrooklyn.com"
+        ]
+      },
+      {
+        "url": "https://www.pizzalovesemily.com/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.pizzalovesemily.com/about-us/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.pizzalovesemily.com/private-events-west-village/",
+        "status": "ok",
+        "emails": [
+          "catering@pizzalovesemily.com"
+        ]
+      },
+      {
+        "url": "https://www.pizzalovesemily.com/private-events-venue/brooklyn/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.pizzalovesemily.com/team-member/matt/",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.pizzalovesemily.com/location/brooklyn/",
+      "https://www.pizzalovesemily.com/contact/",
+      "https://www.pizzalovesemily.com/about-us/",
+      "https://www.pizzalovesemily.com/private-events-west-village/",
+      "https://www.pizzalovesemily.com/private-events-venue/brooklyn/",
+      "https://www.pizzalovesemily.com/team-member/matt/"
+    ]
+  }
 }

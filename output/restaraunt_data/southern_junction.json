@@ -130,13 +130,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 4:00\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 4:00 – 9:00 PM",
       "Tuesday: Closed",
       "Wednesday: Closed",
-      "Thursday: 4:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 4:00\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 4:00\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+      "Thursday: 4:00 – 9:00 PM",
+      "Friday: 4:00 – 9:00 PM",
+      "Saturday: 4:00 – 9:00 PM",
+      "Sunday: 10:00 AM – 3:00 PM"
     ]
   },
   "delivery": true,
@@ -219,13 +219,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 4:00\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 4:00 – 9:00 PM",
       "Tuesday: Closed",
       "Wednesday: Closed",
-      "Thursday: 4:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 4:00\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 4:00\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+      "Thursday: 4:00 – 9:00 PM",
+      "Friday: 4:00 – 9:00 PM",
+      "Saturday: 4:00 – 9:00 PM",
+      "Sunday: 10:00 AM – 3:00 PM"
     ]
   },
   "photos": [
@@ -327,7 +327,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTULhTCux0xwBM8pO-Xy7VwJei9-MbYGcdD6HpmpTN8g2DMw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "Best Barked Brisket in Buffalo. The Flat Iron Steak and pickled onions were a close second. I used every bit of the what I believed to be brioche bread. It was the perfect vehicle to shovel the meat. I will go back even though the price for the amount you get was making you think. Great relaxed atmosphere. The 2 man band was enjoyable and wasn\u2019t too loud. A nice experience.",
+      "text": "Best Barked Brisket in Buffalo. The Flat Iron Steak and pickled onions were a close second. I used every bit of the what I believed to be brioche bread. It was the perfect vehicle to shovel the meat. I will go back even though the price for the amount you get was making you think. Great relaxed atmosphere. The 2 man band was enjoyable and wasn’t too loud. A nice experience.",
       "time": 1750250881,
       "translated": false
     },
@@ -351,7 +351,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1NrJkhTBusSuZzQAY4N2piZ2WVaQOfBK6uPtdCq2C7WSB_9US=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Finally after months of much anticipation my wife and I finally went here for dinner. The hype is real. Best BbQ I\u2019ve ever had.  We didn\u2019t know about getting in line to order the food directly from the cutting/serving station. After that was figured out and inquiring with the manager on some recommendations. We were cooking with smoke lol. We ordered the Barbacurry beef, turkey, flat iron, sausage for the meats. All were PHENOMENAL turkey surprised me the most. Sooo juicy. The barbacurry had some heat which was great. The sausage was cheesy and delicious. The flat iron was better than brisket that I\u2019ve had elsewhere. Next time I\u2019ll this brisket. We got 4 sides; the rice, the slaw, the shells & cheese and the cornbread. Cornbread stole the show holy how and the butter they use is amazing. The rice was great. Slaw was a vinegar based also tasty. The shells cheese with some jalape\u00f1o was tasty. I got the banana bread pudding for desert. First time I\u2019ve had banana bread pudding. Why have I gone 44 years with never trying it before. Loved it. I wish I came sooner to southern junction. We will be back. The food tastes sooo fresh. Juicy. Delicious !!! Thank you sooo much for a fantastic meal/experience",
+      "text": "Finally after months of much anticipation my wife and I finally went here for dinner. The hype is real. Best BbQ I’ve ever had.  We didn’t know about getting in line to order the food directly from the cutting/serving station. After that was figured out and inquiring with the manager on some recommendations. We were cooking with smoke lol. We ordered the Barbacurry beef, turkey, flat iron, sausage for the meats. All were PHENOMENAL turkey surprised me the most. Sooo juicy. The barbacurry had some heat which was great. The sausage was cheesy and delicious. The flat iron was better than brisket that I’ve had elsewhere. Next time I’ll this brisket. We got 4 sides; the rice, the slaw, the shells & cheese and the cornbread. Cornbread stole the show holy how and the butter they use is amazing. The rice was great. Slaw was a vinegar based also tasty. The shells cheese with some jalapeño was tasty. I got the banana bread pudding for desert. First time I’ve had banana bread pudding. Why have I gone 44 years with never trying it before. Loved it. I wish I came sooner to southern junction. We will be back. The food tastes sooo fresh. Juicy. Delicious !!! Thank you sooo much for a fantastic meal/experience",
       "time": 1745076761,
       "translated": false
     },
@@ -363,7 +363,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVAU2GZ_nF_YrWz1LBEX_GEqYKEpKNpTDP0nv-ELmmNV-6yI5U=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "4 weeks ago",
-      "text": "Texas Taste, Southern Style\n\nAs a partial owner of a BBQ catering business, former Austin resident, and someone who\u2019s visited many of the most iconic Texas BBQ spots, I came in with high expectations\u2014and Southern Junction absolutely delivered.\n\nWe tried the turkey, brisket (you can choose lean or fatty), pulled pork, the phenomenal Brisket Bimini, mac and cheese, cornbread, and roasted cauliflower. Everything was memorable, balanced in flavor, and expertly smoked. The cauliflower and cornbread in particular stood out\u2014unexpected hits!\n\nThe ambiance is exactly what you want from a true Tex-ish BBQ joint. As you walk in, you\u2019re greeted with the smell of real blue smoke from the pits and the sound of country music echoing down the painted alleyway. It sets the tone perfectly.\n\nYou have two options for ordering: the slice-to-order line or table service in the bar area. We chose the latter and found the wait time about the same. Pick what fits your group best.\n\nSeating is plentiful both indoors and out. The backyard has a laid-back, casual vibe complete with cornhole\u2014great for groups, families, or a relaxed afternoon hang.\n\nThe staff was friendly and helpful, rounding out a 5/5 experience. I highly recommend this place whether you\u2019re local, just passing through, or on a BBQ pilgrimage.",
+      "text": "Texas Taste, Southern Style\n\nAs a partial owner of a BBQ catering business, former Austin resident, and someone who’s visited many of the most iconic Texas BBQ spots, I came in with high expectations—and Southern Junction absolutely delivered.\n\nWe tried the turkey, brisket (you can choose lean or fatty), pulled pork, the phenomenal Brisket Bimini, mac and cheese, cornbread, and roasted cauliflower. Everything was memorable, balanced in flavor, and expertly smoked. The cauliflower and cornbread in particular stood out—unexpected hits!\n\nThe ambiance is exactly what you want from a true Tex-ish BBQ joint. As you walk in, you’re greeted with the smell of real blue smoke from the pits and the sound of country music echoing down the painted alleyway. It sets the tone perfectly.\n\nYou have two options for ordering: the slice-to-order line or table service in the bar area. We chose the latter and found the wait time about the same. Pick what fits your group best.\n\nSeating is plentiful both indoors and out. The backyard has a laid-back, casual vibe complete with cornhole—great for groups, families, or a relaxed afternoon hang.\n\nThe staff was friendly and helpful, rounding out a 5/5 experience. I highly recommend this place whether you’re local, just passing through, or on a BBQ pilgrimage.",
       "time": 1748712156,
       "translated": false
     },
@@ -402,5 +402,26 @@
   "vicinity": "365 Connecticut St, Buffalo",
   "website": "https://southernjunction716.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:06:09.414791+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:09.414791+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:58.924222+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.southernjunction716.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.southernjunction716.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:26.270600+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

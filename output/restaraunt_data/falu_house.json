@@ -1,0 +1,90 @@
+{
+  "adr_address": "<span class=\"street-address\">34 Norman Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "34 Norman Ave, Brooklyn, NY 11222, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7244244,
+      "lng": -73.9544269
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7258288802915,
+        "lng": -73.9531089197085
+      },
+      "southwest": {
+        "lat": 40.7231309197085,
+        "lng": -73.9558068802915
+      }
+    }
+  },
+  "name": "Falu House",
+  "place_id": "ChIJbwTrdABZwokRJBMnW6dXFoM",
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=9445833644756636452",
+  "website": "http://faluhouse.com/",
+  "details_checked_at": "2026-10-03T21:59:23.467753+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:23.467753+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:00.553137+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.faluhouse.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.faluhouse.com/events",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.faluhouse.com/events/tinned-fish-101-w/-mei",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.faluhouse.com/events/tinned-fish-jazz-summer-soire",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.faluhouse.com/events/an-evening-of-tinned-fish-jazz",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.faluhouse.com/events/tinned-fish-food-pairing-workshop",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.faluhouse.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.faluhouse.com/events",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.faluhouse.com/events/tinned-fish-101-w/-mei",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:08:47.644058+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

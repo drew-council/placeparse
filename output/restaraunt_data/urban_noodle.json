@@ -159,13 +159,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -192,7 +192,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 984-888-0348",
-  "name": "Urban Noodle\u5170\u5dde\u62c9\u9762.\u5200\u524a\u9762.\u6ce1\u83dc.\u8089\u5939\u998d.\u91c0\u76ae.\u70b8\u9171\u9762",
+  "name": "Urban Noodle兰州拉面.刀削面.泡菜.肉夹馍.釀皮.炸酱面",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -268,13 +268,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -289,7 +289,7 @@
     {
       "height": 1433,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101666097881258484347\">Urban Noodle\u5170\u5dde\u62c9\u9762.\u5200\u524a\u9762.\u8089\u5939\u998d.\u91c0\u76ae</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101666097881258484347\">Urban Noodle兰州拉面.刀削面.肉夹馍.釀皮</a>"
       ],
       "photo_reference": "ATKogpc6jGR4KVkUZsLpWJGVblkHMYU-O1WPmYzIUmFRpEV9HwRycF4Wj4NIPFHT50D42vqqzy7XEHedvVYrbpVd4vWPavl8YMZ7MMol8I8hnnNebQuqn2w-0lF4LdWyWJco33XiifvrZxn-iI7VF4_bnK_sLxO9HL4zYDexdnEQq40VOnE9rPhG7WW0jzp8HoxMfzPcFLDhbhIHewQdC_Rxa0sbnyMMZu_gk2cKh-lSkbZrCKuhcDY7GDwS-rDwnzdQmZqKCCNZirpHYLzCKOAigJgWaOgadIiiqNsDzOhlPGCOLw",
       "width": 1284
@@ -305,7 +305,7 @@
     {
       "height": 3199,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101666097881258484347\">Urban Noodle\u5170\u5dde\u62c9\u9762.\u5200\u524a\u9762.\u8089\u5939\u998d.\u91c0\u76ae</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101666097881258484347\">Urban Noodle兰州拉面.刀削面.肉夹馍.釀皮</a>"
       ],
       "photo_reference": "ATKogpcrUPmWyZn9oSgnKV2QMdf0vQG6cbVwT17tc0x5oib-xypsF3QY4UEuxVlJW1fF6fSsbTeV8PgYveEVY_-7Afl6e_d0W6OZf60h-HaBOppttITJam40AiZZnEhdE64WsFiIFrjKXmBPqtjVFkyC9kowYxwSY9NEniwgEEJzbKOoMBpZkfa2n0hhlAl4QMSobEvlwRpgFdYqaEU5is9At4xkhxo3vS_S3xKR4wF72HEGrTKhXwMlJVy3TzfL_pXNt_sMf1C91Q02rVPo5jx6WkVYbyKzlJkV59cuXsPu-mgtJg",
       "width": 4800
@@ -313,7 +313,7 @@
     {
       "height": 3199,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101666097881258484347\">Urban Noodle\u5170\u5dde\u62c9\u9762.\u5200\u524a\u9762.\u8089\u5939\u998d.\u91c0\u76ae</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101666097881258484347\">Urban Noodle兰州拉面.刀削面.肉夹馍.釀皮</a>"
       ],
       "photo_reference": "ATKogpdhHPHWH7phHopAC3Ts3BKNFeFD9bDQfgm8ohhwNlx65EwN2IDMoIdZ41h9CAtrFJ1YDhpqa1Lo8riT0-19P-dE6vdWlvKJhZPOWVkztsIBUaNBwhVfpUiwKpHexH6zWcWf4B5bujq9DMMZSMJv-vl074z2xRbrQeb1wZUlHs9OUPYPyqopnAklPMbCm7h1arYolf6lop-A0hfELtaSTsZTWEP_myBySYTxBbESLPSMw_WAucPdJB-m3AQ4Bngir_iPZiQiY_31N9Ij3C-Z4ei4-kIvL3w1RaQu55jorUTvbw",
       "width": 4800
@@ -329,7 +329,7 @@
     {
       "height": 3199,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101666097881258484347\">Urban Noodle\u5170\u5dde\u62c9\u9762.\u5200\u524a\u9762.\u8089\u5939\u998d.\u91c0\u76ae</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101666097881258484347\">Urban Noodle兰州拉面.刀削面.肉夹馍.釀皮</a>"
       ],
       "photo_reference": "ATKogpft0iNyVPLKgdWzXg8Xq7iOZBPHMcZr7dvvUsXNM-e9YrGsGy_lfvCiFWqadBrHCHVTRrXdXLEU2lA8ntS3HFObjl12ESXOeMlnpEI-Uwvhyg2V2Wo4ho584jRCaZlAUoEAjfpGdsc-nPm49aWpfFphrLe3J1s68Pr8CDGATGHT-mA8fU9T-r4coYSER75koR7kCiYNvMa9EBmtdsS6Xq_WAIjUzF55Aax06UwFN1pJAzIBCT61yqk92NV0bR7D7WHe8SxkFzi4WmMyW41CkzHrcVJQhO_-PvMKnLhEXbLQHA",
       "width": 4800
@@ -377,7 +377,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVB69e2BR2pTvkFDPZgNYG0IjcVdYJdZrss2e39wuTxGxUG04F1=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "One of best ramen \ud83c\udf5c places!! The broth was very flavorful and the portion size is amazing. I loved the buns and they were so good. Most places usually have pork belly buns but they have chicken shrimp and beef. I can't wait to try the rest of the items.",
+      "text": "One of best ramen 🍜 places!! The broth was very flavorful and the portion size is amazing. I loved the buns and they were so good. Most places usually have pork belly buns but they have chicken shrimp and beef. I can't wait to try the rest of the items.",
       "time": 1736373089,
       "translated": false
     },
@@ -401,7 +401,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIe7D9xRCKsGVtSFZCoR8UctzTsx6pEA4ijLei-PiT-eQBQXg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "It's so good! They make their own noodles, which came out really bouncy and chewy (in a good way). We ordered cucumber salad, Saukeraut Beef noodle soup, and Spicy Beef rib noodle soup. Although the cucumber salad was a bit too salty for my taste, the Beef Rib noodle soup was amazing - not spicy at all, with three decent pieces of beef ribs, and the soup and noodles were really good! \ud83d\ude42 The Saukeraut Beef noodle soup was also amazing; they're generous with the meat! Will definitely go back!",
+      "text": "It's so good! They make their own noodles, which came out really bouncy and chewy (in a good way). We ordered cucumber salad, Saukeraut Beef noodle soup, and Spicy Beef rib noodle soup. Although the cucumber salad was a bit too salty for my taste, the Beef Rib noodle soup was amazing - not spicy at all, with three decent pieces of beef ribs, and the soup and noodles were really good! 🙂 The Saukeraut Beef noodle soup was also amazing; they're generous with the meat! Will definitely go back!",
       "time": 1739068611,
       "translated": false
     },
@@ -413,7 +413,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXW_hgb7WPE3l7fq_S5W-UtD_Gy79rpYaXO-yCrqneUgeXLbih7BQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "This place serves amazing freshly made, hand-pulled noodles with incredibly flavorful broths and soup bases. The portions are huge, making it a great value for the price!\n\nI got the spicy mala ramen, and it was absolutely delicious\u2014the egg was perfectly gooey, the meats were tender, and the broth had just the right balance of spice and richness. My friend ordered the chicken curry ramen, which came with a generous portion of crispy chicken katsu. The soup had a wonderful balance of lemongrass and creamy flavors.\n\nWe also tried the potstickers, which were tasty as well. Overall, an excellent spot for flavorful, hearty noodle dishes! Highly recommend.",
+      "text": "This place serves amazing freshly made, hand-pulled noodles with incredibly flavorful broths and soup bases. The portions are huge, making it a great value for the price!\n\nI got the spicy mala ramen, and it was absolutely delicious—the egg was perfectly gooey, the meats were tender, and the broth had just the right balance of spice and richness. My friend ordered the chicken curry ramen, which came with a generous portion of crispy chicken katsu. The soup had a wonderful balance of lemongrass and creamy flavors.\n\nWe also tried the potstickers, which were tasty as well. Overall, an excellent spot for flavorful, hearty noodle dishes! Highly recommend.",
       "time": 1741545625,
       "translated": false
     },
@@ -448,5 +448,19 @@
   "vicinity": "4104 Surles Ct UNIT 4, Durham",
   "website": "http://www.myurbannoodle.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:06:22.506874+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:22.506874+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:20.644257+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://www.myurbannoodle.com/",
+        "status": "SSLError",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

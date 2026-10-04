@@ -149,12 +149,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+      "Tuesday: 11:30 AM – 8:30 PM",
+      "Wednesday: 11:30 AM – 8:30 PM",
+      "Thursday: 11:30 AM – 8:30 PM",
+      "Friday: 11:30 AM – 8:30 PM",
+      "Saturday: 11:30 AM – 8:30 PM",
+      "Sunday: 11:30 AM – 8:30 PM"
     ]
   },
   "delivery": true,
@@ -248,12 +248,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+      "Tuesday: 11:30 AM – 8:30 PM",
+      "Wednesday: 11:30 AM – 8:30 PM",
+      "Thursday: 11:30 AM – 8:30 PM",
+      "Friday: 11:30 AM – 8:30 PM",
+      "Saturday: 11:30 AM – 8:30 PM",
+      "Sunday: 11:30 AM – 8:30 PM"
     ]
   },
   "photos": [
@@ -380,7 +380,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKKTcBA6QH2vsF8xOsUrEq9p5Mw6vwR3s54P-oLt97MGTttA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "By far the best food we\u2019ve had during our stay in Vegas. Wish were have been eating here all along instead of eating at the strip. The food is seasoned to perfection and just tastes like good home cooking. Isaiah is a kind, and attentive waiter. He greeted us as soon as we walked in and continued to make us feel right at home.\nWe used public transportation from the Cosmopolitan.",
+      "text": "By far the best food we’ve had during our stay in Vegas. Wish were have been eating here all along instead of eating at the strip. The food is seasoned to perfection and just tastes like good home cooking. Isaiah is a kind, and attentive waiter. He greeted us as soon as we walked in and continued to make us feel right at home.\nWe used public transportation from the Cosmopolitan.",
       "time": 1743028168,
       "translated": false
     },
@@ -404,7 +404,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNyHy4UO7a1xz4omXw1ECg2oBnugtY8XA3zEv3U1D0aqEIH0a4YA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "I'm so glad I finally remembered to come here! It has been on my saved list esp once I saw it on IG & started following their account. I came here today, the day before my bday,  with my bestfriends after we went to watch the live action Lilo & Stitch. I've always wanted to try fufu & their oxtail stew! So of course, I came in with a mission! I ordered exactly that & did not disappoint that I ordered a to go for my fianc\u00e9 bc I did not want to share my leftover. It was so delicious! The oxtail was HUGE & MEATY & fell off the bone. I was literally sucking my fingers off. As a Filipino, eating kamayan style is the way to go...u get the full feel of the food at your fingertips. You know it's good when it's finger lickin' good . Our server was really nice & when I told her I was Filipino we started comparing food bc every culture has their version of their dishes. That's why I always love trying new places. We came into realization that the oxtail stew is very reminiscent of Caldareta! So if you're Filipino & reading this review...don't skip on the oxtail. I'm so curious now to try their peanut butter stew bc she mentioned how it is also similar to Kare-kare! I can't wait to come back! It was even better that when we went they even had live music. He had such a good voice! They definitely earned returning customers from us. I can't wait to bring my family over.",
+      "text": "I'm so glad I finally remembered to come here! It has been on my saved list esp once I saw it on IG & started following their account. I came here today, the day before my bday,  with my bestfriends after we went to watch the live action Lilo & Stitch. I've always wanted to try fufu & their oxtail stew! So of course, I came in with a mission! I ordered exactly that & did not disappoint that I ordered a to go for my fiancé bc I did not want to share my leftover. It was so delicious! The oxtail was HUGE & MEATY & fell off the bone. I was literally sucking my fingers off. As a Filipino, eating kamayan style is the way to go...u get the full feel of the food at your fingertips. You know it's good when it's finger lickin' good . Our server was really nice & when I told her I was Filipino we started comparing food bc every culture has their version of their dishes. That's why I always love trying new places. We came into realization that the oxtail stew is very reminiscent of Caldareta! So if you're Filipino & reading this review...don't skip on the oxtail. I'm so curious now to try their peanut butter stew bc she mentioned how it is also similar to Kare-kare! I can't wait to come back! It was even better that when we went they even had live music. He had such a good voice! They definitely earned returning customers from us. I can't wait to bring my family over.",
       "time": 1748297444,
       "translated": false
     }
@@ -427,5 +427,47 @@
   "vicinity": "1750 S Rainbow Blvd Suite 6-8, Las Vegas",
   "website": "http://www.calabashafricankitchen.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:50.445453+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:50.445453+00:00",
+  "emails": [
+    "calabashlv@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:15.792884+00:00",
+    "outcome": "found",
+    "sources": {
+      "calabashlv@gmail.com": [
+        "https://www.calabashafricankitchen.com/contact-us/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.calabashafricankitchen.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.calabashafricankitchen.com/contact-us/",
+        "status": "ok",
+        "emails": [
+          "calabashlv@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.calabashafricankitchen.com/about-us/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.calabashafricankitchen.com/reservations/",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.calabashafricankitchen.com/",
+      "https://www.calabashafricankitchen.com/contact-us/",
+      "https://www.calabashafricankitchen.com/about-us/",
+      "https://www.calabashafricankitchen.com/reservations/"
+    ]
+  }
 }

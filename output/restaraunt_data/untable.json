@@ -1,0 +1,73 @@
+{
+  "adr_address": "<span class=\"street-address\">529 Henry St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11231-3038</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "529 Henry St, Brooklyn, NY 11231, USA",
+  "formatted_phone_number": "(347) 529-4974",
+  "geometry": {
+    "location": {
+      "lat": 40.6835757,
+      "lng": -73.9994403
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.68495823029151,
+        "lng": -73.99819446970848
+      },
+      "southwest": {
+        "lat": 40.68226026970851,
+        "lng": -74.0008924302915
+      }
+    }
+  },
+  "international_phone_number": "+1 347-529-4974",
+  "name": "Untable",
+  "place_id": "ChIJ_zbudV1bwokRyxgi4zQEn0Y",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=5088790729147422923",
+  "website": "http://www.untablebrooklyn.com/",
+  "details_checked_at": "2026-10-03T21:59:34.514448+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:34.514448+00:00",
+  "emails": [
+    "untablebrooklyn@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:29.940315+00:00",
+    "outcome": "found",
+    "sources": {
+      "untablebrooklyn@gmail.com": [
+        "https://www.untablebrooklyn.com/",
+        "https://www.untablebrooklyn.com",
+        "https://www.untablebrooklyn.com/aboutus"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.untablebrooklyn.com/",
+        "status": "ok",
+        "emails": [
+          "untablebrooklyn@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.untablebrooklyn.com",
+        "status": "ok",
+        "emails": [
+          "untablebrooklyn@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.untablebrooklyn.com/aboutus",
+        "status": "ok",
+        "emails": [
+          "untablebrooklyn@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
+}

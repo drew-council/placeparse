@@ -214,13 +214,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Friday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Saturday: 11:30 AM – 10:00 PM",
+      "Sunday: 11:30 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -377,13 +377,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Friday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Saturday: 11:30 AM – 10:00 PM",
+      "Sunday: 11:30 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -406,7 +406,7 @@
     {
       "height": 3600,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/118128795814676610789\">\u05d0\u05d9\u05dc \u05d7\u05db\u05dd</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/118128795814676610789\">איל חכם</a>"
       ],
       "photo_reference": "ATKogpdF1PAaQ_9YxIcXzNC2ej5HxrLp1G43IBpeHC7N96Kx0F313RYoHIEzy8MolrasvR_Z1hU3l3c8PVuoatktEcMWMPGqXzEmfFILbrevh7TNeRYh56JYAny26hRH_5IgQf5rjDO7wfu5CsOX2ZeiM-nNtpF9l-rHt3NDJyKFtS0rD3x-fQZissHjhDryo-4IunzW6aVdRoSV-UyXHq9obUawdhx1O-VZ8ZZLm_G2veCZU6uYgbH4kexD_-Z8lLaWKK-NCr0HdQcQEyZ02agSLkmNQmGki0Su6xPnPxGwyyUXsc0Vlq9E1LEV97-H4hYdpz7Itzk--SuXiKfpnnCJRJfnKDvU6G_THa2YYs6CaDiy_Hoaiz1yGFCqdtgLxkViCI83NN9PwGG-zu28QXOJd1Yh64m916n5BCy6PUAjb-KrLw",
       "width": 4800
@@ -462,7 +462,7 @@
     {
       "height": 3600,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/118128795814676610789\">\u05d0\u05d9\u05dc \u05d7\u05db\u05dd</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/118128795814676610789\">איל חכם</a>"
       ],
       "photo_reference": "ATKogpf4oY4Sfq3FBJFH4FDXbY4IvkgXJ3TiRlexSs-NojLpzli41LOx_KIypNUAzvVesMrRHye6Xk6w4yVAOhAW9PsxRKRD-ZemCq0FqCOcxnelAaJ8xYkZapHBKM35250sZ6wV01UBiqEfEQa9ind51I0Jolb4Wa4alxPqUROWEhTYC-C9wvXPu9vVLBs2fllvPZHsWP73DSZFJ5Vv3ivAiNWFJCNuhIOlyNfOxvxXqvPCVpEWHgDK_NL3S1ahmup0WO8ue-a0CueISGY6JmGvuSFkXoVL2MpRlSmWsiYrxzyZ3Ew0ZlijMr1Stdm1mlecRddZmxSa7icHL5qvh4eG3rX1BpSsV4JMknrJ0d_nXjCz8nDsoTfybG-AZ6J7-_H0XPFz-IhF-ylEpI7PmdQGJi0NMGemtH-LcDZhRKFuTXJsm9Cx",
       "width": 4800
@@ -522,7 +522,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiXHl1Z0DBh-Z5horxQIpJ2s1aMjRWz8HODMUBYVQiA1JORmKA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "I had the lunch special and it was amazing! The samosa was crispy and flavorful, and the chicken tikka masala was rich and creamy. Everything was fresh and perfectly spiced. Great portion for the price. I\u2019ll definitely come back again!\n\ud83e\udd70",
+      "text": "I had the lunch special and it was amazing! The samosa was crispy and flavorful, and the chicken tikka masala was rich and creamy. Everything was fresh and perfectly spiced. Great portion for the price. I’ll definitely come back again!\n🥰",
       "time": 1746207173,
       "translated": false
     },
@@ -559,5 +559,27 @@
   "vicinity": "234 W 56th St, New York",
   "website": "http://www.bengaltigerindianfood.com/",
   "wheelchair_accessible_entrance": false,
-  "business_status_checked_at": "2026-10-03T20:04:44.109951+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:44.109951+00:00",
+  "emails": [
+    "bengaltigerindianfood@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:08.889250+00:00",
+    "outcome": "found",
+    "sources": {
+      "bengaltigerindianfood@gmail.com": [
+        "https://www.bengaltigerindianfood.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.bengaltigerindianfood.com/",
+        "status": "ok",
+        "emails": [
+          "bengaltigerindianfood@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

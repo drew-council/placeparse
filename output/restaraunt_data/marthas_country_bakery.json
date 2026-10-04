@@ -168,13 +168,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Tuesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 6:00 AM – 12:00 AM",
+      "Tuesday: 6:00 AM – 12:00 AM",
+      "Wednesday: 6:00 AM – 12:00 AM",
+      "Thursday: 6:00 AM – 12:00 AM",
+      "Friday: 6:00 AM – 1:00 AM",
+      "Saturday: 6:00 AM – 1:00 AM",
+      "Sunday: 6:00 AM – 12:00 AM"
     ]
   },
   "delivery": true,
@@ -281,13 +281,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Tuesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 6:00 AM – 12:00 AM",
+      "Tuesday: 6:00 AM – 12:00 AM",
+      "Wednesday: 6:00 AM – 12:00 AM",
+      "Thursday: 6:00 AM – 12:00 AM",
+      "Friday: 6:00 AM – 1:00 AM",
+      "Saturday: 6:00 AM – 1:00 AM",
+      "Sunday: 6:00 AM – 12:00 AM"
     ]
   },
   "photos": [
@@ -389,7 +389,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzL98m9H9EW1Daj5RZXIJPkJw2TvQ3IB_xpkU9fyBkXzyZDWHo=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Bulk ordered some slices to have on hand for whenever i had a sweet tooth. They\u2019re all delicious.  Cheesecake, Carrot cake and Berry Nepoleon were my faves.",
+      "text": "Bulk ordered some slices to have on hand for whenever i had a sweet tooth. They’re all delicious.  Cheesecake, Carrot cake and Berry Nepoleon were my faves.",
       "time": 1743355409,
       "translated": false
     },
@@ -401,7 +401,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZj6W7XG4-rNFmOrGaap4oZXNju5nQLdy6IXx5fMaWK8I4H4Io=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Really cute little spot to grab a sweet baked good. I highly recommend their large selection of cakes (specifically the cheesecakes). Can\u2019t go wrong.\n\nTo be wary, though. On holiday weekends or special occasions, it might be really packed and hectic in this tiny shop.",
+      "text": "Really cute little spot to grab a sweet baked good. I highly recommend their large selection of cakes (specifically the cheesecakes). Can’t go wrong.\n\nTo be wary, though. On holiday weekends or special occasions, it might be really packed and hectic in this tiny shop.",
       "time": 1743187942,
       "translated": false
     },
@@ -413,7 +413,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRSkFZ0KWcUKFE9uGzlRzyW9--12yj16GM0Agkf6beQCXDKUv_=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "04/21/25\nEverything is incredible. Tried Ekmek here for the first time it was delicious, you can\u2019t go wrong with anything",
+      "text": "04/21/25\nEverything is incredible. Tried Ekmek here for the first time it was delicious, you can’t go wrong with anything",
       "time": 1745291080,
       "translated": false
     },
@@ -437,7 +437,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkeV0C1Mn4XehiAMcvZmPd_pwEW8xTxWzKTXfos7bgG39WZeY=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "6 months ago",
-      "text": "Everything was outstandingly delicious as always. They always deliver! Fresh, delicious, addictive pastries. They are always number \ud83e\udd47in my heart. Must come to place if in area for dessert or craving something sweet.",
+      "text": "Everything was outstandingly delicious as always. They always deliver! Fresh, delicious, addictive pastries. They are always number 🥇in my heart. Must come to place if in area for dessert or craving something sweet.",
       "time": 1733438519,
       "translated": false
     }
@@ -533,13 +533,13 @@
       ],
       "type": "TAKEOUT",
       "weekday_text": [
-        "Monday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-        "Tuesday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-        "Wednesday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-        "Thursday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-        "Friday: 7:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Saturday: 7:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Sunday: 7:00\u202fAM\u2009\u2013\u200911:30\u202fPM"
+        "Monday: 7:00 AM – 10:30 PM",
+        "Tuesday: 7:00 AM – 10:30 PM",
+        "Wednesday: 7:00 AM – 10:30 PM",
+        "Thursday: 7:00 AM – 10:30 PM",
+        "Friday: 7:00 AM – 11:30 PM",
+        "Saturday: 7:00 AM – 11:30 PM",
+        "Sunday: 7:00 AM – 11:30 PM"
       ]
     }
   ],
@@ -558,5 +558,41 @@
   "vicinity": "36-21 Ditmars Blvd, Astoria",
   "website": "http://www.marthascountrybakery.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:37.684734+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:37.684734+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:22.162021+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://marthascountrybakery.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://marthascountrybakery.com/location/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://marthascountrybakery.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://marthascountrybakery.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://marthascountrybakery.com/location/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:10:03.935479+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

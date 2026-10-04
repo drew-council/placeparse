@@ -219,7 +219,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSM3mUIqdV0fXca1OVsdcHBNQv4NK8kSzjbsKzqlGxd4MfoYU=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "a year ago",
-      "text": "Long time looking for trying out there East village location. It did not disappoint but needs some improvement to serve better.\n\nWe ordered the Greek salad, although it was a small options. I was shock how the portion was. Imminently feeling really excited for the entrees. And yes portions were huge including the entrees as well. The grilled calamari was super chewy for me. I\u2019ll definitely order the fried for next time. Grilled shrimp was incredible juicy and well grilled. One of all time favorite, you can choose side of rice, French fries or lemon potato.  Which seems really interesting so we ordered it.\n\nThe ingredients of the salad were fresh and served with virgin olive oil. That\u2019s extra points for this place.  They are offering desert which was giving me scent of baklava and pudding in the same time was a huge hit.  Over all very enjoyable happy hour taverna meal for us.\n\nWe got sit a very tiny corner table in a non-rush hour, that\u2019s kinda making me unhappy during my meal. Since the portions aren\u2019t small we definitely needed a bigger table.",
+      "text": "Long time looking for trying out there East village location. It did not disappoint but needs some improvement to serve better.\n\nWe ordered the Greek salad, although it was a small options. I was shock how the portion was. Imminently feeling really excited for the entrees. And yes portions were huge including the entrees as well. The grilled calamari was super chewy for me. I’ll definitely order the fried for next time. Grilled shrimp was incredible juicy and well grilled. One of all time favorite, you can choose side of rice, French fries or lemon potato.  Which seems really interesting so we ordered it.\n\nThe ingredients of the salad were fresh and served with virgin olive oil. That’s extra points for this place.  They are offering desert which was giving me scent of baklava and pudding in the same time was a huge hit.  Over all very enjoyable happy hour taverna meal for us.\n\nWe got sit a very tiny corner table in a non-rush hour, that’s kinda making me unhappy during my meal. Since the portions aren’t small we definitely needed a bigger table.",
       "time": 1717022086,
       "translated": false
     },
@@ -267,5 +267,19 @@
   "vicinity": "228 1st Ave, New York",
   "website": "https://www.tavernaeastvillage.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:06:14.680474+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:14.680474+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:03.390671+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.tavernaeastvillage.com/",
+        "status": "SSLError",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -1,0 +1,58 @@
+{
+  "adr_address": "<span class=\"street-address\">437 E 12th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10009</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "437 E 12th St, New York, NY 10009, USA",
+  "formatted_phone_number": "(212) 510-7413",
+  "geometry": {
+    "location": {
+      "lat": 40.7294828,
+      "lng": -73.9817133
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7307403302915,
+        "lng": -73.9804297197085
+      },
+      "southwest": {
+        "lat": 40.7280423697085,
+        "lng": -73.9831276802915
+      }
+    }
+  },
+  "international_phone_number": "+1 212-510-7413",
+  "name": "SLIK",
+  "place_id": "ChIJ6ws3JwBZwokRqkga2p1i_Ik",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=9942930507435755690",
+  "website": "https://www.sliknyc.com/",
+  "details_checked_at": "2026-10-03T21:59:06.198510+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:06.198510+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:24.268174+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.sliknyc.com/password",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.sliknyc.com/password",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.sliknyc.com/password"
+    ],
+    "browser_checked_at": "2026-10-03T22:11:21.590041+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

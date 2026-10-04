@@ -198,7 +198,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLMPxW7vtSYNsiSE8I54ySBUpUnXPxPAeq-hB28_ODxcYv4qNG=s128-c0x00000000-cc-rp-mo-ba8",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "This place is a wonderful vegan \ud83e\udd6c BBQ \u2668\ufe0f joint!  Got to try Pure Grit BBQ at their pop-up stand at the Blues \ud83c\udfb7 BBQ Festival at Hudson River \ud83c\udf0aPark! \ud83c\udfde\ufe0f Their Impossible Brisket \ud83e\udd69 and Waffles \ud83e\uddc7 were absolutely delicious! \ud83e\udd24 The coleslaw and Broccoli \ud83e\udd66 salad \ud83e\udd57 were great too! Staff \ud83d\udc68\u200d\ud83c\udf73 was friendly and welcoming! I wish I came here earlier and that their prices \ud83c\udff7\ufe0f were lower!",
+      "text": "This place is a wonderful vegan 🥬 BBQ ♨️ joint!  Got to try Pure Grit BBQ at their pop-up stand at the Blues 🎷 BBQ Festival at Hudson River 🌊Park! 🏞️ Their Impossible Brisket 🥩 and Waffles 🧇 were absolutely delicious! 🤤 The coleslaw and Broccoli 🥦 salad 🥗 were great too! Staff 👨‍🍳 was friendly and welcoming! I wish I came here earlier and that their prices 🏷️ were lower!",
       "time": 1692471113,
       "translated": false
     },
@@ -234,7 +234,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWe_xNQB5hG5jdWQYRNu3BGL4TgQ4_qmjA31G-Ya16dUd4ZXt_GtQ=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "My first visit to Hungry House was AMAZING! I ordered the Spam Melt which was DELICIOUS with the spicy mayonnaise\u2019s and spicy cucumbers, oh my goodness. I also ordered French fries and lemon pepper wings which were also delicious. Wonderful experience at Hungry House, food is amazing!",
+      "text": "My first visit to Hungry House was AMAZING! I ordered the Spam Melt which was DELICIOUS with the spicy mayonnaise’s and spicy cucumbers, oh my goodness. I also ordered French fries and lemon pepper wings which were also delicious. Wonderful experience at Hungry House, food is amazing!",
       "time": 1690641860,
       "translated": false
     },
@@ -269,5 +269,19 @@
   "vicinity": "36 Lexington Ave, New York",
   "website": "https://orderhungryhouse.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:56.846226+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:56.846226+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:47.347169+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.orderhungryhouse.com",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

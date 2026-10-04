@@ -130,13 +130,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20096:00\u202fPM",
+      "Monday: 12:00 – 6:00 PM",
       "Tuesday: Closed",
       "Wednesday: Closed",
-      "Thursday: 12:00\u2009\u2013\u20096:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20096:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20096:00\u202fPM"
+      "Thursday: 12:00 – 6:00 PM",
+      "Friday: 12:00 – 6:00 PM",
+      "Saturday: 10:00 AM – 6:00 PM",
+      "Sunday: 12:00 – 6:00 PM"
     ]
   },
   "editorial_summary": {
@@ -221,13 +221,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20096:00\u202fPM",
+      "Monday: 12:00 – 6:00 PM",
       "Tuesday: Closed",
       "Wednesday: Closed",
-      "Thursday: 12:00\u2009\u2013\u20096:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20096:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20096:00\u202fPM"
+      "Thursday: 12:00 – 6:00 PM",
+      "Friday: 12:00 – 6:00 PM",
+      "Saturday: 10:00 AM – 6:00 PM",
+      "Sunday: 12:00 – 6:00 PM"
     ]
   },
   "photos": [
@@ -328,7 +328,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXA0JKFMenmO89El_oM1JQNymljbX0t2C7_wqpm-fWT1UfBKrNU=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "I\u2019ve been visiting MoMA PS1 for years and appreciate their commitment to showcasing a wide range of artists and perspectives. That said, there is usually at least one exhibit that feels justified with academic art speak. Still, I always find something that resonates with me. The building, a rustic old public school, is a gem among the surrounding luxury skyscrapers. I especially enjoy sitting in the room with the open ceiling, part of Meeting by James Turrell. The subjective nature of the work is part of the experience, and I always enjoy visiting. It is also free for New Yorkers and accessible with a stroller.",
+      "text": "I’ve been visiting MoMA PS1 for years and appreciate their commitment to showcasing a wide range of artists and perspectives. That said, there is usually at least one exhibit that feels justified with academic art speak. Still, I always find something that resonates with me. The building, a rustic old public school, is a gem among the surrounding luxury skyscrapers. I especially enjoy sitting in the room with the open ceiling, part of Meeting by James Turrell. The subjective nature of the work is part of the experience, and I always enjoy visiting. It is also free for New Yorkers and accessible with a stroller.",
       "time": 1745602312,
       "translated": false
     },
@@ -357,14 +357,14 @@
       "translated": false
     },
     {
-      "author_name": "Mich\u00e8le Saint Michel",
+      "author_name": "Michèle Saint Michel",
       "author_url": "https://www.google.com/maps/contrib/118151863118631366077/reviews",
       "language": "en",
       "original_language": "en",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVLO6NGkSdfEOMR6Mcwh3HS2mC7mSCNHZxCGNo4sbnzxhzQF_c=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "At MoMA PS1, I saw Love is the Drug by fellow filmmaker Liz Roberts. A film that moves like memory\u2014urgent, dissolving, held together by breath and beat. It played in a room that seemed to have been waiting for it, light flickering across concrete like the past trying to speak.\n\nThe gallery spaces were vast and strange\u2014corridors folding into themselves, monitors half-hidden like secrets, projectors humming softly in the dark. You had to go looking. And in the act of looking, something in you opened. That felt right.\n\nThe library was a kind of pause. Stillness among the screens. Shelves filled with titles I didn\u2019t know I\u2019d been missing. I stayed longer than I meant to, touching spines, reading fragments. It felt like being offered a new kind of silence.\n\nYou don\u2019t often see moving image work honored this way\u2014in space, in scale, in trust. But here, it was given room. And I left with that room inside me.",
+      "text": "At MoMA PS1, I saw Love is the Drug by fellow filmmaker Liz Roberts. A film that moves like memory—urgent, dissolving, held together by breath and beat. It played in a room that seemed to have been waiting for it, light flickering across concrete like the past trying to speak.\n\nThe gallery spaces were vast and strange—corridors folding into themselves, monitors half-hidden like secrets, projectors humming softly in the dark. You had to go looking. And in the act of looking, something in you opened. That felt right.\n\nThe library was a kind of pause. Stillness among the screens. Shelves filled with titles I didn’t know I’d been missing. I stayed longer than I meant to, touching spines, reading fragments. It felt like being offered a new kind of silence.\n\nYou don’t often see moving image work honored this way—in space, in scale, in trust. But here, it was given room. And I left with that room inside me.",
       "time": 1746589708,
       "translated": false
     },
@@ -393,5 +393,84 @@
   "vicinity": "22-25 Jackson Ave, Queens",
   "website": "https://www.momaps1.org/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:40.644828+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:40.644828+00:00",
+  "emails": [
+    "development_ps1@moma.org",
+    "events_ps1@moma.org",
+    "groupservices_ps1@moma.org",
+    "mail_ps1@moma.org",
+    "molly_kurzius@moma.org",
+    "press_momaps1@moma.org"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:29.105978+00:00",
+    "outcome": "found",
+    "sources": {
+      "development_ps1@moma.org": [
+        "https://www.momaps1.org/en/about/contact-press"
+      ],
+      "events_ps1@moma.org": [
+        "https://www.momaps1.org/en/about/contact-press"
+      ],
+      "groupservices_ps1@moma.org": [
+        "https://www.momaps1.org/en/about/contact-press"
+      ],
+      "mail_ps1@moma.org": [
+        "https://www.momaps1.org/en/about/contact-press"
+      ],
+      "molly_kurzius@moma.org": [
+        "https://www.momaps1.org/en/about/contact-press"
+      ],
+      "press_momaps1@moma.org": [
+        "https://www.momaps1.org/en/about/contact-press"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.momaps1.org/en",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.momaps1.org/en/about/contact-press",
+        "status": "ok",
+        "emails": [
+          "development_ps1@moma.org",
+          "events_ps1@moma.org",
+          "groupservices_ps1@moma.org",
+          "mail_ps1@moma.org",
+          "molly_kurzius@moma.org",
+          "press_momaps1@moma.org"
+        ]
+      },
+      {
+        "url": "https://www.momaps1.org/en/about",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.momaps1.org/en/about/jobs",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.momaps1.org/en/about/staff-board",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.momaps1.org/en/events/844-school-nite",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.momaps1.org/en",
+      "https://www.momaps1.org/en/about/contact-press",
+      "https://www.momaps1.org/en/about",
+      "https://www.momaps1.org/en/about/jobs",
+      "https://www.momaps1.org/en/about/staff-board",
+      "https://www.momaps1.org/en/events/844-school-nite"
+    ]
+  }
 }

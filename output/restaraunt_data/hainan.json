@@ -1,0 +1,58 @@
+{
+  "adr_address": "<span class=\"street-address\">41-25 162nd St</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11358</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "41-25 162nd St, Flushing, NY 11358, USA",
+  "formatted_phone_number": "(917) 563-7223",
+  "geometry": {
+    "location": {
+      "lat": 40.7606451,
+      "lng": -73.8037556
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7620018802915,
+        "lng": -73.80250376970848
+      },
+      "southwest": {
+        "lat": 40.7593039197085,
+        "lng": -73.8052017302915
+      }
+    }
+  },
+  "international_phone_number": "+1 917-563-7223",
+  "name": "Hainan",
+  "place_id": "ChIJ86jijMhhwokRItWSGT6dpW8",
+  "types": [
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=8045009199409845538",
+  "website": "https://hainannyc.com/",
+  "details_checked_at": "2026-10-03T21:59:17.903235+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:17.903235+00:00",
+  "emails": [
+    "hainanflushing@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:07.753581+00:00",
+    "outcome": "found",
+    "sources": {
+      "hainanflushing@gmail.com": [
+        "https://hainannyc.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://hainannyc.com/",
+        "status": "ok",
+        "emails": [
+          "hainanflushing@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
+}

@@ -161,13 +161,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 7:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
     ]
   },
   "delivery": true,
@@ -274,13 +274,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 7:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
     ]
   },
   "photos": [
@@ -419,7 +419,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYMIQm2fbiZHWv9gUx1UBRie7uBgTKaSjKbDQBJn2QMA5trg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "I was surprised that my tuna roll was cooked tuna and not raw, but I ate it with a positive attitude because the staff were so kind. The roll also had fantastic pickled radish. The atmosphere is fun bc it\u2019s New York deli vibes but you\u2019re having Korean food.",
+      "text": "I was surprised that my tuna roll was cooked tuna and not raw, but I ate it with a positive attitude because the staff were so kind. The roll also had fantastic pickled radish. The atmosphere is fun bc it’s New York deli vibes but you’re having Korean food.",
       "time": 1747271696,
       "translated": false
     },
@@ -431,7 +431,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUNPmYVM7qZ5njWtZUyD4Ks5H6qb5BaeKO-INkAp2-tJxEvi0=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 4,
       "relative_time_description": "11 months ago",
-      "text": "This is a Korean place located inside a diner. There\u2019s a good variety of food to choose from, and the bibimbap was good. Portion was just right, and flavors were on point. Missing a fried egg though!",
+      "text": "This is a Korean place located inside a diner. There’s a good variety of food to choose from, and the bibimbap was good. Portion was just right, and flavors were on point. Missing a fried egg though!",
       "time": 1722205973,
       "translated": false
     }
@@ -503,11 +503,11 @@
       ],
       "type": "DELIVERY",
       "weekday_text": [
-        "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Monday: 11:00 AM – 8:00 PM",
+        "Tuesday: 11:00 AM – 8:00 PM",
+        "Wednesday: 11:00 AM – 8:00 PM",
+        "Thursday: 11:00 AM – 8:00 PM",
+        "Friday: 11:00 AM – 8:00 PM",
         "Saturday: Closed",
         "Sunday: Closed"
       ]
@@ -578,11 +578,11 @@
       ],
       "type": "TAKEOUT",
       "weekday_text": [
-        "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Monday: 11:00 AM – 8:00 PM",
+        "Tuesday: 11:00 AM – 8:00 PM",
+        "Wednesday: 11:00 AM – 8:00 PM",
+        "Thursday: 11:00 AM – 8:00 PM",
+        "Friday: 11:00 AM – 8:00 PM",
         "Saturday: Closed",
         "Sunday: Closed"
       ]
@@ -607,5 +607,26 @@
   "vicinity": "67 W 23rd St, New York",
   "website": "http://www.kofoony.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:26.918386+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:26.918386+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:10.032079+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://www.kofoony.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "http://www.kofoony.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:09:23.063984+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

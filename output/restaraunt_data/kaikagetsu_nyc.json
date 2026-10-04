@@ -195,7 +195,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6bDGGiofV03BYsbtQlf7aEky-dsDD2or5l2jrkvGJurB6KIuZ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "Came here with my fianc\u00e9 to celebrate her birthday and the food and service were amazing! The wagyu sukiyaki was delicious, and the broth in particular was the perfect combo of sweet and savory. We had a wonderful birthday dessert prepared just for us and we can\u2019t wait to come back!",
+      "text": "Came here with my fiancé to celebrate her birthday and the food and service were amazing! The wagyu sukiyaki was delicious, and the broth in particular was the perfect combo of sweet and savory. We had a wonderful birthday dessert prepared just for us and we can’t wait to come back!",
       "time": 1701308626,
       "translated": false
     },
@@ -219,7 +219,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqbyVTDQQSYFN-X7mRKfYwasEUpiSn0qHCKc3dTNE4vjI_-NAx=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "3 years ago",
-      "text": "I had the 6 courses one, which the price is reasonable to me for this quality of foods! And their serve is great, the restaurant is very clean too. I really love their appetizers and the rice dumpling with great fish broth! The beef sushi and sashimis are one of the best in town as well! The only thing I\u2019m little picky about is their sukiyaki, I personally don\u2019t eat much salty things so I think their broth was little salty to me, but everything else is really good! I would recommend others and surely will come again :)",
+      "text": "I had the 6 courses one, which the price is reasonable to me for this quality of foods! And their serve is great, the restaurant is very clean too. I really love their appetizers and the rice dumpling with great fish broth! The beef sushi and sashimis are one of the best in town as well! The only thing I’m little picky about is their sukiyaki, I personally don’t eat much salty things so I think their broth was little salty to me, but everything else is really good! I would recommend others and surely will come again :)",
       "time": 1632723974,
       "translated": false
     },
@@ -243,7 +243,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNa1ZKjQvw82h46R5Yk4Y6OKexzs5kDtmmCVz0zNB5MwM8IU4v=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "3 years ago",
-      "text": "Had their 5 course omakase with an upgrade. Ohmigod. Fish is so insanely fresh and their service is top notch. Everything was well represented and there\u2019s only one person/manager who handles all the patrons. The place is very romantic and quiet so you get a ton of service. Best of all it\u2019s right next door to insomnia cookie. Lol! The Waygu beef melts in your mouth. I had raw waygu beef sushi and the host explained all our dishes and pieces to us and gave recommendations on how it should be eaten. The bathroom is beautiful and I\u2019m obsessed with their aesop hand soap. I liked it so much I was googling where I can buy the same hand soap. What a great chance in a lifetime experience. Thank you! Fantastic food and service.",
+      "text": "Had their 5 course omakase with an upgrade. Ohmigod. Fish is so insanely fresh and their service is top notch. Everything was well represented and there’s only one person/manager who handles all the patrons. The place is very romantic and quiet so you get a ton of service. Best of all it’s right next door to insomnia cookie. Lol! The Waygu beef melts in your mouth. I had raw waygu beef sushi and the host explained all our dishes and pieces to us and gave recommendations on how it should be eaten. The bathroom is beautiful and I’m obsessed with their aesop hand soap. I liked it so much I was googling where I can buy the same hand soap. What a great chance in a lifetime experience. Thank you! Fantastic food and service.",
       "time": 1629564641,
       "translated": false
     }
@@ -265,5 +265,19 @@
   "vicinity": "WASSAIL, 162 Orchard St, New York",
   "website": "http://www.kaikagetsunyc.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:22.822174+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:22.822174+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:06.983842+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://www.kaikagetsunyc.com/",
+        "status": "HTTP_404",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

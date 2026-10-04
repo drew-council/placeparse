@@ -144,12 +144,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 6:00\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 6:00\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 6:00\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 6:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 6:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 6:00\u2009\u2013\u200911:00\u202fPM"
+      "Tuesday: 6:00 – 11:00 PM",
+      "Wednesday: 6:00 – 11:00 PM",
+      "Thursday: 6:00 – 11:00 PM",
+      "Friday: 6:00 – 11:00 PM",
+      "Saturday: 6:00 – 11:00 PM",
+      "Sunday: 6:00 – 11:00 PM"
     ]
   },
   "delivery": true,
@@ -247,12 +247,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 6:00\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 6:00\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 6:00\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 6:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 6:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 6:00\u2009\u2013\u200911:00\u202fPM"
+      "Tuesday: 6:00 – 11:00 PM",
+      "Wednesday: 6:00 – 11:00 PM",
+      "Thursday: 6:00 – 11:00 PM",
+      "Friday: 6:00 – 11:00 PM",
+      "Saturday: 6:00 – 11:00 PM",
+      "Sunday: 6:00 – 11:00 PM"
     ]
   },
   "photos": [
@@ -275,7 +275,7 @@
     {
       "height": 4032,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/117567265030972449650\">\ubc15\ud76c\uc740</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/117567265030972449650\">박희은</a>"
       ],
       "photo_reference": "ATKogpepFZ48cR9dmDEhcTkDJkVtjEfQRCQNyIo9UpzZaSpuSIV3vgNteFNvSa2bABirFgB4RHT1PX0A4Fae8M6W9d0tZQE-kLZBhM4SvufUUtbqBeChqUZHIkuFB4de0drB1aGFGpZR8Z-WW7evUIoUrOTtM7lR9g_liWDH8bhbB0hNPGF4zZVoXdgg2oj21YRT1IRNFS2Ddtb5E3MpjoXEp6hf-cd60iFIze_0_Aow-mmdTX56FCKeHpw1uCyihjof3nXY4d4Y-xtcciywJpa52Ua7w8Zt9I7k2zz_6M9d3EOOdF58nhv8YLiFABU0et7KPtQiwKGikKD5Ii-jf1JuRK8nT4mS4a6SdgcvujPvO2nv7ASgPjR6hPdcl65tjJDDADwr8Ri8l1IxG1ldjH7N5D5bQvGMwZZQNATITfrLLyAZkqzF5GHOhDvcac46qBH_",
       "width": 3024
@@ -348,14 +348,14 @@
   "reservable": true,
   "reviews": [
     {
-      "author_name": "\ubc15\ud76c\uc740",
+      "author_name": "박희은",
       "author_url": "https://www.google.com/maps/contrib/117567265030972449650/reviews",
       "language": "en",
       "original_language": "en",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8XicN6uBhYIN3WUk2aWrMlv820dfM7zwHpiTPr298FLPAcjQz=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "Absolutely phenomenal Korean food! The chef is a true master of seasoning\u2014every dish was perfectly balanced. This place offers a highly creative twist on Korean cuisine using local ingredients in ways I\u2019ve never seen, even in Korea. The vibe is warm and stylish, the price incredibly fair. Truly one of the most memorable meals I\u2019ve had. I wish I could bring this restaurant back home with me!",
+      "text": "Absolutely phenomenal Korean food! The chef is a true master of seasoning—every dish was perfectly balanced. This place offers a highly creative twist on Korean cuisine using local ingredients in ways I’ve never seen, even in Korea. The vibe is warm and stylish, the price incredibly fair. Truly one of the most memorable meals I’ve had. I wish I could bring this restaurant back home with me!",
       "time": 1750525795,
       "translated": false
     },
@@ -367,7 +367,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDCNTkjzJE3nddc9w5GbJCFOFWunzCI5pOzCBQU7bLBKm_hWuY2Q=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "Was so looking forward to coming here this visit and it was well worth it! I would highly recommend checking this place out! The service was really nice! Each dish was absolutely amazing as well! The only one I didn\u2019t love was the sweet potato donut at the end but it was purely my own taste preference, my husband really liked it! We also did the non alcoholic tasting menu and that was really well done as well! Overall a wonderful experience!",
+      "text": "Was so looking forward to coming here this visit and it was well worth it! I would highly recommend checking this place out! The service was really nice! Each dish was absolutely amazing as well! The only one I didn’t love was the sweet potato donut at the end but it was purely my own taste preference, my husband really liked it! We also did the non alcoholic tasting menu and that was really well done as well! Overall a wonderful experience!",
       "time": 1749776988,
       "translated": false
     },
@@ -391,7 +391,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNHM2pF1sxei9jT__KrFxXjUb5GSeYcDYEI6NuHc2ESKTkrL3r=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 2,
       "relative_time_description": "2 months ago",
-      "text": "overall, quite disappointing.\n\nFor starters, the wine pairing was bad. Maybe 2/6 \u201cworked\u201d (if you\u2019d say that) while the remainder didn\u2019t quite make sense. Flavor wise, the wines didn\u2019t expand the experience. Two just barely blended in to the already apparent flavors, while the others didn\u2019t add anything like a wine paring should. For the most part, skip the wine pairing. We both left with an absolute pounding headache.\n\nFood wise, the story of the tasting didn\u2019t make any sense. It was very much \u201cfood put in front of you\u201dvs \u201cexperience the flavor\u201d. I\u2019ve experienced better for less money at this caliber of dining.\n\nService\u2026 very friendly but incoherent. Hard to make out what was being said, wine glasses left all over the table, and again nothing was added to the experience. They simply did a good job at servicing the restaurant, which I could get for half the price at most high quality restaurants.\n\nAtmosphere was dark and cramped. They could do a lot more but didn\u2019t.\n\nThe whole experience was rushed as well. Order after order came with mild explanations.\n\nTo summarize my experience- this is very much a place where you pay high prices, get the food in front of you- and leave.\n\nFor me, at this price point and caliber of expectation- I was hoping for an experience of dining out expansion of which I could only find at Jua then go on to tell the tale\u2026.. which\u2026 I did not.\n\nAgain, for the same caliber of restaurants I could spend less, get more & experience far greater.",
+      "text": "overall, quite disappointing.\n\nFor starters, the wine pairing was bad. Maybe 2/6 “worked” (if you’d say that) while the remainder didn’t quite make sense. Flavor wise, the wines didn’t expand the experience. Two just barely blended in to the already apparent flavors, while the others didn’t add anything like a wine paring should. For the most part, skip the wine pairing. We both left with an absolute pounding headache.\n\nFood wise, the story of the tasting didn’t make any sense. It was very much “food put in front of you”vs “experience the flavor”. I’ve experienced better for less money at this caliber of dining.\n\nService… very friendly but incoherent. Hard to make out what was being said, wine glasses left all over the table, and again nothing was added to the experience. They simply did a good job at servicing the restaurant, which I could get for half the price at most high quality restaurants.\n\nAtmosphere was dark and cramped. They could do a lot more but didn’t.\n\nThe whole experience was rushed as well. Order after order came with mild explanations.\n\nTo summarize my experience- this is very much a place where you pay high prices, get the food in front of you- and leave.\n\nFor me, at this price point and caliber of expectation- I was hoping for an experience of dining out expansion of which I could only find at Jua then go on to tell the tale….. which… I did not.\n\nAgain, for the same caliber of restaurants I could spend less, get more & experience far greater.",
       "time": 1743826150,
       "translated": false
     },
@@ -403,7 +403,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL91oBYEhTOuqm3_biD8QoXvfw_m4lzWugYUIIszI0NNvWIBQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "3 months ago",
-      "text": "Really loved the experience! My favorites were caviar, sorbet, cod.\nPersonally though the last dessert with sweet potato was too heavy and kinda ruined the perfect ending the sorbet could\u2019ve provided.\nThe atmosphere and service was a bit too casual for its price.",
+      "text": "Really loved the experience! My favorites were caviar, sorbet, cod.\nPersonally though the last dessert with sweet potato was too heavy and kinda ruined the perfect ending the sorbet could’ve provided.\nThe atmosphere and service was a bit too casual for its price.",
       "time": 1743216336,
       "translated": false
     }
@@ -426,5 +426,48 @@
   "vicinity": "36 E 22nd St, New York",
   "website": "http://www.juanyc.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:22.204426+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:22.204426+00:00",
+  "emails": [
+    "info@juanyc.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:06.542798+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@juanyc.com": [
+        "https://juanyc.com/about",
+        "https://juanyc.com/event",
+        "https://juanyc.com/reservation"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://juanyc.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://juanyc.com/about",
+        "status": "ok",
+        "emails": [
+          "info@juanyc.com"
+        ]
+      },
+      {
+        "url": "https://juanyc.com/event",
+        "status": "ok",
+        "emails": [
+          "info@juanyc.com"
+        ]
+      },
+      {
+        "url": "https://juanyc.com/reservation",
+        "status": "ok",
+        "emails": [
+          "info@juanyc.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -169,13 +169,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
-      "Saturday: 12:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Sunday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 11:00 AM – 2:00 AM",
+      "Tuesday: 11:00 AM – 2:00 AM",
+      "Wednesday: 11:00 AM – 2:00 AM",
+      "Thursday: 11:00 AM – 2:00 AM",
+      "Friday: 11:00 AM – 3:00 AM",
+      "Saturday: 12:00 PM – 3:00 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
     ]
   },
   "delivery": true,
@@ -202,7 +202,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 646-866-7035",
-  "name": "375\u00b0 Chicken 'n Fries",
+  "name": "375° Chicken 'n Fries",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -278,20 +278,20 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
-      "Saturday: 12:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Sunday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 11:00 AM – 2:00 AM",
+      "Tuesday: 11:00 AM – 2:00 AM",
+      "Wednesday: 11:00 AM – 2:00 AM",
+      "Thursday: 11:00 AM – 2:00 AM",
+      "Friday: 11:00 AM – 3:00 AM",
+      "Saturday: 12:00 PM – 3:00 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
     ]
   },
   "photos": [
     {
       "height": 1289,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/116357775301845274058\">375\u00b0 Chicken &#39;n Fries</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/116357775301845274058\">375° Chicken &#39;n Fries</a>"
       ],
       "photo_reference": "ATKogpesr2fTZVms1Dtbt3Bn6B5HQb5R2hh0EwoPi1H-YyT1-B78Y5cebwpdBt5h6LtOLtEpiw0qE6VD00wVrGx4t1V_vNwoubLtb8t1HqpDSy8Nm4tSead4ZBiRxeSkMPphFJuhYs_LDDaRDBFMiR3UMsWCojMyll_QhcpdG4I0fY1sXlKjtzYNXCouuRmfWOiFLVqxJMUyKQLO73XSZHIjZwj5boypSu5FQ5CdJ4XTricheY7K7ykFC9xvXdmPRKhLbumscb4bHaBSO9cZqAQ2ewr1dQBpYt5XrZvO3C3PwYvFXA",
       "width": 1256
@@ -299,7 +299,7 @@
     {
       "height": 2700,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/116357775301845274058\">375\u00b0 Chicken &#39;n Fries</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/116357775301845274058\">375° Chicken &#39;n Fries</a>"
       ],
       "photo_reference": "ATKogpfoNxfztx46_IsejOWu8TlxnOk5EmhM7CgkoI59xlYVta0QoHwAw8dS3jMmBC7oJ3dvQzJbhi5licGS24V3MrG1teEpwdeCFALLaJFMxt1tUdGFR2fP3_1VEP-Ii4mu6OycucExD2GN4nNwxzZJr9tIdo6x0QV0EJ_OeeDvb1pty7oJmhXR-EASxUhiu6iFzlvZD7Y4T4yxgls8GXjfd3qrL14lVne-iZktIFyn6D69DdXOJWa-UgtxwwHIfeRZHf1FNGH4iGDCGmE7pGrVqEaFMgF3LNsvq3uNfm0zNc3pKg",
       "width": 4800
@@ -386,7 +386,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3AvdVCzYFoBwZwjCyPrIcXlbfpJZ62NmBq3Q5dN3Kr-GhwQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "The best crispy chicken sandwich in nyc. Simple. Juicy, tender and the Bun is perfect. I ordered the hot and it was spicy \ud83c\udf36\ufe0f and good. I had 3 sandwiches, no fries no nothing. Just the real deal. Cool vibes, very best fast food",
+      "text": "The best crispy chicken sandwich in nyc. Simple. Juicy, tender and the Bun is perfect. I ordered the hot and it was spicy 🌶️ and good. I had 3 sandwiches, no fries no nothing. Just the real deal. Cool vibes, very best fast food",
       "time": 1748339800,
       "translated": false
     },
@@ -422,7 +422,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdV2fUzUOZa8PPhz6IMq-RP8DJDqrpCxbcRgOwmUBWlopUzLSE=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "I was staying at the Arlo Midtown and was craving some chicken tenders, I did a quick search and there were two options and I\u2019m glad I went out and got this option! I ordered online which was super easy and I was even able to set my pick up time and received text notifications about the status of the order. I took the order to go, I would say that\u2019s likely most of their business (take out) although there is some seating available. The staff was friendly and efficient. The tenders were delicious and I did really enjoy the house made ranch as well.",
+      "text": "I was staying at the Arlo Midtown and was craving some chicken tenders, I did a quick search and there were two options and I’m glad I went out and got this option! I ordered online which was super easy and I was even able to set my pick up time and received text notifications about the status of the order. I took the order to go, I would say that’s likely most of their business (take out) although there is some seating available. The staff was friendly and efficient. The tenders were delicious and I did really enjoy the house made ranch as well.",
       "time": 1739058212,
       "translated": false
     },
@@ -434,7 +434,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3jHz9pyA7paQrm6f_Yt8wpPb0K-DSTKawUbGYeZ7zz8imdQk=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "The cashier was friendly and attentive. We had the chicken pop w/ buffalo sauce WOW!!! Absolutely no regrets for coming here, we loved every bit of it. It was crispy, hot, they were very GENEROUS with the amount of food and sauce. 11/10. If we lived here we would have become regulars \ud83d\udd25\ud83d\udd25",
+      "text": "The cashier was friendly and attentive. We had the chicken pop w/ buffalo sauce WOW!!! Absolutely no regrets for coming here, we loved every bit of it. It was crispy, hot, they were very GENEROUS with the amount of food and sauce. 11/10. If we lived here we would have become regulars 🔥🔥",
       "time": 1737326481,
       "translated": false
     }
@@ -457,5 +457,63 @@
   "vicinity": "649 9th Ave, New York",
   "website": "https://www.375chicken.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:36.040981+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:36.040981+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:03.205589+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.375chicken.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.375chicken.com/contact",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.375chicken.com/catering",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.375chicken.com/about",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.375chicken.com/locations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.375chicken.com/locations/harlem",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.375chicken.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.375chicken.com/contact",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.375chicken.com/catering",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.375chicken.com/contact"
+    ],
+    "browser_checked_at": "2026-10-03T22:07:08.357434+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

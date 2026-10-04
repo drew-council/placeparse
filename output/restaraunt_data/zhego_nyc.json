@@ -209,7 +209,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhog2RL7H-EDU8dQRClPI0JGfNg2LwVfz8RNCqxNfZi27JkF4=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "11 months ago",
-      "text": "For Bhutanese food in NYC, this is the spot. Nestled in a tiny street for seating for maximum of 10 indoors and a bit outside, for a date night or a group of friends 4 or less ideally. Staff was friendly and a reservation isn\u2019t required but ideal to ensure you get a spot and don\u2019t need to wait.\n\nThe meal started with the beef momo which were so delicious and juicy. The meat was tender and the flavor of the oils and flour come through so fragrantly. The noodles were also a great pick perfect \u2018q\u2019 of chewy texture in each bite. The beef with strong beans and the veggie spinach were also had tons of flavor. Per person there is a portion of rice and soup so one dish a person and a few momo should be more than enough for the average person.\n\nDefinitely be back in the future to try other items! Menu has lot of vegetarian options as well so don\u2019t shy away!",
+      "text": "For Bhutanese food in NYC, this is the spot. Nestled in a tiny street for seating for maximum of 10 indoors and a bit outside, for a date night or a group of friends 4 or less ideally. Staff was friendly and a reservation isn’t required but ideal to ensure you get a spot and don’t need to wait.\n\nThe meal started with the beef momo which were so delicious and juicy. The meat was tender and the flavor of the oils and flour come through so fragrantly. The noodles were also a great pick perfect ‘q’ of chewy texture in each bite. The beef with strong beans and the veggie spinach were also had tons of flavor. Per person there is a portion of rice and soup so one dish a person and a few momo should be more than enough for the average person.\n\nDefinitely be back in the future to try other items! Menu has lot of vegetarian options as well so don’t shy away!",
       "time": 1720838656,
       "translated": false
     },
@@ -263,5 +263,19 @@
   "utc_offset": -240,
   "vicinity": "38-4 61st St, Woodside",
   "website": "https://www.instagram.com/zhego_nyc_/",
-  "business_status_checked_at": "2026-10-03T20:06:28.644557+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:28.644557+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:27.095396+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.instagram.com/zhego_nyc_/",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -1,0 +1,73 @@
+{
+  "adr_address": "<span class=\"street-address\">339 W 44th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "339 W 44th St, New York, NY 10036, USA",
+  "formatted_phone_number": "(347) 913-2585",
+  "geometry": {
+    "location": {
+      "lat": 40.759418,
+      "lng": -73.99050559999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7606984802915,
+        "lng": -73.98920691970848
+      },
+      "southwest": {
+        "lat": 40.7580005197085,
+        "lng": -73.9919048802915
+      }
+    }
+  },
+  "international_phone_number": "+1 347-913-2585",
+  "name": "Tachi",
+  "place_id": "ChIJESihDq5ZwokREKeijupCgQM",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=252556629292263184",
+  "website": "https://tachinyc.com/",
+  "details_checked_at": "2026-10-03T21:59:16.819242+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:16.819242+00:00",
+  "emails": [
+    "hello@tachinyc.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:25.322603+00:00",
+    "outcome": "found",
+    "sources": {
+      "hello@tachinyc.com": [
+        "https://www.tachinyc.com/",
+        "https://www.tachinyc.com/contact",
+        "https://www.tachinyc.com/about"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.tachinyc.com/",
+        "status": "ok",
+        "emails": [
+          "hello@tachinyc.com"
+        ]
+      },
+      {
+        "url": "https://www.tachinyc.com/contact",
+        "status": "ok",
+        "emails": [
+          "hello@tachinyc.com"
+        ]
+      },
+      {
+        "url": "https://www.tachinyc.com/about",
+        "status": "ok",
+        "emails": [
+          "hello@tachinyc.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
+}

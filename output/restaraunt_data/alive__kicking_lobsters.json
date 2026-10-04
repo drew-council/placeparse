@@ -1,0 +1,56 @@
+{
+  "adr_address": "<span class=\"street-address\">269 Putnam Ave</span>, <span class=\"locality\">Cambridge</span>, <span class=\"region\">MA</span> <span class=\"postal-code\">02139-3725</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "269 Putnam Ave, Cambridge, MA 02139, USA",
+  "formatted_phone_number": "(617) 876-0451",
+  "geometry": {
+    "location": {
+      "lat": 42.3626814,
+      "lng": -71.1138414
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 42.36399523029149,
+        "lng": -71.1123663697085
+      },
+      "southwest": {
+        "lat": 42.3612972697085,
+        "lng": -71.1150643302915
+      }
+    }
+  },
+  "international_phone_number": "+1 617-876-0451",
+  "name": "Alive & Kicking Lobsters",
+  "place_id": "ChIJP5j-lVh344kRMmtLTr13V5Q",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=10689143895533251378",
+  "website": "https://aliveandkickinglobster.com/",
+  "details_checked_at": "2026-10-03T21:59:08.802470+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:08.802470+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:53.832056+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://aliveandkickinglobster.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://aliveandkickinglobster.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:07:17.356131+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

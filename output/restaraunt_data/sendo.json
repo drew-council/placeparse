@@ -253,13 +253,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Friday: 11:30 AM – 3:00 PM, 5:00 – 11:00 PM",
+      "Saturday: 11:30 AM – 3:00 PM, 5:00 – 11:00 PM",
+      "Sunday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM"
     ]
   },
   "delivery": false,
@@ -432,13 +432,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Friday: 11:30 AM – 3:00 PM, 5:00 – 11:00 PM",
+      "Saturday: 11:30 AM – 3:00 PM, 5:00 – 11:00 PM",
+      "Sunday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -540,7 +540,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNcwU018XCM2gBZSLRBZvAdyOQ4p2QJ4jy_S7GhlYikh72dJE=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "Let\u2019s be real \u2014 if you\u2019re in NYC and haven\u2019t tried this sushi yet, you\u2019re seriously missing out! We had to wait a bit, but it was worth every minute. The presentation was beautiful, the food was incredibly tasty, and the staff was super friendly. The atmosphere is perfect for a foodie date \u2014 you get to watch the chef prepare everything right in front of you and explain each dish. I\u2019d absolutely go back. A solid 10/10 \u2014 they nailed it!",
+      "text": "Let’s be real — if you’re in NYC and haven’t tried this sushi yet, you’re seriously missing out! We had to wait a bit, but it was worth every minute. The presentation was beautiful, the food was incredibly tasty, and the staff was super friendly. The atmosphere is perfect for a foodie date — you get to watch the chef prepare everything right in front of you and explain each dish. I’d absolutely go back. A solid 10/10 — they nailed it!",
       "time": 1750047059,
       "translated": false
     },
@@ -552,7 +552,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOyPz_K5Hbpu9HBrkpQrTQ9duIBBiHjUrF7KrNeZGaq5Hz6A=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Great tasting sushi for a decent price (considering NYC prices). Paid $48 for 10 bites of nigiri, two hand rolls, and a mini kaisendon (Hokkaido set). The quality and flavor of the fish was amazing, you could really taste each piece of fish. The fat was literally glistening off each piece. Tasted very fresh.\n\nSpent about 5 minutes trying to find the entrance. The entrance is an unmarked door on the second floor, up a flight of stairs. There was a sign that says go back to the first floor, which we incorrectly assumed meant the ground floor (depends where you\u2019re from).\n\nAlso got a green tea each per person. The tea quality was amazing and reminded me of tea we had in Japan. Spent about $140 total for two people.",
+      "text": "Great tasting sushi for a decent price (considering NYC prices). Paid $48 for 10 bites of nigiri, two hand rolls, and a mini kaisendon (Hokkaido set). The quality and flavor of the fish was amazing, you could really taste each piece of fish. The fat was literally glistening off each piece. Tasted very fresh.\n\nSpent about 5 minutes trying to find the entrance. The entrance is an unmarked door on the second floor, up a flight of stairs. There was a sign that says go back to the first floor, which we incorrectly assumed meant the ground floor (depends where you’re from).\n\nAlso got a green tea each per person. The tea quality was amazing and reminded me of tea we had in Japan. Spent about $140 total for two people.",
       "time": 1743180635,
       "translated": false
     },
@@ -564,7 +564,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKzD8bf4f1RtrbqnpbYLCSHli3UugF1KKCY9SNew4ydGzFMg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "a month ago",
-      "text": "Tiny upstairs sushi restaurant that only seats about 10 people (bar only). Affordable omakase sets ($33-48), even for dinner, but portions are definitely on the smaller side.\n\nWould definitely need to get the Hokkaido set (or two of the Kyoto sets) to fill you up if you're particularly hungry.\n\nFriendly sushi chefs and great service too!\n\nMain entrance is easy to miss with the small sign, but walk up 1 flight of steep stairs, and it\u2019s a nondescript door on the right side.",
+      "text": "Tiny upstairs sushi restaurant that only seats about 10 people (bar only). Affordable omakase sets ($33-48), even for dinner, but portions are definitely on the smaller side.\n\nWould definitely need to get the Hokkaido set (or two of the Kyoto sets) to fill you up if you're particularly hungry.\n\nFriendly sushi chefs and great service too!\n\nMain entrance is easy to miss with the small sign, but walk up 1 flight of steep stairs, and it’s a nondescript door on the right side.",
       "time": 1746999183,
       "translated": false
     },
@@ -588,7 +588,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjA2ebSXVT96KdG8mummjZdwIeWqcSINbnus9YuzRzexlhCxc4oA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "2 months ago",
-      "text": "The restaurant is called Sendo \u9bae\u5ea6, which means \u201cfreshness\u201d in Japanese\u2014but ironically, that\u2019s exactly what the meal was lacking. The fish didn\u2019t taste particularly fresh, and the portion size left much to be desired.\n\nWe ordered the Hokkaido Omakase ($48), which included 10 pieces of sushi, 2 hand roll, and a tiny seafood bowl. The sushi pieces were noticeably smaller than typical sizes in Japan. Even after adding two extra pieces, I left feeling only about 60% full.\n\nI suppose it\u2019s a case of \u201cyou get what you pay for,\u201d so maybe the standard shouldn\u2019t be surprising. But for a similar price point, Sushi by Bou consistently exceeds expectations in both flavor and overall experience.",
+      "text": "The restaurant is called Sendo 鮮度, which means “freshness” in Japanese—but ironically, that’s exactly what the meal was lacking. The fish didn’t taste particularly fresh, and the portion size left much to be desired.\n\nWe ordered the Hokkaido Omakase ($48), which included 10 pieces of sushi, 2 hand roll, and a tiny seafood bowl. The sushi pieces were noticeably smaller than typical sizes in Japan. Even after adding two extra pieces, I left feeling only about 60% full.\n\nI suppose it’s a case of “you get what you pay for,” so maybe the standard shouldn’t be surprising. But for a similar price point, Sushi by Bou consistently exceeds expectations in both flavor and overall experience.",
       "time": 1744991358,
       "translated": false
     }
@@ -611,24 +611,43 @@
   "website": "https://sendo.nyc/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
-    "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
-    "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
     "0c52cb89aa4d4154857a1584b6701db6@sentry.wixpress.com",
+    "0e6a29e4756740a8a63493e912ba2174@sentry.wixpress.com",
+    "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+    "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "7025fe2ce4ed466a9751d9607bc63a44@sentry.wixpress.com",
+    "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+    "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+    "8c4075d5481d476e945486754f783364@sentry.io",
+    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
     "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+    "baf30a2b91654c5a840931f0137bed30@sentry.wixpress.com",
+    "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+    "c5095236fd2e4b8fae9ed6d73cdd81a3@sentry.wixpress.com",
     "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
     "e0b4d631da7b4200828051f7f9c783e3@sentry-next.wixpress.com",
-    "8c4075d5481d476e945486754f783364@sentry.io",
-    "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
-    "baf30a2b91654c5a840931f0137bed30@sentry.wixpress.com",
-    "0e6a29e4756740a8a63493e912ba2174@sentry.wixpress.com",
-    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
-    "c5095236fd2e4b8fae9ed6d73cdd81a3@sentry.wixpress.com",
-    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
-    "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
-    "7025fe2ce4ed466a9751d9607bc63a44@sentry.wixpress.com",
-    "team@sendo.nyc",
-    "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com"
+    "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+    "team@sendo.nyc"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:06.090197+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:06.090197+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:55.813513+00:00",
+    "outcome": "found",
+    "sources": {
+      "team@sendo.nyc": [
+        "https://www.sendo.nyc/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.sendo.nyc/",
+        "status": "ok",
+        "emails": [
+          "team@sendo.nyc"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -198,12 +198,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+      "Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+      "Wednesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+      "Friday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 11:00 AM – 3:00 PM"
     ]
   },
   "delivery": false,
@@ -337,12 +337,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+      "Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+      "Wednesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+      "Friday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 11:00 AM – 3:00 PM"
     ]
   },
   "photos": [
@@ -444,7 +444,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIvTyOmDgfSib860aCe7C6FD642iFGWrf_m_TqM94t2-L_NvmG=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "4.5\nIn short Delicious food at smaller portions for the price..\n0.5 for the beignets being not fluffy\nBut shout out for the fries for being super fluffy.\nMy favorite was the chicken with peanuts on top for the brunch men\u00fa\nHeads up you can order only from the brunch or dinner menu\nIt was nice to sit outside on the patio\nReservations are available\nEvery dish was enjoyable, the cauliflower curry was a highlight however",
+      "text": "4.5\nIn short Delicious food at smaller portions for the price..\n0.5 for the beignets being not fluffy\nBut shout out for the fries for being super fluffy.\nMy favorite was the chicken with peanuts on top for the brunch menú\nHeads up you can order only from the brunch or dinner menu\nIt was nice to sit outside on the patio\nReservations are available\nEvery dish was enjoyable, the cauliflower curry was a highlight however",
       "time": 1744599160,
       "translated": false
     },
@@ -456,7 +456,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTTbZjpbZqUD6ReYnfGDp1K5iLMKIKNtZxCcazSiyFsEshQ-tH=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Modern take on African cuisine.  Tapas-inspired menu. Not a huge menu list, but the offerings are delicious as well as extremely vegetarian/vegan friendly. We enjoyed the Curried Oxtails with plantain in addition to the Seafood Curry. Both dishes were absolutely delicious! Good portion size and well-seasoned. Ekhaya also has a cocktail and wine list to choose from. My husband enjoyed his Tamarind Old-fashioned while their ros\u00e9 was quite nice as well. All in all, one of the nicer restaurants in American Tobacco with cuisine you don't find everywhere!",
+      "text": "Modern take on African cuisine.  Tapas-inspired menu. Not a huge menu list, but the offerings are delicious as well as extremely vegetarian/vegan friendly. We enjoyed the Curried Oxtails with plantain in addition to the Seafood Curry. Both dishes were absolutely delicious! Good portion size and well-seasoned. Ekhaya also has a cocktail and wine list to choose from. My husband enjoyed his Tamarind Old-fashioned while their rosé was quite nice as well. All in all, one of the nicer restaurants in American Tobacco with cuisine you don't find everywhere!",
       "time": 1743945912,
       "translated": false
     },
@@ -468,7 +468,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrO6n-WEiTBg9j12rIoOHXQtASaKWA_dD8MtLD0hQHcngItd98=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Zweli's Ehkaya delivered an absolutely amazing brunch experience for my family! From the seamless reservation process to the immediate seating in their stunning, authentically Zimbabwean-inspired space, everything was top-notch.\n\nOur server, Nia, was a gem \u2013 incredibly knowledgeable and her recommendations were spot on. Here is what we enjoyed:\n\nSweet Magwinyas $10.00\nZimbabwean donut bread with powered sugar\n\nFrench Toast $18.00\nBanana\u2019s foster\u2019s with candied pistachios and a honey ricotta cream\n\nFried Catfish $19.00\nStone ground grits with a cajun sauce, and egg your way\n\nEach Addition $5.00\nBacon, Two Eggs\n\nBanana Mojito $12.00\nBanana Rum, garnished with mint sprig and lime wheel\n\nPeargingertini $17.00\nPear vodka, pear, and ginger mash topped with cava\n\nBeyond the exceptional food and drinks, the restaurant was impeccably clean and well-maintained, and the nearby parking deck was a definite plus. We can't wait for our next visit to Ehkaya's!",
+      "text": "Zweli's Ehkaya delivered an absolutely amazing brunch experience for my family! From the seamless reservation process to the immediate seating in their stunning, authentically Zimbabwean-inspired space, everything was top-notch.\n\nOur server, Nia, was a gem – incredibly knowledgeable and her recommendations were spot on. Here is what we enjoyed:\n\nSweet Magwinyas $10.00\nZimbabwean donut bread with powered sugar\n\nFrench Toast $18.00\nBanana’s foster’s with candied pistachios and a honey ricotta cream\n\nFried Catfish $19.00\nStone ground grits with a cajun sauce, and egg your way\n\nEach Addition $5.00\nBacon, Two Eggs\n\nBanana Mojito $12.00\nBanana Rum, garnished with mint sprig and lime wheel\n\nPeargingertini $17.00\nPear vodka, pear, and ginger mash topped with cava\n\nBeyond the exceptional food and drinks, the restaurant was impeccably clean and well-maintained, and the nearby parking deck was a definite plus. We can't wait for our next visit to Ehkaya's!",
       "time": 1745253642,
       "translated": false
     },
@@ -480,7 +480,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOUUZEwqc53FuSmr4P-MBeem6aaQ7AcnYFewTAgfO3XPuEZCQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "Before heading to an event at DPAC, my wife made us reservations at this restaurant, and I have to say, it was an excellent choice! From the moment we sat down, we were excited to explore the unique and flavorful offerings on the menu\u2014and it did not disappoint.\n\nOpting for small plates was the perfect decision, as it allowed us to sample a variety of dishes without feeling overly full. One of the standout dishes for me was the Dovi Cauliflower\u2014tender cauliflower smothered in a rich and velvety peanut and coconut curry sauce. The combination of flavors was both bold and comforting, making every bite an absolute delight.\n\nAnother intriguing dish we tried was the Bobotie, a South African-inspired minced beef dish topped with a delicate egg souffl\u00e9. The interplay of sweet and savory, with hints of cinnamon, curry, and raisins, made for a truly unique and memorable bite. My wife\u2019s favorite was the butternut fritters, which were perfectly crisp on the outside, soft on the inside, and had just the right touch of sweetness.\n\nTo round out the experience, make sure you try some of the specialty cocktails! The drink menu is just as creative as the food, featuring unique flavor combinations that perfectly complement the dishes. Whether you\u2019re into something fruity, bold, or subtly spiced, there\u2019s something for everyone.\n\nOverall, this was an amazing dining experience\u2014one that felt adventurous yet incredibly satisfying. If you're looking to step outside the usual flavors and try something refreshingly different, this is definitely the place to go! Highly recommend.",
+      "text": "Before heading to an event at DPAC, my wife made us reservations at this restaurant, and I have to say, it was an excellent choice! From the moment we sat down, we were excited to explore the unique and flavorful offerings on the menu—and it did not disappoint.\n\nOpting for small plates was the perfect decision, as it allowed us to sample a variety of dishes without feeling overly full. One of the standout dishes for me was the Dovi Cauliflower—tender cauliflower smothered in a rich and velvety peanut and coconut curry sauce. The combination of flavors was both bold and comforting, making every bite an absolute delight.\n\nAnother intriguing dish we tried was the Bobotie, a South African-inspired minced beef dish topped with a delicate egg soufflé. The interplay of sweet and savory, with hints of cinnamon, curry, and raisins, made for a truly unique and memorable bite. My wife’s favorite was the butternut fritters, which were perfectly crisp on the outside, soft on the inside, and had just the right touch of sweetness.\n\nTo round out the experience, make sure you try some of the specialty cocktails! The drink menu is just as creative as the food, featuring unique flavor combinations that perfectly complement the dishes. Whether you’re into something fruity, bold, or subtly spiced, there’s something for everyone.\n\nOverall, this was an amazing dining experience—one that felt adventurous yet incredibly satisfying. If you're looking to step outside the usual flavors and try something refreshingly different, this is definitely the place to go! Highly recommend.",
       "time": 1740776526,
       "translated": false
     },
@@ -516,8 +516,35 @@
   "website": "https://zwelisekhaya.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "info@zwelis.com",
-    "email@example.com"
+    "email@example.com",
+    "info@zwelis.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:05.050622+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:05.050622+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:35.552337+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@zwelis.com": [
+        "https://zwelisekhaya.com/",
+        "https://zwelisekhaya.com/durham-zweli-s-ekhaya-about"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://zwelisekhaya.com/",
+        "status": "ok",
+        "emails": [
+          "info@zwelis.com"
+        ]
+      },
+      {
+        "url": "https://zwelisekhaya.com/durham-zweli-s-ekhaya-about",
+        "status": "ok",
+        "emails": [
+          "info@zwelis.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

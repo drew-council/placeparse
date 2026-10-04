@@ -1,0 +1,58 @@
+{
+  "adr_address": "<span class=\"street-address\">43 W 8th St 2nd Floor</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10011-9028</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "43 W 8th St 2nd Floor, New York, NY 10011, USA",
+  "formatted_phone_number": "(646) 400-1647",
+  "geometry": {
+    "location": {
+      "lat": 40.7332536,
+      "lng": -73.9983674
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7345468802915,
+        "lng": -73.9970591197085
+      },
+      "southwest": {
+        "lat": 40.7318489197085,
+        "lng": -73.9997570802915
+      }
+    }
+  },
+  "international_phone_number": "+1 646-400-1647",
+  "name": "Sendo",
+  "place_id": "ChIJL0OAY2VZwokR7_beSa-EKAA",
+  "types": [
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=11404887461918447",
+  "website": "https://sendo.nyc/",
+  "details_checked_at": "2026-10-03T21:59:13.504084+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:13.504084+00:00",
+  "emails": [
+    "team@sendo.nyc"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:23.709110+00:00",
+    "outcome": "found",
+    "sources": {
+      "team@sendo.nyc": [
+        "https://www.sendo.nyc/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.sendo.nyc/",
+        "status": "ok",
+        "emails": [
+          "team@sendo.nyc"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
+}

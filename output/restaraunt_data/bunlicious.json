@@ -116,13 +116,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Monday: 10:30 AM – 12:00 AM",
       "Tuesday: Open 24 hours",
       "Wednesday: Open 24 hours",
-      "Thursday: 10:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 10:30 AM – 12:00 AM",
       "Friday: Open 24 hours",
       "Saturday: Open 24 hours",
-      "Sunday: 12:00\u202fAM\u2009\u2013\u200911:30\u202fPM"
+      "Sunday: 12:00 AM – 11:30 PM"
     ]
   },
   "delivery": true,
@@ -175,13 +175,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Monday: 10:30 AM – 12:00 AM",
       "Tuesday: Open 24 hours",
       "Wednesday: Open 24 hours",
-      "Thursday: 10:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 10:30 AM – 12:00 AM",
       "Friday: Open 24 hours",
       "Saturday: Open 24 hours",
-      "Sunday: 12:00\u202fAM\u2009\u2013\u200911:30\u202fPM"
+      "Sunday: 12:00 AM – 11:30 PM"
     ]
   },
   "photos": [
@@ -295,7 +295,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKu1Kreq63Pou6lJ52YtGjuyTbT92EJpvdLjxtK2nJqOh5ynQ=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 1,
       "relative_time_description": "in the last week",
-      "text": "Terrible. Order the beef stew noodle\u2026 there was barely any beef and the soup was so oily. I couldnt even finish the meal. Also the place looked abandoned and i was the only person inside eating. Very strange. Did not taste fresh",
+      "text": "Terrible. Order the beef stew noodle… there was barely any beef and the soup was so oily. I couldnt even finish the meal. Also the place looked abandoned and i was the only person inside eating. Very strange. Did not taste fresh",
       "time": 1750552169,
       "translated": false
     },
@@ -307,7 +307,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQOYqOW9vTJ7r529QtYcvy2XGiqsJVknxXFlqtwzaqbdGJXwwd=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "11 months ago",
-      "text": "I love this place! This is gotta be my to go delicious affordable Chinese food in the neighborhood! The amount of food for less than 10 dollars is just unbeatable in this economy! Especially when it doesn\u2019t require tipping? Wow I might as well stop cooking at home and just do take out here",
+      "text": "I love this place! This is gotta be my to go delicious affordable Chinese food in the neighborhood! The amount of food for less than 10 dollars is just unbeatable in this economy! Especially when it doesn’t require tipping? Wow I might as well stop cooking at home and just do take out here",
       "time": 1721345493,
       "translated": false
     },
@@ -331,7 +331,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2RS3p9rRYhHa05ecyE6tHdAPILV0MZh-5Rvj2qH1uqGwXqCxOJg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "6 months ago",
-      "text": "This is the late night spot! If you\u2019re ever hungry and cold, they will be kind and cook you great bites! The value is there and they make most of their menu in house. I highly recommend the dumplings and the tomato soup! I thought their braised beef was fantastic. What you expect is exactly what you get, and i love it! Can\u2019t wait to go back",
+      "text": "This is the late night spot! If you’re ever hungry and cold, they will be kind and cook you great bites! The value is there and they make most of their menu in house. I highly recommend the dumplings and the tomato soup! I thought their braised beef was fantastic. What you expect is exactly what you get, and i love it! Can’t wait to go back",
       "time": 1733486338,
       "translated": false
     }
@@ -352,5 +352,19 @@
   "utc_offset": -240,
   "vicinity": "42-05 35th Ave, Long Island City",
   "website": "https://www.bunliciousny.com/",
-  "business_status_checked_at": "2026-10-03T20:04:48.705051+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:48.705051+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:14.224867+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.bunliciousny.com/",
+        "status": "ValueError",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

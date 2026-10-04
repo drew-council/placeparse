@@ -1,0 +1,76 @@
+{
+  "adr_address": "<span class=\"street-address\">1140 Myrtle Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11221-2404</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "1140 Myrtle Ave, Brooklyn, NY 11221, USA",
+  "formatted_phone_number": "(914) 893-2843",
+  "geometry": {
+    "location": {
+      "lat": 40.6969513,
+      "lng": -73.9345859
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6983578302915,
+        "lng": -73.9332432697085
+      },
+      "southwest": {
+        "lat": 40.6956598697085,
+        "lng": -73.9359412302915
+      }
+    }
+  },
+  "international_phone_number": "+1 914-893-2843",
+  "name": "Market Hotel",
+  "place_id": "ChIJU0zeNwhcwokRW4hFXMker7s",
+  "types": [
+    "establishment",
+    "night_club",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=13524062056202209371",
+  "website": "http://markethotel.org/",
+  "details_checked_at": "2026-10-03T21:59:22.022467+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:22.022467+00:00",
+  "emails": [
+    "booking@markethotel.org",
+    "info@markethotel.org",
+    "nightlife@markethotel.org"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:16.713561+00:00",
+    "outcome": "found",
+    "sources": {
+      "booking@markethotel.org": [
+        "https://www.markethotel.org/contact"
+      ],
+      "info@markethotel.org": [
+        "https://www.markethotel.org/contact"
+      ],
+      "nightlife@markethotel.org": [
+        "https://www.markethotel.org/contact"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.markethotel.org/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.markethotel.org/contact",
+        "status": "ok",
+        "emails": [
+          "booking@markethotel.org",
+          "info@markethotel.org",
+          "nightlife@markethotel.org"
+        ]
+      },
+      {
+        "url": "https://www.markethotel.org/about",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
+}

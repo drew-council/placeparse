@@ -154,20 +154,20 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 10:00 PM",
+      "Friday: 11:30 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "delivery": true,
   "dine_in": true,
   "editorial_summary": {
     "language": "en",
-    "overview": "Easygoing restaurant specializing in feijoada & other Brazilian dishes, plus cacha\u00e7a cocktails."
+    "overview": "Easygoing restaurant specializing in feijoada & other Brazilian dishes, plus cachaça cocktails."
   },
   "formatted_address": "43 Carmine St, New York, NY 10014, USA",
   "formatted_phone_number": "(212) 401-0021",
@@ -267,13 +267,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 10:00 PM",
+      "Friday: 11:30 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -376,7 +376,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQJm_qbBltnFReHhmLxdL5KYaK4uPKaiRV0Pjxfcs8Q3C2Ams=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Enjoyed a casual lunch with four other coworkers today. The food was delicious \u2014 especially the Hamachi! So fresh. Exceptional caipirinhas. Our server, Dino, was exceptional. He was so kind, friendly, positive, thoughtful and attentive. We will definitely be back! It was honestly one of the nicest service experiences I\u2019ve had in a long time.",
+      "text": "Enjoyed a casual lunch with four other coworkers today. The food was delicious — especially the Hamachi! So fresh. Exceptional caipirinhas. Our server, Dino, was exceptional. He was so kind, friendly, positive, thoughtful and attentive. We will definitely be back! It was honestly one of the nicest service experiences I’ve had in a long time.",
       "time": 1743119175,
       "translated": false
     },
@@ -400,7 +400,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLMPxW7vtSYNsiSE8I54ySBUpUnXPxPAeq-hB28_ODxcYv4qNG=s128-c0x00000000-cc-rp-mo-ba8",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "This place is a phenomenal Brazilian restaurant! \ud83c\udde7\ud83c\uddf7 Berimbau Brazilian Kitchen \ud83c\udf74in the West Village \ud83d\uddfd serves an wonderful selection of delicious \ud83e\udd24 dishes \ud83c\udf7d\ufe0f - definitely get the Cheese \ud83e\uddc0 Bread, Salad \ud83e\udd57, Chicken \ud83d\udc14 Stroganoff \ud83c\udf72 with Rice \ud83c\udf5a, and Steak! \ud83e\udd69 The staff \ud83d\udc68\u200d\ud83c\udf73 is super friendly and professional, and the service is quick! \u23f2\ufe0f They have limited seating \ud83e\ude91 so make a reservation \ud83d\udece\ufe0f online \ud83c\udf10 ahead of time. \u23f0 I wish I came here sooner!",
+      "text": "This place is a phenomenal Brazilian restaurant! 🇧🇷 Berimbau Brazilian Kitchen 🍴in the West Village 🗽 serves an wonderful selection of delicious 🤤 dishes 🍽️ - definitely get the Cheese 🧀 Bread, Salad 🥗, Chicken 🐔 Stroganoff 🍲 with Rice 🍚, and Steak! 🥩 The staff 👨‍🍳 is super friendly and professional, and the service is quick! ⏲️ They have limited seating 🪑 so make a reservation 🛎️ online 🌐 ahead of time. ⏰ I wish I came here sooner!",
       "time": 1740108614,
       "translated": false
     },
@@ -448,11 +448,42 @@
   "vicinity": "43 Carmine St, New York",
   "website": "https://www.berimbaunyc.com/",
   "emails": [
-    "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
-    "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
-    "e0b4d631da7b4200828051f7f9c783e3@sentry-next.wixpress.com",
+    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
     "8c4075d5481d476e945486754f783364@sentry.io",
-    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+    "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+    "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+    "e0b4d631da7b4200828051f7f9c783e3@sentry-next.wixpress.com",
+    "info@berimbaurestaurant.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:04:44.516975+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:44.516975+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:09.103252+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@berimbaurestaurant.com": [
+        "https://www.berimbaunyc.com/",
+        "https://www.berimbaunyc.com/events"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.berimbaunyc.com/",
+        "status": "ok",
+        "emails": [
+          "info@berimbaurestaurant.com"
+        ]
+      },
+      {
+        "url": "https://www.berimbaunyc.com/events",
+        "status": "ok",
+        "emails": [
+          "info@berimbaurestaurant.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.berimbaunyc.com/",
+      "https://www.berimbaunyc.com/events"
+    ]
+  }
 }

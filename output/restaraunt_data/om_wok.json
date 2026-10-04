@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM"
+      "Monday: 11:00 AM – 10:30 PM",
+      "Tuesday: 11:00 AM – 10:30 PM",
+      "Wednesday: 11:00 AM – 10:30 PM",
+      "Thursday: 11:00 AM – 10:30 PM",
+      "Friday: 11:00 AM – 10:30 PM",
+      "Saturday: 11:00 AM – 10:30 PM",
+      "Sunday: 11:00 AM – 10:30 PM"
     ]
   },
   "delivery": true,
@@ -263,13 +263,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM"
+      "Monday: 11:00 AM – 10:30 PM",
+      "Tuesday: 11:00 AM – 10:30 PM",
+      "Wednesday: 11:00 AM – 10:30 PM",
+      "Thursday: 11:00 AM – 10:30 PM",
+      "Friday: 11:00 AM – 10:30 PM",
+      "Saturday: 11:00 AM – 10:30 PM",
+      "Sunday: 11:00 AM – 10:30 PM"
     ]
   },
   "photos": [
@@ -372,7 +372,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVikrc9bs9AJNF8iJqoLYIjTrZ4gTCp0OCNZ3wYefy0a8CxxRd=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "I recently dined at Om Wok and was truly impressed. The food was fresh, flavorful, and delicious. Portions were generous, and the staff was friendly and accommodating. If you\u2019re craving tasty, freshly made Asian cuisine, Om Wok is a must-try. I\u2019ll definitely be back!\ud83e\udd24",
+      "text": "I recently dined at Om Wok and was truly impressed. The food was fresh, flavorful, and delicious. Portions were generous, and the staff was friendly and accommodating. If you’re craving tasty, freshly made Asian cuisine, Om Wok is a must-try. I’ll definitely be back!🤤",
       "time": 1750449195,
       "translated": false
     },
@@ -384,7 +384,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUs4Xl1qwH5vck0j0PKoOI6YvsBKvBAcpNZ8kv5hT5-9jvbHEYK=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 3,
       "relative_time_description": "3 months ago",
-      "text": "I got the wonton soup and chicken Momos. The wonton soup was an absolute travesty (in fairness I shouldn\u2019t have ordered something not Tibetan and expected it to be good). The meat was pretty meager and the flavor juat overall lacked. The momos were definitely better, pretty juicy and good chicken, but once again the flavor was minimal. I\u2019ve definitely had better momos for cheaper too and the food took them so long to make, very fresh and hot but not worth the wait.",
+      "text": "I got the wonton soup and chicken Momos. The wonton soup was an absolute travesty (in fairness I shouldn’t have ordered something not Tibetan and expected it to be good). The meat was pretty meager and the flavor juat overall lacked. The momos were definitely better, pretty juicy and good chicken, but once again the flavor was minimal. I’ve definitely had better momos for cheaper too and the food took them so long to make, very fresh and hot but not worth the wait.",
       "time": 1742210046,
       "translated": false
     },
@@ -396,7 +396,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXz7NgnjS-JP1EKjI9AlmxgxwgTG76neTkVW6JMVe0zjjSjG2jMCg=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "a month ago",
-      "text": "The laphing and chili chicken were great and I only managed to have one momo. That tibetan rap though\u2026 #CHOP",
+      "text": "The laphing and chili chicken were great and I only managed to have one momo. That tibetan rap though… #CHOP",
       "time": 1748212369,
       "translated": false
     },
@@ -445,5 +445,26 @@
   "vicinity": "89-17 Northern Blvd, Jackson Heights",
   "website": "https://www.omwokmenu.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:49.919100+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:49.919100+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:37.570379+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.omwokmenu.com/",
+        "status": "ValueError",
+        "emails": []
+      },
+      {
+        "url": "https://www.omwokmenu.com/",
+        "status": "browser_unsafe_or_unresolvable",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:10:39.405675+00:00",
+    "browser_outcome": "incomplete_lookup"
+  }
 }

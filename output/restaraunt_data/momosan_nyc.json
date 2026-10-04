@@ -221,13 +221,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Tuesday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Wednesday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Thursday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
       "Friday: Closed",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+      "Saturday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Sunday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -404,13 +404,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Tuesday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Wednesday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Thursday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Friday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Saturday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Sunday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM"
     ]
   },
   "photos": [
@@ -536,7 +536,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlcDbC3mziDZugfxQam6YX7Lp_CwV27Llbkd3WhEL4huRd2-1r=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "I had a great experience at this ramen spot. From the moment I walked in, I was greeted warmly by Johan, who provided excellent service throughout my visit. He recommended a seasonal cocktail called The Last Petal, a refreshing sake-based drink that was a perfect start to the meal.\n\nFor lunch, I ordered the Spicy Kakuni Tonkotsu from the menu, and it didn\u2019t disappoint. The broth was rich and flavorful, with just the right amount of heat, and the braised pork was tender and satisfying. Definitely a bowl of ramen I\u2019d recommend.\n\nOverall, great service and solid food\u2014I\u2019ll be back.",
+      "text": "I had a great experience at this ramen spot. From the moment I walked in, I was greeted warmly by Johan, who provided excellent service throughout my visit. He recommended a seasonal cocktail called The Last Petal, a refreshing sake-based drink that was a perfect start to the meal.\n\nFor lunch, I ordered the Spicy Kakuni Tonkotsu from the menu, and it didn’t disappoint. The broth was rich and flavorful, with just the right amount of heat, and the braised pork was tender and satisfying. Definitely a bowl of ramen I’d recommend.\n\nOverall, great service and solid food—I’ll be back.",
       "time": 1746033897,
       "translated": false
     },
@@ -740,13 +740,13 @@
       ],
       "type": "TAKEOUT",
       "weekday_text": [
-        "Monday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20098:30\u202fPM",
-        "Tuesday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20098:30\u202fPM",
-        "Wednesday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20098:30\u202fPM",
-        "Thursday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20098:30\u202fPM",
-        "Friday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
-        "Saturday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
-        "Sunday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20098:30\u202fPM"
+        "Monday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM",
+        "Tuesday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM",
+        "Wednesday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM",
+        "Thursday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM",
+        "Friday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM",
+        "Saturday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM",
+        "Sunday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM"
       ]
     }
   ],
@@ -770,5 +770,46 @@
   "vicinity": "342 Lexington Ave, New York",
   "website": "http://momosanramen.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:41.342071+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:41.342071+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:29.606183+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://momosanramen.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://momosanramen.com/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://momosanramen.com/about-momosan/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://momosanramen.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://momosanramen.com/contact/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://momosanramen.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:10:18.625284+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

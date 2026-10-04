@@ -160,13 +160,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 9:00 AM – 9:00 PM",
+      "Tuesday: 9:00 AM – 9:00 PM",
+      "Wednesday: 9:00 AM – 9:00 PM",
+      "Thursday: 9:00 AM – 9:00 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 9:00 PM",
+      "Sunday: 9:00 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -269,13 +269,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 9:00 AM – 9:00 PM",
+      "Tuesday: 9:00 AM – 9:00 PM",
+      "Wednesday: 9:00 AM – 9:00 PM",
+      "Thursday: 9:00 AM – 9:00 PM",
+      "Friday: 9:00 AM – 9:00 PM",
+      "Saturday: 9:00 AM – 9:00 PM",
+      "Sunday: 9:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -401,7 +401,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4U26VsyZmx0q_noMmRzXMVZmlZYJ0XMEeQrwNA7HgUJC3-kvb1w=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 1,
       "relative_time_description": "2 years ago",
-      "text": "This place needs to be visited by NYC Health Department. My friend dragged me there. But didn't eat anything. Eating \u2070stomach[ tripe] and animal intestines, they are full of vitamins however, it is a recipe for stomach problems.. Why? Even if they are fully cooked,  they produce HPilory in the stomach. The body is forced to produce extra acids  The food is exposed to a very uncleaned environment.",
+      "text": "This place needs to be visited by NYC Health Department. My friend dragged me there. But didn't eat anything. Eating ⁰stomach[ tripe] and animal intestines, they are full of vitamins however, it is a recipe for stomach problems.. Why? Even if they are fully cooked,  they produce HPilory in the stomach. The body is forced to produce extra acids  The food is exposed to a very uncleaned environment.",
       "time": 1680011364,
       "translated": false
     },
@@ -444,5 +444,13 @@
   "user_ratings_total": 20,
   "utc_offset": -240,
   "vicinity": "41-40 Main St, Flushing",
-  "business_status_checked_at": "2026-10-03T20:05:21.583205+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:21.583205+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:06.430230+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

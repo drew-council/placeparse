@@ -161,13 +161,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 12:00 – 9:00 PM",
+      "Tuesday: 12:00 – 9:00 PM",
+      "Wednesday: 12:00 – 9:00 PM",
+      "Thursday: 12:00 – 9:00 PM",
+      "Friday: 12:00 – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "delivery": false,
@@ -269,13 +269,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 12:00 – 9:00 PM",
+      "Tuesday: 12:00 – 9:00 PM",
+      "Wednesday: 12:00 – 9:00 PM",
+      "Thursday: 12:00 – 9:00 PM",
+      "Friday: 12:00 – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -376,7 +376,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSbkksD1aW9OLnTd_LtKWCl21SLJyUi0VWe21DJHNj3SY5pQI3=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "3 months ago",
-      "text": "Went for a fun weekend here and had a great time! There\u2019s a ton of projects you can decorate and the charms are included in the price of what item you pick. Bigger charms or blind boxes cost extra. It is easy to get overwhelmed with all the charms but the staff was so helpful. I\u2019d recommend booking a time to spend here since it gets crowded quickly. Definitely stop by!",
+      "text": "Went for a fun weekend here and had a great time! There’s a ton of projects you can decorate and the charms are included in the price of what item you pick. Bigger charms or blind boxes cost extra. It is easy to get overwhelmed with all the charms but the staff was so helpful. I’d recommend booking a time to spend here since it gets crowded quickly. Definitely stop by!",
       "time": 1741614365,
       "translated": false
     },
@@ -400,7 +400,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0MPHG3FL87oiEKEapfVE1Ecj-qBKXUi6PiJ31ZMAL4DwYTw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "I went with my pookies and the place was so CUTEYWTWTEGGEHWHWHEHEJJWJD they had a ton of cute charms and things to choose from, if you want a cheaper option there\u2019s a discount 5 for 15 hair clips I did the mirror and it came out super cute! (Post to insta and tag them for a free hair clip!!)",
+      "text": "I went with my pookies and the place was so CUTEYWTWTEGGEHWHWHEHEJJWJD they had a ton of cute charms and things to choose from, if you want a cheaper option there’s a discount 5 for 15 hair clips I did the mirror and it came out super cute! (Post to insta and tag them for a free hair clip!!)",
       "time": 1737928012,
       "translated": false
     },
@@ -412,7 +412,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUAVJ8U5Y7xZ1BOBiiXwmlzJakLaYvajc2PrB7fXF3okqKK8E=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Absolutely LOVE this place! We went here for my daughter\u2019s birthday with some friends and they all had such a great time! It\u2019s such a unique and cute little place. Staff was amazing from the beginning when scheduling my appointment and having to change the number of people attending last minute to being as patient and accommodating as they were to our large party. Your staff has patience of saints I will say! Super friendly and informative on the process, giving detailed instructions on how to do things. Thanks again for everything! We will definitely be back again in the future. My only note is to take public transit there and walk, parking is not the best but of course that\u2019s not on the business, it\u2019s the area. Just a side note for those that are traveling to this from outside of Queens!",
+      "text": "Absolutely LOVE this place! We went here for my daughter’s birthday with some friends and they all had such a great time! It’s such a unique and cute little place. Staff was amazing from the beginning when scheduling my appointment and having to change the number of people attending last minute to being as patient and accommodating as they were to our large party. Your staff has patience of saints I will say! Super friendly and informative on the process, giving detailed instructions on how to do things. Thanks again for everything! We will definitely be back again in the future. My only note is to take public transit there and walk, parking is not the best but of course that’s not on the business, it’s the area. Just a side note for those that are traveling to this from outside of Queens!",
       "time": 1744136676,
       "translated": false
     },
@@ -439,5 +439,41 @@
   "utc_offset": -240,
   "vicinity": "136-91 37th Ave, Flushing",
   "website": "http://monsterdiy.com/",
-  "business_status_checked_at": "2026-10-03T20:05:41.705732+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:41.705732+00:00",
+  "emails": [
+    "monsterhandmade2@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:30.652558+00:00",
+    "outcome": "found",
+    "sources": {
+      "monsterhandmade2@gmail.com": [
+        "https://monsterdiy.com/pages/contact"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://monsterdiy.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://monsterdiy.com/pages/contact",
+        "status": "ok",
+        "emails": [
+          "monsterhandmade2@gmail.com"
+        ]
+      },
+      {
+        "url": "https://monsterdiy.com/pages/press-on-nail",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://monsterdiy.com/",
+      "https://monsterdiy.com/pages/contact",
+      "https://monsterdiy.com/pages/press-on-nail"
+    ]
+  }
 }

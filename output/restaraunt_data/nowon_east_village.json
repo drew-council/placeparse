@@ -1,0 +1,66 @@
+{
+  "adr_address": "<span class=\"street-address\">507 E 6th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10009</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "507 E 6th St, New York, NY 10009, USA",
+  "formatted_phone_number": "(646) 692-3867",
+  "geometry": {
+    "location": {
+      "lat": 40.7253574,
+      "lng": -73.9833014
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.72664098029151,
+        "lng": -73.98198911970849
+      },
+      "southwest": {
+        "lat": 40.72394301970851,
+        "lng": -73.9846870802915
+      }
+    }
+  },
+  "international_phone_number": "+1 646-692-3867",
+  "name": "Nowon East Village",
+  "place_id": "ChIJjReAQKxZwokRnnraeb2WJ18",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=6856614698232216222",
+  "website": "https://www.nowonusa.com/",
+  "details_checked_at": "2026-10-03T21:59:26.006266+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:26.006266+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:18.312272+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.nowonusa.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.nowonusa.com/history",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.nowonusa.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.nowonusa.com/history",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:10:32.956330+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

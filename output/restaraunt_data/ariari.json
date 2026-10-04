@@ -163,13 +163,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:30\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 5:30\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 5:30\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 5:30\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 5:00\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 5:30 – 11:00 PM",
+      "Tuesday: 5:30 – 10:30 PM",
+      "Wednesday: 5:30 – 11:00 PM",
+      "Thursday: 5:30 – 11:00 PM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: 5:00 – 11:00 PM"
     ]
   },
   "delivery": true,
@@ -272,13 +272,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:30\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 5:30\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 5:30\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 5:30\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 5:00\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 5:30 – 11:00 PM",
+      "Tuesday: 5:30 – 10:30 PM",
+      "Wednesday: 5:30 – 11:00 PM",
+      "Thursday: 5:30 – 11:00 PM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: 5:00 – 11:00 PM"
     ]
   },
   "photos": [
@@ -381,7 +381,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXN8gaGtA3ePlBSIhraPNzQgVj25Q8jFTC7RMdDgZQ2qUZVvbbJ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "My wife and I had had a great dinner at ARIARI. This was not our first time there but it\u2019s pleasant to see that quality in food and service has not waned. Waitstaff were warm and welcoming, topping off the complimentary kimchi appetizer often and refilling our water. The food itself has always been very tasty and we were able to try a few new things on the menu this time. Usually the review is just about the food, but their service created an exceptional dining experience that I don\u2019t feel too often these days when at other restaurants anywhere.",
+      "text": "My wife and I had had a great dinner at ARIARI. This was not our first time there but it’s pleasant to see that quality in food and service has not waned. Waitstaff were warm and welcoming, topping off the complimentary kimchi appetizer often and refilling our water. The food itself has always been very tasty and we were able to try a few new things on the menu this time. Usually the review is just about the food, but their service created an exceptional dining experience that I don’t feel too often these days when at other restaurants anywhere.",
       "time": 1750452212,
       "translated": false
     },
@@ -393,7 +393,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3gsyvHLFoy1VjArW_56F6zHBKXV3P2QgsB9n88-1bbTMjKQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Went to dinner with my Korean wife and she enjoyed every bite. We started with the mak-hwe, highly recommend!! It\u2019s really fresh and all the sides complimented the fish very well. We also got a fried soft shell crab, if you like soft shell crab, this is a must!! We also got their signiture dol sot albap, there\u2019s a fun table side mixing going on- MUST ORDER! Ended with their spicy fish stew and I will come back just for this dish!!",
+      "text": "Went to dinner with my Korean wife and she enjoyed every bite. We started with the mak-hwe, highly recommend!! It’s really fresh and all the sides complimented the fish very well. We also got a fried soft shell crab, if you like soft shell crab, this is a must!! We also got their signiture dol sot albap, there’s a fun table side mixing going on- MUST ORDER! Ended with their spicy fish stew and I will come back just for this dish!!",
       "time": 1747105120,
       "translated": false
     },
@@ -405,7 +405,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGD6Idg6RW5ntROTfCnYpEpiFJbQfnxkdShNpxVL4dlT-r6Q=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "Great experience dinning at this restaurant! I had it on my list since I visited NY in August, we finally got to eat here. Flavourful, warm and comfort Korean food with a delicate touch. Every dish was perfect and I can\u2019t describe it with words! You got to eat there! Service was superb and the atmosphere of this vibrant place is amazing! I would recommend to make a reservation.",
+      "text": "Great experience dinning at this restaurant! I had it on my list since I visited NY in August, we finally got to eat here. Flavourful, warm and comfort Korean food with a delicate touch. Every dish was perfect and I can’t describe it with words! You got to eat there! Service was superb and the atmosphere of this vibrant place is amazing! I would recommend to make a reservation.",
       "time": 1737923324,
       "translated": false
     },
@@ -417,7 +417,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFB-_5UqcnvoOs1WmaOPV-MQa01PZoSAkoJP7yPzs4KAghn-o=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "3 months ago",
-      "text": "3.5 Stars but closer to 4 since quality is there.\n\nGot to try this place with my friends this past week on a Wednesday night. We made reservations for 4 and were all pretty exited!\n\nThe restaurant has cute cozy casual vibe, like you are ready to drink.\n\nThe service was great. The server was personable and recommended we get 2 items per person to share since most of the items are on the smaller side.\n\nWe ordered\n- DIY scallop Gimbap\n- Dolsot Bibimbap\n- Seafood pancake\n- Seafood japchae\n- Pork Shoulder Steak\n- Omijaa Bingsoo\n- Corn Cr\u00e8me br\u00fbl\u00e9e\n- Red rice maekoli\n\nThe food all looked good although I didn't take many pictures, but there is plenty online.\n\nHonestly I don't remember a lot about the food. It was good and tasty!To be fair, I was paying more attention to the friends I was meeting ( first time meeting them) than the food. With that said, the few things that did standout was their free kimchi and scallop gimbap. I also enjoyed the pork shoulder, seafood pancake, and little octopus inside the japchae. But flavor wise nothing to memorable except the kimchi.\n\nThe deserts were underwhelming unfortunately, especially the bingsoo.\n\nThe red rice maekoli was interesting however for 30 dollars we each got 4 small cups. It just didn't feel worth the experience.\n\nmy friends didn't seem very satisfied with the food, it's likely their expectations of Korean food is very different than mine. However one thing I agree with is that the portions are very small and the price is could dollars too much.\n\nWe did get free Korean coffee latte powder and scratch offs tho which was fun!\n\nOverall it delivers solid food and specialty seafood style Korean food from Busan. It's a good experience if you love seafood. Portions are like small tapas and drinks are pricy too. I think it's great prob if you like to try something new and seafood.",
+      "text": "3.5 Stars but closer to 4 since quality is there.\n\nGot to try this place with my friends this past week on a Wednesday night. We made reservations for 4 and were all pretty exited!\n\nThe restaurant has cute cozy casual vibe, like you are ready to drink.\n\nThe service was great. The server was personable and recommended we get 2 items per person to share since most of the items are on the smaller side.\n\nWe ordered\n- DIY scallop Gimbap\n- Dolsot Bibimbap\n- Seafood pancake\n- Seafood japchae\n- Pork Shoulder Steak\n- Omijaa Bingsoo\n- Corn Crème brûlée\n- Red rice maekoli\n\nThe food all looked good although I didn't take many pictures, but there is plenty online.\n\nHonestly I don't remember a lot about the food. It was good and tasty!To be fair, I was paying more attention to the friends I was meeting ( first time meeting them) than the food. With that said, the few things that did standout was their free kimchi and scallop gimbap. I also enjoyed the pork shoulder, seafood pancake, and little octopus inside the japchae. But flavor wise nothing to memorable except the kimchi.\n\nThe deserts were underwhelming unfortunately, especially the bingsoo.\n\nThe red rice maekoli was interesting however for 30 dollars we each got 4 small cups. It just didn't feel worth the experience.\n\nmy friends didn't seem very satisfied with the food, it's likely their expectations of Korean food is very different than mine. However one thing I agree with is that the portions are very small and the price is could dollars too much.\n\nWe did get free Korean coffee latte powder and scratch offs tho which was fun!\n\nOverall it delivers solid food and specialty seafood style Korean food from Busan. It's a good experience if you love seafood. Portions are like small tapas and drinks are pricy too. I think it's great prob if you like to try something new and seafood.",
       "time": 1742601359,
       "translated": false
     },
@@ -429,7 +429,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVclShxyJMBYMdCs4QJoHlMzfMbNUyruWe_I18iW6fJ7_2MDqVw=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "3 months ago",
-      "text": "Most of the dishes we had were very tasty. Especially the beef short rib soup, it looked ordinary but tastes so fresh and rich.\nThe fried eel was so so. It\u2019s crispy but a bit greasy.\nOverall it\u2019s a bit pricy considering the portion and the ingredients. However, the dishes are special and creative.\nThey don\u2019t allow to bring any food, like birthday cake, and they don\u2019t have many dessert choices either. Shame\u2026\nService was quite good.",
+      "text": "Most of the dishes we had were very tasty. Especially the beef short rib soup, it looked ordinary but tastes so fresh and rich.\nThe fried eel was so so. It’s crispy but a bit greasy.\nOverall it’s a bit pricy considering the portion and the ingredients. However, the dishes are special and creative.\nThey don’t allow to bring any food, like birthday cake, and they don’t have many dessert choices either. Shame…\nService was quite good.",
       "time": 1742445518,
       "translated": false
     }
@@ -454,5 +454,40 @@
   "emails": [
     "info@ariarinyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:04:41.590681+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:41.590681+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:07.199695+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@ariarinyc.com": [
+        "https://ariarinyc.com/",
+        "https://ariarinyc.com/contactus",
+        "https://ariarinyc.com/about"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://ariarinyc.com/",
+        "status": "ok",
+        "emails": [
+          "info@ariarinyc.com"
+        ]
+      },
+      {
+        "url": "https://ariarinyc.com/contactus",
+        "status": "ok",
+        "emails": [
+          "info@ariarinyc.com"
+        ]
+      },
+      {
+        "url": "https://ariarinyc.com/about",
+        "status": "ok",
+        "emails": [
+          "info@ariarinyc.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

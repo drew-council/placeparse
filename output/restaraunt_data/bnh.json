@@ -1,0 +1,56 @@
+{
+  "adr_address": "<span class=\"street-address\">942 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025-3065</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "942 Amsterdam Ave, New York, NY 10025, USA",
+  "formatted_phone_number": "(917) 639-3151",
+  "geometry": {
+    "location": {
+      "lat": 40.8008758,
+      "lng": -73.96567759999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.8021787802915,
+        "lng": -73.9642240697085
+      },
+      "southwest": {
+        "lat": 40.7994808197085,
+        "lng": -73.96692203029151
+      }
+    }
+  },
+  "international_phone_number": "+1 917-639-3151",
+  "name": "Bánh",
+  "place_id": "ChIJs_09yZ73wokRD-K3t2y0nH8",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=9195422918215459343",
+  "website": "http://banhny.com/",
+  "details_checked_at": "2026-10-03T21:59:10.375149+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:10.375149+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:55.745081+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.banhny.com",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.banhny.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:07:23.346021+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

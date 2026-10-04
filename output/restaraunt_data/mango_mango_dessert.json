@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:30\u2009\u2013\u200910:45\u202fPM",
-      "Tuesday: 12:30\u2009\u2013\u200910:45\u202fPM",
-      "Wednesday: 12:30\u2009\u2013\u200910:45\u202fPM",
-      "Thursday: 12:30\u2009\u2013\u200910:45\u202fPM",
-      "Friday: 12:30\u2009\u2013\u200910:45\u202fPM",
-      "Saturday: 12:30\u2009\u2013\u200910:45\u202fPM",
-      "Sunday: 12:30\u2009\u2013\u200910:45\u202fPM"
+      "Monday: 12:30 – 10:45 PM",
+      "Tuesday: 12:30 – 10:45 PM",
+      "Wednesday: 12:30 – 10:45 PM",
+      "Thursday: 12:30 – 10:45 PM",
+      "Friday: 12:30 – 10:45 PM",
+      "Saturday: 12:30 – 10:45 PM",
+      "Sunday: 12:30 – 10:45 PM"
     ]
   },
   "delivery": true,
@@ -263,13 +263,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:30\u2009\u2013\u200910:45\u202fPM",
-      "Tuesday: 12:30\u2009\u2013\u200910:45\u202fPM",
-      "Wednesday: 12:30\u2009\u2013\u200910:45\u202fPM",
-      "Thursday: 12:30\u2009\u2013\u200910:45\u202fPM",
-      "Friday: 12:30\u2009\u2013\u200910:45\u202fPM",
-      "Saturday: 12:30\u2009\u2013\u200910:45\u202fPM",
-      "Sunday: 12:30\u2009\u2013\u200910:45\u202fPM"
+      "Monday: 12:30 – 10:45 PM",
+      "Tuesday: 12:30 – 10:45 PM",
+      "Wednesday: 12:30 – 10:45 PM",
+      "Thursday: 12:30 – 10:45 PM",
+      "Friday: 12:30 – 10:45 PM",
+      "Saturday: 12:30 – 10:45 PM",
+      "Sunday: 12:30 – 10:45 PM"
     ]
   },
   "photos": [
@@ -407,7 +407,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSXk5mNBwxX7_oDqmroBKEz0sKj-7Q5uKPPDajHZW5Rt_3QQ0=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "I'm so glad this location will be RE-OPENING on Friday, March 21. Enjoy exclusive PROMOTIONS and treat yourself to their incredible treats.\n\nTheir refreshing Mango Sticky Rice Smoothie is a Must-try, it's a unique twist you won't want to miss. If you're a true durian lover, you absolutely cannot miss out on the delectable durian crepe! It's a heavenly treat that will leave you craving for more.\n\nThere will be Grand Opening Weekend Promotions\u2014 BOGO free or spin the wheels and free gifts! More in the coming weeks! Check them out for details. Don't miss out on this sweet deal!\ud83d\ude0d\n\nFollow me @foodie.elite on IG and Tiktok for more!",
+      "text": "I'm so glad this location will be RE-OPENING on Friday, March 21. Enjoy exclusive PROMOTIONS and treat yourself to their incredible treats.\n\nTheir refreshing Mango Sticky Rice Smoothie is a Must-try, it's a unique twist you won't want to miss. If you're a true durian lover, you absolutely cannot miss out on the delectable durian crepe! It's a heavenly treat that will leave you craving for more.\n\nThere will be Grand Opening Weekend Promotions— BOGO free or spin the wheels and free gifts! More in the coming weeks! Check them out for details. Don't miss out on this sweet deal!😍\n\nFollow me @foodie.elite on IG and Tiktok for more!",
       "time": 1744730560,
       "translated": false
     },
@@ -515,13 +515,13 @@
       ],
       "type": "TAKEOUT",
       "weekday_text": [
-        "Monday: 12:30\u2009\u2013\u200910:45\u202fPM",
-        "Tuesday: 12:30\u2009\u2013\u200910:45\u202fPM",
-        "Wednesday: 12:30\u2009\u2013\u200910:45\u202fPM",
-        "Thursday: 12:30\u2009\u2013\u200910:45\u202fPM",
-        "Friday: 12:30\u2009\u2013\u200910:45\u202fPM",
-        "Saturday: 12:30\u2009\u2013\u200910:45\u202fPM",
-        "Sunday: 12:30\u2009\u2013\u200910:45\u202fPM"
+        "Monday: 12:30 – 10:45 PM",
+        "Tuesday: 12:30 – 10:45 PM",
+        "Wednesday: 12:30 – 10:45 PM",
+        "Thursday: 12:30 – 10:45 PM",
+        "Friday: 12:30 – 10:45 PM",
+        "Saturday: 12:30 – 10:45 PM",
+        "Sunday: 12:30 – 10:45 PM"
       ]
     }
   ],
@@ -540,15 +540,55 @@
   "website": "https://www.mangomangodessert.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
-    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
     "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
-    "78f7996315bc402f9dcb8a2f974b82d1@sentry.wixpress.com",
-    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
-    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
-    "8c4075d5481d476e945486754f783364@sentry.io",
     "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
-    "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com"
+    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "78f7996315bc402f9dcb8a2f974b82d1@sentry.wixpress.com",
+    "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+    "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+    "8c4075d5481d476e945486754f783364@sentry.io",
+    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:37.071995+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:37.071995+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:20.789295+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.mangomangodessert.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.mangomangodessert.com/rewards",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.mangomangodessert.com/locations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.mangomangodessert.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.mangomangodessert.com/rewards",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.mangomangodessert.com/locations",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:09:58.442836+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

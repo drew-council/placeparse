@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Tuesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 7:00 AM – 12:00 AM",
+      "Tuesday: 7:00 AM – 12:00 AM",
+      "Wednesday: 7:00 AM – 12:00 AM",
+      "Thursday: 7:00 AM – 12:00 AM",
+      "Friday: 7:00 AM – 12:00 AM",
+      "Saturday: 7:00 AM – 12:00 AM",
+      "Sunday: 7:00 AM – 12:00 AM"
     ]
   },
   "formatted_address": "330 5th Ave, New York, NY 10001, USA",
@@ -260,13 +260,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Tuesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 7:00 AM – 12:00 AM",
+      "Tuesday: 7:00 AM – 12:00 AM",
+      "Wednesday: 7:00 AM – 12:00 AM",
+      "Thursday: 7:00 AM – 12:00 AM",
+      "Friday: 7:00 AM – 12:00 AM",
+      "Saturday: 7:00 AM – 12:00 AM",
+      "Sunday: 7:00 AM – 12:00 AM"
     ]
   },
   "photos": [
@@ -367,7 +367,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJN2vSU5ycd5OW74jkINJbTBDgWRpfnojLNfIbijLL7e_jVZ2u=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "This place is a paradise for Japanese culture lovers! It has everything \u2014 from fresh produce and fruits to a wide variety of Japanese snacks, famous chocolates like Royce, and adorable collectible toys that will melt your heart. Walking through the aisles feels like being back in Japan. The store is clean, fully stocked, and the staff is super friendly. Highly recommended stop for anyone in the area!",
+      "text": "This place is a paradise for Japanese culture lovers! It has everything — from fresh produce and fruits to a wide variety of Japanese snacks, famous chocolates like Royce, and adorable collectible toys that will melt your heart. Walking through the aisles feels like being back in Japan. The store is clean, fully stocked, and the staff is super friendly. Highly recommended stop for anyone in the area!",
       "time": 1747373001,
       "translated": false
     },
@@ -379,7 +379,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIORNk1M_z8tBkk9OvTZzoISYycuYUSFqZf20lrXRvt2tFgcQ=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "Hashi Market is an absolute gem in New York City! The selection of fresh, authentic Asian groceries is fantastic, and everything is beautifully organized, making shopping a breeze. The staff is incredibly friendly and knowledgeable\u2014they go above and beyond to help you find what you need or suggest new items to try. I love their variety of specialty snacks, sauces, and fresh produce. It's the perfect spot for anyone looking to stock up on high-quality ingredients or discover unique flavors. I can\u2019t wait to come back and explore more! Highly recommend!",
+      "text": "Hashi Market is an absolute gem in New York City! The selection of fresh, authentic Asian groceries is fantastic, and everything is beautifully organized, making shopping a breeze. The staff is incredibly friendly and knowledgeable—they go above and beyond to help you find what you need or suggest new items to try. I love their variety of specialty snacks, sauces, and fresh produce. It's the perfect spot for anyone looking to stock up on high-quality ingredients or discover unique flavors. I can’t wait to come back and explore more! Highly recommend!",
       "time": 1737489963,
       "translated": false
     },
@@ -403,7 +403,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVH8hqPTX-RO-c1QA5RAhSQ1DcF69NKdAgqZHTdKr-pNtCmgST6=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "Wow! We literally stumbled into this place on accident. We lived in Japan for three years and this place was sooooo authentic. If you are looking for a taste of Japan come grab it here. Matcha is my favorite and the ice cream here is imported from Japan \ud83c\uddef\ud83c\uddf5. So tasty \ud83d\ude0b",
+      "text": "Wow! We literally stumbled into this place on accident. We lived in Japan for three years and this place was sooooo authentic. If you are looking for a taste of Japan come grab it here. Matcha is my favorite and the ice cream here is imported from Japan 🇯🇵. So tasty 😋",
       "time": 1749567507,
       "translated": false
     },
@@ -434,5 +434,53 @@
   "vicinity": "330 5th Ave, New York",
   "website": "http://www.hashimarket.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:15.692358+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:15.692358+00:00",
+  "emails": [
+    "info@hashimarket.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:57.311390+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@hashimarket.com": [
+        "https://www.hashimarket.com/",
+        "https://www.hashimarket.com/blank-3",
+        "https://www.hashimarket.com/blank",
+        "https://www.hashimarket.com/blank-2"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.hashimarket.com/",
+        "status": "ok",
+        "emails": [
+          "info@hashimarket.com"
+        ]
+      },
+      {
+        "url": "https://www.hashimarket.com/blank-3",
+        "status": "ok",
+        "emails": [
+          "info@hashimarket.com"
+        ]
+      },
+      {
+        "url": "https://www.hashimarket.com/blank",
+        "status": "ok",
+        "emails": [
+          "info@hashimarket.com"
+        ]
+      },
+      {
+        "url": "https://www.hashimarket.com/blank-2",
+        "status": "ok",
+        "emails": [
+          "info@hashimarket.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.hashimarket.com/blank-3"
+    ]
+  }
 }

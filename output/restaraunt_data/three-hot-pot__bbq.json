@@ -161,13 +161,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
     ]
   },
   "delivery": true,
@@ -270,13 +270,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
     ]
   },
   "photos": [
@@ -379,7 +379,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1-x95XgjhLUtF8xqPVv9gvP5P9fWNLlMCO5w5Quo75r8bO9gQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "3 months ago",
-      "text": "This hotpot restaurant has very clear pros and cons. The biggest advantage is the unique grill + hotpot combo setup, which allows everyone at the table, regardless of their seating position, to easily access both grilling and hotpot. There\u2019s no need for people to take turns grilling or for all the grilled food to be handled by just one person. Additionally, the price for the all-you-can-eat hotpot and BBQ is fairly reasonable, especially for Manhattan. The menu selection and broth variety are also decent.\n\nHowever, the biggest flaw is also the grill-hotpot combo itself. The grill is placed uncomfortably close to the seating area, making it very easy for oil and juices from the meat to splash onto guests while grilling. On top of that, the grill and hotpot share the same heating system, meaning the grill is constantly on high heat. Whenever you take food out of the hotpot, any dripping broth immediately hits the scorching grill and splashes everywhere, making it very easy to burn your arms\u2014a serious design issue.\n\nAnother major downside is that the staff never replaced the grill plate throughout the entire meal. As a result, the leftover grease and meat bits kept burning, forming a thick layer of black charred residue, which gave off an unpleasant burnt smell. By the middle of the meal, I had completely lost interest in grilling anything else.\n\nThe broth looked visually appealing but lacked depth in flavor, giving off the impression of a low-quality, pre-made base rather than something freshly prepared.\n\nOverall, THREE-HOT-POT & BBQ is a decent option if you live nearby or just happen to be passing through, but it\u2019s definitely not worth traveling for. The concept is interesting, but the execution has too many flaws.",
+      "text": "This hotpot restaurant has very clear pros and cons. The biggest advantage is the unique grill + hotpot combo setup, which allows everyone at the table, regardless of their seating position, to easily access both grilling and hotpot. There’s no need for people to take turns grilling or for all the grilled food to be handled by just one person. Additionally, the price for the all-you-can-eat hotpot and BBQ is fairly reasonable, especially for Manhattan. The menu selection and broth variety are also decent.\n\nHowever, the biggest flaw is also the grill-hotpot combo itself. The grill is placed uncomfortably close to the seating area, making it very easy for oil and juices from the meat to splash onto guests while grilling. On top of that, the grill and hotpot share the same heating system, meaning the grill is constantly on high heat. Whenever you take food out of the hotpot, any dripping broth immediately hits the scorching grill and splashes everywhere, making it very easy to burn your arms—a serious design issue.\n\nAnother major downside is that the staff never replaced the grill plate throughout the entire meal. As a result, the leftover grease and meat bits kept burning, forming a thick layer of black charred residue, which gave off an unpleasant burnt smell. By the middle of the meal, I had completely lost interest in grilling anything else.\n\nThe broth looked visually appealing but lacked depth in flavor, giving off the impression of a low-quality, pre-made base rather than something freshly prepared.\n\nOverall, THREE-HOT-POT & BBQ is a decent option if you live nearby or just happen to be passing through, but it’s definitely not worth traveling for. The concept is interesting, but the execution has too many flaws.",
       "time": 1740984480,
       "translated": false
     },
@@ -449,5 +449,19 @@
   "vicinity": "18 W 38th St, New York",
   "website": "https://pos.chowbus.com/online-ordering/store/13868?fbclid=PAAaZv3dcSFvn37VDLQythPBzMImumOMVXp6sJccvfEQ2w2K78xTEkD_b0TLc_aem_th_AV6eEcw_tB1aHa6KzBhYomTzCT123Jc_Wjo9Sk1vY0edZAKTL4WqaHUhgzHOKUYnqvU",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:06:19.122252+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:19.122252+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:11.621913+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://pos.chowbus.com/online-ordering/store/13868?fbclid=PAAaZv3dcSFvn37VDLQythPBzMImumOMVXp6sJccvfEQ2w2K78xTEkD_b0TLc_aem_th_AV6eEcw_tB1aHa6KzBhYomTzCT123Jc_Wjo9Sk1vY0edZAKTL4WqaHUhgzHOKUYnqvU",
+        "status": "HTTP_404",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

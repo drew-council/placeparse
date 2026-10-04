@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 7:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 7:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 7:30 AM – 9:30 PM",
+      "Tuesday: 7:30 AM – 9:30 PM",
+      "Wednesday: 7:30 AM – 9:30 PM",
+      "Thursday: 7:30 AM – 9:30 PM",
+      "Friday: 7:30 AM – 10:30 PM",
+      "Saturday: 7:30 AM – 10:30 PM",
+      "Sunday: 7:30 AM – 9:30 PM"
     ]
   },
   "delivery": true,
@@ -264,13 +264,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 7:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 7:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 7:30 AM – 9:30 PM",
+      "Tuesday: 7:30 AM – 9:30 PM",
+      "Wednesday: 7:30 AM – 9:30 PM",
+      "Thursday: 7:30 AM – 9:30 PM",
+      "Friday: 7:30 AM – 10:30 PM",
+      "Saturday: 7:30 AM – 10:30 PM",
+      "Sunday: 7:30 AM – 9:30 PM"
     ]
   },
   "photos": [
@@ -372,7 +372,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7-k0CsHUJdu2fLP4AZCE5xNlzkkEN6BfwDUpGq0Dn_ybQwB1oPQ=s128-c0x00000000-cc-rp-mo-ba7",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "I liked it! I got some as a gift so I didn\u2019t visit the actual store. All time favorite thing here was the strawberry pastry (if the business replies; please just say the name of that one) SO good. I would come back for that. Fantastic. Fluffy and light and airy with a perfectly sweetened cream fluff inside. Wow.\nCorn cheese bread was sooo fun. If it\u2019s served warm; I bet you it\u2019s fantastic but I did eat it a couple of hours after it was ordered.\nThe fig bread had an amazing texture to it. Light and fluffy like Portuguese bread (I did personally wish the figs were cut smaller to enjoy more evenly but that\u2019s personal preference)\nThe variety of stuff was really fun! Some things I did not like at all but my friends did so that was just personal preference.",
+      "text": "I liked it! I got some as a gift so I didn’t visit the actual store. All time favorite thing here was the strawberry pastry (if the business replies; please just say the name of that one) SO good. I would come back for that. Fantastic. Fluffy and light and airy with a perfectly sweetened cream fluff inside. Wow.\nCorn cheese bread was sooo fun. If it’s served warm; I bet you it’s fantastic but I did eat it a couple of hours after it was ordered.\nThe fig bread had an amazing texture to it. Light and fluffy like Portuguese bread (I did personally wish the figs were cut smaller to enjoy more evenly but that’s personal preference)\nThe variety of stuff was really fun! Some things I did not like at all but my friends did so that was just personal preference.",
       "time": 1749875943,
       "translated": false
     },
@@ -384,7 +384,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUP6dyIEHFBBdgHvsvFXMqs3det4KIujvkq4gYL3ZbiB4RtRKBJA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 2,
       "relative_time_description": "4 months ago",
-      "text": "Was not impressed at all by the pastries that we got. The chocolate croissant had a small bar of chocolate in the middle that was rock solid and not enjoyable, would have been better if the chocolate was folded into the layers. The other 2 pastries were mediocre at best. Don\u2019t remember the name of the 3 mound one, which for some reason was slathered in sugar water and sticky but the cream on top wasn\u2019t sweet at all, I guess they were trying to balance the sweetness but it didn\u2019t work in my opinion. The other croissant was a sesame seed with raspberry filling which was fine, nothing crazy. Ambient was nice. Limited parking. We came when there weren\u2019t too many options. Maybe that was our mistake, but either way we won\u2019t be back.",
+      "text": "Was not impressed at all by the pastries that we got. The chocolate croissant had a small bar of chocolate in the middle that was rock solid and not enjoyable, would have been better if the chocolate was folded into the layers. The other 2 pastries were mediocre at best. Don’t remember the name of the 3 mound one, which for some reason was slathered in sugar water and sticky but the cream on top wasn’t sweet at all, I guess they were trying to balance the sweetness but it didn’t work in my opinion. The other croissant was a sesame seed with raspberry filling which was fine, nothing crazy. Ambient was nice. Limited parking. We came when there weren’t too many options. Maybe that was our mistake, but either way we won’t be back.",
       "time": 1739287577,
       "translated": false
     },
@@ -408,7 +408,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfpJGVDwphEefpfrYWI89C61Jwb0sbO8N-K4BU9owxfDWOSs-d=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "3 months ago",
-      "text": "Would go back for their Oni-Croissants!\n\nFAMILY FRIENDLY:  Yes\nPARKING: Tiny tiny parking lot\u2026 like 5 parking spaces in front of there cafe\nPET FRIENDLY: No\n\nFOOD:\nPlain Croissant $4.25: 5 Stars \u2013 Flaky, buttery, and oh so good\n\nHam and Cheese Croissant $4.75: 3 Stars \u2013 Needs more filling and not as great as plain croissant\n\nOni-Croissant: Mayo and Pollack Roe $6.50: 5 Stars \u2013 maybe because I had low expectation since most filled anything thing doesn\u2019t come with a lot.  There was definitely plenty of filling in this! I love the idea of this which was the reason I wanted to try this place.  The exterior was good but because it was compressed it wasn\u2019t as flaky as a normal croissant.\n\nOni-Croissant: Chive, Bacon, and cream cheese $6.50: 5 Stars \u2013 Fillings galore!! Still loved it even though this was a touch too creamy which is funny coming from me.\n\nGarlic Butter Baguette $7.50: 3 Stars \u2013 I grabbed this as it was something I always wanted to try due to all those viral videos.  There was a touch of sweetness which I did not enjoy.  I like my savory to be savory.  Everyone else seem to really like it though!\n\nBurnt Basque Cheesecake $8.00:  5 Stars - Creamy and custardy!  I only had Basque cheesecake once and I didn\u2019t enjoy it.  I got this on a whim to see if the one I had previously was just poorly made or if I just hate all Basque cheesecake.\n\nEarl Greg Cassis Mousse (layer of earl grey chestnut cream, cassis confit, earl grey mousse and biscuit) $12.55: 3 Stars \u2013 I mean look at it!  It looks so perfect and unassuming.  I love chestnut and black current/cassis so I was really excited.   Which probably was why I was a little disappointed.  There was different texture like it should in an entremets but the lack of chestnut and earl grey was very lacking.\n\nDRINK:\nBlack Sesame Cream Latte, Hot $6.75:  I\u2019ve been on a hunt for good black sesame cream latte but sadly I need to keep looking.  Barely taste the black sesame.\n\nMENU, RESTAURANT, and SERVICE:\nThe offering at the caf\u00e9 did not have everything shown on their website.  The majority of the caf\u00e9 is self service for the bakery items but you would need to order from them for any of the refrigerated items (cakes) and coffees.\n\nThe restaurant is pretty spacious for how little tables they have set up.  I believe they have a second floor but I have not been up there. Very clean and minimalistic.\n\nThere was only one person I spoke with and he was friendly and helpful.",
+      "text": "Would go back for their Oni-Croissants!\n\nFAMILY FRIENDLY:  Yes\nPARKING: Tiny tiny parking lot… like 5 parking spaces in front of there cafe\nPET FRIENDLY: No\n\nFOOD:\nPlain Croissant $4.25: 5 Stars – Flaky, buttery, and oh so good\n\nHam and Cheese Croissant $4.75: 3 Stars – Needs more filling and not as great as plain croissant\n\nOni-Croissant: Mayo and Pollack Roe $6.50: 5 Stars – maybe because I had low expectation since most filled anything thing doesn’t come with a lot.  There was definitely plenty of filling in this! I love the idea of this which was the reason I wanted to try this place.  The exterior was good but because it was compressed it wasn’t as flaky as a normal croissant.\n\nOni-Croissant: Chive, Bacon, and cream cheese $6.50: 5 Stars – Fillings galore!! Still loved it even though this was a touch too creamy which is funny coming from me.\n\nGarlic Butter Baguette $7.50: 3 Stars – I grabbed this as it was something I always wanted to try due to all those viral videos.  There was a touch of sweetness which I did not enjoy.  I like my savory to be savory.  Everyone else seem to really like it though!\n\nBurnt Basque Cheesecake $8.00:  5 Stars - Creamy and custardy!  I only had Basque cheesecake once and I didn’t enjoy it.  I got this on a whim to see if the one I had previously was just poorly made or if I just hate all Basque cheesecake.\n\nEarl Greg Cassis Mousse (layer of earl grey chestnut cream, cassis confit, earl grey mousse and biscuit) $12.55: 3 Stars – I mean look at it!  It looks so perfect and unassuming.  I love chestnut and black current/cassis so I was really excited.   Which probably was why I was a little disappointed.  There was different texture like it should in an entremets but the lack of chestnut and earl grey was very lacking.\n\nDRINK:\nBlack Sesame Cream Latte, Hot $6.75:  I’ve been on a hunt for good black sesame cream latte but sadly I need to keep looking.  Barely taste the black sesame.\n\nMENU, RESTAURANT, and SERVICE:\nThe offering at the café did not have everything shown on their website.  The majority of the café is self service for the bakery items but you would need to order from them for any of the refrigerated items (cakes) and coffees.\n\nThe restaurant is pretty spacious for how little tables they have set up.  I believe they have a second floor but I have not been up there. Very clean and minimalistic.\n\nThere was only one person I spoke with and he was friendly and helpful.",
       "time": 1741044695,
       "translated": false
     },
@@ -420,7 +420,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1PKcUNwRYGZoxZkD8zGExh8A2vWhRIq0ywfucCZGSzsbtV340=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "First off, amazing!!!!!! The only downside is finding a parking space but other than that this place is amazing!!!!! It\u2019s self serve with the pastries and the food just tastes amazing!!!! Looks amazing, tastes amazing!!! 10/10 recommend for anyone to come!!! Definitely worth the 35 min drive!\ud83e\udd29\ud83e\udd29\ud83e\udd29\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70",
+      "text": "First off, amazing!!!!!! The only downside is finding a parking space but other than that this place is amazing!!!!! It’s self serve with the pastries and the food just tastes amazing!!!! Looks amazing, tastes amazing!!! 10/10 recommend for anyone to come!!! Definitely worth the 35 min drive!🤩🤩🤩❤️❤️❤️❤️❤️❤️❤️🥰🥰🥰🥰🥰",
       "time": 1740352007,
       "translated": false
     }
@@ -441,8 +441,61 @@
   "website": "https://cafew.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "order@cafew.com",
-    "management@cafew.com"
+    "management@cafew.com",
+    "order@cafew.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:04:50.058019+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:50.058019+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:14.426338+00:00",
+    "outcome": "found",
+    "sources": {
+      "management@cafew.com": [
+        "https://cafew.com/",
+        "https://cafew.com/about",
+        "https://cafew.com/location",
+        "https://cafew.com/reservation"
+      ],
+      "order@cafew.com": [
+        "https://cafew.com/",
+        "https://cafew.com/about",
+        "https://cafew.com/location",
+        "https://cafew.com/reservation"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://cafew.com/",
+        "status": "ok",
+        "emails": [
+          "management@cafew.com",
+          "order@cafew.com"
+        ]
+      },
+      {
+        "url": "https://cafew.com/about",
+        "status": "ok",
+        "emails": [
+          "management@cafew.com",
+          "order@cafew.com"
+        ]
+      },
+      {
+        "url": "https://cafew.com/location",
+        "status": "ok",
+        "emails": [
+          "management@cafew.com",
+          "order@cafew.com"
+        ]
+      },
+      {
+        "url": "https://cafew.com/reservation",
+        "status": "ok",
+        "emails": [
+          "management@cafew.com",
+          "order@cafew.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

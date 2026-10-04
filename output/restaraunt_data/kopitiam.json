@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -267,13 +267,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -376,7 +376,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8KDXV2v5gaivuozKHY-Dxfl1QkKDF-g9UwnoI0kkvZOaFCA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "a week ago",
-      "text": "This reminds me of a fast food restaurant. Order at the register. You had to order off a Q code, they didn\u2019t have any menus. Seats are first come first serve so if you see a seat throw your jacket, bag or umbrella there to hold the seat. After you order the give you a number and someone brings you the foods. I found the food a little different from the Malaysian I\u2019m use to and it left a little after taste in my mouth afterwards. You can get water if you ask them and take out containers if you have left over. And clean your space for the next person. Take your trash to the assigned area. I did 4 star instead of 3 because even though I found the food only ok, the Staff was nice but mainly because I wasn\u2019t use to the type of restaurant it was an that\u2019s more on me.",
+      "text": "This reminds me of a fast food restaurant. Order at the register. You had to order off a Q code, they didn’t have any menus. Seats are first come first serve so if you see a seat throw your jacket, bag or umbrella there to hold the seat. After you order the give you a number and someone brings you the foods. I found the food a little different from the Malaysian I’m use to and it left a little after taste in my mouth afterwards. You can get water if you ask them and take out containers if you have left over. And clean your space for the next person. Take your trash to the assigned area. I did 4 star instead of 3 because even though I found the food only ok, the Staff was nice but mainly because I wasn’t use to the type of restaurant it was an that’s more on me.",
       "time": 1750080083,
       "translated": false
     },
@@ -388,7 +388,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFOVbSuhvJHqXtWZtQ5vHFBM7EKeYfxKHFdVsrm2NsUXBh4tSnuQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "a month ago",
-      "text": "I visited on a Sunday night and it was empty!\nYou order at the counter and they bring the food to your table. You clean your table/tray when you are finished.\n\nI got the Nasi Lemak and it was really tasty, but the portions are pretty small. Prices are fine for the size of the dish, but I wouldn\u2019t go here if I was super hungry. I really enjoyed the flavors in this dish- Malaysian food is new to me and this was a good introduction to the cuisine.",
+      "text": "I visited on a Sunday night and it was empty!\nYou order at the counter and they bring the food to your table. You clean your table/tray when you are finished.\n\nI got the Nasi Lemak and it was really tasty, but the portions are pretty small. Prices are fine for the size of the dish, but I wouldn’t go here if I was super hungry. I really enjoyed the flavors in this dish- Malaysian food is new to me and this was a good introduction to the cuisine.",
       "time": 1746371059,
       "translated": false
     },
@@ -412,7 +412,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyGKwwvRqLbsp4v1_hdE4lWllcZZJwMeCUmimDm9IZuKlcfH_exw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in the last week",
-      "text": "Great breakfast. Did not like the coffee (might have just been made poorly that day) but the food is good. Kaya toast & pan mee (Soup version) were very good. The Palut panggang doesn\u2019t have too much flavor but with the sambal it was tasty. I think it\u2019s a great spot for unique breakfast - I would definitely come back",
+      "text": "Great breakfast. Did not like the coffee (might have just been made poorly that day) but the food is good. Kaya toast & pan mee (Soup version) were very good. The Palut panggang doesn’t have too much flavor but with the sambal it was tasty. I think it’s a great spot for unique breakfast - I would definitely come back",
       "time": 1750613669,
       "translated": false
     },
@@ -424,7 +424,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCEIQq7u4XLgEzL_AKtN5X92ml-ugV3sa6GTf414nIAAMrrAQF3Q=s128-c0x00000000-cc-rp-mo-ba7",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "I went to Kopitiam with a friend in a Friday evening and we both enjoyed the food. We tried the cold sesame noodles and the mushroom coconut rice. Flavorful!!!\n\nI don\u2019t usually have Malesian food so this was a great discovery!",
+      "text": "I went to Kopitiam with a friend in a Friday evening and we both enjoyed the food. We tried the cold sesame noodles and the mushroom coconut rice. Flavorful!!!\n\nI don’t usually have Malesian food so this was a great discovery!",
       "time": 1738982018,
       "translated": false
     }
@@ -450,8 +450,47 @@
   "website": "https://www.kopitiamnyc.com/",
   "wheelchair_accessible_entrance": false,
   "emails": [
-    "hello@kopitiamnyc.com",
-    "email@email.com"
+    "email@email.com",
+    "hello@kopitiamnyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:28.516022+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:28.516022+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:11.646526+00:00",
+    "outcome": "found",
+    "sources": {
+      "email@email.com": [
+        "https://www.kopitiamnyc.com/"
+      ],
+      "hello@kopitiamnyc.com": [
+        "https://www.kopitiamnyc.com/",
+        "https://www.kopitiamnyc.com/contact-1",
+        "https://www.kopitiamnyc.com/faq-1"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.kopitiamnyc.com/",
+        "status": "ok",
+        "emails": [
+          "email@email.com",
+          "hello@kopitiamnyc.com"
+        ]
+      },
+      {
+        "url": "https://www.kopitiamnyc.com/contact-1",
+        "status": "ok",
+        "emails": [
+          "hello@kopitiamnyc.com"
+        ]
+      },
+      {
+        "url": "https://www.kopitiamnyc.com/faq-1",
+        "status": "ok",
+        "emails": [
+          "hello@kopitiamnyc.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

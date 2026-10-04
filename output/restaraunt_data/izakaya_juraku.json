@@ -138,12 +138,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
       "Friday: Closed",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -241,12 +241,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -349,7 +349,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE4czd-grUsa03QSphvyCOclM_Ar_KI27-4Jd9NwQtCduvru9p=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "I came here for dinner with one of my friends one day and we had a great time. We didn't have reservations, so we were seated at the bar. I highly recommend making reservations as this place was PACKED on a weekend night. Service here is amazing. My friend ordered a matcha beer and one of the staff brought out ice cream for us to enjoy it with because it was supposedly amazing\u2014and it was. So so grateful for it!\n\nWe ordered the agedashi tofu and two bowls of ramen for our food. Everything was delicious. The agedashi tofu was flavorful and a good portion. I love how they had a vegetarian ramen. I got their veggie ramen and loved it. It was flavorful, came with lots of tofu and veggies, and very comforting. Great vibe inside, and cool decor (+ a projector playing One Piece!).",
+      "text": "I came here for dinner with one of my friends one day and we had a great time. We didn't have reservations, so we were seated at the bar. I highly recommend making reservations as this place was PACKED on a weekend night. Service here is amazing. My friend ordered a matcha beer and one of the staff brought out ice cream for us to enjoy it with because it was supposedly amazing—and it was. So so grateful for it!\n\nWe ordered the agedashi tofu and two bowls of ramen for our food. Everything was delicious. The agedashi tofu was flavorful and a good portion. I love how they had a vegetarian ramen. I got their veggie ramen and loved it. It was flavorful, came with lots of tofu and veggies, and very comforting. Great vibe inside, and cool decor (+ a projector playing One Piece!).",
       "time": 1744319605,
       "translated": false
     },
@@ -397,7 +397,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKN8O5_WcccbTOiC0YTme2xoyETu2fPbQsZDgrz1l5RUgzex-E=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "a month ago",
-      "text": "We accidentally discovered Izakaya Juraku while looking for a ramen spot in Manhattan, and I\u2019m so glad we did! The original place we planned to visit had a long wait and no public restroom, so we decided to check out this nearby spot \u2014 and it turned out to be the best decision.\n\nThe ramen here was incredibly flavorful and authentic, probably the best I\u2019ve ever had. Every bite was rich, comforting, and satisfying. I would absolutely recommend this place to anyone craving good, authentic ramen. It\u2019s a hidden gem and a must-try!",
+      "text": "We accidentally discovered Izakaya Juraku while looking for a ramen spot in Manhattan, and I’m so glad we did! The original place we planned to visit had a long wait and no public restroom, so we decided to check out this nearby spot — and it turned out to be the best decision.\n\nThe ramen here was incredibly flavorful and authentic, probably the best I’ve ever had. Every bite was rich, comforting, and satisfying. I would absolutely recommend this place to anyone craving good, authentic ramen. It’s a hidden gem and a must-try!",
       "time": 1746563373,
       "translated": false
     }
@@ -458,10 +458,10 @@
       "type": "HAPPY_HOUR",
       "weekday_text": [
         "Monday: Closed",
-        "Tuesday: 3:00\u2009\u2013\u20096:00\u202fPM",
-        "Wednesday: 3:00\u2009\u2013\u20096:00\u202fPM",
-        "Thursday: 3:00\u2009\u2013\u20096:00\u202fPM",
-        "Friday: 3:00\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: 3:00 – 6:00 PM",
+        "Wednesday: 3:00 – 6:00 PM",
+        "Thursday: 3:00 – 6:00 PM",
+        "Friday: 3:00 – 6:00 PM",
         "Saturday: Closed",
         "Sunday: Closed"
       ]
@@ -501,8 +501,8 @@
         "Wednesday: Closed",
         "Thursday: Closed",
         "Friday: Closed",
-        "Saturday: 12:00\u2009\u2013\u20095:00\u202fPM",
-        "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+        "Saturday: 12:00 – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
       ]
     },
     {
@@ -584,12 +584,12 @@
       "type": "ONLINE_SERVICE_HOURS",
       "weekday_text": [
         "Monday: Closed",
-        "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
       ]
     }
   ],
@@ -618,5 +618,64 @@
     "hello@izakayajuraku.co",
     "hello@izakayajuraku.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:20.581812+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:20.581812+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:03.687089+00:00",
+    "outcome": "found",
+    "sources": {
+      "hello@izakayajuraku.com": [
+        "https://www.izakayajuraku.com/",
+        "https://www.izakayajuraku.com/faq",
+        "https://www.izakayajuraku.com/about",
+        "https://www.izakayajuraku.com/events",
+        "https://www.izakayajuraku.com/events/juraku-olympics",
+        "https://www.izakayajuraku.com/events/brotaku-may-2026"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.izakayajuraku.com/",
+        "status": "ok",
+        "emails": [
+          "hello@izakayajuraku.com"
+        ]
+      },
+      {
+        "url": "https://www.izakayajuraku.com/faq",
+        "status": "ok",
+        "emails": [
+          "hello@izakayajuraku.com"
+        ]
+      },
+      {
+        "url": "https://www.izakayajuraku.com/about",
+        "status": "ok",
+        "emails": [
+          "hello@izakayajuraku.com"
+        ]
+      },
+      {
+        "url": "https://www.izakayajuraku.com/events",
+        "status": "ok",
+        "emails": [
+          "hello@izakayajuraku.com"
+        ]
+      },
+      {
+        "url": "https://www.izakayajuraku.com/events/juraku-olympics",
+        "status": "ok",
+        "emails": [
+          "hello@izakayajuraku.com"
+        ]
+      },
+      {
+        "url": "https://www.izakayajuraku.com/events/brotaku-may-2026",
+        "status": "ok",
+        "emails": [
+          "hello@izakayajuraku.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

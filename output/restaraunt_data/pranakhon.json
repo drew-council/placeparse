@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 10:00 PM",
+      "Friday: 11:30 AM – 10:30 PM",
+      "Saturday: 11:30 AM – 10:30 PM",
+      "Sunday: 11:30 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -264,13 +264,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 10:00 PM",
+      "Friday: 11:30 AM – 10:30 PM",
+      "Saturday: 11:30 AM – 10:30 PM",
+      "Sunday: 11:30 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -309,7 +309,7 @@
     {
       "height": 4800,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/108349093348478992092\">chao hua \u201cWater\u201d Ho</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/108349093348478992092\">chao hua “Water” Ho</a>"
       ],
       "photo_reference": "ATKogpfFAWneU1lzb1WwH18c4Yq6osuieDSSKsGhI0fgAm5ZrNSYzjFYhzbTW9JtnfvBAKzZ-E7h-5ZjwaIJuCEQ_aDAleWFBuakb3U4Vtlk8S9bIyU55ZxJmo-ohCNuqWylPS5tFh3ni9vWyXvmXVVeqEY7EPUNQu6mrTwX-_Em3QJnKrnWkYt8WB20BwX6Dxwn7WME1IfyXG5tXv8awyJWPYHObuwaO3aBqWfAEcLwYsPeHDTWX6uiaYMH8qRy6foJnC4rlY2qD-DR8--OTpGGap_FezXhvmXPeQzvHU5nwJtaLqCNTw8XpPNKtU9h6ZuIIqmIMpnj7ns1SeKfINzPx61jNzauPJ6WDRwUvAvVdaLF0PWami4t9YWzHQINEu9J8QQj4b4PeSzGJmb3Msr6pVcmQUE8VU4_shMnlhDZ_isYIIt9Nmv8ghdwpg3UgA",
       "width": 3600
@@ -373,7 +373,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXHs4ZriEA9JBFs_Pqf7raAkmcTcFfum63OqvFRxjAPUkrILWYyA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Delicious Thai food with authentic flavors. The restaurant has a fun theme, and the staff uniforms match the vibe. The menu offers lots of options and different protein combinations. I got the crispy duck with a flavorful sauce\u2014so good! My friend's dish was also excellent, and everyone at the table loved their food. Great service, friendly staff, and a welcoming atmosphere. Highly recommend for a tasty Thai experience!",
+      "text": "Delicious Thai food with authentic flavors. The restaurant has a fun theme, and the staff uniforms match the vibe. The menu offers lots of options and different protein combinations. I got the crispy duck with a flavorful sauce—so good! My friend's dish was also excellent, and everyone at the table loved their food. Great service, friendly staff, and a welcoming atmosphere. Highly recommend for a tasty Thai experience!",
       "time": 1744046975,
       "translated": false
     },
@@ -397,7 +397,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKYBV_dXnZf210Fc3vWyJQ7Woe_BANdeqtJKA9ai6Hf0GPWK4=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "I recently visited Pranakhon, a charming Thai spot, and was thoroughly impressed. The atmosphere was cozy, with warm lighting and friendly service. The menu offered a great variety of traditional dishes, and the flavors were vibrant and authentic. I highly recommend the Pad Thai, which had the perfect balance of sweet, salty, and tangy. The green curry was also a standout\u2014creamy, rich, and just the right amount of spice. Overall, it\u2019s a great place for anyone craving delicious Thai food in a relaxed setting.",
+      "text": "I recently visited Pranakhon, a charming Thai spot, and was thoroughly impressed. The atmosphere was cozy, with warm lighting and friendly service. The menu offered a great variety of traditional dishes, and the flavors were vibrant and authentic. I highly recommend the Pad Thai, which had the perfect balance of sweet, salty, and tangy. The green curry was also a standout—creamy, rich, and just the right amount of spice. Overall, it’s a great place for anyone craving delicious Thai food in a relaxed setting.",
       "time": 1743383133,
       "translated": false
     },
@@ -601,13 +601,13 @@
       ],
       "type": "DELIVERY",
       "weekday_text": [
-        "Monday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-        "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-        "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-        "Thursday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-        "Friday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-        "Saturday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-        "Sunday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM"
+        "Monday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+        "Tuesday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+        "Wednesday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+        "Thursday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+        "Friday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+        "Saturday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+        "Sunday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM"
       ]
     }
   ],
@@ -629,5 +629,27 @@
   "vicinity": "88 University Pl, New York",
   "website": "https://pranakhonnyc.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:56.531457+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:56.531457+00:00",
+  "emails": [
+    "info@pranakhonnyc.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:46.310139+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@pranakhonnyc.com": [
+        "https://pranakhonnyc.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://pranakhonnyc.com/",
+        "status": "ok",
+        "emails": [
+          "info@pranakhonnyc.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -1,0 +1,57 @@
+{
+  "adr_address": "<span class=\"street-address\">159 Greenpoint Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222-7097</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "159 Greenpoint Ave, Brooklyn, NY 11222, USA",
+  "formatted_phone_number": "(917) 612-3260",
+  "geometry": {
+    "location": {
+      "lat": 40.73046,
+      "lng": -73.95341379999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7317279302915,
+        "lng": -73.95202251970849
+      },
+      "southwest": {
+        "lat": 40.7290299697085,
+        "lng": -73.9547204802915
+      }
+    }
+  },
+  "international_phone_number": "+1 917-612-3260",
+  "name": "STOWAWAY",
+  "place_id": "ChIJAVpqh6NZwokRJOer8_6ArM0",
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=14820362306267637540",
+  "website": "http://www.stowawaynyc.com/",
+  "details_checked_at": "2026-10-03T21:59:23.108179+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:23.108179+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:24.880990+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://www.stowawaynyc.com/",
+        "status": "SSLError",
+        "emails": []
+      },
+      {
+        "url": "http://www.stowawaynyc.com/",
+        "status": "browser_load_error",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:26.911856+00:00",
+    "browser_outcome": "incomplete_lookup"
+  }
+}

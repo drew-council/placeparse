@@ -1,0 +1,89 @@
+{
+  "adr_address": "<span class=\"street-address\">249 Broome St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "249 Broome St, New York, NY 10002, USA",
+  "formatted_phone_number": "(212) 677-3158",
+  "geometry": {
+    "location": {
+      "lat": 40.71791899999999,
+      "lng": -73.98987389999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71932263029149,
+        "lng": -73.9885507697085
+      },
+      "southwest": {
+        "lat": 40.7166246697085,
+        "lng": -73.9912487302915
+      }
+    }
+  },
+  "international_phone_number": "+1 212-677-3158",
+  "name": "Zest Sushi",
+  "place_id": "ChIJCyayOIdZwokR2GhEvmhn3ss",
+  "types": [
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=14690292734095550680",
+  "website": "https://zestsushinewyork.com/",
+  "details_checked_at": "2026-10-03T21:59:39.134188+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:39.134188+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:30.454199+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://zestsushinewyork.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://zestsushinewyork.com/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://zestsushinewyork.com/faq/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://zestsushinewyork.com/about/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://zestsushinewyork.com/location/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://zestsushinewyork.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://zestsushinewyork.com/contact/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://zestsushinewyork.com/faq/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://zestsushinewyork.com/contact/"
+    ],
+    "browser_checked_at": "2026-10-03T22:12:43.935238+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

@@ -160,13 +160,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Tuesday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Wednesday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Thursday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Saturday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Sunday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+      "Monday: 10:30 AM – 8:30 PM",
+      "Tuesday: 10:30 AM – 8:30 PM",
+      "Wednesday: 10:30 AM – 8:30 PM",
+      "Thursday: 10:30 AM – 8:30 PM",
+      "Friday: 11:00 AM – 8:30 PM",
+      "Saturday: 10:30 AM – 8:30 PM",
+      "Sunday: 10:30 AM – 8:30 PM"
     ]
   },
   "delivery": true,
@@ -273,13 +273,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Tuesday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Wednesday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Thursday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Friday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Saturday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-      "Sunday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+      "Monday: 10:30 AM – 8:30 PM",
+      "Tuesday: 10:30 AM – 8:30 PM",
+      "Wednesday: 10:30 AM – 8:30 PM",
+      "Thursday: 10:30 AM – 8:30 PM",
+      "Friday: 10:30 AM – 8:30 PM",
+      "Saturday: 10:30 AM – 8:30 PM",
+      "Sunday: 10:30 AM – 8:30 PM"
     ]
   },
   "photos": [
@@ -394,7 +394,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrkYdAVrrtTxovkJK8OgQfgyAU3VEgm-yrbke9hb2KMmitwg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "I\u2019m writing this review for two reasons:\n1. Walters is perfection. It\u2019s in between my husband and I house in PA and our best friends house CT. We stop EVERY DAMN TIME we drive there.\n\nThe hot dogs are perfection (we legit compare every hot dog we have to them), the fries are perfect, the black & white milkshake is outrageously amazing (get it extra thick). They also have a CRISP Diet Coke, for those who understand that lifestyle.\n\nI normally get a regular dog and my husband gets the puffy dog and we eat them in maybe one minute flat because they are so good. We also get a pack to go and have gotten them as gifts and everyone always loves them.\n\nOn top of great hot dogs, I just love the adorable atmosphere!\n\n2. I rarely write reviews but just saw the 2 star review by David and have never been more upset by a slanderous review in my life.  The tip thing is on you David because while we worked in the service industry and normally tip 22%, I can promise you that you can change it. Walter\u2019s has been 105+ years and I assume it will be around another 105+ years.",
+      "text": "I’m writing this review for two reasons:\n1. Walters is perfection. It’s in between my husband and I house in PA and our best friends house CT. We stop EVERY DAMN TIME we drive there.\n\nThe hot dogs are perfection (we legit compare every hot dog we have to them), the fries are perfect, the black & white milkshake is outrageously amazing (get it extra thick). They also have a CRISP Diet Coke, for those who understand that lifestyle.\n\nI normally get a regular dog and my husband gets the puffy dog and we eat them in maybe one minute flat because they are so good. We also get a pack to go and have gotten them as gifts and everyone always loves them.\n\nOn top of great hot dogs, I just love the adorable atmosphere!\n\n2. I rarely write reviews but just saw the 2 star review by David and have never been more upset by a slanderous review in my life.  The tip thing is on you David because while we worked in the service industry and normally tip 22%, I can promise you that you can change it. Walter’s has been 105+ years and I assume it will be around another 105+ years.",
       "time": 1748484208,
       "translated": false
     },
@@ -418,7 +418,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIE7hDsUsNiP1iBezo6p6Zj3nCfo4XkGGpYEDD87KXF98PWCg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "No surprise to me & my sister that this place was nothing short of amazing. 100+ years of hot dogs and it shows. Service was great, they were quick, & the double puffy dogs we ordered were absolutely delicious. With these you don\u2019t get that awful \u201chot dog breath\u201d or \u201chot dog burps\u201d or any of that other gross indigestion. They are good quality & I am definitely looking forward to my next visit there.",
+      "text": "No surprise to me & my sister that this place was nothing short of amazing. 100+ years of hot dogs and it shows. Service was great, they were quick, & the double puffy dogs we ordered were absolutely delicious. With these you don’t get that awful “hot dog breath” or “hot dog burps” or any of that other gross indigestion. They are good quality & I am definitely looking forward to my next visit there.",
       "time": 1749136431,
       "translated": false
     },
@@ -526,13 +526,13 @@
       ],
       "type": "DELIVERY",
       "weekday_text": [
-        "Monday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-        "Tuesday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-        "Wednesday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-        "Thursday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-        "Friday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-        "Saturday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-        "Sunday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+        "Monday: 10:30 AM – 8:30 PM",
+        "Tuesday: 10:30 AM – 8:30 PM",
+        "Wednesday: 10:30 AM – 8:30 PM",
+        "Thursday: 10:30 AM – 8:30 PM",
+        "Friday: 10:30 AM – 8:30 PM",
+        "Saturday: 10:30 AM – 8:30 PM",
+        "Sunday: 10:30 AM – 8:30 PM"
       ]
     },
     {
@@ -625,13 +625,13 @@
       ],
       "type": "TAKEOUT",
       "weekday_text": [
-        "Monday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-        "Tuesday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-        "Wednesday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-        "Thursday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-        "Friday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-        "Saturday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
-        "Sunday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+        "Monday: 10:30 AM – 8:30 PM",
+        "Tuesday: 10:30 AM – 8:30 PM",
+        "Wednesday: 10:30 AM – 8:30 PM",
+        "Thursday: 10:30 AM – 8:30 PM",
+        "Friday: 10:30 AM – 8:30 PM",
+        "Saturday: 10:30 AM – 8:30 PM",
+        "Sunday: 10:30 AM – 8:30 PM"
       ]
     }
   ],
@@ -656,9 +656,58 @@
   "website": "http://www.waltershotdogs.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
+    "hiring@waltershotdogs.com",
     "info@waltershotdogs.com",
-    "truck@waltershotdogs.com",
-    "store@waltershotdogs.com"
+    "press@waltershotdogs.com",
+    "store@waltershotdogs.com",
+    "truck@waltershotdogs.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:23.838615+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:23.838615+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:23.428137+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@waltershotdogs.com": [
+        "http://www.waltershotdogs.com/",
+        "http://www.waltershotdogs.com/new-page-2",
+        "http://www.waltershotdogs.com/about"
+      ],
+      "hiring@waltershotdogs.com": [
+        "http://www.waltershotdogs.com/new-page-2"
+      ],
+      "press@waltershotdogs.com": [
+        "http://www.waltershotdogs.com/new-page-2"
+      ],
+      "truck@waltershotdogs.com": [
+        "http://www.waltershotdogs.com/new-page-2"
+      ]
+    },
+    "pages": [
+      {
+        "url": "http://www.waltershotdogs.com/",
+        "status": "ok",
+        "emails": [
+          "info@waltershotdogs.com"
+        ]
+      },
+      {
+        "url": "http://www.waltershotdogs.com/new-page-2",
+        "status": "ok",
+        "emails": [
+          "hiring@waltershotdogs.com",
+          "info@waltershotdogs.com",
+          "press@waltershotdogs.com",
+          "truck@waltershotdogs.com"
+        ]
+      },
+      {
+        "url": "http://www.waltershotdogs.com/about",
+        "status": "ok",
+        "emails": [
+          "info@waltershotdogs.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

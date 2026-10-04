@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Saturday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Sunday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
     ]
   },
   "delivery": false,
@@ -262,13 +262,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Saturday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Sunday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
     ]
   },
   "photos": [
@@ -405,7 +405,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrODUpzuOljv7mI5eG4yVZtY4zLzV8E5Rj63ZbFbJ_SObouPYA=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "The place holds a special place in my heart! From the inside out, it's beautiful. \u2661\n\nMy friend and I ordered the Osmanthus Cold Foam Latte and Carrot Cake Latte. Both definitely need to be mixed! The sweetness isn't apparent at first, but mixing it brings out a sweet coffee flavor.\n\nOsmanthus Cold Foam Latte: 7/10\nCarrot Cake Latte: 6/10\n\nI wish they had this coffee shop in L.A. so I could try their other coffee drinks, but sadly, I can only try them when I'm in New York.",
+      "text": "The place holds a special place in my heart! From the inside out, it's beautiful. ♡\n\nMy friend and I ordered the Osmanthus Cold Foam Latte and Carrot Cake Latte. Both definitely need to be mixed! The sweetness isn't apparent at first, but mixing it brings out a sweet coffee flavor.\n\nOsmanthus Cold Foam Latte: 7/10\nCarrot Cake Latte: 6/10\n\nI wish they had this coffee shop in L.A. so I could try their other coffee drinks, but sadly, I can only try them when I'm in New York.",
       "time": 1740188850,
       "translated": false
     },
@@ -417,7 +417,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXOz2g1OpSTABc1OvqIwjK9CBek3NiA0DSIVffSNdyahvjAiMh8g=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "It\u2019s sooooo cutesy here!!!!! I really appreciate the creativity and attention to detail in their menu and drink presentation. Some times I feel some of their drinks look better than they taste \ud83e\udd23 but it\u2019s hard bc the presentation is super super beautiful. The drink flavors are pretty good. Drinks I\u2019ll rate like a 6/10 flavor 10/10 presentation 10/10 aesthetics . Staff is really nice too!!",
+      "text": "It’s sooooo cutesy here!!!!! I really appreciate the creativity and attention to detail in their menu and drink presentation. Some times I feel some of their drinks look better than they taste 🤣 but it’s hard bc the presentation is super super beautiful. The drink flavors are pretty good. Drinks I’ll rate like a 6/10 flavor 10/10 presentation 10/10 aesthetics . Staff is really nice too!!",
       "time": 1743540147,
       "translated": false
     }
@@ -440,5 +440,38 @@
     "dialogue@idleflora.com",
     "hi@dialogue.nyc"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:00.850402+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:00.850402+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:29.906148+00:00",
+    "outcome": "found",
+    "sources": {
+      "dialogue@idleflora.com": [
+        "https://www.dialogue.nyc/",
+        "https://www.dialogue.nyc/contact"
+      ],
+      "hi@dialogue.nyc": [
+        "https://www.dialogue.nyc/",
+        "https://www.dialogue.nyc/contact"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.dialogue.nyc/",
+        "status": "ok",
+        "emails": [
+          "dialogue@idleflora.com",
+          "hi@dialogue.nyc"
+        ]
+      },
+      {
+        "url": "https://www.dialogue.nyc/contact",
+        "status": "ok",
+        "emails": [
+          "dialogue@idleflora.com",
+          "hi@dialogue.nyc"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

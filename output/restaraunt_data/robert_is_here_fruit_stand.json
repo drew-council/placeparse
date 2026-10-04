@@ -152,13 +152,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 6:00 PM"
     ]
   },
   "delivery": false,
@@ -264,13 +264,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 6:00 PM"
     ]
   },
   "photos": [
@@ -349,7 +349,7 @@
     {
       "height": 4032,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/115897455499198531496\">Martha Lucia Gonz\u00e1lez</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/115897455499198531496\">Martha Lucia González</a>"
       ],
       "photo_reference": "ATKogpcKPehN79JNcDAKnpAn-HIzvwqHiTOwk0sh73Kt-f1C0yd51iM6zuaODYxgCKe5Reey1SLlGSCAeG2FKSj-HwICbtoPutGqlG3BKzTmWLilSErrKrBQZoNyyg6o_Owc5K6IvzLno8JfzpTXRjU9YXYNd6ODmMNQPCAUvyJi5X3-qRbsG8kuNjUSHoiDMj6xHIjKhm5gsbFWKGMZSqh6Ws29jrdjRKzeOQMNDKKBegJqm151uspDNEDAp_Bicp3ZLbJ9_MUctyAJ5015iQHoUsk5BJo5Dy3UAaWL--M4HrP8MrfmOYMF-w85CfVJFJThPzNi70zgbEY_bRgvEf6rFiNOP9EocG8Gn3JtdXx6tnm59POWpqPJxA0qHVZKnQ-1GmHHLq2OM3SyID_O2-CJhGsnFTWr2kvOkKYDfYmKyq_Z1w",
       "width": 3024
@@ -407,7 +407,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0YHJ_iq6GCrQrafVHlZJvqRkkhHz5tmEI7v0kQfcQ55w4O8t_=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Great Stop at Robert Is Here!\n\nWe stopped by Robert Is Here to grab some fruit, and it was totally worth it! You can choose what you want, and they cut it fresh for you \u2013 perfect for snacking. We tried some fruits we had never tasted before, and they were really delicious, even though a bit pricey.\n\nUnfortunately, the line for milkshakes was too long, so we skipped it \u2013 but they looked amazing. The backyard area is also super fun with food stands and animals like turtles, goats, parrots, and other birds. It really feels like a little farm \u2013 probably because it is one! Overall, a very cool and unique place to explore. Definitely worth a visit!",
+      "text": "Great Stop at Robert Is Here!\n\nWe stopped by Robert Is Here to grab some fruit, and it was totally worth it! You can choose what you want, and they cut it fresh for you – perfect for snacking. We tried some fruits we had never tasted before, and they were really delicious, even though a bit pricey.\n\nUnfortunately, the line for milkshakes was too long, so we skipped it – but they looked amazing. The backyard area is also super fun with food stands and animals like turtles, goats, parrots, and other birds. It really feels like a little farm – probably because it is one! Overall, a very cool and unique place to explore. Definitely worth a visit!",
       "time": 1743110204,
       "translated": false
     },
@@ -419,7 +419,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkiGLre_6glizzpgMJHAq2E-5gjxS8RRzuJUb4w0wzaPWx9Zj6=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Went on a Sunday with the family and we had a great time. This place is beautiful. They have all different animals that you can hand feed. You can sit and enjoy food that's available, also their fresh fruit and vegetables and sauces. You MUST try their famous milk shakes!!! I had a strawberry banana milk shake, and it was so delicious!! We also had the pleasure to meet Robert the owner\ud83d\ude03",
+      "text": "Went on a Sunday with the family and we had a great time. This place is beautiful. They have all different animals that you can hand feed. You can sit and enjoy food that's available, also their fresh fruit and vegetables and sauces. You MUST try their famous milk shakes!!! I had a strawberry banana milk shake, and it was so delicious!! We also had the pleasure to meet Robert the owner😃",
       "time": 1744717352,
       "translated": false
     }
@@ -440,5 +440,37 @@
   "emails": [
     "Robert_Is_Here_1959_812a16fe-5a7c-4235-80c3-847fc50097c6_200x@2x.png"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:00.441656+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:00.441656+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:50.624480+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.robertishere.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.robertishere.com/pages/our-story",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.robertishere.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.robertishere.com/pages/our-story",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.robertishere.com/"
+    ],
+    "browser_checked_at": "2026-10-03T22:11:12.743411+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

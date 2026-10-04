@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -267,13 +267,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -288,7 +288,7 @@
     {
       "height": 3024,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/105632256011859616151\">\u674e\u96e8\u6960</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/105632256011859616151\">李雨楠</a>"
       ],
       "photo_reference": "ATKogpeTg5jBigQFwHll8K6TupLvok6iL2oRsx6Q8mKs1PbThj3tXpU-XqTFFsk0xK4gILarEcfUTFk7_utAVqXPGXl1yGfx-UYuS7S4i9s_zAeQw6kzLNGyqy_Scwwd3e5qYzD4Of7fuPW9V9x9TuVYiyC6A3NdBs5LT--iLmH4oU2Qlo5To7Sp0zz-10xWKVYn2ABeWbvjaAZtC8CtF_nXRamKiQXZC9NqZa3q6_bq6xCihKu1z5PXv8t2_GVu4wImMbPNOi4WJ6d6Up6OI17NB13TIwAs_p4xrAAtWzZzRtfGUklaEIja7p9zq5uyyJgvFlN0OUMBNCB706434w8I9X7NYRfC8eWAnEe6IxjSvQBNlulIjNAlepJpzvg7aWnpQw1m7RSoW2EyI7oYqq9QdGEPmzSInj4Hg1VmSWz1UorLJA",
       "width": 4032
@@ -352,7 +352,7 @@
     {
       "height": 3600,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/108523599861742106672\">Marta G\u00f3mez</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/108523599861742106672\">Marta Gómez</a>"
       ],
       "photo_reference": "ATKogpcTTEAzd9gj8a1XOx_PjkD7zxBIyL-GIPKGUjDGPj6fLiA-dodbvWX08OZz_yM7NZprA8gDrXneRDz6syq03iPANVDZA5t2Ivd8YF3bxA1Jw-tssynl5qr4TfXTOmxB8W9rOhJE7ZjbCuhfmXmnWOPpUPJIBJN5scYhDJvV10LEfOTSXQQVE2wtS5UMoHVBOw28FbqmDAfgjykdVoE3j0pPh_pY__FndayP9_Ws5E0eizD9S1FHlAbVqtm0v46ucx0zcQVn-EZhikcEBQod9cYWdizRHlx6fajR-uZkFauIqtPeI-T7Wfc_w9c85LE2YwmNFLGg_emtL2INnO9jLxYLBX0JKMSLnxPRLqmN-rMx3I-65MuI7J33EMpdFWiXOt0qLPNLK_G9rzi4H-jcqPC8P0ENV-jSEslw9soSRBNrIQjCwo-OjbOCmVY3espT",
       "width": 4800
@@ -375,7 +375,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2paPmaWbsSQOa3jeBS8qCkSVjqF5k4JzeVFocMDhsDX9qZR4c=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Food was super tasty and service was fantastic!! We had the Vigan ramen and Yakiniku don. The Vigan bowl comes with abundant of toppings, I added an egg (vegetarian-friendly, not marinated in animal products).\nThe price is very reasonable for the area, definitely great money value.\nThe service was very welcoming and friendly, definitely made the dining experience very pleasant.\nHighly recommended! \ud83d\ude0b\ud83d\udc4d",
+      "text": "Food was super tasty and service was fantastic!! We had the Vigan ramen and Yakiniku don. The Vigan bowl comes with abundant of toppings, I added an egg (vegetarian-friendly, not marinated in animal products).\nThe price is very reasonable for the area, definitely great money value.\nThe service was very welcoming and friendly, definitely made the dining experience very pleasant.\nHighly recommended! 😋👍",
       "time": 1745613242,
       "translated": false
     },
@@ -399,12 +399,12 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWA6A1t0YYYHW36UjG09CaM0fmrs0r-WpRqrwOH63igaEI2VT7r=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Amazing vegan ramen. Broth was super flavorful and the tempura was filling. Portion size was great, enough to fill you up and then some.\nI know it\u2019s a hipster feel but the place can definitely work on their hygiene.",
+      "text": "Amazing vegan ramen. Broth was super flavorful and the tempura was filling. Portion size was great, enough to fill you up and then some.\nI know it’s a hipster feel but the place can definitely work on their hygiene.",
       "time": 1747949063,
       "translated": false
     },
     {
-      "author_name": "\u05d8\u05dc\u05d9 \u05d2\u05d9\u05e0\u05d6\u05d1\u05d5\u05e8\u05d2\u05e1\u05e7\u05d9",
+      "author_name": "טלי גינזבורגסקי",
       "author_url": "https://www.google.com/maps/contrib/110258602307697177753/reviews",
       "language": "en",
       "original_language": "en",
@@ -445,8 +445,48 @@
   "vicinity": "709 9th Ave, New York",
   "website": "https://www.kohoku-kuramen.com/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF-new-york",
   "emails": [
-    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
-    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:27.240105+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:27.240105+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:10.442775+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.kohoku-kuramen.com/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF-new-york",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.kohoku-kuramen.com/contact",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.kohoku-kuramen.com/about-us",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.kohoku-kuramen.com/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF-new-york",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.kohoku-kuramen.com/contact",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.kohoku-kuramen.com/about-us",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:09:23.566054+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

@@ -162,13 +162,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Tuesday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Wednesday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Thursday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Friday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Saturday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Monday: 7:00 AM – 7:30 PM",
+      "Tuesday: 7:00 AM – 7:30 PM",
+      "Wednesday: 7:00 AM – 7:30 PM",
+      "Thursday: 7:00 AM – 7:30 PM",
+      "Friday: 7:00 AM – 7:30 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
     ]
   },
   "delivery": false,
@@ -275,13 +275,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Tuesday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Wednesday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Thursday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Friday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Saturday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Monday: 7:00 AM – 7:30 PM",
+      "Tuesday: 7:00 AM – 7:30 PM",
+      "Wednesday: 7:00 AM – 7:30 PM",
+      "Thursday: 7:00 AM – 7:30 PM",
+      "Friday: 7:00 AM – 7:30 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
     ]
   },
   "photos": [
@@ -383,7 +383,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxYgqAbm55nrYyIcgLlkHf2ADDXao_TXj0uhohPfHRtncAHJWM8Q=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "6 months ago",
-      "text": "I\u2019ve lived in the neighborhood for 10 years and just tried Mazzola for the first time\u2026 it kills me to think of all the lard bread, pretzels, and other baked goods I\u2019ve missed out on over the years. Everything I tried was fresh and delicious and the prices are very reasonable. Josefine is friendly and informative. This bakery will be a staple going forward\ud83e\udd0d",
+      "text": "I’ve lived in the neighborhood for 10 years and just tried Mazzola for the first time… it kills me to think of all the lard bread, pretzels, and other baked goods I’ve missed out on over the years. Everything I tried was fresh and delicious and the prices are very reasonable. Josefine is friendly and informative. This bakery will be a staple going forward🤍",
       "time": 1733062989,
       "translated": false
     },
@@ -407,7 +407,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVjT9jYf37zZ3HlZ0Qz7sH0fmsYPzNrOZawqZSJxFdLOxQszqE=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "This is my usual morning coffee and pizza slice place.  (They bake bread, so they know what they're doing when it cimes to pizza!)  The people who work there are friendly and quick. Sometimes I hang with the \"old school\" crowd outside when they let me. \ud83d\ude09  You should go here!  [Cash only, but there is an ATM near the door.]",
+      "text": "This is my usual morning coffee and pizza slice place.  (They bake bread, so they know what they're doing when it cimes to pizza!)  The people who work there are friendly and quick. Sometimes I hang with the \"old school\" crowd outside when they let me. 😉  You should go here!  [Cash only, but there is an ATM near the door.]",
       "time": 1750209041,
       "translated": false
     },
@@ -431,7 +431,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWczC8OR-fOmBelUvPnTroWe8NCLNa7ZO3oozWbjIEyNL0I-gA=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "It\u2019s rare to find an older guard Carroll Gardens business that\u2019s still going strong despite all of the changes in the neighborhood.  Always a great place to pick up fresh bread and pastries.  The best, or my favorite,  item on their menu is their cinnamon roll.  No frosting, not too sweet and perfectly soft, fresh from their oven.",
+      "text": "It’s rare to find an older guard Carroll Gardens business that’s still going strong despite all of the changes in the neighborhood.  Always a great place to pick up fresh bread and pastries.  The best, or my favorite,  item on their menu is their cinnamon roll.  No frosting, not too sweet and perfectly soft, fresh from their oven.",
       "time": 1741056975,
       "translated": false
     }
@@ -451,5 +451,46 @@
   "vicinity": "192 Union St, Brooklyn",
   "website": "http://www.mazzolabakerycafe.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:38.324426+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:38.324426+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:23.918061+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://mazzolabakerycafe.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://mazzolabakerycafe.com/index.php/about/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://mazzolabakerycafe.com/index.php/visit/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://mazzolabakerycafe.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://mazzolabakerycafe.com/index.php/about/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://mazzolabakerycafe.com/index.php/visit/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:10:08.847040+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

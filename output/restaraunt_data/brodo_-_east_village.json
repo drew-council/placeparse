@@ -148,13 +148,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Monday: 9:00 AM – 7:00 PM",
+      "Tuesday: 9:00 AM – 7:00 PM",
+      "Wednesday: 9:00 AM – 7:00 PM",
+      "Thursday: 9:00 AM – 7:00 PM",
       "Friday: Closed",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      "Saturday: 10:00 AM – 7:00 PM",
+      "Sunday: 10:00 AM – 7:00 PM"
     ]
   },
   "delivery": true,
@@ -258,13 +258,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      "Monday: 9:00 AM – 7:00 PM",
+      "Tuesday: 9:00 AM – 7:00 PM",
+      "Wednesday: 9:00 AM – 7:00 PM",
+      "Thursday: 9:00 AM – 7:00 PM",
+      "Friday: 9:00 AM – 7:00 PM",
+      "Saturday: 10:00 AM – 7:00 PM",
+      "Sunday: 10:00 AM – 7:00 PM"
     ]
   },
   "photos": [
@@ -303,7 +303,7 @@
     {
       "height": 4800,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/113971966708616279579\">Angel Mont\u00fafar</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/113971966708616279579\">Angel Montúfar</a>"
       ],
       "photo_reference": "ATKogpdNQ4lq8eCk5h653nQEkj2f5KRvn3RuNmahuQNiLJ-LNqRP2CMQs5r_W9inpegmBxk_R2jVJ_7r30QdXUDg9liVmLKDG1f6HY0yH9U8TQZp7kbbTvIpRNNzyua0TiWCLXuWP7QTjLBYuv0QlxDVAaUKH0ypvQqjLhzmDyhA_IRAlswPOSsrf6GkoPwY7Eu82W1Sq4M0upkhtm0sz1J5JZorqs6FfeIZo55jdTmvGLjutZREwb69TpbFy1Uwky1srJO3M2avNfrkZj81fVqBSJQ_ltYcA0Yk-kLdOnfvPnG_LU9A17uKSQAHuI70O-Ddu6SkzF3vkpfrVjcHm4xeLK0q8sKP68v29zcih6lV-W8DP-ksuyZqrO6NsiCzMpOMslvODeimrFJ3yR5B48CAQGwy1zAa4VOHCic-XngBhyX1Ig",
       "width": 3600
@@ -327,7 +327,7 @@
     {
       "height": 4032,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/113971966708616279579\">Angel Mont\u00fafar</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/113971966708616279579\">Angel Montúfar</a>"
       ],
       "photo_reference": "ATKogpep0GxRvluI1L-N4JCWPuDRO3INotf14LZ44_Zh_2EaSPtZubuTmV9CrEyWAd04EFcuFriB2zdlt2GdhvEu6KLvyx5ivc657WOokA8myaTH-cPYIBvahfw8Lu30ybjUNv5YsNYhhzMU7ESWtHFzoW77PjeVVxRF6Y8jFu0IqD0jEmaXR3RwcXCfGqyDe6JhAvI-4Ttrw1ah3_2bvnSZtt9eYDiM44VzEtDuSqsmgA5daBIlhc8eJnmSvyu35ppC2MJ551m8nhdpUmrfa7okLrz2N4n-wPFuSaCoDsBbfaLoA59O0Dwplils71E7mYUq_YC0wsd6QXTVPGB9dvt-n0m6DpA50UQach7A3t3XV8eh2sr8jdQxvB6uyFNgQZMxwfGgTPdlLe8IpbX5FTTbRpqvyYoYolwZfaTA3I5jHb4Hluh2",
       "width": 3024
@@ -367,19 +367,19 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGA5xCztFBXGF6cmE5ElnS33AUuo84nkbGBcoxdHI-KsHyrKBp=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "The best bone broth and service. I went to brodo 2 weeks ago and ordered the mushroom chicken broth. After i walking away a bird  decided to $hi-t right on my arm. I walked back to get some napkins and the lady working gave me a wipe, sanitizer and a new cup of broth. I was traveling and always make sure i go to Brodo when I\u2019m in New York. They have the best broth and best service. I will be back!",
+      "text": "The best bone broth and service. I went to brodo 2 weeks ago and ordered the mushroom chicken broth. After i walking away a bird  decided to $hi-t right on my arm. I walked back to get some napkins and the lady working gave me a wipe, sanitizer and a new cup of broth. I was traveling and always make sure i go to Brodo when I’m in New York. They have the best broth and best service. I will be back!",
       "time": 1750091650,
       "translated": false
     },
     {
-      "author_name": "Angel Mont\u00fafar",
+      "author_name": "Angel Montúfar",
       "author_url": "https://www.google.com/maps/contrib/113971966708616279579/reviews",
       "language": "en",
       "original_language": "en",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZ9DlrgQaYHxPCayeVuzfVToLHFiZFoJms8C0k9Abx9F5a1g_5=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 4,
       "relative_time_description": "8 months ago",
-      "text": "What a great concept! And they\u2019ve really figured it out. Look at that amazing menu with options for everyone! Get a cup of broth to go?! You kidding me? That\u2019s dope!\n\nGive me all of it! We chose an interesting flavor. It wasn\u2019t bad, it just wasn\u2019t for us! We wish we would have started with a classic broth first.\n\nWe thought it was different batches that had been cooked with the add ons. But it\u2019s the 4 broths they have as a base, and then they add the stuff to it. A little too grainy for us, want to come again and keep it simple!",
+      "text": "What a great concept! And they’ve really figured it out. Look at that amazing menu with options for everyone! Get a cup of broth to go?! You kidding me? That’s dope!\n\nGive me all of it! We chose an interesting flavor. It wasn’t bad, it just wasn’t for us! We wish we would have started with a classic broth first.\n\nWe thought it was different batches that had been cooked with the add ons. But it’s the 4 broths they have as a base, and then they add the stuff to it. A little too grainy for us, want to come again and keep it simple!",
       "time": 1729980458,
       "translated": false
     },
@@ -391,7 +391,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrMAG3d_iKWIdLKByJ3-oVXz2OYbXSmkX4idKehATELtRkyPYd=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "A friend raved about this place, so we made the trek across town to see what the fuss was about. It\u2019s a simple spot with just a window for ordering, but the draw is undeniable. Their bone broth is legendary \u2013 truly the best I\u2019ve have had. The menu boasts an overwhelming variety of options, making it tough to choose. We finally settled on the Tom Yum and Oishi Oishi, and both arrived quickly and piping hot. Simply delicious. A must-visit for Bone Broth enthusiasts!",
+      "text": "A friend raved about this place, so we made the trek across town to see what the fuss was about. It’s a simple spot with just a window for ordering, but the draw is undeniable. Their bone broth is legendary – truly the best I’ve have had. The menu boasts an overwhelming variety of options, making it tough to choose. We finally settled on the Tom Yum and Oishi Oishi, and both arrived quickly and piping hot. Simply delicious. A must-visit for Bone Broth enthusiasts!",
       "time": 1735974475,
       "translated": false
     },
@@ -415,7 +415,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKE2MCYaz0JOttDkQTd2RCdEEtbAJeqrM6-mom8dS1-enWu_Y=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "4 months ago",
-      "text": "Got 2 soups, both were oversalted and a bit too watery. Neither had a strong flavor and were so blended that you don\u2019t get any recognizable hunks of ingredients - just a homogenous liquid that doesn\u2019t end up tasting like much. Insane for $12",
+      "text": "Got 2 soups, both were oversalted and a bit too watery. Neither had a strong flavor and were so blended that you don’t get any recognizable hunks of ingredients - just a homogenous liquid that doesn’t end up tasting like much. Insane for $12",
       "time": 1739387767,
       "translated": false
     }
@@ -437,5 +437,51 @@
   "utc_offset": -240,
   "vicinity": "200 1st Ave, New York",
   "website": "http://brodo.com/",
-  "business_status_checked_at": "2026-10-03T20:04:47.351593+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:47.351593+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:11.103097+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.brodo.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.brodo.com/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.brodo.com/faqs/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.brodo.com/about/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.brodo.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.brodo.com/contact/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.brodo.com/faqs/?hcUrl=%2Fen-US",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:07:45.085972+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

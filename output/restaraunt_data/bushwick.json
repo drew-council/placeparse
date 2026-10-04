@@ -92,7 +92,7 @@
     {
       "height": 4032,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/104165519432362472638\">P\u00e9ter Schm\u00edz</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/104165519432362472638\">Péter Schmíz</a>"
       ],
       "photo_reference": "ATKogpcjOwqZmjjkzwrkPzW636ASrSIl1ZxNnUvQ8CpHj2bO65aRoSDXKDh90PFI51lYBXETieEL0u0SGbJ3njWkRMnuCD-3gwtneLhZK_5etLM1DC6hV1owE4SG-ZDSDwebJSO9szj0V2U0wBjwlf-upjzQLo1_zaJDZ5fPUM14dNa70EovS5LZVaLKFBHva2-L4WmWuBSiGH1qJ0HHyFT7s2RWyLOxp0FuyT4e3Kd1r14LLzVtpXCJadPykMBTWDsxWNuOctMpxTW9pMYrshQaeTXftBHEsjRPEsx9wd2oma5hIqpe9hRq5oVQZWcWbCfZ8MJQ6KVmg2HB1VoCmjEAQ7mt6eaQRdX0sonECvsqH2s7P7Un3ZpRWPLmkYCmnv6Wb8HGTSS0tb-8GMG_Tx4T1-87nNX6RG6gaRtTAkOnV7pSiw",
       "width": 3024
@@ -124,7 +124,7 @@
     {
       "height": 3024,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/104165519432362472638\">P\u00e9ter Schm\u00edz</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/104165519432362472638\">Péter Schmíz</a>"
       ],
       "photo_reference": "ATKogpfFQW8wExGNIiebIjh11Eb6TpOOiPOYqfHlVJNlAcNl7yWKkKEUuRr4FrhVt7NjA3IMrJJOio-Ck-HZXekjDc6TFgbdn1H8218fSvnCq8_RfghxVdOjH9tOZi3KdNlEPuqU6VMl7Fv1zxBM8ziV6YI6lrHBeuYRJefwDxv6Oj8bXkHQvFloPq4Gwbf_6V25llkHOZlrfeKlmDBbbnYB6ia96UIc84ddurQMDO7lr1a5L4uxDLv2JE0b-n3CeSZFwVOYynNrqUIj9XZd4nOb2fnYA9ikUXooxntsELlpkF5RM4QqqIcwgRKKHj0K8-ljHTlwvx1brhuKCBUcUJu6u185fiycxcl_jCBKUBMMT_Tu47BUqhU922E9WCFbvKd_-MjUXSZtW5PZm7EwMagmT64hNCRk0Hzs1sW-ctd3NJamBg",
       "width": 4032
@@ -154,5 +154,13 @@
   ],
   "url": "https://maps.google.com/?cid=10027766606010041980",
   "utc_offset": -240,
-  "vicinity": "Bushwick, Brooklyn"
+  "vicinity": "Bushwick, Brooklyn",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:14.281278+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

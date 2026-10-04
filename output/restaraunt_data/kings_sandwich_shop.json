@@ -142,12 +142,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Monday: 11:00 AM – 4:00 PM",
+      "Tuesday: 11:00 AM – 4:00 PM",
+      "Wednesday: 11:00 AM – 4:00 PM",
+      "Thursday: 11:00 AM – 4:00 PM",
       "Friday: Closed",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Saturday: 11:00 AM – 4:00 PM",
       "Sunday: Closed"
     ]
   },
@@ -244,12 +244,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Monday: 11:00 AM – 4:00 PM",
+      "Tuesday: 11:00 AM – 4:00 PM",
+      "Wednesday: 11:00 AM – 4:00 PM",
+      "Thursday: 11:00 AM – 4:00 PM",
+      "Friday: 11:00 AM – 4:00 PM",
+      "Saturday: 11:00 AM – 4:00 PM",
       "Sunday: Closed"
     ]
   },
@@ -426,5 +426,26 @@
   "vicinity": "701 Foster St, Durham",
   "website": "https://kingssandwichshop.com/index.html",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:26.239730+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:26.239730+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:09.961323+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://kingssandwichshop.com/index.html",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://kingssandwichshop.com/index.html",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:09:19.774257+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

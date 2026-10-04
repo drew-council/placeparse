@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM"
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:30 PM",
+      "Sunday: 8:00 AM – 5:30 PM"
     ]
   },
   "delivery": false,
@@ -263,13 +263,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM"
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:30 PM",
+      "Sunday: 8:00 AM – 5:30 PM"
     ]
   },
   "photos": [
@@ -384,7 +384,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8qFsPBvbNf8FhlvvbRYzBMwvpIb6gDrcGGWfxYlQM8cpbwkU6hg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "Elevated coffee, tea, and food options in a vibey cafe setting. Perfect for coffee connoisseurs.  There was a beautiful pour over coffee from Thailand the day I wenr. Not too bright, not too dark. Chill music. Compared to other coffee shops, there's decent seating (about 8 small tables with two chairs each). One side of the caf\u00e9 is dedicated to conversation, while the other side is dedicated to laptops. Laptop folks are encouraged to share table space if needed. Free wifi is available. Two rvery clean restrooms are available. Really great spot.",
+      "text": "Elevated coffee, tea, and food options in a vibey cafe setting. Perfect for coffee connoisseurs.  There was a beautiful pour over coffee from Thailand the day I wenr. Not too bright, not too dark. Chill music. Compared to other coffee shops, there's decent seating (about 8 small tables with two chairs each). One side of the café is dedicated to conversation, while the other side is dedicated to laptops. Laptop folks are encouraged to share table space if needed. Free wifi is available. Two rvery clean restrooms are available. Really great spot.",
       "time": 1750280393,
       "translated": false
     },
@@ -396,7 +396,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkRxn8nPrONUOtOVr0r7moEkDQKeeNSA8SEJOVHk24CZlyihpC=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "This was my first Coffee Project location and I would love to check out more! I had an iced flat white because it was a hotter day, but I\u2019d love to try more of their drinks!",
+      "text": "This was my first Coffee Project location and I would love to check out more! I had an iced flat white because it was a hotter day, but I’d love to try more of their drinks!",
       "time": 1743878978,
       "translated": false
     },
@@ -516,13 +516,13 @@
       ],
       "type": "KITCHEN",
       "weekday_text": [
-        "Monday: 7:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Tuesday: 7:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Wednesday: 7:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Thursday: 7:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Friday: 7:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Saturday: 8:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Sunday: 8:00\u202fAM\u2009\u2013\u20093:30\u202fPM"
+        "Monday: 7:00 AM – 3:30 PM",
+        "Tuesday: 7:00 AM – 3:30 PM",
+        "Wednesday: 7:00 AM – 3:30 PM",
+        "Thursday: 7:00 AM – 3:30 PM",
+        "Friday: 7:00 AM – 3:30 PM",
+        "Saturday: 8:00 AM – 3:30 PM",
+        "Sunday: 8:00 AM – 3:30 PM"
       ]
     }
   ],
@@ -543,5 +543,19 @@
   "vicinity": "401 W 53rd St, New York",
   "website": "http://www.coffeeprojectny.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:57.844230+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:57.844230+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:25.496380+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://www.coffeeprojectny.com/",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -1,0 +1,59 @@
+{
+  "adr_address": "<span class=\"street-address\">102 Suffolk St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "102 Suffolk St, New York, NY 10002, USA",
+  "formatted_phone_number": "(646) 988-1973",
+  "geometry": {
+    "location": {
+      "lat": 40.7185385,
+      "lng": -73.9860676
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7199340302915,
+        "lng": -73.9848266197085
+      },
+      "southwest": {
+        "lat": 40.7172360697085,
+        "lng": -73.9875245802915
+      }
+    }
+  },
+  "international_phone_number": "+1 646-988-1973",
+  "name": "Davelle",
+  "place_id": "ChIJk1s5AIFZwokRymNr0rhKWFE",
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=5861517072687391690",
+  "website": "http://davellenewyork.com/",
+  "details_checked_at": "2026-10-03T21:59:26.356068+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:26.356068+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:59.249487+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://davellenewyork.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://davellenewyork.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:08:42.490755+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

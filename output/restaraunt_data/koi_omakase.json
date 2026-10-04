@@ -246,13 +246,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Tuesday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Thursday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Friday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM"
+      "Monday: 1:00 – 3:30 PM, 5:00 – 10:30 PM",
+      "Tuesday: 1:00 – 3:30 PM, 5:00 – 10:30 PM",
+      "Wednesday: 1:00 – 3:30 PM, 5:00 – 10:30 PM",
+      "Thursday: 1:00 – 3:30 PM, 5:00 – 10:30 PM",
+      "Friday: 1:00 – 3:30 PM, 5:00 – 10:30 PM",
+      "Saturday: 1:00 – 3:30 PM, 5:00 – 10:30 PM",
+      "Sunday: 1:00 – 3:30 PM, 5:00 – 10:30 PM"
     ]
   },
   "dine_in": true,
@@ -424,13 +424,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Tuesday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Thursday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Friday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM"
+      "Monday: 1:00 – 3:30 PM, 5:00 – 10:30 PM",
+      "Tuesday: 1:00 – 3:30 PM, 5:00 – 10:30 PM",
+      "Wednesday: 1:00 – 3:30 PM, 5:00 – 10:30 PM",
+      "Thursday: 1:00 – 3:30 PM, 5:00 – 10:30 PM",
+      "Friday: 1:00 – 3:30 PM, 5:00 – 10:30 PM",
+      "Saturday: 1:00 – 3:30 PM, 5:00 – 10:30 PM",
+      "Sunday: 1:00 – 3:30 PM, 5:00 – 10:30 PM"
     ]
   },
   "photos": [
@@ -532,7 +532,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmjsM_LlEkWTTl3iFkCYEmx_A3oavEBPoy_1Drtwy-oDQnOvY=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "I\u2019ve been to this omakase place like 4 times already. I would say it is great for its price and I believe that it is worth every penny. However, I never had the BOGO deal that they\u2019re having right now but I\u2019ve been to their usual 69$ for an 18 course per person. I think they my favorites were the otoro with caviar, salmon with foie gras, and the Wagyu with uni on top. The chefs were nice and very friendly. I think the only thing was that one time there was like 8 of us and only 1 chef so it took longer for the food to be served.",
+      "text": "I’ve been to this omakase place like 4 times already. I would say it is great for its price and I believe that it is worth every penny. However, I never had the BOGO deal that they’re having right now but I’ve been to their usual 69$ for an 18 course per person. I think they my favorites were the otoro with caviar, salmon with foie gras, and the Wagyu with uni on top. The chefs were nice and very friendly. I think the only thing was that one time there was like 8 of us and only 1 chef so it took longer for the food to be served.",
       "time": 1749477891,
       "translated": false
     },
@@ -544,7 +544,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxg89UwgDOThs9lRRLXSr_xBrSp4wrv1aRoNx3FHhhKeZ_hhbi-A=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "a week ago",
-      "text": "I came for the BOGO $69 13 course meal. The food was really good and I liked the creativity in the toppings - my personal favorites were the red snapper with chili oil and shrimp with uni. I had an enjoyable time!\n\nIt was my first time experiencing omakase - I wished the chefs were more interactive and explained each dish more in depth. It felt like they were just rushing us out and the waiters didn\u2019t seem friendly",
+      "text": "I came for the BOGO $69 13 course meal. The food was really good and I liked the creativity in the toppings - my personal favorites were the red snapper with chili oil and shrimp with uni. I had an enjoyable time!\n\nIt was my first time experiencing omakase - I wished the chefs were more interactive and explained each dish more in depth. It felt like they were just rushing us out and the waiters didn’t seem friendly",
       "time": 1750259215,
       "translated": false
     },
@@ -556,7 +556,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaGciavbxCPFvSAYJKtogLkQy9e2JEoLBDpe7MHoWkeQAHefzS=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "Fantastic Omakase and right now from 6/1-9/1 go and take advantage of Koi\u2019s BOGO deal. $69 for two to enjoy 13 courses is unheard of in NY.\n\nEverything served is fresh and flavorful. Staff is quite attentive and it\u2019s simply a great inexpensive experience.",
+      "text": "Fantastic Omakase and right now from 6/1-9/1 go and take advantage of Koi’s BOGO deal. $69 for two to enjoy 13 courses is unheard of in NY.\n\nEverything served is fresh and flavorful. Staff is quite attentive and it’s simply a great inexpensive experience.",
       "time": 1749954516,
       "translated": false
     },
@@ -580,7 +580,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxAEm56VGKGAowC-xrSoq35YjVmC6-ktddlIO9tDmf71RmEw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "If you're looking for a top-notch omakase experience in NYC that won\u2019t break the bank, Koi Omakase is a must-try. From the moment you walk in, you\u2019re greeted by a sleek, modern vibe that sets the stage for an unforgettable meal.\n\nEach dish was crafted with care and precision, showcasing an impressive selection of nigiri and hand rolls. The fish was incredibly fresh, with delicate flavors that really let each piece shine. The balance of textures\u2014from the melt-in-your-mouth tuna to the firm, satisfying salmon\u2014was spot on.\n\nThe meal included a miso soup, which was rich and comforting without being overly salty. As for the dessert, it was a sweet and light end to the meal that left us feeling satisfied but not overly stuffed.\n\nOne of the best parts of Koi Omakase, though, is the unlimited sake. It\u2019s rare to find an omakase that offers this kind of value without compromising quality. The sake was smooth and crisp, pairing well with the variety of fish and helping to enhance the overall experience.\n\nOverall, Koi Omakase strikes the perfect balance between quality, price, and atmosphere. The service was friendly and attentive, and the pacing of the meal was ideal\u2014never rushed, but never dragging on. This spot is definitely on my list of places to return to. Highly recommend for anyone craving a high-end sushi experience at a lower price.",
+      "text": "If you're looking for a top-notch omakase experience in NYC that won’t break the bank, Koi Omakase is a must-try. From the moment you walk in, you’re greeted by a sleek, modern vibe that sets the stage for an unforgettable meal.\n\nEach dish was crafted with care and precision, showcasing an impressive selection of nigiri and hand rolls. The fish was incredibly fresh, with delicate flavors that really let each piece shine. The balance of textures—from the melt-in-your-mouth tuna to the firm, satisfying salmon—was spot on.\n\nThe meal included a miso soup, which was rich and comforting without being overly salty. As for the dessert, it was a sweet and light end to the meal that left us feeling satisfied but not overly stuffed.\n\nOne of the best parts of Koi Omakase, though, is the unlimited sake. It’s rare to find an omakase that offers this kind of value without compromising quality. The sake was smooth and crisp, pairing well with the variety of fish and helping to enhance the overall experience.\n\nOverall, Koi Omakase strikes the perfect balance between quality, price, and atmosphere. The service was friendly and attentive, and the pacing of the meal was ideal—never rushed, but never dragging on. This spot is definitely on my list of places to return to. Highly recommend for anyone craving a high-end sushi experience at a lower price.",
       "time": 1738764775,
       "translated": false
     }
@@ -608,5 +608,25 @@
     "13e49d785d8d4f828038b6136f3b48ba@sentry.io",
     "Koiomakase@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:27.575984+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:27.575984+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:10.507170+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://koiomakase.square.site/",
+        "status": "HTTP_404",
+        "emails": []
+      },
+      {
+        "url": "https://koiomakase.square.site/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:09:24.321726+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

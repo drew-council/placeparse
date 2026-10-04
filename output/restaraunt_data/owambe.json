@@ -1,0 +1,64 @@
+{
+  "adr_address": "<span class=\"street-address\">Via Tolmino, 50</span>/Int 16, <span class=\"postal-code\">10141</span> <span class=\"locality\">Torino</span> <span class=\"region\">TO</span>, <span class=\"country-name\">Italy</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "Via Tolmino, 50/Int 16, 10141 Torino TO, Italy",
+  "formatted_phone_number": "011 944 8131",
+  "geometry": {
+    "location": {
+      "lat": 45.0567626,
+      "lng": 7.6435093
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 45.0580617302915,
+        "lng": 7.644838730291502
+      },
+      "southwest": {
+        "lat": 45.0553637697085,
+        "lng": 7.642140769708497
+      }
+    }
+  },
+  "international_phone_number": "+39 011 944 8131",
+  "name": "owambe",
+  "place_id": "ChIJIUPX8lNtiEcReRmPKNepEWw",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=7787191972263827833",
+  "website": "http://www.owambe.it/",
+  "details_checked_at": "2026-10-03T21:59:33.775352+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:33.775352+00:00",
+  "emails": [
+    "info@owambe.it"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:18.529121+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@owambe.it": [
+        "https://www.owambe.it/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.owambe.it/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.owambe.it/",
+        "status": "browser_ok",
+        "emails": [
+          "info@owambe.it"
+        ]
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:10:49.517607+00:00",
+    "browser_outcome": "found"
+  }
+}

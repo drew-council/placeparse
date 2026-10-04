@@ -140,13 +140,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 4:00\u2009\u2013\u20098:30\u202fPM",
-      "Tuesday: 4:00\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 4:00\u2009\u2013\u20099:30\u202fPM",
+      "Monday: 4:00 – 8:30 PM",
+      "Tuesday: 4:00 – 8:00 PM",
+      "Wednesday: 4:00 – 9:30 PM",
       "Thursday: Closed",
       "Friday: Closed",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20099:30\u202fPM"
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 12:00 – 9:30 PM"
     ]
   },
   "delivery": true,
@@ -249,13 +249,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 4:00\u2009\u2013\u20098:30\u202fPM",
-      "Tuesday: 4:00\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 4:00\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 4:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 4:00\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 4:00 – 8:30 PM",
+      "Tuesday: 4:00 – 8:00 PM",
+      "Wednesday: 4:00 – 9:30 PM",
+      "Thursday: 4:00 – 9:00 PM",
+      "Friday: 4:00 – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 12:00 – 9:30 PM"
     ]
   },
   "photos": [
@@ -358,7 +358,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtAUERfzrCA14-Pb5t3jbDBL74H2yWS41HUGt7aoDt-GtWhxYm=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Super cute artist-driven cafe!\n\nWhimsical metal artwork caught my eye on the front of the building so I stopped in to find a large cafe space with plenty of seating.\n\nThe cafe has Japanese bites, coffee/tea + pastries, and a bar for alcoholic drinks too. There is a piano you can play, books/games to borrow, and even a nook to relax or take a nap.\n\nThey also have various events to check out too! Artists can collaborate with the space to host events for free. The owner said \"This is a space for everyone\" \u263a\ufe0f\n\nDef recommend for a large, quiet, artistically driven working space or meet up with friends",
+      "text": "Super cute artist-driven cafe!\n\nWhimsical metal artwork caught my eye on the front of the building so I stopped in to find a large cafe space with plenty of seating.\n\nThe cafe has Japanese bites, coffee/tea + pastries, and a bar for alcoholic drinks too. There is a piano you can play, books/games to borrow, and even a nook to relax or take a nap.\n\nThey also have various events to check out too! Artists can collaborate with the space to host events for free. The owner said \"This is a space for everyone\" ☺️\n\nDef recommend for a large, quiet, artistically driven working space or meet up with friends",
       "time": 1742058432,
       "translated": false
     },
@@ -370,7 +370,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWd1XzPUOqXaNBjkyhOk3DqFfj2RUMKLspxl4I1u1vn8vjI3HBQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "This place has funky d\u00e9cor, great food and drinks, and an awesome artist-driven ethos of supporting live music. For a concert, there's a $10 minimum of food/drinks, and they need to figure out a better system so that long lines don't form at the single register (or maybe have more staff taking and filling orders?), so get here early and find a seat to enjoy your beer or milk tea and delicious fries!",
+      "text": "This place has funky décor, great food and drinks, and an awesome artist-driven ethos of supporting live music. For a concert, there's a $10 minimum of food/drinks, and they need to figure out a better system so that long lines don't form at the single register (or maybe have more staff taking and filling orders?), so get here early and find a seat to enjoy your beer or milk tea and delicious fries!",
       "time": 1745767505,
       "translated": false
     },
@@ -382,7 +382,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfI7zzhRBqfixONmJaebePYp_VY934UOP2iTrs6stqckEEkb0=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "5 months ago",
-      "text": "This cafe offers coffee and alcohol with light bites and a cute live piano, which is great for a casual hang out or a spot to get some work done. It\u2019s very quaint and cozy, but some of the downside to ny experience today is lack of simple \u201ccoffee\u201d and lack of heating. Tried ordering drip coffee, but was told only Americano was available (tiny, 3 sip drink) - disappointing. I stayed to get some work done, enjoyed the live piano and eventually got a mystery beer which you get to select (fair game) BUT for at a price tag of $10 I expected the mystery drink to be in that price range. Disappointing to end up with Sapporo which is regularly $7.50, felt cheated. Yea, I selected the mystery drink but this shouldn\u2019t have been an option with a $10 price tag. Needless to say, not sure I would recommend mystery beer. Overall, still a cute cafe for coffee and alcohol to socialize.",
+      "text": "This cafe offers coffee and alcohol with light bites and a cute live piano, which is great for a casual hang out or a spot to get some work done. It’s very quaint and cozy, but some of the downside to ny experience today is lack of simple “coffee” and lack of heating. Tried ordering drip coffee, but was told only Americano was available (tiny, 3 sip drink) - disappointing. I stayed to get some work done, enjoyed the live piano and eventually got a mystery beer which you get to select (fair game) BUT for at a price tag of $10 I expected the mystery drink to be in that price range. Disappointing to end up with Sapporo which is regularly $7.50, felt cheated. Yea, I selected the mystery drink but this shouldn’t have been an option with a $10 price tag. Needless to say, not sure I would recommend mystery beer. Overall, still a cute cafe for coffee and alcohol to socialize.",
       "time": 1737847517,
       "translated": false
     },
@@ -466,11 +466,11 @@
       ],
       "type": "HAPPY_HOUR",
       "weekday_text": [
-        "Monday: 4:00\u2009\u2013\u20096:00\u202fPM",
+        "Monday: 4:00 – 6:00 PM",
         "Tuesday: Closed",
-        "Wednesday: 4:00\u2009\u2013\u20096:00\u202fPM",
-        "Thursday: 4:00\u2009\u2013\u20096:00\u202fPM",
-        "Friday: 4:00\u2009\u2013\u20096:00\u202fPM",
+        "Wednesday: 4:00 – 6:00 PM",
+        "Thursday: 4:00 – 6:00 PM",
+        "Friday: 4:00 – 6:00 PM",
         "Saturday: Closed",
         "Sunday: Closed"
       ]
@@ -496,5 +496,50 @@
   "vicinity": "221 N 9th St, Brooklyn",
   "website": "http://pinkfrogcafe.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:55.529858+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:55.529858+00:00",
+  "emails": [
+    "eventpinkfrogcafe@gmail.com",
+    "hello@pinkfrogcafe.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:44.742769+00:00",
+    "outcome": "found",
+    "sources": {
+      "hello@pinkfrogcafe.com": [
+        "https://pinkfrogcafe.com/",
+        "https://pinkfrogcafe.com/?page_id=135",
+        "https://pinkfrogcafe.com/?page_id=10729"
+      ],
+      "eventpinkfrogcafe@gmail.com": [
+        "https://pinkfrogcafe.com/?page_id=135"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://pinkfrogcafe.com/",
+        "status": "ok",
+        "emails": [
+          "hello@pinkfrogcafe.com"
+        ]
+      },
+      {
+        "url": "https://pinkfrogcafe.com/?page_id=135",
+        "status": "ok",
+        "emails": [
+          "eventpinkfrogcafe@gmail.com",
+          "hello@pinkfrogcafe.com"
+        ]
+      },
+      {
+        "url": "https://pinkfrogcafe.com/?page_id=10729",
+        "status": "ok",
+        "emails": [
+          "hello@pinkfrogcafe.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://pinkfrogcafe.com/?page_id=135"
+    ]
+  }
 }

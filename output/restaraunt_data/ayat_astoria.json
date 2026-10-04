@@ -1,0 +1,98 @@
+{
+  "adr_address": "<span class=\"street-address\">33-25 Crescent St</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11106</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "33-25 Crescent St, Astoria, NY 11106, USA",
+  "formatted_phone_number": "(347) 242-2887",
+  "geometry": {
+    "location": {
+      "lat": 40.7620949,
+      "lng": -73.9295286
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7634860302915,
+        "lng": -73.92825111970849
+      },
+      "southwest": {
+        "lat": 40.7607880697085,
+        "lng": -73.93094908029151
+      }
+    }
+  },
+  "international_phone_number": "+1 347-242-2887",
+  "name": "Ayat Astoria",
+  "place_id": "ChIJN1WcdwBfwokRt42atleHGwI",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=151863823242530231",
+  "website": "https://www.ayatnyc.com/location/astoria/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile%20&utm_content=ast",
+  "details_checked_at": "2026-10-03T21:59:05.337222+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:05.337222+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:53.833250+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.ayatnyc.com/location/astoria/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile%20&utm_content=ast",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.ayatnyc.com/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.ayatnyc.com/about/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.ayatnyc.com/location/DC/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.ayatnyc.com/reservation/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.ayatnyc.com/location/dallas/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.ayatnyc.com/location/astoria/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile%20&utm_content=ast",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.ayatnyc.com/contact/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.ayatnyc.com/about/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.ayatnyc.com/location/astoria/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile%20&utm_content=ast",
+      "https://www.ayatnyc.com/contact/",
+      "https://www.ayatnyc.com/about/",
+      "https://www.ayatnyc.com/location/DC/",
+      "https://www.ayatnyc.com/reservation/",
+      "https://www.ayatnyc.com/location/dallas/"
+    ],
+    "browser_checked_at": "2026-10-03T22:07:18.647588+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

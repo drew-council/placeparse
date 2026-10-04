@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "delivery": false,
@@ -262,13 +262,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -369,7 +369,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLa-zD2LsGUFrmAqyXAnmpCkP_KYMhiE_7MTYB8u_2T3DJvzA=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "7 months ago",
-      "text": "It really draws you in. The selection is pretty good. They seem to specialize in a few topics and have great depth in those. All my pictures are from outside because it was really crowded. Turns out some family used it as a meetup point and they were just clogging it, but not shopping. Bad form. One of the guys behind the counter was telling the other guy about a girl he was dating who had done some things he didn\u2019t dare say in public. I was glued to it as the other guy slowly drew it all out. Apparently, she stole a vintage art print. Oh well. Rare bookshop freaky hits different, way less salacious than I was hoping for. In fairness, browsing books may have made me miss part of the story.",
+      "text": "It really draws you in. The selection is pretty good. They seem to specialize in a few topics and have great depth in those. All my pictures are from outside because it was really crowded. Turns out some family used it as a meetup point and they were just clogging it, but not shopping. Bad form. One of the guys behind the counter was telling the other guy about a girl he was dating who had done some things he didn’t dare say in public. I was glued to it as the other guy slowly drew it all out. Apparently, she stole a vintage art print. Oh well. Rare bookshop freaky hits different, way less salacious than I was hoping for. In fairness, browsing books may have made me miss part of the story.",
       "time": 1731982897,
       "translated": false
     },
@@ -432,5 +432,13 @@
   "user_ratings_total": 296,
   "utc_offset": -240,
   "vicinity": "122 4th Ave, New York",
-  "business_status_checked_at": "2026-10-03T20:04:38.401868+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:38.401868+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:05.209453+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

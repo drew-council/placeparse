@@ -238,7 +238,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUm2L0C9ItcjDmyRqJwCX4oPDmH0d0ELahkMr61VbbF28p-Lt8H=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "a week ago",
-      "text": "We had brunch outside and the experience was underwhelming at best. Given the overpriced menu, we expected a corresponding level of food quality and service\u2014but The Mark fell far short. The setup was disappointing: flimsy plastic chairs and an unsecured tablecloth that kept flying up with the slightest breeze. The food was average at best, certainly not worth the price.\n\nService was where things really unraveled. When a sudden downpour soaked our table\u2014even under the umbrella\u2014the waiter didn\u2019t check on us once. When we asked to be moved inside, we were curtly told there were no tables available, with no mention of the bar area or couches where we eventually seated ourselves out of sheer initiative. We also waited 30 minutes for our food, which arrived without any silverware. So we had to wait another !10 min! to get it.\n\nOverall, a frustrating and poorly managed experience. For a place that charges premium prices, this level of carelessness is unacceptable. I wouldn\u2019t recommend it\u2014and frankly, places like this deserve to be boycotted.",
+      "text": "We had brunch outside and the experience was underwhelming at best. Given the overpriced menu, we expected a corresponding level of food quality and service—but The Mark fell far short. The setup was disappointing: flimsy plastic chairs and an unsecured tablecloth that kept flying up with the slightest breeze. The food was average at best, certainly not worth the price.\n\nService was where things really unraveled. When a sudden downpour soaked our table—even under the umbrella—the waiter didn’t check on us once. When we asked to be moved inside, we were curtly told there were no tables available, with no mention of the bar area or couches where we eventually seated ourselves out of sheer initiative. We also waited 30 minutes for our food, which arrived without any silverware. So we had to wait another !10 min! to get it.\n\nOverall, a frustrating and poorly managed experience. For a place that charges premium prices, this level of carelessness is unacceptable. I wouldn’t recommend it—and frankly, places like this deserve to be boycotted.",
       "time": 1750376874,
       "translated": false
     },
@@ -274,7 +274,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxtuEvSDCQH25bZ_YokWLIRsIxZM2NqFpV1bLf0OcnTLCw=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "2 weeks ago",
-      "text": "Ruined and then lost my coat. And then found my coat at the wrong address\n\nWent there for a party on Tuesday June 4 where the waiter made an honest mistake and spilled dressing all down the front of my coat. They did the right thing. They took it and got it cleaned and told me I would have it the next day. NOPE.\n\n5 days later I called them. They said they would courier it to me. At a cost of $200-400, I thought I would let them off the hook and told them to FedEx it but just to email me the tracking number. They assured me I would have it on Tuesday. NOPE AGAIN.\n\nCalled back on Thursday and spoke to Joshua. I asked now that it be couriered since they forgot about it not once, but twice already. He was never direct with me but \u201cassured\u201d me he was handling it \u201cright now\u201d. In quotes because those were his exact words that he repeated several times. Since I was going to be away for 3 weeks I gave him my new address, and he again assured me that it was being handled right now. AGAIN NOPE.\n\nIt was eventually handled, the next day, and sent to the wrong address. Guess I\u2019ll see my spring coat in the summer and use it next year.  But the silver lining is that I only had to call over there 4 times in 10 days and speak to 13 different people.\n\nOh the food was good and space pretentious. Being a compass and some trail mix if you go to the bathroom",
+      "text": "Ruined and then lost my coat. And then found my coat at the wrong address\n\nWent there for a party on Tuesday June 4 where the waiter made an honest mistake and spilled dressing all down the front of my coat. They did the right thing. They took it and got it cleaned and told me I would have it the next day. NOPE.\n\n5 days later I called them. They said they would courier it to me. At a cost of $200-400, I thought I would let them off the hook and told them to FedEx it but just to email me the tracking number. They assured me I would have it on Tuesday. NOPE AGAIN.\n\nCalled back on Thursday and spoke to Joshua. I asked now that it be couriered since they forgot about it not once, but twice already. He was never direct with me but “assured” me he was handling it “right now”. In quotes because those were his exact words that he repeated several times. Since I was going to be away for 3 weeks I gave him my new address, and he again assured me that it was being handled right now. AGAIN NOPE.\n\nIt was eventually handled, the next day, and sent to the wrong address. Guess I’ll see my spring coat in the summer and use it next year.  But the silver lining is that I only had to call over there 4 times in 10 days and speak to 13 different people.\n\nOh the food was good and space pretentious. Being a compass and some trail mix if you go to the bathroom",
       "time": 1749922480,
       "translated": false
     },
@@ -305,7 +305,49 @@
   "website": "https://www.themarkhotel.com/?utm_source=gmb&utm_medium=organic",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "reservations@themarkhotel.com"
+    "events@themarkhotel.com",
+    "reservations@themarkhotel.com",
+    "sales@themarkhotel.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:17.417709+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:17.417709+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:08.358940+00:00",
+    "outcome": "found",
+    "sources": {
+      "reservations@themarkhotel.com": [
+        "https://www.themarkhotel.com/information/contact/"
+      ],
+      "events@themarkhotel.com": [
+        "https://www.themarkhotel.com/meetings-events/"
+      ],
+      "sales@themarkhotel.com": [
+        "https://www.themarkhotel.com/meetings-events/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.themarkhotel.com/?utm_source=gmb&utm_medium=organic",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.themarkhotel.com/information/contact/",
+        "status": "ok",
+        "emails": [
+          "reservations@themarkhotel.com"
+        ]
+      },
+      {
+        "url": "https://www.themarkhotel.com/meetings-events/",
+        "status": "ok",
+        "emails": [
+          "events@themarkhotel.com",
+          "sales@themarkhotel.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.themarkhotel.com/?utm_source=gmb&utm_medium=organic"
+    ]
+  }
 }

@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -188,7 +188,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 917-563-1011",
-  "name": "Xie Bao Flushing \u87f9\u5bf6",
+  "name": "Xie Bao Flushing 蟹寶",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -264,13 +264,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -285,7 +285,7 @@
     {
       "height": 466,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/103857348141555971023\">Xie Bao \u87f9\u5bf6</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/103857348141555971023\">Xie Bao 蟹寶</a>"
       ],
       "photo_reference": "ATKogpdZAXUKgnoefghTfIYRi-Mvp3YJiz-EtRMgweBeD9r6L7Iau6aN2-UtLCAgVGPY8ZyBgRZ4ADlvBDbY2fSUd3P8_GYUv5eDrPxRyy89nuyaPkA073RF89tQbtt7-YmZV4u_PFBlCExFEW1pOON_NEHz16cXIOGZwcDRWIORZGGzaVAWjlD-ZbwNmhMz-_e9I8IwW201o1sKmOHs0SmXKqnjRYyA8SI4qGlGu1wk8HjrRvIxCCdTvrMdNaEXVvW9XLnLP8YRjK87Cz8HMfLlKAyo-9VdXNm4vrKQpxwGkvFMCg",
       "width": 828
@@ -373,7 +373,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0EmfEB99tA2vqlSGi2n4Z5dOX2G7wrMwqcVBs93JH38oQDw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "3 weeks ago",
-      "text": "Super underwhelming. Not a lot of crab and not super flavorful especially for the $25 price tag. Would not recommend. Wasn\u2019t bad. Just was way too expensive to not be very good or at least have a decent chunk of crab",
+      "text": "Super underwhelming. Not a lot of crab and not super flavorful especially for the $25 price tag. Would not recommend. Wasn’t bad. Just was way too expensive to not be very good or at least have a decent chunk of crab",
       "time": 1748753405,
       "translated": false
     },
@@ -390,7 +390,7 @@
       "translated": false
     },
     {
-      "author_name": "Lin\u50bb\u6a19",
+      "author_name": "Lin傻標",
       "author_url": "https://www.google.com/maps/contrib/118354379456114792033/reviews",
       "language": "en",
       "original_language": "en",
@@ -409,7 +409,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxnuHA33JD7rvFltb7I0aWjQ3wtORBVNevn-r_gVheVeF9hq0i=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "Inside of New York food court which has other shops and restrooms (could be cleaner but it\u2019s doable).\n\nWe got the rice with crab roe and it\u2019s as expected! Great flavor with loads of rice. Could use a bit more crab roe on the ratio but overall filling and delightful.\n\nTook a bit for the service as the main person was just in the back prepping and didn\u2019t pay attention to the front.",
+      "text": "Inside of New York food court which has other shops and restrooms (could be cleaner but it’s doable).\n\nWe got the rice with crab roe and it’s as expected! Great flavor with loads of rice. Could use a bit more crab roe on the ratio but overall filling and delightful.\n\nTook a bit for the service as the main person was just in the back prepping and didn’t pay attention to the front.",
       "time": 1737829625,
       "translated": false
     },
@@ -421,7 +421,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2fPf7pWtvTYS8J8Em7TYNDZeVD3RO_6OavhTziYaZLR683fLt=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "7 months ago",
-      "text": "\ud83d\ude1b BE AWARE this is a specialty dish. You pay for its PARTICULARITY so don't expect to be wowed as if you were buying a main line dish. It's crab roe with rice or noodle \ud83c\udf5c For what is aims to be it's GOOD. Be aware that the \ud83e\udd80 CRAB is light!!! It's more noodles with crab flavor. Good \ud83d\udc4d",
+      "text": "😛 BE AWARE this is a specialty dish. You pay for its PARTICULARITY so don't expect to be wowed as if you were buying a main line dish. It's crab roe with rice or noodle 🍜 For what is aims to be it's GOOD. Be aware that the 🦀 CRAB is light!!! It's more noodles with crab flavor. Good 👍",
       "time": 1732493887,
       "translated": false
     }
@@ -443,5 +443,13 @@
   "user_ratings_total": 641,
   "utc_offset": -240,
   "vicinity": "133-35 Roosevelt Ave, Flushing",
-  "business_status_checked_at": "2026-10-03T20:06:26.487292+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:26.487292+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:25.650256+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

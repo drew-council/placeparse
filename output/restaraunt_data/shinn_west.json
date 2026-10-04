@@ -1,0 +1,76 @@
+{
+  "adr_address": "<span class=\"street-address\">525 W 53rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "525 W 53rd St, New York, NY 10019, USA",
+  "formatted_phone_number": "(425) 393-1741",
+  "geometry": {
+    "location": {
+      "lat": 40.7669983,
+      "lng": -73.9915956
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.76836843029149,
+        "lng": -73.99023126970849
+      },
+      "southwest": {
+        "lat": 40.7656704697085,
+        "lng": -73.99292923029151
+      }
+    }
+  },
+  "international_phone_number": "+1 425-393-1741",
+  "name": "Shinn WEST",
+  "place_id": "ChIJoxNAKatZwokR2hw_vq2HafE",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=17395584215986150618",
+  "website": "https://www.shinneast.com/",
+  "details_checked_at": "2026-10-03T21:59:17.212849+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:17.212849+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:23.796691+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.shinneast.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.shinneast.com/aboutus",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.shinneast.com/locations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.shinneast.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.shinneast.com/aboutus",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.shinneast.com/locations",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:20.635862+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

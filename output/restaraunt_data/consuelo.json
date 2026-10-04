@@ -1,0 +1,56 @@
+{
+  "adr_address": "<span class=\"street-address\">224 W 104th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025-4266</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "224 W 104th St, New York, NY 10025, USA",
+  "formatted_phone_number": "(646) 391-1123",
+  "geometry": {
+    "location": {
+      "lat": 40.799484,
+      "lng": -73.9677286
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.8008798802915,
+        "lng": -73.96635666970849
+      },
+      "southwest": {
+        "lat": 40.7981819197085,
+        "lng": -73.96905463029151
+      }
+    }
+  },
+  "international_phone_number": "+1 646-391-1123",
+  "name": "Consuelo",
+  "place_id": "ChIJjzfZ3Vj3wokRuEIdA0m8EX8",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=9156306539191812792",
+  "website": "https://www.cocinaconsuelonyc.com/consuelouws",
+  "details_checked_at": "2026-10-03T21:59:11.590865+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:11.590865+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:58.822721+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.cocinaconsuelonyc.com/consuelouws",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.cocinaconsuelonyc.com/consuelouws",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:08:27.052589+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

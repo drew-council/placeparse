@@ -1,0 +1,61 @@
+{
+  "adr_address": "<span class=\"street-address\">32-06 35th St</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11106</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "32-06 35th St, Astoria, NY 11106, USA",
+  "formatted_phone_number": "(917) 832-6013",
+  "geometry": {
+    "location": {
+      "lat": 40.7602789,
+      "lng": -73.9225143
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7616068302915,
+        "lng": -73.9211200197085
+      },
+      "southwest": {
+        "lat": 40.75890886970851,
+        "lng": -73.9238179802915
+      }
+    }
+  },
+  "international_phone_number": "+1 917-832-6013",
+  "name": "Chick It Out \" Khao Man Gai\"",
+  "place_id": "ChIJ00jGAthfwokR3HvrYGSZqqM",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=11793407230624889820",
+  "website": "http://www.chickitoutastoria.com/",
+  "details_checked_at": "2026-10-03T21:59:13.849352+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:13.849352+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:58.192271+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://www.chickitoutastoria.com/",
+        "status": "TimeoutError",
+        "emails": []
+      },
+      {
+        "url": "https://www.chickitoutastoria.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.chickitoutastoria.com/reservations",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:08:14.251084+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

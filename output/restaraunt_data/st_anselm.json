@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 11:00 PM"
     ]
   },
   "delivery": true,
@@ -268,13 +268,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 5:00 – 11:00 PM",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 11:00 PM"
     ]
   },
   "photos": [
@@ -377,7 +377,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaeNeUnRjtKNWX8vgafBxQlEz5_9sAtCLZKAZf0MGOJcSEdW03RQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "3 months ago",
-      "text": "I just went this past weekend and I really enjoyed everything we ate. The steaks were seasoned and juicy and went great with Au poivre sauce. We got the Denver and butcher, Denver is more fatty but the flavor of each are not inferior and if you don\u2019t need extra fat butcher is perfect. We got this huge Bo Bo chicken that was so juicy and well seasoned and felt like such a bargain for 45 dollars. The pan fried mash was delicious and bacon was also good but not a must order. The prawn was really great with the butter. The lack of drink options does suck but I enjoyed my Italian soda. The sticky pudding a la mode was so delicious and please keep room for it. I don\u2019t like how my reservation for counter didn\u2019t indicate that, it just said indoors. Service was on the slower side and I know it\u2019s a small restaurant but they many need a couple more servers",
+      "text": "I just went this past weekend and I really enjoyed everything we ate. The steaks were seasoned and juicy and went great with Au poivre sauce. We got the Denver and butcher, Denver is more fatty but the flavor of each are not inferior and if you don’t need extra fat butcher is perfect. We got this huge Bo Bo chicken that was so juicy and well seasoned and felt like such a bargain for 45 dollars. The pan fried mash was delicious and bacon was also good but not a must order. The prawn was really great with the butter. The lack of drink options does suck but I enjoyed my Italian soda. The sticky pudding a la mode was so delicious and please keep room for it. I don’t like how my reservation for counter didn’t indicate that, it just said indoors. Service was on the slower side and I know it’s a small restaurant but they many need a couple more servers",
       "time": 1743094059,
       "translated": false
     },
@@ -413,7 +413,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfPI7_EDEcpPL_Qn9G0Wd-eUmJ9xJ-xCzZ1lnsuVh1UGld1Beo_w=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Visited St. Anselm in Williamsburg for my birthday dinner, and it was phenomenal! St. Anselm in Williamsburg is a standout among steakhouses. From the moment you step inside, the cozy ambiance, with its exposed brick walls and open kitchen, sets the tone for an exceptional meal\n\nWe arrived around 7:30 pm, and the experience was perfect from start to finish. The 60oz steak was cooked to medium perfection, and every appetizer was delicious. Each side was outstanding , from the creamy spinach to the pan-fried mashed potatoes, they were a delight. The sticky toffee pudding was the perfect ending to the meal . (Gotta get it a-La-mode of course! )\n\nThe atmosphere was cozy, and the service was excellent. For a group of six, the bill was quite reasonable at about $120 per person. Definitely one of the best meals of 2024!\n\nCan\u2019t wait to go back.",
+      "text": "Visited St. Anselm in Williamsburg for my birthday dinner, and it was phenomenal! St. Anselm in Williamsburg is a standout among steakhouses. From the moment you step inside, the cozy ambiance, with its exposed brick walls and open kitchen, sets the tone for an exceptional meal\n\nWe arrived around 7:30 pm, and the experience was perfect from start to finish. The 60oz steak was cooked to medium perfection, and every appetizer was delicious. Each side was outstanding , from the creamy spinach to the pan-fried mashed potatoes, they were a delight. The sticky toffee pudding was the perfect ending to the meal . (Gotta get it a-La-mode of course! )\n\nThe atmosphere was cozy, and the service was excellent. For a group of six, the bill was quite reasonable at about $120 per person. Definitely one of the best meals of 2024!\n\nCan’t wait to go back.",
       "time": 1741306916,
       "translated": false
     },
@@ -425,7 +425,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2hIoJBEvRDlYeSauUZeUkSzYyYXSsw18wqijwDcGWBsSw1qfr=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "This place was amazing, the rustic decor and dusky lighting was the perfect setting for an intimate birthday dinner with my sister and brother in law. We had the grilled halloumi & asparagus (no pics before we demolished it), the clams, long beans, and the pan fried mashed potatoes. The entire table agreed that the potatoes were a clear winner and if you only get one side I highly recommend those. The long beans were also seasoned well and paired nicely with our steaks as some type of green. Our meat was cooked perfectly to order and server was very knowledgeable and attentive. The wine is served in an Erlenmeyer flask which as a science nerd, I really appreciated \ud83e\udd13 I can\u2019t wait to come back! VERY CELIAC FRIENDLY",
+      "text": "This place was amazing, the rustic decor and dusky lighting was the perfect setting for an intimate birthday dinner with my sister and brother in law. We had the grilled halloumi & asparagus (no pics before we demolished it), the clams, long beans, and the pan fried mashed potatoes. The entire table agreed that the potatoes were a clear winner and if you only get one side I highly recommend those. The long beans were also seasoned well and paired nicely with our steaks as some type of green. Our meat was cooked perfectly to order and server was very knowledgeable and attentive. The wine is served in an Erlenmeyer flask which as a science nerd, I really appreciated 🤓 I can’t wait to come back! VERY CELIAC FRIENDLY",
       "time": 1748953209,
       "translated": false
     }
@@ -451,5 +451,32 @@
   "emails": [
     "stanselmrestaurant@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:10.069723+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:10.069723+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:59.994740+00:00",
+    "outcome": "found",
+    "sources": {
+      "stanselmrestaurant@gmail.com": [
+        "https://www.stanselm.net/",
+        "https://www.stanselm.net/contact"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.stanselm.net/",
+        "status": "ok",
+        "emails": [
+          "stanselmrestaurant@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.stanselm.net/contact",
+        "status": "ok",
+        "emails": [
+          "stanselmrestaurant@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

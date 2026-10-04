@@ -1,0 +1,59 @@
+{
+  "adr_address": "<span class=\"street-address\">119 Baxter St Unit B</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10013-3621</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "119 Baxter St Unit B, New York, NY 10013, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7179112,
+      "lng": -73.99886529999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7192972302915,
+        "lng": -73.99760931970849
+      },
+      "southwest": {
+        "lat": 40.7165992697085,
+        "lng": -74.00030728029151
+      }
+    }
+  },
+  "name": "Tènten",
+  "place_id": "ChIJb8ADOwBZwokR0g8U1OMjIQQ",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=297558511805796306",
+  "website": "https://tentennyc.square.site/",
+  "details_checked_at": "2026-10-03T21:59:21.369127+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:21.369127+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:28.818241+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://tentennyc.square.site/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://tentennyc.square.site/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://tentennyc.square.site/contact-us",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:48.253251+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

@@ -162,13 +162,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+      "Monday: 11:30 AM – 9:30 PM",
+      "Tuesday: 11:30 AM – 9:30 PM",
+      "Wednesday: 11:30 AM – 9:30 PM",
+      "Thursday: 11:30 AM – 9:30 PM",
+      "Friday: 11:30 AM – 10:30 PM",
+      "Saturday: 11:30 AM – 10:30 PM",
+      "Sunday: 11:30 AM – 10:30 PM"
     ]
   },
   "delivery": false,
@@ -195,7 +195,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 917-721-2927",
-  "name": "Shoo Loong Kan Hotpot Manhattan \u5c0f\u9f99\u574e\u706b\u9505",
+  "name": "Shoo Loong Kan Hotpot Manhattan 小龙坎火锅",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -271,13 +271,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+      "Monday: 11:30 AM – 9:30 PM",
+      "Tuesday: 11:30 AM – 9:30 PM",
+      "Wednesday: 11:30 AM – 9:30 PM",
+      "Thursday: 11:30 AM – 9:30 PM",
+      "Friday: 11:30 AM – 10:30 PM",
+      "Saturday: 11:30 AM – 10:30 PM",
+      "Sunday: 11:30 AM – 10:30 PM"
     ]
   },
   "photos": [
@@ -292,7 +292,7 @@
     {
       "height": 3200,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101947553779389348344\">Shoo Loong Kan Hotpot Manhattan \u5c0f\u9f99\u574e\u706b\u9505</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101947553779389348344\">Shoo Loong Kan Hotpot Manhattan 小龙坎火锅</a>"
       ],
       "photo_reference": "ATKogpfzJQVIoCogaUcZnaaQE_JJ7sFcHbTl_8p6OAn2n6QltYWRI8u_f5wtAZRmGBN-Crr7pGdzcGSlmYT5B17_uKZnNucB8dYO1K7TP9dwvZYrLT-9LX8HGf5I-BqCf8jQB-9R68kXoPt7yOBsYuVYwyvzUfBbGyaynmiHRFY39d9fpbEmL80oCjL98qiTsrtKt0sbTtqcvCuP1tPpYZE7HfZUpQurho4kvf18Uycr2AKymbUHCR-IyFgCWyzG7d9SE2rtpt1KyjvOYhioAwn7cHE2qj5uo9VGWXysHf9amsMzjQ",
       "width": 4800
@@ -300,7 +300,7 @@
     {
       "height": 3200,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101947553779389348344\">Shoo Loong Kan Hotpot Manhattan \u5c0f\u9f99\u574e\u706b\u9505</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101947553779389348344\">Shoo Loong Kan Hotpot Manhattan 小龙坎火锅</a>"
       ],
       "photo_reference": "ATKogpcIVtvPWNuDoswi3e0_nybxrTJi5Nfgnmad1UBussxRYc__viNcjy5nKttHrIwplZzPEXn9TQw6KjfI5qZ3SN6V9P7pU2Pct9gSynFQ0umvX6JqEka3Z8TdSVGs1rKpW_NZvMJCHarZms2FjL3CGWIDdhOEBCnaUQ8xhKpPUxwCrRgtOSypJZAIsoHvWVfO_xfr5-9BuJJiNDhAgkPiqU2w4hL-7KirISvaH4-9no4w1FYgp6UUbD3K8hOCsV9z3rRluovzt7uKxFHYSkxkE3gVgvMdVNP1jQ65OkAZYZdesw",
       "width": 4800
@@ -308,7 +308,7 @@
     {
       "height": 3200,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101947553779389348344\">Shoo Loong Kan Hotpot Manhattan \u5c0f\u9f99\u574e\u706b\u9505</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101947553779389348344\">Shoo Loong Kan Hotpot Manhattan 小龙坎火锅</a>"
       ],
       "photo_reference": "ATKogpcz6xG0z6NLxqNRmgZgiygQIH84ZWrVCMdXjJ_HQEypyjbQJtvniwvhBW73Phcb9qsmswZCToPT4azXZAq73mSkgG0o2I9rKJ6ufF7PdwaCAM4IPOVjulHNxVyUzP6mu7qvA7QNXqERlIIFpTkjRK2vrWJ4WiDzH7Sy3ujREj7mn9U4Rkco2RjcViL8j23mC-NoJEVtl9eu0KEyDSEaInH8LorxmsMCGKf1tOH2fb79asdf39R8bayppelpsjdi9COpCSV-MEhBiVAwdzY3ldp6SEsuSZcBP0eh4cXzcJx0sQ",
       "width": 4800
@@ -316,7 +316,7 @@
     {
       "height": 3199,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101947553779389348344\">Shoo Loong Kan Hotpot Manhattan \u5c0f\u9f99\u574e\u706b\u9505</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101947553779389348344\">Shoo Loong Kan Hotpot Manhattan 小龙坎火锅</a>"
       ],
       "photo_reference": "ATKogpdgHSHrf82SiXaDs3yy9JFOLExwvUxx2AimuNAoGT6hy2f3GX1jXukMpdykRO88js9ClWf1xJLLvnqSN2jCWYO4xeIQFs8LTFcx6wdJ-bRbelhEK4hRgpMGTBWmkEvxazcizL3hk-_h6bA61U55AkxkDfsEuJqWvVeRPuMq9VR1ZP_XU1_o2QhnBzPoBIYXtJoM-nJVXYm1asP39gfzEmt5qoJ1JBJudMp-NZhUMltGT1UXCNr3e9UMxqCA3rgjM0LniDqRXJdJbHifUFuND7XPw_JIesdj6D2wQO4-BLU8oA",
       "width": 4800
@@ -356,7 +356,7 @@
     {
       "height": 3200,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101947553779389348344\">Shoo Loong Kan Hotpot Manhattan \u5c0f\u9f99\u574e\u706b\u9505</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101947553779389348344\">Shoo Loong Kan Hotpot Manhattan 小龙坎火锅</a>"
       ],
       "photo_reference": "ATKogpcmTnfQ7DBh4R_j8144-LpdzD13JcZASuhsB3qOEC0Cchar6uayllpv2aLmPGCl5z2OVRkLL2sjQrjTyB-aYaYv_0xPMAIdfQocDnTTJJmfhMmoth6K70Tnf-JyXAj2ZMXWaqqmFKG6Au7_xX3CMKBvHSXVo9ac4F4Oy0lcIVKnLoE1svtOjvc56PWdD10taDN8kRTAehS4I7ek3p5FU4F_oZUoVLLQsdQVoO3EXYamTto74SrYxhhfgSHC2iTlIn8t8XgY7kkwFvBkWIkn5uFbJkuEhvLn9d5-vZZj4ppMyA",
       "width": 4800
@@ -392,7 +392,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWB3nYOyREyqm1AFsZfPsxMX7e8VHNOC-qz4JmFXyS0KZSvEJfw=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 4,
       "relative_time_description": "4 months ago",
-      "text": "I\u2019m no hot pot specialist and don\u2019t like pork so this was pretty tough. I\u2019d say the different broth options were neat (one isn\u2019t pork). Their sauce bar is cool and has so many options. It\u2019s fun to order things from the tablet. Good variation of veggies and meat. Cool dessert options too. Fun spot and good for large groups. Not very pricey either",
+      "text": "I’m no hot pot specialist and don’t like pork so this was pretty tough. I’d say the different broth options were neat (one isn’t pork). Their sauce bar is cool and has so many options. It’s fun to order things from the tablet. Good variation of veggies and meat. Cool dessert options too. Fun spot and good for large groups. Not very pricey either",
       "time": 1739247754,
       "translated": false
     },
@@ -428,7 +428,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXv-A9sFn_T54MPdHc30TRTRekq9pamhxJy9ULgF7BZPmu_Rx4=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "Authentic & Flavorful Hotpot Experience!\n\nShoo Loong Kan Hotpot is hands down one of the best hotpot spots in NYC! From the moment you walk in, the traditional Chinese decor and warm ambiance set the tone for an amazing dining experience.\n\nThe broth is the star here\u2014rich, flavorful, and packed with depth. We went for the classic spicy Sichuan broth, and it had the perfect balance of heat and numbing spice. The ingredients were fresh, especially the high-quality meats and seafood. The presentation was also top-notch, with beautifully plated dishes that made the experience even more enjoyable.\n\nService was excellent, with the staff being attentive and helpful, especially for first-timers. If you\u2019re a hotpot lover or just looking for a fun, interactive meal, Shoo Loong Kan is a must-visit. Can\u2019t wait to go back! \ud83d\udd25\ud83c\udf72",
+      "text": "Authentic & Flavorful Hotpot Experience!\n\nShoo Loong Kan Hotpot is hands down one of the best hotpot spots in NYC! From the moment you walk in, the traditional Chinese decor and warm ambiance set the tone for an amazing dining experience.\n\nThe broth is the star here—rich, flavorful, and packed with depth. We went for the classic spicy Sichuan broth, and it had the perfect balance of heat and numbing spice. The ingredients were fresh, especially the high-quality meats and seafood. The presentation was also top-notch, with beautifully plated dishes that made the experience even more enjoyable.\n\nService was excellent, with the staff being attentive and helpful, especially for first-timers. If you’re a hotpot lover or just looking for a fun, interactive meal, Shoo Loong Kan is a must-visit. Can’t wait to go back! 🔥🍲",
       "time": 1739644990,
       "translated": false
     }
@@ -449,5 +449,50 @@
   "emails": [
     "info@shooloongkan.us"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:07.422842+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:07.422842+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:57.389821+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@shooloongkan.us": [
+        "https://shooloongkan.us/",
+        "https://shooloongkan.us/contact/",
+        "https://shooloongkan.us/locations/",
+        "https://shooloongkan.us/dallas-restaurant-week-reservation/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://shooloongkan.us/",
+        "status": "ok",
+        "emails": [
+          "info@shooloongkan.us"
+        ]
+      },
+      {
+        "url": "https://shooloongkan.us/contact/",
+        "status": "ok",
+        "emails": [
+          "info@shooloongkan.us"
+        ]
+      },
+      {
+        "url": "https://shooloongkan.us/locations/",
+        "status": "ok",
+        "emails": [
+          "info@shooloongkan.us"
+        ]
+      },
+      {
+        "url": "https://shooloongkan.us/dallas-restaurant-week-reservation/",
+        "status": "ok",
+        "emails": [
+          "info@shooloongkan.us"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://shooloongkan.us/contact/"
+    ]
+  }
 }

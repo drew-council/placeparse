@@ -217,7 +217,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoIwXH0ohNE6fwOjZdH2QesAGdBh62D9DDfMEkN8WmcxIKCii3=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "11 months ago",
-      "text": "I like China Palace a lot.  My favorite dish is Chinese Broccoli with Garlic.  Delicious.  It consists of the broccoli greens and stems.  No florets in this dish.  The flavor is wonderful.  Ginger and garlic.  I don\u2019t like the Spring Roll \u2026 not that much to it \u2026 very small with not much filling.  They are $2.75, but as small as they are, a more fair price would be a $1.00 or $1.25.  If you\u2019ve never tried China Palace, I recommend you do.",
+      "text": "I like China Palace a lot.  My favorite dish is Chinese Broccoli with Garlic.  Delicious.  It consists of the broccoli greens and stems.  No florets in this dish.  The flavor is wonderful.  Ginger and garlic.  I don’t like the Spring Roll … not that much to it … very small with not much filling.  They are $2.75, but as small as they are, a more fair price would be a $1.00 or $1.25.  If you’ve never tried China Palace, I recommend you do.",
       "time": 1720541250,
       "translated": false
     },
@@ -241,7 +241,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKupMK1ssTage0ZRNIPbeQ1F1sp-ojmYC3tejPp8geNTRa3CXE=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "3 years ago",
-      "text": "You\u2019ve got to try the Sesame Chicken. Everyone who loves Chinese cuisine makes this a regular stop.",
+      "text": "You’ve got to try the Sesame Chicken. Everyone who loves Chinese cuisine makes this a regular stop.",
       "time": 1650798434,
       "translated": false
     }
@@ -261,5 +261,19 @@
   "vicinity": "5210 Garrett Rd, Durham",
   "website": "https://chinapalacenc.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:55.354441+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:55.354441+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:23.822871+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://chinapalacenc.com/",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

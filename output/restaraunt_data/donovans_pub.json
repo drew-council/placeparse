@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
     ]
   },
   "delivery": true,
@@ -268,13 +268,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
     ]
   },
   "photos": [
@@ -413,7 +413,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmmekfTEiDFUspW51Hzrt2SzKLiIGxbNE2KtJWubVDU-vWQg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "I only had drinks during my visit but it\u2019s an amazing pub. Their black and tan is so well balanced. Great draft selection, can\u2019t wait to come back and try what looked like some delicious food. They have live music which was a great compliment to and amazing evening",
+      "text": "I only had drinks during my visit but it’s an amazing pub. Their black and tan is so well balanced. Great draft selection, can’t wait to come back and try what looked like some delicious food. They have live music which was a great compliment to and amazing evening",
       "time": 1742156513,
       "translated": false
     },
@@ -447,8 +447,50 @@
   "website": "http://donovansny.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "info@donovansny.com",
-    "info@divicocktailbar.com"
+    "info@divicocktailbar.com",
+    "info@donovansny.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:02.768406+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:02.768406+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:31.253690+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@donovansny.com": [
+        "https://donovansny.com/",
+        "https://donovansny.com/about"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://donovansny.com/",
+        "status": "ok",
+        "emails": [
+          "info@donovansny.com"
+        ]
+      },
+      {
+        "url": "https://donovansny.com/about",
+        "status": "ok",
+        "emails": [
+          "info@donovansny.com"
+        ]
+      },
+      {
+        "url": "https://donovansny.com/events",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://donovansny.com/reservations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://donovansny.com/-reservations?source=pop_up&spot_id=38133&destination=reservations&promotion=reservations",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

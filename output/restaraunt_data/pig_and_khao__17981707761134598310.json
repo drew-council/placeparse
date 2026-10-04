@@ -1,0 +1,96 @@
+{
+  "adr_address": "<span class=\"street-address\">433 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10024-5813</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "433 Amsterdam Ave, New York, NY 10024, USA",
+  "formatted_phone_number": "(646) 370-1430",
+  "geometry": {
+    "location": {
+      "lat": 40.784167,
+      "lng": -73.9772473
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7856597802915,
+        "lng": -73.97592831970849
+      },
+      "southwest": {
+        "lat": 40.7829618197085,
+        "lng": -73.9786262802915
+      }
+    }
+  },
+  "international_phone_number": "+1 646-370-1430",
+  "name": "Pig and Khao",
+  "place_id": "ChIJmWvEAIZYwokRpvhPBfDbi_k",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=17981707761134598310",
+  "website": "https://www.pigandkhao.com/uws",
+  "details_checked_at": "2026-10-03T21:59:26.690774+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:26.690774+00:00",
+  "emails": [
+    "events@pigandkhao.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:19.801866+00:00",
+    "outcome": "found",
+    "sources": {
+      "events@pigandkhao.com": [
+        "https://www.pigandkhao.com/contact",
+        "https://www.pigandkhao.com/events"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.pigandkhao.com/uws",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.pigandkhao.com/contact",
+        "status": "ok",
+        "emails": [
+          "events@pigandkhao.com"
+        ]
+      },
+      {
+        "url": "https://www.pigandkhao.com/events",
+        "status": "ok",
+        "emails": [
+          "events@pigandkhao.com"
+        ]
+      },
+      {
+        "url": "https://www.pigandkhao.com/uwsreservations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.pigandkhao.com/uws",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.pigandkhao.com/contact",
+        "status": "browser_ok",
+        "emails": [
+          "events@pigandkhao.com"
+        ]
+      },
+      {
+        "url": "https://www.pigandkhao.com/events",
+        "status": "browser_ok",
+        "emails": [
+          "events@pigandkhao.com"
+        ]
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:05.762694+00:00",
+    "browser_outcome": "found"
+  }
+}

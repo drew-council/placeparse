@@ -1,0 +1,96 @@
+{
+  "adr_address": "<span class=\"street-address\">47-16 Vernon Blvd</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "47-16 Vernon Blvd, Long Island City, NY 11101, USA",
+  "formatted_phone_number": "(718) 440-9484",
+  "geometry": {
+    "location": {
+      "lat": 40.7450141,
+      "lng": -73.9534908
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7463458302915,
+        "lng": -73.9520646197085
+      },
+      "southwest": {
+        "lat": 40.7436478697085,
+        "lng": -73.9547625802915
+      }
+    }
+  },
+  "international_phone_number": "+1 718-440-9484",
+  "name": "R40",
+  "place_id": "ChIJmfa2wdVZwokRQhZSfY9P4p0",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=11376743086392743490",
+  "website": "http://www.r40lic.com/",
+  "details_checked_at": "2026-10-03T21:59:04.474235+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:04.474235+00:00",
+  "emails": [
+    "events@r40lic.com",
+    "jobs@r40lic.com",
+    "maitred@r40lic.com",
+    "r40lic@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:20.628615+00:00",
+    "outcome": "found",
+    "sources": {
+      "events@r40lic.com": [
+        "https://www.r40lic.com/",
+        "https://www.r40lic.com/contact-1"
+      ],
+      "jobs@r40lic.com": [
+        "https://www.r40lic.com/",
+        "https://www.r40lic.com/contact-1"
+      ],
+      "maitred@r40lic.com": [
+        "https://www.r40lic.com/"
+      ],
+      "r40lic@gmail.com": [
+        "https://www.r40lic.com/",
+        "https://www.r40lic.com/contact-1",
+        "https://www.r40lic.com/events"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.r40lic.com/",
+        "status": "ok",
+        "emails": [
+          "events@r40lic.com",
+          "jobs@r40lic.com",
+          "maitred@r40lic.com",
+          "r40lic@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.r40lic.com/contact-1",
+        "status": "ok",
+        "emails": [
+          "events@r40lic.com",
+          "jobs@r40lic.com",
+          "r40lic@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.r40lic.com/events",
+        "status": "ok",
+        "emails": [
+          "r40lic@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.r40lic.com/",
+      "https://www.r40lic.com/contact-1",
+      "https://www.r40lic.com/events"
+    ]
+  }
+}

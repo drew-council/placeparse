@@ -1,0 +1,104 @@
+{
+  "adr_address": "<span class=\"street-address\">1333 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "1333 Broadway, New York, NY 10018, USA",
+  "formatted_phone_number": "(332) 232-1052",
+  "geometry": {
+    "location": {
+      "lat": 40.7511379,
+      "lng": -73.9880074
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7523302302915,
+        "lng": -73.9865573197085
+      },
+      "southwest": {
+        "lat": 40.74963226970851,
+        "lng": -73.9892552802915
+      }
+    }
+  },
+  "international_phone_number": "+1 332-232-1052",
+  "name": "Reclectic",
+  "place_id": "ChIJEWwTZXpZwokRvIk_OYcvTdI",
+  "types": [
+    "clothing_store",
+    "establishment",
+    "point_of_interest",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=15153820578999142844",
+  "website": "https://www.itsreclectic.com/",
+  "details_checked_at": "2026-10-03T21:59:14.620675+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:14.620675+00:00",
+  "emails": [
+    "itsreclectic@urbn.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:21.116871+00:00",
+    "outcome": "found",
+    "sources": {
+      "itsreclectic@urbn.com": [
+        "https://itsreclectic.com/",
+        "https://itsreclectic.com/faqs/",
+        "https://itsreclectic.com/locations/tempe/",
+        "https://itsreclectic.com/locations/dallas/",
+        "https://itsreclectic.com/locations/denver/",
+        "https://itsreclectic.com/locations/chicago/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://itsreclectic.com/",
+        "status": "ok",
+        "emails": [
+          "itsreclectic@urbn.com"
+        ]
+      },
+      {
+        "url": "https://itsreclectic.com/faqs/",
+        "status": "ok",
+        "emails": [
+          "itsreclectic@urbn.com"
+        ]
+      },
+      {
+        "url": "https://itsreclectic.com/locations/tempe/",
+        "status": "ok",
+        "emails": [
+          "itsreclectic@urbn.com"
+        ]
+      },
+      {
+        "url": "https://itsreclectic.com/locations/dallas/",
+        "status": "ok",
+        "emails": [
+          "itsreclectic@urbn.com"
+        ]
+      },
+      {
+        "url": "https://itsreclectic.com/locations/denver/",
+        "status": "ok",
+        "emails": [
+          "itsreclectic@urbn.com"
+        ]
+      },
+      {
+        "url": "https://itsreclectic.com/locations/chicago/",
+        "status": "ok",
+        "emails": [
+          "itsreclectic@urbn.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://itsreclectic.com/",
+      "https://itsreclectic.com/faqs/",
+      "https://itsreclectic.com/locations/tempe/",
+      "https://itsreclectic.com/locations/dallas/",
+      "https://itsreclectic.com/locations/denver/",
+      "https://itsreclectic.com/locations/chicago/"
+    ]
+  }
+}

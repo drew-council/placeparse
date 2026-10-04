@@ -1,0 +1,49 @@
+{
+  "adr_address": "<span class=\"street-address\">86-20 Whitney Ave</span>, <span class=\"locality\">Elmhurst</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11373</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "86-20 Whitney Ave, Elmhurst, NY 11373, USA",
+  "formatted_phone_number": "(347) 448-6297",
+  "geometry": {
+    "location": {
+      "lat": 40.741907,
+      "lng": -73.8784125
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7433265802915,
+        "lng": -73.8771394197085
+      },
+      "southwest": {
+        "lat": 40.7406286197085,
+        "lng": -73.8798373802915
+      }
+    }
+  },
+  "international_phone_number": "+1 347-448-6297",
+  "name": "Sumatera Restaurant NYC",
+  "place_id": "ChIJ21T-e6xfwokRy_clAmiiMDg",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=4048914632602417099",
+  "website": "http://linktr.ee/sumatera.nyc",
+  "details_checked_at": "2026-10-03T21:59:20.555905+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:20.555905+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:25.059734+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://linktr.ee/sumatera.nyc",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
+}

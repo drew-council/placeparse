@@ -1,0 +1,41 @@
+{
+  "name": "SILK ROAD BITES",
+  "maps_cid": "13105263229821490453",
+  "canonical_maps_cid": "13105263229821490453",
+  "place_id": "ChIJr3pDWwBfwokRFZV_DXk_37U",
+  "place_id_source": "google_maps_observed_response",
+  "url": "https://www.google.com/maps?cid=13105263229821490453",
+  "website": "https://silkroad-bites.web.app/",
+  "formatted_address": "36-02 Steinway St, Long Island City, NY 11101",
+  "formatted_phone_number": "(718) 406-9081",
+  "ui_category": "Uzbeki restaurant",
+  "food_place": true,
+  "business_status": "OPERATIONAL",
+  "business_status_source": "Google Maps observed place response: Closed · Opens 11 AM",
+  "business_status_checked_at": "2026-10-04T06:31:47.211811+00:00",
+  "details_checked_at": "2026-10-04T06:31:47.211811+00:00",
+  "details_source": "google_maps_observed_response",
+  "api_lookup_status": "NOT_REQUESTED",
+  "api_lookup_note": "Added during final live-list recheck without another credential prompt/API request. Published Maps CID and place ID match the observed place response.",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-04T06:31:47.389016+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://silkroad-bites.web.app/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://silkroad-bites.web.app/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-04T06:32:35.986787+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

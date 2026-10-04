@@ -1,0 +1,73 @@
+{
+  "adr_address": "<span class=\"street-address\">59 W 37th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "59 W 37th St, New York, NY 10018, USA",
+  "formatted_phone_number": "(212) 213-2810",
+  "geometry": {
+    "location": {
+      "lat": 40.75157129999999,
+      "lng": -73.9858221
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.75288188029149,
+        "lng": -73.98450876970848
+      },
+      "southwest": {
+        "lat": 40.75018391970849,
+        "lng": -73.9872067302915
+      }
+    }
+  },
+  "international_phone_number": "+1 212-213-2810",
+  "name": "Café China",
+  "place_id": "ChIJhXTKrQBZwokRDA7Vijnq1AE",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=131987821963841036",
+  "website": "http://cafechina.nyc/",
+  "details_checked_at": "2026-10-03T21:59:09.642097+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:09.642097+00:00",
+  "emails": [
+    "cafechina.nyc@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:56.906615+00:00",
+    "outcome": "found",
+    "sources": {
+      "cafechina.nyc@gmail.com": [
+        "https://cafechina.nyc/",
+        "https://cafechina.nyc/about",
+        "https://cafechina.nyc/events"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://cafechina.nyc/",
+        "status": "ok",
+        "emails": [
+          "cafechina.nyc@gmail.com"
+        ]
+      },
+      {
+        "url": "https://cafechina.nyc/about",
+        "status": "ok",
+        "emails": [
+          "cafechina.nyc@gmail.com"
+        ]
+      },
+      {
+        "url": "https://cafechina.nyc/events",
+        "status": "ok",
+        "emails": [
+          "cafechina.nyc@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
+}

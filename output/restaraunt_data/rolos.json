@@ -178,13 +178,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM",
+      "Sunday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -213,7 +213,7 @@
   "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
-  "name": "Rolo\u2019s",
+  "name": "Rolo’s",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -309,13 +309,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM",
+      "Sunday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -418,7 +418,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtBgRVCzQOat0lxwsoSxEu38EQ4btcJSanQ9J2F4iccLkt-zgyRQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "Great place for dinner.  We had an excellent meal. Service was great! The chicken was so good.  So juicy. The snap pea salad was refreshing.  The prawns were grilled nicely. We had the pickled carrots, scallops crudo, arctic chard, three cheese lasagna and the bread.   All were very good.  We were in a group sharing and they were great about timing things so we never had too much on the table.  Good wine suggestions.  Would definitely recommend.\n\nIf you found this helpful follow me.  I don\u2019t give many 5* because I reserve that for the very best in food, service and experience. I try to be quick to the most important stuff, the food.  Then add notes about the rest.  Enjoy!",
+      "text": "Great place for dinner.  We had an excellent meal. Service was great! The chicken was so good.  So juicy. The snap pea salad was refreshing.  The prawns were grilled nicely. We had the pickled carrots, scallops crudo, arctic chard, three cheese lasagna and the bread.   All were very good.  We were in a group sharing and they were great about timing things so we never had too much on the table.  Good wine suggestions.  Would definitely recommend.\n\nIf you found this helpful follow me.  I don’t give many 5* because I reserve that for the very best in food, service and experience. I try to be quick to the most important stuff, the food.  Then add notes about the rest.  Enjoy!",
       "time": 1750016307,
       "translated": false
     },
@@ -430,7 +430,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsFoa2sJbbAhBaOMfDc4PYjKOChDLrsFwzWjjerp1ZIVMPvftCMg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "I had to see what the hype was about\u2026 and I have to admit, it kind of exceeded my expectations. The ambiance, service, and food were really good! I came for the burger and the lasagna, but my favorite dish ended up being the polenta bread. I might be biased because I absolutely love bread\u2026 but something about the dough and the ingredients just hit. It was simple and not too overwhelming, a must get for carb lovers like myself. It was so good, we ended up ordering another after our entrees.\n\nThe burger was juicy and flavorful. Was it my favorite burger in NYC? No. But was it still really delicious and tasty? Yes! The lasagna was thin and I found that I actually enjoy this version more than the traditional lasagnas. It\u2019s not as heavy. Overall, great experience!",
+      "text": "I had to see what the hype was about… and I have to admit, it kind of exceeded my expectations. The ambiance, service, and food were really good! I came for the burger and the lasagna, but my favorite dish ended up being the polenta bread. I might be biased because I absolutely love bread… but something about the dough and the ingredients just hit. It was simple and not too overwhelming, a must get for carb lovers like myself. It was so good, we ended up ordering another after our entrees.\n\nThe burger was juicy and flavorful. Was it my favorite burger in NYC? No. But was it still really delicious and tasty? Yes! The lasagna was thin and I found that I actually enjoy this version more than the traditional lasagnas. It’s not as heavy. Overall, great experience!",
       "time": 1747280660,
       "translated": false
     },
@@ -442,7 +442,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_wy1eA2EPBsoGeelVbjquEzKztmIcPnIlnkO0LLvqUlFqWdJdHw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Rolo\u2019s exceeded our wildest expectations!\nWe\u2019ve been wanting to go for so long after hearing such great things, and it did not disappoint. We went for our six month wedding anniversary, and were greeted with complimentary sparkling wine. The servers were all top-notch and so attentive (re-filling the bottle of water on our table before it was empty). And the food is sensational. We did not leave anything behind. We got the polenta bread with chili butter and a green salad to start. We split the steak and famous lasagne. And delicious brown butter apple tart for dessert. I also loved sitting so close to the kitchen, I was mesmerized by all the action and the wood fired oven. Before our food came out, I said \u201cI can\u2019t wait to come back here\u201d.",
+      "text": "Rolo’s exceeded our wildest expectations!\nWe’ve been wanting to go for so long after hearing such great things, and it did not disappoint. We went for our six month wedding anniversary, and were greeted with complimentary sparkling wine. The servers were all top-notch and so attentive (re-filling the bottle of water on our table before it was empty). And the food is sensational. We did not leave anything behind. We got the polenta bread with chili butter and a green salad to start. We split the steak and famous lasagne. And delicious brown butter apple tart for dessert. I also loved sitting so close to the kitchen, I was mesmerized by all the action and the wood fired oven. Before our food came out, I said “I can’t wait to come back here”.",
       "time": 1742650602,
       "translated": false
     },
@@ -454,7 +454,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX80tBx2HVognR7AtkXqzNRcloY_FBkAWoWKRA90LxdR8voNew=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Absolutely Worth the Wait and a 10/10 Experience at Rolo\u2019s\n\nI\u2019ve been wanting to check out Rolo\u2019s for a while now and I finally made it. Let me tell you, it was completely worth the wait. It exceeded all my high expectations from start to finish. The service, the bottle of wine, the food, every part of the experience was top tier.\n\nWe had the chili bread, the two sheet lasagna, wagyu skirt steak, and head on shrimp, every dish was incredible. Perfectly balanced flavors, rich without being heavy, and plated beautifully. Each bite was memorable in its own way.\n\nLeo, the food and beverage coordinator, was incredibly knowledgeable and passionate and really elevated our dining experience. Our waitress (I wish I remembered her name!) was awesome, super friendly, and helped us curate the perfect meal.\n\nI\u2019ll definitely be back soon to try the burger. She recommended coming before 5 for that, and I\u2019m also excited to explore more of their wine list. Every detail felt thoughtful and it was truly money well spent. Rolo\u2019s gets a solid 10 out of 10 from me.",
+      "text": "Absolutely Worth the Wait and a 10/10 Experience at Rolo’s\n\nI’ve been wanting to check out Rolo’s for a while now and I finally made it. Let me tell you, it was completely worth the wait. It exceeded all my high expectations from start to finish. The service, the bottle of wine, the food, every part of the experience was top tier.\n\nWe had the chili bread, the two sheet lasagna, wagyu skirt steak, and head on shrimp, every dish was incredible. Perfectly balanced flavors, rich without being heavy, and plated beautifully. Each bite was memorable in its own way.\n\nLeo, the food and beverage coordinator, was incredibly knowledgeable and passionate and really elevated our dining experience. Our waitress (I wish I remembered her name!) was awesome, super friendly, and helped us curate the perfect meal.\n\nI’ll definitely be back soon to try the burger. She recommended coming before 5 for that, and I’m also excited to explore more of their wine list. Every detail felt thoughtful and it was truly money well spent. Rolo’s gets a solid 10 out of 10 from me.",
       "time": 1745335331,
       "translated": false
     },
@@ -466,7 +466,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjeE9lTkSGS1K1RgdTFtFrUOgxYBj40BYB-VzYKHPs16xRakU=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "If we could put 10 stars on 5, we definitely would. One of the best brunch I\u2019ve had in a while. The decor, service and of course the food are simply fabulous. Hands down one of the best burgers I\u2019ve had in my entire life, kudos to the young chef handling that section in the kitchen. So good that we wanted to go back this morning for a second day in a row but couldn\u2019t make it on time. Congrats to this whole team, we\u2019ll be back every time we\u2019re in town !",
+      "text": "If we could put 10 stars on 5, we definitely would. One of the best brunch I’ve had in a while. The decor, service and of course the food are simply fabulous. Hands down one of the best burgers I’ve had in my entire life, kudos to the young chef handling that section in the kitchen. So good that we wanted to go back this morning for a second day in a row but couldn’t make it on time. Congrats to this whole team, we’ll be back every time we’re in town !",
       "time": 1748191059,
       "translated": false
     }
@@ -492,7 +492,42 @@
   "website": "http://www.rolosnyc.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
+    "bigparties@rolosnyc.com",
     "info@rolosnyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:00.770284+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:00.770284+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:50.700982+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@rolosnyc.com": [
+        "https://www.rolosnyc.com/",
+        "https://www.rolosnyc.com/location/rolos/"
+      ],
+      "bigparties@rolosnyc.com": [
+        "https://www.rolosnyc.com/location/rolos/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.rolosnyc.com/",
+        "status": "ok",
+        "emails": [
+          "info@rolosnyc.com"
+        ]
+      },
+      {
+        "url": "https://www.rolosnyc.com/location/rolos/",
+        "status": "ok",
+        "emails": [
+          "bigparties@rolosnyc.com",
+          "info@rolosnyc.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.rolosnyc.com/",
+      "https://www.rolosnyc.com/location/rolos/"
+    ]
+  }
 }

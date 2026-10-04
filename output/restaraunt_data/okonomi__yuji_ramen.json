@@ -239,13 +239,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 9:00 AM – 2:30 PM, 5:30 – 9:30 PM",
+      "Tuesday: 9:00 AM – 2:30 PM, 5:30 – 9:30 PM",
+      "Wednesday: 9:00 AM – 2:30 PM, 5:30 – 9:30 PM",
+      "Thursday: 9:00 AM – 2:30 PM, 5:30 – 9:30 PM",
+      "Friday: 9:00 AM – 2:30 PM, 5:30 – 9:30 PM",
+      "Saturday: 9:00 AM – 2:30 PM, 5:30 – 9:30 PM",
+      "Sunday: 9:00 AM – 2:30 PM, 5:30 – 9:30 PM"
     ]
   },
   "delivery": true,
@@ -422,13 +422,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 9:00 AM – 2:30 PM, 5:30 – 9:30 PM",
+      "Tuesday: 9:00 AM – 2:30 PM, 5:30 – 9:30 PM",
+      "Wednesday: 9:00 AM – 2:30 PM, 5:30 – 9:30 PM",
+      "Thursday: 9:00 AM – 2:30 PM, 5:30 – 9:30 PM",
+      "Friday: 9:00 AM – 2:30 PM, 5:30 – 9:30 PM",
+      "Saturday: 9:00 AM – 2:30 PM, 5:30 – 9:30 PM",
+      "Sunday: 9:00 AM – 2:30 PM, 5:30 – 9:30 PM"
     ]
   },
   "photos": [
@@ -555,7 +555,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMuvr-t-rpmTHxy35Pax-z7WdyOTxQdSJTXN9dYvTQFRpNCRCIrg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Tucked away in a cozy little space, this Japanese eatery feels like a hidden gem. Every dish is crafted with such care \u2014 not only delicious but also a feast for the eyes, each plate like a small work of art. The warm smiles and thoughtful service make the experience even more memorable. A place that lingers in the heart \u2014 I\u2019ll surely find my way back again.",
+      "text": "Tucked away in a cozy little space, this Japanese eatery feels like a hidden gem. Every dish is crafted with such care — not only delicious but also a feast for the eyes, each plate like a small work of art. The warm smiles and thoughtful service make the experience even more memorable. A place that lingers in the heart — I’ll surely find my way back again.",
       "time": 1745598893,
       "translated": false
     },
@@ -567,7 +567,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWU-EJZOo_p1mlQWH4-s7kD0FFjqwTKAb-lEdQHK46O5OtsTRcVTw=s128-c0x00000000-cc-rp-mo-ba7",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "An amazing Japanese breakfast experience\u2014every dish was prepared with such care and dedication. I loved the atmosphere and the depth of flavor in every bite.",
+      "text": "An amazing Japanese breakfast experience—every dish was prepared with such care and dedication. I loved the atmosphere and the depth of flavor in every bite.",
       "time": 1748982076,
       "translated": false
     },
@@ -604,5 +604,26 @@
   "vicinity": "150 Ainslie St, Brooklyn",
   "website": "https://www.okonomi.us/",
   "wheelchair_accessible_entrance": false,
-  "business_status_checked_at": "2026-10-03T20:05:49.217298+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:49.217298+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:37.250980+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.okonomi.us/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.okonomi.us/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:10:38.803768+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

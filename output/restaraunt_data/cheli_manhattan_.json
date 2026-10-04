@@ -161,13 +161,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+      "Monday: 11:30 AM – 10:30 PM",
+      "Tuesday: 11:30 AM – 10:30 PM",
+      "Wednesday: 11:30 AM – 10:30 PM",
+      "Thursday: 11:30 AM – 10:30 PM",
+      "Friday: 11:30 AM – 11:00 PM",
+      "Saturday: 11:30 AM – 11:00 PM",
+      "Sunday: 11:30 AM – 10:30 PM"
     ]
   },
   "delivery": true,
@@ -198,7 +198,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 646-858-1866",
-  "name": "CHELI MANHATTAN \u6d59\u91cc",
+  "name": "CHELI MANHATTAN 浙里",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -274,13 +274,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+      "Monday: 11:30 AM – 10:30 PM",
+      "Tuesday: 11:30 AM – 10:30 PM",
+      "Wednesday: 11:30 AM – 10:30 PM",
+      "Thursday: 11:30 AM – 10:30 PM",
+      "Friday: 11:30 AM – 11:00 PM",
+      "Saturday: 11:30 AM – 11:00 PM",
+      "Sunday: 11:30 AM – 10:30 PM"
     ]
   },
   "photos": [
@@ -295,7 +295,7 @@
     {
       "height": 4267,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/113481296084767714037\">CHELI MANHATTAN \u6d59\u91cc</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/113481296084767714037\">CHELI MANHATTAN 浙里</a>"
       ],
       "photo_reference": "ATKogpdttabMClY_2h0ZJoWq8u491-lY8BYrjhjPESembp4F8esGW_41km-l3ZG_semeg2Y1DZio6to1EWvnHyj6Gzl-skdQta1NtiPXPnyrJP4fqY4ZCcygrqFDhPTwxs6MAkdCZfKDV3KnYe_dmAW1FbwEgAimscMcfSCwmI6-FlBy2nFalSvZ37Ht-TXTLbMpMo7MJe1wSFqoZa_Z6t54JgzNWeeSW-3iJ2XT6_mYi3BF2t4k-fwWe_og26EIfiMFaPenqSBLX9dr5SuCF8QaLrb8QzB53IcwkAa0lILESmp20A",
       "width": 4024
@@ -335,7 +335,7 @@
     {
       "height": 2268,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/110819986315913402170\">Bj\u00f6rn Schneider</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/110819986315913402170\">Björn Schneider</a>"
       ],
       "photo_reference": "ATKogpfIra_PaclpMYN0FiOBGvwid_X4tZDVNycX3XE37uE7YqBONksVviJb5VQoPSU5nmpKjSa_Rug2GRpvY0r0d2wGzEBTslmSkkTx6-o6c5xqPgGHIhjFlJo_WpUp0QHqPaRd5x7cryTNYmudsYb4bjMORE4buHxUEPTbtqZkFV2rWjZZoOkkxdrIizwy1Vs0QdE1rGb8zi0gUTm4XI02zIqmUkkFFXqyPUrSaKp1McAAdC_ZTiW1BUvFCBZHtc8ADBdbk0_f-2C4PuIoyjag7xCVts9Pd7595XPDYVIMknp3-5Wfz6CsvAfFaN51jhUPHXiuTqigheQ-DmkCNSxlkjsZRFAUEmb2jODsIkz6BF0mD8okv95RcpoVYm0dcxLd9FDTME-3K6i5XiN_7JEzW5Ms-VX_egBw4i8y3GhaUfsxvdyK",
       "width": 4032
@@ -383,7 +383,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9XohAZXEGA0DQrVyKCIgLJGG3eQw6OTrmTTcjv-EcWMUQ9bHW5A=s128-c0x00000000-cc-rp-mo-ba7",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "No wonder it\u2019s Michelin-recommended! The interior is beautiful, with a nostalgic Chinese charm, and the service was excellent. Every detail\u2014from the menu to the teaware and plating\u2014was refined and thoughtful.\n\nOur favorite dish was the spicy pork kidney\u2014tender, flavorful, and served with bean sprouts that gave it a perfect crunch. The shrimp was another standout, especially with their vinegary dipping sauce\u2014fresh and appetizing.\n\nThe mushroom rice was aromatic, with crispy rice bits at the bottom. We also tried the braised pork, which was rich and satisfying. The soup dumplings were more on the average side, but overall, nearly every dish surprised and delighted us. We\u2019ll definitely be back!",
+      "text": "No wonder it’s Michelin-recommended! The interior is beautiful, with a nostalgic Chinese charm, and the service was excellent. Every detail—from the menu to the teaware and plating—was refined and thoughtful.\n\nOur favorite dish was the spicy pork kidney—tender, flavorful, and served with bean sprouts that gave it a perfect crunch. The shrimp was another standout, especially with their vinegary dipping sauce—fresh and appetizing.\n\nThe mushroom rice was aromatic, with crispy rice bits at the bottom. We also tried the braised pork, which was rich and satisfying. The soup dumplings were more on the average side, but overall, nearly every dish surprised and delighted us. We’ll definitely be back!",
       "time": 1747107582,
       "translated": false
     },
@@ -407,7 +407,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh01CsXyRrhSgopoKIp7L5GbPpLDcAXbCiMcT3Fph-UlWrCHGd=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "My visit to Che Li was an unforgettable journey into the heart of authentic Chinese cuisine. From the very first dish, the Smoked Fish with osmanthus and thick braising sauce, I knew I was in for a treat. The Longjing Shrimp was another standout, with tender poached shrimp enveloped in a delicate tea sauce that was both innovative and delicious. However, the real showstopper was the Flaming Beggar\u2019s Chicken, smoked chicken stuffed and wrapped in lotus leaves, then encased in flour clay. The presentation was dramatic, and the chicken was succulent and full of flavor.\n\nThe sides and desserts were equally impressive. The Stir-Fried String Beans were nicely spiced, offering a good kick. The Salted Ham Rice with mixed vegetables was a comforting dish, and the Jasmine Milk Pudding and Green Tea Milky Rice Cake were the perfect end to the meal, being both light and satisfying. Drinks like the Milk Tea with Yellow Wine and Osmanthus Rice Wine were innovative and complemented the meal wonderfully.\n\nChe Li is more than just a restaurant; it\u2019s an experience that showcases the depth and breadth of Chinese culinary traditions with a modern twist. Highly recommended for anyone looking to explore the best of what Chinese cuisine has to offer!",
+      "text": "My visit to Che Li was an unforgettable journey into the heart of authentic Chinese cuisine. From the very first dish, the Smoked Fish with osmanthus and thick braising sauce, I knew I was in for a treat. The Longjing Shrimp was another standout, with tender poached shrimp enveloped in a delicate tea sauce that was both innovative and delicious. However, the real showstopper was the Flaming Beggar’s Chicken, smoked chicken stuffed and wrapped in lotus leaves, then encased in flour clay. The presentation was dramatic, and the chicken was succulent and full of flavor.\n\nThe sides and desserts were equally impressive. The Stir-Fried String Beans were nicely spiced, offering a good kick. The Salted Ham Rice with mixed vegetables was a comforting dish, and the Jasmine Milk Pudding and Green Tea Milky Rice Cake were the perfect end to the meal, being both light and satisfying. Drinks like the Milk Tea with Yellow Wine and Osmanthus Rice Wine were innovative and complemented the meal wonderfully.\n\nChe Li is more than just a restaurant; it’s an experience that showcases the depth and breadth of Chinese culinary traditions with a modern twist. Highly recommended for anyone looking to explore the best of what Chinese cuisine has to offer!",
       "time": 1742507107,
       "translated": false
     },
@@ -457,5 +457,86 @@
   "emails": [
     "cheli.press@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:04:54.279477+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:54.279477+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:21.636389+00:00",
+    "outcome": "found",
+    "sources": {
+      "cheli.press@gmail.com": [
+        "https://www.che-li.com/",
+        "https://www.che-li.com/contact/",
+        "https://www.che-li.com/location/che-li-flushing/",
+        "https://www.che-li.com/private-events-and-catering/",
+        "https://www.che-li.com/location/che-li-east-village/",
+        "https://www.che-li.com/#"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.che-li.com/",
+        "status": "ok",
+        "emails": [
+          "cheli.press@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.che-li.com/contact/",
+        "status": "ok",
+        "emails": [
+          "cheli.press@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.che-li.com/location/che-li-flushing/",
+        "status": "ok",
+        "emails": [
+          "cheli.press@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.che-li.com/private-events-and-catering/",
+        "status": "ok",
+        "emails": [
+          "cheli.press@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.che-li.com/location/che-li-east-village/",
+        "status": "ok",
+        "emails": [
+          "cheli.press@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.che-li.com/",
+        "status": "browser_ok",
+        "emails": [
+          "cheli.press@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.che-li.com/contact/",
+        "status": "browser_ok",
+        "emails": [
+          "cheli.press@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.che-li.com/#",
+        "status": "browser_ok",
+        "emails": [
+          "cheli.press@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.che-li.com/",
+      "https://www.che-li.com/contact/",
+      "https://www.che-li.com/location/che-li-flushing/",
+      "https://www.che-li.com/private-events-and-catering/",
+      "https://www.che-li.com/location/che-li-east-village/"
+    ],
+    "browser_checked_at": "2026-10-03T22:08:11.448154+00:00",
+    "browser_outcome": "found"
+  }
 }

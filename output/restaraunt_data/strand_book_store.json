@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -267,13 +267,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -296,7 +296,7 @@
     {
       "height": 3024,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/106163909367571547509\">Alper Ekmek\u00e7i</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/106163909367571547509\">Alper Ekmekçi</a>"
       ],
       "photo_reference": "ATKogpfEYolC8Ogo5MRCwV8FTy3oQL1BAxvkcXe6VQnkuH9Rca4VgtsphnoSBxTTQsPj6ZZXXQNXUbk1DLD1b98eQ7J6xf59dQcgr6uUNqKSMxk27BbDqWwbj04lUI4ooaDIrTNeE_xF05UmO_GwukbtIiAGC7CDRjdZv6BigcYfSEgkgU5a_AEMlPjAsEvcfvYkJtrEmavbb2s8KQLULdSFbr93kN62VwhQNhTbXcsG4-sx6I6FVuyMBY_qOv2ayaRutDJLBAQc-C3tiYl32cto8lH8WKGs7JL8S2lChnt2SvzZYV4HhEiqEe21En2v0Vsjxm3mOZdgi8Is2T_D9d7WckbSMwiT6HyP5CKgK2twih7PsHVNb1sEr9VzKrROptfrlEup6yx6dDRfQQUFOZOTXFMFWNMe5x-d5LX8vvtEFD-92LE",
       "width": 4032
@@ -387,7 +387,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQ3gj4PrgPmWXv8rcCWar76zpAr1T_B_aZ3wj2j0e88f7J6PTz=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "The best bookstore in NYC!\nI\u2019ve never realized how fun this bookstore was.\nMy daughter took us here after dinner in the city and I didn\u2019t want to go home.\n\nI particularly loved the second floor where they had rare books and photography books.\nPrice was reasonable for unique books and they have books that other bookstores do not carry.\nI bought an Edward Hopper book and few others big art books. Their selection of books in every genre was impressive!\nCan\u2019t wait to come back and spend a whole day here in a near future.",
+      "text": "The best bookstore in NYC!\nI’ve never realized how fun this bookstore was.\nMy daughter took us here after dinner in the city and I didn’t want to go home.\n\nI particularly loved the second floor where they had rare books and photography books.\nPrice was reasonable for unique books and they have books that other bookstores do not carry.\nI bought an Edward Hopper book and few others big art books. Their selection of books in every genre was impressive!\nCan’t wait to come back and spend a whole day here in a near future.",
       "time": 1748916990,
       "translated": false
     },
@@ -399,7 +399,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWe784Ifqq_0xJ5jyS990WILclAFf-oIvZiJoCSwq7ug0_6HbdL5g=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Brought out of town guests to The Strand to pick out a book club book, the experience didn\u2019t disappoint.\n\nBLIND DATE WITH A BOOK\nExcited to see that Blind Dates with a Book are available. Great way to buy gifts for friends.\n\nSPECIAL EDITION\nI picked up a special edition book for my summer read that\u2019s set in NYC, I loved the sprayed edges and the map of NYC.",
+      "text": "Brought out of town guests to The Strand to pick out a book club book, the experience didn’t disappoint.\n\nBLIND DATE WITH A BOOK\nExcited to see that Blind Dates with a Book are available. Great way to buy gifts for friends.\n\nSPECIAL EDITION\nI picked up a special edition book for my summer read that’s set in NYC, I loved the sprayed edges and the map of NYC.",
       "time": 1748009942,
       "translated": false
     },
@@ -411,7 +411,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDN8AaTceigxyoA1WK_-DLIkaO4b_sGYc-xIqaXyArKsBFEZPw8g=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "If there\u2019s one place in New York City that feels like a treasure trove for book lovers, it\u2019s Strand Bookstore. The moment I walked in, I was surrounded by towering shelves packed with books of every genre imaginable fiction, non-fiction, autobiographies, psychology, motivational reads, law, crime, and so much more. Whether you\u2019re searching for a literary classic, a rare find, or just something new to spark your curiosity, Strand has it all.\n\nWhat I love most about Strand is the sheer energy of the place. It\u2019s not just a bookstore it\u2019s an experience. The aisles are filled with people eagerly flipping through pages, discovering hidden gems, and getting lost in the endless world of words. There\u2019s something magical about wandering through the store, never knowing what book will catch your eye next.\n\nTheir selection is truly unmatched. From bestsellers to niche reads, from deeply thought-provoking psychology books to thrilling crime novels, every corner offers something new. And if you\u2019re into rare or collectible books, their Rare Book Room is an absolute dream a quiet, intimate space filled with first editions and beautifully bound classics that feel like stepping back in time.\n\nBeyond the books, the staff at Strand are fantastic, knowledgeable, passionate, and always ready with a great recommendation. The store also has an amazing collection of literary-themed gifts, tote bags, and quirky merchandise that make it hard to leave empty-handed.\n\nStrand isn\u2019t just a bookstore; it\u2019s a New York institution, a haven for book lovers, and a place where stories live and breathe. Whether you\u2019re a casual reader or a hardcore bibliophile, this is one spot you could spend hours in and still feel like you\u2019ve barely scratched the surface.",
+      "text": "If there’s one place in New York City that feels like a treasure trove for book lovers, it’s Strand Bookstore. The moment I walked in, I was surrounded by towering shelves packed with books of every genre imaginable fiction, non-fiction, autobiographies, psychology, motivational reads, law, crime, and so much more. Whether you’re searching for a literary classic, a rare find, or just something new to spark your curiosity, Strand has it all.\n\nWhat I love most about Strand is the sheer energy of the place. It’s not just a bookstore it’s an experience. The aisles are filled with people eagerly flipping through pages, discovering hidden gems, and getting lost in the endless world of words. There’s something magical about wandering through the store, never knowing what book will catch your eye next.\n\nTheir selection is truly unmatched. From bestsellers to niche reads, from deeply thought-provoking psychology books to thrilling crime novels, every corner offers something new. And if you’re into rare or collectible books, their Rare Book Room is an absolute dream a quiet, intimate space filled with first editions and beautifully bound classics that feel like stepping back in time.\n\nBeyond the books, the staff at Strand are fantastic, knowledgeable, passionate, and always ready with a great recommendation. The store also has an amazing collection of literary-themed gifts, tote bags, and quirky merchandise that make it hard to leave empty-handed.\n\nStrand isn’t just a bookstore; it’s a New York institution, a haven for book lovers, and a place where stories live and breathe. Whether you’re a casual reader or a hardcore bibliophile, this is one spot you could spend hours in and still feel like you’ve barely scratched the surface.",
       "time": 1741486998,
       "translated": false
     },
@@ -423,7 +423,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1A8TZJS_mE0F7WzD-n-wOVsWybmxHZoyIboW4oaoBrCgL4b_ZPQ=s128-c0x00000000-cc-rp-mo-ba7",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "You already know it is the epic used bookstore of New York and the entire eastern seaboard. It\u2019s a comfortable yet intimate space for browsing and discovery, as well as one of the premier spots for people watching in the entire city. I always find titles here and most are quite reasonably priced. I routinely pull rare or out of print texts in subjects I collect. The bags for purchase are sturdy. The staff are legendary studies in a certain New York attitude: arch friendliness and confident skepticism; insider banter bellows from their perch above the customers. They\u2019re almost like pharmacists that way. In short, you shop at the Strand for more than the books, even if the books are what keeps you coming back.",
+      "text": "You already know it is the epic used bookstore of New York and the entire eastern seaboard. It’s a comfortable yet intimate space for browsing and discovery, as well as one of the premier spots for people watching in the entire city. I always find titles here and most are quite reasonably priced. I routinely pull rare or out of print texts in subjects I collect. The bags for purchase are sturdy. The staff are legendary studies in a certain New York attitude: arch friendliness and confident skepticism; insider banter bellows from their perch above the customers. They’re almost like pharmacists that way. In short, you shop at the Strand for more than the books, even if the books are what keeps you coming back.",
       "time": 1746703593,
       "translated": false
     }
@@ -441,5 +441,19 @@
   "vicinity": "Strand Book Store, 828 Broadway, New York",
   "website": "https://www.strandbooks.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:06:10.727752+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:10.727752+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:00.880994+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.strandbooks.com/",
+        "status": "HTTP_403",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -161,13 +161,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:30\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:30\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:30\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200911:30\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200911:30\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 10:30 PM",
+      "Tuesday: 12:00 – 10:30 PM",
+      "Wednesday: 12:00 – 10:30 PM",
+      "Thursday: 12:00 – 10:30 PM",
+      "Friday: 12:00 – 11:30 PM",
+      "Saturday: 12:00 – 11:30 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -274,13 +274,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:30\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:30\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:30\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200911:30\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200911:30\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 10:30 PM",
+      "Tuesday: 12:00 – 10:30 PM",
+      "Wednesday: 12:00 – 10:30 PM",
+      "Thursday: 12:00 – 10:30 PM",
+      "Friday: 12:00 – 11:30 PM",
+      "Saturday: 12:00 – 11:30 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -383,7 +383,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNY1nKrjlhzsioz_jjunM9-s_gPnE590tTUYfVI-Vo9P7a1A=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "First time trying Polish food, and Karczma made a solid impression. I\u2019m still dreaming about the asparagus wrapped in bacon, easily the highlight. The sausages were super flavorful too. The location is super convenient, right by the train, and the cozy, rustic decor totally reminded me of a restaurant I visited in Prague years ago\n\nWe really loved the vibes, but the service left a lot to be desired. Maybe they\u2019re going for that classic European service style but, this is NYC, and when the check comes with a suggested 20% tip, expectations are a little higher. We felt nervous to ask for water because our server seemed to have her bad day by our interaction, she never filled our glass didn\u2019t check in at all after taking the order that she didn't realize we were missing one dish. The person who seemed to be busser helped pour us water and got our missing dish checked. Not ideal.\n\nThat said, the food and atmosphere were great, and we\u2019d definitely consider coming back if we\u2019re in the neighborhood.",
+      "text": "First time trying Polish food, and Karczma made a solid impression. I’m still dreaming about the asparagus wrapped in bacon, easily the highlight. The sausages were super flavorful too. The location is super convenient, right by the train, and the cozy, rustic decor totally reminded me of a restaurant I visited in Prague years ago\n\nWe really loved the vibes, but the service left a lot to be desired. Maybe they’re going for that classic European service style but, this is NYC, and when the check comes with a suggested 20% tip, expectations are a little higher. We felt nervous to ask for water because our server seemed to have her bad day by our interaction, she never filled our glass didn’t check in at all after taking the order that she didn't realize we were missing one dish. The person who seemed to be busser helped pour us water and got our missing dish checked. Not ideal.\n\nThat said, the food and atmosphere were great, and we’d definitely consider coming back if we’re in the neighborhood.",
       "time": 1745429989,
       "translated": false
     },
@@ -407,7 +407,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlOX3x0SS8eDXDSQHkM8CstMryfIOQ8XP5HGIFC8dHvj1jVcOa=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "6 months ago",
-      "text": "I recently enjoyed an incredible Polish meal featuring a hearty plate for two persons filled with bacon, salmon, blood sausage, and traditional Polish kielbasa, all perfectly cooked and flavorful. The baked potatoes were a comforting side, crispy on the outside and soft on the inside. Pairing the meal with a refreshing draft beer completed the experience.\nThe atmosphere was warm and inviting, making it the perfect spot for a relaxed evening with my friend. If you\u2019re looking for authentic Polish flavors in a cozy setting, this place is a must-visit! Thank you\u2764\ufe0f",
+      "text": "I recently enjoyed an incredible Polish meal featuring a hearty plate for two persons filled with bacon, salmon, blood sausage, and traditional Polish kielbasa, all perfectly cooked and flavorful. The baked potatoes were a comforting side, crispy on the outside and soft on the inside. Pairing the meal with a refreshing draft beer completed the experience.\nThe atmosphere was warm and inviting, making it the perfect spot for a relaxed evening with my friend. If you’re looking for authentic Polish flavors in a cozy setting, this place is a must-visit! Thank you❤️",
       "time": 1733775177,
       "translated": false
     },
@@ -419,7 +419,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5KEIMPoA1bGuYfDAidQZEmzl00lSDKLi4CW_o4jk-QnNdRgqc=s128-c0x00000000-cc-rp-mo-ba7",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "My big bro is Polish, and almost gave me a knuckle sandwich when I said that Polish food is just a little bland. He said we had to try Karczma in Greenpoint, as it\u2019s his favorite Polish restaurant in the city.\n\nWe sat down in the rustic farmhouse interior while live Polish music played in the background. As I\u2019ve gotten older, these are the nights that I\u2019ve learned to appreciate more. A nice Friday night dinner with the homies, where the stressful work week feels like a distant memory. It\u2019s a good antidote to the vicious cycles of self loathing or \u201cwhat am I doing with my life\u201d that can sometimes consume me.\n\nThe Polish homie ordered an authentic Polish dinner for us. Our feast for the 3 of us consisted of Hand made perogies, grilled plate for 3, Spicy beef Goulash, Traditional pork cutlet, herring in cream, potato pancakes, and roasted hocks in beer.\n\nI\u2019m used to portion sizes at places in New York to be TINY, but these were enormous. We lowkey got mogged by all this food. The bang for your buck in here is INSANE. My favorites were the Mix grilled plate and the roasted hocks.\n\nThat mixed grilled plate for \u201c3\u201d is really for 5 GROWN men. So much meat. It was so damn good though, the bacon and chicken went crazy.\n\nThe roasted hocks is the shank portion of the pig's hind leg, and came with a big steak knife in it. It was rich and had a smoky flavor, and was so damn tender. Definitely get the roasted hocks if you come.\n\nOn the other end of the spectrum, the herring in cream was just not for me. Was the fishiest fish I've ever tasted, but I'll try anything once.\n\n$60 each after tip was SO reasonable for this feast we had. I gotta start putting more respect on Polish food, that\u2019s on me\u2026\n\nIG @jnov_\nTiktok @jnov__",
+      "text": "My big bro is Polish, and almost gave me a knuckle sandwich when I said that Polish food is just a little bland. He said we had to try Karczma in Greenpoint, as it’s his favorite Polish restaurant in the city.\n\nWe sat down in the rustic farmhouse interior while live Polish music played in the background. As I’ve gotten older, these are the nights that I’ve learned to appreciate more. A nice Friday night dinner with the homies, where the stressful work week feels like a distant memory. It’s a good antidote to the vicious cycles of self loathing or “what am I doing with my life” that can sometimes consume me.\n\nThe Polish homie ordered an authentic Polish dinner for us. Our feast for the 3 of us consisted of Hand made perogies, grilled plate for 3, Spicy beef Goulash, Traditional pork cutlet, herring in cream, potato pancakes, and roasted hocks in beer.\n\nI’m used to portion sizes at places in New York to be TINY, but these were enormous. We lowkey got mogged by all this food. The bang for your buck in here is INSANE. My favorites were the Mix grilled plate and the roasted hocks.\n\nThat mixed grilled plate for “3” is really for 5 GROWN men. So much meat. It was so damn good though, the bacon and chicken went crazy.\n\nThe roasted hocks is the shank portion of the pig's hind leg, and came with a big steak knife in it. It was rich and had a smoky flavor, and was so damn tender. Definitely get the roasted hocks if you come.\n\nOn the other end of the spectrum, the herring in cream was just not for me. Was the fishiest fish I've ever tasted, but I'll try anything once.\n\n$60 each after tip was SO reasonable for this feast we had. I gotta start putting more respect on Polish food, that’s on me…\n\nIG @jnov_\nTiktok @jnov__",
       "time": 1741612818,
       "translated": false
     },
@@ -459,5 +459,34 @@
   "emails": [
     "info@karczmabrooklyn.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:24.157188+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:24.157188+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:08.224962+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@karczmabrooklyn.com": [
+        "https://karczmabrooklyn.com/en/",
+        "https://karczmabrooklyn.com/en/contact/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://karczmabrooklyn.com/en/",
+        "status": "ok",
+        "emails": [
+          "info@karczmabrooklyn.com"
+        ]
+      },
+      {
+        "url": "https://karczmabrooklyn.com/en/contact/",
+        "status": "ok",
+        "emails": [
+          "info@karczmabrooklyn.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://karczmabrooklyn.com/en/contact/"
+    ]
+  }
 }

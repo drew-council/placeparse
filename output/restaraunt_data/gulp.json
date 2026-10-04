@@ -156,13 +156,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 8:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 8:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 8:30\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 8:30 AM – 11:00 PM",
+      "Tuesday: 8:30 AM – 11:00 PM",
+      "Wednesday: 8:30 AM – 11:00 PM",
+      "Thursday: 11:30 AM – 11:00 PM",
+      "Friday: 8:30 AM – 12:00 AM",
+      "Saturday: 8:30 AM – 12:00 AM",
+      "Sunday: 8:30 AM – 11:00 PM"
     ]
   },
   "delivery": true,
@@ -265,13 +265,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 8:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 8:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 8:30\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 8:30 AM – 11:00 PM",
+      "Tuesday: 8:30 AM – 11:00 PM",
+      "Wednesday: 8:30 AM – 11:00 PM",
+      "Thursday: 11:30 AM – 11:00 PM",
+      "Friday: 8:30 AM – 12:00 AM",
+      "Saturday: 8:30 AM – 12:00 AM",
+      "Sunday: 8:30 AM – 11:00 PM"
     ]
   },
   "photos": [
@@ -318,7 +318,7 @@
     {
       "height": 2634,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/111921354913572384143\">Andy Chang (\u5f35\u5bb6\u8c6a)</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/111921354913572384143\">Andy Chang (張家豪)</a>"
       ],
       "photo_reference": "ATKogpdWWtt9RDKIY2Akj0XCKtR7PIpkRpVML4ElxasxI3ZlMp_fPfkvxQEfwWyMecvfkS5BK32Z5UrNK0fyj3XZAs798VnCnjyGB6_LZpxrw753RxT3H3QCWPTqB-NP0qYJiOJEM5VZBOv-Z0429tPCLXzw07emLenQtAo5Il5iVYlZLIlaVvypOTFwqsxFZVzsBo_XRQp6Z8JMqKY8pO70KKhdxKKei7leKFcdn4lfIGE_15SxMv-CJEVeZczzIUHFWrVShA65tVJT2mHd69zWOeCwfPoAzBqo8ApV3-H0b8NH3YRm5fKQvIsplEKGd62J8dySS_PY1aZ8zJ91n6qXLpGXmOblO9-7-fBbw1s_nNV_9q1J-bRJ8Gx_iTe5aUgDpA5t-eGfMY_WpsdW5hRY_agP48pJ_8AfGSAZoSQDQUmRa1d_",
       "width": 3510
@@ -326,7 +326,7 @@
     {
       "height": 3024,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/111921354913572384143\">Andy Chang (\u5f35\u5bb6\u8c6a)</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/111921354913572384143\">Andy Chang (張家豪)</a>"
       ],
       "photo_reference": "ATKogpehBR1TTLNW-uv5FfRbZSiLfzOL48qxlPSPJoHhAwJzu-q-CLZZMB8UQANiDEKg3yCs_BxtyejNW16Jb1CbN9nWBZfOcmxQiyP2KuPaJZmvAqiEXT2RJWbi1KCEnIIyQZbkdBre-TyNFUvu9YRmieRO9aYg6IM_S3wQXvRHSNRUBGMas0U1PTORzcCPD1gFsC4GaYnLey4jyMBRcWXB167ebGqw30VXcmIbzA9GzhWlzi3jvR4YJCfSuiDo_-wBNbREfchkiZfBBbd81TeGjB9ZfT3sxcs8nnSP_GJyLVKUpSPZbKDbQ5zj9zK0gsnZdQGdJkSH27yYDZw3nylX-37up2Ja1nlAW4sg34KCQWSnm4x8DkcWAVSU2mGmt6EPOqvA4ZxejduY-Q0M4bI3hrYJ5jZ2apDs6I0vN-cxPKI",
       "width": 4032
@@ -443,5 +443,37 @@
   "utc_offset": -240,
   "vicinity": "42-45 27th St, Long Island City",
   "website": "https://www.gulpjiabun.com/",
-  "business_status_checked_at": "2026-10-03T20:05:13.419428+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:13.419428+00:00",
+  "emails": [
+    "contact@gulpjiabun.com",
+    "jerseycity@gulpjiabun.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:54.879904+00:00",
+    "outcome": "found",
+    "sources": {
+      "contact@gulpjiabun.com": [
+        "https://www.gulpjiabun.com/locations"
+      ],
+      "jerseycity@gulpjiabun.com": [
+        "https://www.gulpjiabun.com/locations"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.gulpjiabun.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.gulpjiabun.com/locations",
+        "status": "ok",
+        "emails": [
+          "contact@gulpjiabun.com",
+          "jerseycity@gulpjiabun.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

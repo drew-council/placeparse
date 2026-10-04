@@ -1,0 +1,114 @@
+{
+  "adr_address": "<span class=\"street-address\">55 Bond St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "55 Bond St, New York, NY 10012, USA",
+  "formatted_phone_number": "(929) 713-0733",
+  "geometry": {
+    "location": {
+      "lat": 40.7257881,
+      "lng": -73.99263859999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.72716348029149,
+        "lng": -73.99123431970848
+      },
+      "southwest": {
+        "lat": 40.7244655197085,
+        "lng": -73.9939322802915
+      }
+    }
+  },
+  "international_phone_number": "+1 929-713-0733",
+  "name": "Fish Cheeks",
+  "place_id": "ChIJgc7fPIVZwokRQMnqTxTf_Qk",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=719976793782274368",
+  "website": "https://www.fishcheeksnyc.com/",
+  "details_checked_at": "2026-10-03T21:59:25.244424+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:25.244424+00:00",
+  "emails": [
+    "info@fishcheeksnyc.com",
+    "reservation@fishcheeksbk.com",
+    "reservation@fishcheeksnyc.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:01.823713+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@fishcheeksnyc.com": [
+        "https://www.fishcheeksnyc.com/",
+        "https://www.fishcheeksnyc.com/about/",
+        "https://www.fishcheeksnyc.com/reservations/",
+        "https://www.fishcheeksnyc.com/location/fish-cheeks/",
+        "https://www.fishcheeksnyc.com/large-parties-and-private-events/",
+        "https://www.fishcheeksnyc.com/location/fish-cheeks-williamsburg/"
+      ],
+      "reservation@fishcheeksbk.com": [
+        "https://www.fishcheeksnyc.com/reservations/"
+      ],
+      "reservation@fishcheeksnyc.com": [
+        "https://www.fishcheeksnyc.com/reservations/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.fishcheeksnyc.com/",
+        "status": "ok",
+        "emails": [
+          "info@fishcheeksnyc.com"
+        ]
+      },
+      {
+        "url": "https://www.fishcheeksnyc.com/about/",
+        "status": "ok",
+        "emails": [
+          "info@fishcheeksnyc.com"
+        ]
+      },
+      {
+        "url": "https://www.fishcheeksnyc.com/reservations/",
+        "status": "ok",
+        "emails": [
+          "info@fishcheeksnyc.com",
+          "reservation@fishcheeksbk.com",
+          "reservation@fishcheeksnyc.com"
+        ]
+      },
+      {
+        "url": "https://www.fishcheeksnyc.com/location/fish-cheeks/",
+        "status": "ok",
+        "emails": [
+          "info@fishcheeksnyc.com"
+        ]
+      },
+      {
+        "url": "https://www.fishcheeksnyc.com/large-parties-and-private-events/",
+        "status": "ok",
+        "emails": [
+          "info@fishcheeksnyc.com"
+        ]
+      },
+      {
+        "url": "https://www.fishcheeksnyc.com/location/fish-cheeks-williamsburg/",
+        "status": "ok",
+        "emails": [
+          "info@fishcheeksnyc.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.fishcheeksnyc.com/",
+      "https://www.fishcheeksnyc.com/about/",
+      "https://www.fishcheeksnyc.com/reservations/",
+      "https://www.fishcheeksnyc.com/location/fish-cheeks/",
+      "https://www.fishcheeksnyc.com/large-parties-and-private-events/",
+      "https://www.fishcheeksnyc.com/location/fish-cheeks-williamsburg/"
+    ]
+  }
+}

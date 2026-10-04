@@ -156,13 +156,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -265,13 +265,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -374,7 +374,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVedGy_NFbUqoDWK8BeT6vkT49tPUtTDLFSXk--5FQ_zR1Ls0YQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "3 months ago",
-      "text": "a good place to socialize! the staff was also very friendly. one of them noticed our table was a bit wobbly and came by to adjust it. there is a 20% gratuity for every dine in party regardless of size. as for the food.. maybe it wasn\u2019t for our palettes? it was a little too sweet for us and we had ask the waiter what they recommended and he did mention one of them was on the sweeter side but we didn\u2019t expect it to taste THAT sweet. empanadas were a bit on the drier side as well but we did love the crispy pork. wouldn\u2019t come back but overall it was a nice experience!",
+      "text": "a good place to socialize! the staff was also very friendly. one of them noticed our table was a bit wobbly and came by to adjust it. there is a 20% gratuity for every dine in party regardless of size. as for the food.. maybe it wasn’t for our palettes? it was a little too sweet for us and we had ask the waiter what they recommended and he did mention one of them was on the sweeter side but we didn’t expect it to taste THAT sweet. empanadas were a bit on the drier side as well but we did love the crispy pork. wouldn’t come back but overall it was a nice experience!",
       "time": 1741012719,
       "translated": false
     },
@@ -398,7 +398,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9zAuA214YLnkbRPk9JHatqeVSoMSBUXiJtj5Iofg-rnDifg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Visited for brunch and the food was great! Very filling and tasty! I did the bottomless brunch and loved that the drinks kept coming! Definitely worth the money! The staff was amazing as well! Very friendly and gave great recommendations. My favorite was the cr\u00e8me br\u00fbl\u00e9e cheesecake! Check them out!",
+      "text": "Visited for brunch and the food was great! Very filling and tasty! I did the bottomless brunch and loved that the drinks kept coming! Definitely worth the money! The staff was amazing as well! Very friendly and gave great recommendations. My favorite was the crème brûlée cheesecake! Check them out!",
       "time": 1744002690,
       "translated": false
     },
@@ -445,5 +445,19 @@
   "vicinity": "34-39 31st St, Queens",
   "website": "https://www.thearepalady.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:41.180041+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:41.180041+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:07.164944+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.thearepalady.com/",
+        "status": "ValueError",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

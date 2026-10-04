@@ -146,11 +146,11 @@
     "weekday_text": [
       "Monday: Closed",
       "Tuesday: Closed",
-      "Wednesday: 5:30\u2009\u2013\u20098:30\u202fPM",
-      "Thursday: 5:30\u2009\u2013\u20098:30\u202fPM",
-      "Friday: 5:30\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 5:30\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 5:30\u2009\u2013\u20098:30\u202fPM"
+      "Wednesday: 5:30 – 8:30 PM",
+      "Thursday: 5:30 – 8:30 PM",
+      "Friday: 5:30 – 9:00 PM",
+      "Saturday: 5:30 – 9:00 PM",
+      "Sunday: 5:30 – 8:30 PM"
     ]
   },
   "delivery": true,
@@ -235,11 +235,11 @@
     "weekday_text": [
       "Monday: Closed",
       "Tuesday: Closed",
-      "Wednesday: 5:30\u2009\u2013\u20098:30\u202fPM",
-      "Thursday: 5:30\u2009\u2013\u20098:30\u202fPM",
-      "Friday: 5:30\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 5:30\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 5:30\u2009\u2013\u20098:30\u202fPM"
+      "Wednesday: 5:30 – 8:30 PM",
+      "Thursday: 5:30 – 8:30 PM",
+      "Friday: 5:30 – 9:00 PM",
+      "Saturday: 5:30 – 9:00 PM",
+      "Sunday: 5:30 – 8:30 PM"
     ]
   },
   "photos": [
@@ -347,7 +347,7 @@
       "translated": false
     },
     {
-      "author_name": "T\u00fclin Bildirici",
+      "author_name": "Tülin Bildirici",
       "author_url": "https://www.google.com/maps/contrib/112455689873396355276/reviews",
       "language": "en",
       "original_language": "en",
@@ -390,7 +390,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2oV3CJNF8bx8w42hxUCu5ENRbsoTmTBNdr_IHMjv92iRdUw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Wow- what great food & drinks but most of all customer service. They went above and beyond to make my birthday dinner extra special. Beautiful night so we sat outside. Parking not a problem like a lot of places in Durham. Deviled eggs & potato croquettes were good but the biscuits- whoah. Pork chop- amazingly tender & flavorful. Salmon delish, steak & mushroom risotto/ everything was so good. And all 3 desserts, banana pudding, strawberry shortcake & brownie- with a birthday banner & candle, and the owner coming to see us. Can\u2019t wait to go again!",
+      "text": "Wow- what great food & drinks but most of all customer service. They went above and beyond to make my birthday dinner extra special. Beautiful night so we sat outside. Parking not a problem like a lot of places in Durham. Deviled eggs & potato croquettes were good but the biscuits- whoah. Pork chop- amazingly tender & flavorful. Salmon delish, steak & mushroom risotto/ everything was so good. And all 3 desserts, banana pudding, strawberry shortcake & brownie- with a birthday banner & candle, and the owner coming to see us. Can’t wait to go again!",
       "time": 1748090934,
       "translated": false
     }
@@ -415,5 +415,50 @@
   "vicinity": "501 Washington St C, Durham",
   "website": "https://plumdurham.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:55.848497+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:55.848497+00:00",
+  "emails": [
+    "hello@plumdurham.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:45.729981+00:00",
+    "outcome": "found",
+    "sources": {
+      "hello@plumdurham.com": [
+        "https://www.plumdurham.com/contact",
+        "https://www.plumdurham.com/reservations"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.plumdurham.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.plumdurham.com/contact",
+        "status": "ok",
+        "emails": [
+          "hello@plumdurham.com"
+        ]
+      },
+      {
+        "url": "https://www.plumdurham.com/about-us",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.plumdurham.com/reservations",
+        "status": "ok",
+        "emails": [
+          "hello@plumdurham.com"
+        ]
+      },
+      {
+        "url": "https://www.plumdurham.com/special-events",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

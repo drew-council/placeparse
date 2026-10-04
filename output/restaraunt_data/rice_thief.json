@@ -175,12 +175,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 11:30 AM – 3:00 PM, 5:00 – 11:00 PM",
+      "Sunday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -294,12 +294,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 11:30 AM – 3:00 PM, 5:00 – 11:00 PM",
+      "Sunday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -402,7 +402,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2Tq1Qt2umA_DYXGfY8Oxr6EYWXDEeXFbA8wIEf1u_DIAq1pE=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "If you\u2019re a fan of marinated seafood, Rice Thief is an absolute gem \u2014 hands down one of the best in NYC. The quality and flavor of every dish blew me away, but the standout star has to be their new Rice Thief Tower. It\u2019s not just a feast for the taste buds but also a visual masterpiece. Every tier is packed with ultra-fresh shrimp, abalone, scallops, and their signature Korean raw marinated crab \u2014 beautifully seasoned and perfectly balanced.\n\nThe service was impeccable. The staff were incredibly friendly and attentive, making the entire experience warm and welcoming. The vibe of the place is modern yet cozy, perfect for both casual dinners and special nights out.\n\nCan\u2019t wait to come back!",
+      "text": "If you’re a fan of marinated seafood, Rice Thief is an absolute gem — hands down one of the best in NYC. The quality and flavor of every dish blew me away, but the standout star has to be their new Rice Thief Tower. It’s not just a feast for the taste buds but also a visual masterpiece. Every tier is packed with ultra-fresh shrimp, abalone, scallops, and their signature Korean raw marinated crab — beautifully seasoned and perfectly balanced.\n\nThe service was impeccable. The staff were incredibly friendly and attentive, making the entire experience warm and welcoming. The vibe of the place is modern yet cozy, perfect for both casual dinners and special nights out.\n\nCan’t wait to come back!",
       "time": 1744599661,
       "translated": false
     },
@@ -426,7 +426,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWy5BrJdxPDVj792dST1trNYk8_jgEDBZP2w3FXoVQmogbvwnJm=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "This was our first time trying Korean raw marinated crab, and it was amazing! Rice Thief could easily be one of the best restaurants in LIC. The dining experience felt special from start to finish \u2014 we honestly have no cons to share.\n\nWe ordered the Half + Half Combo Platter, which is perfect for two people who want to try both marinades. Both flavors were sweet yet well-balanced, and equally delicious. Eating the crab with our hands was messy but added to the fun and authenticity of the experience. We also tried the Spicy Pork Belly, which was one of the best we\u2019ve ever had. With such excellent dishes, it\u2019s safe to assume the rest of their Korean menu is just as impressive.\n\nWhen choosing between the two desserts \u2014 the Shikye Rice Punch and the Pumpkin Rice Punch \u2014 we couldn\u2019t decide. So, our waiter kindly brought out half portions of each drink so we could enjoy both without committing to full servings. It was such a thoughtful gesture that made the experience even more memorable. We are definitely coming back to explore more of their menu. If you\u2019re looking for a unique and memorable dining experience, this spot is a must-try!",
+      "text": "This was our first time trying Korean raw marinated crab, and it was amazing! Rice Thief could easily be one of the best restaurants in LIC. The dining experience felt special from start to finish — we honestly have no cons to share.\n\nWe ordered the Half + Half Combo Platter, which is perfect for two people who want to try both marinades. Both flavors were sweet yet well-balanced, and equally delicious. Eating the crab with our hands was messy but added to the fun and authenticity of the experience. We also tried the Spicy Pork Belly, which was one of the best we’ve ever had. With such excellent dishes, it’s safe to assume the rest of their Korean menu is just as impressive.\n\nWhen choosing between the two desserts — the Shikye Rice Punch and the Pumpkin Rice Punch — we couldn’t decide. So, our waiter kindly brought out half portions of each drink so we could enjoy both without committing to full servings. It was such a thoughtful gesture that made the experience even more memorable. We are definitely coming back to explore more of their menu. If you’re looking for a unique and memorable dining experience, this spot is a must-try!",
       "time": 1741613640,
       "translated": false
     },
@@ -438,7 +438,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0V12X_j9IUKoiepDb2YQQgXmgfXGRqE9OUeoqRFZ5ocSBdooY=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "2 months ago",
-      "text": "If you can\u2019t eat spicy, please get the soy crab - which is the highlight of our meal! The spicy crabs are very spicy imo and just a lot of sauce on top so it can be a little too much.\nAtmosphere is awesome! Really chill and less stressful compared to other areas. Service is also fantastic, the waiters are very attentive.\n\nI don\u2019t recommend the jokbal/scallop (scallop doesn\u2019t have much taste) and the meat is a little dry. Overall an interesting experience since I have never tried raw crabs before lol",
+      "text": "If you can’t eat spicy, please get the soy crab - which is the highlight of our meal! The spicy crabs are very spicy imo and just a lot of sauce on top so it can be a little too much.\nAtmosphere is awesome! Really chill and less stressful compared to other areas. Service is also fantastic, the waiters are very attentive.\n\nI don’t recommend the jokbal/scallop (scallop doesn’t have much taste) and the meat is a little dry. Overall an interesting experience since I have never tried raw crabs before lol",
       "time": 1745625126,
       "translated": false
     },
@@ -450,7 +450,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuYj1LqsXHRqR_sXx39gcUrFwFnQzlGVxgEDClhIf025N5PZfP=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 3,
       "relative_time_description": "2 months ago",
-      "text": "Decent soy marinated raw seafood. The large premium gunsan crab wasn\u2019t definitely much better than the blue crab. And the red shrimp was much better than the white shrimp. Blue crab wasn\u2019t the freshest.\n\nLet them know if it\u2019s your birthday for free rice drinks.\n\nGood experience if you really want to try raw marinated seafood, but by the end of the meal, the platter starts to feel like too much seafood.",
+      "text": "Decent soy marinated raw seafood. The large premium gunsan crab wasn’t definitely much better than the blue crab. And the red shrimp was much better than the white shrimp. Blue crab wasn’t the freshest.\n\nLet them know if it’s your birthday for free rice drinks.\n\nGood experience if you really want to try raw marinated seafood, but by the end of the meal, the platter starts to feel like too much seafood.",
       "time": 1743956888,
       "translated": false
     }
@@ -472,5 +472,19 @@
   "utc_offset": -240,
   "vicinity": "39-37 30th St, Long Island City",
   "website": "https://www.instagram.com/ricethief.nyc",
-  "business_status_checked_at": "2026-10-03T20:05:59.804603+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:59.804603+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:50.523474+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.instagram.com/ricethief.nyc",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -1,0 +1,55 @@
+{
+  "adr_address": "<span class=\"street-address\">243 E 53rd St 2nd floor</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10022</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "243 E 53rd St 2nd floor, New York, NY 10022, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7571349,
+      "lng": -73.9677464
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7584326302915,
+        "lng": -73.9664134697085
+      },
+      "southwest": {
+        "lat": 40.7557346697085,
+        "lng": -73.9691114302915
+      }
+    }
+  },
+  "name": "SARISA Cafe",
+  "place_id": "ChIJOUvM4khZwokRq_jlqZmdi84",
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=14883162676881914027",
+  "website": "https://www.sarisacafe.com/",
+  "details_checked_at": "2026-10-03T21:59:38.788630+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:38.788630+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:23.377583+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.sarisacafe.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.sarisacafe.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:18.524818+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

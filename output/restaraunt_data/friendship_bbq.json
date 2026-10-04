@@ -168,13 +168,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM"
+      "Monday: 11:30 AM – 1:30 AM",
+      "Tuesday: 11:30 AM – 1:30 AM",
+      "Wednesday: 11:30 AM – 1:30 AM",
+      "Thursday: 11:30 AM – 1:30 AM",
+      "Friday: 11:30 AM – 1:30 AM",
+      "Saturday: 11:30 AM – 1:30 AM",
+      "Sunday: 11:30 AM – 1:30 AM"
     ]
   },
   "delivery": true,
@@ -281,13 +281,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM"
+      "Monday: 11:30 AM – 1:30 AM",
+      "Tuesday: 11:30 AM – 1:30 AM",
+      "Wednesday: 11:30 AM – 1:30 AM",
+      "Thursday: 11:30 AM – 1:30 AM",
+      "Friday: 11:30 AM – 1:30 AM",
+      "Saturday: 11:30 AM – 1:30 AM",
+      "Sunday: 11:30 AM – 1:30 AM"
     ]
   },
   "photos": [
@@ -358,7 +358,7 @@
     {
       "height": 4096,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/106069918958889011305\">\u9577\u6fa4Masami</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/106069918958889011305\">長澤Masami</a>"
       ],
       "photo_reference": "ATKogpcsBUtjRMLEg2YOlIQ28VUv4wC5DLxoiygIgbTqUuXJDQyjc74CzgYjuS8Aa5dFDlifKy0QG_PcL3lH-c3f94-2ZN6VpVbW-ci-G6yrjbD_jR2hOc0cskhWr9wQq056NpP0rXbaLW4Npb4VgdCIuvScIrE8LV48IQ5GwG2oEUUCBtjgEKJjeiIljyPswG8RMxX4ZCHpTmqOHEIykVPXA-pOlosqzrlHtXYI6k9cCPcKshVuZEPJgs4KJDYslzOVfWvX_H4Fyj4Ph9qn3Djbxa-x_1aPZz728f5Na4B6gYUHAPe_yXmcX6KPJ53CWlGL1YEOkAExzGNEwu_BgfqNGeGv1C9e-cIRNzwTVKNFvFr02BPEv3HQ3p9pponDkittzpCbI4o8OLDf63s_U-HSfAoj_-jem4SZ_3I9SBreTMdDSw",
       "width": 3072
@@ -407,7 +407,7 @@
       "translated": false
     },
     {
-      "author_name": "\u6797\u6c85\u8d24",
+      "author_name": "林沅贤",
       "author_url": "https://www.google.com/maps/contrib/110697540765223813017/reviews",
       "language": "en",
       "original_language": "en",
@@ -463,12 +463,47 @@
   "website": "https://www.friendshipbbq.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
-    "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
-    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
     "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
     "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+    "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
     "yangsong1201@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:10.177192+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:10.177192+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:50.684370+00:00",
+    "outcome": "found",
+    "sources": {
+      "yangsong1201@gmail.com": [
+        "https://www.friendshipbbq.com/",
+        "https://www.friendshipbbq.com/contact",
+        "https://www.friendshipbbq.com/about"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.friendshipbbq.com/",
+        "status": "ok",
+        "emails": [
+          "yangsong1201@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.friendshipbbq.com/contact",
+        "status": "ok",
+        "emails": [
+          "yangsong1201@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.friendshipbbq.com/about",
+        "status": "ok",
+        "emails": [
+          "yangsong1201@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

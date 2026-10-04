@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: 9:00 AM – 8:00 PM"
     ]
   },
   "delivery": true,
@@ -263,13 +263,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: 9:00 AM – 8:00 PM"
     ]
   },
   "photos": [
@@ -371,7 +371,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh01CsXyRrhSgopoKIp7L5GbPpLDcAXbCiMcT3Fph-UlWrCHGd=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Sweet Cake is such a hidden gem in Flushing! Their bakery items are so creative and different. Every dessert feels like something special. I\u2019ve tried a few and they\u2019ve all been super yummy, with unique flavors you don\u2019t find everywhere.\n\nThey also have tons of boba tea options, which makes it the perfect one-stop spot for sweets and drinks. The space is cozy and cute, perfect for a little self-care chill time or a girl date with your bestie. Definitely one of my favorite dessert spots in the area. I\u2019ll be back soon for sure!",
+      "text": "Sweet Cake is such a hidden gem in Flushing! Their bakery items are so creative and different. Every dessert feels like something special. I’ve tried a few and they’ve all been super yummy, with unique flavors you don’t find everywhere.\n\nThey also have tons of boba tea options, which makes it the perfect one-stop spot for sweets and drinks. The space is cozy and cute, perfect for a little self-care chill time or a girl date with your bestie. Definitely one of my favorite dessert spots in the area. I’ll be back soon for sure!",
       "time": 1747185317,
       "translated": false
     },
@@ -383,7 +383,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIo_8aSBLkHvHPYdHEkJh-pqjoyi3yyUiRukiWsxt5SZs4BwQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Now they have special set meal~\n$8: a special danish bread+ egg tart +small coffee! It\u2019s amazing combination!!!\n\nMy colleagues and friends like their eggs tarts very much. I always treat myself a bubble tea, makes myself happy!\n\nI bought 5 kinds of new danish breads, they are so delicious! Can\u2019t wait to try the rest of them!",
+      "text": "Now they have special set meal~\n$8: a special danish bread+ egg tart +small coffee! It’s amazing combination!!!\n\nMy colleagues and friends like their eggs tarts very much. I always treat myself a bubble tea, makes myself happy!\n\nI bought 5 kinds of new danish breads, they are so delicious! Can’t wait to try the rest of them!",
       "time": 1745551711,
       "translated": false
     },
@@ -395,7 +395,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDnHAUTSBLOfMtES7JDS3I3z1Cl9jClRpBA8UP-x0j2_BRjfpu=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "I always wanted to try this place out and today I finally had the chance. It succeeded my expectations! \ud83d\ude0aThe customer service was very good. I ordered a brown sugar milk tea and got a free sample! \ud83d\udc4f\ud83c\udffcThe prices are very reasonable especially with the high prices for drinks nowadays. I enjoyed the ambiance and will surely be back.\ud83c\udf38",
+      "text": "I always wanted to try this place out and today I finally had the chance. It succeeded my expectations! 😊The customer service was very good. I ordered a brown sugar milk tea and got a free sample! 👏🏼The prices are very reasonable especially with the high prices for drinks nowadays. I enjoyed the ambiance and will surely be back.🌸",
       "time": 1743016031,
       "translated": false
     },
@@ -407,7 +407,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5NDw-24s_KVtW0-9yKcF7Jx-PlYPFiNy2ADr_QJaTBxv77P9N=s128-c0x00000000-cc-rp-mo-ba7",
       "rating": 4,
       "relative_time_description": "a month ago",
-      "text": "Nice bakery with fresh pastries \ud83d\udc4d\n\nCycling 100 miles today and came here to refuel. Was welcomed in and advised to put my bike in the rear. \ud83d\ude4f\ud83c\udffb\n\nGot an Oolong tea as recommended. Enjoyed the Boba sugar bread & egg custard tart. Both excellent \ud83d\ude0a.\n\nPROS:\n1) unique assortment of pastries\n2) baked fresh on premise\n3) reasonably priced cakes for $38\n4) ample seating\n5) polite & courteous\n\nCONS:\n1) egg custard tart was small in size\n2) ambiance can be upgraded to a lounge style seating\n3) can use some plants to liven up the space",
+      "text": "Nice bakery with fresh pastries 👍\n\nCycling 100 miles today and came here to refuel. Was welcomed in and advised to put my bike in the rear. 🙏🏻\n\nGot an Oolong tea as recommended. Enjoyed the Boba sugar bread & egg custard tart. Both excellent 😊.\n\nPROS:\n1) unique assortment of pastries\n2) baked fresh on premise\n3) reasonably priced cakes for $38\n4) ample seating\n5) polite & courteous\n\nCONS:\n1) egg custard tart was small in size\n2) ambiance can be upgraded to a lounge style seating\n3) can use some plants to liven up the space",
       "time": 1747691411,
       "translated": false
     },
@@ -419,7 +419,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3zxLhpdfcbp2ihyRgBJxDsu3DjkJY5iCVapnclZeoscwbUSOf=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "great spot to grab a quick bite whether you\u2019re looking for savory or sweet. they also have a variety of drinks as well. inside is super spacious and located right in flushing!",
+      "text": "great spot to grab a quick bite whether you’re looking for savory or sweet. they also have a variety of drinks as well. inside is super spacious and located right in flushing!",
       "time": 1747763360,
       "translated": false
     }
@@ -437,5 +437,19 @@
   "utc_offset": -240,
   "vicinity": "137-06 Northern Blvd, Flushing",
   "website": "https://www.instagram.com/sweetcakenewyork/",
-  "business_status_checked_at": "2026-10-03T20:06:12.059090+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:12.059090+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:01.133434+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.instagram.com/sweetcakenewyork/",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

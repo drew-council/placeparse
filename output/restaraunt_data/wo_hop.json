@@ -162,13 +162,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 10:30 AM – 10:00 PM",
+      "Tuesday: 10:30 AM – 10:00 PM",
+      "Wednesday: 10:30 AM – 10:00 PM",
+      "Thursday: 10:30 AM – 10:00 PM",
+      "Friday: 10:30 AM – 10:00 PM",
+      "Saturday: 10:30 AM – 10:00 PM",
+      "Sunday: 10:30 AM – 9:00 PM"
     ]
   },
   "delivery": false,
@@ -275,13 +275,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 10:30 AM – 10:00 PM",
+      "Tuesday: 10:30 AM – 10:00 PM",
+      "Wednesday: 10:30 AM – 10:00 PM",
+      "Thursday: 10:30 AM – 10:00 PM",
+      "Friday: 10:30 AM – 10:00 PM",
+      "Saturday: 10:30 AM – 10:00 PM",
+      "Sunday: 10:30 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -384,7 +384,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_Xjv3V-uU2c3jcwVER2ukhHYmeMyda2efUbajg-NNP2C1KWI=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "From the moment you walk in, the atmosphere feels warm and welcoming. The walls are covered with police, fire department, and military patches, instantly giving the place a unique and local vibe. One of the coolest traditions is that guests can leave a signed dollar bill on the wall, adding a personal touch that makes the experience truly unforgettable.\n\nThe food was absolutely delicious, with the meat being a real highlight\u2014tender, flavorful, and perfectly cooked. The portions were generous, making the price-quality ratio more than worth it. On top of that, the staff was incredibly friendly and funny, creating a laid-back and enjoyable atmosphere.\n\nAt first, I was a bit skeptical, wondering if this was just another overhyped spot. But from the service to the food to the overall experience, it exceeded all expectations. Without a doubt, I\u2019ll be coming back!",
+      "text": "From the moment you walk in, the atmosphere feels warm and welcoming. The walls are covered with police, fire department, and military patches, instantly giving the place a unique and local vibe. One of the coolest traditions is that guests can leave a signed dollar bill on the wall, adding a personal touch that makes the experience truly unforgettable.\n\nThe food was absolutely delicious, with the meat being a real highlight—tender, flavorful, and perfectly cooked. The portions were generous, making the price-quality ratio more than worth it. On top of that, the staff was incredibly friendly and funny, creating a laid-back and enjoyable atmosphere.\n\nAt first, I was a bit skeptical, wondering if this was just another overhyped spot. But from the service to the food to the overall experience, it exceeded all expectations. Without a doubt, I’ll be coming back!",
       "time": 1743025051,
       "translated": false
     },
@@ -458,14 +458,44 @@
   "website": "http://wohop17.com/",
   "wheelchair_accessible_entrance": false,
   "emails": [
-    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
-    "c5095236fd2e4b8fae9ed6d73cdd81a3@sentry.wixpress.com",
     "0c52cb89aa4d4154857a1584b6701db6@sentry.wixpress.com",
-    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "7025fe2ce4ed466a9751d9607bc63a44@sentry.wixpress.com",
     "78f7996315bc402f9dcb8a2f974b82d1@sentry.wixpress.com",
-    "e0b4d631da7b4200828051f7f9c783e3@sentry-next.wixpress.com",
     "8c4075d5481d476e945486754f783364@sentry.io",
-    "7025fe2ce4ed466a9751d9607bc63a44@sentry.wixpress.com"
+    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+    "c5095236fd2e4b8fae9ed6d73cdd81a3@sentry.wixpress.com",
+    "e0b4d631da7b4200828051f7f9c783e3@sentry-next.wixpress.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:25.533527+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:25.533527+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:24.756295+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.wohop17.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.wohop17.com",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.wohop17.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.wohop17.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:12:34.826791+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

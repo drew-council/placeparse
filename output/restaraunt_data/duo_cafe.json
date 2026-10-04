@@ -150,12 +150,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 2:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 2:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 2:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 2:00\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 2:00 – 10:00 PM",
+      "Wednesday: 2:00 – 10:00 PM",
+      "Thursday: 2:00 – 10:00 PM",
+      "Friday: 2:00 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "dine_in": true,
@@ -248,12 +248,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 2:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 2:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 2:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 2:00\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 2:00 – 10:00 PM",
+      "Wednesday: 2:00 – 10:00 PM",
+      "Thursday: 2:00 – 10:00 PM",
+      "Friday: 2:00 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -355,7 +355,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzHXyYf-XaYRg1p3EiA1Klp7nS2CZ0KvbE6CVJw7o-iSgTXZ-7=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "Quiet, lovely little tea shop tucked away in the east village. I went on a weekday so it wasn\u2019t crowded and the vibe was very chill.\n\nYou get to smell all the fragrant tea and pick one from there. We got a set which came with some dried fruit, fresh fruit, sweet potato and biscuits.\n\nEverything was delicious, and surprisingly, not too overpriced. I will be back!",
+      "text": "Quiet, lovely little tea shop tucked away in the east village. I went on a weekday so it wasn’t crowded and the vibe was very chill.\n\nYou get to smell all the fragrant tea and pick one from there. We got a set which came with some dried fruit, fresh fruit, sweet potato and biscuits.\n\nEverything was delicious, and surprisingly, not too overpriced. I will be back!",
       "time": 1749007511,
       "translated": false
     },
@@ -367,7 +367,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURwFcrHzw8wmnPsRL0j7aSBj8iM---QlsBzxWuQlTS4c13NtKq=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "6 months ago",
-      "text": "Have to be honest, we skipped the tea set since my friends told us it was not really worth the price. So for dessert I only got \u2764\ufe0f\u200d\ud83d\udd25basque cheesecake, and I highly recommend! They did a great job.\nSpace was lovely and staff were nice and helpful. Good place for cute dates or friend hangouts.\n\n\u2728\ud83d\udc9c\ud83c\udf70Taro basque cheesecake was really good! The only thing I would recommend is to put less flower syrup on it, cause it covered all other flavors. Otherwise, the taro cheesecake itself was really delicious, creamy and thick.\n\nSweet potato & ice cream was a little bit normal, nothing too impressive.\n\n\ud83e\udd5b\ud83c\udf75Milky oolong tea was lovely. It smelled sweet and tasted smooth. I would recommend if you order tea pot.",
+      "text": "Have to be honest, we skipped the tea set since my friends told us it was not really worth the price. So for dessert I only got ❤️‍🔥basque cheesecake, and I highly recommend! They did a great job.\nSpace was lovely and staff were nice and helpful. Good place for cute dates or friend hangouts.\n\n✨💜🍰Taro basque cheesecake was really good! The only thing I would recommend is to put less flower syrup on it, cause it covered all other flavors. Otherwise, the taro cheesecake itself was really delicious, creamy and thick.\n\nSweet potato & ice cream was a little bit normal, nothing too impressive.\n\n🥛🍵Milky oolong tea was lovely. It smelled sweet and tasted smooth. I would recommend if you order tea pot.",
       "time": 1734501682,
       "translated": false
     },
@@ -419,5 +419,13 @@
   "user_ratings_total": 137,
   "utc_offset": -240,
   "vicinity": "223 E 5th St, New York",
-  "business_status_checked_at": "2026-10-03T20:05:03.745759+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:03.745759+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:34.277161+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

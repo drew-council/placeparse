@@ -214,13 +214,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Friday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -377,13 +377,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Friday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -406,7 +406,7 @@
     {
       "height": 4800,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/104603378461031640394\">Zooey L (\u58f3\u5b50)</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/104603378461031640394\">Zooey L (壳子)</a>"
       ],
       "photo_reference": "ATKogpcVT-iHwEPTL2xhZI_RtAUonwUVuYJjUuZ6Uw--yGc5ugKouyyRNFoVc6mM8CI6NZlSZHVcF286w_AZRgzUZWWVvRZEhYTNjmVKDLxOZVttftZt-u-oIXbvSt4Lugl8uchtjNc43Rr84mmQrKkupAeYz0sIwtQ-2KV-k3Z3NLvd0Q5L4AuD8O4x_JvciCZ4QLRR_z4fZQnu6lRJuSTb-R2MUUXzwnibhFOgikXVFIrYTQPp-A6HIpbzMJroMfcU-Y_cio9h9E1zuspQuj3bU9n0BXfnq-0Cop9gf4mEGp2K7KH_-UFt-dydWeT2rCoW5Oql4fkFjigE3SvujRZMhDxQxibnfKkpFLSIPeP2I3p7VK5IqPwYlwQ9iY_UfTynAiuZwrhv_kQ3iLgtyIN16N2WQEJJ2GtFnhgHSzMQiIGritjBuVNrh5fqqeKHYw",
       "width": 3600
@@ -422,7 +422,7 @@
     {
       "height": 3600,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/104603378461031640394\">Zooey L (\u58f3\u5b50)</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/104603378461031640394\">Zooey L (壳子)</a>"
       ],
       "photo_reference": "ATKogpdPvejWFpyL0IQxy6hhszRPCE3Tdv2F3QYmr44zI38VCoIuRG5EeSHTbzRQ_PhBgRTxkKyyd6bg65Uq-TLPmynQ3nat3hjXrU1bjU7gOh9_eP4jPSStgFLR8T4yj9HBcDP_3XxCqBcIxBG_N7mLCFoK5mU4VhuL3sjBES3qit8LeVGKKJp5ruuQVAALu4QjMNfgBjMPgxyVNNif4yA9SwiAJvmv-1RdHSg32eILPySLawAwvd0gO37oY0IPkTBtQcbznPLkGUF6RZzxBbc9uxjaf3Cf5HJgDXKsVS6agO3izGUHC7w-upoifjyW6ShXKxI_opdZ0e7tu3pnOjIpRSnCcp0HaT3ion4Aj7dKwb-JjonfPU4LcsIZxLzHj5rRh7VTeP4Bki0OchZSD2jRPOUm-ZGTNTCs1RRS9M-rW0W5hNeFCFRXTmp4IrO1_ozB",
       "width": 4800
@@ -498,7 +498,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5i0arxVHnPoFCV0T5PCj8-_C0oCIygHINnK6dpCBiyU5wIQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "I had the Summer Seafood Ceviche Cold Noodle and String Bean Tempura at Meijin Ramen NYC, and I absolutely loved it! The flavors were fresh and vibrant\u2014perfect for a hot day. The seafood was refreshing, and the tempura was crispy and light. Definitely coming back for more!",
+      "text": "I had the Summer Seafood Ceviche Cold Noodle and String Bean Tempura at Meijin Ramen NYC, and I absolutely loved it! The flavors were fresh and vibrant—perfect for a hot day. The seafood was refreshing, and the tempura was crispy and light. Definitely coming back for more!",
       "time": 1747435154,
       "translated": false
     },
@@ -515,7 +515,7 @@
       "translated": false
     },
     {
-      "author_name": "Zooey L (\u58f3\u5b50)",
+      "author_name": "Zooey L (壳子)",
       "author_url": "https://www.google.com/maps/contrib/104603378461031640394/reviews",
       "language": "en",
       "original_language": "en",
@@ -534,7 +534,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViGZ6yKgob1JswfhPNi23S5xdsKj-4HEdCU2HA2CNJr6NxiHh9=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "5 months ago",
-      "text": "This place has its positives, such as delicious food and a convenient location, but there were a few issues that left a less-than-pleasant impression. Firstly, there was no light in the restroom, which was quite uncomfortable. Secondly, it took over 10 minutes for the waitstaff to come and take our order, which is unacceptable for a restaurant with such a rating. Additionally, their appearance was not up to standard, which didn't add to the cozy atmosphere of the place. Considering these points, I\u2019m giving it 4 stars instead of 5. I hope the management takes note of these shortcomings and improves the service.",
+      "text": "This place has its positives, such as delicious food and a convenient location, but there were a few issues that left a less-than-pleasant impression. Firstly, there was no light in the restroom, which was quite uncomfortable. Secondly, it took over 10 minutes for the waitstaff to come and take our order, which is unacceptable for a restaurant with such a rating. Additionally, their appearance was not up to standard, which didn't add to the cozy atmosphere of the place. Considering these points, I’m giving it 4 stars instead of 5. I hope the management takes note of these shortcomings and improves the service.",
       "time": 1737838835,
       "translated": false
     }
@@ -690,13 +690,13 @@
       ],
       "type": "DELIVERY",
       "weekday_text": [
-        "Monday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-        "Tuesday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-        "Wednesday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-        "Thursday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-        "Friday: 12:00\u202fAM\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-        "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
-        "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+        "Monday: 12:00 – 2:45 PM, 5:00 – 10:00 PM",
+        "Tuesday: 12:00 – 2:45 PM, 5:00 – 10:00 PM",
+        "Wednesday: 12:00 – 2:45 PM, 5:00 – 10:00 PM",
+        "Thursday: 12:00 – 2:45 PM, 5:00 – 10:00 PM",
+        "Friday: 12:00 AM – 2:45 PM, 5:00 – 10:30 PM",
+        "Saturday: 12:00 – 10:30 PM",
+        "Sunday: 12:00 – 10:00 PM"
       ]
     },
     {
@@ -849,13 +849,13 @@
       ],
       "type": "TAKEOUT",
       "weekday_text": [
-        "Monday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-        "Tuesday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-        "Wednesday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-        "Thursday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-        "Friday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
-        "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
-        "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+        "Monday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+        "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+        "Wednesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+        "Thursday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+        "Friday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+        "Saturday: 12:00 – 10:30 PM",
+        "Sunday: 12:00 – 10:00 PM"
       ]
     }
   ],
@@ -882,10 +882,40 @@
   "website": "https://www.meijinramen.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
     "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
     "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
     "meijinramen@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:38.664784+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:38.664784+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:24.150685+00:00",
+    "outcome": "found",
+    "sources": {
+      "meijinramen@gmail.com": [
+        "https://www.meijinramen.com/",
+        "https://www.meijinramen.com/about"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.meijinramen.com/",
+        "status": "ok",
+        "emails": [
+          "meijinramen@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.meijinramen.com/about",
+        "status": "ok",
+        "emails": [
+          "meijinramen@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.meijinramen.com/",
+      "https://www.meijinramen.com/about"
+    ]
+  }
 }

@@ -191,13 +191,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 5:00 – 9:30 PM",
+      "Tuesday: 5:00 – 9:30 PM",
+      "Wednesday: 5:00 – 9:30 PM",
+      "Thursday: 5:00 – 9:30 PM",
+      "Friday: 12:00 – 2:45 PM, 5:00 – 9:30 PM",
+      "Saturday: 12:00 – 2:30 PM, 5:00 – 9:30 PM",
+      "Sunday: 12:00 – 2:45 PM, 5:00 – 9:30 PM"
     ]
   },
   "delivery": true,
@@ -332,13 +332,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 5:00 – 9:30 PM",
+      "Tuesday: 5:00 – 9:30 PM",
+      "Wednesday: 5:00 – 9:30 PM",
+      "Thursday: 5:00 – 9:30 PM",
+      "Friday: 12:00 – 2:45 PM, 5:00 – 9:30 PM",
+      "Saturday: 12:00 – 2:30 PM, 5:00 – 9:30 PM",
+      "Sunday: 12:00 – 2:45 PM, 5:00 – 9:30 PM"
     ]
   },
   "photos": [
@@ -441,7 +441,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK89nNnbaIJt-sQcY3rycCsv0uhxhxugLohx8hR665SmZZytA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "a month ago",
-      "text": "Great experience at red hook. We didn\u2019t have a reservation so took our chances with a walk in on a Thursday. Seated after 40 minutes outside. They are known for their burger which is an absolute MUST especially of you like peppercorn. Don\u2019t sleep on the wedge salad and pasta dishes well. Only 4 stars because they could use lighting outside and better tables. The server dropped hot sauce all over the table and our clothes. Worth the trek.",
+      "text": "Great experience at red hook. We didn’t have a reservation so took our chances with a walk in on a Thursday. Seated after 40 minutes outside. They are known for their burger which is an absolute MUST especially of you like peppercorn. Don’t sleep on the wedge salad and pasta dishes well. Only 4 stars because they could use lighting outside and better tables. The server dropped hot sauce all over the table and our clothes. Worth the trek.",
       "time": 1746370438,
       "translated": false
     },
@@ -453,7 +453,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzYwUQxYbURvBDdCUp-Abw42FsEq9cFG6tvipSfvADJnFbzA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "The burger of your dreams is at Red Hook Tavern. Incredibly juicy with a dry aged funk to it. Simple onion and nothing else needed. The fries are delicious hybrids between a chip and a fry. We also got the wedge salad with the thickest cut of bacon I\u2019ve ever seen. Fresh, herbaceous and smoky. If you come for lunch come early because we arrived at 11:30 to about 20 people ahead of us and by the time they opened the line was down the block. They only do one seating at lunch so they turned away a lot of people. This place deserves all the hype and praise it\u2019s been getting.",
+      "text": "The burger of your dreams is at Red Hook Tavern. Incredibly juicy with a dry aged funk to it. Simple onion and nothing else needed. The fries are delicious hybrids between a chip and a fry. We also got the wedge salad with the thickest cut of bacon I’ve ever seen. Fresh, herbaceous and smoky. If you come for lunch come early because we arrived at 11:30 to about 20 people ahead of us and by the time they opened the line was down the block. They only do one seating at lunch so they turned away a lot of people. This place deserves all the hype and praise it’s been getting.",
       "time": 1747588635,
       "translated": false
     },
@@ -465,7 +465,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvxvTBp1lgl25Ou3Nv-rFbJcsw-bl7gm_OGSsIG6becfyhmw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "My wife and visited Red Hook tavern around 8pm on a Thursday evening in May and were seated outside (no reservation, no wait for outside) during our New York Trip excited to try some of my favorite YouTubers \u201cfavorite burger spot in NYC\u201d.\n\nOnce seated, the server was very attentive considering we were the only couple seated outside. Never felt that abandoned feeling you sometimes get when seated outside at a table service restaurant.\n\nWe were here for the Burger, and it did NOT disappoint.  The burger was perfectly cooked to medium and was pink and juicy and was seasoned perfectly with a slight peppery kick! The fries were also hot and delicious. I\u2019m not one for thick burgers normally, but this one makes me want to re-consider that. I wish more places would learn how to make burgers like this!\n\nWill definitely recommend Red Hook to all my friends who visit NYC and hope to be back again one day soon!",
+      "text": "My wife and visited Red Hook tavern around 8pm on a Thursday evening in May and were seated outside (no reservation, no wait for outside) during our New York Trip excited to try some of my favorite YouTubers “favorite burger spot in NYC”.\n\nOnce seated, the server was very attentive considering we were the only couple seated outside. Never felt that abandoned feeling you sometimes get when seated outside at a table service restaurant.\n\nWe were here for the Burger, and it did NOT disappoint.  The burger was perfectly cooked to medium and was pink and juicy and was seasoned perfectly with a slight peppery kick! The fries were also hot and delicious. I’m not one for thick burgers normally, but this one makes me want to re-consider that. I wish more places would learn how to make burgers like this!\n\nWill definitely recommend Red Hook to all my friends who visit NYC and hope to be back again one day soon!",
       "time": 1750449273,
       "translated": false
     },
@@ -477,7 +477,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICmfN9f0K-aBMVjdduh5OfU-grYdsH4gv3G4GraM9AOuexBg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "I would make love to this burger it was so good. I\u2019m about to pull a plankton and steal the krabby patty formula because i want to know how to make a burger like this. Shrimp cocktail was a great starter, rainbow cookies to end were the perfect finish to a delightful meal. The atmosphere of the place is immaculate tavern vibes and the service was top knotch despite being packed. Loved everything about this place and only wish it were a bit easier to get to. Thank you Red Hook Tavern team!",
+      "text": "I would make love to this burger it was so good. I’m about to pull a plankton and steal the krabby patty formula because i want to know how to make a burger like this. Shrimp cocktail was a great starter, rainbow cookies to end were the perfect finish to a delightful meal. The atmosphere of the place is immaculate tavern vibes and the service was top knotch despite being packed. Loved everything about this place and only wish it were a bit easier to get to. Thank you Red Hook Tavern team!",
       "time": 1744858183,
       "translated": false
     },
@@ -489,7 +489,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvdIKY2FJUlc9BTk9ZWNw8YCCznXGxmE-ncjOBIdgcjAxzqgCy=s128-c0x00000000-cc-rp-mo-ba7",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Is this the best burger in New York? It\u2019s a pretty strong contender, with strong execution across all components and a cohesiveness that proves the whole can be more than the sum of parts. Service is friendly and efficient, and the options beyond the burger are tempting enough for a second visit. Enjoyed the wedge salad as well, and martinis are tasty!\n\nReservations are strongly encouraged but if you want to wait in line, don\u2019t bother if you\u2019re not there at least 40min before opening especially during peak times.",
+      "text": "Is this the best burger in New York? It’s a pretty strong contender, with strong execution across all components and a cohesiveness that proves the whole can be more than the sum of parts. Service is friendly and efficient, and the options beyond the burger are tempting enough for a second visit. Enjoyed the wedge salad as well, and martinis are tasty!\n\nReservations are strongly encouraged but if you want to wait in line, don’t bother if you’re not there at least 40min before opening especially during peak times.",
       "time": 1740929293,
       "translated": false
     }
@@ -561,11 +561,11 @@
       ],
       "type": "ONLINE_SERVICE_HOURS",
       "weekday_text": [
-        "Monday: 5:00\u2009\u2013\u20099:30\u202fPM",
-        "Tuesday: 5:00\u2009\u2013\u20099:30\u202fPM",
-        "Wednesday: 5:00\u2009\u2013\u20099:30\u202fPM",
-        "Thursday: 5:00\u2009\u2013\u20099:30\u202fPM",
-        "Friday: 12:00\u2009\u2013\u20093:00\u202fPM",
+        "Monday: 5:00 – 9:30 PM",
+        "Tuesday: 5:00 – 9:30 PM",
+        "Wednesday: 5:00 – 9:30 PM",
+        "Thursday: 5:00 – 9:30 PM",
+        "Friday: 12:00 – 3:00 PM",
         "Saturday: Closed",
         "Sunday: Closed"
       ]
@@ -616,9 +616,9 @@
         "Tuesday: Closed",
         "Wednesday: Closed",
         "Thursday: Closed",
-        "Friday: 12:00\u2009\u2013\u20093:00\u202fPM",
-        "Saturday: 12:00\u2009\u2013\u20093:00\u202fPM",
-        "Sunday: 12:00\u2009\u2013\u20093:00\u202fPM"
+        "Friday: 12:00 – 3:00 PM",
+        "Saturday: 12:00 – 3:00 PM",
+        "Sunday: 12:00 – 3:00 PM"
       ]
     }
   ],
@@ -640,5 +640,42 @@
   "vicinity": "329 Van Brunt St, Brooklyn",
   "website": "http://www.redhooktavern.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:58.815475+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:58.815475+00:00",
+  "emails": [
+    "reservations@redhooktavern.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:48.930648+00:00",
+    "outcome": "found",
+    "sources": {
+      "reservations@redhooktavern.com": [
+        "https://www.redhooktavern.com/contact"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.redhooktavern.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.redhooktavern.com/contact",
+        "status": "ok",
+        "emails": [
+          "reservations@redhooktavern.com"
+        ]
+      },
+      {
+        "url": "https://www.redhooktavern.com/reserve",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.redhooktavern.com/private-events",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -239,13 +239,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Friday: 12:00 – 3:30 PM, 5:00 – 11:00 PM",
+      "Saturday: 12:00 – 3:30 PM, 5:00 – 11:00 PM",
+      "Sunday: 12:00 – 3:30 PM, 5:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -422,13 +422,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Friday: 12:00 – 3:30 PM, 5:00 – 11:00 PM",
+      "Saturday: 12:00 – 3:30 PM, 5:00 – 11:00 PM",
+      "Sunday: 12:00 – 3:30 PM, 5:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -543,7 +543,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXShq7l7rPEqEHfVMUjTzl3UfrfBEw2SoG9Trg8AxZqYA278yJe=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "a month ago",
-      "text": "I took a trip to NYC today. I was in search of delicious Thai food for lunch and stumbled upon Soothr. I requested a table for two and waited about 15 minutes before being seated. The restaurant was very busy, but considering their consistent features in the Michelin Guide and strong reviews, that came as no surprise.\n\nThey do their best to accommodate everyone efficiently, giving each party 1.5 hours to dine and ensuring every seat is filled. If you\u2019re not very social or feel uncomfortable sitting close to other guests, this might not be the spot for you.\n\nI ordered the Had Yai Chicken, Shrimp Pad Thai, Beef Pad See Ew, and Mango Sticky Rice.\n\nThe Had Yai Chicken was fried to perfection\u2014crispy skin, savory meat, and packed with flavor. It was the standout of the meal.\n\nThe Shrimp Pad Thai and Beef Pad See Ew were good but both were a bit too sweet and lacked the level of spice I usually expect and enjoy in Thai dishes.\n\nThe Mango Sticky Rice was tasty, but for $15, the portion was disappointingly small.\n\nOverall, I wouldn\u2019t say this was the BEST Thai food I\u2019ve had but it was good. I\u2019d give Soothr another if I\u2019m in the area as some of the other menu items looked interesting.",
+      "text": "I took a trip to NYC today. I was in search of delicious Thai food for lunch and stumbled upon Soothr. I requested a table for two and waited about 15 minutes before being seated. The restaurant was very busy, but considering their consistent features in the Michelin Guide and strong reviews, that came as no surprise.\n\nThey do their best to accommodate everyone efficiently, giving each party 1.5 hours to dine and ensuring every seat is filled. If you’re not very social or feel uncomfortable sitting close to other guests, this might not be the spot for you.\n\nI ordered the Had Yai Chicken, Shrimp Pad Thai, Beef Pad See Ew, and Mango Sticky Rice.\n\nThe Had Yai Chicken was fried to perfection—crispy skin, savory meat, and packed with flavor. It was the standout of the meal.\n\nThe Shrimp Pad Thai and Beef Pad See Ew were good but both were a bit too sweet and lacked the level of spice I usually expect and enjoy in Thai dishes.\n\nThe Mango Sticky Rice was tasty, but for $15, the portion was disappointingly small.\n\nOverall, I wouldn’t say this was the BEST Thai food I’ve had but it was good. I’d give Soothr another if I’m in the area as some of the other menu items looked interesting.",
       "time": 1748276246,
       "translated": false
     },
@@ -555,7 +555,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_EMMCLCkRa0ymio5KFImjqzTAf_i4jdH-3S7oMKJvMENo3zM=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "a month ago",
-      "text": "I went to a Thai restaurant that\u2019s been on the Michelin list for four years in a row. Overall, it was pretty good. I can see why it\u2019s so highly rated! The beef was amazing\u2014so tender and perfectly seasoned. It was like every bite was a little piece of happiness. But the signature duck noodle soup was a bit of a surprise. It was kind of sweet, and I\u2019m just not a fan of sweet broths. Maybe it\u2019s more for people who like a bit of sweetness in their soup. Even though the duck noodle soup wasn\u2019t my favorite, the whole experience was still really nice.",
+      "text": "I went to a Thai restaurant that’s been on the Michelin list for four years in a row. Overall, it was pretty good. I can see why it’s so highly rated! The beef was amazing—so tender and perfectly seasoned. It was like every bite was a little piece of happiness. But the signature duck noodle soup was a bit of a surprise. It was kind of sweet, and I’m just not a fan of sweet broths. Maybe it’s more for people who like a bit of sweetness in their soup. Even though the duck noodle soup wasn’t my favorite, the whole experience was still really nice.",
       "time": 1747072223,
       "translated": false
     },
@@ -579,7 +579,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8UhVX8EAPGZZHxYJvvviK1MKXPCO0Q8Q0vwJ6u8PXVFXmOF4f=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "I recently visited Soothr Thai Restaurant for a team lunch, and it was an absolutely phenomenal experience that deserves every bit of praise! From the moment we walked in, the warm ambiance and attentive staff set the tone for a memorable meal. The team at Soothr went above and beyond, surprising us with complimentary dumplings and meatballs that were an unexpected delight\u2014bursting with flavor and showcasing their commitment to hospitality.\nFor appetizers, we ordered the duck rolls and fried fish dumplings, and both were outstanding. The duck rolls were perfectly crispy with tender, savory filling, paired with a dipping sauce that elevated every bite. The fried fish dumplings were equally impressive, with a delicate crunch giving way to a fresh, flavorful interior\u2014honestly, some of the best I\u2019ve had. For my entr\u00e9e, I chose the crab fried rice, and it was a revelation. Each grain was infused with umami goodness, studded with generous chunks of sweet crab meat, and perfectly balanced with subtle seasonings that let the ingredients shine.\nThe entire meal was a masterclass in Thai cuisine, blending bold flavors with refined execution. Soothr\u2019s attention to detail, from the presentation to the service, made our team lunch feel special. Whether you\u2019re a Thai food enthusiast or just looking for a great meal, Soothr is a must-visit gem in NYC. I\u2019m already looking forward to my next visit to explore more of their incredible menu! Highly recommend!",
+      "text": "I recently visited Soothr Thai Restaurant for a team lunch, and it was an absolutely phenomenal experience that deserves every bit of praise! From the moment we walked in, the warm ambiance and attentive staff set the tone for a memorable meal. The team at Soothr went above and beyond, surprising us with complimentary dumplings and meatballs that were an unexpected delight—bursting with flavor and showcasing their commitment to hospitality.\nFor appetizers, we ordered the duck rolls and fried fish dumplings, and both were outstanding. The duck rolls were perfectly crispy with tender, savory filling, paired with a dipping sauce that elevated every bite. The fried fish dumplings were equally impressive, with a delicate crunch giving way to a fresh, flavorful interior—honestly, some of the best I’ve had. For my entrée, I chose the crab fried rice, and it was a revelation. Each grain was infused with umami goodness, studded with generous chunks of sweet crab meat, and perfectly balanced with subtle seasonings that let the ingredients shine.\nThe entire meal was a masterclass in Thai cuisine, blending bold flavors with refined execution. Soothr’s attention to detail, from the presentation to the service, made our team lunch feel special. Whether you’re a Thai food enthusiast or just looking for a great meal, Soothr is a must-visit gem in NYC. I’m already looking forward to my next visit to explore more of their incredible menu! Highly recommend!",
       "time": 1744326660,
       "translated": false
     }
@@ -604,5 +604,27 @@
   "vicinity": "204 E 13th St, New York",
   "website": "http://soothrnyc.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:06:08.799930+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:08.799930+00:00",
+  "emails": [
+    "info@soothrnyc.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:58.743019+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@soothrnyc.com": [
+        "https://soothrnyc.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://soothrnyc.com/",
+        "status": "ok",
+        "emails": [
+          "info@soothrnyc.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

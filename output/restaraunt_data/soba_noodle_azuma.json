@@ -1,0 +1,66 @@
+{
+  "adr_address": "<span class=\"street-address\">251 W 55th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019-5202</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "251 W 55th St, New York, NY 10019, USA",
+  "formatted_phone_number": "(917) 262-0540",
+  "geometry": {
+    "location": {
+      "lat": 40.7653714,
+      "lng": -73.98308279999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.76661573029149,
+        "lng": -73.98179386970848
+      },
+      "southwest": {
+        "lat": 40.7639177697085,
+        "lng": -73.9844918302915
+      }
+    }
+  },
+  "international_phone_number": "+1 917-262-0540",
+  "name": "Soba Noodle Azuma",
+  "place_id": "ChIJjZXSAFhYwokR03OdsEup6mo",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=7704156255121404883",
+  "website": "http://www.sobaazuma55.com/",
+  "details_checked_at": "2026-10-03T21:59:28.504668+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:28.504668+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:24.311935+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.sobaazuma55.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.sobaazuma55.com/special",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.sobaazuma55.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.sobaazuma55.com/special",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:22.770050+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

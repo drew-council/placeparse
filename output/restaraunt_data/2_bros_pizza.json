@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
     ]
   },
   "delivery": true,
@@ -268,13 +268,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
     ]
   },
   "photos": [
@@ -425,7 +425,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWP4W8ArIoS56ZOZ0F2_oGe1pNRNfhaRXMynTbE07DG2uNo9ndUWg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Great cheese slices. 10/10. So fresh. Good deal with two cheese slices and a drink for $3.99 \ud83d\ude0d Could do with more seating areas",
+      "text": "Great cheese slices. 10/10. So fresh. Good deal with two cheese slices and a drink for $3.99 😍 Could do with more seating areas",
       "time": 1746443742,
       "translated": false
     }
@@ -449,5 +449,68 @@
   "vicinity": "557 8th Ave, New York",
   "website": "https://www.2brospizza.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:35.167952+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:35.167952+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:03.204854+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.2brospizza.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.2brospizza.com/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.2brospizza.com/Locations2/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.2brospizza.com/private-events/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.2brospizza.com/location/755-6th-ave-new-york-ny-10010/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.2brospizza.com/location/542-9th-ave-new-york-ny-10018/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.2brospizza.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.2brospizza.com/contact/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.2brospizza.com/Locations2/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.2brospizza.com/",
+      "https://www.2brospizza.com/contact/",
+      "https://www.2brospizza.com/Locations2/",
+      "https://www.2brospizza.com/private-events/",
+      "https://www.2brospizza.com/location/755-6th-ave-new-york-ny-10010/",
+      "https://www.2brospizza.com/location/542-9th-ave-new-york-ny-10018/"
+    ],
+    "browser_checked_at": "2026-10-03T22:07:07.163683+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

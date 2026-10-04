@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 12:00 – 9:00 PM",
+      "Tuesday: 12:00 – 9:00 PM",
+      "Wednesday: 12:00 – 9:00 PM",
+      "Thursday: 12:00 – 9:00 PM",
       "Friday: Closed",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20098:00\u202fPM"
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 8:00 PM"
     ]
   },
   "delivery": true,
@@ -268,13 +268,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 12:00 – 9:00 PM",
+      "Tuesday: 12:00 – 9:00 PM",
+      "Wednesday: 12:00 – 9:00 PM",
+      "Thursday: 12:00 – 9:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 8:00 PM"
     ]
   },
   "photos": [
@@ -377,7 +377,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBEiV076mQcIW_DgnU0veaydmVYbU9WEs6thCX--92MyJ1zxQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "a month ago",
-      "text": "I\u2019ve gone to Sobaya even before their Michelin credentials. I was recommended here by a family member and recently rediscovered it while doing some solo-exploring.\n\nI always grab their daily lunch combo as it gives you a bang for your buck. (If you\u2019re a college student in the area, you\u2019d be a fool not to give this place a chance.)\nBoth hot and cold soba options are solid (my brother prefers cold, I like hot) and we adore their dons.\n\nThere was one time I found something wrong with my order and they were so apologetic- immediately replacing my dish with a fresh one. I was happy to receive a fresh one (tempura deliciously hot out of the frier) and finished. That\u2019s when they gave me a free green tea cr\u00e8me br\u00fbl\u00e9e for my troubles. They didn\u2019t have to do that, but they were so kind and profusely apologizing for the earlier blunder that I couldn\u2019t help but tip well and applaud their service. My water was never empty!\n\nAll the food was delicious. Not too salty, not too sweet, but just right. Love Sobaya and will definitely keep coming back :)",
+      "text": "I’ve gone to Sobaya even before their Michelin credentials. I was recommended here by a family member and recently rediscovered it while doing some solo-exploring.\n\nI always grab their daily lunch combo as it gives you a bang for your buck. (If you’re a college student in the area, you’d be a fool not to give this place a chance.)\nBoth hot and cold soba options are solid (my brother prefers cold, I like hot) and we adore their dons.\n\nThere was one time I found something wrong with my order and they were so apologetic- immediately replacing my dish with a fresh one. I was happy to receive a fresh one (tempura deliciously hot out of the frier) and finished. That’s when they gave me a free green tea crème brûlée for my troubles. They didn’t have to do that, but they were so kind and profusely apologizing for the earlier blunder that I couldn’t help but tip well and applaud their service. My water was never empty!\n\nAll the food was delicious. Not too salty, not too sweet, but just right. Love Sobaya and will definitely keep coming back :)",
       "time": 1747788787,
       "translated": false
     },
@@ -389,7 +389,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIldPOOFcVlcvMpdVL7OLQqtqvwwud2mIovHXNEhW0VaW325lzaA=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "Didn\u2019t expect to enjoy this experience so much! Very kind service and super accommodating.\nI love the ambiance too! But mostly, the food. Truly the type of a meal you\u2019d get in Japan. High quality soba and fish.\nSpotlight on lunch menus \u2014 great value!",
+      "text": "Didn’t expect to enjoy this experience so much! Very kind service and super accommodating.\nI love the ambiance too! But mostly, the food. Truly the type of a meal you’d get in Japan. High quality soba and fish.\nSpotlight on lunch menus — great value!",
       "time": 1749648337,
       "translated": false
     },
@@ -413,7 +413,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWq5tpIs-Xj3WNUunvqI58To_5v90YsJj-LsRSYg_DrH7EKvE8=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Dined here with my son tonight. Wonderful restaurant and delicious authentic Japanese cuisine. The atmosphere was absolutely lovely and we had delicious udon and soba noodles that were top notch! My son recently visited Japan and said this restaurant made him feel as if he was transported magically and suddenly dining in Japan. Decor is on point and the staff were incredibly nice and very attentive. My son loves water and his glass was never empty as they were right on the ball checking to see if everyone was taken care of. We loved the matcha Creme br\u00fbl\u00e9es we had for dessert. Also not to be forgotten were our delicious appetizers\u2026.we had the seared duck and fried chicken Japanese style. Tasty! We shall definitely return to this gem of a restaurant!!",
+      "text": "Dined here with my son tonight. Wonderful restaurant and delicious authentic Japanese cuisine. The atmosphere was absolutely lovely and we had delicious udon and soba noodles that were top notch! My son recently visited Japan and said this restaurant made him feel as if he was transported magically and suddenly dining in Japan. Decor is on point and the staff were incredibly nice and very attentive. My son loves water and his glass was never empty as they were right on the ball checking to see if everyone was taken care of. We loved the matcha Creme brûlées we had for dessert. Also not to be forgotten were our delicious appetizers….we had the seared duck and fried chicken Japanese style. Tasty! We shall definitely return to this gem of a restaurant!!",
       "time": 1742436107,
       "translated": false
     },
@@ -451,9 +451,29 @@
   "website": "http://www.sobaya-nyc.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "hi@mystore.com",
     "13e49d785d8d4f828038b6136f3b48ba@sentry.io",
+    "hi@mystore.com",
     "info@sobaya-nyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:08.057448+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:08.057448+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:57.861382+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://sobaya.square.site/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://sobaya.square.site/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:24.211801+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

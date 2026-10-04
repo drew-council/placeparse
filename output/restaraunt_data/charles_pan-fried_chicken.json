@@ -189,7 +189,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV61bLmSkVXeqZm4TfN6ma4P9Va9bJyJ_41DU-2_LH119nn3FcC=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "I originally ordered from a different restaurant for tacos and my order was refunded and canceled. I guess they were closed but it said the wrong timing on Google so I decided I need to try Charles pan fried chicken it\u2019s been a long time I have been wanting to do so.\nI quickly called the restaurant to make sure they were still excepting orders for delivery as it was getting close to closing time. The lovely lady that answered the phone was so courteous and so absolutely helpful and sweet. I knew right away before I ordered that I was going to have a great experience, well I was crossing my fingers, but my wish just came true. I have never been happier with the customer service, the food, and the delivery time ever for any restaurant order I have placed online.\n\nI am very upset with myself that I forgot to order the cornbread but I did order mashed potatoes and gravy and they sent me yams but I get it they were closing and they probably didn\u2019t have it but I really wanted to taste the gravy. The yams were so amazing , the mac & cheese is off the hook. The coleslaw is OMG delicious, and the pan fried chicken is the juiciest chicken with the nicest crunchy exterior I have ever had ever! The barbecue rib sauce is stellar, and the ribs fall off the bone, so freaking good! I am so happy that I tried this restaurant finally I will definitely be ordering from them very very soon! I highly recommend, and I cannot believe I could\u2019ve been enjoying the best dinner ever so many times already!\nEverything everything tasted so phenomenal! Bravo Charles!!!!!",
+      "text": "I originally ordered from a different restaurant for tacos and my order was refunded and canceled. I guess they were closed but it said the wrong timing on Google so I decided I need to try Charles pan fried chicken it’s been a long time I have been wanting to do so.\nI quickly called the restaurant to make sure they were still excepting orders for delivery as it was getting close to closing time. The lovely lady that answered the phone was so courteous and so absolutely helpful and sweet. I knew right away before I ordered that I was going to have a great experience, well I was crossing my fingers, but my wish just came true. I have never been happier with the customer service, the food, and the delivery time ever for any restaurant order I have placed online.\n\nI am very upset with myself that I forgot to order the cornbread but I did order mashed potatoes and gravy and they sent me yams but I get it they were closing and they probably didn’t have it but I really wanted to taste the gravy. The yams were so amazing , the mac & cheese is off the hook. The coleslaw is OMG delicious, and the pan fried chicken is the juiciest chicken with the nicest crunchy exterior I have ever had ever! The barbecue rib sauce is stellar, and the ribs fall off the bone, so freaking good! I am so happy that I tried this restaurant finally I will definitely be ordering from them very very soon! I highly recommend, and I cannot believe I could’ve been enjoying the best dinner ever so many times already!\nEverything everything tasted so phenomenal! Bravo Charles!!!!!",
       "time": 1695091030,
       "translated": false
     },
@@ -237,7 +237,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2OZk7YcVe9J_gUEdp2I2tvY3fbzeFup3Zhn5w4n0GTzfy9Mg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "Hubby and I have been craving some good southern food for some time. Sis in-law suggested Charles pan fried Chicken and she was right. As soon as we walked in, we were greeted by Anastasia. She was extremely nice and made sure to answer all of our questions about the food. Now let\u2019s get to the food! Hubby and I both ordered the pan fried chicken and ribs combo. We got potato salad, macaroni and cheese, collard greens and green beans along with a side of cornbread. We also tried one of their drinks. It was a mix of the homemade limeade and the southern punch, and that was amazing! The food was amazing the drink was amazing and the service was amazing. The collard greens have a great southern foavor. I would highly recommend anyone craving great soul food to come to Charles pan fried chicken! You will not be disappointing! Thank you again Anastasia for the great service.",
+      "text": "Hubby and I have been craving some good southern food for some time. Sis in-law suggested Charles pan fried Chicken and she was right. As soon as we walked in, we were greeted by Anastasia. She was extremely nice and made sure to answer all of our questions about the food. Now let’s get to the food! Hubby and I both ordered the pan fried chicken and ribs combo. We got potato salad, macaroni and cheese, collard greens and green beans along with a side of cornbread. We also tried one of their drinks. It was a mix of the homemade limeade and the southern punch, and that was amazing! The food was amazing the drink was amazing and the service was amazing. The collard greens have a great southern foavor. I would highly recommend anyone craving great soul food to come to Charles pan fried chicken! You will not be disappointing! Thank you again Anastasia for the great service.",
       "time": 1692825086,
       "translated": false
     }
@@ -259,5 +259,40 @@
   "emails": [
     "qslobert@charlespanfriedchicken.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:04:53.224899+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:53.224899+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:20.845126+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.charlespanfriedchicken.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.charlespanfriedchicken.com/contact",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.charlespanfriedchicken.com/faq",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.charlespanfriedchicken.com/locations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.charlespanfriedchicken.com/guest-chef-series",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.charlespanfriedchicken.com/guest-chef-series"
+    ]
+  }
 }

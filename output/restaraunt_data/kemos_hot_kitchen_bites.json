@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
     ]
   },
   "delivery": true,
@@ -264,13 +264,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
     ]
   },
   "photos": [
@@ -384,7 +384,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBtl6qLb91y9-gh7cO64z_hwFpzyyjn2HlfqEqNZ752u_Ju_8fyw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "Kemos Hot Chicken Bites is a great spot for Yemeni Middle Eastern food. They offer a variety of dishes, including platters, shawarma, and burgers. I ordered the mutton platter with Yemeni rice and spaghetti\u2014it was pretty good, though not perfect. I\u2019d rate it a 7.5/10. Their prices vary, and you can scan the QR code below for details. Overall, it\u2019s a solid Halal spot for authentic Yemeni flavors.",
+      "text": "Kemos Hot Chicken Bites is a great spot for Yemeni Middle Eastern food. They offer a variety of dishes, including platters, shawarma, and burgers. I ordered the mutton platter with Yemeni rice and spaghetti—it was pretty good, though not perfect. I’d rate it a 7.5/10. Their prices vary, and you can scan the QR code below for details. Overall, it’s a solid Halal spot for authentic Yemeni flavors.",
       "time": 1738428835,
       "translated": false
     },
@@ -420,7 +420,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMN-u85GwblnRoaB_vcIySN-0Kk9B9F63KszrANL0eEb8bHA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "A nice, quaint restaurant with good food. It\u2019s all halal. The servers are nice and welcoming and the customer service is good. They also have specialty teas and coffees.",
+      "text": "A nice, quaint restaurant with good food. It’s all halal. The servers are nice and welcoming and the customer service is good. They also have specialty teas and coffees.",
       "time": 1745109704,
       "translated": false
     }
@@ -516,13 +516,13 @@
       ],
       "type": "LUNCH",
       "weekday_text": [
-        "Monday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Tuesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Wednesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Thursday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Friday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Saturday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Sunday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: 10:00 AM – 8:00 PM"
       ]
     },
     {
@@ -615,13 +615,13 @@
       ],
       "type": "DINNER",
       "weekday_text": [
-        "Monday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Tuesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Wednesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Thursday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Friday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Saturday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Sunday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+        "Monday: 9:00 AM – 11:00 PM",
+        "Tuesday: 9:00 AM – 11:00 PM",
+        "Wednesday: 9:00 AM – 11:00 PM",
+        "Thursday: 9:00 AM – 11:00 PM",
+        "Friday: 9:00 AM – 11:00 PM",
+        "Saturday: 9:00 AM – 11:00 PM",
+        "Sunday: 9:00 AM – 11:00 PM"
       ]
     }
   ],
@@ -646,7 +646,34 @@
   "website": "https://www.kemoshotkitchen.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "13e49d785d8d4f828038b6136f3b48ba@sentry.io"
+    "13e49d785d8d4f828038b6136f3b48ba@sentry.io",
+    "kemo.hotkitchen@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:24.837400+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:24.837400+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:08.674697+00:00",
+    "outcome": "found",
+    "sources": {
+      "kemo.hotkitchen@gmail.com": [
+        "https://kemoshotkitchen.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://kemoshotkitchen.com/",
+        "status": "ok",
+        "emails": [
+          "kemo.hotkitchen@gmail.com"
+        ]
+      },
+      {
+        "url": "https://kemoshotkitchen.com/page/contact-us",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://kemoshotkitchen.com/page/contact-us"
+    ]
+  }
 }

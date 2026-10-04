@@ -1,0 +1,81 @@
+{
+  "adr_address": "<span class=\"street-address\">592 Manhattan Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "592 Manhattan Ave, Brooklyn, NY 11222, USA",
+  "formatted_phone_number": "(718) 576-3866",
+  "geometry": {
+    "location": {
+      "lat": 40.7230109,
+      "lng": -73.9502255
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7243610302915,
+        "lng": -73.9489373197085
+      },
+      "southwest": {
+        "lat": 40.7216630697085,
+        "lng": -73.95163528029151
+      }
+    }
+  },
+  "international_phone_number": "+1 718-576-3866",
+  "name": "Pierozek",
+  "place_id": "ChIJl-l0rSdZwokReqiZ7S2yx0A",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=4667895449122351226",
+  "website": "http://www.pierozekbrooklyn.com/",
+  "details_checked_at": "2026-10-03T21:59:15.316659+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:15.316659+00:00",
+  "emails": [
+    "catering@pierozekbrooklyn.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:19.563463+00:00",
+    "outcome": "found",
+    "sources": {
+      "catering@pierozekbrooklyn.com": [
+        "https://www.pierozekbrooklyn.com/",
+        "https://www.pierozekbrooklyn.com/events"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.pierozekbrooklyn.com/",
+        "status": "ok",
+        "emails": [
+          "catering@pierozekbrooklyn.com"
+        ]
+      },
+      {
+        "url": "https://www.pierozekbrooklyn.com/events",
+        "status": "ok",
+        "emails": [
+          "catering@pierozekbrooklyn.com"
+        ]
+      },
+      {
+        "url": "https://www.pierozekbrooklyn.com/",
+        "status": "browser_ok",
+        "emails": [
+          "catering@pierozekbrooklyn.com"
+        ]
+      },
+      {
+        "url": "https://www.pierozekbrooklyn.com/events",
+        "status": "browser_ok",
+        "emails": [
+          "catering@pierozekbrooklyn.com"
+        ]
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:04.752445+00:00",
+    "browser_outcome": "found"
+  }
+}

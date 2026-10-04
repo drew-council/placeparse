@@ -133,11 +133,11 @@
     "weekday_text": [
       "Monday: Closed",
       "Tuesday: Closed",
-      "Wednesday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 5:30\u2009\u2013\u20099:00\u202fPM"
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 9:00 PM",
+      "Saturday: 5:00 – 9:00 PM",
+      "Sunday: 5:30 – 9:00 PM"
     ]
   },
   "delivery": false,
@@ -164,7 +164,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 626-657-8420",
-  "name": "N\u014dksu",
+  "name": "Nōksu",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -222,18 +222,18 @@
     "weekday_text": [
       "Monday: Closed",
       "Tuesday: Closed",
-      "Wednesday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 5:30\u2009\u2013\u20099:00\u202fPM"
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 9:00 PM",
+      "Saturday: 5:00 – 9:00 PM",
+      "Sunday: 5:30 – 9:00 PM"
     ]
   },
   "photos": [
     {
       "height": 1339,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/108280511018734059167\">N\u014dksu</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/108280511018734059167\">Nōksu</a>"
       ],
       "photo_reference": "ATKogpfVuDvPwqPhP_dcCxDW4NsRRzkUresFePpuX6LXkggtqQA9Dz824AlTcDctEaBBiwi3JO7wMhFfkDm2eSbWnUWMpF2Dv_sk7LOwjuDn-cxYiBI_Go2rRximRWeAd_jBU67K4HnBNfyDDvGrBrCkmkWW3hVva1fxj4P3Zy2HZoxbhFUXD7yz3y4cC1tkxtZYt_3yTc7BBk3d7b8Ln5KzaD2-1IYYBqRbpbP3DAOM5DSuMFCbUQsLBIfOWeoMN6I8xGReRvEUO6qcUvMN1XnVf9BQCKkL1MblWUPiHpeOtQE",
       "width": 2048
@@ -241,7 +241,7 @@
     {
       "height": 2400,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/108280511018734059167\">N\u014dksu</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/108280511018734059167\">Nōksu</a>"
       ],
       "photo_reference": "ATKogpcdsJdEcfcrauCCuWl8xdmsFccZFFLKvFntiDbOLZvvrjzGcK7yZgOSKSAi5AB08p83YcZvDhDkiVSrbX-xG4x-wQCXiCPJ6irWWpHh3--wSxXDkreGdooSfJldSc6wsVs4n3hxYsNBUHIEvu-1XB8CrSBdmF6bM1VZLSnSjH-xDVVkM7L8W_jIVNtdAzVY5XBH1s_s9Xdc45zqio4ktM5BHUJCmWtKglu7_p2vC0oVkZkAQyw35LJntf7UFqbZodWoKxuOhqgD6v7vEEtRFlhm_cqEPVddPoPO8OK1DiM",
       "width": 3600
@@ -249,7 +249,7 @@
     {
       "height": 2400,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/108280511018734059167\">N\u014dksu</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/108280511018734059167\">Nōksu</a>"
       ],
       "photo_reference": "ATKogpeBpZpTRtgFe03peA6noab_ksXyXjvizmvpjUH8jF0B6MStan1nE1IX6fD_pl0fIXUykrCbisIeXax30ThFYCa1dm2F4d8bHVrbOXLXHWK5-5wYEkhmQiFJrac6Q2u-x2NhaYN1vvs31rjMLTofByAARCkO_tJW-WOAD1Fzu7brr7GtvWtPSaJjh4g5sU0AmnQIhfQLtNLMhdC8pknzvTVkAN43mkaSvMTGYbf4qcV8bFApE2MVP3CTbDkkCAX4OPco8uZSl7BQ_0Pju94oVsT7emXQbUCeoKbBUUb6KCU",
       "width": 3600
@@ -297,7 +297,7 @@
     {
       "height": 2400,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/108280511018734059167\">N\u014dksu</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/108280511018734059167\">Nōksu</a>"
       ],
       "photo_reference": "ATKogpdzkR_Hy5uARc-0xELm54SVjDceJYoO9bHYk6cKmZf-1CWPmyOK2eKFQ4hvdK8geI1tGE9omZXiy6T-DLx7d8e2Xghh4cvNVmpw3mVs_h1ue8yhSFSAT3LgAFU63rb1cU3Xxqc5ZMOf08HvhpuizT5X8Uiq0FyTIQfi4rz7vvORPr_FgVwDWBqQ0kZQmQfros6GdY8E9u-YnBSmLTUjmU73AFabB-VqfI9bVIeypNLQ5jGOZSQgnrE3RI691s_AO_xUypBzzmJ2zjlBvcu_2VlLCxcCWrZSygLdxSyRIdE",
       "width": 3600
@@ -328,7 +328,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8pTEhTeuPQaEhYpnvKDdAjPY4sJudUoeZWMfubrr--wp9eA=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "Perhaps N\u014dksu improved that much within the past year, but I strongly feel this was one of the most egregious mis-ratings by Michelin. The meal felt solidly in the two-star territory. It was certainly better than many two-star meals I\u2019ve had. Each dish had the impact, clarity, and concentration of flavors that go beyond what\u2019s expected of a one-star, all prepared with such surgical precision that I\u2019m sure their cooking is incredibly consistent.\n\nPractically every single dish was designed to be a showstopper for three main reasons.\n\nFirst, the bold and creative flavor combinations. My mind failed to draw any comparisons to the opening bite\u2019s uniquely delicious and crazy flavor combo of flounder, nectarine, rye, eggplant, miso, and goji berry. The lubina was one of the most fun fine dining dishes I\u2019ve had despite its simplicity. Each bite had a different ratio of sweet, sour, and aromatic depending on how much of each sauce was on the spoon.\n\nN\u014dksu doesn\u2019t have a dedicated pastry chef. As they can\u2019t make desserts that are too intricate, they go for interesting flavor combos to leave the guests satisfied. Cherry and actual chunks of crisp asparagus was so crazy, but the pistachio served as the green-earthy bridge that links the two. The roasted pea pod cream tasted so browned it reminded me of kinako or hojicha. The hazelnut oil reinforced the nuttiness. They were oh so delicious!\n\nSecond, the concentration of flavor. N\u014dksu managed to extract so much flavor from each ingredient. That first spoonful of the foie gras foam stopped me on my tracks with its richness and umami despite that much aeration. The hay-smoked wagyu tartare with red prawn aspic was the most concentrated surf-and-turf ever, a perfect 10/10 that made me all emotional. You can taste the hay smoke and the prawn shells so clearly. It\u2019s the most well-executed I\u2019ve had of this concept. And that lamb! The spice blend in the pat\u00e9, the pillowy soft lamb, and the aroma and concentration of the jus\u2014I felt like melting into a puddle. Even the humble broken rice dish was packed with umami and vegetal flavors. Everything was so impactful.\n\nThird, the surgical precision. I knew going in that N\u014dksu is run by perfectionists\u2014not the insufferable types, but the ones like pianists who practice ten hours a day yet manage to stay humble. I was still blown away by how perfect everything was. They must\u2019ve measured, taste-tested, and adjusted every single things put on a plate. The knifework on the squid was so pretty. And the texture! It straddled cooked and raw, much like Keller\u2019s signature butter-poached lobster. You can watch someone put each greenery on the sea bass with intention.\n\nPractically everything was incredibly delicious. The only miss was unfortunately the uni beignet supplement. Perhaps the room temperature? Frevo puts theirs under the salamander before serving, but N\u014dksu doesn\u2019t have one. It also felt like too much was going on. The parmesan filling felt like it clashed with and overpowered everything else. Then again, after the precious dish, anything would feel like a downgrade.\n\nThe drink pairing was interesting and delicious. I only hate that the umeshu can\u2019t be found in the US. I want a bottle of it so badly! Mildly and refreshingly sour with a diffusive powdery almond smell, reminiscent of heliotrope. The chungju\u2019s soy-sauce-like savoriness went so well with the umami-laden broken rice dish. Even though I usually prefer white wine, both the Barolo and Cabernet-Shiraz make me want to hunt down a bottle.\n\nAnd the dinnerware! Each plate was so beautiful. Some felt so poetic, like the jellyfish plate for the squid and the sturgeon plate for the lubina. The Zaltos were so thin and lightweight, such a pleasure to drink from. All the utensils felt the right size and quantity to enjoy the dishes.\n\nI highly recommend N\u014dksu. This was one of my absolute favorite meals in NYC. To me, it\u2019s a two-star meal that doesn\u2019t ask for a two-star price just yet.",
+      "text": "Perhaps Nōksu improved that much within the past year, but I strongly feel this was one of the most egregious mis-ratings by Michelin. The meal felt solidly in the two-star territory. It was certainly better than many two-star meals I’ve had. Each dish had the impact, clarity, and concentration of flavors that go beyond what’s expected of a one-star, all prepared with such surgical precision that I’m sure their cooking is incredibly consistent.\n\nPractically every single dish was designed to be a showstopper for three main reasons.\n\nFirst, the bold and creative flavor combinations. My mind failed to draw any comparisons to the opening bite’s uniquely delicious and crazy flavor combo of flounder, nectarine, rye, eggplant, miso, and goji berry. The lubina was one of the most fun fine dining dishes I’ve had despite its simplicity. Each bite had a different ratio of sweet, sour, and aromatic depending on how much of each sauce was on the spoon.\n\nNōksu doesn’t have a dedicated pastry chef. As they can’t make desserts that are too intricate, they go for interesting flavor combos to leave the guests satisfied. Cherry and actual chunks of crisp asparagus was so crazy, but the pistachio served as the green-earthy bridge that links the two. The roasted pea pod cream tasted so browned it reminded me of kinako or hojicha. The hazelnut oil reinforced the nuttiness. They were oh so delicious!\n\nSecond, the concentration of flavor. Nōksu managed to extract so much flavor from each ingredient. That first spoonful of the foie gras foam stopped me on my tracks with its richness and umami despite that much aeration. The hay-smoked wagyu tartare with red prawn aspic was the most concentrated surf-and-turf ever, a perfect 10/10 that made me all emotional. You can taste the hay smoke and the prawn shells so clearly. It’s the most well-executed I’ve had of this concept. And that lamb! The spice blend in the paté, the pillowy soft lamb, and the aroma and concentration of the jus—I felt like melting into a puddle. Even the humble broken rice dish was packed with umami and vegetal flavors. Everything was so impactful.\n\nThird, the surgical precision. I knew going in that Nōksu is run by perfectionists—not the insufferable types, but the ones like pianists who practice ten hours a day yet manage to stay humble. I was still blown away by how perfect everything was. They must’ve measured, taste-tested, and adjusted every single things put on a plate. The knifework on the squid was so pretty. And the texture! It straddled cooked and raw, much like Keller’s signature butter-poached lobster. You can watch someone put each greenery on the sea bass with intention.\n\nPractically everything was incredibly delicious. The only miss was unfortunately the uni beignet supplement. Perhaps the room temperature? Frevo puts theirs under the salamander before serving, but Nōksu doesn’t have one. It also felt like too much was going on. The parmesan filling felt like it clashed with and overpowered everything else. Then again, after the precious dish, anything would feel like a downgrade.\n\nThe drink pairing was interesting and delicious. I only hate that the umeshu can’t be found in the US. I want a bottle of it so badly! Mildly and refreshingly sour with a diffusive powdery almond smell, reminiscent of heliotrope. The chungju’s soy-sauce-like savoriness went so well with the umami-laden broken rice dish. Even though I usually prefer white wine, both the Barolo and Cabernet-Shiraz make me want to hunt down a bottle.\n\nAnd the dinnerware! Each plate was so beautiful. Some felt so poetic, like the jellyfish plate for the squid and the sturgeon plate for the lubina. The Zaltos were so thin and lightweight, such a pleasure to drink from. All the utensils felt the right size and quantity to enjoy the dishes.\n\nI highly recommend Nōksu. This was one of my absolute favorite meals in NYC. To me, it’s a two-star meal that doesn’t ask for a two-star price just yet.",
       "time": 1750510771,
       "translated": false
     },
@@ -340,7 +340,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvq2E7xrr8LcVxvGuqAZPHCgHnCcCxUYNqrgNiSV-PHQYXSub-=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "Incredible experience. It was so surprising to enter partially through the subway, like a speakeasy! All the workers were so very kind and helpful, shoutout to Matthew. Clearly every dish was amazingly beautiful and well designed for the eye. But that doesn\u2019t tell you how flavorful everything was. Each bite was bursting with flavor, a happy combination of textures, and perfectly balanced. Although the dishes may not scream Korean, they were Pan-Asian and certainly leaned into it and tasted better than most fine dining experiences i\u2019ve encountered. Telling all our friends to go!",
+      "text": "Incredible experience. It was so surprising to enter partially through the subway, like a speakeasy! All the workers were so very kind and helpful, shoutout to Matthew. Clearly every dish was amazingly beautiful and well designed for the eye. But that doesn’t tell you how flavorful everything was. Each bite was bursting with flavor, a happy combination of textures, and perfectly balanced. Although the dishes may not scream Korean, they were Pan-Asian and certainly leaned into it and tasted better than most fine dining experiences i’ve encountered. Telling all our friends to go!",
       "time": 1738699729,
       "translated": false
     },
@@ -352,7 +352,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIK_3XvdMm9lXo-kNTiLqAIa66f0hmHONNuEqsLVjJJxhzzKg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "a month ago",
-      "text": "Tucked away in a subway station, Noksu delivers a unique dining experience from the moment you arrive. On the day of your reservation, they text you a pin code to unlock the door (it changes daily), adding a cool, speakeasy vibe.\n\nThe set menu that night featured 9 courses:\nSardine - charred romaine, caesar\nHay-Smoked Mackerel - za'atar, sunchokes, pistachio\nSurf Clam - caviar, hen-egg custard, scallion\nArrow Squid - monkfish liver, satay, urfa biber\nCod Milt - razor clam, white asparagus\nSnowy Grouper - squid sauce, purple kale\nBroken Rice - anson mills carolina gold, beech mushroom\nLamb - seaweed, fermented bean paste\nCalamansi - cr\u00e8me de violettes, honey, champagne\nLily Bulb - white chocolate, banana\nMacaron - shiitake mushroom, coconut\n\nThe plating was stunning across the board. The sardine dish might've been the best I've ever had, and the surf clam and arrow squid were equally memorable--perfectly balanced flavors and textures. Noksu really shines with seafood. The broken rice dish was incredibly comforting, and the desserts were standouts--especially the calamansi and lily bulb courses, which ended the meal on a high note.\n\nThat said, cod milt wasn't for me (pro tip: don't Google it if you're squeamish), and I really wish there had been an option to skip the lamb since I'm not a fan. Some customization would've made the experience more enjoyable.\n\nLastly, while service was efficient, it felt a bit robotic and impersonal. I would've appreciated more warmth or interaction from the servers to match the intimacy of the space and concept.\n\nOverall, Noksu is a creative and ambitious dining experience--especially if you're a seafood lover. Just be aware that it leans experimental, and flexibility with the menu is limited.",
+      "text": "Tucked away in a subway station, Noksu delivers a unique dining experience from the moment you arrive. On the day of your reservation, they text you a pin code to unlock the door (it changes daily), adding a cool, speakeasy vibe.\n\nThe set menu that night featured 9 courses:\nSardine - charred romaine, caesar\nHay-Smoked Mackerel - za'atar, sunchokes, pistachio\nSurf Clam - caviar, hen-egg custard, scallion\nArrow Squid - monkfish liver, satay, urfa biber\nCod Milt - razor clam, white asparagus\nSnowy Grouper - squid sauce, purple kale\nBroken Rice - anson mills carolina gold, beech mushroom\nLamb - seaweed, fermented bean paste\nCalamansi - crème de violettes, honey, champagne\nLily Bulb - white chocolate, banana\nMacaron - shiitake mushroom, coconut\n\nThe plating was stunning across the board. The sardine dish might've been the best I've ever had, and the surf clam and arrow squid were equally memorable--perfectly balanced flavors and textures. Noksu really shines with seafood. The broken rice dish was incredibly comforting, and the desserts were standouts--especially the calamansi and lily bulb courses, which ended the meal on a high note.\n\nThat said, cod milt wasn't for me (pro tip: don't Google it if you're squeamish), and I really wish there had been an option to skip the lamb since I'm not a fan. Some customization would've made the experience more enjoyable.\n\nLastly, while service was efficient, it felt a bit robotic and impersonal. I would've appreciated more warmth or interaction from the servers to match the intimacy of the space and concept.\n\nOverall, Noksu is a creative and ambitious dining experience--especially if you're a seafood lover. Just be aware that it leans experimental, and flexibility with the menu is limited.",
       "time": 1745987014,
       "translated": false
     },
@@ -364,7 +364,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6E5KxduB1e_hQrZrpS9-IXxPujokrLFGuMq-p6OktgDmInMQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Michelin magic at N\u014dksu \u2014 where Korean fine dining meets edible art,hidden underneath a Midtown subway station.\n\nFrom sardines to shiitake macarons (yes, really), every dish was a mini masterpiece \u2014 but the two that truly stole my heart?\n\nArrow Squid\nThis one didn\u2019t just taste good \u2014 it looked like it was carved by a tiny underwater sculptor. Served with artichoke curry and urfa biber, it was spicy, savory, and almost too pretty to eat (almost).\n\nLamb\nFall-apart tender, rich but never heavy, and soaked up every drop of that doenjang goodness. Add sticky rice and morels, and you\u2019ve got yourself a hug in food form.\n\nEvery bite was a surprise. Every course, a mic drop.\nRefined, bold, unapologetically Korean \u2014 and absolutely worth the hype.\n\nCan\u2019t wait to go back (and try to steal the broken rice recipe).\n\nFull lineup:\n\n1.\tSardine \u2013 Charred romaine + Caesar vibes\n2.\tHay-Smoked Yellowtail \u2013 With avocado, rabe, and pistachio swagger\n3.\tSurf Clam \u2013 Caviar + hen-egg custard = smooth operator\n4.\tArrow Squid \u2013 Knife skills that belong in the Met\n5.\tFirefly Squid \u2013 A smoky, tangy spring fling\n6.\tLubina \u2013 Squid sauce + purple kale = ocean umami\n7.\tBroken Rice \u2013 Carolina gold, soft and soul-warming\n8.\tLamb \u2013 Doenjang magic, mushroom dreams, rice stickiness\n9.\tCalamansi \u2013 Citrus, violet, honey, bubbles \u2014 yes, all of it\n10.\tLily Bulb \u2013 White choc + banana = soft landing\n11.\tMacaron \u2013 Shiitake & coconut\u2026 weirdly works",
+      "text": "Michelin magic at Nōksu — where Korean fine dining meets edible art,hidden underneath a Midtown subway station.\n\nFrom sardines to shiitake macarons (yes, really), every dish was a mini masterpiece — but the two that truly stole my heart?\n\nArrow Squid\nThis one didn’t just taste good — it looked like it was carved by a tiny underwater sculptor. Served with artichoke curry and urfa biber, it was spicy, savory, and almost too pretty to eat (almost).\n\nLamb\nFall-apart tender, rich but never heavy, and soaked up every drop of that doenjang goodness. Add sticky rice and morels, and you’ve got yourself a hug in food form.\n\nEvery bite was a surprise. Every course, a mic drop.\nRefined, bold, unapologetically Korean — and absolutely worth the hype.\n\nCan’t wait to go back (and try to steal the broken rice recipe).\n\nFull lineup:\n\n1.\tSardine – Charred romaine + Caesar vibes\n2.\tHay-Smoked Yellowtail – With avocado, rabe, and pistachio swagger\n3.\tSurf Clam – Caviar + hen-egg custard = smooth operator\n4.\tArrow Squid – Knife skills that belong in the Met\n5.\tFirefly Squid – A smoky, tangy spring fling\n6.\tLubina – Squid sauce + purple kale = ocean umami\n7.\tBroken Rice – Carolina gold, soft and soul-warming\n8.\tLamb – Doenjang magic, mushroom dreams, rice stickiness\n9.\tCalamansi – Citrus, violet, honey, bubbles — yes, all of it\n10.\tLily Bulb – White choc + banana = soft landing\n11.\tMacaron – Shiitake & coconut… weirdly works",
       "time": 1747721293,
       "translated": false
     },
@@ -376,7 +376,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUeveuI8XAdMi0MfpiR4yMf3NzyVqHhL8OPxy9M15abxhqONAECgw=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "My husband and I went here for Valentine\u2019s Day and really enjoyed the experience. We loved the fusion of Korean flavors in French style preparation. All dishes were fresh and flavorful, and the non-alcoholic pairing was selected skillfully. We had a great time watching Chef Kim and his team create the dishes \u2014 which were works of art. Handheld lights on the tables helped us get all the detail of the plating. The staff were attentive and welcoming. The only thing I\u2019d mention is the door to the outside tends to send cold air though, so wear clothing on the warmer side in winter.",
+      "text": "My husband and I went here for Valentine’s Day and really enjoyed the experience. We loved the fusion of Korean flavors in French style preparation. All dishes were fresh and flavorful, and the non-alcoholic pairing was selected skillfully. We had a great time watching Chef Kim and his team create the dishes — which were works of art. Handheld lights on the tables helped us get all the detail of the plating. The staff were attentive and welcoming. The only thing I’d mention is the door to the outside tends to send cold air though, so wear clothing on the warmer side in winter.",
       "time": 1739584782,
       "translated": false
     }
@@ -400,9 +400,36 @@
   "website": "https://noksunyc.com/?SEO_id=GMB--R-NYCCUQQ-2&y_source=1_MTA0NTQ1Mjg1MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "steven@hallpr.com",
     "info@noksunyc.com",
-    "reservations@noksunyc.com"
+    "reservations@noksunyc.com",
+    "steven@hallpr.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:47.489107+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:47.489107+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:35.219570+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@noksunyc.com": [
+        "https://noksunyc.com/?SEO_id=GMB--R-NYCCUQQ-2&y_source=1_MTA0NTQ1Mjg1MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+      ],
+      "reservations@noksunyc.com": [
+        "https://noksunyc.com/?SEO_id=GMB--R-NYCCUQQ-2&y_source=1_MTA0NTQ1Mjg1MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+      ],
+      "steven@hallpr.com": [
+        "https://noksunyc.com/?SEO_id=GMB--R-NYCCUQQ-2&y_source=1_MTA0NTQ1Mjg1MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://noksunyc.com/?SEO_id=GMB--R-NYCCUQQ-2&y_source=1_MTA0NTQ1Mjg1MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+        "status": "ok",
+        "emails": [
+          "info@noksunyc.com",
+          "reservations@noksunyc.com",
+          "steven@hallpr.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

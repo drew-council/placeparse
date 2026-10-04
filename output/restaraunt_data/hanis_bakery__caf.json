@@ -1,0 +1,70 @@
+{
+  "adr_address": "<span class=\"street-address\">67 Cooper Sq</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "67 Cooper Sq, New York, NY 10003, USA",
+  "formatted_phone_number": "(646) 918-6324",
+  "geometry": {
+    "location": {
+      "lat": 40.7290987,
+      "lng": -73.9899368
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.73051418029151,
+        "lng": -73.98865861970849
+      },
+      "southwest": {
+        "lat": 40.72781621970852,
+        "lng": -73.9913565802915
+      }
+    }
+  },
+  "international_phone_number": "+1 646-918-6324",
+  "name": "Hani’s bakery + café",
+  "place_id": "ChIJByiSaABZwokRGipTzKceyiI",
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=2506849848621476378",
+  "website": "https://hanisnyc.com/",
+  "details_checked_at": "2026-10-03T21:59:30.988769+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:30.988769+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:07.938582+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.hanisnyc.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.hanisnyc.com/story",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.hanisnyc.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.hanisnyc.com/story",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.hanisnyc.com/",
+      "https://www.hanisnyc.com/story"
+    ],
+    "browser_checked_at": "2026-10-03T22:09:03.561817+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

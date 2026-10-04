@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 8:00 AM – 8:00 PM"
     ]
   },
   "delivery": true,
@@ -268,13 +268,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 8:00 AM – 8:00 PM"
     ]
   },
   "photos": [
@@ -377,7 +377,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLPWJY56EWh32-g6j20hXo_rCjvkKKRepHFPYeKiisbJGRHSPi=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 1,
       "relative_time_description": "3 months ago",
-      "text": "Well this place has been open for years. They can do better for the public . Now you can\u2019t even sit Inside and the place has an outside speaker service .  Took like 45min to get our empanadas. 3 total and 1 coffee. And price was a little overpriced for empanadas. The service to public is not very kind. Be ready to wait!!!!!",
+      "text": "Well this place has been open for years. They can do better for the public . Now you can’t even sit Inside and the place has an outside speaker service .  Took like 45min to get our empanadas. 3 total and 1 coffee. And price was a little overpriced for empanadas. The service to public is not very kind. Be ready to wait!!!!!",
       "time": 1741816375,
       "translated": false
     },
@@ -425,7 +425,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUe-gUd_3BkaAbla8MH_Dv-vbA3kn_EDmS_NcBhalhljrsYaJ6k6w=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "This little spot packs a punch with good food. We ordered the chicken empanadas and the beef potatoes with a coffee. Chicken was good yet the beef is by far the best. The green sauce tasted so fresh and wasn\u2019t too spicy. The coffee was decent yet I can\u2019t fault them for that with the food that good. I have to say with how small that location is they have figured out a way to have a place for more than just a few people to eat with standing tables and benches. Lastly, the staff is super friendly. I don\u2019t speak Spanish and they were able to work with me. They have a huge amount of pride for Queens and appreciated my Queens shirt I was reppin.",
+      "text": "This little spot packs a punch with good food. We ordered the chicken empanadas and the beef potatoes with a coffee. Chicken was good yet the beef is by far the best. The green sauce tasted so fresh and wasn’t too spicy. The coffee was decent yet I can’t fault them for that with the food that good. I have to say with how small that location is they have figured out a way to have a place for more than just a few people to eat with standing tables and benches. Lastly, the staff is super friendly. I don’t speak Spanish and they were able to work with me. They have a huge amount of pride for Queens and appreciated my Queens shirt I was reppin.",
       "time": 1718053169,
       "translated": false
     }
@@ -451,5 +451,32 @@
   "utc_offset": -240,
   "vicinity": "5627 Van Doren St, Corona",
   "website": "http://www.empanadascafe.com/",
-  "business_status_checked_at": "2026-10-03T20:05:06.286550+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:06.286550+00:00",
+  "emails": [
+    "infoempanadascafe@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:40.325703+00:00",
+    "outcome": "found",
+    "sources": {
+      "infoempanadascafe@gmail.com": [
+        "https://empanadascafe.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://empanadascafe.com/",
+        "status": "ok",
+        "emails": [
+          "infoempanadascafe@gmail.com"
+        ]
+      },
+      {
+        "url": "https://empanadascafe.com/about-empanadas-cafe/",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

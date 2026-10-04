@@ -145,12 +145,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 6:00 – 10:00 PM",
+      "Wednesday: 6:00 – 10:00 PM",
+      "Thursday: 6:00 – 10:00 PM",
       "Friday: Closed",
-      "Saturday: 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 5:00\u2009\u2013\u20099:30\u202fPM"
+      "Saturday: 6:00 – 10:00 PM",
+      "Sunday: 5:00 – 9:30 PM"
     ]
   },
   "delivery": false,
@@ -242,12 +242,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 5:00\u2009\u2013\u20099:30\u202fPM"
+      "Tuesday: 6:00 – 10:00 PM",
+      "Wednesday: 6:00 – 10:00 PM",
+      "Thursday: 6:00 – 10:00 PM",
+      "Friday: 6:00 – 10:00 PM",
+      "Saturday: 6:00 – 10:00 PM",
+      "Sunday: 5:00 – 9:30 PM"
     ]
   },
   "photos": [
@@ -349,7 +349,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDRfNTMOT2L0N1DuUh0LuzfpQbaA8cAk8azuFB1dBmy6_qFumq=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Tough one here for me, going to have to come back for sure. The tldr - everything is great.\n\nVibe and service is top notch, grab a reservation and get there early to check out the whole restaurant. The cocktails are spectacular as well.\n\nFood. So the food is really really good. I think that the kabob wasn\u2019t as tender and hot as I expected, maybe it was busy so the plate sat for a bit, I understand. However at these price points I expect it to be close to perfect, especially in this area.\n\nThe yogurt + bread combo was out of this world. I liked the saffron chicken, but maybe needed a little more salt or spice to cut through the sweetness of the other ingredients.\n\nOverall very happy and will be back as mentioned.",
+      "text": "Tough one here for me, going to have to come back for sure. The tldr - everything is great.\n\nVibe and service is top notch, grab a reservation and get there early to check out the whole restaurant. The cocktails are spectacular as well.\n\nFood. So the food is really really good. I think that the kabob wasn’t as tender and hot as I expected, maybe it was busy so the plate sat for a bit, I understand. However at these price points I expect it to be close to perfect, especially in this area.\n\nThe yogurt + bread combo was out of this world. I liked the saffron chicken, but maybe needed a little more salt or spice to cut through the sweetness of the other ingredients.\n\nOverall very happy and will be back as mentioned.",
       "time": 1746052108,
       "translated": false
     },
@@ -361,7 +361,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqF2Uh5tyxwzPruAk0S_RIavhf8ZEx_Sa--oPc9XoH6y4GhRey=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "Would rate it over 5 if possible! We celebrated an event here, if you are more than 6, their pre-planned shareable menu is wonderful! Authentic way Persians eat at their own celebration!\nAn incredible Persian restaurant that truly stands out! From cocktails to desserts, every dish stays true to Persian flavors while adding a creative, elevated twist. The salads, sauces, appetizers, and mains are a burst of taste\u2014rich, bold, and beautifully balanced. Chef Ali is not only talented but also genuinely kind, and the whole team makes you feel right at home. One of the few Persian spots that truly deserves a Michelin star. A must-try!",
+      "text": "Would rate it over 5 if possible! We celebrated an event here, if you are more than 6, their pre-planned shareable menu is wonderful! Authentic way Persians eat at their own celebration!\nAn incredible Persian restaurant that truly stands out! From cocktails to desserts, every dish stays true to Persian flavors while adding a creative, elevated twist. The salads, sauces, appetizers, and mains are a burst of taste—rich, bold, and beautifully balanced. Chef Ali is not only talented but also genuinely kind, and the whole team makes you feel right at home. One of the few Persian spots that truly deserves a Michelin star. A must-try!",
       "time": 1749378826,
       "translated": false
     },
@@ -385,7 +385,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4YY5nhHHATMGsK-0v3FkdjZxe1pQy0rJXOPFfznS9uVguYqrR=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "Wow!! What a meal!! Service, food and atmosphere was 10/10. My partner and I cannot wait to return and try everything on the menu. Definitely do not sleep on this restaurant. Truly not a bad dish was had. The carrots, Wagyu kebab, lamb shank and fava bean app was to die for. I can\u2019t wait to return. The cocktails and dessert were also delicious.",
+      "text": "Wow!! What a meal!! Service, food and atmosphere was 10/10. My partner and I cannot wait to return and try everything on the menu. Definitely do not sleep on this restaurant. Truly not a bad dish was had. The carrots, Wagyu kebab, lamb shank and fava bean app was to die for. I can’t wait to return. The cocktails and dessert were also delicious.",
       "time": 1749772323,
       "translated": false
     },
@@ -426,5 +426,48 @@
     "info@eyvalnyc.com",
     "reservations@eyvalnyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:07.220051+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:07.220051+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:44.259086+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@eyvalnyc.com": [
+        "https://www.eyvalnyc.com/",
+        "https://www.eyvalnyc.com/contact-us",
+        "https://www.eyvalnyc.com/faqs"
+      ],
+      "events@eyvalnyc.com": [
+        "https://www.eyvalnyc.com/contact-us"
+      ],
+      "reservations@eyvalnyc.com": [
+        "https://www.eyvalnyc.com/contact-us"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.eyvalnyc.com/",
+        "status": "ok",
+        "emails": [
+          "info@eyvalnyc.com"
+        ]
+      },
+      {
+        "url": "https://www.eyvalnyc.com/contact-us",
+        "status": "ok",
+        "emails": [
+          "events@eyvalnyc.com",
+          "info@eyvalnyc.com",
+          "reservations@eyvalnyc.com"
+        ]
+      },
+      {
+        "url": "https://www.eyvalnyc.com/faqs",
+        "status": "ok",
+        "emails": [
+          "info@eyvalnyc.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

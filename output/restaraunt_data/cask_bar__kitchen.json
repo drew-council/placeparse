@@ -169,13 +169,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 4:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-      "Tuesday: 4:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-      "Wednesday: 2:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-      "Thursday: 2:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-      "Friday: 2:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM"
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 2:00 PM – 2:00 AM",
+      "Thursday: 2:00 PM – 2:00 AM",
+      "Friday: 2:00 PM – 3:00 AM",
+      "Saturday: 10:00 AM – 3:00 AM",
+      "Sunday: 10:00 AM – 2:00 AM"
     ]
   },
   "delivery": true,
@@ -282,13 +282,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 4:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-      "Tuesday: 4:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-      "Wednesday: 2:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-      "Thursday: 2:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-      "Friday: 2:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM"
+      "Monday: 4:00 PM – 2:00 AM",
+      "Tuesday: 4:00 PM – 2:00 AM",
+      "Wednesday: 2:00 PM – 2:00 AM",
+      "Thursday: 2:00 PM – 2:00 AM",
+      "Friday: 2:00 PM – 3:00 AM",
+      "Saturday: 10:00 AM – 3:00 AM",
+      "Sunday: 10:00 AM – 2:00 AM"
     ]
   },
   "photos": [
@@ -391,7 +391,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURMQsNj5dmtNEHTsjadpsOLGbh2sFV7-5ulaSXLd7cRe4Mefw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "The best place we ate our entire trip to NYC. We did the Beats & Bubbles special for our friend\u2019s birthday dinner. With the $65 base, the $5 upcharge for steak, tax, and gratuity it came out to be about $95 each. Coming from someone that likes to ball on a budget, it was absolutely worth it. Between the four of us, we tried the lamb nachos, burrata, hangar steak, caesar salad, crispy cauliflower, and penne primavera. Everything was absolutely delicious. When they brought out our carrot cake dessert, they also brought out a sparkler and espresso martinis as my friend\u2019s birthday celebration! The martinis were fantastic. As for the unlimited wine, we enjoyed the prosecco and malbec, not so much the pinot grigio or the rose. Overall, I\u2019d definitely recommend and would love to come back for their brunch special one day!",
+      "text": "The best place we ate our entire trip to NYC. We did the Beats & Bubbles special for our friend’s birthday dinner. With the $65 base, the $5 upcharge for steak, tax, and gratuity it came out to be about $95 each. Coming from someone that likes to ball on a budget, it was absolutely worth it. Between the four of us, we tried the lamb nachos, burrata, hangar steak, caesar salad, crispy cauliflower, and penne primavera. Everything was absolutely delicious. When they brought out our carrot cake dessert, they also brought out a sparkler and espresso martinis as my friend’s birthday celebration! The martinis were fantastic. As for the unlimited wine, we enjoyed the prosecco and malbec, not so much the pinot grigio or the rose. Overall, I’d definitely recommend and would love to come back for their brunch special one day!",
       "time": 1738784250,
       "translated": false
     },
@@ -403,7 +403,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9169mRsL-2OKyaYzyoeyGAxd4DTLJLjf55H0TZ_UyttQgWFpWJw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "10 months ago",
-      "text": "We visited on a Saturday night for bubbles & beats and we couldn\u2019t be happier with the outcome!\n\nThe offer is $60 for open wine, appetizer, entree & a shared dessert.\n\nThe food portions are very very generous! We really didn\u2019t expect that with a special offer.\nEverything was delicious, no complaints whatsoever!\n\nEveryone was so friendly and kept our glasses full for the whole period we were there!\n\nLove the place, definitely coming back again & again!",
+      "text": "We visited on a Saturday night for bubbles & beats and we couldn’t be happier with the outcome!\n\nThe offer is $60 for open wine, appetizer, entree & a shared dessert.\n\nThe food portions are very very generous! We really didn’t expect that with a special offer.\nEverything was delicious, no complaints whatsoever!\n\nEveryone was so friendly and kept our glasses full for the whole period we were there!\n\nLove the place, definitely coming back again & again!",
       "time": 1723055948,
       "translated": false
     },
@@ -415,7 +415,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUs7ZI0SzFQ-kqriVV0DecHmKHGUjKq86Vh6q32FsPA2YnZRIBG=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 3,
       "relative_time_description": "a month ago",
-      "text": "The beats and bubbles is okay I guess. You can tell the wine is clearly water down. We had the sparkling wine and it didn\u2019t bubble or sparkly at all. You could taste the water in all the wine. We asked them was it water it in them but of course they denied it. The fact that we had several glasses like well over 5 and felt nothing at all is crazy! The food was decent but not somewhere u would come back especially a place that waters down wine is crazy.",
+      "text": "The beats and bubbles is okay I guess. You can tell the wine is clearly water down. We had the sparkling wine and it didn’t bubble or sparkly at all. You could taste the water in all the wine. We asked them was it water it in them but of course they denied it. The fact that we had several glasses like well over 5 and felt nothing at all is crazy! The food was decent but not somewhere u would come back especially a place that waters down wine is crazy.",
       "time": 1747550049,
       "translated": false
     },
@@ -427,7 +427,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLMPxW7vtSYNsiSE8I54ySBUpUnXPxPAeq-hB28_ODxcYv4qNG=s128-c0x00000000-cc-rp-mo-ba8",
       "rating": 5,
       "relative_time_description": "10 months ago",
-      "text": "This place is a fantastic bar! \ud83c\udf79 Cask Bar & Kitchen offers a wonderful selection of delicious \ud83e\udd24 elevated dishes \ud83c\udf7d\ufe0f and cocktails \ud83c\udf78 - definitely get the Lamb \ud83d\udc11 Nachos and Mac & Cheese! \ud83e\uddc0 Staff \ud83d\udc68\u200d\ud83c\udf73 is super friendly and the service is quick. \u23f2\ufe0f The have lots of indoor and outdoor seating \ud83e\ude91 and the place is beautifully decorated! \ud83d\udecb\ufe0f Ambience \ud83c\udfb6 is great. I wish I knew about this place earlier!",
+      "text": "This place is a fantastic bar! 🍹 Cask Bar & Kitchen offers a wonderful selection of delicious 🤤 elevated dishes 🍽️ and cocktails 🍸 - definitely get the Lamb 🐑 Nachos and Mac & Cheese! 🧀 Staff 👨‍🍳 is super friendly and the service is quick. ⏲️ The have lots of indoor and outdoor seating 🪑 and the place is beautifully decorated! 🛋️ Ambience 🎶 is great. I wish I knew about this place earlier!",
       "time": 1723873602,
       "translated": false
     },
@@ -511,11 +511,11 @@
       ],
       "type": "HAPPY_HOUR",
       "weekday_text": [
-        "Monday: 4:00\u2009\u2013\u20097:00\u202fPM",
-        "Tuesday: 4:00\u2009\u2013\u20097:00\u202fPM",
-        "Wednesday: 3:00\u2009\u2013\u20097:00\u202fPM",
-        "Thursday: 3:00\u2009\u2013\u20097:00\u202fPM",
-        "Friday: 3:00\u2009\u2013\u20097:00\u202fPM",
+        "Monday: 4:00 – 7:00 PM",
+        "Tuesday: 4:00 – 7:00 PM",
+        "Wednesday: 3:00 – 7:00 PM",
+        "Thursday: 3:00 – 7:00 PM",
+        "Friday: 3:00 – 7:00 PM",
         "Saturday: Closed",
         "Sunday: Closed"
       ]
@@ -555,8 +555,8 @@
         "Wednesday: Closed",
         "Thursday: Closed",
         "Friday: Closed",
-        "Saturday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
-        "Sunday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+        "Saturday: 10:00 AM – 3:00 PM",
+        "Sunday: 10:00 AM – 3:00 PM"
       ]
     },
     {
@@ -663,13 +663,13 @@
       ],
       "type": "KITCHEN",
       "weekday_text": [
-        "Monday: 4:00\u2009\u2013\u200911:00\u202fPM",
-        "Tuesday: 4:00\u2009\u2013\u200911:00\u202fPM",
-        "Wednesday: 2:00\u2009\u2013\u200911:00\u202fPM",
-        "Thursday: 2:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Friday: 2:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Saturday: 10:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-        "Sunday: 10:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+        "Monday: 4:00 – 11:00 PM",
+        "Tuesday: 4:00 – 11:00 PM",
+        "Wednesday: 2:00 – 11:00 PM",
+        "Thursday: 2:00 PM – 1:00 AM",
+        "Friday: 2:00 PM – 1:00 AM",
+        "Saturday: 10:00 AM – 1:00 AM",
+        "Sunday: 10:00 AM – 11:00 PM"
       ]
     },
     {
@@ -762,13 +762,13 @@
       ],
       "type": "DINNER",
       "weekday_text": [
-        "Monday: 4:00\u2009\u2013\u200910:00\u202fPM",
-        "Tuesday: 4:00\u2009\u2013\u200910:00\u202fPM",
-        "Wednesday: 2:00\u2009\u2013\u200910:00\u202fPM",
-        "Thursday: 2:00\u2009\u2013\u200910:00\u202fPM",
-        "Friday: 2:00\u2009\u2013\u200910:00\u202fPM",
-        "Saturday: 4:30\u2009\u2013\u200910:00\u202fPM",
-        "Sunday: 4:00\u2009\u2013\u200910:00\u202fPM"
+        "Monday: 4:00 – 10:00 PM",
+        "Tuesday: 4:00 – 10:00 PM",
+        "Wednesday: 2:00 – 10:00 PM",
+        "Thursday: 2:00 – 10:00 PM",
+        "Friday: 2:00 – 10:00 PM",
+        "Saturday: 4:30 – 10:00 PM",
+        "Sunday: 4:00 – 10:00 PM"
       ]
     }
   ],
@@ -791,5 +791,18 @@
   "emails": [
     "info@casknyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:04:51.949301+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:51.949301+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:19.112683+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://casknyc.com/",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -169,13 +169,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200912:30\u202fAM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200912:30\u202fAM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200912:30\u202fAM"
+      "Monday: 11:30 AM – 11:00 PM",
+      "Tuesday: 11:30 AM – 11:00 PM",
+      "Wednesday: 11:30 AM – 11:00 PM",
+      "Thursday: 11:30 AM – 11:00 PM",
+      "Friday: 11:30 AM – 12:30 AM",
+      "Saturday: 11:30 AM – 12:30 AM",
+      "Sunday: 11:30 AM – 12:30 AM"
     ]
   },
   "delivery": true,
@@ -278,13 +278,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200912:30\u202fAM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200912:30\u202fAM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200912:30\u202fAM"
+      "Monday: 11:30 AM – 11:00 PM",
+      "Tuesday: 11:30 AM – 11:00 PM",
+      "Wednesday: 11:30 AM – 11:00 PM",
+      "Thursday: 11:30 AM – 11:00 PM",
+      "Friday: 11:30 AM – 12:30 AM",
+      "Saturday: 11:30 AM – 12:30 AM",
+      "Sunday: 11:30 AM – 12:30 AM"
     ]
   },
   "photos": [
@@ -387,7 +387,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdH2GDWf72rtsfSxiIUG0r3bQ1TNLMMUs9ytk9zpYH8i0daSU=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "6 months ago",
-      "text": "Very good place to go for hotpot on a cold day. We had verity of food and both of the soup choices were delicious.\n\nStaff and service were good as well as the atmosphere. I\u2019d suggest to go there with an extra 20 minutes in hand because there will be a wait time.\n\nHighly recommended!",
+      "text": "Very good place to go for hotpot on a cold day. We had verity of food and both of the soup choices were delicious.\n\nStaff and service were good as well as the atmosphere. I’d suggest to go there with an extra 20 minutes in hand because there will be a wait time.\n\nHighly recommended!",
       "time": 1733096156,
       "translated": false
     },
@@ -531,13 +531,13 @@
       ],
       "type": "KITCHEN",
       "weekday_text": [
-        "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Friday: 11:30\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Saturday: 11:30\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Sunday: 11:30\u202fAM\u2009\u2013\u200911:30\u202fPM"
+        "Monday: 11:30 AM – 10:00 PM",
+        "Tuesday: 11:30 AM – 10:00 PM",
+        "Wednesday: 11:30 AM – 10:00 PM",
+        "Thursday: 11:30 AM – 10:00 PM",
+        "Friday: 11:30 AM – 11:30 PM",
+        "Saturday: 11:30 AM – 11:30 PM",
+        "Sunday: 11:30 AM – 11:30 PM"
       ]
     }
   ],
@@ -560,12 +560,37 @@
   "vicinity": "136-76 39th Ave, Flushing",
   "website": "https://www.liuyishouna.com/flushing",
   "emails": [
+    "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
     "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
     "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
-    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
-    "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
-    "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
     "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:33.137065+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:33.137065+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:17.642913+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.liuyishouna.com/flushing",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.liuyishouna.com/events",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.liuyishouna.com/joininourteam",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.liuyishouna.com/joininourteam"
+    ]
+  }
 }

@@ -1,0 +1,78 @@
+{
+  "adr_address": "<span class=\"street-address\">9 Stanton St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "9 Stanton St, New York, NY 10002, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7225352,
+      "lng": -73.99249189999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7239317302915,
+        "lng": -73.99110061970849
+      },
+      "southwest": {
+        "lat": 40.7212337697085,
+        "lng": -73.9937985802915
+      }
+    }
+  },
+  "name": "Forsythia NYC",
+  "place_id": "ChIJ6Xa02cFZwokRv_5HQ3fHoHk",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=8764224189906812607",
+  "website": "http://forsythianyc.com/",
+  "details_checked_at": "2026-10-03T21:59:30.653315+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:30.653315+00:00",
+  "emails": [
+    "info@forsythianyc.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:04.300944+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@forsythianyc.com": [
+        "https://www.forsythianyc.com/contact",
+        "https://www.forsythianyc.com/private-event-request"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.forsythianyc.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.forsythianyc.com/contact",
+        "status": "ok",
+        "emails": [
+          "info@forsythianyc.com"
+        ]
+      },
+      {
+        "url": "https://www.forsythianyc.com/info",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.forsythianyc.com/about-1",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.forsythianyc.com/private-event-request",
+        "status": "ok",
+        "emails": [
+          "info@forsythianyc.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
+}

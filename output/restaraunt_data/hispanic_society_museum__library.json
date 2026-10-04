@@ -1,0 +1,95 @@
+{
+  "adr_address": "<span class=\"street-address\">3741 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10032-7597</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "3741 Broadway, New York, NY 10032, USA",
+  "formatted_phone_number": "(212) 926-2234",
+  "geometry": {
+    "location": {
+      "lat": 40.833183,
+      "lng": -73.946091
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.83443388029151,
+        "lng": -73.9448567697085
+      },
+      "southwest": {
+        "lat": 40.83173591970851,
+        "lng": -73.9475547302915
+      }
+    }
+  },
+  "international_phone_number": "+1 212-926-2234",
+  "name": "Hispanic Society Museum & Library",
+  "place_id": "ChIJv9uJC4b2wokRI7r1wOp3AHw",
+  "types": [
+    "establishment",
+    "library",
+    "museum",
+    "point_of_interest",
+    "tourist_attraction"
+  ],
+  "url": "https://maps.google.com/?cid=8935273510846446115",
+  "website": "http://www.hispanicsociety.org/",
+  "details_checked_at": "2026-10-03T21:59:12.767778+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:12.767778+00:00",
+  "emails": [
+    "books@hispanicsociety.org",
+    "info@hispanicsociety.org"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:08.197206+00:00",
+    "outcome": "found",
+    "sources": {
+      "books@hispanicsociety.org": [
+        "https://hispanicsociety.org/visit/"
+      ],
+      "info@hispanicsociety.org": [
+        "https://hispanicsociety.org/about/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://hispanicsociety.org/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://hispanicsociety.org/about/contact-us/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://hispanicsociety.org/visit/",
+        "status": "ok",
+        "emails": [
+          "books@hispanicsociety.org"
+        ]
+      },
+      {
+        "url": "https://hispanicsociety.org/about/",
+        "status": "ok",
+        "emails": [
+          "info@hispanicsociety.org"
+        ]
+      },
+      {
+        "url": "https://hispanicsociety.org/?page_id=24",
+        "status": "HTTP_404",
+        "emails": []
+      },
+      {
+        "url": "https://hispanicsociety.org/about/people/",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://hispanicsociety.org/",
+      "https://hispanicsociety.org/about/contact-us/",
+      "https://hispanicsociety.org/visit/",
+      "https://hispanicsociety.org/about/",
+      "https://hispanicsociety.org/about/people/"
+    ]
+  }
+}

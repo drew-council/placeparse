@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
     ]
   },
   "delivery": false,
@@ -264,13 +264,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
     ]
   },
   "photos": [
@@ -372,7 +372,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyfomfeFFvqeAoeqFXDlO5tVqpLdDOjqkQvbjrbcFV_sNENgpD8w=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Just visited Essex 57 on their opening day and I\u2019m seriously impressed! This little seafood sandwich place brings the flavor \u2013 fresh ingredients, bold combos, and a really nice level of spice that hits just right. Not too much, not too little \u2013 just enough to keep things exciting.\n\nPortions are on the smaller side, but the taste totally makes up for it. You can tell everything\u2019s made with care and attention to detail.\n\nThe team is super friendly and welcoming \u2013 such good vibes all around. Wishing Essex 57 all the best for their first day and lots of success in the future. Definitely coming back From austria ;)",
+      "text": "Just visited Essex 57 on their opening day and I’m seriously impressed! This little seafood sandwich place brings the flavor – fresh ingredients, bold combos, and a really nice level of spice that hits just right. Not too much, not too little – just enough to keep things exciting.\n\nPortions are on the smaller side, but the taste totally makes up for it. You can tell everything’s made with care and attention to detail.\n\nThe team is super friendly and welcoming – such good vibes all around. Wishing Essex 57 all the best for their first day and lots of success in the future. Definitely coming back From austria ;)",
       "time": 1743787852,
       "translated": false
     },
@@ -384,7 +384,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmFAAOtoiTsRdSAG04WYK_GMNpzsvAUP-hyZX669WwhVAC7P9JSA=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "Really good asian-style seafood place. The lobster roll is really delicious, and the seasoning of the fries is to die for: a little sweet, sour, and salty. The crab fried rice is pretty good as well. Another highlight of dinner is the deep fried octopus with coconut milk-based sauce. It tastes just like \u1ed1c len x\u00e0o d\u1eeba. Monkfish is also yummy. The meat skewers are normal. Dessert is okay. Watermelon slush is quite good.\nService is good. Although the servers forgot/messed up our order 2-3 times, they apologized at the end and gave us complimentary desserts.",
+      "text": "Really good asian-style seafood place. The lobster roll is really delicious, and the seasoning of the fries is to die for: a little sweet, sour, and salty. The crab fried rice is pretty good as well. Another highlight of dinner is the deep fried octopus with coconut milk-based sauce. It tastes just like ốc len xào dừa. Monkfish is also yummy. The meat skewers are normal. Dessert is okay. Watermelon slush is quite good.\nService is good. Although the servers forgot/messed up our order 2-3 times, they apologized at the end and gave us complimentary desserts.",
       "time": 1702531239,
       "translated": false
     },
@@ -408,7 +408,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV39pbQwx62-bNe3Zb3ub9XbHvTfRJCouMG0S_nRGMzJO5pRe7xew=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "Such a great little gem inside of Essex market. The waiters are amazing. We came here for the famous happy hour oysters. \ud83e\uddaa\n\nCertainly one of the best deals in the city. The oysters were absolutely delicious. We were also amazed by the rest of the menu.\nThe tiger prawn skewers and the handmade noodles were fantastic. The food can be a bit spicy, but order yourself a nice drink and enjoy it. It can get crowded during peak hours especially due to the publicity received in social media.\n\nWe\u2019ll be back soon",
+      "text": "Such a great little gem inside of Essex market. The waiters are amazing. We came here for the famous happy hour oysters. 🦪\n\nCertainly one of the best deals in the city. The oysters were absolutely delicious. We were also amazed by the rest of the menu.\nThe tiger prawn skewers and the handmade noodles were fantastic. The food can be a bit spicy, but order yourself a nice drink and enjoy it. It can get crowded during peak hours especially due to the publicity received in social media.\n\nWe’ll be back soon",
       "time": 1702219746,
       "translated": false
     },
@@ -447,5 +447,25 @@
   "emails": [
     "info@EssexPearl.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:06.580976+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:06.580976+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:41.344346+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.essexpearl.com/",
+        "status": "SSLError",
+        "emails": []
+      },
+      {
+        "url": "https://www.essexpearl.com/",
+        "status": "browser_load_error",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:08:43.714412+00:00",
+    "browser_outcome": "incomplete_lookup"
+  }
 }

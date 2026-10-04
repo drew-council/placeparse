@@ -1,0 +1,84 @@
+{
+  "adr_address": "<span class=\"street-address\">407 Smith St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11231-4520</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "407 Smith St, Brooklyn, NY 11231, USA",
+  "formatted_phone_number": "(347) 227-8004",
+  "geometry": {
+    "location": {
+      "lat": 40.6779298,
+      "lng": -73.99605249999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.67931153029149,
+        "lng": -73.99479511970848
+      },
+      "southwest": {
+        "lat": 40.6766135697085,
+        "lng": -73.9974930802915
+      }
+    }
+  },
+  "international_phone_number": "+1 347-227-8004",
+  "name": "Hungry Thirsty",
+  "place_id": "ChIJMRzjDuVbwokRXPeo4rKGGjQ",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=3754461342231754588",
+  "website": "https://www.hungrythirstynyc.com/",
+  "details_checked_at": "2026-10-03T21:59:34.182023+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:34.182023+00:00",
+  "emails": [
+    "info@hungrythirstynyc.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:08.668933+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@hungrythirstynyc.com": [
+        "https://www.hungrythirstynyc.com/",
+        "https://www.hungrythirstynyc.com/contact",
+        "https://www.hungrythirstynyc.com/faq",
+        "https://www.hungrythirstynyc.com/about"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.hungrythirstynyc.com/",
+        "status": "ok",
+        "emails": [
+          "info@hungrythirstynyc.com"
+        ]
+      },
+      {
+        "url": "https://www.hungrythirstynyc.com/contact",
+        "status": "ok",
+        "emails": [
+          "info@hungrythirstynyc.com"
+        ]
+      },
+      {
+        "url": "https://www.hungrythirstynyc.com/faq",
+        "status": "ok",
+        "emails": [
+          "info@hungrythirstynyc.com"
+        ]
+      },
+      {
+        "url": "https://www.hungrythirstynyc.com/about",
+        "status": "ok",
+        "emails": [
+          "info@hungrythirstynyc.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.hungrythirstynyc.com/",
+      "https://www.hungrythirstynyc.com/contact"
+    ]
+  }
+}

@@ -162,13 +162,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
-      "Tuesday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
-      "Wednesday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
-      "Thursday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
-      "Friday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20093:45\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20093:45\u202fPM"
+      "Monday: 7:00 AM – 4:45 PM",
+      "Tuesday: 7:00 AM – 4:45 PM",
+      "Wednesday: 7:00 AM – 4:45 PM",
+      "Thursday: 7:00 AM – 4:45 PM",
+      "Friday: 7:00 AM – 4:45 PM",
+      "Saturday: 8:00 AM – 3:45 PM",
+      "Sunday: 8:00 AM – 3:45 PM"
     ]
   },
   "delivery": true,
@@ -274,13 +274,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
-      "Tuesday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
-      "Wednesday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
-      "Thursday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
-      "Friday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20093:45\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20093:45\u202fPM"
+      "Monday: 7:00 AM – 4:45 PM",
+      "Tuesday: 7:00 AM – 4:45 PM",
+      "Wednesday: 7:00 AM – 4:45 PM",
+      "Thursday: 7:00 AM – 4:45 PM",
+      "Friday: 7:00 AM – 4:45 PM",
+      "Saturday: 8:00 AM – 3:45 PM",
+      "Sunday: 8:00 AM – 3:45 PM"
     ]
   },
   "photos": [
@@ -382,7 +382,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU48fLqvi0LSCxpwzdp3e8tbA4uMR9I4oveVhIdPMKtSXDZ6ptF=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "Staff moves with efficiency and very nice, everything I had was delish and the price is great for bakery items, I hope it never changes \ud83e\udd79. I really wanted to go back in for more.  Next time!\ud83d\udc98\nThere is a $10 minimum for cards. Cash is better if you don't want too much but you can get a satisfying snack or meal for that minimum.  The chicken bun  I had was \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d coffee milk tea was warming and you can adjust Sweetness.. I wanna try the Harlick and tofu flower drink as well as the soy milk.",
+      "text": "Staff moves with efficiency and very nice, everything I had was delish and the price is great for bakery items, I hope it never changes 🥹. I really wanted to go back in for more.  Next time!💘\nThere is a $10 minimum for cards. Cash is better if you don't want too much but you can get a satisfying snack or meal for that minimum.  The chicken bun  I had was 👍👍👍 coffee milk tea was warming and you can adjust Sweetness.. I wanna try the Harlick and tofu flower drink as well as the soy milk.",
       "time": 1713271232,
       "translated": false
     },
@@ -406,7 +406,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW48FniAypn6ONDkQXXS_bHtIS3ms7qRewyUmKq_oqi0NTuwolN=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 years ago",
-      "text": "PHENOMENAL! Such an authentic Chinese bakery and everything\u2019s so cheap!! Highly recommend their soy milk (only $2.75 for 20 oz) and pork floss bun!!\nThe bun is so soft and fluffy and the soy milk is super fresh\ud83d\udd7a egg tart was ok, feel like it was slightly under baked",
+      "text": "PHENOMENAL! Such an authentic Chinese bakery and everything’s so cheap!! Highly recommend their soy milk (only $2.75 for 20 oz) and pork floss bun!!\nThe bun is so soft and fluffy and the soy milk is super fresh🕺 egg tart was ok, feel like it was slightly under baked",
       "time": 1666278551,
       "translated": false
     },
@@ -418,7 +418,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWBNU8cCEtbpo6yZ4iheMLxAFqqdv16ugRfncBvDyrUe9dkw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Most delicious Taiwanese desserts at very affordable prices. I\u2019ve gotten multiple catering orders and the staff always help carry it out. Thank you Fay Da!",
+      "text": "Most delicious Taiwanese desserts at very affordable prices. I’ve gotten multiple catering orders and the staff always help carry it out. Thank you Fay Da!",
       "time": 1746201480,
       "translated": false
     },
@@ -451,9 +451,54 @@
   "website": "http://www.fayda.com/",
   "emails": [
     "info@fayda.com",
-    "ninfo@fayda.com",
     "info@stagheaddesigns.com",
+    "ninfo@fayda.com",
     "orders@fayda.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:08.159087+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:08.159087+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:46.163857+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://fayda.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://fayda.com/pages/contact",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://fayda.com/pages/about-us",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://fayda.com/pages/locations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://fayda.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://fayda.com/pages/contact",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://fayda.com/pages/about-us",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:08:49.169228+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

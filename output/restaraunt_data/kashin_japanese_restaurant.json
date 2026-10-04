@@ -199,13 +199,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Tuesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Wednesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Thursday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
       "Friday: Closed",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 5:00\u2009\u2013\u20099:00\u202fPM"
+      "Saturday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Sunday: 5:00 – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -372,13 +372,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 5:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Tuesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Wednesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Thursday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Friday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Saturday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+      "Sunday: 5:00 – 9:00 PM"
     ]
   },
   "photos": [
@@ -493,7 +493,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdoC2sRoJeSvTRDmYlkN6sXoy47gLThTBY1X_HQJRkJXjQHl21=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "We enjoyed trying this new gem that we discovered. From the moment we walked in the door, we actually thought it was a poke restaurant. We quickly realize that there\u2019s also Sushi here! We were greeted fairly promptly and the atmosphere was good. The place is a little small and service took a while. But food was delicious and we really enjoyed our experience. I would recommend anyone looking for a good Pok\u00e9 or a sushi place to give this small gem a try! My favorite roll was the one they grilled! Unfortunately I don\u2019t remember the name, but I will post a few pictures and videos below! It is a little bit on the price your side, but certainly worth trying at least once. We do plan on coming back.",
+      "text": "We enjoyed trying this new gem that we discovered. From the moment we walked in the door, we actually thought it was a poke restaurant. We quickly realize that there’s also Sushi here! We were greeted fairly promptly and the atmosphere was good. The place is a little small and service took a while. But food was delicious and we really enjoyed our experience. I would recommend anyone looking for a good Poké or a sushi place to give this small gem a try! My favorite roll was the one they grilled! Unfortunately I don’t remember the name, but I will post a few pictures and videos below! It is a little bit on the price your side, but certainly worth trying at least once. We do plan on coming back.",
       "time": 1717639564,
       "translated": false
     },
@@ -505,7 +505,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPsKKJsZ8oWi0rYD1iD3BhjdJMZYUG7alkN2M1uPj8IMJrl5MQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "I really enjoyed dinner here! I got here at about 5:10 and within an hour they were busy. The customer service was amazing! And the food was too. Literally the best katsudon I\u2019ve had in NC! Will definitely be back to have dinner again soon!",
+      "text": "I really enjoyed dinner here! I got here at about 5:10 and within an hour they were busy. The customer service was amazing! And the food was too. Literally the best katsudon I’ve had in NC! Will definitely be back to have dinner again soon!",
       "time": 1711607315,
       "translated": false
     },
@@ -529,7 +529,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXbwKl4b7VN2-3a_WfB7TcnTLa8dreGg9TeB4IqTpc59I7nS2v=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "This place is great\u2014family owned, delicious food and has vegetarian and vegan options. They even have a traditional floor sitting room. There is a separate gluten free menu and a separate vegetarian menu with vegan options clearly marked, even sushi(!)\u2014see my attached picture.",
+      "text": "This place is great—family owned, delicious food and has vegetarian and vegan options. They even have a traditional floor sitting room. There is a separate gluten free menu and a separate vegetarian menu with vegan options clearly marked, even sushi(!)—see my attached picture.",
       "time": 1747320118,
       "translated": false
     }
@@ -554,5 +554,19 @@
   "vicinity": "Parking lot, 309 Crossroads Blvd, Cary",
   "website": "http://www.kashin.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:24.451288+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:24.451288+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:08.607570+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://www.kashin.com/",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

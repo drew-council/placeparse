@@ -139,11 +139,11 @@
     "weekday_text": [
       "Monday: Closed",
       "Tuesday: Closed",
-      "Wednesday: 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fPM"
+      "Wednesday: 6:00 – 10:00 PM",
+      "Thursday: 6:00 – 10:00 PM",
+      "Friday: 6:00 – 10:00 PM",
+      "Saturday: 6:00 – 10:00 PM",
+      "Sunday: 11:00 AM – 2:30 PM"
     ]
   },
   "delivery": false,
@@ -226,11 +226,11 @@
     "weekday_text": [
       "Monday: Closed",
       "Tuesday: Closed",
-      "Wednesday: 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 6:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fPM"
+      "Wednesday: 6:00 – 10:00 PM",
+      "Thursday: 6:00 – 10:00 PM",
+      "Friday: 6:00 – 10:00 PM",
+      "Saturday: 6:00 – 10:00 PM",
+      "Sunday: 11:00 AM – 2:30 PM"
     ]
   },
   "photos": [
@@ -332,7 +332,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJe3dQy0RkBtaqpiyNkYz8sgy1SHFwOAfEbdgA-4ixU__hAdA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Absolutely phenomenal! This was hands-down one of the most exceptional and creatively executed tasting menus I\u2019ve ever had\u2014vegan or otherwise. Every course was a masterclass in flavor, texture, and presentation. You can tell the chef isn\u2019t just cooking plant-based food; they\u2019re creating art with it.\n\nFrom the first bite to the last, each dish was thoughtfully composed, showcasing unexpected ingredients and bold, vibrant flavors that played off each other beautifully. The pacing of the courses was perfect, and the staff were incredibly knowledgeable, walking us through the inspiration and elements of each plate.\n\nWhether you\u2019re vegan or simply a lover of great food, this is the kind of dining experience that sticks with you. It\u2019s a rare gem that pushes boundaries while staying deeply satisfying. The all female chef staff was also amazing to see in action. Highly recommend!",
+      "text": "Absolutely phenomenal! This was hands-down one of the most exceptional and creatively executed tasting menus I’ve ever had—vegan or otherwise. Every course was a masterclass in flavor, texture, and presentation. You can tell the chef isn’t just cooking plant-based food; they’re creating art with it.\n\nFrom the first bite to the last, each dish was thoughtfully composed, showcasing unexpected ingredients and bold, vibrant flavors that played off each other beautifully. The pacing of the courses was perfect, and the staff were incredibly knowledgeable, walking us through the inspiration and elements of each plate.\n\nWhether you’re vegan or simply a lover of great food, this is the kind of dining experience that sticks with you. It’s a rare gem that pushes boundaries while staying deeply satisfying. The all female chef staff was also amazing to see in action. Highly recommend!",
       "time": 1746839097,
       "translated": false
     },
@@ -404,10 +404,37 @@
   "website": "https://hagsnyc.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "no-reply@readymag.com",
-    "support@readymag.com",
     "edu@readymag.com",
-    "hello@readymag.com"
+    "hello@readymag.com",
+    "info@hagsnyc.com",
+    "no-reply@readymag.com",
+    "support@readymag.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:14.071300+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:14.071300+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:55.601856+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@hagsnyc.com": [
+        "https://hagsnyc.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://hagsnyc.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://hagsnyc.com/",
+        "status": "browser_ok",
+        "emails": [
+          "info@hagsnyc.com"
+        ]
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:09:01.282212+00:00",
+    "browser_outcome": "found"
+  }
 }

@@ -151,12 +151,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Tuesday: 11:00 AM – 9:30 PM",
+      "Wednesday: 11:00 AM – 9:30 PM",
+      "Thursday: 11:00 AM – 9:30 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:30 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -250,12 +250,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Tuesday: 11:00 AM – 9:30 PM",
+      "Wednesday: 11:00 AM – 9:30 PM",
+      "Thursday: 11:00 AM – 9:30 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:30 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -370,7 +370,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQTUt9uV6ulEXFZ7tlADQ1XxahvUmnHGKQEiOuVxdk_UPYpLTMbg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "Let me start by saying that the food was absolutely excellent. My wife and I are always a bit hesitant to try new restaurants since you never truly know what to expect\u2014regardless of how great the Google reviews are. However, this place did not disappoint! Every dish exceeded our expectations.\n\nOn top of that, the prices were surprisingly affordable\u2014almost too affordable. Given the quality of the food, they could easily charge more, as so many other restaurants have, but I certainly appreciated the value.\n\nThe only hiccup was upon arrival when they couldn\u2019t find my reservation, despite my having called and confirmed it two days prior. They mentioned that they only accept reservations for parties of five or more, which was a bit frustrating. That said, they handled the situation well and seated us fairly quickly, so I can\u2019t complain too much.\n\nOverall, it was a fantastic experience, and we\u2019ll definitely be coming back!",
+      "text": "Let me start by saying that the food was absolutely excellent. My wife and I are always a bit hesitant to try new restaurants since you never truly know what to expect—regardless of how great the Google reviews are. However, this place did not disappoint! Every dish exceeded our expectations.\n\nOn top of that, the prices were surprisingly affordable—almost too affordable. Given the quality of the food, they could easily charge more, as so many other restaurants have, but I certainly appreciated the value.\n\nThe only hiccup was upon arrival when they couldn’t find my reservation, despite my having called and confirmed it two days prior. They mentioned that they only accept reservations for parties of five or more, which was a bit frustrating. That said, they handled the situation well and seated us fairly quickly, so I can’t complain too much.\n\nOverall, it was a fantastic experience, and we’ll definitely be coming back!",
       "time": 1738332812,
       "translated": false
     },
@@ -382,7 +382,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmURMIctEZwqhT9lKJkeDaS-bi_h8xDyFPOmzxd9DZSh1hOrU=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "This is my second time here and I absolutely love it!\n\nIt\u2019s a small mom and pop shop!\n\nYou must try the crispy salt and pepper squid, it\u2019s so delicious!!\n\nThe pho is always a classic and warms you right up on a cold winter night!\n\nWe came on a Friday night and were seated right away!",
+      "text": "This is my second time here and I absolutely love it!\n\nIt’s a small mom and pop shop!\n\nYou must try the crispy salt and pepper squid, it’s so delicious!!\n\nThe pho is always a classic and warms you right up on a cold winter night!\n\nWe came on a Friday night and were seated right away!",
       "time": 1741395402,
       "translated": false
     },
@@ -427,5 +427,13 @@
   "user_ratings_total": 722,
   "utc_offset": -240,
   "vicinity": "42-05 162nd St, Flushing",
-  "business_status_checked_at": "2026-10-03T20:04:53.972193+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:53.972193+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:21.636373+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

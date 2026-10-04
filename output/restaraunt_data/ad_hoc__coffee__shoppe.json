@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 6:00 PM"
     ]
   },
   "dine_in": true,
@@ -266,13 +266,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Sunday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 6:00 PM"
     ]
   },
   "photos": [
@@ -373,7 +373,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVI8O_gLN7ce_X6-wDe5dUUaFdSUwi5gMmkxknc9lKmgK9ya8bK=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "This is a vintage-style caf\u00e9 \u2615\ufe0f tucked away underground in New York\u2019s West Village. If you walk by without paying attention to the small sign, you might miss it.\n\nThe words \u201cfood for the soul\u201d at the entrance caught my attention. I wondered if this place might have something that really fits my taste.\n\nThe name \u201cAd Hoc\u201d is also interesting. In the IT world, it usually means something temporary, but here it feels more like something that belongs to the present moment. I can imagine the space changing over time, which gives it a relaxed and flexible feeling.\n\nWhen I walked in, I saw four staff members \ud83d\udc68\ud83d\udc68\ud83d\udc69\ud83d\udc69 working. The space felt like a private study or reading room, filled with sofas \ud83d\udecb\ufe0f, old tables and chairs, books \ud83d\udcda, magazines, and newspapers \ud83d\udcf0. The atmosphere was warm and comfortable.\n\nThe coffee beans they were using today were called Eclipse, from a well-known brand called Onyx Coffee Lab. The flavor notes were baker\u2019s chocolate \ud83c\udf6b, burnt sugar, and smoked vanilla bean.\n\nI ordered a hot oat milk latte because I wanted to see what kind of latte art they would make. It came in a thick white ceramic cup, and the top had a neat leaf-shaped pattern. I believe the powder on top was a mix of cocoa and chocolate, because I could really taste the rich chocolate flavor and smell the cocoa. The sweetness was just right. The drink cost $7.62 with tax, and I think it was well worth it.",
+      "text": "This is a vintage-style café ☕️ tucked away underground in New York’s West Village. If you walk by without paying attention to the small sign, you might miss it.\n\nThe words “food for the soul” at the entrance caught my attention. I wondered if this place might have something that really fits my taste.\n\nThe name “Ad Hoc” is also interesting. In the IT world, it usually means something temporary, but here it feels more like something that belongs to the present moment. I can imagine the space changing over time, which gives it a relaxed and flexible feeling.\n\nWhen I walked in, I saw four staff members 👨👨👩👩 working. The space felt like a private study or reading room, filled with sofas 🛋️, old tables and chairs, books 📚, magazines, and newspapers 📰. The atmosphere was warm and comfortable.\n\nThe coffee beans they were using today were called Eclipse, from a well-known brand called Onyx Coffee Lab. The flavor notes were baker’s chocolate 🍫, burnt sugar, and smoked vanilla bean.\n\nI ordered a hot oat milk latte because I wanted to see what kind of latte art they would make. It came in a thick white ceramic cup, and the top had a neat leaf-shaped pattern. I believe the powder on top was a mix of cocoa and chocolate, because I could really taste the rich chocolate flavor and smell the cocoa. The sweetness was just right. The drink cost $7.62 with tax, and I think it was well worth it.",
       "time": 1749438299,
       "translated": false
     },
@@ -397,7 +397,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU04i-COsuE9XOZbsgc6RuzGPWNy1lgXt_FhJCfjtJv9hiReFEt=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "3 weeks ago",
-      "text": "Horrible matcha latte. Tastes like milk with a drop of grass. No flavor whatsoever. Ordered a Macadamia nut matcha latte for eight dollars. Took two sips and threw out. Not the most friendly staff. I said use the milk you recommend- they couldn\u2019t provide an answer. Cute spot and I\u2019m sure the coffee is good but don\u2019t come here for matcha",
+      "text": "Horrible matcha latte. Tastes like milk with a drop of grass. No flavor whatsoever. Ordered a Macadamia nut matcha latte for eight dollars. Took two sips and threw out. Not the most friendly staff. I said use the milk you recommend- they couldn’t provide an answer. Cute spot and I’m sure the coffee is good but don’t come here for matcha",
       "time": 1749317643,
       "translated": false
     },
@@ -409,7 +409,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXY5LVT7-uibP60abWm51Lnd8Mw27UYwZLGbEhI-91O2fYA6fzM=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "9 months ago",
-      "text": "I saved this place to visit because I was intrigued by its underground structure, and I finally stopped by last weekend. Unfortunately, the kitchen had closed by the time I arrived, so I ordered a matcha made with water.\n\nThe cozy decor and friendly staff made for a nice experience, and I enjoyed the rich matcha while I was there. I\u2019ll definitely come back the next time I'm in the area!",
+      "text": "I saved this place to visit because I was intrigued by its underground structure, and I finally stopped by last weekend. Unfortunately, the kitchen had closed by the time I arrived, so I ordered a matcha made with water.\n\nThe cozy decor and friendly staff made for a nice experience, and I enjoyed the rich matcha while I was there. I’ll definitely come back the next time I'm in the area!",
       "time": 1727124383,
       "translated": false
     },
@@ -443,5 +443,19 @@
   "utc_offset": -240,
   "vicinity": "13 Christopher St, New York",
   "website": "http://www.adhoccollective.com/",
-  "business_status_checked_at": "2026-10-03T20:04:37.329651+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:37.329651+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:03.414235+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.adhoccollective.com/",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -143,12 +143,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -246,12 +246,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -390,7 +390,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvvMWZZugnr2rGpPS4iqLIg8HnjMeZtqq9FqHXjIXIVq8TPcz_=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "Indian food being one of my favorite cuisines ever, Ive been so excited to visit Jackson Heights, and more specifically Angel.\n\nThey serve free papadum to start which was so nice!\n\nI started with the Pani Puri which was excellent. I just got back from playing tennis and the pani was extremely refreshing. There was a tiny bit if heat too it which made it cooling but with a kick! I loved this a lot.\n\nThen I tried the Chole Bhature which was fireee. The chikpeas were creamy and the sauce here was super interesting. I honestly didn\u2019t know what to expect because this was my first time trying this dish but I was pleasantly surprised to get sort of a fall spice essence! It really reminded me of pumpkin with cinnamon. It came with some onions which really lightened up the dish too. The bread here was incredible. Very large, super crisp on the outside but was still a bit soft inside.\n\nI also got the Saag Paneer which is my default at every Indian restaurant. I will say I am a bit partial to more blended saag paneers and this one seemed to feature whole spinach leaves, but the flavor was still great. Actually different than most saag paneers Ive had but I liked this variation of it. But I need to give a special shout out to the paneer itself here because WOW that is some of the softest creamiest lightest paneer Ive ever had. It quite literally felt like eating a cloud. I think the paneer here is homemade and you can definitely taste that.\n\nHad some garlic naan on the side as well which was standard but in a good way.\n\nThe portion sizes were large and I have like 2 more dinner\u2019s worth of leftovers which I am so excited about!",
+      "text": "Indian food being one of my favorite cuisines ever, Ive been so excited to visit Jackson Heights, and more specifically Angel.\n\nThey serve free papadum to start which was so nice!\n\nI started with the Pani Puri which was excellent. I just got back from playing tennis and the pani was extremely refreshing. There was a tiny bit if heat too it which made it cooling but with a kick! I loved this a lot.\n\nThen I tried the Chole Bhature which was fireee. The chikpeas were creamy and the sauce here was super interesting. I honestly didn’t know what to expect because this was my first time trying this dish but I was pleasantly surprised to get sort of a fall spice essence! It really reminded me of pumpkin with cinnamon. It came with some onions which really lightened up the dish too. The bread here was incredible. Very large, super crisp on the outside but was still a bit soft inside.\n\nI also got the Saag Paneer which is my default at every Indian restaurant. I will say I am a bit partial to more blended saag paneers and this one seemed to feature whole spinach leaves, but the flavor was still great. Actually different than most saag paneers Ive had but I liked this variation of it. But I need to give a special shout out to the paneer itself here because WOW that is some of the softest creamiest lightest paneer Ive ever had. It quite literally felt like eating a cloud. I think the paneer here is homemade and you can definitely taste that.\n\nHad some garlic naan on the side as well which was standard but in a good way.\n\nThe portion sizes were large and I have like 2 more dinner’s worth of leftovers which I am so excited about!",
       "time": 1749303164,
       "translated": false
     },
@@ -427,5 +427,19 @@
   "vicinity": "7414 37th Rd, Queens",
   "website": "https://angelindianqueens.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:40.444357+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:40.444357+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:06.373463+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://angelindianqueens.com/",
+        "status": "SSLError",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

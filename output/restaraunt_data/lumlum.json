@@ -202,13 +202,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -355,13 +355,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -464,7 +464,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIuS8N5wndjCTXSwsN3RajALljronNEwBiHhcmwgSf4FxvBwQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "I\u2019ve had this place on my list for years and boy did it exceed my expectations. This was hands down the best Pad Thai I\u2019ve ever had - we got the beef. It was so juicy and flavorful as was the fried pork belly and steamed branzino. The drinks were nicely sized and delicious. I loved the ambience - felt like an episode of white lotus. Hands down my new favorite Thai spot.",
+      "text": "I’ve had this place on my list for years and boy did it exceed my expectations. This was hands down the best Pad Thai I’ve ever had - we got the beef. It was so juicy and flavorful as was the fried pork belly and steamed branzino. The drinks were nicely sized and delicious. I loved the ambience - felt like an episode of white lotus. Hands down my new favorite Thai spot.",
       "time": 1745173231,
       "translated": false
     },
@@ -476,7 +476,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqq0w6s0hlOaHaQaIiSKUADR-2PdIv92NfrKD72X8GxkP0t_Y=s128-c0x00000000-cc-rp-mo-ba7",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "WOW. Some of the best Thai food I\u2019ve ever had. Would highly recommend their Fried Pork Belly as an appetizer, as well as their Pork Rind Fried Rice, though everything we tried was incredible. Thai Iced Tea and Coffee are both delicious! Recommend a reservation, as it fills up quickly once it opens. Looking forward to coming again soon.",
+      "text": "WOW. Some of the best Thai food I’ve ever had. Would highly recommend their Fried Pork Belly as an appetizer, as well as their Pork Rind Fried Rice, though everything we tried was incredible. Thai Iced Tea and Coffee are both delicious! Recommend a reservation, as it fills up quickly once it opens. Looking forward to coming again soon.",
       "time": 1748271882,
       "translated": false
     },
@@ -500,7 +500,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXRcKxwI7CImNwMjjEVTg198KXd2esw3frJZcI_HjKyxbcvOPLnw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "I loved the Seafood Tom Yum Noodle - the flavor of it was really unique and tasty. The crying tiger was good. Every dish was wow! I\u2019m very eager to come again and try more new food.",
+      "text": "I loved the Seafood Tom Yum Noodle - the flavor of it was really unique and tasty. The crying tiger was good. Every dish was wow! I’m very eager to come again and try more new food.",
       "time": 1749082270,
       "translated": false
     },
@@ -512,7 +512,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxrM48VTYUtRahqeeOKAbM9GfQ1VxY0Z5MtVHF414D2K6KeZ7H=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "4 weeks ago",
-      "text": "The crying tiger was everything I needed it to be. And the orange salad was such a good combination. I think my waitress name was Gali and she was so sweet. I love it when servers don\u2019t make it awkward when I dine in alone. The service here is amazing. I can\u2019t wait to eat my leftovers. I will definitely be coming back!",
+      "text": "The crying tiger was everything I needed it to be. And the orange salad was such a good combination. I think my waitress name was Gali and she was so sweet. I love it when servers don’t make it awkward when I dine in alone. The service here is amazing. I can’t wait to eat my leftovers. I will definitely be coming back!",
       "time": 1748575127,
       "translated": false
     }
@@ -536,15 +536,45 @@
   "vicinity": "404 W 49th St, New York",
   "website": "http://www.lumlumnyc.com/",
   "emails": [
-    "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
-    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
     "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
-    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
-    "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
-    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
     "8c4075d5481d476e945486754f783364@sentry.io",
+    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
     "INFO@LUMLUMNYC.COM",
-    "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com"
+    "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+    "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+    "info@lumlumnyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:34.608931+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:34.608931+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:19.029703+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@lumlumnyc.com": [
+        "https://www.lumlumnyc.com/",
+        "https://www.lumlumnyc.com/contact-5"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.lumlumnyc.com/",
+        "status": "ok",
+        "emails": [
+          "info@lumlumnyc.com"
+        ]
+      },
+      {
+        "url": "https://www.lumlumnyc.com/contact-5",
+        "status": "ok",
+        "emails": [
+          "info@lumlumnyc.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.lumlumnyc.com/contact-5"
+    ]
+  }
 }

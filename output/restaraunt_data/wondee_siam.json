@@ -238,13 +238,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM"
+      "Monday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+      "Tuesday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+      "Wednesday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+      "Thursday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+      "Friday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+      "Saturday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+      "Sunday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM"
     ]
   },
   "delivery": true,
@@ -421,13 +421,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM"
+      "Monday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+      "Tuesday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+      "Wednesday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+      "Thursday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+      "Friday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+      "Saturday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM",
+      "Sunday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM"
     ]
   },
   "photos": [
@@ -482,7 +482,7 @@
     {
       "height": 3024,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/107197653497146903248\">Teddybear \u201cTeddybear\u201d MT</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/107197653497146903248\">Teddybear “Teddybear” MT</a>"
       ],
       "photo_reference": "ATKogpefvjtQvzZ7h6CRKLD1ngr-BRfj3_JDBNdw5hnSDXTDOE37Cqy7YYh7Bh23SaVum_A5zA22QY5ogNUeJLbVysC7gWNLeUp-bEEo5B2HetV4JE64o6FblnXuTWmtx65KV3lFx697v2FDQEg2QQZy05H-cwlPjiEYqBqRfqg_TrqKV_fM291TpSnnfgOhV4Z4ZfdIN_amrOHhtrla11wuyZewr0afy3uc5rzz4VCv8sa9YUVTUITYsfg7jycCXnDGBlrvbR-JCFezIRiocIS6Sm-oNWGB_KORo5VdSMTP5uNYo-U8GUgnhR-9UeMbrw9S_Ss-psPIrxugv1I6v7YT-1rmJwJ5gaRfMkk9W4wEFb6qDY5UC1SChFrZTADRgK_pf1QwLyz2sCVmaACMpHpjIUgIESTRNsHerbROgxk",
       "width": 4032
@@ -529,7 +529,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfyg25jjfcW7otvLyKq6NgHCZIfm7Y4AOvxj2EAGYSg8V0O6Sl=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Hands down the best Thai restaurant in Manhattan! The flavors are truly authentic \u2014 confirmed by Thai people like me. I always come here with friends. It gets busy at dinner, so I usually come for lunch. My go-to dishes are papaya salad with raw crab, kor moo yang, mieng kana, and the whole red snapper with garlic. Everything is packed with bold, real Thai flavors. The staff are so friendly and welcoming, which makes the experience even better. If you\u2019re craving the real deal, this is the spot!",
+      "text": "Hands down the best Thai restaurant in Manhattan! The flavors are truly authentic — confirmed by Thai people like me. I always come here with friends. It gets busy at dinner, so I usually come for lunch. My go-to dishes are papaya salad with raw crab, kor moo yang, mieng kana, and the whole red snapper with garlic. Everything is packed with bold, real Thai flavors. The staff are so friendly and welcoming, which makes the experience even better. If you’re craving the real deal, this is the spot!",
       "time": 1748502751,
       "translated": false
     },
@@ -541,7 +541,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaOB5dVDtYEDYLB5DjSnMXQiHf4gwvf2hLMfwBXRce4TBkGV_j=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "Wondee Siam truly blew me away! I came in craving Thai food and left completely satisfied and impressed. The standout of my meal was the papaya salad with crab, it was absolutely amazing. The flavor was bold, tangy, spicy, and packed with that authentic Thai punch. The fresh green papaya had the perfect crunch, and the crab added such a rich, savory depth that took the dish to another level. You can tell they know how to do traditional Thai food right.\n\nThe entire experience was wonderful from start to finish. The staff was kind, attentive, and welcoming without being overbearing. The restaurant itself has a warm, cozy feel that makes you want to sit and savor every bite. Even though it\u2019s a small space, it\u2019s full of charm and authenticity.\n\nPrices were fair, especially considering the quality and portion sizes. You get so much value for what you pay both in taste and service. Wondee Siam is the kind of place that leaves you thinking about your meal long after it\u2019s over.\n\nIf you\u2019re a fan of Thai food or even if you\u2019ve never tried papaya salad with crab you need to give this place a visit. It\u2019s easily one of the best Thai spots I\u2019ve found in NYC. I can\u2019t wait to come back and try more from their menu!",
+      "text": "Wondee Siam truly blew me away! I came in craving Thai food and left completely satisfied and impressed. The standout of my meal was the papaya salad with crab, it was absolutely amazing. The flavor was bold, tangy, spicy, and packed with that authentic Thai punch. The fresh green papaya had the perfect crunch, and the crab added such a rich, savory depth that took the dish to another level. You can tell they know how to do traditional Thai food right.\n\nThe entire experience was wonderful from start to finish. The staff was kind, attentive, and welcoming without being overbearing. The restaurant itself has a warm, cozy feel that makes you want to sit and savor every bite. Even though it’s a small space, it’s full of charm and authenticity.\n\nPrices were fair, especially considering the quality and portion sizes. You get so much value for what you pay both in taste and service. Wondee Siam is the kind of place that leaves you thinking about your meal long after it’s over.\n\nIf you’re a fan of Thai food or even if you’ve never tried papaya salad with crab you need to give this place a visit. It’s easily one of the best Thai spots I’ve found in NYC. I can’t wait to come back and try more from their menu!",
       "time": 1750174702,
       "translated": false
     },
@@ -553,7 +553,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHIM3o6ZOIS-ZOdKVXe4VeFjXrkKrD1VuaZLTFtOWnfjn979vW=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "The best authentic Thai restaurant in NYC! As a Thai person I can guarantee that Wondee Siam is the best place if you\u2019re looking for authentic Thai food and I\u2019ve been dining here a thousand times, always been my most favorite Thai restaurant in NYC. Everything was amazing and delicious as always, please be careful about the spicy levels if you can\u2019t handle it very well don\u2019t be too confident to order anything very spicy here. I warned you! Lollll. 100 out of 10 for me.",
+      "text": "The best authentic Thai restaurant in NYC! As a Thai person I can guarantee that Wondee Siam is the best place if you’re looking for authentic Thai food and I’ve been dining here a thousand times, always been my most favorite Thai restaurant in NYC. Everything was amazing and delicious as always, please be careful about the spicy levels if you can’t handle it very well don’t be too confident to order anything very spicy here. I warned you! Lollll. 100 out of 10 for me.",
       "time": 1747179836,
       "translated": false
     },
@@ -565,7 +565,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMTj_eZaibUukJ9X7DVjhvUixgOWyIYhm7up1c54YBIgzk8q4qow=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "We asked the staff where the owner was because we wanted them to come to Boston \ud83d\ude06!! The food was THAT good! I really love the staff especially the older lady that greeted us at the front door. Definitely recommend to people who haven\u2019t tried and expanded their Thai food experience \ud83e\udd70\ud83e\udd70",
+      "text": "We asked the staff where the owner was because we wanted them to come to Boston 😆!! The food was THAT good! I really love the staff especially the older lady that greeted us at the front door. Definitely recommend to people who haven’t tried and expanded their Thai food experience 🥰🥰",
       "time": 1749995626,
       "translated": false
     },
@@ -577,7 +577,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdN4L7-IMLdSbNxRzvR7wMvkHaPXBd82Ozf34GwGaKHmdaDuQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "This place totally lives up to the hype!\nThe food? Super authentic and seriously delicious. The portions are generous (no one\u2019s leaving hungry), and the prices won\u2019t make your wallet cry.\n\nThe service is top-notch\u2014friendly, fast, and just the right amount of chatty.\nPlus, the modern vibe gives it that cool, comfy feel.\nIf you\u2019re craving Thai, this spot is a must-try!",
+      "text": "This place totally lives up to the hype!\nThe food? Super authentic and seriously delicious. The portions are generous (no one’s leaving hungry), and the prices won’t make your wallet cry.\n\nThe service is top-notch—friendly, fast, and just the right amount of chatty.\nPlus, the modern vibe gives it that cool, comfy feel.\nIf you’re craving Thai, this spot is a must-try!",
       "time": 1745872776,
       "translated": false
     }
@@ -601,5 +601,26 @@
   "utc_offset": -240,
   "vicinity": "782 9th Ave, New York",
   "website": "http://www.wondeesiamnyc.com/",
-  "business_status_checked_at": "2026-10-03T20:06:25.844399+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:25.844399+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:24.809446+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.wondeesiamnyc.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.wondeesiamnyc.com/hours-contacts",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.wondeesiamnyc.com/hours-contacts"
+    ]
+  }
 }

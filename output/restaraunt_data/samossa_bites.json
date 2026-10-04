@@ -203,13 +203,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM",
+      "Tuesday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM",
+      "Wednesday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM",
+      "Thursday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM",
+      "Friday: 11:00 AM – 9:30 PM",
+      "Saturday: 11:00 AM – 9:30 PM",
+      "Sunday: 11:00 AM – 9:30 PM"
     ]
   },
   "delivery": true,
@@ -356,13 +356,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM",
+      "Tuesday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM",
+      "Wednesday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM",
+      "Thursday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM",
+      "Friday: 11:00 AM – 9:30 PM",
+      "Saturday: 11:00 AM – 9:30 PM",
+      "Sunday: 11:00 AM – 9:30 PM"
     ]
   },
   "photos": [
@@ -489,7 +489,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9r5U1wmcLkcxMJF6myNpwrMIWCJISY5rxIW8NIvl-eGym-W3TAw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "I have been here since two years, but now i found a hidden gem in Astoria. im missing my home flavour so long, but i can say this is the best Indian restaurant in NY. specially their Biryani is awesome . i have tried Chicken biryani here \ud83d\ude1aand Fish pakoras are awesome\ud83d\ude0d\ud83d\ude0d. My to go place",
+      "text": "I have been here since two years, but now i found a hidden gem in Astoria. im missing my home flavour so long, but i can say this is the best Indian restaurant in NY. specially their Biryani is awesome . i have tried Chicken biryani here 😚and Fish pakoras are awesome😍😍. My to go place",
       "time": 1716830693,
       "translated": false
     },
@@ -501,7 +501,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJvbpJHi3HY9V3m5R0USPEYgfW72FDqkOg5oq4jpH77txGzBPM=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "2 years ago",
-      "text": "Samosa Bites is small, quaint, cozy and friendly. The person working was welcoming and helpful. The menu\nis substantial so I am grateful for the patience of the worker.\nI chose the eponymous samosa. It comes 4 per order. It came out hot and fresh and quite tasty! The two sauces were equally tantalizing. I enjoyed this experience and will return to try out the other items on the menu.\nWhat a cool little place to happen upon in the middle of the otherwise industrial part of Astoria.\nWishing you well with lots of customers in the coming months \ud83d\udc9c\ud83d\udc9c",
+      "text": "Samosa Bites is small, quaint, cozy and friendly. The person working was welcoming and helpful. The menu\nis substantial so I am grateful for the patience of the worker.\nI chose the eponymous samosa. It comes 4 per order. It came out hot and fresh and quite tasty! The two sauces were equally tantalizing. I enjoyed this experience and will return to try out the other items on the menu.\nWhat a cool little place to happen upon in the middle of the otherwise industrial part of Astoria.\nWishing you well with lots of customers in the coming months 💜💜",
       "time": 1684270665,
       "translated": false
     },
@@ -657,13 +657,13 @@
       ],
       "type": "DELIVERY",
       "weekday_text": [
-        "Monday: 11:00\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-        "Tuesday: 11:00\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-        "Wednesday: 11:00\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-        "Thursday: 11:00\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-        "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Sunday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+        "Monday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM",
+        "Tuesday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM",
+        "Wednesday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM",
+        "Thursday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM",
+        "Friday: 11:00 AM – 9:30 PM",
+        "Saturday: 11:00 AM – 9:30 PM",
+        "Sunday: 11:00 AM – 9:30 PM"
       ]
     },
     {
@@ -804,13 +804,13 @@
       ],
       "type": "TAKEOUT",
       "weekday_text": [
-        "Monday: 11:00\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-        "Tuesday: 11:00\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-        "Wednesday: 11:00\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-        "Thursday: 11:00\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-        "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Sunday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+        "Monday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM",
+        "Tuesday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM",
+        "Wednesday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM",
+        "Thursday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM",
+        "Friday: 11:00 AM – 9:30 PM",
+        "Saturday: 11:00 AM – 9:30 PM",
+        "Sunday: 11:00 AM – 9:30 PM"
       ]
     }
   ],
@@ -836,5 +836,45 @@
   "emails": [
     "customerservice@samossabites.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:03.014554+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:03.014554+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:52.347659+00:00",
+    "outcome": "found",
+    "sources": {
+      "customerservice@samossabites.com": [
+        "https://samossabites.com/",
+        "https://samossabites.com/page/catering"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://samossabites.com/",
+        "status": "ok",
+        "emails": [
+          "customerservice@samossabites.com"
+        ]
+      },
+      {
+        "url": "https://samossabites.com/page/catering",
+        "status": "ok",
+        "emails": [
+          "customerservice@samossabites.com"
+        ]
+      },
+      {
+        "url": "https://samossabites.com/page/contact-us",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://samossabites.com/events",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://samossabites.com/page/catering",
+      "https://samossabites.com/page/contact-us"
+    ]
+  }
 }

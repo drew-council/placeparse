@@ -156,13 +156,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Tuesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
     ]
   },
   "delivery": true,
@@ -189,7 +189,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 917-397-7779",
-  "name": "Seven Scents \u4e03\u53f7\u5c0f\u4e32 | Skewers \u00b7 Beer \u00b7 Chinese BBQ",
+  "name": "Seven Scents 七号小串 | Skewers · Beer · Chinese BBQ",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -265,20 +265,20 @@
       }
     ],
     "weekday_text": [
-      "Monday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Tuesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
     ]
   },
   "photos": [
     {
       "height": 1382,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/105260517467016926596\">Seven Scents \u4e03\u53f7\u5c0f\u4e32 | Skewers \u00b7 Beer \u00b7 Chinese BBQ</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/105260517467016926596\">Seven Scents 七号小串 | Skewers · Beer · Chinese BBQ</a>"
       ],
       "photo_reference": "ATKogpe-mumwu5CHIHfOZsuE5EAjHh08p511xrkxskq988XqdZoIq54A39b3nvx-wjDB1lqy9ksLaRPZNT3HNnIaw4wXGRLQHqTvHFPIRj78jZNDuGpZTob8IR61-grV8dRYQzHjU48pW83luGQQSqUEg6yPpiBKaqOv8ImD_NOTHZ7Cz-S4eWepDNioUrEkNtU7TzAZXKAAPtJsZFi9jSCkgsfUd1rubnJxbQb2-7X9ZhFpM0mRDuqb1sdEaM1KH4MD3WNsJ75sz1QMP3qtOX0RaGXfIivoq6JC0TQZpLKeWROvzA",
       "width": 2090
@@ -294,7 +294,7 @@
     {
       "height": 948,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/105260517467016926596\">Seven Scents \u4e03\u53f7\u5c0f\u4e32 | Skewers \u00b7 Beer \u00b7 Chinese BBQ</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/105260517467016926596\">Seven Scents 七号小串 | Skewers · Beer · Chinese BBQ</a>"
       ],
       "photo_reference": "ATKogpfIcz0_xBolzQMnc-vjg3IDDnQWiEgKS6GKSmn-2iHEwxxu89EEwjYcS9UeXjjVKgV8PbNB2PuOIf1vEOdfjxlEXOYuygvlqvwpj4dh7_ioRjAPr7TaNvsyrDO5IZ2IIdjJkBW4w_7bmc0THaSGaNf_qaNoUrn34_tkGY5q1DLcmoJDSLMAxZuycCFDDbzN69KZmucXoIPgADe0xPkDHnNLT4OitUJ2GePpWjpR3_o8iTfoJZ2Kk_wKQ1x2ZbgEEpUQ2Uavv7bXZ-GIDydmR5jjZQzayehGMmcjYa7qDeYhmQ",
       "width": 1288
@@ -302,7 +302,7 @@
     {
       "height": 950,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/105260517467016926596\">Seven Scents \u4e03\u53f7\u5c0f\u4e32 | Skewers \u00b7 Beer \u00b7 Chinese BBQ</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/105260517467016926596\">Seven Scents 七号小串 | Skewers · Beer · Chinese BBQ</a>"
       ],
       "photo_reference": "ATKogpcjEoN6S35gP8Zxd07AmIxrQhd55Z-9YQZXYCuivMu3enJDtETiUK9jjPavChnKg0xula710jdpWK-kaQZ-THzuO2f5rk3S1Nf-r6W7CFWOi0EYiIVt6cqtzCmuzafxhALHgd9IZ6RDufO9jmt19wjTapNE_nRkPDkawycXyhmD99sDz6s9id4rw06hPuEn0aF0UEBmR2UU4TVG1bIUD3BmKMxsegm60bM82aV4phZbGGrAZGDQ59XjStHi0VfHDPAMmtIn8IWLeNcxCV4eB9_vQCoGi2UJpeaHcbRGafLqtQ",
       "width": 1308
@@ -372,7 +372,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuhZR4zIlUmumum1nbqMtve-QySmrlIBqCMh3eVCzyj0mRfg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "in the last week",
-      "text": "I came by with 3 friends recently to this newly-opened restaurant that specializes in skewers. We came on a Saturday evening around 6:30, and there were still a handful of tables available, but filled up while we were eating. (When we got there they asked us if we had reservations, but I don't see anywhere to make reservations online; so you might have to call to make one?)\n\nThey have a pretty big menu of various spicy dishes (many of which did seem yummy!), but we decided to only try the skewers :) Price point is a tad high - around $2 per skewer on average (before tax/tip), but overall they were quite yummy. Our favourites were the grilled beef (fat & lean) \u725b\u8089\u5c0f\u4e32(\u80a5\u7626) and the grilled black pepper beef skewers \u9ed1\u6912\u725b\u8089\u4e32. Both were quite nicely seasoned with cumin, pepper, etc. and the beef was well cooked to a tender softness.\n\nWe also tried a few other options - beef tendons were fine but tended to taste a bit too oily, and the chicken cartilage had a nice flavour but texture was hard to chew. When we ordered, we were told that they didn't have any of the pork options available that evening (maybe growing pains with supply chain and what not).\n\nIt's pretty interesting that they bring the skewers to you without a plate or anything (once you have a tray/plate on your table).\n\nAlso, I think the ventilation in the restaurant\u00a0is pretty lacking. Especially further away from the exit, you could smell and even see there was a lot of smokiness in the air (from the skewer grills).\n\nAll in all, a pretty decent meal at a good price. I'm keen to come back to try some of their non-skewer dishes in the future !",
+      "text": "I came by with 3 friends recently to this newly-opened restaurant that specializes in skewers. We came on a Saturday evening around 6:30, and there were still a handful of tables available, but filled up while we were eating. (When we got there they asked us if we had reservations, but I don't see anywhere to make reservations online; so you might have to call to make one?)\n\nThey have a pretty big menu of various spicy dishes (many of which did seem yummy!), but we decided to only try the skewers :) Price point is a tad high - around $2 per skewer on average (before tax/tip), but overall they were quite yummy. Our favourites were the grilled beef (fat & lean) 牛肉小串(肥瘦) and the grilled black pepper beef skewers 黑椒牛肉串. Both were quite nicely seasoned with cumin, pepper, etc. and the beef was well cooked to a tender softness.\n\nWe also tried a few other options - beef tendons were fine but tended to taste a bit too oily, and the chicken cartilage had a nice flavour but texture was hard to chew. When we ordered, we were told that they didn't have any of the pork options available that evening (maybe growing pains with supply chain and what not).\n\nIt's pretty interesting that they bring the skewers to you without a plate or anything (once you have a tray/plate on your table).\n\nAlso, I think the ventilation in the restaurant is pretty lacking. Especially further away from the exit, you could smell and even see there was a lot of smokiness in the air (from the skewer grills).\n\nAll in all, a pretty decent meal at a good price. I'm keen to come back to try some of their non-skewer dishes in the future !",
       "time": 1750564321,
       "translated": false
     },
@@ -384,7 +384,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmKCToty6dQYlZdUJHHRyny2xUbwUarfVkD5Txo4kE_iuffQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "in the last week",
-      "text": "Food was incredible - so much better than I expected based on my first impression of the space and atmosphere. And the food is most important! I was put off by the plastic table and thin, disposable, plastic plates/bowls, the loud pop music, and the echo-y, austere interior. So I expected the worst but was pleasantly surprised when the food arrived.\n\nWe had the dry fried green beans, chilled lettuce tips, and a selection of skewers, and thoroughly enjoyed it. The skewers are loaded with the smokiness and flavor of real charcoal and seasoned perfectly. Overall very reminiscent of what you\u2019ll get in China.\n\nThe chicken wings were very well done, which I prefer, though my wife did not and insisted is not the standard for Chinese BBQ.\n\nWith a shared side of rice and a beer. It came to about $90 with tax and tip. Not cheap but also not outrageous.\n\nThis is not a place to spend time. Service is responsive and to the point, no frills. Efficiency is the game. Sit, eat, get out. We\u2019ll likely order take out in the future.",
+      "text": "Food was incredible - so much better than I expected based on my first impression of the space and atmosphere. And the food is most important! I was put off by the plastic table and thin, disposable, plastic plates/bowls, the loud pop music, and the echo-y, austere interior. So I expected the worst but was pleasantly surprised when the food arrived.\n\nWe had the dry fried green beans, chilled lettuce tips, and a selection of skewers, and thoroughly enjoyed it. The skewers are loaded with the smokiness and flavor of real charcoal and seasoned perfectly. Overall very reminiscent of what you’ll get in China.\n\nThe chicken wings were very well done, which I prefer, though my wife did not and insisted is not the standard for Chinese BBQ.\n\nWith a shared side of rice and a beer. It came to about $90 with tax and tip. Not cheap but also not outrageous.\n\nThis is not a place to spend time. Service is responsive and to the point, no frills. Efficiency is the game. Sit, eat, get out. We’ll likely order take out in the future.",
       "time": 1750596314,
       "translated": false
     },
@@ -396,7 +396,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUL_aW6PIqLln_hEkpsYDBmWH7EpXJ1CoxRHpHsJ5pUB84qUICS=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "This place is so good! Seven Scents has everything I love \u2014 juicy, flavorful skewers, ice-cold beer, and that unbeatable Chinese BBQ vibe. The grilled meats were perfectly seasoned and tender, and the side dishes? Super tasty and comforting \u2014 just like a late-night meal back home.\nAlso, don\u2019t miss the spicy crawfish \u2014 messy, spicy, and totally worth it. Everything was fresh and full of flavor.\nThe vibe is chill, the service is friendly, and it\u2019s a great place to hang out with friends. Prices are fair for the quality and portion size. Definitely adding this to my regular rotation!",
+      "text": "This place is so good! Seven Scents has everything I love — juicy, flavorful skewers, ice-cold beer, and that unbeatable Chinese BBQ vibe. The grilled meats were perfectly seasoned and tender, and the side dishes? Super tasty and comforting — just like a late-night meal back home.\nAlso, don’t miss the spicy crawfish — messy, spicy, and totally worth it. Everything was fresh and full of flavor.\nThe vibe is chill, the service is friendly, and it’s a great place to hang out with friends. Prices are fair for the quality and portion size. Definitely adding this to my regular rotation!",
       "time": 1748518415,
       "translated": false
     },
@@ -408,7 +408,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJRvT5pAcDnxnYNN0FS5qbxWz60AuQ-TWJNTAa5NQZQAgblA=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "My friends and I had dinner here last night, and we were seriously impressed! We ordered the grilled beef skewers with peppers \u2014 perfectly grilled, juicy, and packed with flavor. Everything we tried was fantastic and full of flavor. We will definitely come back.",
+      "text": "My friends and I had dinner here last night, and we were seriously impressed! We ordered the grilled beef skewers with peppers — perfectly grilled, juicy, and packed with flavor. Everything we tried was fantastic and full of flavor. We will definitely come back.",
       "time": 1749475828,
       "translated": false
     },
@@ -440,11 +440,32 @@
   "vicinity": "42-17 Crescent St, Long Island City",
   "website": "https://www.sevenscentsny.com/",
   "emails": [
-    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
-    "example@mysite.com",
-    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
     "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
-    "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com"
+    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "example@mysite.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:06.402354+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:06.402354+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:56.408228+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.sevenscentsny.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.sevenscentsny.com",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.sevenscentsny.com/",
+      "https://www.sevenscentsny.com"
+    ]
+  }
 }

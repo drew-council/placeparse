@@ -160,13 +160,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 2:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 2:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 2:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 2:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 2:00 – 9:00 PM",
+      "Tuesday: 2:00 – 9:00 PM",
+      "Wednesday: 2:00 – 9:00 PM",
+      "Thursday: 2:00 – 9:00 PM",
+      "Friday: 12:00 – 9:00 PM",
+      "Saturday: 12:00 – 9:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -269,13 +269,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 2:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 2:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 2:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 2:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 2:00\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 2:00 – 9:00 PM",
+      "Tuesday: 2:00 – 9:00 PM",
+      "Wednesday: 2:00 – 9:00 PM",
+      "Thursday: 2:00 – 9:00 PM",
+      "Friday: 2:00 – 9:00 PM",
+      "Saturday: 12:00 – 9:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
     ]
   },
   "photos": [
@@ -389,7 +389,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzHXyYf-XaYRg1p3EiA1Klp7nS2CZ0KvbE6CVJw7o-iSgTXZ-7=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Hidden gem in woodside for Filipino desserts! There\u2019s seating inside - great for a sweet treat hangout with friends.\n\nI love how they have $1 \ud83e\uddc1 cupcakes. Sometimes I\u2019m not in the mood for something large that\u2019s sweet and it provides the perfect dose of sweetness.\n\nIce cream flavor recommend ube and pandan.\n\nOnly complaint is that the bathroom door doesn\u2019t have a lock - it is something easy to implement and fix.",
+      "text": "Hidden gem in woodside for Filipino desserts! There’s seating inside - great for a sweet treat hangout with friends.\n\nI love how they have $1 🧁 cupcakes. Sometimes I’m not in the mood for something large that’s sweet and it provides the perfect dose of sweetness.\n\nIce cream flavor recommend ube and pandan.\n\nOnly complaint is that the bathroom door doesn’t have a lock - it is something easy to implement and fix.",
       "time": 1743511322,
       "translated": false
     },
@@ -401,7 +401,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeQ3mU2pRv3Q7lsP5MHMK3FUpsUCVYKMKO_MMEscH0GmhQyQg=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "4 months ago",
-      "text": "My first time trying their Ube cake, i saw it online and i got slice. The cake was a little hard and not enough filling and icing. It wasn\u2019t smooth at all. I was almost gonna buy the whole cake, good thing I didn\u2019t. But the place is so nice and the staff are friendly.",
+      "text": "My first time trying their Ube cake, i saw it online and i got slice. The cake was a little hard and not enough filling and icing. It wasn’t smooth at all. I was almost gonna buy the whole cake, good thing I didn’t. But the place is so nice and the staff are friendly.",
       "time": 1740178624,
       "translated": false
     },
@@ -444,5 +444,42 @@
   "utc_offset": -240,
   "vicinity": "6304 39th Ave, Woodside",
   "website": "https://purpledough.com/",
-  "business_status_checked_at": "2026-10-03T20:05:57.197254+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:57.197254+00:00",
+  "emails": [
+    "purpledough@purpledough.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:47.359160+00:00",
+    "outcome": "found",
+    "sources": {
+      "purpledough@purpledough.com": [
+        "https://purpledough.com/pages/contact-us",
+        "https://purpledough.com/pages/about-purple-oven"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://purpledough.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://purpledough.com/pages/contact-us",
+        "status": "ok",
+        "emails": [
+          "purpledough@purpledough.com"
+        ]
+      },
+      {
+        "url": "https://purpledough.com/pages/about-purple-oven",
+        "status": "ok",
+        "emails": [
+          "purpledough@purpledough.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://purpledough.com/"
+    ]
+  }
 }

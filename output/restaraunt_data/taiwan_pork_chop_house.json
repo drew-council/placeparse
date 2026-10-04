@@ -142,13 +142,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 10:30 AM – 9:00 PM",
       "Tuesday: Closed",
-      "Wednesday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Wednesday: 10:30 AM – 9:00 PM",
+      "Thursday: 10:30 AM – 9:00 PM",
+      "Friday: 10:30 AM – 9:00 PM",
+      "Saturday: 10:30 AM – 9:00 PM",
+      "Sunday: 10:30 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -241,13 +241,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 10:30 AM – 9:00 PM",
       "Tuesday: Closed",
-      "Wednesday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Wednesday: 10:30 AM – 9:00 PM",
+      "Thursday: 10:30 AM – 9:00 PM",
+      "Friday: 10:30 AM – 9:00 PM",
+      "Saturday: 10:30 AM – 9:00 PM",
+      "Sunday: 10:30 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -374,7 +374,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuhZR4zIlUmumum1nbqMtve-QySmrlIBqCMh3eVCzyj0mRfg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "Taiwan Pork Chop House is one of my favourite Taiwanese restaurants in NYC. I've been here more times than I can remember, and I have never been disappointed by anything I've ordered here. They also have the only authentic Taiwanese-style shaved ice I've had in NYC (and I often come here after a meal nearby to have that for a delicious and inexpensive dessert.\n\nTheir rice dishes are fantastic - I particularly love the (eponymous) pork chop rice \u9178\u83dc\u8c6c\u6392\u98ef and the salt and pepper chicken rice \u9e7d\u9165\u96de\u98ef. I've also had the wontons with spicy oil (\u7d05\u6cb9\u7092\u624b edit: they call it \u7d05\u6cb9\u6eab\u5dde\u991b\u98e9) which are always delicious, too - fillings are super juicy and flavourful.\n\nThe shaved ice, however, is my must-order whenever I\u2019m here. It\u2019s one of the few places with so many quintessentially Taiwanese ingredients \u2014 the condensed milk, chunky ice pieces, aiyu and grass jelly \u2014 brings me so much nostalgia every time (and it\u2019s so cheap too!)\n\nService is brusque (typical Chinatown \"authenticity\") and the restaurant is... shall we say .. not the cleanest? But I love the shaved ice so much, so it's always worth it. They are cash only, but fortunately they are also very cheap, so you don't have to carry that much cash hahah",
+      "text": "Taiwan Pork Chop House is one of my favourite Taiwanese restaurants in NYC. I've been here more times than I can remember, and I have never been disappointed by anything I've ordered here. They also have the only authentic Taiwanese-style shaved ice I've had in NYC (and I often come here after a meal nearby to have that for a delicious and inexpensive dessert.\n\nTheir rice dishes are fantastic - I particularly love the (eponymous) pork chop rice 酸菜豬排飯 and the salt and pepper chicken rice 鹽酥雞飯. I've also had the wontons with spicy oil (紅油炒手 edit: they call it 紅油溫州餛飩) which are always delicious, too - fillings are super juicy and flavourful.\n\nThe shaved ice, however, is my must-order whenever I’m here. It’s one of the few places with so many quintessentially Taiwanese ingredients — the condensed milk, chunky ice pieces, aiyu and grass jelly — brings me so much nostalgia every time (and it’s so cheap too!)\n\nService is brusque (typical Chinatown \"authenticity\") and the restaurant is... shall we say .. not the cleanest? But I love the shaved ice so much, so it's always worth it. They are cash only, but fortunately they are also very cheap, so you don't have to carry that much cash hahah",
       "time": 1749268702,
       "translated": false
     },
@@ -386,7 +386,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKeCU011OIZdGNrMqcR6-nWtYYSJqNunywvyDSY9NzSC5oRFA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "The prices were very affordable. Although the flavors weren\u2019t as amazing as I expected, they were still pretty good. The taro ball was nice, but it felt a bit dry due to the lack of milk. The oyster omelette was a bit fishy but still decent, and the Taiwanese sausage was really flavorful.",
+      "text": "The prices were very affordable. Although the flavors weren’t as amazing as I expected, they were still pretty good. The taro ball was nice, but it felt a bit dry due to the lack of milk. The oyster omelette was a bit fishy but still decent, and the Taiwanese sausage was really flavorful.",
       "time": 1737357726,
       "translated": false
     },
@@ -420,5 +420,68 @@
   "utc_offset": -240,
   "vicinity": "3 Doyers St, New York",
   "website": "https://www.taiwanporkchop.com/",
-  "business_status_checked_at": "2026-10-03T20:06:13.663548+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:13.663548+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:02.135287+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.taiwanporkchop.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.taiwanporkchop.com/contact",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.taiwanporkchop.com/locationinfo",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.taiwanporkchop.com/locationinfo?lid=6319",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.taiwanporkchop.com/contact?form=map&lid=6319",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.taiwanporkchop.com/locationinfo?form=map&lid=6319",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.taiwanporkchop.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.taiwanporkchop.com/contact",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.taiwanporkchop.com/locationinfo",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.taiwanporkchop.com/",
+      "https://www.taiwanporkchop.com/contact",
+      "https://www.taiwanporkchop.com/locationinfo",
+      "https://www.taiwanporkchop.com/locationinfo?lid=6319",
+      "https://www.taiwanporkchop.com/contact?form=map&lid=6319",
+      "https://www.taiwanporkchop.com/locationinfo?form=map&lid=6319"
+    ],
+    "browser_checked_at": "2026-10-03T22:11:33.582137+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

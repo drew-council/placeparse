@@ -1,0 +1,74 @@
+{
+  "adr_address": "<span class=\"street-address\">100 3rd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003-5508</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "100 3rd Ave, New York, NY 10003, USA",
+  "formatted_phone_number": "(917) 965-2327",
+  "geometry": {
+    "location": {
+      "lat": 40.7324571,
+      "lng": -73.98802719999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7337691802915,
+        "lng": -73.98659156970848
+      },
+      "southwest": {
+        "lat": 40.7310712197085,
+        "lng": -73.9892895302915
+      }
+    }
+  },
+  "international_phone_number": "+1 917-965-2327",
+  "name": "Ichibantei",
+  "place_id": "ChIJ5dru_nVZwokRarWwk6cjQZk",
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=11043146963933508970",
+  "website": "https://ichibanteiny.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+  "details_checked_at": "2026-10-03T21:59:16.050983+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:16.050983+00:00",
+  "emails": [
+    "info@ichibanteiny.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:10.680849+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@ichibanteiny.com": [
+        "https://ichibanteiny.com/private-event/",
+        "https://ichibanteiny.com/corporate-event-space-near-union-square-nyc/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://ichibanteiny.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://ichibanteiny.com/private-event/",
+        "status": "ok",
+        "emails": [
+          "info@ichibanteiny.com"
+        ]
+      },
+      {
+        "url": "https://ichibanteiny.com/corporate-event-space-near-union-square-nyc/",
+        "status": "ok",
+        "emails": [
+          "info@ichibanteiny.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://ichibanteiny.com/private-event/",
+      "https://ichibanteiny.com/corporate-event-space-near-union-square-nyc/"
+    ]
+  }
+}

@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -268,13 +268,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -389,7 +389,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWs2MMCYSrPhfsyhOV8gc2beIt95XLclrQoCmFoSPHE0ZYc2HkM=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 3,
       "relative_time_description": "a week ago",
-      "text": "Saw that this was an Argentinian and Italian spot and was interested. We got to try a few things and will say it\u2019s fairly average. I didn\u2019t quite like the Brussels sprouts but everything else was ok. We did wait a while for some of our food and it seems maybe there was a mix up between the front of house and the back. They did apologize and try to make for it so credit to them for that.",
+      "text": "Saw that this was an Argentinian and Italian spot and was interested. We got to try a few things and will say it’s fairly average. I didn’t quite like the Brussels sprouts but everything else was ok. We did wait a while for some of our food and it seems maybe there was a mix up between the front of house and the back. They did apologize and try to make for it so credit to them for that.",
       "time": 1750372110,
       "translated": false
     },
@@ -401,7 +401,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2fTzau-zm42rV7dgeDv7i2ZR_wiY01hsGNE9oGDh7m52ygKO0-w=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 2,
       "relative_time_description": "2 weeks ago",
-      "text": "Back of house really dropped the ball on this one. Food took forever to come out, and the quality was subpar. Front of house was apologetic and tried to make up for it, but this is barely middle of the road Italian food. Even the dessert took forever to come out. Thought there would be a special Argentinian twist but there\u2019s nothing special to write your Nonna about. Definitely better options to choose from in the area. Avoid.",
+      "text": "Back of house really dropped the ball on this one. Food took forever to come out, and the quality was subpar. Front of house was apologetic and tried to make up for it, but this is barely middle of the road Italian food. Even the dessert took forever to come out. Thought there would be a special Argentinian twist but there’s nothing special to write your Nonna about. Definitely better options to choose from in the area. Avoid.",
       "time": 1749867163,
       "translated": false
     },
@@ -413,7 +413,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_EPajmnHXuyc8bjLh0er4HuWEmbshP03o_hG-fma1uTR-GEE=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "I went to celebrate my boyfriend\u2019s birthday with a group of 14 friends, and the experience was excellent. The attention, service, and food were impeccable. I highly recommend it. Jose was super attentive, helpful, and always willing to assist us with any questions we had. I strongly recommend this restaurant. We\u2019ll definitely be back!P",
+      "text": "I went to celebrate my boyfriend’s birthday with a group of 14 friends, and the experience was excellent. The attention, service, and food were impeccable. I highly recommend it. Jose was super attentive, helpful, and always willing to assist us with any questions we had. I strongly recommend this restaurant. We’ll definitely be back!P",
       "time": 1736809684,
       "translated": false
     },
@@ -450,5 +450,24 @@
   "emails": [
     "gononnalic@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:12.152820+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:12.152820+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:52.223229+00:00",
+    "outcome": "found",
+    "sources": {
+      "gononnalic@gmail.com": [
+        "https://gononna.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://gononna.com/",
+        "status": "ok",
+        "emails": [
+          "gononnalic@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

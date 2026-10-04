@@ -246,13 +246,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:45\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:45\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM"
+      "Monday: 11:30 AM – 3:45 PM, 5:00 – 10:15 PM",
+      "Tuesday: 11:30 AM – 3:45 PM, 5:00 – 10:15 PM",
+      "Wednesday: 11:30 AM – 3:45 PM, 5:00 – 10:15 PM",
+      "Thursday: 11:30 AM – 3:45 PM, 5:00 – 10:15 PM",
+      "Friday: 11:30 AM – 3:45 PM, 5:00 – 10:45 PM",
+      "Saturday: 11:30 AM – 3:45 PM, 5:00 – 10:45 PM",
+      "Sunday: 11:30 AM – 3:45 PM, 5:00 – 10:15 PM"
     ]
   },
   "delivery": true,
@@ -425,13 +425,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:45\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:45\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM"
+      "Monday: 11:30 AM – 3:45 PM, 5:00 – 10:15 PM",
+      "Tuesday: 11:30 AM – 3:45 PM, 5:00 – 10:15 PM",
+      "Wednesday: 11:30 AM – 3:45 PM, 5:00 – 10:15 PM",
+      "Thursday: 11:30 AM – 3:45 PM, 5:00 – 10:15 PM",
+      "Friday: 11:30 AM – 3:45 PM, 5:00 – 10:45 PM",
+      "Saturday: 11:30 AM – 3:45 PM, 5:00 – 10:45 PM",
+      "Sunday: 11:30 AM – 3:45 PM, 5:00 – 10:15 PM"
     ]
   },
   "photos": [
@@ -551,7 +551,7 @@
       "translated": false
     },
     {
-      "author_name": "\uc815Jinny",
+      "author_name": "정Jinny",
       "author_url": "https://www.google.com/maps/contrib/118190646437936636244/reviews",
       "language": "en",
       "original_language": "en",
@@ -570,7 +570,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3AvdVCzYFoBwZwjCyPrIcXlbfpJZ62NmBq3Q5dN3Kr-GhwQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "Mitr Thai is one the finest Thai dining experience in the city, as it delivers the whole circle of any food lover, authentic Thai dishes, amazing and beautiful design, superb service, noble, welcoming and knowledgeable.\n\nIt is a very good Thai food, ( I love it more spicy ) very gentle and savory.\nThe Khao soi curry is full of flavor and hard to find, the green curry chicken , and the Tom Kha Gai is like a beautiful song for the Thai cuisine. Every dish is crafted with thoughtful\nPresentation and a deep understanding of Thai food. It\u2019s like a visiting Bangkok, city I love so much, while walking in manhattan",
+      "text": "Mitr Thai is one the finest Thai dining experience in the city, as it delivers the whole circle of any food lover, authentic Thai dishes, amazing and beautiful design, superb service, noble, welcoming and knowledgeable.\n\nIt is a very good Thai food, ( I love it more spicy ) very gentle and savory.\nThe Khao soi curry is full of flavor and hard to find, the green curry chicken , and the Tom Kha Gai is like a beautiful song for the Thai cuisine. Every dish is crafted with thoughtful\nPresentation and a deep understanding of Thai food. It’s like a visiting Bangkok, city I love so much, while walking in manhattan",
       "time": 1749592171,
       "translated": false
     },
@@ -608,5 +608,24 @@
   "emails": [
     "info@mitrthainyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:39.652215+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:39.652215+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:26.000597+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@mitrthainyc.com": [
+        "https://mitrthainyc.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://mitrthainyc.com/",
+        "status": "ok",
+        "emails": [
+          "info@mitrthainyc.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

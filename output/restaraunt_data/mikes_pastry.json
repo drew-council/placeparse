@@ -1,0 +1,89 @@
+{
+  "adr_address": "<span class=\"street-address\">11 Dunster St</span>, <span class=\"locality\">Cambridge</span>, <span class=\"region\">MA</span> <span class=\"postal-code\">02138-5002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "11 Dunster St, Cambridge, MA 02138, USA",
+  "formatted_phone_number": "(617) 661-0518",
+  "geometry": {
+    "location": {
+      "lat": 42.37300889999999,
+      "lng": -71.11908249999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 42.3743195802915,
+        "lng": -71.11766646970848
+      },
+      "southwest": {
+        "lat": 42.3716216197085,
+        "lng": -71.1203644302915
+      }
+    }
+  },
+  "international_phone_number": "+1 617-661-0518",
+  "name": "Mike's Pastry",
+  "place_id": "ChIJvflGxEJ344kRtJy2l2-wm1Y",
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=6240775701985139892",
+  "website": "http://www.mikespastry.com/",
+  "details_checked_at": "2026-10-03T21:59:08.459124+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:08.459124+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:17.577569+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.mikespastry.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.mikespastry.com/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.mikespastry.com/faqs/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.mikespastry.com/history/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.mikespastry.com/locations/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.mikespastry.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.mikespastry.com/contact/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.mikespastry.com/faqs/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.mikespastry.com/contact/"
+    ],
+    "browser_checked_at": "2026-10-03T22:10:16.373282+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

@@ -215,12 +215,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 2:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 2:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 2:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Friday: 2:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Saturday: 2:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Sunday: 2:00 – 4:00 PM, 5:00 – 10:00 PM"
     ]
   },
   "dine_in": true,
@@ -373,12 +373,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 2:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 2:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 2:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Friday: 2:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Saturday: 2:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Sunday: 2:00 – 4:00 PM, 5:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -480,7 +480,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAksiQHC48WcMoSKlNQDTy97H1S2Y6DvP3FxO_FGQTgFvAIA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "We just had an amazing experience with Edison who served us a 13 course meal. Each piece was carefully crafted and amazing taste. Edison made them extremely quick and we only paid $75! This was our first time and we heard this was better than places $100+, so definitely come here for your first time or if you\u2019re experienced! Thank you Chef Edison!!",
+      "text": "We just had an amazing experience with Edison who served us a 13 course meal. Each piece was carefully crafted and amazing taste. Edison made them extremely quick and we only paid $75! This was our first time and we heard this was better than places $100+, so definitely come here for your first time or if you’re experienced! Thank you Chef Edison!!",
       "time": 1742421760,
       "translated": false
     },
@@ -492,7 +492,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKQbp_TwSps2_JlQl7q_c68EE_fkzbtkGlkX3EDf4gFRSOCg=s128-c0x00000000-cc-rp-mo",
       "rating": 3,
       "relative_time_description": "a month ago",
-      "text": "This place is a solid 3. I\u2019d say about 2 pieces were memorable and interesting but that\u2019s about it. They make sure you get in and out within 60 minutes unless you\u2019re the last seating of the day. Price is fair but I was definitely not full. If you like fast omakase place with no interaction with the sushi chef, this place might be for you.",
+      "text": "This place is a solid 3. I’d say about 2 pieces were memorable and interesting but that’s about it. They make sure you get in and out within 60 minutes unless you’re the last seating of the day. Price is fair but I was definitely not full. If you like fast omakase place with no interaction with the sushi chef, this place might be for you.",
       "time": 1748478171,
       "translated": false
     },
@@ -504,7 +504,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkGCtagYuBjdFGX8YY3yRaxP9Hg_EAuse4WGr2BUy3bOWzMW4=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "If I had to describe my experience in one word.... PURE UNADULTERATED BLISS HEAVENLY GODDESS POURING SUNSHINE AND HAPPINESS AND YOUTH AND BEAUTY \ud83c\udf38\ud83e\udeb8\ud83e\udeb7\ud83c\udf3f\ud83e\udebd\ud83e\udebc\ud83e\udd84\ud83d\udc83\ud83d\udc85\ud83e\uddda\ud83e\uddde\u200d\u2640\ufe0f i came here for my birthday over a year ago but i decided to come back today leave a little review bc everytime i go to to a sushi place im always reminded that im not HERE at THIRTEEN WATERS eating crispy tomato salmon and crispy rice with tuna and uni and that eel maki roll... so just warning anyone who goes here: you will never eat sushi the same way again. anyway if you ever have $100 to spend and want to use it on an exquisite juicy delectable thirteen course omakase meal then this is the place!! or if you're like me and ur mom gives u money to go to omakase for ur bday bc shes across the country and misses u and u miss her but ur going back home in a couple weeks and ur parents dont wanna fly out to nyc right before u come back home bc ur gonna celebrate ur birthday again in two weeks anyway... \ud83d\ude01\ud83d\ude01\ud83d\ude01 this is the place u go !! if u got past me and my monologue i'll tell u a little secret... this is the most worth it omakase place and you will definitely feel like your money is being well spent :>",
+      "text": "If I had to describe my experience in one word.... PURE UNADULTERATED BLISS HEAVENLY GODDESS POURING SUNSHINE AND HAPPINESS AND YOUTH AND BEAUTY 🌸🪸🪷🌿🪽🪼🦄💃💅🧚🧞‍♀️ i came here for my birthday over a year ago but i decided to come back today leave a little review bc everytime i go to to a sushi place im always reminded that im not HERE at THIRTEEN WATERS eating crispy tomato salmon and crispy rice with tuna and uni and that eel maki roll... so just warning anyone who goes here: you will never eat sushi the same way again. anyway if you ever have $100 to spend and want to use it on an exquisite juicy delectable thirteen course omakase meal then this is the place!! or if you're like me and ur mom gives u money to go to omakase for ur bday bc shes across the country and misses u and u miss her but ur going back home in a couple weeks and ur parents dont wanna fly out to nyc right before u come back home bc ur gonna celebrate ur birthday again in two weeks anyway... 😁😁😁 this is the place u go !! if u got past me and my monologue i'll tell u a little secret... this is the most worth it omakase place and you will definitely feel like your money is being well spent :>",
       "time": 1738594791,
       "translated": false
     },
@@ -551,5 +551,62 @@
   "utc_offset": -240,
   "vicinity": "208 E 7th St, New York",
   "website": "http://thirteenwater.com/",
-  "business_status_checked_at": "2026-10-03T20:06:18.825955+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:18.825955+00:00",
+  "emails": [
+    "hello@thirteenwaterwest.com",
+    "omakase@thirteenwater.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:11.199043+00:00",
+    "outcome": "found",
+    "sources": {
+      "hello@thirteenwaterwest.com": [
+        "https://www.thirteenwater.com/contact",
+        "https://www.thirteenwater.com/reservations"
+      ],
+      "omakase@thirteenwater.com": [
+        "https://www.thirteenwater.com/contact",
+        "https://www.thirteenwater.com/reservations"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.thirteenwater.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.thirteenwater.com/contact",
+        "status": "ok",
+        "emails": [
+          "hello@thirteenwaterwest.com",
+          "omakase@thirteenwater.com"
+        ]
+      },
+      {
+        "url": "https://www.thirteenwater.com/about",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://thirteenwater.com/reservation",
+        "status": "HTTP_404",
+        "emails": []
+      },
+      {
+        "url": "https://www.thirteenwater.com/reservations",
+        "status": "ok",
+        "emails": [
+          "hello@thirteenwaterwest.com",
+          "omakase@thirteenwater.com"
+        ]
+      },
+      {
+        "url": "https://www.thirteenwater.com/reservation",
+        "status": "HTTP_404",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

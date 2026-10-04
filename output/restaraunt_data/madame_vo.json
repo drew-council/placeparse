@@ -239,13 +239,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:30\u2009\u2013\u20099:50\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:30\u2009\u2013\u20099:50\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 12:00 – 3:30 PM, 5:30 – 9:30 PM",
+      "Tuesday: 12:00 – 3:30 PM, 5:30 – 9:30 PM",
+      "Wednesday: 12:00 – 3:30 PM, 5:30 – 9:30 PM",
+      "Thursday: 12:00 – 3:30 PM, 5:30 – 9:30 PM",
+      "Friday: 12:00 – 3:30 PM, 5:30 – 9:50 PM",
+      "Saturday: 12:00 – 3:30 PM, 5:30 – 9:50 PM",
+      "Sunday: 12:00 – 3:30 PM, 5:30 – 9:30 PM"
     ]
   },
   "delivery": true,
@@ -422,13 +422,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:30\u2009\u2013\u20099:50\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:30\u2009\u2013\u20099:50\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 12:00 – 3:30 PM, 5:30 – 9:30 PM",
+      "Tuesday: 12:00 – 3:30 PM, 5:30 – 9:30 PM",
+      "Wednesday: 12:00 – 3:30 PM, 5:30 – 9:30 PM",
+      "Thursday: 12:00 – 3:30 PM, 5:30 – 9:30 PM",
+      "Friday: 12:00 – 3:30 PM, 5:30 – 9:50 PM",
+      "Saturday: 12:00 – 3:30 PM, 5:30 – 9:50 PM",
+      "Sunday: 12:00 – 3:30 PM, 5:30 – 9:30 PM"
     ]
   },
   "photos": [
@@ -567,7 +567,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUumFg1xYrzfya0ZX6GOQ3oWYaN7teyEBtqyqRAsUme1KB4R6u=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Madam Vo is a gem of NY city! My husband and I used to come here for 7 years already and even after we moved states whenever we come visit it\u2019s our number one spot for multiple reasons. Starting with amazingly delicious food that never disappoints, we met with an owner and his sweet wife and you can see in their attitude how much they care for their food to represent their family values and recipes. Our favorites are beef and vegan pho, rice with shrimps and fried spring rolls\ud83d\ude4c\ud83c\udffb\nTeam who works there is always incredibly nice and considerate and majority of servers been there for years which  is telling and creates a feeling coming back to a family! Jack, Kidd and Base are absolute stars\ud83e\udef6\ud83c\udffb\nWe always recommend it to our friends visiting the town and it becomes their favorite place too!",
+      "text": "Madam Vo is a gem of NY city! My husband and I used to come here for 7 years already and even after we moved states whenever we come visit it’s our number one spot for multiple reasons. Starting with amazingly delicious food that never disappoints, we met with an owner and his sweet wife and you can see in their attitude how much they care for their food to represent their family values and recipes. Our favorites are beef and vegan pho, rice with shrimps and fried spring rolls🙌🏻\nTeam who works there is always incredibly nice and considerate and majority of servers been there for years which  is telling and creates a feeling coming back to a family! Jack, Kidd and Base are absolute stars🫶🏻\nWe always recommend it to our friends visiting the town and it becomes their favorite place too!",
       "time": 1744238722,
       "translated": false
     },
@@ -675,13 +675,13 @@
       ],
       "type": "DELIVERY",
       "weekday_text": [
-        "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
       ]
     }
   ],
@@ -705,7 +705,46 @@
   "website": "http://www.madamevo.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "hello@madamevonyc.com"
+    "hello@madamevonyc.com",
+    "yen@madamevonyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:35.266662+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:35.266662+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:19.660144+00:00",
+    "outcome": "found",
+    "sources": {
+      "hello@madamevonyc.com": [
+        "https://www.madamevo.com/contact"
+      ],
+      "yen@madamevonyc.com": [
+        "https://www.madamevo.com/contact"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.madamevo.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.madamevo.com/contact",
+        "status": "ok",
+        "emails": [
+          "hello@madamevonyc.com",
+          "yen@madamevonyc.com"
+        ]
+      },
+      {
+        "url": "https://www.madamevo.com/faq",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.madamevo.com/about",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

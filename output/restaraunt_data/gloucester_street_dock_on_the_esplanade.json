@@ -1,0 +1,38 @@
+{
+  "adr_address": "<span class=\"street-address\">Storrow Dr</span>, <span class=\"locality\">Boston</span>, <span class=\"region\">MA</span> <span class=\"postal-code\">02116</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "Storrow Dr, Boston, MA 02116, USA",
+  "geometry": {
+    "location": {
+      "lat": 42.3532106,
+      "lng": -71.0859136
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 42.35446778029149,
+        "lng": -71.0845235197085
+      },
+      "southwest": {
+        "lat": 42.35176981970849,
+        "lng": -71.08722148029152
+      }
+    }
+  },
+  "name": "Gloucester Street Dock on the Esplanade",
+  "place_id": "ChIJ1YORCKN744kR3BDJeyunSNY",
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=15440775127641952476",
+  "details_checked_at": "2026-10-03T21:59:08.107299+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:08.107299+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:06.909620+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
+}

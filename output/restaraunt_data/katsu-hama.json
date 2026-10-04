@@ -1,0 +1,88 @@
+{
+  "adr_address": "<span class=\"street-address\">11 E 47th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10017-1919</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "11 E 47th St, New York, NY 10017, USA",
+  "formatted_phone_number": "(212) 758-5909",
+  "geometry": {
+    "location": {
+      "lat": 40.756504,
+      "lng": -73.9776077
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7577617802915,
+        "lng": -73.9763231697085
+      },
+      "southwest": {
+        "lat": 40.7550638197085,
+        "lng": -73.9790211302915
+      }
+    }
+  },
+  "international_phone_number": "+1 212-758-5909",
+  "name": "Katsu-Hama",
+  "place_id": "ChIJSVkuev5YwokRxnzx9D9JB5c",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=10882747563605327046",
+  "website": "https://katsuhamanewyork.com/",
+  "details_checked_at": "2026-10-03T21:59:29.258136+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:29.258136+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:12.418225+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://katsuhamanewyork.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://katsuhamanewyork.com/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://katsuhamanewyork.com/faq/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://katsuhamanewyork.com/about/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://katsuhamanewyork.com/location/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://katsuhamanewyork.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://katsuhamanewyork.com/contact/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://katsuhamanewyork.com/faq/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://katsuhamanewyork.com/contact/"
+    ],
+    "browser_checked_at": "2026-10-03T22:09:17.573354+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

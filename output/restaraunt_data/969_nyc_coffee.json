@@ -142,13 +142,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
       "Thursday: Closed",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
     ]
   },
   "delivery": true,
@@ -241,13 +241,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
       "Thursday: Closed",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
     ]
   },
   "photos": [
@@ -362,7 +362,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5O54IY_z_wKpvS81Fs25jlmHt6tRhumCds6S646tF4SPy4g=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "2 weeks ago",
-      "text": "Food is wonderful, the wait not so much. You can taste the love in the food but I wouldn\u2019t go if I was starving and hangry, the wait is long. They have a good selection of options though, on a day I have time I would definitely return.",
+      "text": "Food is wonderful, the wait not so much. You can taste the love in the food but I wouldn’t go if I was starving and hangry, the wait is long. They have a good selection of options though, on a day I have time I would definitely return.",
       "time": 1749869733,
       "translated": false
     },
@@ -386,7 +386,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVW-1bE8Di4euRwNc4mFfebmTVJV8hd7jbxDWeaufx0NnX8UXP9pw=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "So good! Sushi sandwich with panko fish! The rice was even slightly warm when I had that sandwich!\n\nAbout the place. Cozy and friendly atmosphere, like at beloved home. They have cute patio. I enjoyed this place a lot. I already planned when I\u2019ll come back.\n\nGentleman at the counter was obliging, friendly and witty.\n\nThank you good luck",
+      "text": "So good! Sushi sandwich with panko fish! The rice was even slightly warm when I had that sandwich!\n\nAbout the place. Cozy and friendly atmosphere, like at beloved home. They have cute patio. I enjoyed this place a lot. I already planned when I’ll come back.\n\nGentleman at the counter was obliging, friendly and witty.\n\nThank you good luck",
       "time": 1718151409,
       "translated": false
     },
@@ -398,7 +398,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKPUSzU9o6-qEVefoY2W3_R8zmP1PhyRYMaXFKV3F-nM773J3lHQ=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "6 months ago",
-      "text": "Very delicious onigiri! So far I had tried the fried pork and the shrimp one and it\u2019s so delicious!!!! Would definitely go visit again.",
+      "text": "Very delicious onigiri! So far I had tried the fried pork and the shrimp one and it’s so delicious!!!! Would definitely go visit again.",
       "time": 1733165582,
       "translated": false
     }
@@ -421,5 +421,26 @@
   "vicinity": "3761 80th St, Jackson Heights",
   "website": "https://969nyccoffee.shop/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:36.520066+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:36.520066+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:03.205849+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://969nyccoffee.shop/",
+        "status": "SSLError",
+        "emails": []
+      },
+      {
+        "url": "https://chaturbate.com/bunnydollstella/?campaign=KzlTO&disable_sound=0&join_overlay=1&tour=OgA6&track=twinred_us_popunder_desktop_c10",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:07:10.539362+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

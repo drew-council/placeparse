@@ -142,12 +142,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Monday: 9:00 AM – 7:30 PM",
+      "Tuesday: 9:00 AM – 7:30 PM",
+      "Wednesday: 9:00 AM – 7:30 PM",
+      "Thursday: 9:00 AM – 7:30 PM",
+      "Friday: 9:00 AM – 7:30 PM",
+      "Saturday: 9:00 AM – 7:30 PM",
       "Sunday: Closed"
     ]
   },
@@ -179,7 +179,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 917-327-3510",
-  "name": "Voil\u00e0 Afrique",
+  "name": "Voilà Afrique",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -245,12 +245,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 9:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Tuesday: 9:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Wednesday: 9:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Thursday: 9:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Friday: 9:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
-      "Saturday: 9:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Monday: 9:00 AM – 7:30 PM",
+      "Tuesday: 9:00 AM – 7:30 PM",
+      "Wednesday: 9:00 AM – 7:30 PM",
+      "Thursday: 9:00 AM – 7:30 PM",
+      "Friday: 9:00 AM – 7:30 PM",
+      "Saturday: 9:00 AM – 7:30 PM",
       "Sunday: Closed"
     ]
   },
@@ -258,7 +258,7 @@
     {
       "height": 800,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voil\u00e0 Afrique</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voilà Afrique</a>"
       ],
       "photo_reference": "ATKogpf-DQ4p8fwyPC93wCU7iTWgx3yRODqL2WXsI98aWHIBYrEiA5Hq4Uz1yG_HvnAXQc6WUOz138hYY3Xe0jGXDKkvfvqqIZYXa3QWNNl6Y0BTHxEzkD8bK_-zII6mgB1lBaKbPxF7HMOLceuYpD5zHC5-zL-fS1IosywS2_Ik6wLO_QarCZ1yHRocJH2-G-gc8_9YOgUp5DTAQDgtsd3ql__qW5bXUN5gm55SQopJOJD09NMXlYade1ACjco7QJp8myB4dAQt1Agu41Rgvzc6pBEUep3X4IjXdDFFV8M60bdkyw",
       "width": 800
@@ -266,7 +266,7 @@
     {
       "height": 466,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voil\u00e0 Afrique</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voilà Afrique</a>"
       ],
       "photo_reference": "ATKogpejnAUJJcGDrSfE9h6Rzqd0-Eic09GUucW74WndRc1gV7W7TnM6GKmBsecS9cIwWqdy0DPHk0OI62IuxLlGdsRB8xN-hYvy-cegPC9Q-4QdsxZeAcM5jX8YVX8rONz7Ck--T0HzigQ0Yf4juwAm4CStAdFqoMDmJSpUFbx7aAE1JJCMKmIeylJ7Cnzu85bnqPwEkc3fwADQXYLDf-OuX4Uz6GnYuubWokxEYBMjwrtYUcqlX_5hSdIWmYevuc5aaX_vgA_MhhAZgG5qcXeBbnTUPlv0hTzewqBOaHsK87YBWQ",
       "width": 828
@@ -274,7 +274,7 @@
     {
       "height": 617,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voil\u00e0 Afrique</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voilà Afrique</a>"
       ],
       "photo_reference": "ATKogpckp8xd4Xbcl_tcgCMeajRYO6qsHcI7SjWTNiX9HbFJOSLWGeuX1_1_Ry1OoV52BJawMd6dmGijTf2VUSEmvuwqRKNyrhVi7WwTCeqlH2lybMeaPRQgD_9zmL6ZLnU46UjuWmRS_xn0as-mcgZVD2pIHcNvnCuEG52IB4Z-xAAsaOHECHP3Xa0kuc6VYJzBUg9rjVz7RuMwUZtIG7izSNyVH2BZDt6ZxAllaHNLT2E7StuIC1Jqu64IUrCExIwRpn0jeAs8wa0xFEVMO0BWWtRgKV0yp4A1b8MFWMsrRoHpGw",
       "width": 926
@@ -282,7 +282,7 @@
     {
       "height": 800,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voil\u00e0 Afrique</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voilà Afrique</a>"
       ],
       "photo_reference": "ATKogpeAgBJoH3ptsnomA4IGN-zRZKC33qw6tW5-vXg5XtMaTaifdCf2W-CT8l-VueeG0P5Sj22uyqJbSOjEmzExppXc8w3iP4SzpSAdccSOCLSiMZrE6lFNymz2r75vcJ917_B4InwGrrNfb4YlUL5b9jLmAziIEhZYEhKlA4ex5LMLIr-kNQbJq-t6aEDm9WOBvFOgEEHkE89xC0eV5O7TTiHkd6oWOHS6620Y4xGj7Lxf7FY722ydVal4Vy7HEMYlANJeAgpRAcJG33W87CJ8QPVsJmUE6VVVYnded_TrvMj-PA",
       "width": 800
@@ -290,7 +290,7 @@
     {
       "height": 1389,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voil\u00e0 Afrique</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voilà Afrique</a>"
       ],
       "photo_reference": "ATKogpeI9S6VePVU-wJPPRWfTEYJx_Suo3rJ17B7zZfhZQFt2sGxaAs7BbA6FtrmwNN6o3ueHhN2q2w5Ly3Nxz6Ic0Z7BaFNgNCN2AWDl0Xmp5D6XwGUokG5c_M68YvuzllT5OLUFAFbvVf6tW3WlU3XjdGTrC6drmHhvAqSpIqwVsWi6jCc1pukScfcp674Rx3xj9p2LjZLfBTtJ-PN8OESqHEYbrXNdrakS6IlaL8EzmW50qJ8znv0VzCcvp5PI6EDIh4ewcpPq7suZ5uKqZ6eHou8S1PE2vHofqsxOH4R_6cj7A",
       "width": 926
@@ -298,7 +298,7 @@
     {
       "height": 617,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voil\u00e0 Afrique</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voilà Afrique</a>"
       ],
       "photo_reference": "ATKogpcbjoUuaZBuXCOT6cz49lbtnBNIUPmfYbFR-rH9EolNjByKFstma1UOJDI6X-tsihqi3ySehSrybka9JnouhUOYiFPovQSKUmu6TuP-5wrF1hbd_RtEef5CVBVypKa0NiPsx04fCxjmWjnh7wqcB2nrM2cb_eue7imUG4PeqQ1rqvVqIdlrg5tPQFN8y4HdaeOBvZni83XZVNrFL5d9RiX652wFiIkp2rMYo3tlrID5swoP_DZXSShbPE_Tpo1Va_Jw-VhH50B5h1grf28btgNiiiD0miJ4MnlIaNsCZOu1Qg",
       "width": 926
@@ -314,7 +314,7 @@
     {
       "height": 617,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voil\u00e0 Afrique</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voilà Afrique</a>"
       ],
       "photo_reference": "ATKogpeO1UdM3uqO1IaJmlQJKqVCbdkzrawzQQZTxVq_wM-rmEsyK1sDVuVfKhu85P1Da1Jth8eq4v4q43Be4PLd2DzkRIatXVwdwj4P5g2cC7135rHXs5sGHuu6V3xvRVA8Iwb2KLDXy2ZnXpCf9-PG33-iXd_NQewDuV8w6MQ_ZvfYsA8EBGjHK0H2nQ4e5EhmVzMzEnAOjz6rwM_3amTz8LFeWwjO1nXmW2OovGHJs84usiLwAPIMqNnhDh8G-BSemUDWbcCU5kAHvEkwhiRsyO6NVlDsNkmCbELmieSs30MMrA",
       "width": 926
@@ -322,7 +322,7 @@
     {
       "height": 3200,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voil\u00e0 Afrique</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voilà Afrique</a>"
       ],
       "photo_reference": "ATKogpclPwWhIEh0axaCEyoMUir6PBZtBl5z1Dfenrp1dwI99rdA7h20UyemgzZ1HIj04IVoM5ATF_0PYN363neCcPEU3f0UVwsWIiloUs1yxfck2FGeUxrhJmUgpV5-ibKqsflVkB0mJ07iDxUsL-wM-qeywNJpnPjPotTuVZvOeZOcg7hu9qqY5yLzTHSaijl1MJfQ4ipz7yOw4JTBRRqGZ5o9oE1aeHpFgVpqgdIV0kBRJJ_RK4q_v8B1b6W1aX7t5YazsZA-_ZYOoQ5U_TlWhTN7_ivwklttgA0aZQzZMqG8bw",
       "width": 4800
@@ -330,7 +330,7 @@
     {
       "height": 800,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voil\u00e0 Afrique</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/116141995979480171145\">Voilà Afrique</a>"
       ],
       "photo_reference": "ATKogpf6RaRLBavh9qNJw5hi2qIu5blBoJ8Ttcef2hyE8p9pBqhdE6rSXph_OIvesQSqNZS1czyq6lf96Nt_Xz_H5dPbVgG0EmZoM8_MR2HzRQurx8Ly_871NDD4ua2QeECGTqmxr09ajelZVPdC3-bFbWeJ1Z1wQUg2pJwwfZj1C037DaY_Dv0UbwaFb-lyW7dC5Gfx_F3MsAFlgwBXK2Kjwb6hHGcaqsFSF-tKMgo3aWWCAOGX5mjPoVYhL8k_Cd_CTdaCVsg0eOK5-DRNkvfKwK7SJMkMFtY9GFL8K31ch8PTAw",
       "width": 800
@@ -353,7 +353,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWS4tn_1AuwW5tQV_BSSTEHeEvrYhkpFjopE4t8KL_wfzkpUlzpg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "Voila Afrique is hands down one of the best hidden gems in the area! Every dish bursts with authentic African flavor, cooked to perfection and served with heart. From the rich jollof rice to the tender grilled meats and flavorful sides, everything tasted homemade and fresh. The staff was incredibly warm and welcoming, and the service was fast and friendly. Their group order and free shuttle service in Paterson is a huge plus for events or family meals. Highly recommend for anyone looking to experience bold, delicious African cuisine\u2014Voila Afrique never disappoints!",
+      "text": "Voila Afrique is hands down one of the best hidden gems in the area! Every dish bursts with authentic African flavor, cooked to perfection and served with heart. From the rich jollof rice to the tender grilled meats and flavorful sides, everything tasted homemade and fresh. The staff was incredibly warm and welcoming, and the service was fast and friendly. Their group order and free shuttle service in Paterson is a huge plus for events or family meals. Highly recommend for anyone looking to experience bold, delicious African cuisine—Voila Afrique never disappoints!",
       "time": 1749746348,
       "translated": false
     },
@@ -365,7 +365,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZ07anObv2A-cfrZhG35yxPbIWyvdW4QvV3R9-Veo02EoCiMQo=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Food was incredible! Portions, price and FLAVOR are definitely worth every penny.\n\nBut the amazing experience doesn\u2019t just stop at the food.\n\nIf you ever get the chance to stop by and order some food from Voila Afrique \u2014 you won\u2019t regret it.\n\nNot only could I go on and on about the food, but Margaret and Timithina made the whole experience so great. Margaret walked me through the menu and encouraged me to ask any questions (this was my first time, but certainly not my last) about any of the items on the menu.\n\nIt didn\u2019t even feel like I was ordering food. Chatting with Margaret felt like I was being \u201cinvited for a meal.\u201d\n\nI\u2019m already looking forward to my next visit!!\n\nFav items:\n- Egusi Soup w/ goat\n- Fufu\n- Oxtail\n\nWait Time: 15 - 20 minutes (I also ordered a lot of food, so this was exceptional time.)",
+      "text": "Food was incredible! Portions, price and FLAVOR are definitely worth every penny.\n\nBut the amazing experience doesn’t just stop at the food.\n\nIf you ever get the chance to stop by and order some food from Voila Afrique — you won’t regret it.\n\nNot only could I go on and on about the food, but Margaret and Timithina made the whole experience so great. Margaret walked me through the menu and encouraged me to ask any questions (this was my first time, but certainly not my last) about any of the items on the menu.\n\nIt didn’t even feel like I was ordering food. Chatting with Margaret felt like I was being “invited for a meal.”\n\nI’m already looking forward to my next visit!!\n\nFav items:\n- Egusi Soup w/ goat\n- Fufu\n- Oxtail\n\nWait Time: 15 - 20 minutes (I also ordered a lot of food, so this was exceptional time.)",
       "time": 1748180582,
       "translated": false
     },
@@ -377,7 +377,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCU3UF99LTiIEyOWerxukREwOmEwF-wVNyF_Gg_Dy3YeLq1g=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "a month ago",
-      "text": "Great soups (vegan egusi and vegan okra) with fufu! Most places I\u2019ve ordered from have given me very oily and salty soups. I\u2019m glad to finally come across a place that makes the soups so good and to offer vegan options too. The lovely owner salted our fried green plantains and they were great. 4/5 stars for food because my 2 friends didn\u2019t like the jollof rice (you can\u2019t please them all), but they liked their goat. I liked the jollof rice. The other 3 people in my group liked our fufu, soups, and goat waakye (not pictured). This shop is tucked away in the back of the market, and you will very likely need to take the food to-go. We ordered 5 different entrees, 2 sides/apps, and 1 dessert which took ~45 mins to make. I will be returning!",
+      "text": "Great soups (vegan egusi and vegan okra) with fufu! Most places I’ve ordered from have given me very oily and salty soups. I’m glad to finally come across a place that makes the soups so good and to offer vegan options too. The lovely owner salted our fried green plantains and they were great. 4/5 stars for food because my 2 friends didn’t like the jollof rice (you can’t please them all), but they liked their goat. I liked the jollof rice. The other 3 people in my group liked our fufu, soups, and goat waakye (not pictured). This shop is tucked away in the back of the market, and you will very likely need to take the food to-go. We ordered 5 different entrees, 2 sides/apps, and 1 dessert which took ~45 mins to make. I will be returning!",
       "time": 1747153688,
       "translated": false
     },
@@ -401,7 +401,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVs4bU86jdCixZORmVioRUNi1CEZJm0jLG2sRVhn0BS5Y8anmI=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Mainly take out only here! Amazing food. This is truly such a hidden gem in NJ. Flavorful food. the smells coming from this place had my mouth watering. Plantain fufu is \ud83d\udd25 the egusi is rich and the jollof is soooo flavorful. Couldn't even wait till I got home we ate in the parking lot\ud83e\udd23",
+      "text": "Mainly take out only here! Amazing food. This is truly such a hidden gem in NJ. Flavorful food. the smells coming from this place had my mouth watering. Plantain fufu is 🔥 the egusi is rich and the jollof is soooo flavorful. Couldn't even wait till I got home we ate in the parking lot🤣",
       "time": 1747753895,
       "translated": false
     }
@@ -427,5 +427,37 @@
     "email@example.com",
     "voilaafrique@yahoo.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:23.519568+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:23.519568+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:22.945072+00:00",
+    "outcome": "found",
+    "sources": {
+      "voilaafrique@yahoo.com": [
+        "https://voilaafrique.com/",
+        "https://voilaafrique.com/hackensack-hackensack-voila-afrique-about"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://voilaafrique.com/",
+        "status": "ok",
+        "emails": [
+          "voilaafrique@yahoo.com"
+        ]
+      },
+      {
+        "url": "https://voilaafrique.com/hackensack-hackensack-voila-afrique-about",
+        "status": "ok",
+        "emails": [
+          "voilaafrique@yahoo.com"
+        ]
+      },
+      {
+        "url": "https://voilaafrique.com/hackensack-hackensack-voila-afrique-group-reserve",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

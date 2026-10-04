@@ -148,13 +148,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Monday: 11:30 AM – 9:30 PM",
+      "Tuesday: 11:30 AM – 9:30 PM",
+      "Wednesday: 11:30 AM – 9:30 PM",
+      "Thursday: 11:30 AM – 9:30 PM",
       "Friday: Closed",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Saturday: 11:30 AM – 9:30 PM",
+      "Sunday: 11:30 AM – 9:30 PM"
     ]
   },
   "delivery": false,
@@ -261,13 +261,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 11:30 AM – 9:30 PM",
+      "Tuesday: 11:30 AM – 9:30 PM",
+      "Wednesday: 11:30 AM – 9:30 PM",
+      "Thursday: 11:30 AM – 9:30 PM",
+      "Friday: 11:30 AM – 9:30 PM",
+      "Saturday: 11:30 AM – 9:30 PM",
+      "Sunday: 11:30 AM – 9:30 PM"
     ]
   },
   "photos": [
@@ -370,12 +370,12 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEpY1NwhIBrqID80a0ELCz3EgwE6PYAanhz9sH3zKNkdba7VVi=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "The chicken pho is the best I\u2019ve had in the city! I love that the broth is so clear/clean but still very flavorful. I love all the veggies that you can add on too. They deliver with all the components in separate containers so the noodles, meat and veggies don\u2019t get overcooked. The only negative thing I have to say is that every other pho place tastes a slightly disappointing compared to this place!",
+      "text": "The chicken pho is the best I’ve had in the city! I love that the broth is so clear/clean but still very flavorful. I love all the veggies that you can add on too. They deliver with all the components in separate containers so the noodles, meat and veggies don’t get overcooked. The only negative thing I have to say is that every other pho place tastes a slightly disappointing compared to this place!",
       "time": 1745693838,
       "translated": false
     },
     {
-      "author_name": "Benjam\u00edn Oviedo",
+      "author_name": "Benjamín Oviedo",
       "author_url": "https://www.google.com/maps/contrib/118244293126623874758/reviews",
       "language": "en",
       "original_language": "en",
@@ -418,7 +418,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWJXRQShrXD9LEDUTl5AMTzffMOzy0CwZuHDrTFcxs1-f_Ee6q=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Pho tai was the best I\u2019ve had in the city. The broth was deeply flavorful, meat tender, and noodles were just right. Their house chili oil slaps. The summer rolls were also delicious with a uniquely flavorful dipping sauce that doesn\u2019t taste like most other places! Don\u2019t pass spot this up!",
+      "text": "Pho tai was the best I’ve had in the city. The broth was deeply flavorful, meat tender, and noodles were just right. Their house chili oil slaps. The summer rolls were also delicious with a uniquely flavorful dipping sauce that doesn’t taste like most other places! Don’t pass spot this up!",
       "time": 1746850912,
       "translated": false
     }
@@ -442,5 +442,39 @@
   "utc_offset": -240,
   "vicinity": "203 1st Ave, New York",
   "website": "http://saomainyc.com/",
-  "business_status_checked_at": "2026-10-03T20:06:04.658221+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:04.658221+00:00",
+  "emails": [
+    "info@saomainyc.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:54.906800+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@saomainyc.com": [
+        "https://saomainyc.com/contact.html"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://saomainyc.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://saomainyc.com/contact.html",
+        "status": "ok",
+        "emails": [
+          "info@saomainyc.com"
+        ]
+      },
+      {
+        "url": "https://saomainyc.com/about.html",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://saomainyc.com/contact.html"
+    ]
+  }
 }

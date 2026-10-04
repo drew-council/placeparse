@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 8:00 AM – 9:00 PM",
+      "Tuesday: 8:00 AM – 9:00 PM",
+      "Wednesday: 8:00 AM – 9:00 PM",
+      "Thursday: 8:00 AM – 9:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -268,13 +268,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 8:00 AM – 9:00 PM",
+      "Tuesday: 8:00 AM – 9:00 PM",
+      "Wednesday: 8:00 AM – 9:00 PM",
+      "Thursday: 8:00 AM – 9:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -401,7 +401,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUljlaymfJo53rMIElL7Bb1FilXhEVsJh3Btk69_VteyECzaDos=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "This spot has a nostalgic atmosphere to me. The food was great, felt like my grandma made my dish. What\u2019s a Spanish meal without a side salad tho? Iykyk! I would definitely come here again! If you want white rice don\u2019t go at the end of day like I did! White rice was out but that\u2019s all good, food still slapped! If you\u2019re in the LES you should definitely EAT HERE for authentic Spanish food!",
+      "text": "This spot has a nostalgic atmosphere to me. The food was great, felt like my grandma made my dish. What’s a Spanish meal without a side salad tho? Iykyk! I would definitely come here again! If you want white rice don’t go at the end of day like I did! White rice was out but that’s all good, food still slapped! If you’re in the LES you should definitely EAT HERE for authentic Spanish food!",
       "time": 1745974653,
       "translated": false
     },
@@ -413,7 +413,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkFaV3kZWFy8mPQ6gIpn3veTNQ2aJ0CONiCGEXugDdUE3WJze1=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "I\u2019ve tried mofongo at countless places, but this restaurant is simply unmatched! The flavors are rich, authentic, and absolutely unforgettable. The plantains were perfectly mashed, with just the right amount of garlic and seasoning. The portions are generous, and each bite bursts with mouthwatering goodness. The ambiance is warm and inviting, making it the perfect spot for a relaxed and enjoyable meal. The staff is friendly and attentive, ensuring a fantastic dining experience from start to finish. If you\u2019re craving the best mofongo in the city, look no further\u2014this place is a must-visit! Five stars without a doubt!",
+      "text": "I’ve tried mofongo at countless places, but this restaurant is simply unmatched! The flavors are rich, authentic, and absolutely unforgettable. The plantains were perfectly mashed, with just the right amount of garlic and seasoning. The portions are generous, and each bite bursts with mouthwatering goodness. The ambiance is warm and inviting, making it the perfect spot for a relaxed and enjoyable meal. The staff is friendly and attentive, ensuring a fantastic dining experience from start to finish. If you’re craving the best mofongo in the city, look no further—this place is a must-visit! Five stars without a doubt!",
       "time": 1739857086,
       "translated": false
     },
@@ -521,13 +521,13 @@
       ],
       "type": "BREAKFAST",
       "weekday_text": [
-        "Monday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
-        "Tuesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
-        "Wednesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
-        "Thursday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
-        "Friday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
-        "Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM",
-        "Sunday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM"
+        "Monday: 8:00 AM – 12:00 PM",
+        "Tuesday: 8:00 AM – 12:00 PM",
+        "Wednesday: 8:00 AM – 12:00 PM",
+        "Thursday: 8:00 AM – 12:00 PM",
+        "Friday: 8:00 AM – 12:00 PM",
+        "Saturday: 8:00 AM – 1:00 PM",
+        "Sunday: 8:00 AM – 1:00 PM"
       ]
     }
   ],
@@ -551,5 +551,26 @@
   "vicinity": "113 Rivington St, New York",
   "website": "https://www.castillodejagua2.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:05.356989+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:05.356989+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:36.297755+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.castillodejagua2.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.castillodejagua2.com/lander",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:08:42.986175+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

@@ -215,13 +215,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Friday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -378,13 +378,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Friday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -480,14 +480,14 @@
   "reservable": true,
   "reviews": [
     {
-      "author_name": "Min-Yuan Wu (\u5433\u540d\u5a9b)",
+      "author_name": "Min-Yuan Wu (吳名媛)",
       "author_url": "https://www.google.com/maps/contrib/109377925133210517799/reviews",
       "language": "en",
       "original_language": "en",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFmPe_5Q5mDbUbZ7sF6ZD_280XxTk4Y_vNscTu18S7zpGhmw0d=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "My son & girl friend treat me for BD. The food was so amazing. We tried two different two kinds of pots, both were very tasty! The Kimurs Benton was so delicious with all of varieties in rich flavors. We all loved the food we had. We truly appreciate the chef\u2019s did an awesome job!",
+      "text": "My son & girl friend treat me for BD. The food was so amazing. We tried two different two kinds of pots, both were very tasty! The Kimurs Benton was so delicious with all of varieties in rich flavors. We all loved the food we had. We truly appreciate the chef’s did an awesome job!",
       "time": 1748347704,
       "translated": false
     },
@@ -499,7 +499,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVclShxyJMBYMdCs4QJoHlMzfMbNUyruWe_I18iW6fJ7_2MDqVw=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "a month ago",
-      "text": "Food is good! The beef intestines are chewy, and the classic soup base is full of umami. The beef tongue is also recommended. The fried skewers are very crispy, but lacking in flavors.\nThe portion of the hotpot would be something I\u2019d complain. There are only two small pieces of port feet in the pot\u2026 rest are all cabbages\u2026",
+      "text": "Food is good! The beef intestines are chewy, and the classic soup base is full of umami. The beef tongue is also recommended. The fried skewers are very crispy, but lacking in flavors.\nThe portion of the hotpot would be something I’d complain. There are only two small pieces of port feet in the pot… rest are all cabbages…",
       "time": 1746806776,
       "translated": false
     },
@@ -535,7 +535,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtIZZlNQXA51LglAfyRFsuAFZ5RAjQbRnrHpLY_T7dd2dgonW8=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "a month ago",
-      "text": "Kimura has a cozy, izakaya-style atmosphere, but the food didn\u2019t quite live up to expectations. The yellowtail sashimi tasted slightly off, not as fresh or snappy. The beef tongue was overcooked and mushy. The miso mackerel was decent and flavorful.\n\nThe motsunabe (beef intestine hotpot) was $28 per person but felt overpriced for the portion \u2013 mostly cabbage underneath. Not a bad meal, but I wouldn\u2019t recommend it unless you\u2019re nearby and curious.",
+      "text": "Kimura has a cozy, izakaya-style atmosphere, but the food didn’t quite live up to expectations. The yellowtail sashimi tasted slightly off, not as fresh or snappy. The beef tongue was overcooked and mushy. The miso mackerel was decent and flavorful.\n\nThe motsunabe (beef intestine hotpot) was $28 per person but felt overpriced for the portion – mostly cabbage underneath. Not a bad meal, but I wouldn’t recommend it unless you’re nearby and curious.",
       "time": 1746542250,
       "translated": false
     }
@@ -558,9 +558,29 @@
   "vicinity": "31 St Marks Pl, New York",
   "website": "https://www.kimuranyc.com/",
   "emails": [
+    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
     "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
-    "Kimura.press@gmail.com",
-    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+    "Kimura.press@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:25.580787+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:25.580787+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:09.493530+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.kimuranyc.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.kimuranyc.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:09:19.389714+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

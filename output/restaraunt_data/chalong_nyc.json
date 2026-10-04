@@ -239,13 +239,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Friday: 12:00 – 3:30 PM, 5:00 – 11:00 PM",
+      "Saturday: 12:00 – 3:30 PM, 5:00 – 11:00 PM",
+      "Sunday: 12:00 – 3:30 PM, 5:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -418,13 +418,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Friday: 12:00 – 3:30 PM, 5:00 – 11:00 PM",
+      "Saturday: 12:00 – 3:30 PM, 5:00 – 11:00 PM",
+      "Sunday: 12:00 – 3:30 PM, 5:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -527,7 +527,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfgTjF05-daLexhfOjQEtRF0DwIva-NYSeMVAfZ3QJzMXA6kIM=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "in the last week",
-      "text": "We love this place! It\u2019s perfect for sharing dishes with a group of friends. Highly recommend the crab curry and fried wings \u2014 both were packed with flavor. The fish was also delicious, though the portion was quite small. Overall, great spot for a fun, casual meal.",
+      "text": "We love this place! It’s perfect for sharing dishes with a group of friends. Highly recommend the crab curry and fried wings — both were packed with flavor. The fish was also delicious, though the portion was quite small. Overall, great spot for a fun, casual meal.",
       "time": 1750560159,
       "translated": false
     },
@@ -539,7 +539,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtZw12PnZ_tIKT5acogFZRl-EkzsdDO6_p8fZHaAS7u-auA6K-kw=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "I had a fantastic meal at Cha Long! From the moment we walked in, the cozy modern decor and lively atmosphere set the tone for a great dining experience. Por our server was super friendly and attentive, which made everything feel even more welcoming.\n\nThe food absolutely delicious. The deep-fried whole fish was beautifully presented and had a crispy exterior with tender meat inside. The stir-fried dish with shrimp and bitter beans packed a punch with bold Southern Thai flavors, while the fried rice was fragrant and full of texture. We also got the crispy pork belly, which had a satisfying crunch and a rich flavor that paired so well with the spicy dipping sauce.\n\nThe drinks were just as fun and flavorful as the food! Each one was beautifully presented, and I especially loved the one garnished with a spicy dried shrimp skewer\u2014such a creative touch.\n\nDefinitely recommend this place if you\u2019re in the mood for thoughtfully prepared Thai food with a chill but refined vibe. I\u2019ll be coming back to try more!",
+      "text": "I had a fantastic meal at Cha Long! From the moment we walked in, the cozy modern decor and lively atmosphere set the tone for a great dining experience. Por our server was super friendly and attentive, which made everything feel even more welcoming.\n\nThe food absolutely delicious. The deep-fried whole fish was beautifully presented and had a crispy exterior with tender meat inside. The stir-fried dish with shrimp and bitter beans packed a punch with bold Southern Thai flavors, while the fried rice was fragrant and full of texture. We also got the crispy pork belly, which had a satisfying crunch and a rich flavor that paired so well with the spicy dipping sauce.\n\nThe drinks were just as fun and flavorful as the food! Each one was beautifully presented, and I especially loved the one garnished with a spicy dried shrimp skewer—such a creative touch.\n\nDefinitely recommend this place if you’re in the mood for thoughtfully prepared Thai food with a chill but refined vibe. I’ll be coming back to try more!",
       "time": 1745562062,
       "translated": false
     },
@@ -551,7 +551,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNY1nKrjlhzsioz_jjunM9-s_gPnE590tTUYfVI-Vo9P7a1A=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Heard so many great things about this spot. Finally had a chance to try it, the day I was running an errand in Hell\u2019s kitchen. As a Thai person myself, I\u2019ve been to several Thai places in the city that people said were good, and I would say this is the best Thai food I have ever tried outside Thailand.\nDined in during lunch, and it wasn\u2019t starting to get busy when we were there. The food came out impressively quickly. Two of us shared the shrimp tacos appetizer, they were so delicious, the crepe was crispy and as we bit on it the creamy sauce was introduced in with the best combination of taste, it was a little salty, nutty from coconut milk and sweet, the little fragrance from kafir lime leaves on top was just a perfect blend. Loved it so much! The branzino came indubitably fresh, and the Thai-style chill lime salad sauce brought the fish\u2019s freshness to another level. I also loved the generous amount of herbs put in there. Another entr\u00e9e was the braised pork belly, which was larger than the other dishes; the pork was tender, and the sauce was sweet and umami salty.\n\nThe service was great, attentive and friendly staffs. Nice atmosphere with beautiful decoration.\n\nWill definitely go back to try the crab curry and other dishes.",
+      "text": "Heard so many great things about this spot. Finally had a chance to try it, the day I was running an errand in Hell’s kitchen. As a Thai person myself, I’ve been to several Thai places in the city that people said were good, and I would say this is the best Thai food I have ever tried outside Thailand.\nDined in during lunch, and it wasn’t starting to get busy when we were there. The food came out impressively quickly. Two of us shared the shrimp tacos appetizer, they were so delicious, the crepe was crispy and as we bit on it the creamy sauce was introduced in with the best combination of taste, it was a little salty, nutty from coconut milk and sweet, the little fragrance from kafir lime leaves on top was just a perfect blend. Loved it so much! The branzino came indubitably fresh, and the Thai-style chill lime salad sauce brought the fish’s freshness to another level. I also loved the generous amount of herbs put in there. Another entrée was the braised pork belly, which was larger than the other dishes; the pork was tender, and the sauce was sweet and umami salty.\n\nThe service was great, attentive and friendly staffs. Nice atmosphere with beautiful decoration.\n\nWill definitely go back to try the crab curry and other dishes.",
       "time": 1740853151,
       "translated": false
     },
@@ -563,7 +563,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUb5G0ssAANwHHNgc4gvBh6Kpm9yScnlnFr-NoSx6leM0iVK2JD=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "2 months ago",
-      "text": "First time trying Chalong and everything we ordered was tasty. The turmeric sea bass in banana leaves was a bit too salty but overall, every dish had a great balance between spices and flavors. The squid ink fried rice was one of the specials of the night and was very good. This is another great Thai places in the city that I\u2019ll add to my go-often list.",
+      "text": "First time trying Chalong and everything we ordered was tasty. The turmeric sea bass in banana leaves was a bit too salty but overall, every dish had a great balance between spices and flavors. The squid ink fried rice was one of the specials of the night and was very good. This is another great Thai places in the city that I’ll add to my go-often list.",
       "time": 1743434005,
       "translated": false
     },
@@ -575,7 +575,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDEBsmmIipZQdCE-VEfJGLySgjc_f7foljwKZFJ_3L4lijq175=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "2 months ago",
-      "text": "Heard good things about this place, so decided to make a reservation while in NYC. We were seated about 15 mins after our reservation and greeted promptly. Ordered cocktails which were tasty and unique. The cocktail with the shrimp paste is a must try. We shared the dumplings, which were good but could\u2019ve been better. For entrees we had the southern style pad Thai and the crab curry. Pad Thai was tasty but not overly exciting. Crab curry was delicious and would 100% order again. Perfect spice and lots of lump crab.",
+      "text": "Heard good things about this place, so decided to make a reservation while in NYC. We were seated about 15 mins after our reservation and greeted promptly. Ordered cocktails which were tasty and unique. The cocktail with the shrimp paste is a must try. We shared the dumplings, which were good but could’ve been better. For entrees we had the southern style pad Thai and the crab curry. Pad Thai was tasty but not overly exciting. Crab curry was delicious and would 100% order again. Perfect spice and lots of lump crab.",
       "time": 1744950038,
       "translated": false
     }
@@ -601,7 +601,43 @@
   "website": "http://www.chalongnyc.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "CHALONG@CHALONGNYC.COM"
+    "CHALONG@CHALONGNYC.COM",
+    "chalong@chalongnyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:04:52.912992+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:52.912992+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:20.134177+00:00",
+    "outcome": "found",
+    "sources": {
+      "chalong@chalongnyc.com": [
+        "https://chalongnyc.com/",
+        "https://chalongnyc.com/about",
+        "https://chalongnyc.com/events"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://chalongnyc.com/",
+        "status": "ok",
+        "emails": [
+          "chalong@chalongnyc.com"
+        ]
+      },
+      {
+        "url": "https://chalongnyc.com/about",
+        "status": "ok",
+        "emails": [
+          "chalong@chalongnyc.com"
+        ]
+      },
+      {
+        "url": "https://chalongnyc.com/events",
+        "status": "ok",
+        "emails": [
+          "chalong@chalongnyc.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 12:00 – 9:00 PM",
+      "Tuesday: 12:00 – 9:00 PM",
+      "Wednesday: 12:00 – 9:00 PM",
+      "Thursday: 12:00 – 9:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
     ]
   },
   "formatted_address": "24-17 Jackson Ave, Long Island City, NY 11101, USA",
@@ -261,13 +261,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 12:00 – 9:00 PM",
+      "Tuesday: 12:00 – 9:00 PM",
+      "Wednesday: 12:00 – 9:00 PM",
+      "Thursday: 12:00 – 9:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
     ]
   },
   "photos": [
@@ -380,7 +380,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8dE6n8L1ue_KMqVreHM9m0YLfsxx7MV2ThX1uI1kgT-N0nQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "Ice cream was creamy yet refreshing. It has an addicting flavor that\u2019s hard to find. The staff was friendly and pleasant. I would recommend anyone to go out of their way for this spot.",
+      "text": "Ice cream was creamy yet refreshing. It has an addicting flavor that’s hard to find. The staff was friendly and pleasant. I would recommend anyone to go out of their way for this spot.",
       "time": 1749660864,
       "translated": false
     },
@@ -435,5 +435,24 @@
   "emails": [
     "info@softswervenyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:08.402256+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:08.402256+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:58.276741+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@softswervenyc.com": [
+        "https://www.softswervenyc.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.softswervenyc.com/",
+        "status": "ok",
+        "emails": [
+          "info@softswervenyc.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -161,13 +161,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
     ]
   },
   "delivery": true,
@@ -274,13 +274,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
     ]
   },
   "photos": [
@@ -383,7 +383,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBrJK6LbgxXkpmdIQ6Qy3_g_E2Kltx4XAk4ilWNuqCg8wg-qUb=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "a month ago",
-      "text": "I been here a few times  but this time all the seafood especially oysters it\u2019s so fishy and not fresh at all the lobster was over cooked and dry it\u2019s pricey compared with the quality of food i like this place but not recommended seafood menu here !",
+      "text": "I been here a few times  but this time all the seafood especially oysters it’s so fishy and not fresh at all the lobster was over cooked and dry it’s pricey compared with the quality of food i like this place but not recommended seafood menu here !",
       "time": 1747085865,
       "translated": false
     },
@@ -395,7 +395,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz9_xZLSUcddZpmFqD_yfj2ObBCHHzK6EiOpjvYNIHt5tLupIilw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 2,
       "relative_time_description": "a year ago",
-      "text": "Nice change from always eating Chinese in Flushing. Really nice restaurant atmosphere, nice and new. Food was REALLY good. Sushi was tiny but tasty. Agedashi tofu was really good. Noodles were super fresh. Excellent service \u2014 everyone is so welcoming and incredibly attentive. One thing I didn\u2019t like was seeing the slowly dying fish and lifeless lobsters in the aquariums by the sushi counter. Was really off putting.",
+      "text": "Nice change from always eating Chinese in Flushing. Really nice restaurant atmosphere, nice and new. Food was REALLY good. Sushi was tiny but tasty. Agedashi tofu was really good. Noodles were super fresh. Excellent service — everyone is so welcoming and incredibly attentive. One thing I didn’t like was seeing the slowly dying fish and lifeless lobsters in the aquariums by the sushi counter. Was really off putting.",
       "time": 1717704064,
       "translated": false
     },
@@ -419,7 +419,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0V12X_j9IUKoiepDb2YQQgXmgfXGRqE9OUeoqRFZ5ocSBdooY=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "If you are a foie gras fan this is the place to go!! I\u2019ve eaten here multiple times and it never disappoints \ud83d\ude4f the ingredients are really fresh",
+      "text": "If you are a foie gras fan this is the place to go!! I’ve eaten here multiple times and it never disappoints 🙏 the ingredients are really fresh",
       "time": 1743185566,
       "translated": false
     },
@@ -458,5 +458,24 @@
   "emails": [
     "info@ikicuisine.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:19.287568+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:19.287568+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:01.543770+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@ikicuisine.com": [
+        "https://ikirestaurant.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://ikirestaurant.com/",
+        "status": "ok",
+        "emails": [
+          "info@ikicuisine.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

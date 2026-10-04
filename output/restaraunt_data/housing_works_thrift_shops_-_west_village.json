@@ -165,13 +165,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20094:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20095:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+      "Monday: 12:00 – 4:00 PM",
+      "Tuesday: 12:00 – 7:00 PM",
+      "Wednesday: 12:00 – 7:00 PM",
+      "Thursday: 12:00 – 7:00 PM",
+      "Friday: 12:00 – 5:00 PM",
+      "Saturday: 12:00 – 7:00 PM",
+      "Sunday: 12:00 – 5:00 PM"
     ]
   },
   "delivery": false,
@@ -273,13 +273,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+      "Monday: 12:00 – 7:00 PM",
+      "Tuesday: 12:00 – 7:00 PM",
+      "Wednesday: 12:00 – 7:00 PM",
+      "Thursday: 12:00 – 7:00 PM",
+      "Friday: 12:00 – 7:00 PM",
+      "Saturday: 12:00 – 7:00 PM",
+      "Sunday: 12:00 – 5:00 PM"
     ]
   },
   "photos": [
@@ -381,7 +381,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnp36unlRvc_ZOrzjUPg_Jg20A-73qIAJ2a7njNd_FnD4CI2yg=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 4,
       "relative_time_description": "3 weeks ago",
-      "text": "A great shop, with a good selection of clothes, books, and household items. I think it\u2019s much better to donate and shop here than somewhere like Goodwill due to Housing Works\u2019 mission; however, prices tend to be a bit higher here than you\u2019d see there.",
+      "text": "A great shop, with a good selection of clothes, books, and household items. I think it’s much better to donate and shop here than somewhere like Goodwill due to Housing Works’ mission; however, prices tend to be a bit higher here than you’d see there.",
       "time": 1749240951,
       "translated": false
     },
@@ -405,7 +405,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9Ole9RUzvjT8fVpFujG0aAepDbJ2mdF8lhFtG53zwOFFh20b1=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "Me and my fianc\u00e9 visited today and saw a typewriter for only $50! As a writer my eyes lit up once I saw it! The employees were so sweet and even tested it for us! We are 20 year olds from a very sad part of queens so we only came to window shop but no one judged or followed us! I\u2019m so happy with my visit :)!",
+      "text": "Me and my fiancé visited today and saw a typewriter for only $50! As a writer my eyes lit up once I saw it! The employees were so sweet and even tested it for us! We are 20 year olds from a very sad part of queens so we only came to window shop but no one judged or followed us! I’m so happy with my visit :)!",
       "time": 1713837735,
       "translated": false
     },
@@ -429,7 +429,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiad0XP_suznWS_MuRe3pKCeC2DD64qbJJPGM2bD1njpBFhrKvPA=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 1,
       "relative_time_description": "a year ago",
-      "text": "I bought a Ringly smart ring here for $24.  I took it home and found out it no longer has an app in the app store.  I brought it back the next day and asked for an exchange for half the asking price and was told there are no refunds are exchanges.  I returned the ring to them and told them i had no use for it.  It\u2019s pretty suspect behavior; parading around as a charity while simultaneously stiffing their customers for electronics that don\u2019t work.  I know that Housing Works is a charity combating Aids and homelessness, but that doesn\u2019t give them the right to rip people off. Just saying\u2026",
+      "text": "I bought a Ringly smart ring here for $24.  I took it home and found out it no longer has an app in the app store.  I brought it back the next day and asked for an exchange for half the asking price and was told there are no refunds are exchanges.  I returned the ring to them and told them i had no use for it.  It’s pretty suspect behavior; parading around as a charity while simultaneously stiffing their customers for electronics that don’t work.  I know that Housing Works is a charity combating Aids and homelessness, but that doesn’t give them the right to rip people off. Just saying…",
       "time": 1716439670,
       "translated": false
     }
@@ -448,5 +448,97 @@
   "vicinity": "245 W 10th St, New York",
   "website": "https://www.housingworks.org/locations/west-village-thrift-shop",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:18.317211+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:18.317211+00:00",
+  "emails": [
+    "auction@housingworks.org",
+    "bookstoreevents@housingworks.org",
+    "donate@housingworks.org",
+    "eshop@housingworks.org",
+    "hrintern@housingworks.org",
+    "info@housingworks.org",
+    "inkind@housingworks.org",
+    "membership@housingworks.org",
+    "tanenbaum@housingworks.org",
+    "volunteer@housingworks.org"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:59.209685+00:00",
+    "outcome": "found",
+    "sources": {
+      "auction@housingworks.org": [
+        "https://www.housingworks.org/contact"
+      ],
+      "bookstoreevents@housingworks.org": [
+        "https://www.housingworks.org/contact"
+      ],
+      "donate@housingworks.org": [
+        "https://www.housingworks.org/contact"
+      ],
+      "eshop@housingworks.org": [
+        "https://www.housingworks.org/contact"
+      ],
+      "hrintern@housingworks.org": [
+        "https://www.housingworks.org/contact"
+      ],
+      "info@housingworks.org": [
+        "https://www.housingworks.org/contact"
+      ],
+      "inkind@housingworks.org": [
+        "https://www.housingworks.org/contact"
+      ],
+      "membership@housingworks.org": [
+        "https://www.housingworks.org/contact"
+      ],
+      "tanenbaum@housingworks.org": [
+        "https://www.housingworks.org/contact"
+      ],
+      "volunteer@housingworks.org": [
+        "https://www.housingworks.org/contact"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.housingworks.org/locations/west-village-thrift-shop",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.housingworks.org/contact",
+        "status": "ok",
+        "emails": [
+          "auction@housingworks.org",
+          "bookstoreevents@housingworks.org",
+          "donate@housingworks.org",
+          "eshop@housingworks.org",
+          "hrintern@housingworks.org",
+          "info@housingworks.org",
+          "inkind@housingworks.org",
+          "membership@housingworks.org",
+          "tanenbaum@housingworks.org",
+          "volunteer@housingworks.org"
+        ]
+      },
+      {
+        "url": "https://www.housingworks.org/events",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.housingworks.org/about-us",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.housingworks.org/locations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.housingworks.org/weddings-private-events",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

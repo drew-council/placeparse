@@ -1,0 +1,100 @@
+{
+  "adr_address": "<span class=\"street-address\">52 Brattle St</span>, <span class=\"locality\">Cambridge</span>, <span class=\"region\">MA</span> <span class=\"postal-code\">02138-3731</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "52 Brattle St, Cambridge, MA 02138, USA",
+  "formatted_phone_number": "(617) 491-4340",
+  "geometry": {
+    "location": {
+      "lat": 42.3744507,
+      "lng": -71.1220462
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 42.37581518029149,
+        "lng": -71.12064541970848
+      },
+      "southwest": {
+        "lat": 42.3731172197085,
+        "lng": -71.1233433802915
+      }
+    }
+  },
+  "international_phone_number": "+1 617-491-4340",
+  "name": "L.A. Burdick Handmade Chocolates",
+  "place_id": "ChIJZb4iO2h344kRYlGCFOd866I",
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=11739614185594704226",
+  "website": "https://www.burdickchocolate.com/",
+  "details_checked_at": "2026-10-03T21:59:09.218634+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:09.218634+00:00",
+  "emails": [
+    "burdick@burdickchocolate.com",
+    "press@burdickchocolate.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:13.710830+00:00",
+    "outcome": "found",
+    "sources": {
+      "burdick@burdickchocolate.com": [
+        "https://www.burdickchocolate.com/pages/contact",
+        "https://www.burdickchocolate.com/pages/faq"
+      ],
+      "press@burdickchocolate.com": [
+        "https://www.burdickchocolate.com/pages/contact"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.burdickchocolate.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.burdickchocolate.com/pages/contact",
+        "status": "ok",
+        "emails": [
+          "burdick@burdickchocolate.com",
+          "press@burdickchocolate.com"
+        ]
+      },
+      {
+        "url": "https://www.burdickchocolate.com/pages/faq",
+        "status": "ok",
+        "emails": [
+          "burdick@burdickchocolate.com"
+        ]
+      },
+      {
+        "url": "https://www.burdickchocolate.com/pages/store-locations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.burdickchocolate.com/pages/location/boston",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.burdickchocolate.com/pages/location/chicago",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.burdickchocolate.com/",
+      "https://www.burdickchocolate.com/pages/contact",
+      "https://www.burdickchocolate.com/pages/faq",
+      "https://www.burdickchocolate.com/pages/store-locations",
+      "https://www.burdickchocolate.com/pages/location/boston",
+      "https://www.burdickchocolate.com/pages/location/chicago"
+    ]
+  }
+}

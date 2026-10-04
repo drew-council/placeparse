@@ -1,0 +1,88 @@
+{
+  "adr_address": "<span class=\"street-address\">439 W 125th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-4240</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "439 W 125th St, New York, NY 10027, USA",
+  "formatted_phone_number": "(646) 618-0438",
+  "geometry": {
+    "location": {
+      "lat": 40.8125734,
+      "lng": -73.9552005
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.8138731802915,
+        "lng": -73.95396266970849
+      },
+      "southwest": {
+        "lat": 40.8111752197085,
+        "lng": -73.95666063029151
+      }
+    }
+  },
+  "international_phone_number": "+1 646-618-0438",
+  "name": "Charles Pan-Fried Chicken",
+  "place_id": "ChIJgZ9BHmX3wokRbTO_1t6253k",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=8784190666411291501",
+  "website": "http://charlespanfriedchicken.com/",
+  "details_checked_at": "2026-10-03T21:59:39.868880+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:39.868880+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:56.998581+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.charlespanfriedchicken.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.charlespanfriedchicken.com/contact",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.charlespanfriedchicken.com/faq",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.charlespanfriedchicken.com/locations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.charlespanfriedchicken.com/guest-chef-series",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.charlespanfriedchicken.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.charlespanfriedchicken.com/contact",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.charlespanfriedchicken.com/faq",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.charlespanfriedchicken.com/guest-chef-series"
+    ],
+    "browser_checked_at": "2026-10-03T22:08:05.859805+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

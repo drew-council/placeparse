@@ -215,13 +215,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:45\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 11:30 AM – 3:30 PM, 4:30 – 9:30 PM",
+      "Tuesday: 11:30 AM – 3:30 PM, 4:30 – 9:30 PM",
+      "Wednesday: 11:30 AM – 3:30 PM, 4:30 – 9:30 PM",
+      "Thursday: 11:30 AM – 3:30 PM, 4:30 – 9:30 PM",
+      "Friday: 11:30 AM – 3:30 PM, 4:30 – 9:45 PM",
+      "Saturday: 11:30 AM – 9:45 PM",
+      "Sunday: 11:30 AM – 9:30 PM"
     ]
   },
   "delivery": true,
@@ -374,13 +374,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:45\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 11:30 AM – 3:30 PM, 4:30 – 9:30 PM",
+      "Tuesday: 11:30 AM – 3:30 PM, 4:30 – 9:30 PM",
+      "Wednesday: 11:30 AM – 3:30 PM, 4:30 – 9:30 PM",
+      "Thursday: 11:30 AM – 3:30 PM, 4:30 – 9:30 PM",
+      "Friday: 11:30 AM – 3:30 PM, 4:30 – 9:45 PM",
+      "Saturday: 11:30 AM – 9:45 PM",
+      "Sunday: 11:30 AM – 9:30 PM"
     ]
   },
   "photos": [
@@ -519,7 +519,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_9ZGSFPuetKnKmifDjjIZktcOsm_r2dOuKImI5AHalJpWAi6i=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "11 months ago",
-      "text": "Excellent food selection and service! We were just roaming around the neighborhood when my sister and I came across this hidden gem. We will definitely return to explore the rest of their menu\u2026and delicious noddles! Highly recommend for anyone looking for a quick and tasty bite.",
+      "text": "Excellent food selection and service! We were just roaming around the neighborhood when my sister and I came across this hidden gem. We will definitely return to explore the rest of their menu…and delicious noddles! Highly recommend for anyone looking for a quick and tasty bite.",
       "time": 1720193726,
       "translated": false
     },
@@ -554,5 +554,19 @@
   "vicinity": "25-08 Broadway, Astoria",
   "website": "https://order.toasttab.com/online/bunddumplinghouse",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:48.390206+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:48.390206+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:14.155711+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://order.toasttab.com/online/bunddumplinghouse",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

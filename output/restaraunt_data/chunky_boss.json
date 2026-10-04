@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      "Monday: 11:30 AM – 7:00 PM",
+      "Tuesday: 11:30 AM – 7:00 PM",
+      "Wednesday: 11:30 AM – 7:00 PM",
+      "Thursday: 11:30 AM – 7:00 PM",
+      "Friday: 11:30 AM – 7:00 PM",
+      "Saturday: 11:30 AM – 7:00 PM",
+      "Sunday: 11:30 AM – 7:00 PM"
     ]
   },
   "delivery": true,
@@ -263,13 +263,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      "Monday: 11:30 AM – 7:00 PM",
+      "Tuesday: 11:30 AM – 7:00 PM",
+      "Wednesday: 11:30 AM – 7:00 PM",
+      "Thursday: 11:30 AM – 7:00 PM",
+      "Friday: 11:30 AM – 7:00 PM",
+      "Saturday: 11:30 AM – 7:00 PM",
+      "Sunday: 11:30 AM – 7:00 PM"
     ]
   },
   "photos": [
@@ -308,7 +308,7 @@
     {
       "height": 3600,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/110241317621643163597\">Cheng-Chen Tsai (\u8521\u627f\u81fb)</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/110241317621643163597\">Cheng-Chen Tsai (蔡承臻)</a>"
       ],
       "photo_reference": "ATKogpew2gO0Gd1jUfJ1S8cCRBQIuVr2idsMTUEuhTYofBqj6XbhbqDPWRwcyA7drOrMMUrMAPlcPrhya0sFN162QLIZxwecuOCc_x7zn6d4tcLLrB5jc--YWP5zmB8tP-BadYm7O2ZS_mIgQhySM8bGQDqgxLcdLjDsqRGIcLPJOuA176hmJ42GDvV0O2u14Dh9DFwbQi0oPw7mMDCtL3TNS3-mp1Vpb4TnAQcAutBcfl8IRzMZPXwjBkC10cFsPBDzaH6CvqFBgB7p_WYt0Mo6fdNFhBpD1TMjosCBMy_8YiuLMVv4Dvad-JjWf1aMPbE8hLdRsLa8QLqG3nReQZeMQAopJezy4hrT8MSwLUkXGYWtrLArYVYRqahn5E_JpLNQg5kMqvvxpgUhgyWFFAOY-hIYrQnT7-VurlQ_MuwTEhf2jtQ1",
       "width": 4800
@@ -340,7 +340,7 @@
     {
       "height": 3600,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/110241317621643163597\">Cheng-Chen Tsai (\u8521\u627f\u81fb)</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/110241317621643163597\">Cheng-Chen Tsai (蔡承臻)</a>"
       ],
       "photo_reference": "ATKogpd-CnQuPbrf092c2znroi-D4gpbOKdrZ9kdvTh9Mw9gYHPAnHUOvs3qIneeAoyAp_Py8nf4JZnd7r2l3UiDzm-ILK7TeAY-Q1EWU4MXNB8Z87kRZQ8MlyiceQiWrQTbHl3JVvu8brh3mpBh2i6-sH91tgA43ij9Ww8LccbMabxPMu9bJIlcQEMg-750DLf4Zk1XndUAEjeneRDEUBhMhzjan6czA9SCSKL72eQz2vdl4_XEfFKLwnGU98MnilAojL2q8PaHD6DQ5HWJBrN1jkOoWeHM-sk4NzvNHZeLg-aL77LSEuqbDuN83XbwdZ7ukXVMuUbvD4HCkY79TxWDy9YpwDM4d84kTRqDQEIaIN8irMAndQkG72mB5oVmdG1ZN0qfvzuP7-bb6L4IQIXNepHUsbEYlYdX0ri57dR4gGedRco",
       "width": 4800
@@ -383,7 +383,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6oa1sQi2EIkfpSDvYev_7IsIXgPNTV08imNMZ5fKatJ18JJtg=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "The chicken strips with spicy power were delicious! I don\u2019t know what they put on their fries but they were phenomenal! The service was great and the tea I got with my combo meal was great! It is a small location with minimal seating, but so worth it!",
+      "text": "The chicken strips with spicy power were delicious! I don’t know what they put on their fries but they were phenomenal! The service was great and the tea I got with my combo meal was great! It is a small location with minimal seating, but so worth it!",
       "time": 1746839283,
       "translated": false
     },
@@ -407,7 +407,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvBCGI-qi1psVkpixIAfWolULodQYb1A4wnCFGQ0KuY--Ofymo=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "I first heard about Chunky Boss through an overseas Taiwanese group on Facebook. Fried chicken breast has become a popular street food trend in Taiwan in recent years, and Chunky Boss is famous for its enormous, thick, fried, and breaded chicken breasts. The Chinese characters on the chicken\u2019s wrapping paper declare, \u201cI win because I am thick and heavy,\u201d perfectly summing up the indulgent experience. Located inside a bubble tea shop, it\u2019s easy to create a high-calorie, heavenly combo: bubble tea and fried chicken breast.\n\nI tried both the original and chili sauce versions. The chicken breast was juicy, lightly breaded, and remarkably crunchy on the outside. The original flavor highlighted the natural sweetness of the meat, demonstrating that even without heavy seasoning, it can be irresistibly satisfying. The chili sauce added an extra layer of boldness, offering a flavorful and spicy kick. Altogether, it\u2019s a delightful exploration of Taiwanese-style street food at its best.",
+      "text": "I first heard about Chunky Boss through an overseas Taiwanese group on Facebook. Fried chicken breast has become a popular street food trend in Taiwan in recent years, and Chunky Boss is famous for its enormous, thick, fried, and breaded chicken breasts. The Chinese characters on the chicken’s wrapping paper declare, “I win because I am thick and heavy,” perfectly summing up the indulgent experience. Located inside a bubble tea shop, it’s easy to create a high-calorie, heavenly combo: bubble tea and fried chicken breast.\n\nI tried both the original and chili sauce versions. The chicken breast was juicy, lightly breaded, and remarkably crunchy on the outside. The original flavor highlighted the natural sweetness of the meat, demonstrating that even without heavy seasoning, it can be irresistibly satisfying. The chili sauce added an extra layer of boldness, offering a flavorful and spicy kick. Altogether, it’s a delightful exploration of Taiwanese-style street food at its best.",
       "time": 1736298637,
       "translated": false
     },
@@ -419,7 +419,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIUS7j4MqWV3i1GQd5QDNBmxB2PLewTzxrqWMJUMX7rPcE6g=s128-c0x00000000-cc-rp-mo",
       "rating": 4,
       "relative_time_description": "3 months ago",
-      "text": "Great for a quick snack on the go! The crispy chicken cutlet is huge (in the pic I\u2019d already eaten half of it and it still almost filled the bag) but not super greasy, so it\u2019s great for a crunchy salty craving when you\u2019re traveling. I got the plum flavor and it was the perfect sweet and salty balance\nBoba is cooked to perfection, and the staff was very nice despite being busy before closing.\nI also got the cream puffs, a little underwhelming compared to how good the chicken was but they aren\u2019t known for the desserts. Signature flavor was definitely my favorite. They are very delicate so make sure to ask for napkins!",
+      "text": "Great for a quick snack on the go! The crispy chicken cutlet is huge (in the pic I’d already eaten half of it and it still almost filled the bag) but not super greasy, so it’s great for a crunchy salty craving when you’re traveling. I got the plum flavor and it was the perfect sweet and salty balance\nBoba is cooked to perfection, and the staff was very nice despite being busy before closing.\nI also got the cream puffs, a little underwhelming compared to how good the chicken was but they aren’t known for the desserts. Signature flavor was definitely my favorite. They are very delicate so make sure to ask for napkins!",
       "time": 1742338037,
       "translated": false
     }
@@ -441,5 +441,24 @@
   "utc_offset": -240,
   "vicinity": "129 E 45th St, New York",
   "website": "https://chunkyboss.co/",
-  "business_status_checked_at": "2026-10-03T20:04:56.130615+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:56.130615+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:24.240418+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.instagram.com/chunkybosschicken",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.instagram.com/explore/locations/",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

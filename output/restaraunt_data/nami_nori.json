@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 11:30 AM – 9:30 PM",
+      "Tuesday: 11:30 AM – 9:30 PM",
+      "Wednesday: 11:30 AM – 9:30 PM",
+      "Thursday: 11:30 AM – 9:30 PM",
+      "Friday: 11:30 AM – 10:00 PM",
+      "Saturday: 11:30 AM – 10:00 PM",
+      "Sunday: 11:30 AM – 9:30 PM"
     ]
   },
   "delivery": true,
@@ -267,13 +267,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      "Monday: 11:30 AM – 9:30 PM",
+      "Tuesday: 11:30 AM – 9:30 PM",
+      "Wednesday: 11:30 AM – 9:30 PM",
+      "Thursday: 11:30 AM – 9:30 PM",
+      "Friday: 11:30 AM – 10:00 PM",
+      "Saturday: 11:30 AM – 10:00 PM",
+      "Sunday: 11:30 AM – 9:30 PM"
     ]
   },
   "photos": [
@@ -375,7 +375,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsgriCFXIkCIy5qy3GMTroC_m6VGSQ1-kYbJDt_dy_FGD6x1nm=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "Tried the Signature Set (5 handrolls) and everything was super tasty! Beautiful presentation, fresh ingredients \u2014 great quality for the price.\n\nThe coconut shrimp handroll was a standout \u2014 didn\u2019t expect it to be that good. A full-on flavor and texture adventure\u2026 I loved it so much I ordered it twice!\n\nThe service was great \u2014 friendly and on point. My only note is that the seating felt a bit tight, with people seated very close on both sides. Not the most spacious vibe, but overall a really solid experience. I\u2019d definitely go back!",
+      "text": "Tried the Signature Set (5 handrolls) and everything was super tasty! Beautiful presentation, fresh ingredients — great quality for the price.\n\nThe coconut shrimp handroll was a standout — didn’t expect it to be that good. A full-on flavor and texture adventure… I loved it so much I ordered it twice!\n\nThe service was great — friendly and on point. My only note is that the seating felt a bit tight, with people seated very close on both sides. Not the most spacious vibe, but overall a really solid experience. I’d definitely go back!",
       "time": 1750155770,
       "translated": false
     },
@@ -387,7 +387,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiUPC03RSrNmVVhNULi_OWS-0yGdg_jOTZkKokzFWPGq6uPAt5=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "4 months ago",
-      "text": "Nami Nori is truly beyond amazing! Every sushi we had was incredible\u2014the flavors were outstanding, and the fish was so fresh it practically melted in our mouths. The quality and attention to detail in every bite were top-notch.\n\nThe service was equally impressive\u2014attentive, friendly, and efficient, making the entire experience even more enjoyable. The atmosphere was adorable, creating the perfect setting for a delightful meal.\n\nThe only small downside is that, while they offer an omakase-style experience, I wish the seating was a bit more comfortable. Other than that, everything was exceptional. Highly recommend for sushi lovers!",
+      "text": "Nami Nori is truly beyond amazing! Every sushi we had was incredible—the flavors were outstanding, and the fish was so fresh it practically melted in our mouths. The quality and attention to detail in every bite were top-notch.\n\nThe service was equally impressive—attentive, friendly, and efficient, making the entire experience even more enjoyable. The atmosphere was adorable, creating the perfect setting for a delightful meal.\n\nThe only small downside is that, while they offer an omakase-style experience, I wish the seating was a bit more comfortable. Other than that, everything was exceptional. Highly recommend for sushi lovers!",
       "time": 1740679174,
       "translated": false
     },
@@ -423,7 +423,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeRtyCR_5uYNt0DFQBb5NRUAfJrwPlKlQ-0vwcQRKCOmlSzfQ6=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "I ordered the xo scallop, fried oyster, spicy lobster, yellow tail and scallion, salmon and avocado temaki. They were all stunningly delicious - generous portion of very fresh fish, lots of perfectly seasoned toppings, crispy nori \u2764\ufe0f the service was also amazing. This might be my favourite restaurant in manhattan!!",
+      "text": "I ordered the xo scallop, fried oyster, spicy lobster, yellow tail and scallion, salmon and avocado temaki. They were all stunningly delicious - generous portion of very fresh fish, lots of perfectly seasoned toppings, crispy nori ❤️ the service was also amazing. This might be my favourite restaurant in manhattan!!",
       "time": 1749533846,
       "translated": false
     }
@@ -519,13 +519,13 @@
       ],
       "type": "DELIVERY",
       "weekday_text": [
-        "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Friday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Saturday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+        "Monday: 11:30 AM – 9:30 PM",
+        "Tuesday: 11:30 AM – 9:30 PM",
+        "Wednesday: 11:30 AM – 9:30 PM",
+        "Thursday: 11:30 AM – 9:30 PM",
+        "Friday: 11:30 AM – 9:30 PM",
+        "Saturday: 11:30 AM – 9:30 PM",
+        "Sunday: 11:30 AM – 9:30 PM"
       ]
     },
     {
@@ -618,13 +618,13 @@
       ],
       "type": "TAKEOUT",
       "weekday_text": [
-        "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Friday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Saturday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
-        "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+        "Monday: 11:30 AM – 9:30 PM",
+        "Tuesday: 11:30 AM – 9:30 PM",
+        "Wednesday: 11:30 AM – 9:30 PM",
+        "Thursday: 11:30 AM – 9:30 PM",
+        "Friday: 11:30 AM – 9:30 PM",
+        "Saturday: 11:30 AM – 9:30 PM",
+        "Sunday: 11:30 AM – 9:30 PM"
       ]
     }
   ],
@@ -651,5 +651,40 @@
   "emails": [
     "info@naminori.nyc"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:44.230256+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:44.230256+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:32.768747+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@naminori.nyc": [
+        "https://www.naminori.us/",
+        "https://www.naminori.us/atlantic-park",
+        "https://www.naminori.us/reservations"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.naminori.us/",
+        "status": "ok",
+        "emails": [
+          "info@naminori.nyc"
+        ]
+      },
+      {
+        "url": "https://www.naminori.us/atlantic-park",
+        "status": "ok",
+        "emails": [
+          "info@naminori.nyc"
+        ]
+      },
+      {
+        "url": "https://www.naminori.us/reservations",
+        "status": "ok",
+        "emails": [
+          "info@naminori.nyc"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

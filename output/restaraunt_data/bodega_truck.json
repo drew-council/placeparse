@@ -1,0 +1,69 @@
+{
+  "name": "Bodega Truck",
+  "maps_cid": "17214108576841142440",
+  "url": "https://www.google.com/maps/place/Bodega+Truck/@42.54045,-72.0983079,4z/data=!4m10!1m3!11m2!2snNC0B58XOJ0F2zzPXadsVB2p7jxdWA!3e2!3m5!1s0x66e19e0560d13379:0xeee4cc8bdf9f10a8!8m2!3d40.7668466!4d-73.948898!16s%2Fg%2F11pwq3q4b8?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+  "website": "http://www.bodegatruck.com/",
+  "formatted_phone_number": "(347) 734-3787",
+  "formatted_address": "",
+  "ui_category": "Mobile caterer",
+  "food_place": true,
+  "business_status": "OPERATIONAL",
+  "business_status_source": "Google Maps UI: Open / Closes soon",
+  "business_status_checked_at": "2026-10-03T22:03:20.993546+00:00",
+  "details_checked_at": "2026-10-03T22:03:20.993546+00:00",
+  "details_source": "google_maps_ui",
+  "api_lookup_status": "NOT_FOUND",
+  "canonical_maps_cid": "17214108576841142440",
+  "emails": [
+    "bodegacity@icloud.com",
+    "info@mysite.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:07:05.134719+00:00",
+    "outcome": "found",
+    "sources": {
+      "bodegacity@icloud.com": [
+        "https://www.bodegacity.com/contact"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.bodegacity.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.bodegacity.com/contact",
+        "status": "ok",
+        "emails": [
+          "bodegacity@icloud.com",
+          "info@mysite.com"
+        ]
+      },
+      {
+        "url": "https://www.bodegacity.com/about-5",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.bodegacity.com/contact",
+        "status": "non_restaurant_email_excluded",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.bodegacity.com/",
+      "https://www.bodegacity.com/contact",
+      "https://www.bodegacity.com/about-5"
+    ],
+    "excluded_sources": {
+      "info@mysite.com": {
+        "urls": [
+          "https://www.bodegacity.com/contact"
+        ],
+        "reason": "Placeholder, publisher/vendor, or non-restaurant mailbox; withheld from restaurant contact exports."
+      }
+    },
+    "quality_reviewed_at": "2026-10-04T05:58:56.916156+00:00"
+  }
+}

@@ -162,13 +162,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -275,13 +275,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -304,7 +304,7 @@
     {
       "height": 4800,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/116040512843385152893\">\u9673\u5955\u5a77</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/116040512843385152893\">陳奕婷</a>"
       ],
       "photo_reference": "ATKogpeq7gV_5YX93ihpTOOa1Fvk8vxRg--zAntpV_9QW38Syfg8YBeu1PUXIMjsnuJu591mtOkC5gzFk2w81_i9sbXykjXjQBhrqidSfzihKCeeUFpdylUi6SE6iikyg7Q_ib03mtt5y9KvUixz1Oj2TczWg7oinzlCwWfEN410l-1bGXqjmnbsPFsPxj-Y38GxhMAf79C3EIfDfLJceCoAOq4UVT9WWSQ1AhqZE8_R8zfoO4ZK2BdKA8sV-aOldggS_qsvqIxiWggod4h37RAsc7qHq8mzlxCrPJU0o_CucMChUXpuHIjs70qJjMRIKLsVheTbG87ylg3L7nn-HvKI-00BbvPKIdzGP9dU4ahtvYJNTuv50s_TBPm22Jp2cxLJvf52hy-Zb3BGpHfMEEH3eZyEYIQgq6fwKn_FjpHFathwdjLA",
       "width": 3600
@@ -413,14 +413,14 @@
       "translated": false
     },
     {
-      "author_name": "\u9673\u5955\u5a77",
+      "author_name": "陳奕婷",
       "author_url": "https://www.google.com/maps/contrib/116040512843385152893/reviews",
       "language": "en",
       "original_language": "en",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9sGvZ6c6-K1o4XrFCttw1MFsLaIKLOrJ46E941p4cO1wSLz0=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "Everything was so good\u2026 Not a big space but the food was delicious. Recommend for take out if you live near here. Will definitely revisit.",
+      "text": "Everything was so good… Not a big space but the food was delicious. Recommend for take out if you live near here. Will definitely revisit.",
       "time": 1749432300,
       "translated": false
     },
@@ -454,5 +454,37 @@
   "vicinity": "12-09 Jackson Ave, Long Island City",
   "website": "https://eatkuku.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:28.838336+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:28.838336+00:00",
+  "emails": [
+    "info@eatkuku.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:12.894023+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@eatkuku.com": [
+        "https://eatkuku.com/locations"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://eatkuku.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://eatkuku.com/about",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://eatkuku.com/locations",
+        "status": "ok",
+        "emails": [
+          "info@eatkuku.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

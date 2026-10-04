@@ -143,12 +143,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Tuesday: 11:30 AM – 9:00 PM",
+      "Wednesday: 11:30 AM – 9:00 PM",
+      "Thursday: 11:30 AM – 9:00 PM",
+      "Friday: 11:30 AM – 9:00 PM",
+      "Saturday: 11:30 AM – 9:00 PM",
+      "Sunday: 11:30 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -242,12 +242,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Tuesday: 11:30 AM – 9:00 PM",
+      "Wednesday: 11:30 AM – 9:00 PM",
+      "Thursday: 11:30 AM – 9:00 PM",
+      "Friday: 11:30 AM – 9:00 PM",
+      "Saturday: 11:30 AM – 9:00 PM",
+      "Sunday: 11:30 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -350,7 +350,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_If1Xc5MhKAitICq9_iO9TEIAE_tQL6BojGlB2hq6eW5W1aw0=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "I tried the 3 Pc. Spare Ribs and 1/4 Chicken with Pork Fried Rice ($21). The chicken was extremely juicy and tender, and seasoned super well. The ribs were also moist, seasoned, and flavorful. The addition of the salad and rice were a nice compliment to the meat. The portion sizes are generous too, and this could be two meals if you\u2019re not super hungry. Though this isn\u2019t the best food I\u2019ve had, this spot hits its niche perfectly. It\u2019s a no-frills spot that offers delicious food at an affordable price. Would definitely come again if I want some quick casual food to eat.",
+      "text": "I tried the 3 Pc. Spare Ribs and 1/4 Chicken with Pork Fried Rice ($21). The chicken was extremely juicy and tender, and seasoned super well. The ribs were also moist, seasoned, and flavorful. The addition of the salad and rice were a nice compliment to the meat. The portion sizes are generous too, and this could be two meals if you’re not super hungry. Though this isn’t the best food I’ve had, this spot hits its niche perfectly. It’s a no-frills spot that offers delicious food at an affordable price. Would definitely come again if I want some quick casual food to eat.",
       "time": 1748831769,
       "translated": false
     },
@@ -362,7 +362,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0a3GZEt2odp7s9m1gxjgoocM9IWTBkbHiKdNfob6qni20pK9SKQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Fire Peruvian spot \u2014 got half a chicken with crispy skin, rice, and my fave Inca Kola for $16. So good. Definitely hittin\u2019.",
+      "text": "Fire Peruvian spot — got half a chicken with crispy skin, rice, and my fave Inca Kola for $16. So good. Definitely hittin’.",
       "time": 1747578216,
       "translated": false
     },
@@ -421,5 +421,13 @@
   "utc_offset": -240,
   "vicinity": "35-01 Broadway, Astoria",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:04:51.138089+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:51.138089+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:18.904850+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

@@ -1,0 +1,42 @@
+{
+  "adr_address": "<span class=\"street-address\">16 W 8th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10011-9002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "16 W 8th St, New York, NY 10011, USA",
+  "formatted_phone_number": "(212) 888-9653",
+  "geometry": {
+    "location": {
+      "lat": 40.7325844,
+      "lng": -73.9974629
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7339801802915,
+        "lng": -73.99605401970848
+      },
+      "southwest": {
+        "lat": 40.7312822197085,
+        "lng": -73.99875198029149
+      }
+    }
+  },
+  "international_phone_number": "+1 212-888-9653",
+  "name": "South of the Clouds 云之南 Greenwich Village",
+  "place_id": "ChIJ95gIK5dZwokRwdMlTwvjFtk",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=15642939993430021057",
+  "details_checked_at": "2026-10-03T21:59:18.633833+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:18.633833+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:24.880967+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
+}

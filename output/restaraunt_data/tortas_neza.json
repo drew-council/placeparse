@@ -156,13 +156,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
+      "Monday: 11:00 AM – 6:00 AM",
+      "Tuesday: 11:00 AM – 6:00 AM",
       "Wednesday: Closed",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM"
+      "Thursday: 11:00 AM – 6:00 AM",
+      "Friday: 11:00 AM – 6:00 AM",
+      "Saturday: 11:00 AM – 6:00 AM",
+      "Sunday: 11:00 AM – 6:00 AM"
     ]
   },
   "dine_in": true,
@@ -258,13 +258,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
+      "Monday: 11:00 AM – 6:00 AM",
+      "Tuesday: 11:00 AM – 6:00 AM",
       "Wednesday: Closed",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM"
+      "Thursday: 11:00 AM – 6:00 AM",
+      "Friday: 11:00 AM – 6:00 AM",
+      "Saturday: 11:00 AM – 6:00 AM",
+      "Sunday: 11:00 AM – 6:00 AM"
     ]
   },
   "photos": [
@@ -379,7 +379,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXA6hXqYLMyy8yp08HcLyKaxZX0nKTjYGPxg0_hIgORwhYkoOQ5=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "I came on a Saturday at 1pm and waited 2 hours (they open at 1:30pm everyday).\nThe food was amazing, and for $15 u get a sandwich that could feed up to 3 honestly. For the impatient people, this place is not recommended. They also sell horchatas and other juices. Overall everything was good.\nCASH ONLY BUSINESS, DON\u2019T FORGET TO BRING CASH.",
+      "text": "I came on a Saturday at 1pm and waited 2 hours (they open at 1:30pm everyday).\nThe food was amazing, and for $15 u get a sandwich that could feed up to 3 honestly. For the impatient people, this place is not recommended. They also sell horchatas and other juices. Overall everything was good.\nCASH ONLY BUSINESS, DON’T FORGET TO BRING CASH.",
       "time": 1688301328,
       "translated": false
     },
@@ -391,7 +391,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwQUHota3lXQ7bLBPC0EUDf_nEQfdybtwSDkmcqkklNeH7AgTQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "Huge sandwich, I got the pumas Tortas the most expensive one, $20. No doubt it can be the biggest Tortas sandwich in NYC, at least for me so far I haven\u2019t seen a Tortas this big, bigger than both of my hand combine, maybe 2.5 of my whole hand. It can feed upto 3-4 people each. I would recommend cutting it to at least 4 pieces or else it is hard to eat, you will be eating like a caveman, forget about appearance and manner when eating this Tortas. Overall everything is great. Definitely do recommend to give it a try, but it not meant for anyone that is on a diet for weight loss :)",
+      "text": "Huge sandwich, I got the pumas Tortas the most expensive one, $20. No doubt it can be the biggest Tortas sandwich in NYC, at least for me so far I haven’t seen a Tortas this big, bigger than both of my hand combine, maybe 2.5 of my whole hand. It can feed upto 3-4 people each. I would recommend cutting it to at least 4 pieces or else it is hard to eat, you will be eating like a caveman, forget about appearance and manner when eating this Tortas. Overall everything is great. Definitely do recommend to give it a try, but it not meant for anyone that is on a diet for weight loss :)",
       "time": 1716869300,
       "translated": false
     },
@@ -415,7 +415,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNnWKfq2j5i0a6sZ0AfXRAE1pEfRAhtOYjbu0gBv6bwBgvAong=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "a year ago",
-      "text": "I really wanted to give this place more stars but honestly this wasn\u2019t worth the hype! The tortas were missing flavor unfortunately. Tortas are HUGE and priced reasonably but like I said there was really no flavor, which was a big disappointment. Overall wouldn\u2019t recommend if you\u2019re looking for a savory Torta. Also, be prepared to wait at least 1 hr lol",
+      "text": "I really wanted to give this place more stars but honestly this wasn’t worth the hype! The tortas were missing flavor unfortunately. Tortas are HUGE and priced reasonably but like I said there was really no flavor, which was a big disappointment. Overall wouldn’t recommend if you’re looking for a savory Torta. Also, be prepared to wait at least 1 hr lol",
       "time": 1689479261,
       "translated": false
     }
@@ -438,5 +438,26 @@
   "utc_offset": -240,
   "vicinity": "104-58 Roosevelt Ave, Flushing",
   "website": "https://tortasnezany.com/",
-  "business_status_checked_at": "2026-10-03T20:06:20.535603+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:20.535603+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:14.091629+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://tortasnezany.com/",
+        "status": "SSLError",
+        "emails": []
+      },
+      {
+        "url": "https://tortasnezany.com/",
+        "status": "browser_load_error",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:58.274299+00:00",
+    "browser_outcome": "incomplete_lookup"
+  }
 }

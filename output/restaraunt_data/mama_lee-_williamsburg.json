@@ -190,7 +190,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJef1b5E7ATm-B5_raVnax9AnfUTluck-iMT5IJDh6nBYNuXQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "7 months ago",
-      "text": "The service and food were impeccable. I believe it was owner, Mrs. Lee who served us herself. We ordered the Beef Noodle Soup, which was fantastic and the Lou Rou Fan, which was also out of this world.\n\nAs someone who\u2019s lived in NYC for 4+ years, the customer service went above and beyond. Toward the end of our service, our server gave us extra beef broth for our soup, tea, and the BEST egg tarts I\u2019ve ever had \u2014 free of charge. Definitely, hands down the place to for the best all-around experience for Taiwanese food.",
+      "text": "The service and food were impeccable. I believe it was owner, Mrs. Lee who served us herself. We ordered the Beef Noodle Soup, which was fantastic and the Lou Rou Fan, which was also out of this world.\n\nAs someone who’s lived in NYC for 4+ years, the customer service went above and beyond. Toward the end of our service, our server gave us extra beef broth for our soup, tea, and the BEST egg tarts I’ve ever had — free of charge. Definitely, hands down the place to for the best all-around experience for Taiwanese food.",
       "time": 1732379886,
       "translated": false
     },
@@ -202,7 +202,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp1r68zuKwr81QYxkRXfPHlOWsZv41w6zGBKTvQcK5LmWOVMJU8g=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "11 months ago",
-      "text": "A neighborhood gem! Tried the salt and pepper chicken, dumplings, cucumber, Lu rou fan, and bamboo shoots with shredded pork.\n\nEverything tasted fresh, and not too heavy or salty. Will definitely be back to try the rest of the menu! Mama Lee is the sweetest and it felt like a home-cooked meal, especially her soup, which she gave to us as complimentary! \u2763\ufe0f",
+      "text": "A neighborhood gem! Tried the salt and pepper chicken, dumplings, cucumber, Lu rou fan, and bamboo shoots with shredded pork.\n\nEverything tasted fresh, and not too heavy or salty. Will definitely be back to try the rest of the menu! Mama Lee is the sweetest and it felt like a home-cooked meal, especially her soup, which she gave to us as complimentary! ❣️",
       "time": 1722565693,
       "translated": false
     },
@@ -214,7 +214,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8kV8uweFnZT7WxQVUM3Z-GhW9qvMxdNjviaRJ-DtL8dOdOL2N=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "Sweet chill place for Taiwanese food. Loved everything, especially our waiter. Service crew was young but nice. We ordered a lot and the food came surprisingly fast. The portions were unexpectedly big. More generous than usual NYC restaurants. Great values! We\u2019ll surely come again.",
+      "text": "Sweet chill place for Taiwanese food. Loved everything, especially our waiter. Service crew was young but nice. We ordered a lot and the food came surprisingly fast. The portions were unexpectedly big. More generous than usual NYC restaurants. Great values! We’ll surely come again.",
       "time": 1694997939,
       "translated": false
     },
@@ -261,5 +261,18 @@
   "emails": [
     "mamaleeofficialrestaurant@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:36.749988+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:36.749988+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:20.766337+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.mamaleerestaurant.com/",
+        "status": "ValueError",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

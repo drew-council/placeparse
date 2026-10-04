@@ -1,0 +1,65 @@
+{
+  "adr_address": "<span class=\"street-address\">25-12 Steinway St</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11103</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "25-12 Steinway St, Astoria, NY 11103, USA",
+  "formatted_phone_number": "(718) 728-9858",
+  "geometry": {
+    "location": {
+      "lat": 40.7677139,
+      "lng": -73.9121214
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7689872802915,
+        "lng": -73.9107277197085
+      },
+      "southwest": {
+        "lat": 40.7662893197085,
+        "lng": -73.91342568029151
+      }
+    }
+  },
+  "international_phone_number": "+1 718-728-9858",
+  "name": "Kabab Cafe",
+  "place_id": "ChIJR3kMeWpfwokRhQMUqlJb9jE",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=3600165362728174469",
+  "website": "http://www.kababcafenyc.com/",
+  "details_checked_at": "2026-10-03T21:59:07.753576+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:07.753576+00:00",
+  "emails": [
+    "kababcafe@hotmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:11.329043+00:00",
+    "outcome": "found",
+    "sources": {
+      "kababcafe@hotmail.com": [
+        "https://www.kababcafenyc.com/",
+        "https://www.kababcafenyc.com/about-us"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.kababcafenyc.com/",
+        "status": "ok",
+        "emails": [
+          "kababcafe@hotmail.com"
+        ]
+      },
+      {
+        "url": "https://www.kababcafenyc.com/about-us",
+        "status": "ok",
+        "emails": [
+          "kababcafe@hotmail.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
+}

@@ -169,13 +169,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 12:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-      "Saturday: 12:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 3:00 AM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -282,13 +282,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 12:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-      "Saturday: 12:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 3:00 AM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -402,7 +402,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUA4IVGyNtj9KVHI4Mjq44ObbHXBjyyyTKRkJwYNVbcQDlDUNHOXQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "6 months ago",
-      "text": "Went to visit because I am a fan of Dash & Lily. The place wasn\u2019t crowded at all (only 2-3 groups) and several take away. Pizza was good and they have several soda options. They even have the movie corner! Staff was really nice. Will come back if I return to NY.",
+      "text": "Went to visit because I am a fan of Dash & Lily. The place wasn’t crowded at all (only 2-3 groups) and several take away. Pizza was good and they have several soda options. They even have the movie corner! Staff was really nice. Will come back if I return to NY.",
       "time": 1733027633,
       "translated": false
     },
@@ -548,13 +548,13 @@
       ],
       "type": "DELIVERY",
       "weekday_text": [
-        "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Thursday: 12:00\u2009\u2013\u200911:00\u202fPM",
-        "Friday: 12:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-        "Saturday: 12:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-        "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 11:00 PM",
+        "Friday: 12:00 PM – 2:00 AM",
+        "Saturday: 12:00 PM – 2:00 AM",
+        "Sunday: 12:00 – 10:00 PM"
       ]
     }
   ],
@@ -581,7 +581,75 @@
   "website": "https://www.twoboots.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
+    "catering@twoboots.com",
+    "info@twoboots.com",
     "shadow@2x.png"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:21.170825+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:21.170825+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:15.217521+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@twoboots.com": [
+        "https://twoboots.com/",
+        "https://twoboots.com/contact/",
+        "https://twoboots.com/catering/",
+        "https://twoboots.com/faq/",
+        "https://twoboots.com/about/",
+        "https://twoboots.com/locations/"
+      ],
+      "catering@twoboots.com": [
+        "https://twoboots.com/catering/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://twoboots.com/",
+        "status": "ok",
+        "emails": [
+          "info@twoboots.com"
+        ]
+      },
+      {
+        "url": "https://twoboots.com/contact/",
+        "status": "ok",
+        "emails": [
+          "info@twoboots.com"
+        ]
+      },
+      {
+        "url": "https://twoboots.com/catering/",
+        "status": "ok",
+        "emails": [
+          "catering@twoboots.com",
+          "info@twoboots.com"
+        ]
+      },
+      {
+        "url": "https://twoboots.com/faq/",
+        "status": "ok",
+        "emails": [
+          "info@twoboots.com"
+        ]
+      },
+      {
+        "url": "https://twoboots.com/about/",
+        "status": "ok",
+        "emails": [
+          "info@twoboots.com"
+        ]
+      },
+      {
+        "url": "https://twoboots.com/locations/",
+        "status": "ok",
+        "emails": [
+          "info@twoboots.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://twoboots.com/contact/",
+      "https://twoboots.com/catering/"
+    ]
+  }
 }

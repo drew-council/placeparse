@@ -176,13 +176,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM"
+      "Monday: 8:00 AM – 2:00 AM",
+      "Tuesday: 8:00 AM – 2:00 AM",
+      "Wednesday: 8:00 AM – 2:00 AM",
+      "Thursday: 8:00 AM – 2:00 AM",
+      "Friday: 8:00 AM – 2:00 AM",
+      "Saturday: 8:00 AM – 2:00 AM",
+      "Sunday: 8:00 AM – 2:00 AM"
     ]
   },
   "delivery": true,
@@ -285,13 +285,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Tuesday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Wednesday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Thursday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Friday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Saturday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-      "Sunday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM"
+      "Monday: 8:00 AM – 2:00 AM",
+      "Tuesday: 8:00 AM – 2:00 AM",
+      "Wednesday: 8:00 AM – 2:00 AM",
+      "Thursday: 8:00 AM – 2:00 AM",
+      "Friday: 8:00 AM – 2:00 AM",
+      "Saturday: 8:00 AM – 2:00 AM",
+      "Sunday: 8:00 AM – 2:00 AM"
     ]
   },
   "photos": [
@@ -393,7 +393,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIM_1Yvb4CfxJhAJ9P0vvn3VaUh94q3HGmnnAo_E1qofLtGFQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "3 weeks ago",
-      "text": "Food is amazing! The cucumber salad is to die for. So fresh and flavorful! Would come back just for the cucumbers. The soup dumplings are pretty good too, each bite exploding with hot pork soup. It\u2019s a self service place and food comes out quickly. It\u2019s a small cozy restaurant, limited seating.",
+      "text": "Food is amazing! The cucumber salad is to die for. So fresh and flavorful! Would come back just for the cucumbers. The soup dumplings are pretty good too, each bite exploding with hot pork soup. It’s a self service place and food comes out quickly. It’s a small cozy restaurant, limited seating.",
       "time": 1749037811,
       "translated": false
     },
@@ -429,7 +429,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuZPlDBjaMcbPTzRZJlNvKrbml0-nAQ1lt7MSwPVoc1gClWE20=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Had a great experience at Nan Xiang Express in Williamsburg! We ordered the chicken stir-fry and scallion pancakes, and both were fantastic. The chicken stir-fry was flavorful, with tender chicken and perfectly cooked vegetables, all coated in a delicious sauce. The scallion pancakes were crispy on the outside, soft on the inside, and had just the right amount of oniony flavor. The service was quick, and the staff was friendly. Definitely a great spot for a casual and satisfying meal\u2014will be coming back to try more!",
+      "text": "Had a great experience at Nan Xiang Express in Williamsburg! We ordered the chicken stir-fry and scallion pancakes, and both were fantastic. The chicken stir-fry was flavorful, with tender chicken and perfectly cooked vegetables, all coated in a delicious sauce. The scallion pancakes were crispy on the outside, soft on the inside, and had just the right amount of oniony flavor. The service was quick, and the staff was friendly. Definitely a great spot for a casual and satisfying meal—will be coming back to try more!",
       "time": 1741841147,
       "translated": false
     },
@@ -441,7 +441,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBjg7P12NrSR9EGk5oSuanWq0MjgDW0anIi_1QbxIPD6gs1LM=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Fast Food Quality Soup Dumplings (Express baby of the famous Nan Xiang in Flushing). Super fast and easy to order / eat in or take out when you\u2019re on the run (the kids love it too!) Love this cafeteria style concept.",
+      "text": "Fast Food Quality Soup Dumplings (Express baby of the famous Nan Xiang in Flushing). Super fast and easy to order / eat in or take out when you’re on the run (the kids love it too!) Love this cafeteria style concept.",
       "time": 1744841997,
       "translated": false
     }
@@ -463,5 +463,19 @@
   "vicinity": "167 Grand St, Brooklyn",
   "website": "https://nanxiangexpress.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:44.573373+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:44.573373+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:33.764340+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://nanxiangexpress.com/",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

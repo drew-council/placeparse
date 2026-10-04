@@ -214,13 +214,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 12:00 – 3:30 PM, 4:30 – 9:00 PM",
+      "Tuesday: 12:00 – 3:30 PM, 4:30 – 9:00 PM",
+      "Wednesday: 12:00 – 3:30 PM, 4:30 – 9:00 PM",
       "Thursday: Closed",
-      "Friday: 12:00\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM"
+      "Friday: 12:00 – 3:30 PM, 4:30 – 9:00 PM",
+      "Saturday: 12:00 – 3:30 PM, 4:30 – 9:00 PM",
+      "Sunday: 12:00 – 3:30 PM, 4:30 – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -373,13 +373,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 12:00 – 3:30 PM, 4:30 – 9:00 PM",
+      "Tuesday: 12:00 – 3:30 PM, 4:30 – 9:00 PM",
+      "Wednesday: 12:00 – 3:30 PM, 4:30 – 9:00 PM",
       "Thursday: Closed",
-      "Friday: 12:00\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM"
+      "Friday: 12:00 – 3:30 PM, 4:30 – 9:00 PM",
+      "Saturday: 12:00 – 3:30 PM, 4:30 – 9:00 PM",
+      "Sunday: 12:00 – 3:30 PM, 4:30 – 9:00 PM"
     ]
   },
   "photos": [
@@ -482,7 +482,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoQvX9D4vOmaSoTLweCvgY0A0K6pn_jiK10qeSK3owuj47Fw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "Very authentic Thai food here! I get quite picky with my food but this place definitely has so many good dishes. Ugh and I try every Thai tea and this is one of the good ones, must get when you\u2019re there!\n\nIt\u2019s a small spot so there may be a small wait if it\u2019s busy but for the most part, they try their best to accommodate and make a few moves for people to sit.\n\nGreat friendly service as well!! \ud83e\udd70",
+      "text": "Very authentic Thai food here! I get quite picky with my food but this place definitely has so many good dishes. Ugh and I try every Thai tea and this is one of the good ones, must get when you’re there!\n\nIt’s a small spot so there may be a small wait if it’s busy but for the most part, they try their best to accommodate and make a few moves for people to sit.\n\nGreat friendly service as well!! 🥰",
       "time": 1750280622,
       "translated": false
     },
@@ -494,7 +494,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBiH4zl8ULnoVjTMmRcF-2yCGTVXpBTXIqF_8hmuazFuMlo5s=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "One word: happy \ud83c\udf89\n\nWe ate here for dinner and my, my, they served such delectable Thai dishes.\n\nI requested for spicy, spicy level for my Som Tum Thai and Pad Ka Prow (with beef), they delivered.\n\nIn conclusion, happy \ud83c\udf89",
+      "text": "One word: happy 🎉\n\nWe ate here for dinner and my, my, they served such delectable Thai dishes.\n\nI requested for spicy, spicy level for my Som Tum Thai and Pad Ka Prow (with beef), they delivered.\n\nIn conclusion, happy 🎉",
       "time": 1745753509,
       "translated": false
     },
@@ -518,7 +518,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcxUfSMrkV2FtpaKbBfGopq9V61yaMbjoN3NIhGUhpJOiLntI=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Incredible meal, some of the best Thai I\u2019ve ever had. Loved the crispy rice and fish signature dishes.",
+      "text": "Incredible meal, some of the best Thai I’ve ever had. Loved the crispy rice and fish signature dishes.",
       "time": 1746625356,
       "translated": false
     },
@@ -553,10 +553,48 @@
   "vicinity": "77-16 Woodside Ave, Elmhurst",
   "website": "http://www.hugesannyc.net/",
   "emails": [
-    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
-    "Hugesannyc@gmail.com",
     "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
-    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com"
+    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+    "Hugesannyc@gmail.com",
+    "hugesannyc@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:18.634623+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:18.634623+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:59.430057+00:00",
+    "outcome": "found",
+    "sources": {
+      "hugesannyc@gmail.com": [
+        "https://www.hugesannyc.net/",
+        "https://www.hugesannyc.net",
+        "https://www.hugesannyc.net/catering-inquiry"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.hugesannyc.net/",
+        "status": "ok",
+        "emails": [
+          "hugesannyc@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.hugesannyc.net",
+        "status": "ok",
+        "emails": [
+          "hugesannyc@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.hugesannyc.net/catering-inquiry",
+        "status": "ok",
+        "emails": [
+          "hugesannyc@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.hugesannyc.net/catering-inquiry"
+    ]
+  }
 }

@@ -169,13 +169,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
-      "Tuesday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
-      "Wednesday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
-      "Thursday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
-      "Friday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
-      "Saturday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
-      "Sunday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM"
+      "Monday: 10:00 PM – 4:00 AM",
+      "Tuesday: 10:00 PM – 4:00 AM",
+      "Wednesday: 10:00 PM – 4:00 AM",
+      "Thursday: 10:00 PM – 4:00 AM",
+      "Friday: 10:00 PM – 4:00 AM",
+      "Saturday: 10:00 PM – 4:00 AM",
+      "Sunday: 10:00 PM – 4:00 AM"
     ]
   },
   "delivery": false,
@@ -282,13 +282,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
-      "Tuesday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
-      "Wednesday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
-      "Thursday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
-      "Friday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
-      "Saturday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
-      "Sunday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM"
+      "Monday: 10:00 PM – 4:00 AM",
+      "Tuesday: 10:00 PM – 4:00 AM",
+      "Wednesday: 10:00 PM – 4:00 AM",
+      "Thursday: 10:00 PM – 4:00 AM",
+      "Friday: 10:00 PM – 4:00 AM",
+      "Saturday: 10:00 PM – 4:00 AM",
+      "Sunday: 10:00 PM – 4:00 AM"
     ]
   },
   "photos": [
@@ -391,7 +391,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHGSOYXzqZzwLrLntdQAjztHnQxUx1LuvTNERxFRaTRHgMfOZN=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "I love this African buffet style restaurant. The food is always fresh, the atmosphere is very welcoming/ warm/ and friendly. The food is always well made, and served/prepped and very clean/neat and always always delicious. I recommend everyone to go and show love and grab a platter/meal\ud83d\udc99 \ud83d\udc9a\ud83d\udc9c I\u2019m a forever customer.",
+      "text": "I love this African buffet style restaurant. The food is always fresh, the atmosphere is very welcoming/ warm/ and friendly. The food is always well made, and served/prepped and very clean/neat and always always delicious. I recommend everyone to go and show love and grab a platter/meal💙 💚💜 I’m a forever customer.",
       "time": 1742106519,
       "translated": false
     },
@@ -403,7 +403,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9zglDeQwgejjLoFbLpNwHyFD7AC3DJ5DrEEO4_6pcVtZkeU3cGA=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "7 months ago",
-      "text": "African buffet paradise! There\u2019s no place like this on the west coast. So many protein, veg, and carb choices, there were like 30 dishes available. My favorite dish was probably the ceebujen or the okra. They take card.",
+      "text": "African buffet paradise! There’s no place like this on the west coast. So many protein, veg, and carb choices, there were like 30 dishes available. My favorite dish was probably the ceebujen or the okra. They take card.",
       "time": 1730852224,
       "translated": false
     },
@@ -415,7 +415,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVs7zxTVpJqw1qFf4gM0GgKC1jGQvdO4eH1g98EJMKVF1nmzTSR7w=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "8 months ago",
-      "text": "SORRY FOR THE HALF EATEN PLATES. BUT O HAD TO STOP MID WAY TO GIVE A REVIEW. THE LADY IN THE FRONT WAS NICE ENOUGH TO HELP US PICK OUT THE FOOD. SHE SHOWED US WHAT WAS WHAT. THE FISH JOLLOF? ASTONISHING. FLAVORFUL. NOT OILY. AMAZING.\n\nFUFU AND THE TOMATO BASE SOUP. AMAZINGGGG.\n\nIM HONDURAN AND MY WIFE IS DOMINICAN BUT LET ME TELL YOU, WE ARE SO GLAD WE EXPANDED OUR TASTE BUDS\u2764\ufe0f\n\n& 27$ FOR EVERYTHING. CANT BEAT THAT.",
+      "text": "SORRY FOR THE HALF EATEN PLATES. BUT O HAD TO STOP MID WAY TO GIVE A REVIEW. THE LADY IN THE FRONT WAS NICE ENOUGH TO HELP US PICK OUT THE FOOD. SHE SHOWED US WHAT WAS WHAT. THE FISH JOLLOF? ASTONISHING. FLAVORFUL. NOT OILY. AMAZING.\n\nFUFU AND THE TOMATO BASE SOUP. AMAZINGGGG.\n\nIM HONDURAN AND MY WIFE IS DOMINICAN BUT LET ME TELL YOU, WE ARE SO GLAD WE EXPANDED OUR TASTE BUDS❤️\n\n& 27$ FOR EVERYTHING. CANT BEAT THAT.",
       "time": 1730310836,
       "translated": false
     },
@@ -458,5 +458,13 @@
   "user_ratings_total": 410,
   "utc_offset": -240,
   "vicinity": "165 W 26th St, New York",
-  "business_status_checked_at": "2026-10-03T20:04:42.655841+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:42.655841+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:08.301152+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

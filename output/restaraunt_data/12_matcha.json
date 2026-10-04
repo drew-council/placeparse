@@ -1,0 +1,76 @@
+{
+  "adr_address": "<span class=\"street-address\">54 Bond St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012-2477</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "54 Bond St, New York, NY 10012, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7259475,
+      "lng": -73.99241789999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7272465302915,
+        "lng": -73.99111236970849
+      },
+      "southwest": {
+        "lat": 40.7245485697085,
+        "lng": -73.9938103302915
+      }
+    }
+  },
+  "name": "12 Matcha",
+  "place_id": "ChIJYQM4uYJZwokRtU7IAZdSHZ0",
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=11321295846802738869",
+  "website": "https://12matcha.com/",
+  "details_checked_at": "2026-10-03T21:59:27.746587+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:27.746587+00:00",
+  "emails": [
+    "info@12matcha.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:53.830329+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@12matcha.com": [
+        "https://www.12matcha.com/contact"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.12matcha.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.12matcha.com/contact",
+        "status": "ok",
+        "emails": [
+          "info@12matcha.com"
+        ]
+      },
+      {
+        "url": "https://www.12matcha.com/support",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.12matcha.com/faq",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.12matcha.com/",
+      "https://www.12matcha.com/contact",
+      "https://www.12matcha.com/support",
+      "https://www.12matcha.com/faq"
+    ]
+  }
+}

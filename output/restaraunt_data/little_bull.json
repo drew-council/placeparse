@@ -161,13 +161,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Monday: 5:00 – 10:00 PM",
       "Tuesday: Closed",
-      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM"
     ]
   },
   "dine_in": true,
@@ -269,13 +269,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Monday: 5:00 – 10:00 PM",
       "Tuesday: Closed",
-      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -389,7 +389,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsbselvtYftHsfrzViGFvxig2EuHqYvkpGXw_9lULN5UQOrsk3=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Absolutely delicious from start to finish! Every dish was crafted with fresh ingredients and full of exciting, vibrant flavors. The presentation was stunning \u2014 each plate looked like a work of art. You can really taste the care and creativity that goes into the food.\n\nThe ambiance was just as impressive, with beautiful outdoor dining and superb nighttime lighting that created a cozy, inviting atmosphere \u2014 perfect for a relaxing evening.\n\nOur waitress (I wish I remembered her name!) did an excellent job taking care of our table. She was attentive, friendly, and made the experience even better. I\u2019m including a photo of her in the review to show appreciation for her great service.\n\nHighly recommend this spot if you\u2019re looking for a fresh, flavorful, and well-rounded dining experience.",
+      "text": "Absolutely delicious from start to finish! Every dish was crafted with fresh ingredients and full of exciting, vibrant flavors. The presentation was stunning — each plate looked like a work of art. You can really taste the care and creativity that goes into the food.\n\nThe ambiance was just as impressive, with beautiful outdoor dining and superb nighttime lighting that created a cozy, inviting atmosphere — perfect for a relaxing evening.\n\nOur waitress (I wish I remembered her name!) did an excellent job taking care of our table. She was attentive, friendly, and made the experience even better. I’m including a photo of her in the review to show appreciation for her great service.\n\nHighly recommend this spot if you’re looking for a fresh, flavorful, and well-rounded dining experience.",
       "time": 1746334401,
       "translated": false
     },
@@ -425,7 +425,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZY5UuCMdhh6w7nv228TZhIl34ZNgVmGmTOrJx8VOkTYBeNYQq=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "Durham\u2019s newest hit spot! The meats are so tender. The birria dumplings are a must. We also loved the ceviche. And the bread pudding for dessert \u2014 so good! You can\u2019t go wrong! Great for groups of friends / family or date nights.",
+      "text": "Durham’s newest hit spot! The meats are so tender. The birria dumplings are a must. We also loved the ceviche. And the bread pudding for dessert — so good! You can’t go wrong! Great for groups of friends / family or date nights.",
       "time": 1739595082,
       "translated": false
     }
@@ -452,5 +452,37 @@
     "email@example.com",
     "info@littlebullnc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:32.821808+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:32.821808+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:17.091760+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@littlebullnc.com": [
+        "https://littlebullnc.com/",
+        "https://littlebullnc.com/durham-downtown-little-bull-about"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://littlebullnc.com/",
+        "status": "ok",
+        "emails": [
+          "info@littlebullnc.com"
+        ]
+      },
+      {
+        "url": "https://littlebullnc.com/durham-downtown-little-bull-about",
+        "status": "ok",
+        "emails": [
+          "info@littlebullnc.com"
+        ]
+      },
+      {
+        "url": "https://littlebullnc.com/durham-downtown-little-bull-events",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

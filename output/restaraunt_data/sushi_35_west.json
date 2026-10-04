@@ -136,12 +136,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 11:30 AM – 9:00 PM",
+      "Tuesday: 11:30 AM – 9:00 PM",
+      "Wednesday: 11:30 AM – 9:00 PM",
+      "Thursday: 11:30 AM – 9:00 PM",
       "Friday: Closed",
-      "Saturday: 3:30\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 3:30 – 9:00 PM",
       "Sunday: Closed"
     ]
   },
@@ -235,12 +235,12 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Saturday: 3:30\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 11:30 AM – 9:00 PM",
+      "Tuesday: 11:30 AM – 9:00 PM",
+      "Wednesday: 11:30 AM – 9:00 PM",
+      "Thursday: 11:30 AM – 9:00 PM",
+      "Friday: 11:30 AM – 9:00 PM",
+      "Saturday: 3:30 – 9:00 PM",
       "Sunday: Closed"
     ]
   },
@@ -378,7 +378,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIaNTTmNyfTe6hAOW4UfXJsuW--B-2GD5qk9vLaCVmOkqVtPw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "2 months ago",
-      "text": "A true NYC hole-in-the-wall gem\u2014one of those \"if you know, you know\" spots. Great bang-for-your-buck sushi, with fresh quality at a solid price. The Sushi Combo never disappoints",
+      "text": "A true NYC hole-in-the-wall gem—one of those \"if you know, you know\" spots. Great bang-for-your-buck sushi, with fresh quality at a solid price. The Sushi Combo never disappoints",
       "time": 1743638304,
       "translated": false
     },
@@ -390,7 +390,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsidbgJWXrG5VbkkR8giN5WtaJ-KEAgFCQbP-pDkL34CoX9I7F=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "10 months ago",
-      "text": "Definitely a hidden gem, this place is located up some stairs inside a vape shop and very easy to miss walking by. It\u2019s also largely take out though it does have a few tables for two set up in the space for those that want to eat there. But for no frills sushi, this place is the excellent! Reasonably priced and always very fresh and high quality, it\u2019s definitely one of my go tos in the neighborhood.",
+      "text": "Definitely a hidden gem, this place is located up some stairs inside a vape shop and very easy to miss walking by. It’s also largely take out though it does have a few tables for two set up in the space for those that want to eat there. But for no frills sushi, this place is the excellent! Reasonably priced and always very fresh and high quality, it’s definitely one of my go tos in the neighborhood.",
       "time": 1725036883,
       "translated": false
     }
@@ -410,5 +410,31 @@
   "utc_offset": -240,
   "vicinity": "232W W 35th St, New York",
   "website": "http://www.sushi35west.com/",
-  "business_status_checked_at": "2026-10-03T20:06:11.396063+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:11.396063+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:01.058221+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.sushi35west.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.sushi35west.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.sushi35west.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:30.302186+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

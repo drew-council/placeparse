@@ -1,0 +1,49 @@
+{
+  "adr_address": "<span class=\"street-address\">83 Elizabeth St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10013</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "83 Elizabeth St, New York, NY 10013, USA",
+  "formatted_phone_number": "(646) 767-0444",
+  "geometry": {
+    "location": {
+      "lat": 40.718167,
+      "lng": -73.9962611
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71946508029149,
+        "lng": -73.99481201970849
+      },
+      "southwest": {
+        "lat": 40.7167671197085,
+        "lng": -73.99750998029151
+      }
+    }
+  },
+  "international_phone_number": "+1 646-767-0444",
+  "name": "Bánh Mì Cô Út",
+  "place_id": "ChIJDRVqZc1ZwokRzdh0pU9CskI",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=4805976662203488461",
+  "website": "https://www.instagram.com/banh_mi_co_ut_nyc/",
+  "details_checked_at": "2026-10-03T21:59:19.305959+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:19.305959+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:56.236771+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.instagram.com/banh_mi_co_ut_nyc/",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
+}

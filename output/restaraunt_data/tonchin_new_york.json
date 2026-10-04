@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 10:00 PM",
+      "Friday: 11:30 AM – 10:00 PM",
+      "Saturday: 11:30 AM – 10:00 PM",
+      "Sunday: 11:30 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -268,13 +268,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 10:00 PM",
+      "Friday: 11:30 AM – 10:00 PM",
+      "Saturday: 11:30 AM – 10:00 PM",
+      "Sunday: 11:30 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -329,7 +329,7 @@
     {
       "height": 3000,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/112383010243719952179\">\u80d6\u6a3a</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/112383010243719952179\">胖樺</a>"
       ],
       "photo_reference": "ATKogpdN05QthF_aM3VMVthVtSVwiHly9X0YZ-j0jrEKsXRX5GsuYvImoffRLp46lm5_MyDa0dkwwNDP4kSf-5Ll180Q2lk3xoSFjp503YLAAy2rQKjPRVApX-58nUD0gKiZUa4VRMns2Q1JuaUyL22hh4wQLWn5X3IeqvuHI9ZP6p0WUbzzt8OUddTkSSHuUkhAIWFtAZ-qD3Zel-1p39DsWZT_bGLJJX-ScIN9n1VhgU4CpmFgkqGtQ16t0HNxZ2lYKaq5cxbvYBq33YiaxwgBBVIm8ClqRhzcQ9PcRW6M7d5IfTrtzGVtSQP8Zy28WsMSFiNCdOqpqWlgOytA7ROrJ0mZTTUBlF68iGT7HM8WjV7qwZoWNRODJw7nmTxl0TdsB10UKtPaB6hw05aHBtWh3JOFEQfmDLOok2OpNzXvTE_exNDL",
       "width": 4000
@@ -377,7 +377,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7hofD_Addq_Iss-l0iYvWYcGny6Nyn0LokoE_AL3qxvx1D3MQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 2,
       "relative_time_description": "a week ago",
-      "text": "The food was flavorful and unique \u2013 especially the ramen, which had a rich and well-balanced taste. Unfortunately, the noodles were only lukewarm when served, and the portion size felt quite small for the price. Seating was also very cramped \u2013 tables were so close together that it felt uncomfortable. As soon as we finished eating, the bill was brought to our table without asking, which felt a bit rushed. Most uncomfortable, though, was the pressure to leave a higher tip \u2013 the staff insisted on it in a way that felt pushy and inappropriate. While the flavors were memorable, the overall experience left a bad impression.",
+      "text": "The food was flavorful and unique – especially the ramen, which had a rich and well-balanced taste. Unfortunately, the noodles were only lukewarm when served, and the portion size felt quite small for the price. Seating was also very cramped – tables were so close together that it felt uncomfortable. As soon as we finished eating, the bill was brought to our table without asking, which felt a bit rushed. Most uncomfortable, though, was the pressure to leave a higher tip – the staff insisted on it in a way that felt pushy and inappropriate. While the flavors were memorable, the overall experience left a bad impression.",
       "time": 1750104287,
       "translated": false
     },
@@ -401,7 +401,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1E4vYYEdxAMAxZqimnNIjGaxltXa0SkZD_oG1xZwkRAFoyg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "3 weeks ago",
-      "text": "I had the tonkotsu ramen. The taste was not bad but 3 of us agreed it was way too salty, to the point that it was difficult to eat towards the end. Also didn\u2019t really like the noodles. The one who had the spicy ramen said even packaged instant ramen is better. It\u2019s not terrible but I\u2019m not sure how this place is Michelin.",
+      "text": "I had the tonkotsu ramen. The taste was not bad but 3 of us agreed it was way too salty, to the point that it was difficult to eat towards the end. Also didn’t really like the noodles. The one who had the spicy ramen said even packaged instant ramen is better. It’s not terrible but I’m not sure how this place is Michelin.",
       "time": 1749007123,
       "translated": false
     },
@@ -425,7 +425,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVS6wZEg9Kw-8VpFFbayWCGWZ0oV0CtkMvQ9EWQtecSk-QsrlPX=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "One of my new favorite ramen spots in NYC! I was craving some ramen for lunch and made a reservation same day. I was surprised that there were only a few openings left for lunchtime on a weekday. Party of 1 only allows you to reserve bar seating which made sense when I got there since it was packed.\n\nI made a reservation for 2:00 but arrived at 1:30. The hostess was extremely friendly and was able to seat me right away. The menu is by QR code but I already knew what I wanted. Had my order taken the food came out rather quick.\n\nI had the Lunch Set Special for $27, which was an Ume Rice Ball and the Ginger Miso Ramen, which are both vegan menu options. I am not vegan but felt like doing my cholesterol a favor today.\n\nThe Rice Ball was amazing, the pickled plum was top notch and tasted just right. I liked having the ginger to add in too.\n\nThe Ginger Miso Ramen piqued my interest because it\u2019s not a flavor I\u2019d seen before in the realms of Miso or Vegan so I wanted to try it out. It had a very deep flavor with the right amount of spice, not overpowering. All of the toppings/mix ins worked perfectly.\n\nThe service was excellent and my water was constantly being refilled by any employee who noticed it getting low.\n\nI recommend and will definitely be back!",
+      "text": "One of my new favorite ramen spots in NYC! I was craving some ramen for lunch and made a reservation same day. I was surprised that there were only a few openings left for lunchtime on a weekday. Party of 1 only allows you to reserve bar seating which made sense when I got there since it was packed.\n\nI made a reservation for 2:00 but arrived at 1:30. The hostess was extremely friendly and was able to seat me right away. The menu is by QR code but I already knew what I wanted. Had my order taken the food came out rather quick.\n\nI had the Lunch Set Special for $27, which was an Ume Rice Ball and the Ginger Miso Ramen, which are both vegan menu options. I am not vegan but felt like doing my cholesterol a favor today.\n\nThe Rice Ball was amazing, the pickled plum was top notch and tasted just right. I liked having the ginger to add in too.\n\nThe Ginger Miso Ramen piqued my interest because it’s not a flavor I’d seen before in the realms of Miso or Vegan so I wanted to try it out. It had a very deep flavor with the right amount of spice, not overpowering. All of the toppings/mix ins worked perfectly.\n\nThe service was excellent and my water was constantly being refilled by any employee who noticed it getting low.\n\nI recommend and will definitely be back!",
       "time": 1740524030,
       "translated": false
     }
@@ -454,5 +454,57 @@
   "emails": [
     "info@foodexny.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:20.236591+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:20.236591+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:13.422641+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.tonchinus.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.tonchinus.com/contact-us",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.tonchinus.com/about",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.tonchinus.com/locations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.tonchinus.com/reservations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.tonchinus.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.tonchinus.com/contact-us",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.tonchinus.com/about",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.tonchinus.com/contact-us"
+    ],
+    "browser_checked_at": "2026-10-03T22:11:53.721236+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      "Monday: 11:00 AM – 7:00 PM",
+      "Tuesday: 11:00 AM – 7:00 PM",
+      "Wednesday: 11:00 AM – 7:00 PM",
+      "Thursday: 11:00 AM – 7:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 7:00 PM"
     ]
   },
   "delivery": true,
@@ -264,13 +264,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      "Monday: 11:00 AM – 7:00 PM",
+      "Tuesday: 11:00 AM – 7:00 PM",
+      "Wednesday: 11:00 AM – 7:00 PM",
+      "Thursday: 11:00 AM – 7:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 7:00 PM"
     ]
   },
   "photos": [
@@ -373,7 +373,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2tbDPXfN4ZYmZYWhH8aXbbIMuaPl8JASHXkVGDnv5fi4llv0=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "This place is so good. I sort of came in on a whim but saw pics so had to try it. It didn\u2019t disappoint. The summer with jamon and tomato was simple and delicious. The mortadella with pistachio cream and straccitella was brilliant. Will defo be back. Service was very nice and just counter seating. I\u2019d recommend sharing one sandwich for 2 ppl but depends how hungry you are.",
+      "text": "This place is so good. I sort of came in on a whim but saw pics so had to try it. It didn’t disappoint. The summer with jamon and tomato was simple and delicious. The mortadella with pistachio cream and straccitella was brilliant. Will defo be back. Service was very nice and just counter seating. I’d recommend sharing one sandwich for 2 ppl but depends how hungry you are.",
       "time": 1745324886,
       "translated": false
     },
@@ -397,7 +397,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyGKwwvRqLbsp4v1_hdE4lWllcZZJwMeCUmimDm9IZuKlcfH_exw=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "in the last week",
-      "text": "I wouldn\u2019t say it was on the same level as the sandwiches in Italy but it came pretty close. Their bread is soft with a crispy exterior, not too thick. Their spreads are creamy perfect for cutting the saltiness of the meat. The Favolosa and the la Dante were both really yummy. I would go for la Dante for a fresher, lighter sandwich and the favolosa for a creamier and more unique flavorful sandwich. Prices are ~$20 per sandwich. It\u2019s pretty strep but the sandwiches are pretty big and it is West 4th. Would definitely come back",
+      "text": "I wouldn’t say it was on the same level as the sandwiches in Italy but it came pretty close. Their bread is soft with a crispy exterior, not too thick. Their spreads are creamy perfect for cutting the saltiness of the meat. The Favolosa and the la Dante were both really yummy. I would go for la Dante for a fresher, lighter sandwich and the favolosa for a creamier and more unique flavorful sandwich. Prices are ~$20 per sandwich. It’s pretty strep but the sandwiches are pretty big and it is West 4th. Would definitely come back",
       "time": 1750612163,
       "translated": false
     },
@@ -421,7 +421,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjuk_AATOhB8IEX3cGtvnvLnMa1Bt7Gsmab9WwlSNthRzeFw=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 3,
       "relative_time_description": "9 months ago",
-      "text": "Really disappointed by the sandwich I got.  Ordered L\u2019Inferno.  The focaccia was not warm and the bottom was burned.  It was hard to chew.  I barely finished half of the sandwich.  I have been to Florence twice and this was my go to sandwich shop.  They have several stores in NYC.  The serving though was larger than what they serve in Florence. I guess the original is always the best.",
+      "text": "Really disappointed by the sandwich I got.  Ordered L’Inferno.  The focaccia was not warm and the bottom was burned.  It was hard to chew.  I barely finished half of the sandwich.  I have been to Florence twice and this was my go to sandwich shop.  They have several stores in NYC.  The serving though was larger than what they serve in Florence. I guess the original is always the best.",
       "time": 1726596928,
       "translated": false
     }
@@ -445,5 +445,79 @@
     "info@allanticovinaionyc.com",
     "press@allanticovinaiousa.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:04:38.821213+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:38.821213+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:05.209465+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@allanticovinaionyc.com": [
+        "https://www.allanticovinaiousa.com/",
+        "https://www.allanticovinaiousa.com/contact/",
+        "https://www.allanticovinaiousa.com/about-us/",
+        "https://www.allanticovinaiousa.com/store-locator/",
+        "https://www.allanticovinaiousa.com/private-events/"
+      ],
+      "press@allanticovinaiousa.com": [
+        "https://www.allanticovinaiousa.com/",
+        "https://www.allanticovinaiousa.com/contact/",
+        "https://www.allanticovinaiousa.com/about-us/",
+        "https://www.allanticovinaiousa.com/store-locator/",
+        "https://www.allanticovinaiousa.com/private-events/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.allanticovinaiousa.com/",
+        "status": "ok",
+        "emails": [
+          "info@allanticovinaionyc.com",
+          "press@allanticovinaiousa.com"
+        ]
+      },
+      {
+        "url": "https://www.allanticovinaiousa.com/contact/",
+        "status": "ok",
+        "emails": [
+          "info@allanticovinaionyc.com",
+          "press@allanticovinaiousa.com"
+        ]
+      },
+      {
+        "url": "https://www.allanticovinaiousa.com/about-us/",
+        "status": "ok",
+        "emails": [
+          "info@allanticovinaionyc.com",
+          "press@allanticovinaiousa.com"
+        ]
+      },
+      {
+        "url": "https://www.allanticovinaiousa.com/store-locator/",
+        "status": "ok",
+        "emails": [
+          "info@allanticovinaionyc.com",
+          "press@allanticovinaiousa.com"
+        ]
+      },
+      {
+        "url": "https://www.allanticovinaiousa.com/private-events/",
+        "status": "ok",
+        "emails": [
+          "info@allanticovinaionyc.com",
+          "press@allanticovinaiousa.com"
+        ]
+      },
+      {
+        "url": "https://www.allanticovinaiousa.com/washington-st-boston/",
+        "status": "HTTP_404",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.allanticovinaiousa.com/",
+      "https://www.allanticovinaiousa.com/contact/",
+      "https://www.allanticovinaiousa.com/about-us/",
+      "https://www.allanticovinaiousa.com/store-locator/",
+      "https://www.allanticovinaiousa.com/private-events/"
+    ]
+  }
 }

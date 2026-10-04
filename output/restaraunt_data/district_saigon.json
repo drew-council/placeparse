@@ -148,13 +148,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
       "Friday: Closed",
-      "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -261,13 +261,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200910:30\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -394,7 +394,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGg5LXl94Hfo34s8xbDP9M2qEJQ_1URF_ez2hy39if3RGHxAeYUA=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "3 weeks ago",
-      "text": "We enjoyed our date night dinner here. I got the purple rain cocktail to give mezcal another try, but I\u2019m still not a fan (also had to sub an ingredient due to a sensitivity and that didn\u2019t do it any favors). I got the District Pho and my husband got pho with brisket. They were both very good but I\u2019ll try something different next time. If you care about lighting I don\u2019t recommend sitting at the back because the shadows are too strong and lights too focused and bright. Next time we\u2019ll sit toward the middle where the lighting is more consistent and soft and there are colorful, pretty lanterns.",
+      "text": "We enjoyed our date night dinner here. I got the purple rain cocktail to give mezcal another try, but I’m still not a fan (also had to sub an ingredient due to a sensitivity and that didn’t do it any favors). I got the District Pho and my husband got pho with brisket. They were both very good but I’ll try something different next time. If you care about lighting I don’t recommend sitting at the back because the shadows are too strong and lights too focused and bright. Next time we’ll sit toward the middle where the lighting is more consistent and soft and there are colorful, pretty lanterns.",
       "time": 1749256284,
       "translated": false
     },
@@ -490,11 +490,11 @@
       ],
       "type": "HAPPY_HOUR",
       "weekday_text": [
-        "Monday: 5:00\u2009\u2013\u20099:30\u202fPM",
-        "Tuesday: 5:00\u2009\u2013\u20097:00\u202fPM",
-        "Wednesday: 5:00\u2009\u2013\u20097:00\u202fPM",
-        "Thursday: 5:00\u2009\u2013\u20097:00\u202fPM",
-        "Friday: 5:00\u2009\u2013\u20097:00\u202fPM",
+        "Monday: 5:00 – 9:30 PM",
+        "Tuesday: 5:00 – 7:00 PM",
+        "Wednesday: 5:00 – 7:00 PM",
+        "Thursday: 5:00 – 7:00 PM",
+        "Friday: 5:00 – 7:00 PM",
         "Saturday: Closed",
         "Sunday: Closed"
       ]
@@ -522,5 +522,32 @@
   "vicinity": "3715 Broadway, Astoria",
   "website": "http://www.districtsaigonnyc.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:01.790136+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:01.790136+00:00",
+  "emails": [
+    "districtmotnyc@gmail.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:30.376955+00:00",
+    "outcome": "found",
+    "sources": {
+      "districtmotnyc@gmail.com": [
+        "https://www.districtsaigonnyc.com/reservations/events"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.districtsaigonnyc.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.districtsaigonnyc.com/reservations/events",
+        "status": "ok",
+        "emails": [
+          "districtmotnyc@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

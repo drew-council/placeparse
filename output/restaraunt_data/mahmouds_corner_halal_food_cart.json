@@ -1,0 +1,76 @@
+{
+  "adr_address": "34th Ave at, <span class=\"street-address\">Steinway St</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11103</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "34th Ave at, Steinway St, Astoria, NY 11103, USA",
+  "formatted_phone_number": "(917) 295-2281",
+  "geometry": {
+    "location": {
+      "lat": 40.7568502,
+      "lng": -73.9210409
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.75822138029149,
+        "lng": -73.91952556970848
+      },
+      "southwest": {
+        "lat": 40.7555234197085,
+        "lng": -73.92222353029149
+      }
+    }
+  },
+  "international_phone_number": "+1 917-295-2281",
+  "name": "Mahmoud's Corner Halal Food Cart",
+  "place_id": "ChIJL1PlJTtfwokRVCmRHapdH4E",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=9304258340392610132",
+  "website": "http://mahmouds34thavecorner.weebly.com/",
+  "details_checked_at": "2026-10-03T21:59:18.308702+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:18.308702+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:14.811196+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://mahmouds34thavecorner.weebly.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://mahmouds34thavecorner.weebly.com/about.html",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://mahmouds34thavecorner.weebly.com/location.html",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://mahmouds34thavecorner.weebly.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://mahmouds34thavecorner.weebly.com/about.html",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://mahmouds34thavecorner.weebly.com/location.html",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:09:49.474434+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

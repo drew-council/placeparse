@@ -1,0 +1,42 @@
+{
+  "adr_address": "<span class=\"street-address\">31-27 Ditmars Blvd</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11105</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "31-27 Ditmars Blvd, Astoria, NY 11105, USA",
+  "formatted_phone_number": "(718) 255-1312",
+  "geometry": {
+    "location": {
+      "lat": 40.7755669,
+      "lng": -73.9096648
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7768729302915,
+        "lng": -73.90836886970848
+      },
+      "southwest": {
+        "lat": 40.7741749697085,
+        "lng": -73.91106683029149
+      }
+    }
+  },
+  "international_phone_number": "+1 718-255-1312",
+  "name": "Birria LES Astoria",
+  "place_id": "ChIJM_DDAI9fwokRU8Oh77Ms0-Q",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=16488571812064641875",
+  "details_checked_at": "2026-10-03T21:59:33.443927+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:33.443927+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:55.745069+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
+}

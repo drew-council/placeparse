@@ -1,0 +1,61 @@
+{
+  "adr_address": "<span class=\"street-address\">1337 Fulton St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11216</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "1337 Fulton St, Brooklyn, NY 11216, USA",
+  "formatted_phone_number": "(347) 425-0016",
+  "geometry": {
+    "location": {
+      "lat": 40.680491,
+      "lng": -73.9479489
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.68174613029149,
+        "lng": -73.9466134197085
+      },
+      "southwest": {
+        "lat": 40.67904816970849,
+        "lng": -73.9493113802915
+      }
+    }
+  },
+  "international_phone_number": "+1 347-425-0016",
+  "name": "A&A Bake Doubles and Roti",
+  "place_id": "ChIJhZ5AnJpbwokR8xu2jnQDqP0",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=18277862886828547059",
+  "website": "https://aabakedoublesandroti.shop/",
+  "details_checked_at": "2026-10-03T21:59:23.802303+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:23.802303+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:53.831421+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://aa-bake-doubles-and-roti.foodyvo.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://aa-bake-doubles-and-roti.foodyvo.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://aa-bake-doubles-and-roti.foodyvo.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:07:12.873445+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

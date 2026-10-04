@@ -1,0 +1,25 @@
+{
+  "name": "Corgi Jianbing LIC 可吉煎饼",
+  "maps_cid": "13061660373333470705",
+  "url": "https://www.google.com/maps/place/Corgi+Jianbing+LIC+%E5%8F%AF%E5%90%89%E7%85%8E%E9%A5%BC/@40.7464896,-73.9555033,16z/data=!4m10!1m2!2m1!1sCorgi+Jianbing+4405+Hunter+St+Long+Island+City!3m6!1s0x89c2591a571e5dab:0x55789b156564a8d5!8m2!3d40.7477115!4d-73.9431017!15sCi5Db3JnaSBKaWFuYmluZyA0NDA1IEh1bnRlciBTdCBMb25nIElzbGFuZCBDaXR5WjAiLmNvcmdpIGppYW5iaW5nIDQ0MDUgaHVudGVyIHN0IGxvbmcgaXNsYW5kIGNpdHmSARJjaGluZXNlX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblRVTlpkVkJ0TURGM1JSQULgAQD6AQQIABAo!16s%2Fg%2F11yby2wbyf?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+  "website": "",
+  "formatted_phone_number": "(347) 685-5433",
+  "formatted_address": "44-05 Hunter St, Long Island City, NY 11101",
+  "ui_category": "Chinese restaurant",
+  "food_place": true,
+  "business_status": "OPERATIONAL",
+  "business_status_source": "Google Maps UI: Open / Closes soon",
+  "business_status_checked_at": "2026-10-03T22:03:20.993762+00:00",
+  "details_checked_at": "2026-10-03T22:03:20.993762+00:00",
+  "details_source": "google_maps_ui",
+  "api_lookup_status": "NOT_FOUND",
+  "canonical_maps_cid": "6158843006626867413",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:07:05.138881+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
+}

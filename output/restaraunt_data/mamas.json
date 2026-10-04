@@ -1,0 +1,43 @@
+{
+  "adr_address": "<span class=\"street-address\">13-01 40th Ave</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "13-01 40th Ave, Long Island City, NY 11101, USA",
+  "formatted_phone_number": "(718) 784-7045",
+  "geometry": {
+    "location": {
+      "lat": 40.7556464,
+      "lng": -73.94179419999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.75696253029149,
+        "lng": -73.94048676970849
+      },
+      "southwest": {
+        "lat": 40.75426456970849,
+        "lng": -73.9431847302915
+      }
+    }
+  },
+  "international_phone_number": "+1 718-784-7045",
+  "name": "Mama's",
+  "place_id": "ChIJHQIpg9NYwokRwrI5TIYJ9VQ",
+  "types": [
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=6121809740889174722",
+  "details_checked_at": "2026-10-03T21:59:24.547212+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:24.547212+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:15.654474+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
+}

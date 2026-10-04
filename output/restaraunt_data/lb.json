@@ -169,13 +169,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Tuesday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Wednesday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Thursday: 6:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Friday: 6:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Saturday: 6:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Sunday: 6:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 6:00 PM – 1:00 AM",
+      "Tuesday: 6:00 PM – 1:00 AM",
+      "Wednesday: 6:00 PM – 1:00 AM",
+      "Thursday: 6:00 PM – 3:00 AM",
+      "Friday: 6:00 PM – 3:00 AM",
+      "Saturday: 6:00 PM – 3:00 AM",
+      "Sunday: 6:00 PM – 12:00 AM"
     ]
   },
   "delivery": false,
@@ -282,13 +282,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Tuesday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Wednesday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Thursday: 6:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Friday: 6:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Saturday: 6:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-      "Sunday: 6:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 6:00 PM – 1:00 AM",
+      "Tuesday: 6:00 PM – 1:00 AM",
+      "Wednesday: 6:00 PM – 1:00 AM",
+      "Thursday: 6:00 PM – 3:00 AM",
+      "Friday: 6:00 PM – 3:00 AM",
+      "Saturday: 6:00 PM – 3:00 AM",
+      "Sunday: 6:00 PM – 12:00 AM"
     ]
   },
   "photos": [
@@ -391,7 +391,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbjFD6FT6dwJO_uYhrMvrAJockjizH37pPm4FqgviSk7ZURoHjdg=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 3,
       "relative_time_description": "a month ago",
-      "text": "The atmosphere and environment was nice. I liked the cocktail. Just don't choose it if you are going on a date with yourself. \ud83d\udc94  I went shortly after the opening that day and there was only one other table occupied. Despite this, I sat on the bar stool. They didn't want me to sit at the table\u2026",
+      "text": "The atmosphere and environment was nice. I liked the cocktail. Just don't choose it if you are going on a date with yourself. 💔  I went shortly after the opening that day and there was only one other table occupied. Despite this, I sat on the bar stool. They didn't want me to sit at the table…",
       "time": 1747189503,
       "translated": false
     },
@@ -549,13 +549,13 @@
       ],
       "type": "ACCESS",
       "weekday_text": [
-        "Monday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Tuesday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Wednesday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Thursday: 6:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-        "Friday: 6:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-        "Saturday: 6:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-        "Sunday: 6:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+        "Monday: 6:00 PM – 1:00 AM",
+        "Tuesday: 6:00 PM – 1:00 AM",
+        "Wednesday: 6:00 PM – 1:00 AM",
+        "Thursday: 6:00 PM – 2:00 AM",
+        "Friday: 6:00 PM – 2:00 AM",
+        "Saturday: 6:00 PM – 2:00 AM",
+        "Sunday: 6:00 PM – 12:00 AM"
       ]
     }
   ],
@@ -571,5 +571,13 @@
   "utc_offset": -240,
   "vicinity": "20 7th Ave S, New York",
   "wheelchair_accessible_entrance": false,
-  "business_status_checked_at": "2026-10-03T20:05:31.545476+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:31.545476+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:16.038973+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

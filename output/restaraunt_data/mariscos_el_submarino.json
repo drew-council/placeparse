@@ -1,0 +1,56 @@
+{
+  "adr_address": "<span class=\"street-address\">222 Franklin St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "222 Franklin St, Brooklyn, NY 11222, USA",
+  "formatted_phone_number": "(347) 384-2422",
+  "geometry": {
+    "location": {
+      "lat": 40.7332624,
+      "lng": -73.9579694
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.73460393029149,
+        "lng": -73.95671046970848
+      },
+      "southwest": {
+        "lat": 40.73190596970849,
+        "lng": -73.9594084302915
+      }
+    }
+  },
+  "international_phone_number": "+1 347-384-2422",
+  "name": "Mariscos El Submarino",
+  "place_id": "ChIJrYQPBABZwokRy3ej8t7bSrM",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=12919380231665711051",
+  "website": "https://mariscoselsubmarinonyc.com/",
+  "details_checked_at": "2026-10-03T21:59:24.141673+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:24.141673+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:15.654490+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://mariscoselsubmarinonyc.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://mariscoselsubmarinonyc.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:10:02.772833+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

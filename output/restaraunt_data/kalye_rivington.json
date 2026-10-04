@@ -145,12 +145,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -244,12 +244,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -351,7 +351,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6l-ZUGVQZy1TcNq0RXh6S_vD-1VtBO3fE7e3lhXPjomPMiw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "We had a memorable retirement party at Kalye. The food and service was fantastic. Damila was very helpful with me planning the event.  Thank you again to all the staff I\u2019m looking forward to come back and try other dishes in your menu.",
+      "text": "We had a memorable retirement party at Kalye. The food and service was fantastic. Damila was very helpful with me planning the event.  Thank you again to all the staff I’m looking forward to come back and try other dishes in your menu.",
       "time": 1749628924,
       "translated": false
     },
@@ -363,7 +363,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlfsjzGwHU6irPw-OVovS5rhUfQs4wSNREo9TvvrjjbCJJhytV=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "Delicious, reminds me of back home. Sisig is a must try, and they don't play with the level of spice! \ud83d\ude0b Restaurant has cool hip vibes. My only suggestion is that the 4-sided cube each containing a QR code for a particular section of a menu is overkill. Just let me scan 1 QR code \ud83d\ude29...I shouldn't be flipping blocks to land on the side where I can see a list of cocktails.",
+      "text": "Delicious, reminds me of back home. Sisig is a must try, and they don't play with the level of spice! 😋 Restaurant has cool hip vibes. My only suggestion is that the 4-sided cube each containing a QR code for a particular section of a menu is overkill. Just let me scan 1 QR code 😩...I shouldn't be flipping blocks to land on the side where I can see a list of cocktails.",
       "time": 1750393943,
       "translated": false
     },
@@ -375,7 +375,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvRmhVMI2ifyaVjXtUbUiCmCwiItufcSNOip3uWea7lzjMSWylYA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Had a great time with my Filipino dad for his birthday! We chose the Club 85 Kamayan (boodle fight) which was a ton of delicious food for a very fair, affordable price point compared to similar experiences in Manhattan. My favorites were the Chicken Tocino, Pork Skewers, Longganisa, Seafood Gambas and Inasal rice.\n\nTruthfully, as a Filipina, I found the homemade Lumpia Shanghai only \u201cokay,\u201d but certainly not a dealbreaker as I have higher standards than the average non-pinoy diner. While the Ube Ice Cream was great, I thought the Mango Cheesecake was too frozen for my liking (I don\u2019t think it was supposed to be like that). The presentation for both, however, was excellent.\n\nI also was a little off-put by the fact I wrote a specific request in our reservation note, and despite being the only diners (around 4:30pm), our server did not read it. He was nice, but showed a lack of understanding of the food being served, which was a touch disappointing.\n\nOverall, however, I thought the presentation of the food was impressive, the meal itself satisfying, the atmosphere inviting, and the touch of an old-school Filipino movie projected on the wall very entertaining.\n\nI think this restaurant is best for a group looking for a tasty, fun food experience at an unbeatable price than a harsh Filipino food critic. I would definitely come here again!",
+      "text": "Had a great time with my Filipino dad for his birthday! We chose the Club 85 Kamayan (boodle fight) which was a ton of delicious food for a very fair, affordable price point compared to similar experiences in Manhattan. My favorites were the Chicken Tocino, Pork Skewers, Longganisa, Seafood Gambas and Inasal rice.\n\nTruthfully, as a Filipina, I found the homemade Lumpia Shanghai only “okay,” but certainly not a dealbreaker as I have higher standards than the average non-pinoy diner. While the Ube Ice Cream was great, I thought the Mango Cheesecake was too frozen for my liking (I don’t think it was supposed to be like that). The presentation for both, however, was excellent.\n\nI also was a little off-put by the fact I wrote a specific request in our reservation note, and despite being the only diners (around 4:30pm), our server did not read it. He was nice, but showed a lack of understanding of the food being served, which was a touch disappointing.\n\nOverall, however, I thought the presentation of the food was impressive, the meal itself satisfying, the atmosphere inviting, and the touch of an old-school Filipino movie projected on the wall very entertaining.\n\nI think this restaurant is best for a group looking for a tasty, fun food experience at an unbeatable price than a harsh Filipino food critic. I would definitely come here again!",
       "time": 1744242076,
       "translated": false
     },
@@ -387,7 +387,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIrvLLtgjv8V9HKTsli-He6en_jmLS9qcA9bARAeRf5Cvh1VI=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "Loveddd the food and the vibes! Never had Filipino food before and the pork sisig did not disappoint! I\u2019ll definitely be back for that. The staff and bartenders are very friendly. And the drinks are pretty. I got buzzed after 2 drinks. Plussss the live band/karaoke was hype! Perfect place for a pregame in LES!",
+      "text": "Loveddd the food and the vibes! Never had Filipino food before and the pork sisig did not disappoint! I’ll definitely be back for that. The staff and bartenders are very friendly. And the drinks are pretty. I got buzzed after 2 drinks. Plussss the live band/karaoke was hype! Perfect place for a pregame in LES!",
       "time": 1737085887,
       "translated": false
     },
@@ -399,7 +399,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpft_RcWb-otvr2yTtGZ3JzvPO3DzbzdfQD-DVYpnjt5zXJQ=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "If you\u2019re looking for a delicious EXPERIENCE look no further. Kalye is the answer. The food is delicious, the drinks are craft and tasty, and the ambiance is amazing. Depending on the night, they program cultural events, have karaoke, drag brunches, live bands and more. I\u2019ll definitely be back.",
+      "text": "If you’re looking for a delicious EXPERIENCE look no further. Kalye is the answer. The food is delicious, the drinks are craft and tasty, and the ambiance is amazing. Depending on the night, they program cultural events, have karaoke, drag brunches, live bands and more. I’ll definitely be back.",
       "time": 1744590470,
       "translated": false
     }
@@ -424,24 +424,53 @@
   "website": "https://kalye.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
-    "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
-    "info@kalyenyc.com",
-    "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
-    "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
     "0c52cb89aa4d4154857a1584b6701db6@sentry.wixpress.com",
-    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
-    "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
-    "e0b4d631da7b4200828051f7f9c783e3@sentry-next.wixpress.com",
-    "8c4075d5481d476e945486754f783364@sentry.io",
-    "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
-    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
-    "c5095236fd2e4b8fae9ed6d73cdd81a3@sentry.wixpress.com",
-    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+    "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
     "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
     "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
     "7025fe2ce4ed466a9751d9607bc63a44@sentry.wixpress.com",
-    "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com"
+    "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+    "8c4075d5481d476e945486754f783364@sentry.io",
+    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+    "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+    "c5095236fd2e4b8fae9ed6d73cdd81a3@sentry.wixpress.com",
+    "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+    "e0b4d631da7b4200828051f7f9c783e3@sentry-next.wixpress.com",
+    "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+    "info@kalyenyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:23.772437+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:23.772437+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:07.685323+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@kalyenyc.com": [
+        "https://www.kalye.com/boodleevents"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.kalye.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.kalye.com/boodleevents",
+        "status": "ok",
+        "emails": [
+          "info@kalyenyc.com"
+        ]
+      },
+      {
+        "url": "https://www.kalye.com/copy-of-overview-1",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

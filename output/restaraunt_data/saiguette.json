@@ -1,0 +1,66 @@
+{
+  "adr_address": "<span class=\"street-address\">935 Columbus Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "935 Columbus Ave, New York, NY 10025, USA",
+  "formatted_phone_number": "(212) 866-8886",
+  "geometry": {
+    "location": {
+      "lat": 40.799037,
+      "lng": -73.96278199999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.80042133029149,
+        "lng": -73.96152826970848
+      },
+      "southwest": {
+        "lat": 40.79772336970849,
+        "lng": -73.96422623029149
+      }
+    }
+  },
+  "international_phone_number": "+1 212-866-8886",
+  "name": "Saiguette",
+  "place_id": "ChIJg-WOqSP2wokR7ajr8S2mnqM",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=11790043590765029613",
+  "website": "http://www.saiguette.com/",
+  "details_checked_at": "2026-10-03T21:59:10.042232+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:10.042232+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:22.172341+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.saiguette.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.saiguette.com/contact-us",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.saiguette.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.saiguette.com/contact-us",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:11:14.667906+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "adr_address": "<span class=\"street-address\">79 Chrystie St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "79 Chrystie St, New York, NY 10002, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7173189,
+      "lng": -73.9944649
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7186353802915,
+        "lng": -73.9930323697085
+      },
+      "southwest": {
+        "lat": 40.7159374197085,
+        "lng": -73.99573033029151
+      }
+    }
+  },
+  "name": "Wah Fung No.1 Fast Food",
+  "place_id": "ChIJCZ6p_4dZwokRitXAVOk-zvs",
+  "types": [
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=18144509120592532874",
+  "website": "https://wahfungno1fastfood.site/",
+  "details_checked_at": "2026-10-03T21:59:38.046358+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:38.046358+00:00",
+  "emails": [
+    "support@wahfungno1fastfood.site"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:30.230273+00:00",
+    "outcome": "unverified_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://wahfungno1fastfood.goldenpalacebrooklyn.site/",
+        "status": "ok",
+        "emails": [
+          "support@wahfungno1fastfood.site"
+        ]
+      },
+      {
+        "url": "https://wahfungno1fastfood.goldenpalacebrooklyn.site/reservation/",
+        "status": "ok",
+        "emails": [
+          "support@wahfungno1fastfood.site"
+        ]
+      },
+      {
+        "url": "https://wahfungno1fastfood.goldenpalacebrooklyn.site/discover-our-story/",
+        "status": "ok",
+        "emails": [
+          "support@wahfungno1fastfood.site"
+        ]
+      },
+      {
+        "url": "https://wahfungno1fastfood.goldenpalacebrooklyn.site/",
+        "status": "restaurant_email_owner_unverified",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "candidate_sources": {
+      "support@wahfungno1fastfood.site": {
+        "urls": [
+          "https://wahfungno1fastfood.goldenpalacebrooklyn.site/",
+          "https://wahfungno1fastfood.goldenpalacebrooklyn.site/reservation/",
+          "https://wahfungno1fastfood.goldenpalacebrooklyn.site/discover-our-story/"
+        ],
+        "reason": "Published on a third-party/directory-style site; not verified as restaurant-owned."
+      }
+    },
+    "quality_reviewed_at": "2026-10-04T05:58:56.906161+00:00"
+  }
+}

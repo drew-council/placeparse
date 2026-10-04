@@ -151,12 +151,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
     ]
   },
   "delivery": false,
@@ -250,12 +250,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Saturday: 5:00\u2009\u2013\u200911:00\u202fPM",
-      "Sunday: 5:00\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 5:00 – 10:00 PM",
+      "Wednesday: 5:00 – 10:00 PM",
+      "Thursday: 5:00 – 10:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 5:00 – 11:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
     ]
   },
   "photos": [
@@ -357,7 +357,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYChEoluwgenqY8CduIC5j6trXxvgUjtaq2iI-W-RIeTtf5TQQaQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Upon entering this restaurant, it may appear empty, but don\u2019t let that discourage you. The experience is truly exceptional. I visited on a Sunday evening, arriving a little before my 6:15 PM reservation to enjoy dinner with a friend. The intimate atmosphere and attentive service made for an outstanding experience, especially since we were the only guests in the restaurant for a while. We received personalized attention, and I can confidently say the service was excellent. Our waiter was friendly, engaging, and took the time to converse with us, making the evening even more enjoyable.\n\nThe sushi was absolutely delicious. I\u2019ve been to multiple Omakase experiences throughout New York, and I\u2019m thrilled to add this one to my list of favorites. Since it was my friend\u2019s first time trying sushi, we made the staff aware, and they went above and beyond by explaining every piece in detail and even showing him pictures of the fish each piece came from. I am so grateful for that level of thoughtful, personalized service.\n\nI will definitely be returning and highly recommend this spot to anyone seeking a fun, intimate, delicious, and memorable dining experience.",
+      "text": "Upon entering this restaurant, it may appear empty, but don’t let that discourage you. The experience is truly exceptional. I visited on a Sunday evening, arriving a little before my 6:15 PM reservation to enjoy dinner with a friend. The intimate atmosphere and attentive service made for an outstanding experience, especially since we were the only guests in the restaurant for a while. We received personalized attention, and I can confidently say the service was excellent. Our waiter was friendly, engaging, and took the time to converse with us, making the evening even more enjoyable.\n\nThe sushi was absolutely delicious. I’ve been to multiple Omakase experiences throughout New York, and I’m thrilled to add this one to my list of favorites. Since it was my friend’s first time trying sushi, we made the staff aware, and they went above and beyond by explaining every piece in detail and even showing him pictures of the fish each piece came from. I am so grateful for that level of thoughtful, personalized service.\n\nI will definitely be returning and highly recommend this spot to anyone seeking a fun, intimate, delicious, and memorable dining experience.",
       "time": 1745810719,
       "translated": false
     },
@@ -381,7 +381,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDdEUENbVYoAd4RM82OBCoPQFmOIfC75IjC_HmnLG-dNIv5w=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "The Omakase I had yesterday was absolutely phenomenal! The freshness of the ingredients was unparalleled, and every bite brought out the pure, natural flavors of the fish. The chef\u2019s precision and skill in preparing each piece of sashimi and sushi were nothing short of masterful\u2014it felt like art on a plate.\n\nThe [uni and tuna] was a standout for me, with its buttery texture and rich flavor that melted in my mouth. Every course was perfectly balanced, and the flavors complemented each other so well.\n\nThis was truly one of the best meals I\u2019ve ever had, and I can\u2019t wait to go back and taste more!",
+      "text": "The Omakase I had yesterday was absolutely phenomenal! The freshness of the ingredients was unparalleled, and every bite brought out the pure, natural flavors of the fish. The chef’s precision and skill in preparing each piece of sashimi and sushi were nothing short of masterful—it felt like art on a plate.\n\nThe [uni and tuna] was a standout for me, with its buttery texture and rich flavor that melted in my mouth. Every course was perfectly balanced, and the flavors complemented each other so well.\n\nThis was truly one of the best meals I’ve ever had, and I can’t wait to go back and taste more!",
       "time": 1737734237,
       "translated": false
     },
@@ -393,7 +393,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6YxDlAi7QWIZ_NgvJhIiv7q9zUpxabm7mZhPIfma-dYLIl6a0=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "2 months ago",
-      "text": "Unfortunately this place didn\u2019t meet a 4.9 star bar. Service was great\u2014 prompt and attentive.\n\nThe good: The starters were delightful\u2014 a crispy potato cracker filled with tuna tartare, miso and rosemary infused Alaskan king salmon, and a lovely mushroom broth soup. The last five pieces of omakase were wonderful\u2014 some great cuts of tuna and A-5.\n\nThe bad: The first five pieces of the service were lacking in flavor and felt under executed. The toppings they had were either overdone or underdone and I couldn\u2019t tell what they were going for. But the cardinal sin in it all was the rice\u2014 it was off texturally, crumbling, and it felt like some pieces didn\u2019t have much of it (I think my fatty tuna piece has a teaspoon of rice).\n\nThe ugly: Something weird about the amberjack they served us. No off flavors but very rubbery and chewy.",
+      "text": "Unfortunately this place didn’t meet a 4.9 star bar. Service was great— prompt and attentive.\n\nThe good: The starters were delightful— a crispy potato cracker filled with tuna tartare, miso and rosemary infused Alaskan king salmon, and a lovely mushroom broth soup. The last five pieces of omakase were wonderful— some great cuts of tuna and A-5.\n\nThe bad: The first five pieces of the service were lacking in flavor and felt under executed. The toppings they had were either overdone or underdone and I couldn’t tell what they were going for. But the cardinal sin in it all was the rice— it was off texturally, crumbling, and it felt like some pieces didn’t have much of it (I think my fatty tuna piece has a teaspoon of rice).\n\nThe ugly: Something weird about the amberjack they served us. No off flavors but very rubbery and chewy.",
       "time": 1745722538,
       "translated": false
     },
@@ -405,7 +405,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzgEgz-sfSwPvupA2slS02U88VRM3SSjbx6kjXDl9mSP4X_w=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "hidden gem! Don\u2019t miss this nice spot! Chef was very engaging and friendly! Each sushi nigiri was so tasty! The O- toro fatty tuna with Caviar was one of my favorite bites. I will definitely recommend to my friends and we\u2019ll be back soon!",
+      "text": "hidden gem! Don’t miss this nice spot! Chef was very engaging and friendly! Each sushi nigiri was so tasty! The O- toro fatty tuna with Caviar was one of my favorite bites. I will definitely recommend to my friends and we’ll be back soon!",
       "time": 1745672357,
       "translated": false
     }
@@ -423,5 +423,13 @@
   "utc_offset": -240,
   "vicinity": "129 Rivington St, New York",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:23.151829+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:23.151829+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:07.354707+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

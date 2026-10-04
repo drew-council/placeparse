@@ -160,13 +160,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 5:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 9:00 PM"
     ]
   },
   "delivery": false,
@@ -273,13 +273,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 5:00\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Saturday: 5:00\u2009\u2013\u200910:00\u202fPM",
-      "Sunday: 5:00\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 10:00 PM",
+      "Saturday: 5:00 – 10:00 PM",
+      "Sunday: 5:00 – 9:00 PM"
     ]
   },
   "photos": [
@@ -394,7 +394,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4eGFFKBzzKoTn-GEwda_IjhfPFV4YGnk3LOiIVWJLy7PFyK7D=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "in the last week",
-      "text": "One of my favorite meals in Durham! If you\u2019re dairy free ask for their dairy free pesto! Cocktails are also delish!",
+      "text": "One of my favorite meals in Durham! If you’re dairy free ask for their dairy free pesto! Cocktails are also delish!",
       "time": 1750810932,
       "translated": false
     },
@@ -453,9 +453,68 @@
   "website": "http://www.cucciolodurham.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
+    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
     "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
-    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
-    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:04:59.560477+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:59.560477+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:27.004940+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://cucciolonc.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://cucciolonc.com/osteria/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://cucciolonc.com/famiglia/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://cucciolonc.com/terrazza/contact/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://cucciolonc.com/osteria/about/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://cucciolonc.com/famiglia/about/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://cucciolonc.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://cucciolonc.com/osteria/contact/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://cucciolonc.com/famiglia/contact/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://cucciolonc.com/osteria/contact/",
+      "https://cucciolonc.com/famiglia/contact/",
+      "https://cucciolonc.com/terrazza/contact/"
+    ],
+    "browser_checked_at": "2026-10-03T22:08:31.418614+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

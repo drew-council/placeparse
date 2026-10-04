@@ -161,13 +161,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:30 PM",
+      "Saturday: 11:00 AM – 9:30 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -274,13 +274,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:30 PM",
+      "Saturday: 11:00 AM – 9:30 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -303,7 +303,7 @@
     {
       "height": 3024,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/103010987590483124915\">\u7d00\u5609\u6def</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/103010987590483124915\">紀嘉淯</a>"
       ],
       "photo_reference": "ATKogpfdsxJQ1OfATQrhO5zI1Ue5UpTe4qKopIK1pyzqC1XXmmkGrquemVzqR-BHuM71NlFzz1TCvT8ra5gYTwm6JL9XjatQ-livyiY_D5I8vgDWv0v2UBMpas-iOPP-1XRD81wNiawlswRO5xU2ebybC5PF2n0BAURausEpp1ONkK-Rut65CmPUuqTr8zSYA4ze9Nxp4jh8cq0OgNvwn3pQrtjAbL-fAz0jbjC828qHOyPwMEPnbrDO-0aeS0vYHTSDQp7pP7LWYnMnfNwVVpCtG0kCMXp02_8iLKOP5QmI4YA7RWHyAT_ufa6O1-xlLWO_7h-OTjxWVP7QhPugH5TSPKNc05ongy0Fwc94L5Wld9yTtvGMpEN2RhIYc5YPxqqGIgF9L2bFdoM7FQrPVWSRnWcNYQvYzG4uoMeO8KUdth5tivNGVn9YDe41ys1Q6Q",
       "width": 4032
@@ -311,7 +311,7 @@
     {
       "height": 3600,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/107705833309561868785\">\u30b9\u30bf\u30d0\u30ab\uff08SUTABAKA\uff09</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/107705833309561868785\">スタバカ（SUTABAKA）</a>"
       ],
       "photo_reference": "ATKogpd9uGOlT0ncHrZm8TwLWb0a2mSnCpGSX98aW3kY0iro4FzwbGpDFRGVj8bpkEUu740R4KokWcyD815G37nr0BwSWHLTgTrGTPHcLLcq7Zpua78g68pjjPdnSWGrc73tinZwTFObGo4KUu3zzBC3yVCf_CLcP_GKzjjWAHhZWWexS1oIYrzanz_H997-QfPWlcGrV8Llx-JaBFYNkzcmW-MrVuHNBDvYaqW1KiaR5tFP26F2cuPPJwQ4-nvSgrpjcsvKLdMSXRdE_cpkNxQEogHQOBaiYAX6itOlXgXpaRkR_prqmQ0n5HVbkQ23KQb80Sh0txsqgTc5wOZ2WFjr5EGK5jpXMxax6NQtzRyhrD_VzuxXTJVLneTUoriQ3bpVovg_32oTKN1cZzzaCiN1w-ImnTX5dEps9IytU0Ubz6k",
       "width": 4800
@@ -351,7 +351,7 @@
     {
       "height": 3600,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/107705833309561868785\">\u30b9\u30bf\u30d0\u30ab\uff08SUTABAKA\uff09</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/107705833309561868785\">スタバカ（SUTABAKA）</a>"
       ],
       "photo_reference": "ATKogpddExN5VPwK2gnsW6vQB0ZY-TFD051Wf9lGFPUHB2Duvg-dtRp4TSoqFjWRjxVrFXC3S7cgdeoel-T97t8nL38-NX9xfaami0zzYduSEjpv17za3lvdbT1mgbsyGICMR4tsLmSehWvzc8o4P-J13LBRz6Oi7PahcmV22hbhu8ZSnuwlDVDpxL5TbSg4tltprH4qJl-DI8wFcD0Nw8RyGO_9PH_vDC6t8ZqhHkutcUx6QJdcDvODGFSRPLh5YTBcXtCBAf26DRCu3DXj6J5M5UfBtFDbc_hsYyBlqywzB6ICf3YgsMHaIz96mK3C2pRAKnu81h5iAGDO6lEU4ZswfKdVQ3sSqkh4SbEtf9b4qM28UdPFTrk4oRQ1BkD8YK3UZa2m8U8jRPsBzP9t2neuVMXphci-3reyeknPVwDy-hiREg",
       "width": 4800
@@ -395,7 +395,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4boLnso6l5Vz-DR2_RLUJ6OQEbVPftVS-oP2AV5P-O-buSB3ngQ=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "So good all around.  Decent prices.  Good service and a comfortable atmosphere. Almost went again the next day.\n\nGot the beef pho with extra noodles. Some of the best I\u2019ve had. Beef spring rolls. And my wife got the vermicelli noodles - really good as well. Noodles had good consistency and good tang but not overly vinegary.  Oh and the sweet potato fries which were great. Not greasy and good firmness.",
+      "text": "So good all around.  Decent prices.  Good service and a comfortable atmosphere. Almost went again the next day.\n\nGot the beef pho with extra noodles. Some of the best I’ve had. Beef spring rolls. And my wife got the vermicelli noodles - really good as well. Noodles had good consistency and good tang but not overly vinegary.  Oh and the sweet potato fries which were great. Not greasy and good firmness.",
       "time": 1736719196,
       "translated": false
     },
@@ -407,7 +407,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXW3y0b0QbXVgOHCmS7ipi8sfBsZd-qH8fxE37orFIB2ONhcJhS=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "2 months ago",
-      "text": "This was my first time trying this place , glad to have discovered it through my friend who always goes & speaks very highly of it . I had shrimp oh o& the saut\u00e9ed broccoli appetizer. The broccoli was really good. The pho was good as well, but compared to several other Vietnamese restaurants that I\u2019ve tried it just seemed like it was missing something. Maybe it was because I couldn\u2019t really dress it up the way I\u2019m used to. They don\u2019t have chili oil. They have something else that\u2019s more like a spicy red paste, but I cannot remember what it was called. They did have the hoisin sauce and the Sriracha, though. THEY DID NOT TAKE THE TAILS OFF THE SHRIMP!!! if I am eating a dish that is wet and I have to pick it up with my utensils to put it in my mouth, I should not have to pull off/spit out the tail of a shrimp. I should be able to just chew and swallow. And it was super weird because they left the very last tail end on, Something they could\u2019ve easily just pulled off during the preparation of the meal. My soup also had bok choy in it. I\u2019ve never had it in my pho before , it was fine. For us to have had two orders of pho , they only brought over one small plate with bean sprouts, basil, and two slices of lime. When I\u2019ve been to other Vietnamese restaurants, I get all of that just for myself, so I felt the portion of that was kind of small. Maybe that\u2019s why I couldn\u2019t achieve the flavor I\u2019m used to. They are a cash only establishment, but you can scan a QR code at the table and order and pay right on your phone. That was really convenient. Service was good and the volume was excellent for having a nice conversation and being able to hear the person you\u2019re talking to. If I\u2019m ever in the neighborhood I would give this place Another try.",
+      "text": "This was my first time trying this place , glad to have discovered it through my friend who always goes & speaks very highly of it . I had shrimp oh o& the sautéed broccoli appetizer. The broccoli was really good. The pho was good as well, but compared to several other Vietnamese restaurants that I’ve tried it just seemed like it was missing something. Maybe it was because I couldn’t really dress it up the way I’m used to. They don’t have chili oil. They have something else that’s more like a spicy red paste, but I cannot remember what it was called. They did have the hoisin sauce and the Sriracha, though. THEY DID NOT TAKE THE TAILS OFF THE SHRIMP!!! if I am eating a dish that is wet and I have to pick it up with my utensils to put it in my mouth, I should not have to pull off/spit out the tail of a shrimp. I should be able to just chew and swallow. And it was super weird because they left the very last tail end on, Something they could’ve easily just pulled off during the preparation of the meal. My soup also had bok choy in it. I’ve never had it in my pho before , it was fine. For us to have had two orders of pho , they only brought over one small plate with bean sprouts, basil, and two slices of lime. When I’ve been to other Vietnamese restaurants, I get all of that just for myself, so I felt the portion of that was kind of small. Maybe that’s why I couldn’t achieve the flavor I’m used to. They are a cash only establishment, but you can scan a QR code at the table and order and pay right on your phone. That was really convenient. Service was good and the volume was excellent for having a nice conversation and being able to hear the person you’re talking to. If I’m ever in the neighborhood I would give this place Another try.",
       "time": 1744714806,
       "translated": false
     },
@@ -458,5 +458,32 @@
   "emails": [
     "saigonshack114@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:02.353732+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:02.353732+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:51.428228+00:00",
+    "outcome": "found",
+    "sources": {
+      "saigonshack114@gmail.com": [
+        "https://www.saigonshack.com/",
+        "https://www.saigonshack.com/contact"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.saigonshack.com/",
+        "status": "ok",
+        "emails": [
+          "saigonshack114@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.saigonshack.com/contact",
+        "status": "ok",
+        "emails": [
+          "saigonshack114@gmail.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }

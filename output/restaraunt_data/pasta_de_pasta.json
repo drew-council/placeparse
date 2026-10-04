@@ -1,0 +1,57 @@
+{
+  "adr_address": "<span class=\"street-address\">165 1st Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "165 1st Ave, New York, NY 10003, USA",
+  "formatted_phone_number": "(917) 922-3106",
+  "geometry": {
+    "location": {
+      "lat": 40.7290539,
+      "lng": -73.9845732
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7303489302915,
+        "lng": -73.98310116970849
+      },
+      "southwest": {
+        "lat": 40.72765096970851,
+        "lng": -73.98579913029151
+      }
+    }
+  },
+  "international_phone_number": "+1 917-922-3106",
+  "name": "Pasta de Pasta",
+  "place_id": "ChIJS_F8t5lZwokRewskQW2Tzk8",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=5750695871652301691",
+  "website": "https://pastadepasta.com/",
+  "details_checked_at": "2026-10-03T21:59:35.189218+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:35.189218+00:00",
+  "emails": [
+    "hello@pastadepasta.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:19.225064+00:00",
+    "outcome": "found",
+    "sources": {
+      "hello@pastadepasta.com": [
+        "https://pastadepasta.com/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://pastadepasta.com/",
+        "status": "ok",
+        "emails": [
+          "hello@pastadepasta.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
+}

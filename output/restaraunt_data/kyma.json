@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 11:00 PM",
+      "Friday: 11:30 AM – 12:00 AM",
+      "Saturday: 11:30 AM – 12:00 AM",
+      "Sunday: 11:30 AM – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -268,13 +268,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 11:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 11:00 PM",
+      "Friday: 11:30 AM – 12:00 AM",
+      "Saturday: 11:30 AM – 12:00 AM",
+      "Sunday: 11:30 AM – 10:00 PM"
     ]
   },
   "photos": [
@@ -377,7 +377,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVY4_kvFy2Lvws-A1OsccbUm5QenkzvnsgdeLYC6nR-5g5yMQ0CCg=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 2,
       "relative_time_description": "5 months ago",
-      "text": "Our recent visit to Kyma Flatiron was a mix of delightful highs and a few unexpected lows. Overall, the experience was enjoyable, thanks in no small part to the wonderful company of my wife - who has the remarkable ability to enhance any and every experience.\n\nThe Good:\nAmbiance & Service:\nKyma\u2019s ambiance is undeniably charming, with a beautifully curated d\u00e9cor that exudes Mediterranean elegance. The lighting creates a warm and inviting atmosphere, perfect for a celebratory evening. The service was impeccable, with the staff going the extra mile by remembering our anniversary and surprising us with a complimentary glass of wine - a thoughtful touch that elevated our night.\n\nThe Not-So-Good:\nWhile the atmosphere was generally pleasant, the gigantic TV screen felt out of place, better suited to a sports bar than a refined Greek taverna. Additionally, the noise level was on the higher side, which somewhat diminished the otherwise intimate setting.\n\nThe Food:\nHits:\n\u2022\u00a0\u00a0\u00a0\u00a0Grilled Octopus \u2013 Tender, perfectly seasoned, and accompanied by a well-balanced medley of roasted peppers, onions, capers, and fava beans. A standout dish that set a promising tone for the evening.\n\u2022\u00a0\u00a0\u00a0\u00a0Shrimp Orzotto \u2013 Rich and flavorful with a nice depth from the tomato sauce and feta, though it leaned a bit on the greasy side.\n\u2022\u00a0\u00a0\u00a0\u00a0Baklava \u2013 Perhaps the star of the meal. The delicate layers of phyllo, mixed nuts, and fragrant orange syrup paired beautifully with delicious pistachio ice cream, making for a memorable finish.\n\nMisses:\n\u2022\u00a0\u00a0\u00a0\u00a0Soutzoukakia \u2013 The Mediterranean spiced meatballs, baked in tomato sauce and topped with Mizithra cheese, were dry and crumbly for my taste, lacking the expected seasoning. My wife, however, enjoyed this dish more than I did.\n\u2022\u00a0\u00a0\u00a0\u00a0Pan-Seared Royal Dorade \u2013 This dish was a real disappointment. The fish was bland and unseasoned, accompanied by uninspiring mashed potatoes that tasted as if they were simply boiled and mashed with salt\u2014no trace of the promised olive oil. The asparagus garnish? Just one stalk, cut in half.\n\nSimply Bad:\n\u2022\u00a0\u00a0\u00a0\u00a0Fruit \"Salad\" \u2013 A letdown in every sense. Wilted blueberries, underripe papaya, and a few uninspiring slices of other fruits, plated in a way that would be more fitting in an airport cafeteria than a restaurant of Kyma\u2019s caliber. A true afterthought.\n\nFinal Thoughts:\nWhile Kyma excels in ambiance, service, and select dishes, inconsistencies in food quality and an overwhelming noise level detracted from the experience. Would I return? Perhaps - for the ambiance and a few standout dishes, but with a more selective approach to the menu.",
+      "text": "Our recent visit to Kyma Flatiron was a mix of delightful highs and a few unexpected lows. Overall, the experience was enjoyable, thanks in no small part to the wonderful company of my wife - who has the remarkable ability to enhance any and every experience.\n\nThe Good:\nAmbiance & Service:\nKyma’s ambiance is undeniably charming, with a beautifully curated décor that exudes Mediterranean elegance. The lighting creates a warm and inviting atmosphere, perfect for a celebratory evening. The service was impeccable, with the staff going the extra mile by remembering our anniversary and surprising us with a complimentary glass of wine - a thoughtful touch that elevated our night.\n\nThe Not-So-Good:\nWhile the atmosphere was generally pleasant, the gigantic TV screen felt out of place, better suited to a sports bar than a refined Greek taverna. Additionally, the noise level was on the higher side, which somewhat diminished the otherwise intimate setting.\n\nThe Food:\nHits:\n•    Grilled Octopus – Tender, perfectly seasoned, and accompanied by a well-balanced medley of roasted peppers, onions, capers, and fava beans. A standout dish that set a promising tone for the evening.\n•    Shrimp Orzotto – Rich and flavorful with a nice depth from the tomato sauce and feta, though it leaned a bit on the greasy side.\n•    Baklava – Perhaps the star of the meal. The delicate layers of phyllo, mixed nuts, and fragrant orange syrup paired beautifully with delicious pistachio ice cream, making for a memorable finish.\n\nMisses:\n•    Soutzoukakia – The Mediterranean spiced meatballs, baked in tomato sauce and topped with Mizithra cheese, were dry and crumbly for my taste, lacking the expected seasoning. My wife, however, enjoyed this dish more than I did.\n•    Pan-Seared Royal Dorade – This dish was a real disappointment. The fish was bland and unseasoned, accompanied by uninspiring mashed potatoes that tasted as if they were simply boiled and mashed with salt—no trace of the promised olive oil. The asparagus garnish? Just one stalk, cut in half.\n\nSimply Bad:\n•    Fruit \"Salad\" – A letdown in every sense. Wilted blueberries, underripe papaya, and a few uninspiring slices of other fruits, plated in a way that would be more fitting in an airport cafeteria than a restaurant of Kyma’s caliber. A true afterthought.\n\nFinal Thoughts:\nWhile Kyma excels in ambiance, service, and select dishes, inconsistencies in food quality and an overwhelming noise level detracted from the experience. Would I return? Perhaps - for the ambiance and a few standout dishes, but with a more selective approach to the menu.",
       "time": 1738068899,
       "translated": false
     },
@@ -401,7 +401,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIX6vCj_Y_b5NeqXGw8LHJ867WqiJLsygL2_HsjqVoDhUltww=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "One of my favorite restaurants in New York. I\u2019ve eaten here a few times over the years and it never disappoints. I particularly recommend the hamachi crudo, Greek salad, and broccolini. The cheesecake is also very good. The octopus is quite rich and better for sharing. The olives on the tuna crudo are ever so slightly too strong. The high ceilings give a nice airy quality.",
+      "text": "One of my favorite restaurants in New York. I’ve eaten here a few times over the years and it never disappoints. I particularly recommend the hamachi crudo, Greek salad, and broccolini. The cheesecake is also very good. The octopus is quite rich and better for sharing. The olives on the tuna crudo are ever so slightly too strong. The high ceilings give a nice airy quality.",
       "time": 1740010351,
       "translated": false
     },
@@ -497,11 +497,11 @@
       ],
       "type": "HAPPY_HOUR",
       "weekday_text": [
-        "Monday: 3:00\u2009\u2013\u20095:00\u202fPM",
-        "Tuesday: 3:00\u2009\u2013\u20095:00\u202fPM",
-        "Wednesday: 3:00\u2009\u2013\u20095:00\u202fPM",
-        "Thursday: 3:00\u2009\u2013\u20095:00\u202fPM",
-        "Friday: 3:00\u2009\u2013\u20095:00\u202fPM",
+        "Monday: 3:00 – 5:00 PM",
+        "Tuesday: 3:00 – 5:00 PM",
+        "Wednesday: 3:00 – 5:00 PM",
+        "Thursday: 3:00 – 5:00 PM",
+        "Friday: 3:00 – 5:00 PM",
         "Saturday: Closed",
         "Sunday: Closed"
       ]
@@ -541,8 +541,8 @@
         "Wednesday: Closed",
         "Thursday: Closed",
         "Friday: Closed",
-        "Saturday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Sunday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM"
+        "Saturday: 11:30 AM – 3:30 PM",
+        "Sunday: 11:30 AM – 3:30 PM"
       ]
     },
     {
@@ -611,11 +611,11 @@
       ],
       "type": "LUNCH",
       "weekday_text": [
-        "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
-        "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
-        "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
-        "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
-        "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Monday: 11:30 AM – 3:00 PM",
+        "Tuesday: 11:30 AM – 3:00 PM",
+        "Wednesday: 11:30 AM – 3:00 PM",
+        "Thursday: 11:30 AM – 3:00 PM",
+        "Friday: 11:30 AM – 3:00 PM",
         "Saturday: Closed",
         "Sunday: Closed"
       ]
@@ -644,5 +644,67 @@
   "emails": [
     "email@example.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:29.507601+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:29.507601+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:13.533666+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.kymarestaurants.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.kymarestaurants.com/hours-and-location/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.kymarestaurants.com/about/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.kymarestaurants.com/reservations/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.kymarestaurants.com/roslyn-events/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.kymarestaurants.com/flatiron-events/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.kymarestaurants.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.kymarestaurants.com/hours-and-location/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.kymarestaurants.com/about/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.kymarestaurants.com/",
+      "https://www.kymarestaurants.com/hours-and-location/",
+      "https://www.kymarestaurants.com/about/",
+      "https://www.kymarestaurants.com/reservations/",
+      "https://www.kymarestaurants.com/roslyn-events/",
+      "https://www.kymarestaurants.com/flatiron-events/"
+    ],
+    "browser_checked_at": "2026-10-03T22:09:32.666358+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

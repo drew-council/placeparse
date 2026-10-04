@@ -1,0 +1,92 @@
+{
+  "adr_address": "<span class=\"street-address\">1-3 Eldridge St Store B</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "1-3 Eldridge St Store B, New York, NY 10002, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7144682,
+      "lng": -73.9940496
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7157990302915,
+        "lng": -73.9926200197085
+      },
+      "southwest": {
+        "lat": 40.7131010697085,
+        "lng": -73.9953179802915
+      }
+    }
+  },
+  "name": "K.O. Burger",
+  "place_id": "ChIJm4yElBpbwokRySmxMRM14O4",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=17212816132364380617",
+  "website": "https://www.koburger.com/",
+  "details_checked_at": "2026-10-03T21:59:38.383917+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:38.383917+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:12.751802+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.koburger.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.koburger.com/contact",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.koburger.com/about",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.koburger.com/location",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.koburger.com/fr/contact",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.koburger.com/fr/about",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.koburger.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.koburger.com/contact",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.koburger.com/about",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.koburger.com/contact",
+      "https://www.koburger.com/fr/contact"
+    ],
+    "browser_checked_at": "2026-10-03T22:09:20.824783+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

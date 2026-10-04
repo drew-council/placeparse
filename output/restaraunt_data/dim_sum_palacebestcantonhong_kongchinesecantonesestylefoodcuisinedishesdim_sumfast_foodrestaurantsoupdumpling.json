@@ -175,13 +175,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Saturday: 10:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Sunday: 10:30\u202fAM\u2009\u2013\u20091:30\u202fAM"
+      "Monday: 11:30 AM – 1:30 AM",
+      "Tuesday: 11:30 AM – 1:30 AM",
+      "Wednesday: 11:30 AM – 1:30 AM",
+      "Thursday: 11:30 AM – 1:30 AM",
+      "Friday: 11:30 AM – 1:30 AM",
+      "Saturday: 10:30 AM – 1:30 AM",
+      "Sunday: 10:30 AM – 1:30 AM"
     ]
   },
   "delivery": true,
@@ -288,20 +288,20 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Tuesday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Wednesday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Thursday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Friday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Saturday: 10:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
-      "Sunday: 10:30\u202fAM\u2009\u2013\u20091:30\u202fAM"
+      "Monday: 11:30 AM – 1:30 AM",
+      "Tuesday: 11:30 AM – 1:30 AM",
+      "Wednesday: 11:30 AM – 1:30 AM",
+      "Thursday: 11:30 AM – 1:30 AM",
+      "Friday: 11:30 AM – 1:30 AM",
+      "Saturday: 10:30 AM – 1:30 AM",
+      "Sunday: 10:30 AM – 1:30 AM"
     ]
   },
   "photos": [
     {
       "height": 3000,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101755519346138225198\">\u305f\u3051\u3060\u306e\u308a\u3053</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101755519346138225198\">たけだのりこ</a>"
       ],
       "photo_reference": "ATKogpcuBh7BTNJyIesqa6HsmnYIl9DL4gteG4LpJUHCzgnVkNhpySEkX9Gey8EXx7H1qWaG5ktOuDMRacD7esKpYr8-uRIiL-3l7w28cEoVyVBno1yTwDbAmYPtNDRObF44HNLRZ90NXQSVQ4VNFP_og0LetWzCtNizIZyw5GU3qL4MQ67Olciq6yhtukgC92F0cS5S3yTXTwqOfr4mYHw-Mg2CCrHvwf03DOFSBTZudl1tvVd4RXYjoGESApEb6r6T-2Z715r0c3_xfgv-_Sy0jpeyvKNmdHf0HTlxRfx2sCMD-3B2HUvR_930A2r3JglH7ThAflpBKohKdzClTm143LrSiF8EQeTj6kANOrcendNyFpvBq-w3bRkQW-sJriOloeUs5qQrBdPilAfU8zrg8YVkoaMUHcgMYKlDzBR6YOry-g",
       "width": 4000
@@ -433,7 +433,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp3SIlEPzBw7APHA2jrr1R7RD1nOEHOuBqNAI_yGyWrU7nEqeQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "We loved everything about our experience. Every single detail is a five star, from food and cocktails to ambiance and service. 10/10 I highly recommend. They even brought out a birthday dessert for my niece! Don\u2019t miss this place! The three of us ate well and have leftovers.",
+      "text": "We loved everything about our experience. Every single detail is a five star, from food and cocktails to ambiance and service. 10/10 I highly recommend. They even brought out a birthday dessert for my niece! Don’t miss this place! The three of us ate well and have leftovers.",
       "time": 1737775553,
       "translated": false
     },
@@ -517,11 +517,11 @@
       ],
       "type": "HAPPY_HOUR",
       "weekday_text": [
-        "Monday: 3:00\u2009\u2013\u20095:00\u202fPM",
-        "Tuesday: 3:00\u2009\u2013\u20095:00\u202fPM",
-        "Wednesday: 3:00\u2009\u2013\u20095:00\u202fPM",
-        "Thursday: 3:00\u2009\u2013\u20095:00\u202fPM",
-        "Friday: 3:00\u2009\u2013\u20095:00\u202fPM",
+        "Monday: 3:00 – 5:00 PM",
+        "Tuesday: 3:00 – 5:00 PM",
+        "Wednesday: 3:00 – 5:00 PM",
+        "Thursday: 3:00 – 5:00 PM",
+        "Friday: 3:00 – 5:00 PM",
         "Saturday: Closed",
         "Sunday: Closed"
       ]
@@ -547,5 +547,19 @@
   "vicinity": "334 W 46th St, New York",
   "website": "https://www.dimsumpalace.com/",
   "wheelchair_accessible_entrance": false,
-  "business_status_checked_at": "2026-10-03T20:05:01.456800+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:01.456800+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:30.295121+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.dimsumpalace.com/",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

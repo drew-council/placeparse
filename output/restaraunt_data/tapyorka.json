@@ -1,0 +1,59 @@
+{
+  "adr_address": "<span class=\"street-address\">31-05 36th Ave</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11106</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "31-05 36th Ave, Astoria, NY 11106, USA",
+  "formatted_phone_number": "(347) 396-5835",
+  "geometry": {
+    "location": {
+      "lat": 40.7565371,
+      "lng": -73.9293277
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7578290302915,
+        "lng": -73.9280244197085
+      },
+      "southwest": {
+        "lat": 40.7551310697085,
+        "lng": -73.93072238029151
+      }
+    }
+  },
+  "international_phone_number": "+1 347-396-5835",
+  "name": "Tapyorka",
+  "place_id": "ChIJqaJkRQBfwokRLXpCskwiw8Y",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=14322328952771869229",
+  "website": "http://tapyorka.com/",
+  "details_checked_at": "2026-10-03T21:59:14.966442+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:14.966442+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:25.726393+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://tapyorka.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://tapyorka.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "http://tapyorka.com/"
+    ],
+    "browser_checked_at": "2026-10-03T22:11:36.296717+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "adr_address": "<span class=\"street-address\">434 Humboldt St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11211-2418</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "434 Humboldt St, Brooklyn, NY 11211, USA",
+  "formatted_phone_number": "(718) 734-2792",
+  "geometry": {
+    "location": {
+      "lat": 40.7169543,
+      "lng": -73.94286559999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71831053029149,
+        "lng": -73.94162206970849
+      },
+      "southwest": {
+        "lat": 40.7156125697085,
+        "lng": -73.94432003029151
+      }
+    }
+  },
+  "international_phone_number": "+1 718-734-2792",
+  "name": "Cozy Royale",
+  "place_id": "ChIJcUYuBjVZwokR0hbpWj6d6X4",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=9145013409491261138",
+  "website": "http://cozyroyale.com/",
+  "details_checked_at": "2026-10-03T21:59:36.538036+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:36.538036+00:00",
+  "emails": [
+    "hello@cozyroyale.com"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:59:59.121800+00:00",
+    "outcome": "found",
+    "sources": {
+      "hello@cozyroyale.com": [
+        "https://www.cozyroyale.com/",
+        "https://www.cozyroyale.com/about",
+        "https://www.cozyroyale.com/events"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.cozyroyale.com/",
+        "status": "ok",
+        "emails": [
+          "hello@cozyroyale.com"
+        ]
+      },
+      {
+        "url": "https://www.cozyroyale.com/about",
+        "status": "ok",
+        "emails": [
+          "hello@cozyroyale.com"
+        ]
+      },
+      {
+        "url": "https://www.cozyroyale.com/events",
+        "status": "ok",
+        "emails": [
+          "hello@cozyroyale.com"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
+}

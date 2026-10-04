@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM"
+      "Monday: 10:00 AM – 11:30 PM",
+      "Tuesday: 10:00 AM – 11:30 PM",
+      "Wednesday: 10:00 AM – 11:30 PM",
+      "Thursday: 10:00 AM – 11:30 PM",
+      "Friday: 10:00 AM – 11:30 PM",
+      "Saturday: 10:00 AM – 11:30 PM",
+      "Sunday: 10:00 AM – 11:30 PM"
     ]
   },
   "delivery": true,
@@ -192,7 +192,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 718-834-9533",
-  "name": "Yemen Caf\u00e9 & Restaurant",
+  "name": "Yemen Café & Restaurant",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -268,20 +268,20 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM"
+      "Monday: 10:00 AM – 11:30 PM",
+      "Tuesday: 10:00 AM – 11:30 PM",
+      "Wednesday: 10:00 AM – 11:30 PM",
+      "Thursday: 10:00 AM – 11:30 PM",
+      "Friday: 10:00 AM – 11:30 PM",
+      "Saturday: 10:00 AM – 11:30 PM",
+      "Sunday: 10:00 AM – 11:30 PM"
     ]
   },
   "photos": [
     {
       "height": 310,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101536529684860413828\">Yemen Caf\u00e9 &amp; Restaurant</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101536529684860413828\">Yemen Café &amp; Restaurant</a>"
       ],
       "photo_reference": "ATKogpfJpRPq3OLBe4GE3ZMowxCuHqq7T7n3gK_BS-Mut5ptdin-HWAYxb0U3AnT_i2pN7QUwweBRNvn8nHGQwgNASpRyqlADoRILea5TRjb0Rw4PxNSlCjPrC8MGMmRSr4Zbd_gAR_XwBy8FgGmQmUd9_JPHPJ8YHaj2MSsUVfTGQfjT4F-_kWuS3j4UASuOEzwElUxCguhL9NDOcbbeiUe7zhIogkn9pTepDmr_E1lEe_CQbqMA5oJc5G50-Ixq2ifd9YkXJJ1h8oievfvDXjW-1_h1xjs1_9s0BwED0SGyeYzrg",
       "width": 550
@@ -297,7 +297,7 @@
     {
       "height": 533,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/101536529684860413828\">Yemen Caf\u00e9 &amp; Restaurant</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/101536529684860413828\">Yemen Café &amp; Restaurant</a>"
       ],
       "photo_reference": "ATKogpeFufjqHxitpJkfDvA9dPIojJSIjLZK_qgOXU0v1aeihX0rtWQD2lgtHVEpGg_HGd0yWHeSA0rL9UllZYTlgNSNZfM73CJKPlMq7-RBNogPHVHMGKSQ_3_9Js1uowF0cnbqyZr4rHaKuytIfb-untzgsep2bLM2ZpSZK4B40V84OihB3XBCG1SMGDGrSZkFdLUrn3IajUk22PQDFa5zwXiswxo_D_9NQtgSfxo1wHxuqHjN1d85Xz2tASELGJ6Zx9xLj8ki6q5MU70aGAIi4bnfT2T7YlTHn8IeF8BIqi7t3A",
       "width": 852
@@ -377,7 +377,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXY_2xos4C1TDZFtw0ZnV3Wwo9MMrSRKDWGNFnz7_7CSx6dpcvM=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "What can I say? The experience was so good they start you off with traditional soup, salads and bread for free. I ordered lamb with rice and I asked for the shoulder cut and they did bring me a shoulder cut. It was so good. The staff is so accommodating the atmosphere is so nice And traditional. There\u2019s also complementary tea which was a very nice touch. I would come back here again and again.",
+      "text": "What can I say? The experience was so good they start you off with traditional soup, salads and bread for free. I ordered lamb with rice and I asked for the shoulder cut and they did bring me a shoulder cut. It was so good. The staff is so accommodating the atmosphere is so nice And traditional. There’s also complementary tea which was a very nice touch. I would come back here again and again.",
       "time": 1746410004,
       "translated": false
     },
@@ -401,7 +401,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNVhit98OLm6JqP6r_pQo3NR-9olUZAzG0PY5pP3o72pQftEY_=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a week ago",
-      "text": "This place is consistently amazing. I\u2019ve been eating here for years. Order anything, it\u2019ll be great. Opened in 1986, they are the first Yemeni restaurant in the US.\n\nThere is a self-serve water (metal cups) and hot tea (paper cups) station to the back right-hand portion of the restaurant. The tea is labeled \u201cYemeni Style Hot Tea\u201d on the menu. It is a slightly sweetened black tea likely spiced with cardamom, clove, and the slightest bit of cinnamon.\n\nAs soon as you\u2019re seated you will get a small dish of lemon wedges and spicy, fresh Yemeni Zahawig (salsa). Shortly thereafter, you\u2019ll get Marag (soup) and bread. The Marag is a deep and rich lamb broth with onions - squeeze a lemon wedge into your soup and feel free to use the Zahawig to spice to taste. The Zahawig is likely tomato, jalape\u00f1o, cilantro, and a couple other surprises. It is excitingly spicy for a table \u201csalsa\u201d and tastes like it is made fresh.\n\nThe bread is crispy on the bottom and the edges. It holds up very well to everything you\u2019ll use it to dip and pile on during your meal. It\u2019s a giant, round flatbread that your entire table will tear at and enjoy.\n\nThere are a lot of vegetarian dishes that are fun to share: hummus, baba ghanoush, a vegetarian entree which is a vegetable stew served over rice with salad.\n\nThe hummus is smooth and doesn\u2019t need salt, perfect as is, very delicately seasoned. The baba ghanoush is so refreshing.\n\nFoul is a very fun dish to order. This is a tiny pot of mashed fava beans that are saut\u00e9ed with tomatoes and onions and comes out bubbling. It is very well-balanced.\n\nFasoolia is white kidney beans saut\u00e9ed with onions, garlic, tomatoes, cumin, and minced scallions. One of my favorites.\n\nEveryone who has eaten the meat here has loved it and raved about its tenderness. Make sure you try all the things. They are open later than many places in the neighborhood (11:30pm). I love coming here.",
+      "text": "This place is consistently amazing. I’ve been eating here for years. Order anything, it’ll be great. Opened in 1986, they are the first Yemeni restaurant in the US.\n\nThere is a self-serve water (metal cups) and hot tea (paper cups) station to the back right-hand portion of the restaurant. The tea is labeled “Yemeni Style Hot Tea” on the menu. It is a slightly sweetened black tea likely spiced with cardamom, clove, and the slightest bit of cinnamon.\n\nAs soon as you’re seated you will get a small dish of lemon wedges and spicy, fresh Yemeni Zahawig (salsa). Shortly thereafter, you’ll get Marag (soup) and bread. The Marag is a deep and rich lamb broth with onions - squeeze a lemon wedge into your soup and feel free to use the Zahawig to spice to taste. The Zahawig is likely tomato, jalapeño, cilantro, and a couple other surprises. It is excitingly spicy for a table “salsa” and tastes like it is made fresh.\n\nThe bread is crispy on the bottom and the edges. It holds up very well to everything you’ll use it to dip and pile on during your meal. It’s a giant, round flatbread that your entire table will tear at and enjoy.\n\nThere are a lot of vegetarian dishes that are fun to share: hummus, baba ghanoush, a vegetarian entree which is a vegetable stew served over rice with salad.\n\nThe hummus is smooth and doesn’t need salt, perfect as is, very delicately seasoned. The baba ghanoush is so refreshing.\n\nFoul is a very fun dish to order. This is a tiny pot of mashed fava beans that are sautéed with tomatoes and onions and comes out bubbling. It is very well-balanced.\n\nFasoolia is white kidney beans sautéed with onions, garlic, tomatoes, cumin, and minced scallions. One of my favorites.\n\nEveryone who has eaten the meat here has loved it and raved about its tenderness. Make sure you try all the things. They are open later than many places in the neighborhood (11:30pm). I love coming here.",
       "time": 1750135601,
       "translated": false
     },
@@ -413,7 +413,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkfeOf0JLqNr7taJjO4ABQeH6lPmILV1k7fMyJK_S5tHVmHA=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "Picked this place since we needed a halal place.  It\u2019s really good.  We split 2 lamb dishes and a chicken kabob among 5 people as well as a hummus/baba ganoush appetizer.  They brought tons of amazing bread to the table :).  The tea was good as well.  We\u2019ve always gone to the other location but met up here for the central location and it didn\u2019t disappoint.  For vegetarians there is an option (I think vegan) but there\u2019s not tons.",
+      "text": "Picked this place since we needed a halal place.  It’s really good.  We split 2 lamb dishes and a chicken kabob among 5 people as well as a hummus/baba ganoush appetizer.  They brought tons of amazing bread to the table :).  The tea was good as well.  We’ve always gone to the other location but met up here for the central location and it didn’t disappoint.  For vegetarians there is an option (I think vegan) but there’s not tons.",
       "time": 1744835724,
       "translated": false
     },
@@ -521,13 +521,13 @@
       ],
       "type": "DELIVERY",
       "weekday_text": [
-        "Monday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Tuesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Wednesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Thursday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Friday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Saturday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Sunday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM"
+        "Monday: 10:00 AM – 11:30 PM",
+        "Tuesday: 10:00 AM – 11:30 PM",
+        "Wednesday: 10:00 AM – 11:30 PM",
+        "Thursday: 10:00 AM – 11:30 PM",
+        "Friday: 10:00 AM – 11:30 PM",
+        "Saturday: 10:00 AM – 11:30 PM",
+        "Sunday: 10:00 AM – 11:30 PM"
       ]
     },
     {
@@ -620,13 +620,13 @@
       ],
       "type": "TAKEOUT",
       "weekday_text": [
-        "Monday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Tuesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Wednesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Thursday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Friday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Saturday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Sunday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM"
+        "Monday: 10:00 AM – 11:30 PM",
+        "Tuesday: 10:00 AM – 11:30 PM",
+        "Wednesday: 10:00 AM – 11:30 PM",
+        "Thursday: 10:00 AM – 11:30 PM",
+        "Friday: 10:00 AM – 11:30 PM",
+        "Saturday: 10:00 AM – 11:30 PM",
+        "Sunday: 10:00 AM – 11:30 PM"
       ]
     }
   ],
@@ -651,9 +651,56 @@
   "website": "https://yemencafe.com/yemencafrestaurantatlantic?utm_source=google",
   "wheelchair_accessible_entrance": false,
   "emails": [
+    "YemenCafe2@gmail.com",
     "Yemencafe1@gmail.com",
     "Yemencafe3@gmail.com",
-    "YemenCafe2@gmail.com"
+    "yemencafe1@gmail.com",
+    "yemencafe2@gmail.com",
+    "yemencafe3@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:27.592568+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:27.592568+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:25.947778+00:00",
+    "outcome": "found",
+    "sources": {
+      "yemencafe1@gmail.com": [
+        "https://yemencafe.com/yemencafrestaurantatlantic?utm_source=google",
+        "https://yemencafe.com/page/contact-us"
+      ],
+      "yemencafe2@gmail.com": [
+        "https://yemencafe.com/yemencafrestaurantatlantic?utm_source=google",
+        "https://yemencafe.com/page/contact-us"
+      ],
+      "yemencafe3@gmail.com": [
+        "https://yemencafe.com/yemencafrestaurantatlantic?utm_source=google",
+        "https://yemencafe.com/page/contact-us"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://yemencafe.com/yemencafrestaurantatlantic?utm_source=google",
+        "status": "ok",
+        "emails": [
+          "yemencafe1@gmail.com",
+          "yemencafe2@gmail.com",
+          "yemencafe3@gmail.com"
+        ]
+      },
+      {
+        "url": "https://yemencafe.com/page/contact-us",
+        "status": "ok",
+        "emails": [
+          "yemencafe1@gmail.com",
+          "yemencafe2@gmail.com",
+          "yemencafe3@gmail.com"
+        ]
+      },
+      {
+        "url": "https://yemencafe.com/events",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

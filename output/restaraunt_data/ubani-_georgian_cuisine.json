@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200911:30\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200911:30\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200911:30\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200911:30\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200911:30\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200911:30\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200911:30\u202fPM"
+      "Monday: 12:00 – 11:30 PM",
+      "Tuesday: 12:00 – 11:30 PM",
+      "Wednesday: 12:00 – 11:30 PM",
+      "Thursday: 12:00 – 11:30 PM",
+      "Friday: 12:00 – 11:30 PM",
+      "Saturday: 12:00 – 11:30 PM",
+      "Sunday: 12:00 – 11:30 PM"
     ]
   },
   "delivery": true,
@@ -268,13 +268,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u200911:30\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u200911:30\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u200911:30\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u200911:30\u202fPM",
-      "Friday: 12:00\u2009\u2013\u200911:30\u202fPM",
-      "Saturday: 12:00\u2009\u2013\u200911:30\u202fPM",
-      "Sunday: 12:00\u2009\u2013\u200911:30\u202fPM"
+      "Monday: 12:00 – 11:30 PM",
+      "Tuesday: 12:00 – 11:30 PM",
+      "Wednesday: 12:00 – 11:30 PM",
+      "Thursday: 12:00 – 11:30 PM",
+      "Friday: 12:00 – 11:30 PM",
+      "Saturday: 12:00 – 11:30 PM",
+      "Sunday: 12:00 – 11:30 PM"
     ]
   },
   "photos": [
@@ -389,7 +389,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUl91J13DB6Zano1HJoIpadNNB4-Wq6ElteYcwdL3w2qawjJjpF=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "What a pleasant and enjoyable experience we have been coming to this great restaurant regularly now.  The food is top notch, the service is excellent, the ambiance is pleasant.  We love seating inside and outside.  Beautiful backyard. Can not recommend any dish because they are all very tasty. For sure make reservation on the weekend.  They are also BYOB\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f . But their own georgian wine is great and cocktails are pretty good.",
+      "text": "What a pleasant and enjoyable experience we have been coming to this great restaurant regularly now.  The food is top notch, the service is excellent, the ambiance is pleasant.  We love seating inside and outside.  Beautiful backyard. Can not recommend any dish because they are all very tasty. For sure make reservation on the weekend.  They are also BYOB❤️❤️❤️ . But their own georgian wine is great and cocktails are pretty good.",
       "time": 1738122207,
       "translated": false
     },
@@ -401,7 +401,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITAL1YJYhe2SFY0538b2i2Jnt4XcexzaVtirXEyrxt8shyjA=s128-c0x00000000-cc-rp-mo",
       "rating": 2,
       "relative_time_description": "2 months ago",
-      "text": "The food here is overpriced and below average. We ordered the cheese boat, Georgian walnut salad, and chicken with tomato paste, which totaled $66. The salad had an odd texture and a strong, unpleasant oily smell. The cheese boat was decent, but the chicken dish was overly salty and small portion\u2014definitely not worth the $25 price tag. I won\u2019t be coming back.",
+      "text": "The food here is overpriced and below average. We ordered the cheese boat, Georgian walnut salad, and chicken with tomato paste, which totaled $66. The salad had an odd texture and a strong, unpleasant oily smell. The cheese boat was decent, but the chicken dish was overly salty and small portion—definitely not worth the $25 price tag. I won’t be coming back.",
       "time": 1743802367,
       "translated": false
     },
@@ -425,7 +425,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIw5iG8pkGr8T-QYNs5umtJi6qDYdNKzbWR1EbHyN6ZvbbaVQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "I had an absolutely amazing experience at this Georgian restaurant! From the moment I walked in, the warm and inviting atmosphere made me feel right at Georgia . The staff was incredibly friendly and attentive, making great recommendations and ensuring everything was perfect.\n\nThe food was simply outstanding\u2014every dish was packed with rich, authentic flavors. The megruli  khachapuri was perfectly cheesy and fresh, while the meat were juicy and full of flavor. I also loved the traditional Georgian salad with walnuts.\n\nIf you\u2019re looking for an authentic Georgian dining experience, this place is a must-visit. I can\u2019t wait to come back and try more dishes. Highly recommend!",
+      "text": "I had an absolutely amazing experience at this Georgian restaurant! From the moment I walked in, the warm and inviting atmosphere made me feel right at Georgia . The staff was incredibly friendly and attentive, making great recommendations and ensuring everything was perfect.\n\nThe food was simply outstanding—every dish was packed with rich, authentic flavors. The megruli  khachapuri was perfectly cheesy and fresh, while the meat were juicy and full of flavor. I also loved the traditional Georgian salad with walnuts.\n\nIf you’re looking for an authentic Georgian dining experience, this place is a must-visit. I can’t wait to come back and try more dishes. Highly recommend!",
       "time": 1740777708,
       "translated": false
     }
@@ -521,13 +521,13 @@
       ],
       "type": "TAKEOUT",
       "weekday_text": [
-        "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
-        "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
       ]
     },
     {
@@ -620,13 +620,13 @@
       ],
       "type": "BRUNCH",
       "weekday_text": [
-        "Monday: 12:00\u2009\u2013\u20095:00\u202fPM",
-        "Tuesday: 12:00\u2009\u2013\u20095:00\u202fPM",
-        "Wednesday: 12:00\u2009\u2013\u20095:00\u202fPM",
-        "Thursday: 12:00\u2009\u2013\u20095:00\u202fPM",
-        "Friday: 12:00\u2009\u2013\u20095:00\u202fPM",
-        "Saturday: 12:00\u2009\u2013\u20095:00\u202fPM",
-        "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+        "Monday: 12:00 – 5:00 PM",
+        "Tuesday: 12:00 – 5:00 PM",
+        "Wednesday: 12:00 – 5:00 PM",
+        "Thursday: 12:00 – 5:00 PM",
+        "Friday: 12:00 – 5:00 PM",
+        "Saturday: 12:00 – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
       ]
     }
   ],
@@ -650,5 +650,56 @@
   "vicinity": "8309 3rd Ave, Brooklyn",
   "website": "https://ubaniny.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:06:21.503353+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:21.503353+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:17.064419+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://ubaniny.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://ubaniny.com/contact",
+        "status": "HTTP_404",
+        "emails": []
+      },
+      {
+        "url": "https://ubaniny.com/about",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://ubaniny.com/locations",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://ubaniny.com/accessible-compliance.php",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://ubaniny.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://ubaniny.com/contact",
+        "status": "browser_load_error",
+        "emails": []
+      },
+      {
+        "url": "https://ubaniny.com/about",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:12:01.126950+00:00",
+    "browser_outcome": "incomplete_lookup"
+  }
 }

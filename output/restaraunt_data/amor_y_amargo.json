@@ -156,13 +156,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Tuesday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
     ]
   },
   "delivery": false,
@@ -269,13 +269,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Tuesday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Wednesday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Thursday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Saturday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Sunday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
     ]
   },
   "photos": [
@@ -390,7 +390,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmf3xwmGqNVuZZBo1OZJozYun-IlYC6vbjzzHmO12rNS814AhK=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "Overall rating: 4.8\n\nThis is already a clearly popular place, so don\u2019t need to say much. Even just being in a standing room, the server was so nice! When a spot cleared up, he shuffled us towards a standing area with a bar-like table. I only got one drink and it was delicious! Seems like a great pre-game spot if I\u2019m going out in the area. It was getting too crowded for me around 9:30pm bc I\u2019m an oldie so I just got one drink. But I liked the vibe!",
+      "text": "Overall rating: 4.8\n\nThis is already a clearly popular place, so don’t need to say much. Even just being in a standing room, the server was so nice! When a spot cleared up, he shuffled us towards a standing area with a bar-like table. I only got one drink and it was delicious! Seems like a great pre-game spot if I’m going out in the area. It was getting too crowded for me around 9:30pm bc I’m an oldie so I just got one drink. But I liked the vibe!",
       "time": 1738376029,
       "translated": false
     },
@@ -448,7 +448,90 @@
   "website": "https://www.overthrowhospitality.com/",
   "wheelchair_accessible_entrance": false,
   "emails": [
+    "events@overthrowhospitality.com",
+    "press@overthrowhospitality.com",
+    "reservations@overthrowhospitality.com",
     "speakup@overthrowhospitality.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:04:39.628947+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:39.628947+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:05.731250+00:00",
+    "outcome": "found",
+    "sources": {
+      "speakup@overthrowhospitality.com": [
+        "https://www.overthrowhospitality.com/",
+        "https://www.overthrowhospitality.com/contact",
+        "https://www.overthrowhospitality.com/private-events",
+        "https://www.overthrowhospitality.com/team",
+        "https://www.overthrowhospitality.com/story",
+        "https://www.overthrowhospitality.com/careers"
+      ],
+      "events@overthrowhospitality.com": [
+        "https://www.overthrowhospitality.com/contact"
+      ],
+      "press@overthrowhospitality.com": [
+        "https://www.overthrowhospitality.com/contact"
+      ],
+      "reservations@overthrowhospitality.com": [
+        "https://www.overthrowhospitality.com/contact",
+        "https://www.overthrowhospitality.com/private-events"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.overthrowhospitality.com/",
+        "status": "ok",
+        "emails": [
+          "speakup@overthrowhospitality.com"
+        ]
+      },
+      {
+        "url": "https://www.overthrowhospitality.com/contact",
+        "status": "ok",
+        "emails": [
+          "events@overthrowhospitality.com",
+          "press@overthrowhospitality.com",
+          "reservations@overthrowhospitality.com",
+          "speakup@overthrowhospitality.com"
+        ]
+      },
+      {
+        "url": "https://www.overthrowhospitality.com/private-events",
+        "status": "ok",
+        "emails": [
+          "reservations@overthrowhospitality.com",
+          "speakup@overthrowhospitality.com"
+        ]
+      },
+      {
+        "url": "https://www.overthrowhospitality.com/team",
+        "status": "ok",
+        "emails": [
+          "speakup@overthrowhospitality.com"
+        ]
+      },
+      {
+        "url": "https://www.overthrowhospitality.com/story",
+        "status": "ok",
+        "emails": [
+          "speakup@overthrowhospitality.com"
+        ]
+      },
+      {
+        "url": "https://www.overthrowhospitality.com/careers",
+        "status": "ok",
+        "emails": [
+          "speakup@overthrowhospitality.com"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.overthrowhospitality.com/",
+      "https://www.overthrowhospitality.com/contact",
+      "https://www.overthrowhospitality.com/private-events",
+      "https://www.overthrowhospitality.com/team",
+      "https://www.overthrowhospitality.com/story",
+      "https://www.overthrowhospitality.com/careers"
+    ]
+  }
 }

@@ -1,0 +1,50 @@
+{
+  "adr_address": "<span class=\"street-address\">225 Madison Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10016</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "225 Madison Ave, New York, NY 10016, USA",
+  "formatted_phone_number": "(212) 685-0008",
+  "geometry": {
+    "location": {
+      "lat": 40.7492258,
+      "lng": -73.9813971
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7506534802915,
+        "lng": -73.98024706970848
+      },
+      "southwest": {
+        "lat": 40.7479555197085,
+        "lng": -73.98294503029149
+      }
+    }
+  },
+  "international_phone_number": "+1 212-685-0008",
+  "name": "The Morgan Library & Museum",
+  "place_id": "ChIJ3453OAdZwokRja92OOKCugM",
+  "types": [
+    "establishment",
+    "library",
+    "museum",
+    "point_of_interest",
+    "tourist_attraction"
+  ],
+  "url": "https://maps.google.com/?cid=268671035903487885",
+  "website": "https://www.themorgan.org/",
+  "details_checked_at": "2026-10-03T21:59:15.648773+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:15.648773+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:27.690922+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.themorgan.org/",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
+}

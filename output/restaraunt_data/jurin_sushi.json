@@ -1,0 +1,50 @@
+{
+  "adr_address": "<span class=\"street-address\">270 W 36th St. 2nd floor</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "270 W 36th St. 2nd floor, New York, NY 10018, USA",
+  "formatted_phone_number": "(718) 838-2223",
+  "geometry": {
+    "location": {
+      "lat": 40.7532748,
+      "lng": -73.9923393
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7546474302915,
+        "lng": -73.99089986970849
+      },
+      "southwest": {
+        "lat": 40.7519494697085,
+        "lng": -73.99359783029149
+      }
+    }
+  },
+  "international_phone_number": "+1 718-838-2223",
+  "name": "Jurin Sushi",
+  "place_id": "ChIJgce8EwpZwokRywLhI2aUuTE",
+  "types": [
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=3583058144959464139",
+  "website": "https://order.toasttab.com/online/jurinsushi",
+  "details_checked_at": "2026-10-03T21:59:11.991679+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:11.991679+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:11.248571+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://order.toasttab.com/online/jurinsushi",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
+}

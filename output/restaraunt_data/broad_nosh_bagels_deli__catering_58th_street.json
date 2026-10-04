@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 5:30 AM – 8:00 PM",
+      "Tuesday: 5:30 AM – 8:00 PM",
+      "Wednesday: 5:30 AM – 8:00 PM",
+      "Thursday: 5:30 AM – 8:00 PM",
+      "Friday: 5:30 AM – 8:00 PM",
+      "Saturday: 5:30 AM – 8:00 PM",
+      "Sunday: 5:30 AM – 8:00 PM"
     ]
   },
   "delivery": true,
@@ -264,13 +264,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 5:30 AM – 8:00 PM",
+      "Tuesday: 5:30 AM – 8:00 PM",
+      "Wednesday: 5:30 AM – 8:00 PM",
+      "Thursday: 5:30 AM – 8:00 PM",
+      "Friday: 5:30 AM – 8:00 PM",
+      "Saturday: 5:30 AM – 8:00 PM",
+      "Sunday: 5:30 AM – 8:00 PM"
     ]
   },
   "photos": [
@@ -384,12 +384,12 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxVKr3Jg5nbcXx6XWU70NNvAdmAxLcMBMmpV-e4V5lAfTxE74n=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Visited Broad Nosh Bagels in Manhattan this morning and was thoroughly impressed! The breakfast bagels were absolutely incredible\u2014fresh, flavorful, and perfectly crafted. Despite the place being a madhouse with a constant stream of customers, the staff was amazing.\nThey managed the crowd efficiently and had my order ready within 10 minutes. The service was quick, friendly, and professional. If you're in Manhattan and craving a fantastic bagel, Broad Nosh Bagels is definitely the place to go. Highly recommend!",
+      "text": "Visited Broad Nosh Bagels in Manhattan this morning and was thoroughly impressed! The breakfast bagels were absolutely incredible—fresh, flavorful, and perfectly crafted. Despite the place being a madhouse with a constant stream of customers, the staff was amazing.\nThey managed the crowd efficiently and had my order ready within 10 minutes. The service was quick, friendly, and professional. If you're in Manhattan and craving a fantastic bagel, Broad Nosh Bagels is definitely the place to go. Highly recommend!",
       "time": 1748444821,
       "translated": false
     },
     {
-      "author_name": "Anna Dzier\u017cawa-Kimmel",
+      "author_name": "Anna Dzierżawa-Kimmel",
       "author_url": "https://www.google.com/maps/contrib/112442200454374720635/reviews",
       "language": "en",
       "original_language": "en",
@@ -444,5 +444,26 @@
   "utc_offset": -240,
   "vicinity": "314 W 58th St, New York",
   "website": "https://broadnosh.com/",
-  "business_status_checked_at": "2026-10-03T20:04:47.033929+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:47.033929+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:11.070022+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://broadnosh.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://broadnosh.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:07:29.998199+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

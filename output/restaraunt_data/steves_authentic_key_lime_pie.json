@@ -155,13 +155,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 12:00 – 7:00 PM",
+      "Tuesday: 12:00 – 7:00 PM",
+      "Wednesday: 12:00 – 7:00 PM",
+      "Thursday: 12:00 – 7:00 PM",
+      "Friday: 12:00 – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
     ]
   },
   "delivery": true,
@@ -264,13 +264,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Tuesday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Wednesday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Thursday: 12:00\u2009\u2013\u20097:00\u202fPM",
-      "Friday: 12:00\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Monday: 12:00 – 7:00 PM",
+      "Tuesday: 12:00 – 7:00 PM",
+      "Wednesday: 12:00 – 7:00 PM",
+      "Thursday: 12:00 – 7:00 PM",
+      "Friday: 12:00 – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
     ]
   },
   "photos": [
@@ -372,7 +372,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwYfe-A_eM5wvrY3LxmqOUwdFV2TdBD1il-A85ZuKOkJQcT-8=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "a month ago",
-      "text": "Wanted to try this place for the longest time, finally got to! It was pretty good and delicious! The person taking our order was sweet and lovely (young Latinx man with glasses). We got the single serve pies and the limeade. There\u2019s picnic benches outside so you can eat with beautiful views of NY harbor nearby (perfect for warm weather days). Expect a line (but it moves fairly quickly).",
+      "text": "Wanted to try this place for the longest time, finally got to! It was pretty good and delicious! The person taking our order was sweet and lovely (young Latinx man with glasses). We got the single serve pies and the limeade. There’s picnic benches outside so you can eat with beautiful views of NY harbor nearby (perfect for warm weather days). Expect a line (but it moves fairly quickly).",
       "time": 1748211809,
       "translated": false
     },
@@ -408,7 +408,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHPR7PO6WwnAbFvxOcrah8PCIqgywn89vuwUxaJNa7g59VPqc=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "4 months ago",
-      "text": "The key lime pie is phenomenal, but the swingle is out of this world. I traveled to Key West last year and had key lime pie there for the first time. When I came back to NY, I kept trying to find one that could meet my expectations. Recently, I found Steve\u2019s Key Lime Pie. I came by 2 days ago for the first time and had to come back today and grab pies for the entire family. The swingle is an absolute game changer. As someone who is obsessed with chocolate and key lime pie, this is THE best dessert. Absolutely obsessed\u2026P.S. I\u2019d love some vanilla bean whipped cream to go along with it!",
+      "text": "The key lime pie is phenomenal, but the swingle is out of this world. I traveled to Key West last year and had key lime pie there for the first time. When I came back to NY, I kept trying to find one that could meet my expectations. Recently, I found Steve’s Key Lime Pie. I came by 2 days ago for the first time and had to come back today and grab pies for the entire family. The swingle is an absolute game changer. As someone who is obsessed with chocolate and key lime pie, this is THE best dessert. Absolutely obsessed…P.S. I’d love some vanilla bean whipped cream to go along with it!",
       "time": 1738535379,
       "translated": false
     },
@@ -439,5 +439,19 @@
   "vicinity": "185 Van Dyke St, Brooklyn",
   "website": "https://keylime.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:06:10.391604+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:10.391604+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:00.796360+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://keylime.com/",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

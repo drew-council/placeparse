@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 6:00 PM"
     ]
   },
   "delivery": true,
@@ -267,13 +267,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 6:00 PM"
     ]
   },
   "photos": [
@@ -376,7 +376,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvqYmuh05S0HfHiwz88bjrxvMW1DCASYMzgquXL02j_2oOlg=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "We have been coming to Very Fresh Noodles since 2017. We visit NYC every year to see Broadway shows and explore the city. Very Fresh Noodles is a tradition in our family. Great for all diets\u2026our one daughter is vegetarian\u2026and you can get a variety of heat! And the staff is extremely friendly. Recommend getting there right when it opens on the weekends\u2026or go during the week\u2026because the line will be wrapped around Chelsea Market!",
+      "text": "We have been coming to Very Fresh Noodles since 2017. We visit NYC every year to see Broadway shows and explore the city. Very Fresh Noodles is a tradition in our family. Great for all diets…our one daughter is vegetarian…and you can get a variety of heat! And the staff is extremely friendly. Recommend getting there right when it opens on the weekends…or go during the week…because the line will be wrapped around Chelsea Market!",
       "time": 1749312114,
       "translated": false
     },
@@ -388,7 +388,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWc00aKzHuFh7pOA43LgNp--fX4XoeoLS_dThXFiS3QlBXZtIfD=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "2 months ago",
-      "text": "Spice, variety, flavor. Authenticity \u2014 but with a price.\n\nWe stopped by on a cold, rainy day \u2014 perfect noodle soup weather. Tried two of their popular soup options, both came out piping hot and rich in flavor. Definitely seasoned with that classic Sichuan peppercorn kick \u2014 subtle, not overwhelming, but present enough for fans of that numbing spice to appreciate.\n\nIt does feel a bit over seasoned to the point I had a hard time telling what was what.\n\nThat said, the total came out to about $80 for three soups and three drinks. Bit of sticker shock for a quick meal in a market setting. The food was good, don\u2019t get me wrong, but for that price point, it didn\u2019t wow me enough to make it a regular stop.\n\nService was decent \u2014 staff was friendly and helpful, but nothing exceptional.\n\nHugo\u2019s Take:\n\ud83d\udfe1 One-and-done. Decent for a rainy day, but not something I\u2019d go out of my way for again.\n\nVibe: 7/10\nValue: 5/10\nFlavor: 8/10",
+      "text": "Spice, variety, flavor. Authenticity — but with a price.\n\nWe stopped by on a cold, rainy day — perfect noodle soup weather. Tried two of their popular soup options, both came out piping hot and rich in flavor. Definitely seasoned with that classic Sichuan peppercorn kick — subtle, not overwhelming, but present enough for fans of that numbing spice to appreciate.\n\nIt does feel a bit over seasoned to the point I had a hard time telling what was what.\n\nThat said, the total came out to about $80 for three soups and three drinks. Bit of sticker shock for a quick meal in a market setting. The food was good, don’t get me wrong, but for that price point, it didn’t wow me enough to make it a regular stop.\n\nService was decent — staff was friendly and helpful, but nothing exceptional.\n\nHugo’s Take:\n🟡 One-and-done. Decent for a rainy day, but not something I’d go out of my way for again.\n\nVibe: 7/10\nValue: 5/10\nFlavor: 8/10",
       "time": 1743714966,
       "translated": false
     },
@@ -400,7 +400,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV61o6fUyfICRrPfC9U1qLG-oCGO85uszxxVHpB_x-7seXupC-Weg=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 4,
       "relative_time_description": "3 weeks ago",
-      "text": "Locate inside the Chelsea market, i ordered the tingly & spicy beef dry. It comes also as a soup. Every order is freshly made for you. And wick I just waited like 10 minutes. It was my first time trying it out and even though I\u2019m not a spicy fan I really enjoy it",
+      "text": "Locate inside the Chelsea market, i ordered the tingly & spicy beef dry. It comes also as a soup. Every order is freshly made for you. And wick I just waited like 10 minutes. It was my first time trying it out and even though I’m not a spicy fan I really enjoy it",
       "time": 1748800235,
       "translated": false
     },
@@ -424,7 +424,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMJm8rb6HvRkLmUtd7ZjQQEQjKr0HhJXcOPrIfwVjKZq8RnQ=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "5 months ago",
-      "text": "I had a wonderful experience having lunch here. I ordered the Tingly & Spicy Cumin Beef Noodles, which was probably the BEST dry noodle dish I\u2019ve ever had.\nThe noodles were literally out of this world, and it was great to see the chef hand-pulling noodles right in front of us.\nI also had the Red Bean Soy Milk, which was fantastic too.\nOther members of my party ordered the Spicy Vegan Noodle Soup with Mock Duck, Chicken Wings, Tiger Salad, and Seaweed Salad, and they loved them too!\nIf you visit Chelsea, you have to go here!",
+      "text": "I had a wonderful experience having lunch here. I ordered the Tingly & Spicy Cumin Beef Noodles, which was probably the BEST dry noodle dish I’ve ever had.\nThe noodles were literally out of this world, and it was great to see the chef hand-pulling noodles right in front of us.\nI also had the Red Bean Soy Milk, which was fantastic too.\nOther members of my party ordered the Spicy Vegan Noodle Soup with Mock Duck, Chicken Wings, Tiger Salad, and Seaweed Salad, and they loved them too!\nIf you visit Chelsea, you have to go here!",
       "time": 1737664553,
       "translated": false
     }
@@ -451,5 +451,25 @@
   "emails": [
     "13e49d785d8d4f828038b6136f3b48ba@sentry.io"
   ],
-  "business_status_checked_at": "2026-10-03T20:06:22.841633+00:00"
+  "business_status_checked_at": "2026-10-03T20:06:22.841633+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:50:21.351048+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://www.veryfreshnoodles.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.veryfreshnoodles.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:12:30.335562+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

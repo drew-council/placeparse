@@ -1,0 +1,102 @@
+{
+  "adr_address": "<span class=\"street-address\">228 Dekalb Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11205</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "228 Dekalb Ave, Brooklyn, NY 11205, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.6893831,
+      "lng": -73.9703111
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.69080213029149,
+        "lng": -73.96897961970849
+      },
+      "southwest": {
+        "lat": 40.6881041697085,
+        "lng": -73.97167758029151
+      }
+    }
+  },
+  "name": "Sailor",
+  "place_id": "ChIJ2xcAfQFbwokRSBBCp0svARQ",
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=1441485357710446664",
+  "website": "https://www.sailor.nyc/",
+  "details_checked_at": "2026-10-03T21:59:34.847146+00:00",
+  "business_status_checked_at": "2026-10-03T21:59:34.847146+00:00",
+  "emails": [
+    "ahoy@sailor.nyc"
+  ],
+  "email_discovery": {
+    "checked_at": "2026-10-03T22:00:22.687716+00:00",
+    "outcome": "found",
+    "sources": {
+      "ahoy@sailor.nyc": [
+        "https://www.sailor.nyc/",
+        "https://www.sailor.nyc/contact/",
+        "https://www.sailor.nyc/reserve/",
+        "https://www.sailor.nyc/our-team/",
+        "https://www.sailor.nyc/about-us/",
+        "https://www.sailor.nyc/details-faqs/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.sailor.nyc/",
+        "status": "ok",
+        "emails": [
+          "ahoy@sailor.nyc"
+        ]
+      },
+      {
+        "url": "https://www.sailor.nyc/contact/",
+        "status": "ok",
+        "emails": [
+          "ahoy@sailor.nyc"
+        ]
+      },
+      {
+        "url": "https://www.sailor.nyc/reserve/",
+        "status": "ok",
+        "emails": [
+          "ahoy@sailor.nyc"
+        ]
+      },
+      {
+        "url": "https://www.sailor.nyc/our-team/",
+        "status": "ok",
+        "emails": [
+          "ahoy@sailor.nyc"
+        ]
+      },
+      {
+        "url": "https://www.sailor.nyc/about-us/",
+        "status": "ok",
+        "emails": [
+          "ahoy@sailor.nyc"
+        ]
+      },
+      {
+        "url": "https://www.sailor.nyc/details-faqs/",
+        "status": "ok",
+        "emails": [
+          "ahoy@sailor.nyc"
+        ]
+      }
+    ],
+    "contact_forms": [
+      "https://www.sailor.nyc/",
+      "https://www.sailor.nyc/contact/",
+      "https://www.sailor.nyc/reserve/",
+      "https://www.sailor.nyc/our-team/",
+      "https://www.sailor.nyc/about-us/",
+      "https://www.sailor.nyc/details-faqs/"
+    ]
+  }
+}

@@ -152,11 +152,11 @@
     "weekday_text": [
       "Monday: Closed",
       "Tuesday: Closed",
-      "Wednesday: 6:30\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 6:30\u2009\u2013\u200910:30\u202fPM",
-      "Friday: 6:30\u202fPM\u2009\u2013\u20092:00\u202fAM",
-      "Saturday: 6:30\u202fPM\u2009\u2013\u20092:00\u202fAM",
-      "Sunday: 6:30\u2009\u2013\u200910:30\u202fPM"
+      "Wednesday: 6:30 – 10:00 PM",
+      "Thursday: 6:30 – 10:30 PM",
+      "Friday: 6:30 PM – 2:00 AM",
+      "Saturday: 6:30 PM – 2:00 AM",
+      "Sunday: 6:30 – 10:30 PM"
     ]
   },
   "delivery": true,
@@ -183,7 +183,7 @@
   "icon_background_color": "#FF9E67",
   "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
   "international_phone_number": "+1 919-450-6351",
-  "name": "Ama\u2019Gees Jamaican Cuisine",
+  "name": "Ama’Gees Jamaican Cuisine",
   "opening_hours": {
     "open_now": true,
     "periods": [
@@ -241,11 +241,11 @@
     "weekday_text": [
       "Monday: Closed",
       "Tuesday: Closed",
-      "Wednesday: 6:30\u2009\u2013\u200910:00\u202fPM",
-      "Thursday: 6:30\u2009\u2013\u200910:30\u202fPM",
-      "Friday: 6:30\u202fPM\u2009\u2013\u20092:00\u202fAM",
-      "Saturday: 6:30\u202fPM\u2009\u2013\u20092:00\u202fAM",
-      "Sunday: 6:30\u2009\u2013\u200910:30\u202fPM"
+      "Wednesday: 6:30 – 10:00 PM",
+      "Thursday: 6:30 – 10:30 PM",
+      "Friday: 6:30 PM – 2:00 AM",
+      "Saturday: 6:30 PM – 2:00 AM",
+      "Sunday: 6:30 – 10:30 PM"
     ]
   },
   "photos": [
@@ -371,7 +371,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWD-ae7qC5gOL-bHTHA9zLllYIwR8aesnXsIx7LQzR53DW44eB6uw=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "Best Oxtail and Jerk Chicken in the world! Sauce is insanely good! So many good options with generous portions almost ordered the entire menu! This is a must have go to spot in Durham, NC. We came from Greensboro, NC and it was a million percent worth the drive! Will be coming back again to order the rest of the menu! There\u2019s nothing on the menu that will disappoint! Everything is home made with Love! Much Love\u2764\ufe0f\ud83c\udf0d",
+      "text": "Best Oxtail and Jerk Chicken in the world! Sauce is insanely good! So many good options with generous portions almost ordered the entire menu! This is a must have go to spot in Durham, NC. We came from Greensboro, NC and it was a million percent worth the drive! Will be coming back again to order the rest of the menu! There’s nothing on the menu that will disappoint! Everything is home made with Love! Much Love❤️🌍",
       "time": 1706973658,
       "translated": false
     },
@@ -395,7 +395,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIX0wjpPruySE9q50WLC8IUkbLhUV93TWnw3UJ9MkwUsQpuJU=s128-c0x00000000-cc-rp-mo",
       "rating": 5,
       "relative_time_description": "3 weeks ago",
-      "text": "Made it my mission to stop here before I headed back home an hour away as I\u2019m not in the area often. Best Jamaican food in Durham in my opinion.",
+      "text": "Made it my mission to stop here before I headed back home an hour away as I’m not in the area often. Best Jamaican food in Durham in my opinion.",
       "time": 1748829652,
       "translated": false
     }
@@ -469,11 +469,11 @@
       "weekday_text": [
         "Monday: Closed",
         "Tuesday: Closed",
-        "Wednesday: 7:00\u2009\u2013\u200910:00\u202fPM",
-        "Thursday: 7:00\u2009\u2013\u200910:00\u202fPM",
-        "Friday: 7:00\u2009\u2013\u200911:30\u202fPM",
-        "Saturday: 7:00\u2009\u2013\u200911:30\u202fPM",
-        "Sunday: 7:30\u2009\u2013\u20099:30\u202fPM"
+        "Wednesday: 7:00 – 10:00 PM",
+        "Thursday: 7:00 – 10:00 PM",
+        "Friday: 7:00 – 11:30 PM",
+        "Saturday: 7:00 – 11:30 PM",
+        "Sunday: 7:30 – 9:30 PM"
       ]
     }
   ],
@@ -496,7 +496,47 @@
   "website": "http://amagees.com/",
   "emails": [
     "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
-    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "amageesjafood@gmail.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:04:39.155370+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:39.155370+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:05.247387+00:00",
+    "outcome": "found",
+    "sources": {
+      "amageesjafood@gmail.com": [
+        "https://www.amagees.com/contact-us"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://www.amagees.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.amagees.com/contact-us",
+        "status": "ok",
+        "emails": [
+          "amageesjafood@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.amagees.com/blank",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.amagees.com/about-me",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.amagees.com/",
+      "https://www.amagees.com/contact-us",
+      "https://www.amagees.com/blank",
+      "https://www.amagees.com/about-me"
+    ]
+  }
 }

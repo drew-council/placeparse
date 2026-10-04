@@ -149,13 +149,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
       "Thursday: Closed",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
     ]
   },
   "formatted_address": "18-19 College Point Blvd, Queens, NY 11356, USA",
@@ -246,13 +246,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
       "Thursday: Closed",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
     ]
   },
   "photos": [
@@ -377,7 +377,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnCQMWO_rMmi78rABQX0RQL3IoAgAs2aVAoBpotY-i-WC6ezlW=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "2 years ago",
-      "text": "It was so fun with my bf and there were plenty of options for charms on the cream glue cases. It was a super fun experience and the open/close sign is soooooo cute.( I made sure the open sign faced the window after taking a pic)  I love my design more than my bf\u2019s. It was a Wednesday rainy night so the place felt much more hidden and no very crowded, making it very memorable. One day when I save up I\u2019ll get a tufting lesson. And the cat is cute ",
+      "text": "It was so fun with my bf and there were plenty of options for charms on the cream glue cases. It was a super fun experience and the open/close sign is soooooo cute.( I made sure the open sign faced the window after taking a pic)  I love my design more than my bf’s. It was a Wednesday rainy night so the place felt much more hidden and no very crowded, making it very memorable. One day when I save up I’ll get a tufting lesson. And the cat is cute ",
       "time": 1672894615,
       "translated": false
     },
@@ -415,5 +415,13 @@
   "user_ratings_total": 52,
   "utc_offset": -240,
   "vicinity": "18-19 College Point Blvd, Queens",
-  "business_status_checked_at": "2026-10-03T20:04:59.864113+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:59.864113+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:27.082127+00:00",
+    "outcome": "no_website",
+    "sources": {},
+    "pages": [],
+    "contact_forms": []
+  }
 }

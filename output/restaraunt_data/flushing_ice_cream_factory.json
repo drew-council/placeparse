@@ -212,7 +212,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGHV3hEVxKAvZKVH54eHmmOx8ad5TdnWdIpXGrXo8k8GAb3g=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 4,
       "relative_time_description": "a year ago",
-      "text": "The icecream tastes okay. They have a lot of unique flavors so that\u2019s a plus. It\u2019s around $7-8 for one scoop of icecream (even though it\u2019s actually 2 scoops so I don\u2019t get that part). Service is always great!!!",
+      "text": "The icecream tastes okay. They have a lot of unique flavors so that’s a plus. It’s around $7-8 for one scoop of icecream (even though it’s actually 2 scoops so I don’t get that part). Service is always great!!!",
       "time": 1705136391,
       "translated": false
     },
@@ -224,7 +224,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsvy-WDgNqoBtDtyZ-xncIJc8rgmCvyB6UzKGjEdw1Vmjl-GTnOw=s128-c0x00000000-cc-rp-mo-ba8",
       "rating": 4,
       "relative_time_description": "5 years ago",
-      "text": "They offer a wide selection of unique Asian flavors to choose from (i.e. ginger, egg tart, durian flavor, etc.).  The last time we went we got the taro, pandan and the green tea oreo.  I surprisingly did not care for the taro or pandan.  I thought the flavors had a weird chalky after taste.  I did really like the green tea oreo ice cream and was surprised how well the tea flavor and oreo bits went together.  Another favorite is the almond cookie, which I\u2019ve gotten in previous visits.  I love the bits of almond cookie mixed in for that added texture.\n\nStaff is very friendly and aren\u2019t stingy about giving out samples.  I do find the ice cream to be a little bit pricey but it\u2019s a nice treat to have on really hot days.  They are cash only but there\u2019s an atm down the hall.  Also, if you check in with Yelp you get one free topping for your ice cream.",
+      "text": "They offer a wide selection of unique Asian flavors to choose from (i.e. ginger, egg tart, durian flavor, etc.).  The last time we went we got the taro, pandan and the green tea oreo.  I surprisingly did not care for the taro or pandan.  I thought the flavors had a weird chalky after taste.  I did really like the green tea oreo ice cream and was surprised how well the tea flavor and oreo bits went together.  Another favorite is the almond cookie, which I’ve gotten in previous visits.  I love the bits of almond cookie mixed in for that added texture.\n\nStaff is very friendly and aren’t stingy about giving out samples.  I do find the ice cream to be a little bit pricey but it’s a nice treat to have on really hot days.  They are cash only but there’s an atm down the hall.  Also, if you check in with Yelp you get one free topping for your ice cream.",
       "time": 1568770191,
       "translated": false
     },
@@ -236,7 +236,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUs4Xl1qwH5vck0j0PKoOI6YvsBKvBAcpNZ8kv5hT5-9jvbHEYK=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 3,
       "relative_time_description": "a year ago",
-      "text": "Let me start off by saying the staff or portions here are not the problem. The portions are highly generous and the staff, while being less experienced, is nice. The main problem is the ice cream, it\u2019s just not that good. The range of flavors is impressive, but in NYC it takes more than just flash to stand out. The pan Dan ice cream was very sweet and the texture was slightly grainy. The almond cookie was better, but all the flavors were very flat and lacked substance.",
+      "text": "Let me start off by saying the staff or portions here are not the problem. The portions are highly generous and the staff, while being less experienced, is nice. The main problem is the ice cream, it’s just not that good. The range of flavors is impressive, but in NYC it takes more than just flash to stand out. The pan Dan ice cream was very sweet and the texture was slightly grainy. The almond cookie was better, but all the flavors were very flat and lacked substance.",
       "time": 1690750125,
       "translated": false
     }
@@ -254,5 +254,19 @@
   "vicinity": "135-15 40th Rd, Flushing",
   "website": "http://www.flushingicecreamfactory.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:08.805737+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:08.805737+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:48.839775+00:00",
+    "outcome": "incomplete_lookup",
+    "sources": {},
+    "pages": [
+      {
+        "url": "http://www.flushingicecreamfactory.com/",
+        "status": "robots_disallowed",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

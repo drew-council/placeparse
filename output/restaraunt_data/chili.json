@@ -162,13 +162,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:45\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:45\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:45\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:15\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:15\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:15\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:45\u202fPM"
+      "Monday: 11:00 AM – 9:45 PM",
+      "Tuesday: 11:00 AM – 9:45 PM",
+      "Wednesday: 11:00 AM – 9:45 PM",
+      "Thursday: 11:00 AM – 10:15 PM",
+      "Friday: 11:00 AM – 10:15 PM",
+      "Saturday: 11:00 AM – 10:15 PM",
+      "Sunday: 11:00 AM – 9:45 PM"
     ]
   },
   "delivery": true,
@@ -275,13 +275,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:45\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:45\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:45\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:15\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u200910:15\u202fPM",
-      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:15\u202fPM",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:45\u202fPM"
+      "Monday: 11:00 AM – 9:45 PM",
+      "Tuesday: 11:00 AM – 9:45 PM",
+      "Wednesday: 11:00 AM – 9:45 PM",
+      "Thursday: 11:00 AM – 10:15 PM",
+      "Friday: 11:00 AM – 10:15 PM",
+      "Saturday: 11:00 AM – 10:15 PM",
+      "Sunday: 11:00 AM – 9:45 PM"
     ]
   },
   "photos": [
@@ -384,7 +384,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrc1ZCjKws0zl9EttRH48L7HSM64maa1l_NbdH0AYSla4_3Q7l=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "2 weeks ago",
-      "text": "Had a great dinner here. All the dishes were very yummy. The food arrived quickly after ordering. Both dumpling dishes were great! The spicy lamb dish was hot and spicy \ud83e\udd75. Enjoyed the duck fried rice as well, could have used some more meat tho. Restaurant and music were very loud during dinner service.",
+      "text": "Had a great dinner here. All the dishes were very yummy. The food arrived quickly after ordering. Both dumpling dishes were great! The spicy lamb dish was hot and spicy 🥵. Enjoyed the duck fried rice as well, could have used some more meat tho. Restaurant and music were very loud during dinner service.",
       "time": 1749433432,
       "translated": false
     },
@@ -396,7 +396,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqwhAhWGzklWa51BtHksx4lmu5uwp5DIGmoornKkZtV6eoDQh4=s128-c0x00000000-cc-rp-mo-ba2",
       "rating": 5,
       "relative_time_description": "2 months ago",
-      "text": "I would highly recommend their food and cocktails. My friend and I had an amazingly delicious dinner though we greatly underestimated its portion sizes. My favorites were the spare ribs and spicy mushroom dish.\n\nThe staff were very attentive, quick to give us spare utensils when we dropped it and swift with other accommodations despite the restaurant being packed.\n\n10/10 recommend, would definitely come here again \ud83e\udd17",
+      "text": "I would highly recommend their food and cocktails. My friend and I had an amazingly delicious dinner though we greatly underestimated its portion sizes. My favorites were the spare ribs and spicy mushroom dish.\n\nThe staff were very attentive, quick to give us spare utensils when we dropped it and swift with other accommodations despite the restaurant being packed.\n\n10/10 recommend, would definitely come here again 🤗",
       "time": 1743883489,
       "translated": false
     },
@@ -408,19 +408,19 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIX6vCj_Y_b5NeqXGw8LHJ867WqiJLsygL2_HsjqVoDhUltww=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 4,
       "relative_time_description": "3 months ago",
-      "text": "I\u2019d definitely go back and would recommend to friends. We went as a large group but I think you could go with a small group as though but should definitely at family style. I didn\u2019t find anything super spicy unless I ate straight pepper. The purple rice, fried rice, and sweet maybe gel potato noodles were less popular. The scallion pancake, beef pancake wrap, spicy chicken something, and lamb with onion were all very popular.",
+      "text": "I’d definitely go back and would recommend to friends. We went as a large group but I think you could go with a small group as though but should definitely at family style. I didn’t find anything super spicy unless I ate straight pepper. The purple rice, fried rice, and sweet maybe gel potato noodles were less popular. The scallion pancake, beef pancake wrap, spicy chicken something, and lamb with onion were all very popular.",
       "time": 1742775087,
       "translated": false
     },
     {
-      "author_name": "Howard \u201cHowie\u201d Tran",
+      "author_name": "Howard “Howie” Tran",
       "author_url": "https://www.google.com/maps/contrib/102282366062470933320/reviews",
       "language": "en",
       "original_language": "en",
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVuYn2ebn2P-2SpxzoUqwP98gSHMjUsctueP-LCJ-jf5mcMx6l=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "3 months ago",
-      "text": "Overall a great dining experience!\nWe ate mostly off the dim sum menu and everything was delicious.\n\nWe had:\nPork Soup Dumplings - amazingly delicious, savory, juicy dumpling served with a tangy vinegar & ginger sauce.\nBeef pancake wrap - savory flakey crust surrounding tinder juicy beef, with fresh scallions & cilantro.\nDan Dan Noodles - spicy noodles with sesame paste& minced pork. My kids especially liked it but it does have a slight spicy kick but not strong. Beware this one is oily, it was crunched in oil, see my pictures.\nPork Pot Stickers - these were very flavorful & cooked to perfection, nice juicy dumplings with a slight crunch in the bottom.\nScallion Pancake  - flakey & soft, flavorful with a tasty dipping sauce. Tasted like the wrap on the Beef pancake wrap.\nEgg Yolk Buns - steamed delicious soft black bread with a juicy combination of egg yolk, butter and sugar. Be careful how you eat this one or you\u2019ll get the liquid hot insides squirting all over your evening frock \ud83d\ude06\n*the above are all dim sum sized portions, small in size but big in flavor.\n\nWe shared a chocolate mousse for dessert, which was chocolate creamy deliciousness covered in shaved chocolate but with a denser frozen white cream in the center. Not your traditional chocolate mousse center but still very delicious (see pictures).\n\nI had the \u201cMisty Rain\u201d cocktail, which is a mixture of flavorful gin, longing tea & pear syrup. It was a refreshingly delicious well balanced simple tasting, lightly sweet drink that I would recommend. Be aware though that it is not served in the style of glass pictured in their drink menu  illustration. The picture shows it being served in a standard 8oz acopa cocktail glass, but it was actually served in a 4 oz tea cup. I would have preferred the glass they have pictured on their drink menu.\n\nNext time we\u2019re going to try more of the main entree dishes from the menu. We saw others enjoying what looked like really delicious food. We headed to a music show & my kids wanted a lite meal and could not resist ordering all the dim sum dishes.\n\nTips: we were a group of 3 and if you have less than 4 people you aren\u2019t able to get a reservation after 4:30pm. So we ate at 4:30pm. It was a bit early, next time we\u2019ll invite someone to join us & get a later reservation.\n\nThe food was reasonably priced for the area. We paid $127.61 including tax & tip for the food & drinks I listed (see picture of receipt for more details).\n\nI would definitely recommend this place for your next meal. The service was prompt & on point, and the decor was 1930s China, a beautiful eclectic mix.",
+      "text": "Overall a great dining experience!\nWe ate mostly off the dim sum menu and everything was delicious.\n\nWe had:\nPork Soup Dumplings - amazingly delicious, savory, juicy dumpling served with a tangy vinegar & ginger sauce.\nBeef pancake wrap - savory flakey crust surrounding tinder juicy beef, with fresh scallions & cilantro.\nDan Dan Noodles - spicy noodles with sesame paste& minced pork. My kids especially liked it but it does have a slight spicy kick but not strong. Beware this one is oily, it was crunched in oil, see my pictures.\nPork Pot Stickers - these were very flavorful & cooked to perfection, nice juicy dumplings with a slight crunch in the bottom.\nScallion Pancake  - flakey & soft, flavorful with a tasty dipping sauce. Tasted like the wrap on the Beef pancake wrap.\nEgg Yolk Buns - steamed delicious soft black bread with a juicy combination of egg yolk, butter and sugar. Be careful how you eat this one or you’ll get the liquid hot insides squirting all over your evening frock 😆\n*the above are all dim sum sized portions, small in size but big in flavor.\n\nWe shared a chocolate mousse for dessert, which was chocolate creamy deliciousness covered in shaved chocolate but with a denser frozen white cream in the center. Not your traditional chocolate mousse center but still very delicious (see pictures).\n\nI had the “Misty Rain” cocktail, which is a mixture of flavorful gin, longing tea & pear syrup. It was a refreshingly delicious well balanced simple tasting, lightly sweet drink that I would recommend. Be aware though that it is not served in the style of glass pictured in their drink menu  illustration. The picture shows it being served in a standard 8oz acopa cocktail glass, but it was actually served in a 4 oz tea cup. I would have preferred the glass they have pictured on their drink menu.\n\nNext time we’re going to try more of the main entree dishes from the menu. We saw others enjoying what looked like really delicious food. We headed to a music show & my kids wanted a lite meal and could not resist ordering all the dim sum dishes.\n\nTips: we were a group of 3 and if you have less than 4 people you aren’t able to get a reservation after 4:30pm. So we ate at 4:30pm. It was a bit early, next time we’ll invite someone to join us & get a later reservation.\n\nThe food was reasonably priced for the area. We paid $127.61 including tax & tip for the food & drinks I listed (see picture of receipt for more details).\n\nI would definitely recommend this place for your next meal. The service was prompt & on point, and the decor was 1930s China, a beautiful eclectic mix.",
       "time": 1741612729,
       "translated": false
     },
@@ -432,7 +432,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSTNSs_xcjbbSl5gD1W38-xtxFROGEo4r3Z0n6BpnEqv1iaRYf=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 4,
       "relative_time_description": "3 months ago",
-      "text": "The beef soup is pretty good, but other dishes are okay. Service is okay. The food is a bit spicy. If you don\u2019t have spicy very often, ask for less spicy.",
+      "text": "The beef soup is pretty good, but other dishes are okay. Service is okay. The food is a bit spicy. If you don’t have spicy very often, ask for less spicy.",
       "time": 1741901334,
       "translated": false
     }
@@ -458,8 +458,40 @@
   "vicinity": "13 E 37th St, New York",
   "website": "https://www.chilinyc.com/",
   "emails": [
-    "operation@chilinyc.com",
-    "email@example.com"
+    "email@example.com",
+    "operation@chilinyc.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:04:54.941741+00:00"
+  "business_status_checked_at": "2026-10-03T20:04:54.941741+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:48:22.650798+00:00",
+    "outcome": "found",
+    "sources": {
+      "operation@chilinyc.com": [
+        "https://chilinyc.com/",
+        "https://chilinyc.com/new-york-midtown-manhattan-chili-about"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://chilinyc.com/",
+        "status": "ok",
+        "emails": [
+          "operation@chilinyc.com"
+        ]
+      },
+      {
+        "url": "https://chilinyc.com/new-york-midtown-manhattan-chili-about",
+        "status": "ok",
+        "emails": [
+          "operation@chilinyc.com"
+        ]
+      },
+      {
+        "url": "https://chilinyc.com/new-york-midtown-manhattan-chili-events",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": []
+  }
 }

@@ -149,13 +149,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
       "Saturday: Closed",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "delivery": true,
@@ -248,13 +248,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
       "Saturday: Closed",
-      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      "Sunday: 11:00 AM – 9:00 PM"
     ]
   },
   "photos": [
@@ -368,7 +368,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjHaW6kP_uSCK2x6lr0stG6hH_6fuJFquZquCSbSfJyitrgLYZVQ=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "2 years ago",
-      "text": "One of the best pastas I\u2019ve ever tasted! And I\u2019ve been to Italy!\n\nSo Friendly and so great that you don\u2019t have to go to a pretentious Italian restaurant to get quality food.\n\nLove you guys",
+      "text": "One of the best pastas I’ve ever tasted! And I’ve been to Italy!\n\nSo Friendly and so great that you don’t have to go to a pretentious Italian restaurant to get quality food.\n\nLove you guys",
       "time": 1686314907,
       "translated": false
     },
@@ -380,7 +380,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXj_x7ARt5fy8FQURzkmezHRf4v6oEqx360yoTyzKzk2YqRAFBq=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 5,
       "relative_time_description": "7 months ago",
-      "text": "Great solid food. Most importantly, it\u2019s consistent. You won\u2019t get a bad meal one day and a good one another day. They have their sauces down, perfectly seasoned and cooked to achieve that velvety texture. I love how the dishes are customizable. For example, I was able to remove prosciutto from my sauce in the options. I don\u2019t eat pork so this was huge for me! Lena has great people working in the kitchen, and I\u2019ve never physically been here (I order out), but I can tell it\u2019s made with love. If I\u2019m ever in the mood for pasta, I know I can get it from here and it\u2019ll be good, so thank you!!",
+      "text": "Great solid food. Most importantly, it’s consistent. You won’t get a bad meal one day and a good one another day. They have their sauces down, perfectly seasoned and cooked to achieve that velvety texture. I love how the dishes are customizable. For example, I was able to remove prosciutto from my sauce in the options. I don’t eat pork so this was huge for me! Lena has great people working in the kitchen, and I’ve never physically been here (I order out), but I can tell it’s made with love. If I’m ever in the mood for pasta, I know I can get it from here and it’ll be good, so thank you!!",
       "time": 1730538270,
       "translated": false
     },
@@ -392,7 +392,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuIrG96PYZmmMOL6eolayz2BJ6jmzxO6T1TyVxHDfCE7rtTotQ=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "Delicious Italian food that\u2019s casual and quick service. The menu provided a good number of options and portions were very generous (for reference, we couldn\u2019t finish one pasta dish each). Prices were higher than we thought but very worth it at the end. Highly recommend anyone looking for a quick dinner or lunch!",
+      "text": "Delicious Italian food that’s casual and quick service. The menu provided a good number of options and portions were very generous (for reference, we couldn’t finish one pasta dish each). Prices were higher than we thought but very worth it at the end. Highly recommend anyone looking for a quick dinner or lunch!",
       "time": 1693368828,
       "translated": false
     },
@@ -404,7 +404,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKeylTDfKWYfLSx4aeVziEYCy7fQEKilfWUo_9Q3IpV0Y0zbRz=s128-c0x00000000-cc-rp-mo-ba5",
       "rating": 5,
       "relative_time_description": "2 years ago",
-      "text": "I decided to try this restaurant because I love Italian food and it's named after \"me\" haha \ud83d\ude04 jk. It was delicious, I will order again and I do recommend. The only thing that I don't really like is that in order to place a direct order through their website you must create an account and provide all your information. Check out as guest should be an option.",
+      "text": "I decided to try this restaurant because I love Italian food and it's named after \"me\" haha 😄 jk. It was delicious, I will order again and I do recommend. The only thing that I don't really like is that in order to place a direct order through their website you must create an account and provide all your information. Check out as guest should be an option.",
       "time": 1677390375,
       "translated": false
     }
@@ -425,5 +425,43 @@
   "vicinity": "1167 2nd Ave, New York",
   "website": "https://www.lenasitaliankitchen.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:32.188178+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:32.188178+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:16.054983+00:00",
+    "outcome": "contact_form_only",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://www.lenasitaliankitchen.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.lenasitaliankitchen.com/contact-us/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.lenasitaliankitchen.com/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.lenasitaliankitchen.com/contact-us/",
+        "status": "browser_ok",
+        "emails": []
+      },
+      {
+        "url": "https://www.lenasitaliankitchen.com/contact-us/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://www.lenasitaliankitchen.com/contact-us/"
+    ],
+    "browser_checked_at": "2026-10-03T22:09:42.148308+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

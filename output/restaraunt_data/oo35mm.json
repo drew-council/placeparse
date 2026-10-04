@@ -161,13 +161,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      "Monday: 10:00 AM – 7:00 PM",
+      "Tuesday: 10:00 AM – 7:00 PM",
+      "Wednesday: 10:00 AM – 7:00 PM",
+      "Thursday: 10:00 AM – 7:00 PM",
+      "Friday: 10:00 AM – 7:00 PM",
+      "Saturday: 10:00 AM – 7:00 PM",
+      "Sunday: 10:00 AM – 7:00 PM"
     ]
   },
   "delivery": true,
@@ -269,13 +269,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Tuesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Thursday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Friday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "Sunday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      "Monday: 10:00 AM – 7:00 PM",
+      "Tuesday: 10:00 AM – 7:00 PM",
+      "Wednesday: 10:00 AM – 7:00 PM",
+      "Thursday: 10:00 AM – 7:00 PM",
+      "Friday: 10:00 AM – 7:00 PM",
+      "Saturday: 10:00 AM – 7:00 PM",
+      "Sunday: 10:00 AM – 7:00 PM"
     ]
   },
   "photos": [
@@ -376,7 +376,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWK7ZjFsQnj--7BFVc3uTjG-tmZStfPMpNxf2PYdm6S0Jqu7XW=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "2 months ago",
-      "text": "This place is really nice with tons of skincare products available, the workers were very nice and helped me with picking out skincare products and giving my advice along with what the products can help target. It is quite tiny though, so there\u2019s a limit of people at a time inside. I got 3 things an oil cleanser, these cleaning pads, a serum to help with dark spots which ringed me up for a total of around $66. Then again a lot cheaper than shopping online as they threw in a 3 samples of other skincare products.",
+      "text": "This place is really nice with tons of skincare products available, the workers were very nice and helped me with picking out skincare products and giving my advice along with what the products can help target. It is quite tiny though, so there’s a limit of people at a time inside. I got 3 things an oil cleanser, these cleaning pads, a serum to help with dark spots which ringed me up for a total of around $66. Then again a lot cheaper than shopping online as they threw in a 3 samples of other skincare products.",
       "time": 1744684316,
       "translated": false
     },
@@ -441,7 +441,56 @@
   "website": "http://www.sentisenti.com/",
   "wheelchair_accessible_entrance": false,
   "emails": [
-    "user@gmail.com"
+    "user@gmail.com",
+    "wholesale@sentisenti.com"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:50.627343+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:50.627343+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:37.915640+00:00",
+    "outcome": "found",
+    "sources": {
+      "wholesale@sentisenti.com": [
+        "https://sentisenti.com/pages/contact",
+        "https://sentisenti.com/pages/faq"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://sentisenti.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://sentisenti.com/pages/contact",
+        "status": "ok",
+        "emails": [
+          "wholesale@sentisenti.com"
+        ]
+      },
+      {
+        "url": "https://sentisenti.com/pages/faq",
+        "status": "ok",
+        "emails": [
+          "wholesale@sentisenti.com"
+        ]
+      },
+      {
+        "url": "https://sentisenti.com/pages/about",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://sentisenti.com/pages/careers",
+        "status": "ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [
+      "https://sentisenti.com/",
+      "https://sentisenti.com/pages/contact",
+      "https://sentisenti.com/pages/faq",
+      "https://sentisenti.com/pages/about",
+      "https://sentisenti.com/pages/careers"
+    ]
+  }
 }

@@ -154,13 +154,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
-      "Tuesday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
-      "Wednesday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
-      "Thursday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
-      "Friday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
-      "Saturday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
-      "Sunday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM"
+      "Monday: 10:30 AM – 8:45 PM",
+      "Tuesday: 10:30 AM – 8:45 PM",
+      "Wednesday: 10:30 AM – 8:45 PM",
+      "Thursday: 10:30 AM – 8:45 PM",
+      "Friday: 10:30 AM – 8:45 PM",
+      "Saturday: 10:30 AM – 8:45 PM",
+      "Sunday: 10:30 AM – 8:45 PM"
     ]
   },
   "delivery": true,
@@ -267,13 +267,13 @@
       }
     ],
     "weekday_text": [
-      "Monday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
-      "Tuesday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
-      "Wednesday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
-      "Thursday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
-      "Friday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
-      "Saturday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
-      "Sunday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM"
+      "Monday: 10:30 AM – 8:45 PM",
+      "Tuesday: 10:30 AM – 8:45 PM",
+      "Wednesday: 10:30 AM – 8:45 PM",
+      "Thursday: 10:30 AM – 8:45 PM",
+      "Friday: 10:30 AM – 8:45 PM",
+      "Saturday: 10:30 AM – 8:45 PM",
+      "Sunday: 10:30 AM – 8:45 PM"
     ]
   },
   "photos": [
@@ -388,7 +388,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXC2joyZjO63thwWCM292HyIQXrNN1AdAT6F5ACWQbkqX2FY3M_=s128-c0x00000000-cc-rp-mo-ba3",
       "rating": 4,
       "relative_time_description": "3 weeks ago",
-      "text": "Very simple but delicious, recommended by a chef friend. Soup dumplings are perfect but take a lot of time to prep. The hand pulled noodles are superb, you need to make sure to specify that you want them, otherwise you get hand cut (which are good but are basic lo mein style noodles). Ramen broth is amazing, but very cilantro heavy so if you don\u2019t like cilantro, avoid it! Service was fine, atmosphere wasn\u2019t anything special. Would totally go back.",
+      "text": "Very simple but delicious, recommended by a chef friend. Soup dumplings are perfect but take a lot of time to prep. The hand pulled noodles are superb, you need to make sure to specify that you want them, otherwise you get hand cut (which are good but are basic lo mein style noodles). Ramen broth is amazing, but very cilantro heavy so if you don’t like cilantro, avoid it! Service was fine, atmosphere wasn’t anything special. Would totally go back.",
       "time": 1749256361,
       "translated": false
     },
@@ -412,7 +412,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfM4WFzncCUNgqi2gQAdP-30tGf4x3B_1ZD86hmGVN9vTxVEPCmw=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 3,
       "relative_time_description": "4 months ago",
-      "text": "[UBER EATS ORDER]\n- Dumplings were alright, very doughy. Wish there was a bit more umph to them. The sauce was literally vinegar and soya, did not feel super inventive\n- the assorted family pack of dumplings were better than the plain pork ones (those were less exciting)\n- scallion pancake was dry / oily, maybe that\u2019s how it\u2019s meant to be\n- The boba had very very very hard tapioca. I was not a huge fan\n\nThey may be better in person. 12 dumplings, boba, scallion pancakes were ~$45-55 which felt high for me (granted some uber fees)",
+      "text": "[UBER EATS ORDER]\n- Dumplings were alright, very doughy. Wish there was a bit more umph to them. The sauce was literally vinegar and soya, did not feel super inventive\n- the assorted family pack of dumplings were better than the plain pork ones (those were less exciting)\n- scallion pancake was dry / oily, maybe that’s how it’s meant to be\n- The boba had very very very hard tapioca. I was not a huge fan\n\nThey may be better in person. 12 dumplings, boba, scallion pancakes were ~$45-55 which felt high for me (granted some uber fees)",
       "time": 1738295528,
       "translated": false
     },
@@ -447,5 +447,26 @@
   "vicinity": "146 E 55th St, New York",
   "website": "https://kungfutogo.com/",
   "wheelchair_accessible_entrance": true,
-  "business_status_checked_at": "2026-10-03T20:05:29.158225+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:29.158225+00:00",
+  "emails": [],
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:12.977149+00:00",
+    "outcome": "not_found_on_checked_pages",
+    "sources": {},
+    "pages": [
+      {
+        "url": "https://kungfutogo.com/",
+        "status": "ok",
+        "emails": []
+      },
+      {
+        "url": "https://kungfutogo.com/",
+        "status": "browser_ok",
+        "emails": []
+      }
+    ],
+    "contact_forms": [],
+    "browser_checked_at": "2026-10-03T22:09:31.778425+00:00",
+    "browser_outcome": "not_found_on_rendered_pages"
+  }
 }

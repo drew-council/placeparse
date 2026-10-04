@@ -157,12 +157,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 5:30\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 5:30\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 5:30\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 5:30\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 5:30 – 11:00 PM",
+      "Wednesday: 5:30 – 11:00 PM",
+      "Thursday: 5:30 PM – 12:00 AM",
+      "Friday: 5:30 PM – 1:00 AM",
+      "Saturday: 5:30 PM – 1:00 AM",
+      "Sunday: 5:30 – 10:00 PM"
     ]
   },
   "delivery": true,
@@ -260,12 +260,12 @@
     ],
     "weekday_text": [
       "Monday: Closed",
-      "Tuesday: 5:30\u2009\u2013\u200911:00\u202fPM",
-      "Wednesday: 5:30\u2009\u2013\u200911:00\u202fPM",
-      "Thursday: 5:30\u202fPM\u2009\u2013\u200912:00\u202fAM",
-      "Friday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Saturday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-      "Sunday: 5:30\u2009\u2013\u200910:00\u202fPM"
+      "Tuesday: 5:30 – 11:00 PM",
+      "Wednesday: 5:30 – 11:00 PM",
+      "Thursday: 5:30 PM – 12:00 AM",
+      "Friday: 5:30 PM – 1:00 AM",
+      "Saturday: 5:30 PM – 1:00 AM",
+      "Sunday: 5:30 – 10:00 PM"
     ]
   },
   "photos": [
@@ -336,7 +336,7 @@
     {
       "height": 3024,
       "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/100810740597924350910\">\uc720\ud61c\uc8fc</a>"
+        "<a href=\"https://maps.google.com/maps/contrib/100810740597924350910\">유혜주</a>"
       ],
       "photo_reference": "ATKogpdtMko8JtJ8kAoIRfFyBIeIHBWnJkdPy12dTB6QzXw2WY6qnQSPAJrD2wREh5sc8XYRwN4P7GOOYJ-3buc6wIwJEbwxax_FZ0mJUQqVAaT11L6JlsFmRCcMhwFXxVaM8t8b2CGnTG7Ct-9Xja3iGKx2mDxrMouBTdjRMca1R5B8ViE3wG9EPoE7RhBP-5CPKLFKPlfXtdhdWtmDE5hWijcOXv2YOlLAN7FeTaym_VRvY1K4jWB6i5PVIW1M6yeIRJXg7yeE24FyuQy0XpmOskCtEVYE8gMWpTVjJXz9ducxeQBpv6ACchvnwCzqUsozcU8-INmDKfZc_gfC7vJlNYmaNPGJ39zezdcyF4JU8Y94f81aBI7KKpxTeAx2y55NTjgaBFB5vnyoQFwoRQKxFkRVbDUkIS3waXAjYpRjZl08oUW4",
       "width": 3024
@@ -368,7 +368,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaJEfhETSx5bmeRDJJSmoC8flgYSA-GMyqvPVF1CIjLZn1Wg=s128-c0x00000000-cc-rp-mo",
       "rating": 1,
       "relative_time_description": "4 months ago",
-      "text": "Seriously it\u2019s the worst Japanese food I have ever had! And also the worst omakase experience! They don\u2019t know what omakase means? They serve horrible food during the restaurant week! I have never given bad reviews like this in my whole life, but this time I can\u2019t bear with it anymore! Except for the appetizers, all the other dishes are absolutely horrible, the beef tartar has so much tender that you can\u2019t chew or swallow, the cod has weird texture and taste, it\u2019s probably not fresh, and the last dish was a weird lamb pasta, the pasta was huge and all stuck together, also they only give the chopsticks which were not able to pick up pasta, and the lamb has a weird\u2026 at last the dessert\u2026 I can\u2019t even describe my disappointment when I had the first bite! One of the worst restaurant experience\u2026",
+      "text": "Seriously it’s the worst Japanese food I have ever had! And also the worst omakase experience! They don’t know what omakase means? They serve horrible food during the restaurant week! I have never given bad reviews like this in my whole life, but this time I can’t bear with it anymore! Except for the appetizers, all the other dishes are absolutely horrible, the beef tartar has so much tender that you can’t chew or swallow, the cod has weird texture and taste, it’s probably not fresh, and the last dish was a weird lamb pasta, the pasta was huge and all stuck together, also they only give the chopsticks which were not able to pick up pasta, and the lamb has a weird… at last the dessert… I can’t even describe my disappointment when I had the first bite! One of the worst restaurant experience…",
       "time": 1738207592,
       "translated": false
     },
@@ -404,7 +404,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURwFcrHzw8wmnPsRL0j7aSBj8iM---QlsBzxWuQlTS4c13NtKq=s128-c0x00000000-cc-rp-mo-ba6",
       "rating": 5,
       "relative_time_description": "2 years ago",
-      "text": "What a love love lovely place. I was impressed by the dishes here. Mean to try their restaurant week menu, but we were told they were not serving the set on weekends. Initially, I was a little bit upset since they didn\u2019t mentioned it anywhere online. However, they caught my heart back after the night.. and I think they are a small team..\n\nYou could tell how the chef cared about each dish, with creative flavors. They seemed familiar but always had a twist, making it new.\n\n\u2764\ufe0f\u200d\ud83d\udd25Highly recommend the rabbit! The menu changes each season but I believe it will always be tasty.\n\nThe cold udon was delicious as well, the duck was cooked perfectly.",
+      "text": "What a love love lovely place. I was impressed by the dishes here. Mean to try their restaurant week menu, but we were told they were not serving the set on weekends. Initially, I was a little bit upset since they didn’t mentioned it anywhere online. However, they caught my heart back after the night.. and I think they are a small team..\n\nYou could tell how the chef cared about each dish, with creative flavors. They seemed familiar but always had a twist, making it new.\n\n❤️‍🔥Highly recommend the rabbit! The menu changes each season but I believe it will always be tasty.\n\nThe cold udon was delicious as well, the duck was cooked perfectly.",
       "time": 1661232991,
       "translated": false
     },
@@ -416,7 +416,7 @@
       "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6VR27wBwHo9kqWjsCBbkrkdoOl0Y-1xIKk_6OAuJ2nNBDqGU=s128-c0x00000000-cc-rp-mo-ba4",
       "rating": 5,
       "relative_time_description": "a year ago",
-      "text": "Me and my partner came here on a weekday( with reservations). We had the 6 course omakase with a wine pairing. We were first served the 3 snacks which came with oyster, foie gras and an egg thing! I loved the presentation, however it was not my favorite only because I don\u2019t like oyster or foie gras in general but I can see why some people like it! Second course was the wagyu tartar with bread! Absolutely loved it, the wagyu was so tender and with the crunchiness of the bread it was the perfect pairing. Third course was cod with calm broth, I love fish so it was one of my favorite courses. The broth part was just a tad bit salty but still good nonetheless. Fourth course was corn bread with rabbit and shimeji mushrooms. First time trying rabbit and it was super good and tender, the mushroom with it added an umami flavor. Fifth course was the lamb parpadelle, lamb was tender and flavorful (no gamey flavor either!) and I love the bouncy texture of the pasta too! Last course was the dessert which was the matcha, I don\u2019t prefer the taste of matcha however my partner really liked it! Overall I had a good experience, loved the ambience and choice of music!",
+      "text": "Me and my partner came here on a weekday( with reservations). We had the 6 course omakase with a wine pairing. We were first served the 3 snacks which came with oyster, foie gras and an egg thing! I loved the presentation, however it was not my favorite only because I don’t like oyster or foie gras in general but I can see why some people like it! Second course was the wagyu tartar with bread! Absolutely loved it, the wagyu was so tender and with the crunchiness of the bread it was the perfect pairing. Third course was cod with calm broth, I love fish so it was one of my favorite courses. The broth part was just a tad bit salty but still good nonetheless. Fourth course was corn bread with rabbit and shimeji mushrooms. First time trying rabbit and it was super good and tender, the mushroom with it added an umami flavor. Fifth course was the lamb parpadelle, lamb was tender and flavorful (no gamey flavor either!) and I love the bouncy texture of the pasta too! Last course was the dessert which was the matcha, I don’t prefer the taste of matcha however my partner really liked it! Overall I had a good experience, loved the ambience and choice of music!",
       "time": 1708660156,
       "translated": false
     }
@@ -501,12 +501,12 @@
       "type": "HAPPY_HOUR",
       "weekday_text": [
         "Monday: Closed",
-        "Tuesday: 5:30\u2009\u2013\u20097:00\u202fPM",
-        "Wednesday: 5:30\u2009\u2013\u200911:00\u202fPM",
-        "Thursday: 5:30\u2009\u2013\u20097:00\u202fPM",
-        "Friday: 5:30\u2009\u2013\u20097:00\u202fPM",
-        "Saturday: 5:30\u2009\u2013\u20097:00\u202fPM",
-        "Sunday: 5:30\u2009\u2013\u200910:00\u202fPM"
+        "Tuesday: 5:30 – 7:00 PM",
+        "Wednesday: 5:30 – 11:00 PM",
+        "Thursday: 5:30 – 7:00 PM",
+        "Friday: 5:30 – 7:00 PM",
+        "Saturday: 5:30 – 7:00 PM",
+        "Sunday: 5:30 – 10:00 PM"
       ]
     }
   ],
@@ -532,5 +532,32 @@
   "emails": [
     "info@rabbithouse.nyc"
   ],
-  "business_status_checked_at": "2026-10-03T20:05:57.859708+00:00"
+  "business_status_checked_at": "2026-10-03T20:05:57.859708+00:00",
+  "email_discovery": {
+    "checked_at": "2026-10-03T21:49:48.146021+00:00",
+    "outcome": "found",
+    "sources": {
+      "info@rabbithouse.nyc": [
+        "https://rabbithouse.nyc/",
+        "https://rabbithouse.nyc/chef-owner-yoshiko-sakuma/"
+      ]
+    },
+    "pages": [
+      {
+        "url": "https://rabbithouse.nyc/",
+        "status": "ok",
+        "emails": [
+          "info@rabbithouse.nyc"
+        ]
+      },
+      {
+        "url": "https://rabbithouse.nyc/chef-owner-yoshiko-sakuma/",
+        "status": "ok",
+        "emails": [
+          "info@rabbithouse.nyc"
+        ]
+      }
+    ],
+    "contact_forms": []
+  }
 }
