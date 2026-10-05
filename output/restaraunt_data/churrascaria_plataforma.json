@@ -549,5 +549,58 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:25:18.171386+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://miltiadisleptourgospe.com/civil-structural/churrascaria-plataforma",
+        "title": "Churrascaria Plataforma | Miltiadis Leptourgos P.E.",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/churrascaria-plataforma-brazilian-steakhouse/",
+        "title": "Churrascaria Plataforma Brazilian Steakhouse",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Churrascaria Plataforma\"  New York,  NY 10019 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://miltiadisleptourgospe.com/civil-structural/churrascaria-plataforma",
+          "https://www.facebook.com/churrascariaplataformany/",
+          "https://rocketreach.co/churrascaria-plataforma-profile_b451b9c7fc70abcd",
+          "https://plataformaonline.com/group-dining-new-york/",
+          "https://www.nyctourism.com/restaurants/churrascaria-plataforma-brazilian-steakhouse/",
+          "https://www.yelp.com/biz/churrascaria-plataforma-new-york-3?rh_count=3&rh_start=0&start=220&ylist=hungry-eat-here-new-york",
+          "https://leadiq.com/c/churrascaria-plataforma/5a1d9c6123000052008c0bba/email-format",
+          "https://ny.eater.com/venue/63313/churrascaria-plataforma",
+          "https://www.zoominfo.com/pic/churrascaria-plataforma/8093768"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "zilt35@aol.com",
+        "url": "https://miltiadisleptourgospe.com/civil-structural/churrascaria-plataforma",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/churrascariaplataformany/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

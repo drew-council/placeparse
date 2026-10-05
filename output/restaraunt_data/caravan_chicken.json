@@ -429,5 +429,66 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:50:44.780939+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://caravan-chicken.res-menubox.com/",
+        "title": "res-menubox.com | 522: Connection timed out",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.yellowpages.com/astoria-ny/mip/caravan-chicken-inc-3602443",
+        "title": "Caravan Chicken Inc - Astoria, NY 11106",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.buzzfile.com/business/Caravan-Chicken,-Inc.-718-545-3980",
+        "title": "Caravan Chicken Company Profile -Sales, Contacts, Competitors – Buzzfile",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.manta.com/c/mmfs7b3/caravan-chicken",
+        "title": "Caravan Chicken - Astoria, NY - Restaurant in Astoria, New York",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Caravan Chicken\"  Astoria,  NY 11106 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://caravan-chicken.res-menubox.com/",
+          "https://www.dnb.com/business-directory/company-profiles.caravan_chicken_inc.1f75b998b4bd78fc667ada9fc86b25e7.html",
+          "https://www.yelp.com/biz/caravan-chicken-astoria",
+          "https://www.yellowpages.com/astoria-ny/mip/caravan-chicken-inc-3602443",
+          "https://www.buzzfile.com/business/Caravan-Chicken,-Inc.-718-545-3980",
+          "https://www.manta.com/c/mmfs7b3/caravan-chicken",
+          "https://www.restaurantji.com/ny/queens/caravan-/",
+          "https://local.yahoo.com/info-11305620-caravan-chicken-astoria/",
+          "https://citysquares.com/b/caravan-chicken-inc-2569400",
+          "https://opengovny.com/corporation/2087901"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://www.dnb.com/business-directory/company-profiles.caravan_chicken_inc.1f75b998b4bd78fc667ada9fc86b25e7.html",
+        "status": "browser_challenge_or_unavailable"
+      }
+    ],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "info@buzzfile.com",
+        "url": "https://www.buzzfile.com/business/Caravan-Chicken,-Inc.-718-545-3980",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": []
   }
 }

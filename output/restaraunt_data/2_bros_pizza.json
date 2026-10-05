@@ -512,5 +512,53 @@
     ],
     "browser_checked_at": "2026-10-03T22:07:07.163683+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.2brospizza.com/contact/",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact - 2 Bros. Pizza",
+          "labels": [
+            "leave this field blank\n            \n        ",
+            "NAME*",
+            "EMAIL*",
+            "PHONE NUMBER",
+            "WHAT ARE YOU GETTING IN TOUCH ABOUT?\n ",
+            "REASON",
+            "YOUR MESSAGE",
+            "SIGN UP FOR EMAIL UPDATES",
+            ""
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:29:44.453056+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:29:44.453275+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.2brospizza.com/contact/",
+        "title": "Contact - 2 Bros. Pizza",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/2-Bros-1-Pizza-198472690165223/",
+        "source": "https://www.2brospizza.com/contact/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

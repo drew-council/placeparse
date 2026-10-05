@@ -506,5 +506,56 @@
     ],
     "browser_checked_at": "2026-10-03T22:11:53.721236+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.tonchinus.com/contact-us",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact Us",
+          "labels": [
+            "NAME Name",
+            "EMAIL ADDRESS Email Address",
+            "Location\nNew York\nBrooklyn\nLos Angeles\nMexico City",
+            "How can we help?\nGeneral Inquiries/Feedback\nReservations & Private Events\nPress/Media\nFranchise/Business Opportunities\nPartnerships/Collaborations",
+            "Your message here",
+            ""
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:54:55.430195+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:54:55.430281+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.tonchinus.com/contact-us",
+        "title": "Contact Us",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/tonchinnyc/",
+        "source": "https://www.tonchinus.com/contact-us",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/tonchinus/",
+        "source": "https://www.tonchinus.com/contact-us",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

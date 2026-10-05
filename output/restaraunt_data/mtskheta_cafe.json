@@ -434,5 +434,70 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:53:49.507599+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.us-info.com/en/usa/mtskheta_cafe/brooklyn/USNY100958937-7186761868/businessdetails.aspx",
+        "title": "Mtskheta Cafe - Restaurants in Brooklyn, NY | US Info",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.restaurantji.com/ny/brooklyn/mtskheta-cafe-/",
+        "title": "Mtskheta Cafe, Brooklyn - Menu, Reviews (150), Photos (54) - Restaurantji",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.yellowpages.com/brooklyn-ny/mip/mtskheta-cafe-479717048",
+        "title": "Mtskheta Cafe - Brooklyn, NY 11214",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://mtskheta-cafe.wheree.com/",
+        "title": "MTSKHETA CAFE - Reviews, Photos & Phone Number (2026) - Family Restaurant in Kings County, New York (NY) - Wheree",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chamberofcommerce.com/united-states/new-york/brooklyn/georgian-restaurant/2002269075-mtskheta-cafe",
+        "title": "Mtskheta Cafe in Brooklyn, NY 11214 - (718) 6...",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://rumanji.com/business/mtskheta-cafe/",
+        "title": "Mtskheta Cafe – Rumanji",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Mtskheta Cafe\"  Brooklyn,  NY 11214 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.us-info.com/en/usa/mtskheta_cafe/brooklyn/USNY100958937-7186761868/businessdetails.aspx",
+          "https://www.restaurantji.com/ny/brooklyn/mtskheta-cafe-/",
+          "https://www.yellowpages.com/brooklyn-ny/mip/mtskheta-cafe-479717048",
+          "https://mtskheta-cafe.wheree.com/",
+          "https://www.chamberofcommerce.com/united-states/new-york/brooklyn/georgian-restaurant/2002269075-mtskheta-cafe",
+          "https://rumanji.com/business/mtskheta-cafe/",
+          "https://www.roostcafeandbistro.com/mtskheta-cafe-11214/",
+          "https://usarestaurants.info/explore/united-states/new-york/kings-county/13594-mtskheta-cafe.htm",
+          "https://food96.com/place/mtskheta-cafe",
+          "https://www.manta.com/c/mtrqb4j/mtskheta-cafe"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/united-states/new-york/brooklyn/georgian-restaurant/2002269075-mtskheta-cafe",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": []
   }
 }

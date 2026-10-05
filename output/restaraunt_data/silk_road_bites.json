@@ -37,5 +37,57 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-04T06:32:35.986787+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:00:59.554036+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://silkroad-bites.web.app/",
+        "title": "silk-road",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://slprovence.com/corporation/7925540",
+        "title": "Silk Road Bites Inc. - 36-02 Steinway St, Long Island City, NY 11101",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "SILK ROAD BITES 36-02 Steinway St,  Long Island City contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.grubhub.com/restaurant/silk-road-bites-36-02-steinway-st-queens/15293224",
+          "https://www.instagram.com/silk_roadbites/",
+          "https://www.yelp.com/search?find_desc=German+Doner+Kebab&find_loc=Long+Island+City%2C+Queens%2C+NY+11101",
+          "https://slprovence.com/corporation/7925540",
+          "https://www.mapquest.com/us/new-york/new-york-371162015",
+          "https://www.doordash.com/store/silk-road-bites---3602-steinway-st-long-island-city-49968788/?srsltid=AU7gw4VoUWUgzAUIgtG5-gt810UIneA9eWl2Y8d2x4mSFbDn3KjUW6a7",
+          "https://www.yelp.com/search?find_desc=Halal+Guyanese+Restaurant&find_loc=Middle+Village%2C+Queens%2C+NY",
+          "https://wanderlog.com/list/geoCategory/377375/dinner",
+          "https://www.yelp.com/search?find_desc=Uyghur+Food&find_loc=New+York%2C+NY"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://slprovence.com/corporation/7925540",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/silk_roadbites/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

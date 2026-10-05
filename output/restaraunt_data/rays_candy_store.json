@@ -347,5 +347,78 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:53:36.186086+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://linktr.ee/RaysCandyStore",
+        "title": "@RaysCandyStore Restaurant - Visit to Find Food Options & See @RaysCandyStore Social Media & Official Accounts | Linktree",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.yellowpages.com/new-york-ny/mip/rays-candy-store-503591237",
+        "title": "Ray's Candy Store - New York, NY 10009",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://hamoni.com/en/shop/MIpNZVScnDdXM8HabfvXrdorAJIUAtD8",
+        "title": "Ray's Candy Store - Store Info | HAMONI",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/miscellaneous/7301049-ray-s-candy-store",
+        "title": "Ray's Candy Store in New York, NY 10009 -",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://citysquares.com/b/ray-s-candy-store-22807409",
+        "title": "Ray's Candy Store - East Village, Manhattan, New York 10009 (22807409) | CitySquares",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.manhattan-nyc.com/verify-human?next=/businesses/rays-candy-store--m-09v3h3j/",
+        "title": "Security Check",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Ray's Candy Store\"  New York,  NY 10009 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.facebook.com/RaysCandyStoreNYC/",
+          "https://www.yellowpages.com/new-york-ny/mip/rays-candy-store-503591237",
+          "https://hamoni.com/en/shop/MIpNZVScnDdXM8HabfvXrdorAJIUAtD8",
+          "https://www.chamberofcommerce.com/business-directory/new-york/new-york/miscellaneous/7301049-ray-s-candy-store",
+          "https://citysquares.com/b/ray-s-candy-store-22807409",
+          "https://www.manhattan-nyc.com/businesses/rays-candy-store--m-09v3h3j/",
+          "https://eastvillage.com/restaurants/rays-candy-store/",
+          "https://www.yelp.com/biz/rays-candy-store-new-york-2?start=20",
+          "https://ny.eater.com/venue/25608/ray-s-candy-store",
+          "https://www.showmelocal.com/profile.aspx?bid=22372634"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/miscellaneous/7301049-ray-s-candy-store",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/RaysCandyStoreNYC/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

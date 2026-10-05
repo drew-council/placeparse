@@ -547,11 +547,17 @@
   "vicinity": "36-06 Ditmars Blvd, Astoria",
   "website": "https://www.tokyoyaastoria.com/",
   "business_status_checked_at": "2026-10-03T20:06:19.441747+00:00",
-  "emails": [],
+  "emails": [
+    "tokyoyanyc@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:50:11.821421+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "tokyoyanyc@gmail.com": [
+        "https://www.tokyoyanyc.com/"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.tokyoyaastoria.com/",
@@ -565,7 +571,101 @@
       }
     ],
     "contact_forms": [],
-    "browser_checked_at": "2026-10-03T22:11:51.033087+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_checked_at": "2026-10-04T20:32:49.136109+00:00",
+    "browser_outcome": "not_found_on_rendered_pages",
+    "publication_evidence": {
+      "tokyoyanyc@gmail.com": {
+        "url": "https://www.tokyoyanyc.com/",
+        "quote": "0PM - 9:30PM\n\n​\n\nFriday, Saturday\n\n12PM - 10PM\n\nCONTACT US\nDROP US A LINE AND WE'LL GET BACK TO YOU\nFirst Name\nLast Name\nEmail\n\n36-06 Ditmars Blvd, Astoria NY 11105\n\n718-777-8889\n\ntokyoyanyc@gmail.com\n\nWrite a message\nSubmit\n\n© Powered by Chowbus",
+        "checked_at": "2026-10-04T20:32:49.136109+00:00",
+        "business_match": "Maps-linked restaurant site or manually matched restaurant name/location/phone"
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.tokyoyanyc.com/",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Tokyo Ya | Japanese cuisine Queens | 36-06 Ditmars Boulevard, Astoria, Queens, NY 11105, USA",
+          "labels": [
+            " ",
+            " ",
+            " ",
+            " ",
+            "Submit"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:32:49.136029+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:32:49.136109+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.tokyoyaastoria.com/",
+        "title": "Order Authentic Japanese Online | Tokyo Ya - Pickup or Delivery Available",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.tokyoyanyc.com/",
+        "title": "Tokyo Ya | Japanese cuisine Queens | 36-06 Ditmars Boulevard, Astoria, Queens, NY 11105, USA",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Tokyo Ya\"  Astoria,  NY 11105 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.tokyoyanyc.com/",
+          "https://www.yelp.com/biz/tokyo-ya-astoria",
+          "https://www.tokyoyaastoria.com/w0iju2jd/tokyo-ya-astoria-11105/order-online",
+          "https://www.facebook.com/p/Tokyo-Ya-61558748806518/",
+          "https://www.tokyoyaastoria.com/w0iju2jd/restaurant/menu?menu=Lunch+Menu",
+          "https://www.instagram.com/tokyoya.astoria/?hl=en",
+          "https://www.yelp.com/biz/tokyo-ya-astoria?start=40",
+          "https://www.tokyoyaastoria.com/w0iju2jd/tokyo-ya-astoria-11105/order-online/menus/all-day-menu/47347345?menu=Lunch+Menu",
+          "https://tokyo-ya.wheree.com/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/tokyoya.astoria/",
+        "source": "https://www.tokyoyanyc.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/profile.php?id=61558748806518",
+        "source": "https://www.tokyoyanyc.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/p/Tokyo-Ya-61558748806518/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      },
+      {
+        "url": "https://www.instagram.com/tokyoya.astoria/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

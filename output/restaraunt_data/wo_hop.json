@@ -497,5 +497,91 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:12:34.826791+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:52:15.493800+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.wohop17.com/",
+        "title": "Wo Hop Chinatown | Wo Hop Restaurant | New York",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.datalane.com/contact/restaurants/wo-hop",
+        "title": "Wo Hop Contact Details | Owner Phone & Email",
+        "status": "browser_ok"
+      },
+      {
+        "url": "http://www.wohopchinese.com/",
+        "title": "Wo Hop Chinese Restaurant - Open 24 hours for your pleasure",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.wohop15.com/contact",
+        "title": "New York City Chinatown | Wo Hop Next Door | New York",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://restaurantjump.com/wo-hop-10013/",
+        "title": "Wo Hop - New York, NY 10013 - Menu, Reviews, Hours & Contact",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Wo Hop\"  New York,  NY 10013 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.datalane.com/contact/restaurants/wo-hop",
+          "https://www.wohop17.com/",
+          "http://www.wohopchinese.com/",
+          "https://www.wohop15.com/contact",
+          "https://www.facebook.com/wohop17/",
+          "https://restaurantjump.com/wo-hop-10013/",
+          "https://www.chamberofcommerce.com/business-directory/new-york/new-york/miscellaneous/2000042198-wo-hop",
+          "https://www.findglocal.com/US/New-York/1045628585568817/Wo-Hop",
+          "https://www.yelp.com/biz/wo-hop-new-york",
+          "https://wo-hop.placejoys.com/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "yrosa968@gmail.com",
+        "url": "https://restaurantjump.com/wo-hop-10013/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "https://restaurantjump.com/wo-hop-10013/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/Wo-Hop-17-Restaurant-1424519614340490/",
+        "source": "https://www.wohop17.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/wohop17/?hl=en",
+        "source": "https://www.wohop17.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/wohop17/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

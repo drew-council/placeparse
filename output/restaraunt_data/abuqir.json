@@ -447,5 +447,61 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:24:21.769795+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://abuqirseafood.zoyaf.com/",
+        "title": "Abuqir | Seafood in Astoria, NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://abuqir-seafood.eniplaces.com/contact",
+        "title": "Contact Abuqir Seafood | Location, Hours & Online Ordering",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ny.eater.com/venue/39327/abuqir",
+        "title": "Abuqir | Eater NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://guide.michelin.com/us/en/new-york-state/queens/restaurant/abuqir",
+        "title": "AbuQir – Queens - a MICHELIN Guide Restaurant",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Abuqir\"  Astoria,  NY 11103 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://abuqir.site/",
+          "https://abuqir-seafood.eniplaces.com/contact",
+          "https://www.facebook.com/p/AbuQir-Seafood-100067912425324/",
+          "https://www.yelp.com/biz/abuqir-seafood-astoria",
+          "https://ny.eater.com/venue/39327/abuqir",
+          "https://guide.michelin.com/us/en/new-york-state/queens/restaurant/abuqir",
+          "https://abuqirseafood.zoyaf.com/",
+          "https://www.nyhalalguide.com/locations/abuqir-astoria/",
+          "https://www.tripadvisor.com/Restaurant_Review-g29837-d15859765-Reviews-AbuQir_Seafood-Astoria_Queens_New_York.html"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/p/AbuQir-Seafood-100067912425324/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

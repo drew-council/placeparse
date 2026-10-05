@@ -471,5 +471,109 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:12:30.335562+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:13:22.767405+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.veryfreshnoodles.com/",
+        "title": "Very Fresh Noodles",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chelseamarket.com/directory-all/very-fresh-noodles",
+        "title": "Very Fresh Noodles — Chelsea Market",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.veryfreshnoodles.com/",
+        "title": "Very Fresh Noodles",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://meatpacking-district.com/very-fresh-noodles",
+        "title": "Very Fresh Noodles",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ny.eater.com/venue/51349/very-fresh-noodles",
+        "title": "Very Fresh Noodles | Eater NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.veryfreshnoodles.com/directions",
+        "title": "directions",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Very Fresh Noodles  New York,  NY 10011 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.chelseamarket.com/directory-all/very-fresh-noodles",
+          "https://www.veryfreshnoodles.com/",
+          "https://meatpacking-district.com/very-fresh-noodles",
+          "https://www.facebook.com/veryfreshnoodles/",
+          "https://ny.eater.com/venue/51349/very-fresh-noodles",
+          "https://www.veryfreshnoodles.com/directions",
+          "https://www.yelp.com/biz/very-fresh-noodles-new-york",
+          "https://www.instagram.com/veryfreshnoodles/?hl=en",
+          "https://www.tripadvisor.com/Restaurant_Review-g60763-d11667174-Reviews-Very_Fresh_Noodles-New_York_City_New_York.html"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "chelseamarketinfo@jamestownlp.com",
+        "url": "https://www.chelseamarket.com/directory-all/very-fresh-noodles",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "email",
+        "email": "info@meatpacking-district.com",
+        "url": "https://meatpacking-district.com/very-fresh-noodles",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "email",
+        "email": "meatpacking@berlinrosen.com",
+        "url": "https://meatpacking-district.com/very-fresh-noodles",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/veryfreshnoodles",
+        "source": "https://www.veryfreshnoodles.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/veryfreshnoodles",
+        "source": "https://www.veryfreshnoodles.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/veryfreshnoodles/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      },
+      {
+        "url": "https://www.instagram.com/veryfreshnoodles/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

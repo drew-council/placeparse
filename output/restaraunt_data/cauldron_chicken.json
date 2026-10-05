@@ -455,5 +455,63 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T21:05:22.059530+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.restaurantji.com/ny/new-york/cauldron-chicken-/",
+        "title": "Cauldron Chicken, New York - Menu, Reviews (151), Photos (41) - Restaurantji",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/miscellaneous/2026192157-cauldron-chicken",
+        "title": "Cauldron Chicken in New York, NY 10012 - 646-869...",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://opengovny.com/corporation/6792710",
+        "title": "Cauldron Chicken Inc. · 190 Bleecker St, New York, NY 10012",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Cauldron Chicken\"  New York,  NY 10012 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/cauldron-chicken-new-york",
+          "https://www.restaurantji.com/ny/new-york/cauldron-chicken-/",
+          "https://www.seamless.com/menu/cauldron-chicken-190-bleecker-st-new-york/6647032",
+          "https://www.chamberofcommerce.com/business-directory/new-york/new-york/miscellaneous/2026192157-cauldron-chicken",
+          "https://opengovny.com/corporation/6792710",
+          "https://www.facebook.com/profile.php/?id=61554606834103",
+          "https://www.nycompanyregistry.com/companies/cauldron-chicken-inc/",
+          "https://www.manhattan-nyc.com/businesses/cauldron-chicken--g-11v3ghrglh/",
+          "https://pos.chowbus.com/online-ordering/store/Cauldron-Chicken/14138",
+          "https://fudpin.com/place/cauldron-chicken"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/miscellaneous/2026192157-cauldron-chicken",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/profile.php/?id=61554606834103",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

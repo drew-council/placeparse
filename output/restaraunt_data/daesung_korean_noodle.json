@@ -462,5 +462,70 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:34.378084+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T21:00:41.611560+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://majorbeautysalon.com/contact-us.html",
+        "title": "MIXUE88 : Link Situs Game Online Gacor Maksimal Cara Cepat Menuju Kaya!",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://daesungkoreannoodleflushing.com/contact/",
+        "title": "Contact | Daesung Korean Noodle | Korean restaurant Flushing",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.restaurantji.com/ny/flushing/dae-sung-korean-noodle-/",
+        "title": "Daesung korean Noodle, Flushing - Menu, Reviews (269), Photos (44) - Restaurantji",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.yellowpages.com/flushing-ny/mip/daesung-korean-noodle-548740836",
+        "title": "Daesung Korean Noodle - Flushing, NY 11358",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/flushing/miscellaneous/11133219-daesung-korean-noodle",
+        "title": "Daesung korean Noodle in Flushing, NY 11358 - 718-460...",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.superpages.com/flushing-ny/bpp/daesung-korean-noodle-548740836",
+        "title": "Daesung Korean Noodle 4504 162nd St, Flushing, NY 11358 - superpages.com",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Daesung korean Noodle\"  Flushing,  NY 11358 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://daesungkoreannoodleflushing.com/contact/",
+          "https://www.yelp.com/biz/daesung-korean-noodle-flushing-2",
+          "https://www.restaurantji.com/ny/flushing/dae-sung-korean-noodle-/",
+          "https://www.yellowpages.com/flushing-ny/mip/daesung-korean-noodle-548740836",
+          "https://www.chamberofcommerce.com/business-directory/new-york/flushing/miscellaneous/11133219-daesung-korean-noodle",
+          "https://www.superpages.com/flushing-ny/bpp/daesung-korean-noodle-548740836",
+          "https://www.zmenu.com/daesung-korean-noodle-flushing-2-online-menu/",
+          "https://restaurantedroop.com/restaurants-near-me/daesung-korean-noodle",
+          "https://www.yelp.com/biz/daesung-korean-noodle-flushing-2?start=40",
+          "https://tjkawamura.com/place/nyc/daesung-korean-noodle"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/flushing/miscellaneous/11133219-daesung-korean-noodle",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": []
   }
 }

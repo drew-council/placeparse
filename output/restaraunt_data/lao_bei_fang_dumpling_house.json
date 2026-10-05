@@ -567,5 +567,43 @@
       }
     },
     "quality_reviewed_at": "2026-10-04T05:58:56.901472+00:00"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:25:54.462636+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.fantuanorder.com/store/lao-bei-fang-dumpling-house/us-1858733459?encode__2057=2790552d-wbTVLjLYEeLE%2FW6uWoW9%2FWw2EfDYQmzJtbvpueYfWtAuUpb90zku%2FQhVDWiB_YbwWfoAOu_wjpKOW3LpFWQjuhWujukWTjuqWkEoXWkjWJWkLpcJE67uAW37u2Wo0gWfU7ikWNEPzPW3ju4WPCWhgCkwGSWzLumgEOq8x_eP3LjmuOheedkQWEkn3jAQpeC2lW",
+        "title": "Verification",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://local.yahoo.com/info-11384714-lao-bei-fang-dumpling-house-elmhurst/",
+        "title": "Lao Bei Fang Dumpling House in Elmhurst, NY – Reviews, Hours, and Contact Details",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Lao Bei Fang Dumpling House\"  Elmhurst,  NY 11373 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/lao-bei-fang-dumpling-house-elmhurst",
+          "https://www.tripadvisor.com/Restaurant_Review-g47681-d3863680-Reviews-Lao_Bei_Fang_Dumpling_House-Elmhurst_Queens_New_York.html",
+          "https://www.fantuanorder.com/store/lao-bei-fang-dumpling-house/us-1858733459",
+          "https://local.yahoo.com/info-11384714-lao-bei-fang-dumpling-house-elmhurst/",
+          "https://www.ubereats.com/store/lao-bei-fang-dumpling-house-%E8%80%81%E5%8C%97%E6%96%B9%E9%A3%8E%E5%91%B3%E5%B0%8F%E5%90%83/Hkxd93M_TzqCc2AXxRrE-A?srsltid=AU7gw4Vbf5dnxUg6L8HyuVLLQ2jKKTXafDU5dLg6jIMvK0jpYLzUfus7",
+          "https://www.yelp.com/biz/lao-bei-fang-dumpling-house-elmhurst?start=440",
+          "https://www.yellowpages.com/elmhurst-ny/mip/dumpling-house-467088571",
+          "https://www.instagram.com/reel/DYzgXTkOUIG/",
+          "https://eatthisny.com/category/dumplings/page/4/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

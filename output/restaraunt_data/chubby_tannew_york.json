@@ -87,5 +87,57 @@
     ],
     "browser_checked_at": "2026-10-03T22:08:21.830319+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://chubbytan.com/contact-us/",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact Us - Chubby Tan",
+          "labels": [
+            "First",
+            "Last",
+            "Email(Required)",
+            "Select location(Required)",
+            "Comments(Required)",
+            "",
+            ""
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:08:11.282688+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:08:11.282803+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://chubbytan.com/contact-us/",
+        "title": "Contact Us - Chubby Tan",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/chubbytanusa/",
+        "source": "https://chubbytan.com/contact-us/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/profile.php?%20id=61587401076259",
+        "source": "https://chubbytan.com/contact-us/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

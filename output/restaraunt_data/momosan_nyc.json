@@ -771,11 +771,17 @@
   "website": "http://momosanramen.com/",
   "wheelchair_accessible_entrance": true,
   "business_status_checked_at": "2026-10-03T20:05:41.342071+00:00",
-  "emails": [],
+  "emails": [
+    "info@momosanramen.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:29.606183+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "info@momosanramen.com": [
+        "https://momosanramen.com/takeout-and-delivery/"
+      ]
+    },
     "pages": [
       {
         "url": "https://momosanramen.com/",
@@ -809,7 +815,81 @@
       }
     ],
     "contact_forms": [],
-    "browser_checked_at": "2026-10-03T22:10:18.625284+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_checked_at": "2026-10-04T21:02:11.030253+00:00",
+    "browser_outcome": "not_found_on_rendered_pages",
+    "publication_evidence": {
+      "info@momosanramen.com": {
+        "url": "https://momosanramen.com/takeout-and-delivery/",
+        "quote": "Delivery\n\nWe are now taking orders for contactless takeout and delivery.\n\nView Takeout Menu\nOrder Takeout\nOrder Delivery\n342 Lexington Ave\nNew York, New York 10016\nGet Directions\ninfo@momosanramen.com\n646-201-5529\n\nEmail address:\n\n© 2026 Momosan Ramen & Sake. © momosan restaurant, llc\n\ntwitter\nfacebook\ninstagram\nClose Menu",
+        "checked_at": "2026-10-04T21:02:11.030253+00:00",
+        "business_match": "Maps-linked restaurant site or manually matched restaurant name/location/phone"
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T21:02:11.030253+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://momosanramen.com/",
+        "title": "Momosan Ramen & Sake - Ramen & Sake bar located in New York, Boston, Wynwood, Waikiki, Santana Row and more, by Chef Morimoto",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://momosanramen.com/about-momosan/",
+        "title": "About Momosan - Momosan Ramen & Sake",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://momosanramen.com/contact/",
+        "title": "Contact - Momosan Ramen & Sake",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://momosanramen.com/about-momosan/",
+        "title": "About Momosan - Momosan Ramen & Sake",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://momosanramen.com/takeout-and-delivery/",
+        "title": "Takeout and Delivery - Momosan Ramen & Sake",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Momosan Ramen & Sake\"  New York,  NY 10016 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://momosanramen.com/takeout-and-delivery/",
+          "https://momosanramen.com/lex-test/",
+          "https://local.us-info.com/USNY100960831-6462015529/momosan_ramen_sake-new_york.html",
+          "https://www.allbiz.com/business/momosan-ramen-sake_32-646-201-5529",
+          "https://www.tripadvisor.com/Restaurant_Review-g60763-d10171185-Reviews-Momosan_Ramen_Sake-New_York_City_New_York.html",
+          "https://www.superpages.com/new-york-ny/bpp/momosan-ramen-sake-525946309",
+          "https://www.yellowpages.com/new-york-ny/mip/momosan-ramen-sake-525946309",
+          "https://www.tripadvisor.in/Restaurant_Review-g60763-d10171185-Reviews-Momosan_Ramen_Sake-New_York_City_New_York.html",
+          "https://www.buzzfile.com/business/Momosan-Ramen.And.Sake-646-201-5529"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/MomosanRamen",
+        "source": "https://momosanramen.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://instagram.com/MomosanRamen",
+        "source": "https://momosanramen.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

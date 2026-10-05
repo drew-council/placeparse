@@ -544,5 +544,61 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:12:28.151539+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:24:51.403469+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.undergroundpizzamenu.com/?utm_source=gbp",
+        "title": "Underground Pizza - New York, NY - 3 Hanover Square - Hours, Menu, Order",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://undergroundpizzanyny.com/privacy",
+        "title": "Privacy Policy | Underground Pizza",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://downtownny.com/organization/underground-pizza/3-hanover-square/",
+        "title": "Underground Pizza - Downtown Alliance",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://underground-pizza-1.wheree.com/",
+        "title": "UNDERGROUND PIZZA - Reviews, Photos & Phone Number (2026) - Specialty Food Store in New York, New York (NY) - Wheree",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Underground Pizza\"  New York,  NY 10004 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://undergroundpizzanyny.com/privacy",
+          "https://downtownny.com/organization/underground-pizza/3-hanover-square/",
+          "https://www.yelp.com/biz/underground-pizza-new-york",
+          "https://www.facebook.com/UndergroundPizza/",
+          "https://underground-pizza-1.wheree.com/",
+          "https://www.tripadvisor.com/Restaurant_Review-g60763-d3734926-Reviews-Underground_Pizza-New_York_City_New_York.html",
+          "https://local.yahoo.com/info-11040019-underground-pizza-new-york",
+          "https://underground-pizza.placejoys.com/",
+          "https://www.instagram.com/reel/DRR1KOFjjS4/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/UndergroundPizza/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

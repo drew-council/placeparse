@@ -51,5 +51,66 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:17.134256+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:12:46.610663+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://jakarumenu.my.canva.site/",
+        "title": "Copia de Jakaru Menú",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://whereyoueat.com/Jakaru-Bar-&-Restaurant-29359.html",
+        "title": "Jakaru Bar & Restaurant Restaurant in Queens / Menus & Photos",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Jakaru Bar & Restaurant  Corona,  NY 11368 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.facebook.com/jakaru20/",
+          "https://whereyoueat.com/Jakaru-Bar-&-Restaurant-29359.html",
+          "https://www.mapquest.com/us/new-york/jakaru-restaurant-bar-753597339",
+          "https://www.nyc.gov/assets/queenscb4/downloads/pdf/minutes/2022/September-2022-Minutes.pdf",
+          "https://assets.alm.com/44/d2/94bcb91d4b87bed4136922d4ce74/nylj082526a.pdf",
+          "https://queenscb3.cityofnewyork.us/wp-content/uploads/2023/05/Business-Economic-Development-Committee-Agenda-May-9-2023.pdf",
+          "https://whereyoueat.com/Our-Dream-Deli-Grocery-LLC-30260.html",
+          "https://www.qgazette.com/articles/i-on-politics-358/"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://www.nyc.gov/assets/queenscb4/downloads/pdf/minutes/2022/September-2022-Minutes.pdf",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'wait', '--fn', 'document.body?.innerText?.trim"
+      },
+      {
+        "url": "https://assets.alm.com/44/d2/94bcb91d4b87bed4136922d4ce74/nylj082526a.pdf",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'wait', '--fn', 'document.body?.innerText?.trim"
+      },
+      {
+        "url": "https://queenscb3.cityofnewyork.us/wp-content/uploads/2023/05/Business-Economic-Development-Committee-Agenda-May-9-2023.pdf",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'wait', '--fn', 'document.body?.innerText?.trim"
+      }
+    ],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/jakaru20/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

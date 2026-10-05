@@ -404,5 +404,45 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:13:53.379463+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://riobonitodelivery.com/policies/contact-information",
+        "title": "Contact information – riobonitodelivery",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Rio Bonito Grill  Astoria,  NY 11106 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://riobonitodelivery.com/policies/contact-information",
+          "https://www.yelp.com/biz/rio-bonito-astoria-3",
+          "https://www.tripadvisor.com/Restaurant_Review-g29837-d32710786-Reviews-Rio_Bonito_Grill-Astoria_Queens_New_York.html",
+          "https://www.instagram.com/reel/DadiHYZp0if/",
+          "https://www.instagram.com/p/Ddl2bN0sU08/",
+          "https://rio-bonito-grill-2.menumeat.com/",
+          "https://www.grubhub.com/restaurant/rio-market-32-15-36th-ave-long-island-city/414166",
+          "https://www.mapquest.com/us/new-york/rio-bonito-brazilian-churrascaria-781376519",
+          "https://rio-bonito-grill.wheree.com/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "ricardobastos2000@gmail.com",
+        "url": "https://riobonitodelivery.com/policies/contact-information",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": []
   }
 }

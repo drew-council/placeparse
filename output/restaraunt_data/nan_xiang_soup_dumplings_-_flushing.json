@@ -484,5 +484,51 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:30:59.573912+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.tamilfeed.com/us/biz/nan-xiang-soup-dumplings-flushing-us",
+        "title": "Nan Xiang Soup Dumplings - Flushing in USA | TamilFeed",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://local.yahoo.com/info-202836557-nan-xiang-soup-dumplings-flushing-flushing/",
+        "title": "Nan Xiang Soup Dumplings - Flushing in Flushing, NY – Reviews, Hours, and Contact Details",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Nan Xiang Soup Dumplings - Flushing\"  Flushing,  NY 11354 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.facebook.com/nanxiangsoupdumplings/",
+          "https://www.tripadvisor.com/Restaurant_Review-g47729-d20043716-Reviews-Nan_Xiang_Soup_Dumplings_Flushing-Flushing_Queens_New_York.html",
+          "https://www.yelp.com/biz/nan-xiang-soup-dumplings-flushing-flushing",
+          "https://www.tamilfeed.com/us/biz/nan-xiang-soup-dumplings-flushing-us",
+          "https://local.yahoo.com/info-202836557-nan-xiang-soup-dumplings-flushing-flushing/",
+          "https://www.facebook.com/nanxiangsoupdumplings/posts/we-are-excited-to-announce-our-newest-location-opening-soon-in-the-heart-of-down/1589850579809745/",
+          "https://www.yelp.com/biz/nan-xiang-soup-dumplings-flushing-flushing?start=680",
+          "https://www.facebook.com/groups/YourOldQueensNYNeighborhoodRestaurants/posts/1761328660734224/",
+          "https://www.facebook.com/groups/SouthJerseyFoodScene/posts/1687456662030335/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/nanxiangsoupdumplings/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

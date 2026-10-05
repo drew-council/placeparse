@@ -452,5 +452,53 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:31:16.911159+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.datalane.com/contact/restaurants/jing-feng-fish-ball-inc",
+        "title": "Jing Feng Fish Ball Inc. Contact Details | Owner Phone & Email",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://jing-feng-fish-ball-inc.localoria.com/",
+        "title": "Jing Feng Fish Ball Inc. – Flushing’s Cozy Spot for Authentic Fast Food",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.reddit.com/r/FoodNYC/comments/10i6i9e/food_recommendations_in_nyc/",
+        "title": "Food recommendations in NYC : r/FoodNYC",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://whereyoueat.com/zip-queens/11355.html",
+        "title": "11355 Queens | Take Out & Dine In Restaurant Guide",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Jing Feng Fish Ball Inc.\"  Flushing,  NY 11355 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.datalane.com/contact/restaurants/jing-feng-fish-ball-inc",
+          "https://jing-feng-fish-ball-inc.localoria.com/",
+          "https://www.reddit.com/r/FoodNYC/comments/10i6i9e/food_recommendations_in_nyc/",
+          "https://whereyoueat.com/zip-queens/11355.html",
+          "https://www.instagram.com/reel/DayYe3LSI3n/",
+          "https://www.instagram.com/p/DMaaI8SvLz7/",
+          "https://whereyoueat.com/Latin-Bakery-14602.html",
+          "https://www.youtube.com/watch?v=eG0sPyU2iv8",
+          "https://whereyoueat.com/Tongs-Cafe-14636.html"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

@@ -463,5 +463,55 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:32:33.522935+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.krikscioniubendruomene.lt/?l=41797006001350",
+        "title": "Krikščionių bendruomenė | Judėjimas už religinio gyvenimo atsinaujinimą",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://chick-rocks-inc.wheree.com/menu",
+        "title": "Chick Rocks Inc Menu (Updated 2026)",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Chick Rocks Inc\"  Flushing,  NY 11354 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.facebook.com/p/Chick-Rocks-Inc-100086820541395/",
+          "https://chick-rocks-inc.wheree.com/",
+          "https://www.krikscioniubendruomene.lt/?l=41797006001350",
+          "https://www.tiktok.com/tag/chickrocks",
+          "https://www.ubereats.com/store/chick-rocks-inc/z5QytUjHU_KH0dQld56FWg?srsltid=AU7gw4XF1lCM3Vt2H0rzvia8N00EUN05j0Q-SP9zJxisEj9lbovwrjv5",
+          "https://chick-rocks-inc.wheree.com/menu",
+          "https://www.lemon8-app.com/experience/top-rated-chicken-wing-restaurants-in-nyc?region=us",
+          "https://www.instagram.com/popular/new-world-mall-nyc/"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://chick-rocks-inc.wheree.com/",
+        "status": "browser_challenge_or_unavailable"
+      }
+    ],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/p/Chick-Rocks-Inc-100086820541395/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

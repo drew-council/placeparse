@@ -451,5 +451,22 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:32:24.224508+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [],
+    "searches": [
+      {
+        "query": "\"Xie Bao Flushing 蟹寶\"  Flushing,  NY 11354 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": []
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

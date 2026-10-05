@@ -53,5 +53,62 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:57.889929+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:10:20.244036+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.maisondemaneenyc.com/",
+        "title": "Maison De Manee NYC",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://sitecity.org/b/maison-de-manee-new-york",
+        "title": "Maison de Manee – 4110-12 34th Ave, New York, NY | SiteCity",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.corner.inc/place/py8M9Ndwbjdy",
+        "title": "Maison de Manee - 4110-12 34th Ave, Long Island City | Corner",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Maison de Manee  Long Island City,  NY 11101 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.maisondemaneenyc.com/",
+          "https://www.yelp.com/biz/maison-de-manee-long-island-city",
+          "https://sitecity.org/b/maison-de-manee-new-york",
+          "https://www.facebook.com/p/Maison-de-Manee-61572665214620/",
+          "https://www.instagram.com/p/DOJtaE6EXwG/",
+          "https://www.corner.inc/place/py8M9Ndwbjdy",
+          "https://maps.apple.com/place?place-id=I6C968B5D2AF358DF",
+          "https://maps.roadtrippers.com/us/long-island-city-ny/food-drink/maison-de-manee-long-island-city-ny--0",
+          "https://www.theinfatuation.com/new-york/reviews/maison-de-manee"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/maisondemaneenyc/",
+        "source": "https://www.maisondemaneenyc.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/p/Maison-de-Manee-61572665214620/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

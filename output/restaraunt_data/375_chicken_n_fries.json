@@ -515,5 +515,56 @@
     ],
     "browser_checked_at": "2026-10-03T22:07:08.357434+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.375chicken.com/contact",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact | 375 Chicken and Fries in New York, NY",
+          "labels": [
+            "Enter name",
+            "Enter your email address",
+            "Subject Line*",
+            "Enter message",
+            "",
+            ""
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:52:21.846429+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:52:21.846524+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.375chicken.com/contact",
+        "title": "Contact | 375 Chicken and Fries in New York, NY",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/375chicken/",
+        "source": "https://www.375chicken.com/contact",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/profile.php?id=100063537995420",
+        "source": "https://www.375chicken.com/contact",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

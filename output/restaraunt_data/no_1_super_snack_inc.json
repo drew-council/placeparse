@@ -446,5 +446,50 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:31:50.313620+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.corner.inc/place/pGoYLXeLQHo9",
+        "title": "超力福州美食 No.1 Super Snack Inc. - Fuzhou Snacks - 41-28 Main St, Flushing | Corner",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.atly.com/location/No-1-Super-Snack-Inc",
+        "title": "超力福州美食 No.1 Super Snack Inc. - Fuzhou Snacks in New York - Chinese restaurant | Atly",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.checkle.com/biz/no-1-super-snack-inc-flushing",
+        "title": "超力福州美食 No.1 Super Snack Inc. - Fuzhou Snacks - Updated November 2025",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"超力福州美食 No.1 Super Snack Inc. - Fuzhou Snacks\"  Flushing,  NY 11355 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.fantuanorder.com/dianping/zh-CN/store/-no1-super-snack-inc---fuzhou-snacks-1258399457-us",
+          "https://www.corner.inc/place/pGoYLXeLQHo9",
+          "https://www.atly.com/location/No-1-Super-Snack-Inc",
+          "https://wanderlog.com/place/details/4472996/%E8%B6%85%E5%8A%9B%E7%A6%8F%E5%B7%9E%E7%BE%8E%E9%A3%9F-no1-super-snack-inc-fuzhou-snacks",
+          "https://www.checkle.com/biz/no-1-super-snack-inc-flushing"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://www.fantuanorder.com/dianping/zh-CN/store/-no1-super-snack-inc---fuzhou-snacks-1258399457-us",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'wait', '--fn', 'document.body?.innerText?.trim"
+      }
+    ],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

@@ -488,5 +488,77 @@
         "reason": "Third-party public listing matches Casa Adela name, 66 Avenue C, and phone. Restaurant ownership/current use not confirmed; ask by phone before sharing allergy information."
       }
     }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T21:01:39.425181+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://casa-adela.placejoys.com/",
+        "title": "Casa Adela - Vibrant Puerto Rican Flavors in New York’s Loisaida",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://casa-adela.wheree.com/",
+        "title": "CASA ADELA - Reviews, Photos & Phone Number (2026) - Family Restaurant in New York, New York (NY) - Wheree",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Casa Adela\"  New York,  NY 10009 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://casaadela.eggscellent.site/contact.html",
+          "https://www.facebook.com/p/Casa-Adela-100064056964827/",
+          "https://www.facebook.com/people/Casa-Adela/100064056964827/",
+          "https://casaadela.eggscellent.site/menu",
+          "https://casa-adela.placejoys.com/",
+          "https://casa-adela.wheree.com/",
+          "https://www.yelp.com/biz/casa-adela-new-york",
+          "https://www.chamberofcommerce.com/business-directory/new-york/new-york/puerto-rican-restaurant/25154985-casa-adela",
+          "https://www.yellowpages.com/new-york-ny/mip/casa-adela-465568684"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://casaadela.eggscellent.site/contact.html",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'open', 'https://casaadela.eggscellent.site/con"
+      },
+      {
+        "url": "https://casaadela.eggscellent.site/menu",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'open', 'https://casaadela.eggscellent.site/men"
+      }
+    ],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/p/Casa-Adela-100064056964827/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      },
+      {
+        "url": "https://www.facebook.com/people/Casa-Adela/100064056964827/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ],
+    "email_lead_verification": {
+      "checked_at": "2026-10-04T21:27:34.596376+00:00",
+      "outcome": "not_confirmed_on_first_party_sources",
+      "queries": [
+        "\"casaadelarestaurant@gmail.com\" Casa Adela"
+      ],
+      "result_urls": []
+    }
   }
 }

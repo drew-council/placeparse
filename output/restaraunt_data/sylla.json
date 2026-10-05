@@ -462,5 +462,54 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:27:20.254588+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://syllanewyork.com/faq/",
+        "title": "FAQ | Sylla",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://syllanewyork.com/",
+        "title": "Sylla | West African Restaurant New York | 4.7★ 213 Reviews",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://local.yahoo.com/info-231426949-sylla-new-york/",
+        "title": "Sylla in New York, NY – Reviews, Hours, and Contact Details",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Sylla\"  New York,  NY 10035 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://syllanewyork.com/faq/",
+          "https://syllanewyork.com/",
+          "https://www.yelp.com/biz/sylla-new-york",
+          "https://local.yahoo.com/info-231426949-sylla-new-york/",
+          "https://www.grubhub.com/restaurant/syllas-restaurant-inc-1664-park-ave-new-york/13124024",
+          "https://metroplus.org/wp-content/uploads/2026/02/MCD-CHP-PIC_HARP_Provider-Pharm_Dir_NEW_YORK_WEB_2-26.pdf",
+          "https://syllanewyork.com/takeout-and-delivery/",
+          "https://www.whitepages.com/name/Amara-Sylla/New-York-NY/PX3vBML5Yk3",
+          "https://sylla.wheree.com/"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://metroplus.org/wp-content/uploads/2026/02/MCD-CHP-PIC_HARP_Provider-Pharm_Dir_NEW_YORK_WEB_2-26.pdf",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'wait', '--fn', 'document.body?.innerText?.trim"
+      }
+    ],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

@@ -57,5 +57,61 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:07:12.873445+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:08:56.156145+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://aa-bake-doubles-and-roti.foodyvo.com/",
+        "title": "A&A Bake Doubles and Roti – Caribbean Restaurant in Brooklyn",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://thebedstuybid.org/1076-2/",
+        "title": "A&A Bake & Double and Roti Shop - Bed-Stuy \"Gateway\" BID",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ny.eater.com/venue/53117/a-a-bake-doubles-and-roti",
+        "title": "A&A Bake Doubles and Roti | Eater NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://a-a-bake-doubles-and-roti.wheree.com/",
+        "title": "A&A BAKE DOUBLES AND ROTI - Reviews, Photos & Phone Number (2026) - Caribbean Restaurant in Kings County, New York (NY) - Wheree",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "A&A Bake Doubles and Roti  Brooklyn,  NY 11216 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/a-and-a-bake-and-double-and-roti-shop-brooklyn-3",
+          "https://www.tripadvisor.com/Restaurant_Review-g60827-d16852009-Reviews-A_A_Bake_and_Double_and_Roti_Shop-Brooklyn_New_York.html",
+          "https://thebedstuybid.org/1076-2/",
+          "https://ny.eater.com/venue/53117/a-a-bake-doubles-and-roti",
+          "https://www.facebook.com/groups/158967081272/",
+          "https://a-a-bake-doubles-and-roti.wheree.com/",
+          "https://www.dehabroad.com/Merchant/aa-bake-doubles-and-roti-1823",
+          "https://maps.apple.com/place?address=1337%20Fulton%20St%2C%20Brooklyn%2C%20NY%2011216%2C%20United%20States&coordinate=40.6805078%2C-73.9479554&name=A%26A%20Bake%20%26%20Doubles%20Shop&place-id=I90301CF31750F67F&_provider=9902",
+          "https://www.cgmimm.com/biz/a-and-a-bake-doubles-and-roti-03e75e02"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/groups/158967081272/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

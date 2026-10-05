@@ -495,6 +495,66 @@
         "emails": []
       }
     ],
-    "contact_forms": []
+    "contact_forms": [],
+    "candidate_sources": {
+      "info@eatdundu.com": {
+        "urls": [
+          "https://findit.city/en/usa/new-york-city/places/restaurants/dundu-13250232453"
+        ],
+        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T21:02:04.037536+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://eatdundu.getbento.com/location/dundu/",
+        "title": "Redirect | BentoBox",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://dnd.wheree.com/",
+        "title": "DÙNDÚ - Reviews, Photos & Phone Number (2026) - Specialty Food Store in New York, New York (NY) - Wheree",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://findit.city/en/usa/new-york-city/places/restaurants/dundu-13250232453",
+        "title": "DÙNDÚ — fast food in New York City",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"dùndú\"  New York,  NY 10017 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://eatdundu.com/contact-us/",
+          "https://eatdundu.com/",
+          "https://contactout.com/company/DND-51401",
+          "https://eatdundu.getbento.com/location/dundu/",
+          "https://dnd.wheree.com/",
+          "https://findit.city/en/usa/new-york-city/places/restaurants/dundu-13250232453",
+          "https://www.tripadvisor.com.my/Restaurant_Review-g60763-d30418923-Reviews-Dundu-New_York_City_New_York.html",
+          "https://www.tripadvisor.com.au/Restaurant_Review-g60763-d30418923-Reviews-Dundu-New_York_City_New_York.html",
+          "https://eatdundu.getbento.com/",
+          "https://en.tripadvisor.com.hk/Restaurant_Review-g60763-d30418923-Reviews-Dundu-New_York_City_New_York.html"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [],
+    "email_lead_verification": {
+      "checked_at": "2026-10-04T21:27:40.221155+00:00",
+      "outcome": "not_confirmed_on_first_party_sources",
+      "queries": [
+        "\"info@eatdundu.com\" dùndú"
+      ],
+      "result_urls": []
+    }
   }
 }

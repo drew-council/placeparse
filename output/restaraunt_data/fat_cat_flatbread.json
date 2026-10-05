@@ -462,5 +462,65 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:48:53.358517+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/flushing/restaurant/2014134615-fat-cat-flatbread",
+        "title": "Fat Cat Flatbread in Flushing, NY 11354 - 929-758...",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://local.yahoo.com/info-228491208-fat-cat-flatbread-flushing/",
+        "title": "Fat Cat Flatbread in Flushing, NY – Reviews, Hours, and Contact Details",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://opengovus.com/new-york-restaurant/50109712",
+        "title": "Fat Cat Flatbread · 133-35 Roosevelt Avenue, Queens, 11354 · Chinese",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://usarestaurants.info/explore/united-states/new-york/queens-county/fat-cat-flatbread-929-758-8666.htm",
+        "title": "Fat Cat Flatbread | Foot Court #6, 133-35 Roosevelt Ave, Queens, NY 11354, USA",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.restaurantji.com/ny/queens/fat-cat-flatbread-/",
+        "title": "Fat Cat Flatbread, Flushing - Menu, Reviews (59), Photos (20) - Restaurantji",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Fat Cat Flatbread\"  Flushing,  NY 11354 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/fat-cat-flatbread-flushing",
+          "https://www.chamberofcommerce.com/business-directory/new-york/flushing/restaurant/2014134615-fat-cat-flatbread",
+          "https://local.yahoo.com/info-228491208-fat-cat-flatbread-flushing/",
+          "https://opengovus.com/new-york-restaurant/50109712",
+          "https://usarestaurants.info/explore/united-states/new-york/queens-county/fat-cat-flatbread-929-758-8666.htm",
+          "https://www.restaurantji.com/ny/queens/fat-cat-flatbread-/",
+          "https://fooglemap.com/place-restaurant/191-fat-cat-flatbread/",
+          "https://www.checkle.com/biz/fat-cat-flatbread-flushing",
+          "https://www.yelp.com/biz/fat-cat-flatbread-flushing?start=10",
+          "https://www.mapquest.com/us/new-york/fat-cat-flatbread-430304649"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/flushing/restaurant/2014134615-fat-cat-flatbread",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": []
   }
 }

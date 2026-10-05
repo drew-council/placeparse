@@ -582,5 +582,87 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:19.389714+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:45:52.440305+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.kimuranyc.com/",
+        "title": "Kimura NYC - Japanese Restaurant | Motsunabe | Sushi",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://restaurantjump.com/kimura-10003/",
+        "title": "Kimura - New York, NY 10003 - Menu, Reviews, Hours & Contact",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.kimuranyc.com/lunchmenu",
+        "title": "Kimura | Lunch Menu",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Kimura\"  New York,  NY 10003 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.kimuranyc.com/",
+          "https://www.facebook.com/p/Kimura-NYC-61579630229875/",
+          "https://restaurantjump.com/kimura-10003/",
+          "https://www.facebook.com/Kimuranyc/",
+          "https://www.kimuranyc.com/lunchmenu",
+          "https://businessyab.com/explore/united_states/new_york/new_york_county/manhattan/saint_marks_place/31/kimura-917-905-1864.html",
+          "https://takoyakinearme.com/takoyaki-listing/1811/",
+          "https://www.yelp.com/biz/kimura-new-york",
+          "https://www.yellowpages.com/new-york-ny/mip/kimura-564569234",
+          "https://www.superpages.com/new-york-ny/bpp/kimura-564569234"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://businessyab.com/explore/united_states/new_york/new_york_county/manhattan/saint_marks_place/31/kimura-917-905-1864.html",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'wait', '--fn', 'document.body?.innerText?.trim"
+      }
+    ],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "yrosa968@gmail.com",
+        "url": "https://restaurantjump.com/kimura-10003/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "https://restaurantjump.com/kimura-10003/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/Kimuranyc/",
+        "source": "https://www.kimuranyc.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/kimura_nyc/",
+        "source": "https://www.kimuranyc.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/p/Kimura-NYC-61579630229875/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

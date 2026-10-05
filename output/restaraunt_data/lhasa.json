@@ -435,5 +435,81 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T21:02:45.111952+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.allbiz.com/business/lhasa_1G-917-388-2230",
+        "title": "Lhasa | (917) 388-2230 | New York City",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://eastvillage.com/restaurants/lhasa-tibetan-restaurant/",
+        "title": "LHASA Tibetan Restaurant - East Village",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/tibetan-restaurant/2023431590-lhasa",
+        "title": "Lhasa in New York, NY 10003 - 917-388...",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.restaurantji.com/ny/new-york/lhasa-tibetan-restaurant-/",
+        "title": "Lhasa, New York - Menu, Reviews (209), Photos (68) - Restaurantji",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.tibetanlibrary.com/directory/lhasa-tibetan-restaurant-east-village-new-york",
+        "title": "Lhasa Tibetan Restaurant (East Village) — Restaurant in New York, NY | Tibetan Library",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://local.yahoo.com/info-226557048-lhasa-tibetan-restaurant-new-york/",
+        "title": "LHASA Tibetan Restaurant in New York, NY – Reviews, Hours, and Contact Details",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Lhasa\"  New York,  NY 10003 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.allbiz.com/business/lhasa_1G-917-388-2230",
+          "https://eastvillage.com/restaurants/lhasa-tibetan-restaurant/",
+          "https://www.chamberofcommerce.com/business-directory/new-york/new-york/tibetan-restaurant/2023431590-lhasa",
+          "https://www.restaurantji.com/ny/new-york/lhasa-tibetan-restaurant-/",
+          "https://www.tibetanlibrary.com/directory/lhasa-tibetan-restaurant-east-village-new-york",
+          "https://local.yahoo.com/info-226557048-lhasa-tibetan-restaurant-new-york/",
+          "https://www.findglocal.com/US/New-York/117079168161919/Lhasa-Tibetan-Restaurant-%26-Bar",
+          "https://www.yelp.com/biz/lhasa-tibetan-restaurant-new-york-4",
+          "https://www.manta.com/c/mk26nmt/lhasa-tibetan-restaurant",
+          "https://www.manhattan-nyc.com/businesses/lhasa--g-11jq8l313x/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.allbiz.com/business/lhasa_1G-917-388-2230",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/tibetan-restaurant/2023431590-lhasa",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "email",
+        "email": "contact@tibetanlibrary.com",
+        "url": "https://www.tibetanlibrary.com/directory/lhasa-tibetan-restaurant-east-village-new-york",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": []
   }
 }

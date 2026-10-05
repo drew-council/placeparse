@@ -62,5 +62,76 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:13.464455+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:01:59.446298+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.chichicken.food/",
+        "title": "Home - CHI CHICKEN",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chichicken.food/contact-us/",
+        "title": "Contact Us - CHI CHICKEN",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chichicken.food/contact-us/#et-main-area",
+        "title": "Contact Us - CHI CHICKEN",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chichicken.food/contact-us/#page-container",
+        "title": "Contact Us - CHI CHICKEN",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chichicken.food/",
+        "title": "Home - CHI CHICKEN",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://chichicken.restaurants-hi.com/",
+        "title": "Chichicken吃鸡 Review – Best Fried Chicken in Long Island City",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "ChiChicken 吃鸡  Long Island City,  NY 11101 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.chichicken.food/contact-us/",
+          "https://www.chichicken.food/",
+          "https://www.yelp.com/biz/chi-chicken-long-island-city-3",
+          "https://www.instagram.com/nychichicken/",
+          "https://chi-chicken.wheree.com/",
+          "https://chichicken.restaurants-hi.com/",
+          "https://www.worldjournal.com/wj/story/121610/9745212?from=wj_hot_story&zh-cn",
+          "https://www.restaurantji.com/ny/long-island-city/chi-chicken-/",
+          "https://wanderlog.com/zh/list/geoCategory/1591965/long-island-city%E7%9A%84%E4%B8%AA%E5%BF%85%E5%81%9A%E4%BA%8B%E9%A1%B9%E5%92%8C%E6%99%AF%E7%82%B9"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://chi-chicken.wheree.com/",
+        "status": "browser_challenge_or_unavailable"
+      }
+    ],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/nychichicken/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

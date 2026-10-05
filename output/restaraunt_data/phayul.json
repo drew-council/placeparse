@@ -456,5 +456,72 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:47:53.123957+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://phayul.localoria.com/",
+        "title": "Phayul Tibetan Restaurant in Jackson Heights – Cozy Local Dining",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.ngatso.com/phayul",
+        "title": "Phayul Restaurant & Bar, Jackson Heights, Queens, NY | Discover Authentic Tibetan Cuisine — Ngatso Tibetan Product & Information",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.us-info.com/en/usa/phayul/jackson_heights/USNY100541791-7184241869/businessdetails.aspx",
+        "title": "Phayul - Restaurants in Jackson Heights, NY | US Info",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.tibetanlibrary.com/directory/phayul-himalayan-restaurant-jackson-heights",
+        "title": "Phayul Himalayan Restaurant — Restaurant in Jackson Heights, NY | Tibetan Library",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.superpages.com/jackson-heights-ny/bpp/phayul-restaurant-465562320",
+        "title": "Phayul Restaurant 3765 74th St, Jackson Heights, NY 11372 - superpages.com",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Phayul\"  Jackson Heights,  NY 11372 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://phayul.localoria.com/",
+          "https://www.ngatso.com/phayul",
+          "https://local.us-info.com/USNY100541791-7184241869/phayul_restaurant-jackson_heights.html",
+          "https://www.tibetanlibrary.com/directory/phayul-himalayan-restaurant-jackson-heights",
+          "https://www.yelp.com/biz/phayul-jackson-heights",
+          "https://www.superpages.com/jackson-heights-ny/bpp/phayul-restaurant-465562320",
+          "https://www.tibetanlibrary.com/directory/phayul-restaurant-bar-jackson-heights",
+          "https://www.yelp.com/biz/phayul-jackson-heights-2",
+          "https://a-better-place.com/US/phayul-i371686.html",
+          "https://www.findglocal.com/US/New-York/118022644951501/Phayul-Restaurant"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "info@ngatso.com",
+        "url": "https://www.ngatso.com/phayul",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "email",
+        "email": "contact@tibetanlibrary.com",
+        "url": "https://www.tibetanlibrary.com/directory/phayul-himalayan-restaurant-jackson-heights",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": []
   }
 }

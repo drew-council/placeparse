@@ -486,5 +486,60 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:12:42.714115+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:32:13.416432+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.yinji-usa.com/",
+        "title": "Home - 銀記腸粉 YIN JI CHANG FEN",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.yinji-usa.com/contact-us/",
+        "title": "Contact Us - 銀記腸粉 YIN JI CHANG FEN",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ny.eater.com/2019/9/25/20882075/yin-ji-chang-fen-chinatown-nyc-location-open-rice-noodle",
+        "title": "Rice Noodle Roll Restaurant Yin Ji Chang Fen Opens in New York City | Eater NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.alamy.com/yin-ji-chang-fen-and-ji-bei-chuan-chinese-brand-food-franchises-in-flushing-chinatown-new-york-city-image623353155.html",
+        "title": "Yin Ji Chang Fen 銀記 腸粉店 and Ji Bei Chuan 季北川 Chinese brand food franchises in Flushing Chinatown, New York City. 法拉盛, 法拉盛華埠, 紐約 银记肠粉店 纽约 美國 美国 Stock Photo - Alamy",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Yin Ji Chang Fen 銀記腸粉\"  Flushing,  NY 11354 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://ny.eater.com/2019/9/25/20882075/yin-ji-chang-fen-chinatown-nyc-location-open-rice-noodle",
+          "https://www.facebook.com/JingBangkok/posts/new-additions-arrive-at-j%C7%90ng-from-handcrafted-dim-sum-and-comforting-noodles-to-/122137040481068335/",
+          "https://www.alamy.com/yin-ji-chang-fen-and-ji-bei-chuan-chinese-brand-food-franchises-in-flushing-chinatown-new-york-city-image623353155.html"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/people/Yin-Ji-Chang-Fen-Canada/100063302554042/",
+        "source": "https://www.yinji-usa.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/yinjichangfen/?igshid=YmMyMTA2M2Y%3D",
+        "source": "https://www.yinji-usa.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

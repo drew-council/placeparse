@@ -557,5 +557,73 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://coffeeprojectny.com/contact/",
+        "purpose": "general inquiry",
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website",
+        "evidence": {
+          "title": "Contact Our Company | Coffee Project NY",
+          "labels": [
+            "Your Name",
+            "Your Email",
+            "Subject: General Inquiry",
+            "Your Message",
+            "Submit"
+          ],
+          "message_field_observed": true,
+          "note": "Manually inspected with agent-browser. Corporate contact page for the same cafe brand; do not mistake the optional newsletter checkbox for the purpose of the form."
+        },
+        "checked_at": "2026-10-04T21:17:15.926321+00:00",
+        "submission_tested": false
+      }
+    ],
+    "checked_at": "2026-10-04T20:52:20.435855+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.us-info.com/en/usa/coffee_project_new_york/new_york/USNY100778163-2122287888/businessdetails.aspx",
+        "title": "Coffee Project New York - Restaurants in New York, NY | US Info",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.manta.com/c/m13j7yv/coffee-project-new-york",
+        "title": "Coffee Project New York NY, 10019 – Manta.com",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Coffee Project New York\"  New York,  NY 10019 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://coffeeprojectny.com/contact/",
+          "https://www.facebook.com/1488169071405559/",
+          "https://coffeeprojectny.com/cafe-locations/",
+          "https://100find.com/restaurant/coffee-project-new-york-east-village/",
+          "https://www.us-info.com/en/usa/coffee_project_new_york/new_york/USNY100778163-2122287888/businessdetails.aspx",
+          "https://www.manta.com/c/m13j7yv/coffee-project-new-york",
+          "https://www.superpages.com/new-york-ny/bpp/coffee-project-new-york-hells-kitchen-575079505",
+          "https://www.yelp.com/biz/coffee-project-new-york-hells-kitchen-new-york-4",
+          "https://www.chamberofcommerce.com/business-directory/new-york/new-york/coffee-shop/2023240380-coffee-project-new-york-hell-s-kitchen"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/1488169071405559/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

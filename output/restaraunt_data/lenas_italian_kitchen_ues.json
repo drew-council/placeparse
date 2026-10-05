@@ -463,5 +463,51 @@
     ],
     "browser_checked_at": "2026-10-03T22:09:42.148308+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.lenasitaliankitchen.com/contact-us/",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact Us - Lena's Italian Kitchen",
+          "labels": [
+            "Phone",
+            "YOUR E-MAIL*",
+            "YOUR MESSAGE*",
+            "YOUR NAME",
+            "",
+            "",
+            "Δ"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:49:45.086107+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:49:45.086276+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.lenasitaliankitchen.com/contact-us/",
+        "title": "Contact Us - Lena's Italian Kitchen",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/lenasitaliankitchen/",
+        "source": "https://www.lenasitaliankitchen.com/contact-us/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

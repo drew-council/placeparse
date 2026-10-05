@@ -573,5 +573,87 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T21:03:45.574738+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.datalane.com/contact/restaurants/cm-tm-ninh-kiu",
+        "title": "Cơm Tấm Ninh Kiều Contact Details | Owner Phone & Email",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.cybo.com/US-biz/c%C6%A1m-t%E1%BA%A5m-ninh-ki%E1%BB%81u",
+        "title": "Quick security check",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.bizarchive.com/business/c%C6%A1m-t%E1%BA%A5m-ninh-ki%E1%BB%81u-718-450-3833",
+        "title": "Cơm Tấm Ninh Kiều | (718) 450-3833 | The Bronx",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://restaurantjump.com/com-tam-ninh-kieu-10468/",
+        "title": "Cơm Tấm Ninh Kiều - Bronx, NY 10468 - Menu, Reviews, Hours & Contact",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://tjkawamura.com/place/nyc/com-tam-ninh-kieu",
+        "title": "Cơm Tấm Ninh Kiều — Restaurant in Bronx, New York City | TJ Kawamura",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://restaurantedroop.com/restaurants-near-me/c-m-t-m-ninh-ki-u",
+        "title": "Cơm Tấm Ninh Kiều: Authentic Vietnamese Dining in The Bronx",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Cơm Tấm Ninh Kiều\"  Bronx,  NY 10468 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.datalane.com/contacts/restaurants/cm-tm-ninh-kiu",
+          "https://www.cybo.com/US-biz/c%C6%A1m-t%E1%BA%A5m-ninh-ki%E1%BB%81u",
+          "https://www.bizarchive.com/business/c%C6%A1m-t%E1%BA%A5m-ninh-ki%E1%BB%81u-718-450-3833",
+          "https://restaurantjump.com/com-tam-ninh-kieu-10468/",
+          "https://tjkawamura.com/place/nyc/com-tam-ninh-kieu",
+          "https://restaurantedroop.com/restaurants-near-me/c-m-t-m-ninh-ki-u",
+          "https://www.dliplace.com/info-place/286201",
+          "https://www.novacircle.com/spots/north-america/united-states/new-york/bronx/queens-ny/com-tam-ninh-kieu-2a73b7",
+          "https://www.nyctourism.com/restaurants/com-tam-ninh-kieu/",
+          "https://ny.eater.com/venue/41643/com-tam-ninh-kieu"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.bizarchive.com/business/c%C6%A1m-t%E1%BA%A5m-ninh-ki%E1%BB%81u-718-450-3833",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "email",
+        "email": "yrosa968@gmail.com",
+        "url": "https://restaurantjump.com/com-tam-ninh-kieu-10468/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "https://restaurantjump.com/com-tam-ninh-kieu-10468/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "email",
+        "email": "server@restaurantedroop.com",
+        "url": "https://restaurantedroop.com/restaurants-near-me/c-m-t-m-ninh-ki-u",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": []
   }
 }

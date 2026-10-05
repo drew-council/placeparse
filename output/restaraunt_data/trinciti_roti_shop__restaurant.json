@@ -451,5 +451,78 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:58.493490+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:25:03.960796+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.nav-links.com/",
+        "title": "WAZETOTO : Situs Gacor New Member 100% Dan Situs Slot Dapat Bonus Tanpa Deposit",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.zoominfo.com/pic/trinciti-roti-shop--restaurant/529484190",
+        "title": "Access to this page has been denied",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://indagare.com/restaurant/trinciti-roti-shop-and-restaurant",
+        "title": "Trinciti Roti Shop & Restaurant | Indagare Travel",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.findjamaicaneats.com/united-states/south-ozone-park/quick-service-takeout/trinciti-roti-shop-restaurant",
+        "title": "Trinciti Roti Shop & Restaurant - Quick-Service & Takeout - Jamaican Eatery",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://trinciti-roti-shop-restaurant.wheree.com/",
+        "title": "TRINCITI ROTI SHOP & RESTAURANT - Reviews, Photos & Phone Number (2026) - Specialty Food Store in Queens, New York (NY) - Wheree",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Trinciti Roti Shop & Restaurant\"  South Ozone Park,  NY 11420 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.zoominfo.com/pic/trinciti-roti-shop--restaurant/529484190",
+          "https://www.instagram.com/popular/trinciti-roti-shop-restaurant/",
+          "https://indagare.com/restaurant/trinciti-roti-shop-and-restaurant",
+          "https://www.facebook.com/fb-answers/trinciti-roti-shop-restaurant-lefferts-boulevard-south-ozone-park-ny/",
+          "https://www.findjamaicaneats.com/united-states/south-ozone-park/quick-service-takeout/trinciti-roti-shop-restaurant",
+          "https://trinciti-roti-shop-restaurant.wheree.com/",
+          "https://wanderlog.com/place/details/525568/trinciti-roti-shop--restaurant",
+          "https://www.pi.fyi/thing/cmpf4jdi00ca0oh3p4yd76lm0",
+          "https://halalfoodle.com/restaurants/united-states/new-york/queens-county/trinciti-roti-shop-restaurant-111-03-lefferts-blvd"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "hotel.reservations@indagare.com",
+        "url": "https://indagare.com/restaurant/trinciti-roti-shop-and-restaurant",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "https://www.findjamaicaneats.com/united-states/south-ozone-park/quick-service-takeout/trinciti-roti-shop-restaurant",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/fb-answers/trinciti-roti-shop-restaurant-lefferts-boulevard-south-ozone-park-ny/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

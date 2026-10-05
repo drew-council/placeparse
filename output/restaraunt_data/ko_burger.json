@@ -88,5 +88,55 @@
     ],
     "browser_checked_at": "2026-10-03T22:09:20.824783+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.koburger.com/contact",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact | K.O. Burger",
+          "labels": [
+            "Enter your name",
+            "Enter your email",
+            "Inquiry Type",
+            "Enter your message",
+            "SEND MESSAGE"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:12:53.539831+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:12:53.539944+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.koburger.com/contact",
+        "title": "Contact | K.O. Burger",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/kobrgr/",
+        "source": "https://www.koburger.com/contact",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/profile.php?id=61552841343156",
+        "source": "https://www.koburger.com/contact",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

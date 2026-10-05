@@ -412,5 +412,65 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:44:33.007701+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://findit.city/en/usa/new-york-city/places/restaurants/mam-10652445511",
+        "title": "Mắm — restaurant in New York City",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://local.yahoo.com/info-231592419-m%E1%BA%AFm-new-york/",
+        "title": "Mắm in New York, NY – Reviews, Hours, and Contact Details",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://urba.now/venues/mam-new-york",
+        "title": "Mắm - New York | Urba",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/mam",
+        "title": "Mắm | Restaurants in Lower East Side, New York",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://dimhour.com/nyc/v/mam/",
+        "title": "Mắm — Vietnamese in Lower East Side, New York City | Dim Hour",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Mắm\"  New York,  NY 10002 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://resy.com/cities/new-york-ny/venues/mam",
+          "https://findit.city/en/usa/new-york-city/places/restaurants/mam-10652445511",
+          "https://local.yahoo.com/info-231592419-m%E1%BA%AFm-new-york/",
+          "https://urba.now/venues/mam-new-york",
+          "https://www.timeout.com/newyork/restaurants/mam",
+          "https://dimhour.com/nyc/v/mm/",
+          "https://magicpin.com/usa/New-York/Chinatown/Other/M%E1%BA%AFm/store/24b0154",
+          "https://tjkawamura.com/place/nyc/mam",
+          "https://www.theinfatuation.com/new-york/reviews/mam",
+          "https://restaurantguru.com/Mam-New-York"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://urba.now/venues/mam-new-york",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": []
   }
 }

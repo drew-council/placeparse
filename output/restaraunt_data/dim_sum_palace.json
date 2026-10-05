@@ -473,5 +473,49 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:46:03.582590+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.datalane.com/contact/restaurants/dim-sum-palace",
+        "title": "Dim Sum Palace Contact Details | Owner Phone & Email",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.findglocal.com/US/New-York/100675079465314/Dim-Sum-Palace-%E9%87%91%E6%BB%A1%E5%BA%AD",
+        "title": "Dim Sum Palace 金满庭, 27 Division Street, New York, NY (2026)",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.us-info.com/en/usa/dim_sum_palace/new_york/USNY101450495-6466493607/businessdetails.aspx",
+        "title": "Dim Sum Palace - Restaurants in New York, NY | US Info",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Dim Sum Palace\"  New York,  NY 10002 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://dimsumpalace.com/contact-7/",
+          "https://dimsumpalace.com/contact-9/",
+          "https://www.datalane.com/contact/restaurants/dim-sum-palace",
+          "https://findglocal.com/US/New-York/100675079465314/Dim-Sum-Palace-%E9%87%91%E6%BB%A1%E5%BA%AD",
+          "https://local.us-info.com/USNY101450495-6466493607/dim_sum_palace-new_york.html",
+          "https://www.yelp.com/biz/dim-sum-palace-new-york-16",
+          "https://www.chamberofcommerce.com/business-directory/new-york/new-york/miscellaneous/2026191888-dim-sum-palace",
+          "https://chinarestaurant-luckypalace.com/chinese-restaurants-near-me/dim-sum-palace-on-division-street",
+          "https://www.superpages.com/new-york-ny/bpp/dim-sum-palace-574944834",
+          "https://www.yellowpages.com/new-york-ny/mip/dim-sum-palace-574944834"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

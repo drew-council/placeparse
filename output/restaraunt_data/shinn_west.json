@@ -72,5 +72,76 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:20.635862+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.shinneast.com/findus",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "find us — shinn new york",
+          "labels": [
+            "First Name\n(required)",
+            "Last Name\n(required)",
+            "email\n(required)",
+            "topic\n(required)",
+            "message\n(required)",
+            "",
+            "SUBMIT"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:07:39.164339+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:07:39.164407+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.shinneast.com/",
+        "title": "shinn new york",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.shinneast.com/aboutus",
+        "title": "the story — shinn new york",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.shinneast.com/new-page",
+        "title": "contact — shinn new york",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.shinneast.com/findus",
+        "title": "find us — shinn new york",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Shinn WEST  New York,  NY 10019 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.shinneast.com/new-page",
+          "https://www.shinneast.com/findus",
+          "https://www.instagram.com/reel/DIh5thVxhEI/",
+          "https://www.shinneast.com/locations",
+          "https://www.yelp.com/biz/shinn-west-new-york-2",
+          "https://www.shinneast.com/",
+          "https://resy.com/cities/new-york-ny/venues/shinn-west",
+          "https://www.instagram.com/p/CzKCqkjJ2JJ/",
+          "https://frankiapp.com/business/shinn-west-600813"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

@@ -57,5 +57,55 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:14.251084+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.chickitoutastoria.com/",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Home | chickitoutastoria",
+          "labels": [
+            "First name",
+            "Last name",
+            "Email",
+            "Write a message",
+            "Submit"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:07:25.140808+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:07:25.140899+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.chickitoutastoria.com/",
+        "title": "Home | chickitoutastoria",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/chickitout.astoria.2025?",
+        "source": "https://www.chickitoutastoria.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/chick_itoutastoria?igsh=MnV0NG4yazcyc3Jh&utm_source=qr",
+        "source": "https://www.chickitoutastoria.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

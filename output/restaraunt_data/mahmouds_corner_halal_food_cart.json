@@ -72,5 +72,74 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:49.474434+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:07:46.506900+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://mahmouds34thavecorner.weebly.com/",
+        "title": "Mahmoud's Corner34th Ave and Steinway Halal Food Truck - Mahmouds Corner",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://mahmouds34thavecorner.weebly.com/about.html",
+        "title": "Mahmouds Corner - About Us - Mahmoud's Corner34th Ave and Steinway Halal Food Truck",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://mahmouds34thavecorner.weebly.com/about.html#",
+        "title": "Mahmouds Corner - About Us - Mahmoud's Corner34th Ave and Steinway Halal Food Truck",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://mahmouds34thavecorner.weebly.com/",
+        "title": "Mahmoud's Corner34th Ave and Steinway Halal Food Truck - Mahmouds Corner",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Mahmoud's Corner Halal Food Cart  Astoria,  NY 11103 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://mahmouds34thavecorner.weebly.com/",
+          "https://www.facebook.com/34halalfood/",
+          "https://www.instagram.com/halal_on_34th/?hl=en",
+          "https://www.yelp.com/biz/mahmouds-corner-astoria",
+          "https://www.grubhub.com/restaurant/mahmoud-corner-halal-food-truck-32-90-steinway-st-astoria/1717203",
+          "https://mahmouds34thavecorner.weebly.com/about.html",
+          "https://www.reddit.com/r/FoodNYC/comments/1dsb1y2/50_nyc_halal_truckscarts_later_i_made_a_website/",
+          "https://www.tripadvisor.com/Restaurant_Review-g29837-d24998209-Reviews-Mahmoud_s_Corner_Halal_Food_Cart-Astoria_Queens_New_York.html",
+          "https://www.corner.inc/place/pdAbWMqRNFYD"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/34halalfood/?ref=page_internal",
+        "source": "https://mahmouds34thavecorner.weebly.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/34halalfood/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      },
+      {
+        "url": "https://www.instagram.com/halal_on_34th/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

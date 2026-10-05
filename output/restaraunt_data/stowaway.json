@@ -53,5 +53,64 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:26.911856+00:00",
     "browser_outcome": "incomplete_lookup"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:08:40.013737+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://mapstr.com/place/W1HP48nxYE/stowaway-brooklyn-brunch-restaurant-breakfast-bar-priority",
+        "title": "Mapstr - Stowaway Brooklyn - Restaurant, Bar, Brunch",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.stowaway2.com/contact-us",
+        "title": "Contact Us | StowAway",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "STOWAWAY  Brooklyn,  NY 11222 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/stowaway-brooklyn",
+          "https://www.instagram.com/stowaway.bk/?hl=en",
+          "https://mapstr.com/place/W1HP48nxYE/stowaway-brooklyn-brunch-restaurant-breakfast-bar-priority",
+          "https://www.stowaway2.com/contact-us?srsltid=AU7gw4VSK1vfa6IxvPMVuu_ohKZZQk7bmYhSqkoXNm-fv8gHeFR9ngX-",
+          "https://stowaway.wheree.com/",
+          "https://www.giftly.com/gift-card/stowaway-brooklyn?srsltid=AU7gw4W-5RBw2rzOymuOd4ZMnyKS5qpSO08zEtda6iBRdZSBszYmkPGt",
+          "https://www.tripadvisor.ie/Restaurant_Review-g60827-d26886513-Reviews-Stowaway-Brooklyn_New_York.html",
+          "https://www.timeout.com/newyork/restaurants/stowaway",
+          "https://dimhour.com/nyc/v/stowaway/"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "http://www.stowawaynyc.com/",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'open', 'http://www.stowawaynyc.com/']' returne"
+      }
+    ],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "customerservice@stowaway2.com",
+        "url": "https://www.stowaway2.com/contact-us",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/stowaway.bk/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

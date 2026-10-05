@@ -54,5 +54,58 @@
     ],
     "browser_checked_at": "2026-10-03T22:11:21.590041+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:01:46.236177+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.sliknyc.com/password",
+        "title": "SLIKNYC – SLIKNYC",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.hudsonyardsnewyork.com/food-drink/slik-now-open",
+        "title": "SLIK (Now Open) | Hudson Yards",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "SLIK  New York,  NY 10009 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.instagram.com/sliknyc/?hl=en",
+          "https://www.yelp.com/biz/slik-new-york",
+          "https://www.facebook.com/p/SLIK-61583453232302/",
+          "https://www.hudsonyardsnewyork.com/food-drink/slik-now-open",
+          "https://www.giftly.com/gift-card/slik-new-york?srsltid=AU7gw4XK3_mro-RVr4bwLzRtuWE_sVvkGDCy8jUZrndY5mXZb3kQJIDE",
+          "https://www.grubhub.com/restaurant/slik-437-e-12th-st-new-york/13890016",
+          "https://www.sliknyc.com/password",
+          "https://www.theinfatuation.com/new-york/reviews/slik",
+          "https://www.ubereats.com/store/slik-437-e-12th-st/tC1wUciBU4CslUjVadBikA?srsltid=AU7gw4WII_724XsI-g7r-TSK9luVv6JrwakPGVUshMuNnT0niJAflHoG"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/sliknyc/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      },
+      {
+        "url": "https://www.facebook.com/p/SLIK-61583453232302/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

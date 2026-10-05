@@ -52,5 +52,69 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:10:02.772833+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:09:04.299593+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://mariscoselsubmarinonyc.com/",
+        "title": "mariscoselsubmarinonyc",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://mariscoselsubmarinonyc.com/menu/",
+        "title": "mariscoselsubmarinonyc — Menu",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.tripadvisor.co.nz/Restaurant_Review-g60827-d28031270-Reviews-Mariscos_El_Submarino-Brooklyn_New_York.html",
+        "title": "MARISCOS EL SUBMARINO, Brooklyn - Greenpoint - Restaurant Reviews & Photos",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Mariscos El Submarino  Brooklyn,  NY 11222 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://mariscoselsubmarinonyc.com/",
+          "https://www.yelp.com/biz/mariscos-el-submarino-brooklyn",
+          "https://mariscoselsubmarinonyc.com/menu/",
+          "https://www.facebook.com/mariscoselsubmarino/",
+          "https://www.instagram.com/mariscoselsubmarino/?hl=en",
+          "https://www.tripadvisor.co.nz/Restaurant_Review-g60827-d28031270-Reviews-Mariscos_El_Submarino-Brooklyn_New_York.html",
+          "https://toast.app/r/mariscos-222-franklin-street?utm_medium=redirect",
+          "https://www.nyc.gov/assets/brooklyncb1/downloads/pdf/2025/SLA-Review-DCA-Committee-Meeting-Notice-11-24-25.pdf",
+          "https://www.ubereats.com/store/mariscos-ei-submarino-greenpoint-222-franklin-street/1xW-KimMWBuo1ioqjGeFhQ?srsltid=AU7gw4V6i5RK6vVy4a1XElZGk7XQ5ngTLuAaXRW_39INonVFR3_ghZfZ"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/mariscoselsubmarino/",
+        "source": "https://mariscoselsubmarinonyc.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/mariscoselsubmarino/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      },
+      {
+        "url": "https://www.instagram.com/mariscoselsubmarino/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

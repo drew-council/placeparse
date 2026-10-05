@@ -78,5 +78,36 @@
       }
     },
     "quality_reviewed_at": "2026-10-04T05:58:56.906161+00:00"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:12:52.316906+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://wahfungno1fastfood.goldenpalacebrooklyn.site/",
+        "title": "Wah Fung No.1 Fast Food – Best Chinese Restaurant",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "support@wahfungno1fastfood.site",
+        "url": "https://wahfungno1fastfood.goldenpalacebrooklyn.site/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [],
+    "email_lead_verification": {
+      "checked_at": "2026-10-04T21:27:57.477728+00:00",
+      "outcome": "not_confirmed_on_first_party_sources",
+      "queries": [
+        "\"support@wahfungno1fastfood.site\" Wah Fung No.1 Fast Food"
+      ],
+      "result_urls": []
+    }
   }
 }

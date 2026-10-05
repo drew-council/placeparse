@@ -471,6 +471,94 @@
       "https://www.robertishere.com/"
     ],
     "browser_checked_at": "2026-10-03T22:11:12.743411+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "candidate_sources": {
+      "fresh@robertishere.com": {
+        "urls": [
+          "https://www.bringfido.com/attraction/44171"
+        ],
+        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      },
+      "info@robertishere.com": {
+        "urls": [
+          "https://farmhopflorida.com/farm/robert-is-here-fruit-stand"
+        ],
+        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:25:45.321777+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.robertishere.com/",
+        "title": "Robert Is Here – Robert Is Here, Inc.",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.robertishere.com/pages/our-story",
+        "title": "Our Story – Robert Is Here, Inc.",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.bringfido.com/attraction/44171",
+        "title": "Robert Is Here Fruit Stand",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.miamiandbeaches.com/l/attractions/robert-is-here-fruit-stand-and-farm/16990",
+        "title": "Robert Is Here Fruit Stand and Farm | Miami & Miami Beach",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://farmhopflorida.com/farm/robert-is-here-fruit-stand",
+        "title": "Robert Is Here Fruit Stand | Homestead | Farm Hop Florida",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.enjoyflorida.com/shopping/robert-is-here-fruit-stand/",
+        "title": "Robert Is Here Fruit Stand Homestead / Miami Things To Do",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Robert Is Here Fruit Stand\"  Homestead,  FL 33034 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.bringfido.com/attraction/44171",
+          "https://www.facebook.com/robertisherefruitstandandfarm/",
+          "https://www.miamiandbeaches.com/l/attractions/robert-is-here-fruit-stand-and-farm/16990",
+          "https://www.instagram.com/p/CnkakRRu_8s/",
+          "https://farmhopflorida.com/farm/robert-is-here-fruit-stand",
+          "https://www.enjoyflorida.com/shopping/robert-is-here-fruit-stand/",
+          "https://rocketreach.co/robert-is-here-fruit-stand-profile_b4622ae6fc5d8f04",
+          "https://www.yelp.com/biz/robert-is-here-homestead-2?start=60",
+          "https://voyagemia.com/interview/meet-robert-moehling-robert-fruit-stand-farm-homestead/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/robertisherefruitstandandfarm/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ],
+    "email_lead_verification": {
+      "checked_at": "2026-10-04T21:27:51.818087+00:00",
+      "outcome": "not_confirmed_on_first_party_sources",
+      "queries": [
+        "\"fresh@robertishere.com\" Robert Is Here Fruit Stand"
+      ],
+      "result_urls": []
+    }
   }
 }

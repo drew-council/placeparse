@@ -38,5 +38,71 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:08:21.684447+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://retail.tangramnyc.com/store/ganblaze-bbq-house/",
+        "title": "GanBlaze BBQ House | Tangram Retail",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://frankiapp.com/business/ganblaze-777516",
+        "title": "Ganblaze — BBQ Joint in Flushing, NY 11354 | Franki",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "GanBlaze  Flushing,  NY 11354 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://retail.tangramnyc.com/store/ganblaze-bbq-house/",
+          "https://www.yelp.com/biz/ganblaze-flushing",
+          "https://frankiapp.com/business/ganblaze-777516",
+          "https://www.opentable.com/r/ganblaze-queens",
+          "https://www.instagram.com/p/DX-o5WGHDM7/",
+          "https://www.facebook.com/p/%E5%B9%B2%E6%9D%AF-GanBlaze-61582891985772/",
+          "https://www.yelp.com/biz/ganblaze-flushing?start=40",
+          "https://www.instagram.com/gan.blaze/?hl=en",
+          "https://ww1.aaa.com/tripcanvas/restaurant/ganblaze-AA90243"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "events@tangramnyc.com",
+        "url": "https://retail.tangramnyc.com/store/ganblaze-bbq-house/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "email",
+        "email": "info@tangramnyc.com",
+        "url": "https://retail.tangramnyc.com/store/ganblaze-bbq-house/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/p/%E5%B9%B2%E6%9D%AF-GanBlaze-61582891985772/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      },
+      {
+        "url": "https://www.instagram.com/gan.blaze/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

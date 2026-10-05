@@ -93,5 +93,57 @@
     ],
     "browser_checked_at": "2026-10-03T22:09:45.403730+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.libraebakery.com/contact/",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact | Librae Bakery in New York, NY",
+          "labels": [
+            "",
+            "Name",
+            "Email",
+            "Phone Number",
+            "What are you getting in touch about? - Optional\nWhat are you getting in touch about?\nGeneral Inquiry\nPress Inquiry",
+            "Your Message",
+            "Send"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:10:31.502561+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:10:31.502636+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.libraebakery.com/contact/",
+        "title": "Contact | Librae Bakery in New York, NY",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "http://www.facebook.com/libraebakery",
+        "source": "https://www.libraebakery.com/contact/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://instagram.com/libraebakery",
+        "source": "https://www.libraebakery.com/contact/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

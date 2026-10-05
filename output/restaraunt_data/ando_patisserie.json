@@ -461,5 +461,86 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:07:17.835446+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:21:34.410549+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.andopatisserie-official.com/",
+        "title": "Ando Patisserie",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.andopatisserie-official.com/order",
+        "title": "Contact 3 — Ando Patisserie",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://joe.coffee/locations/ny/new-york/ando-patisserie-new-york/",
+        "title": "ANDO patisserie - New York, NY | joe coffee",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ando-patisserie-new-york.localchinesefoods.net/",
+        "title": "ANDO patisserie – Asian Dessert in New York, NY | Local Chinese Foods",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"ANDO patisserie\"  New York,  NY 10003 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.andopatisserie-official.com/order",
+          "https://joe.coffee/locations/ny/new-york/ando-patisserie-new-york/",
+          "https://www.yelp.com/biz/ando-patisserie-new-york",
+          "https://ando-patisserie-new-york.localchinesefoods.net/",
+          "https://www.instagram.com/andopatisserie/?hl=en",
+          "https://www.nycdateideas.com/places/ando-patisserie",
+          "https://local.yahoo.com/info-231671412-ando-patisserie-new-york/",
+          "https://dessertcorrespondents.com/2023/03/13/chinese-bakery-ando-patisserie-nyc-basque-cheesecake-bubbletea/",
+          "https://www.facebook.com/100084068070811/posts/were-hiring-%EF%B8%8Flooking-for-a-barista-who-loves-good-coffee-good-conversation-and-c/1046599298152330/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "info@localchinesefoods.net",
+        "url": "https://ando-patisserie-new-york.localchinesefoods.net/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/andopatisserie/?igshid=OGQ5ZDc2ODk2ZA%3D%3D",
+        "source": "https://www.andopatisserie-official.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/squarespace",
+        "source": "https://www.andopatisserie-official.com/order",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/squarespace/",
+        "source": "https://www.andopatisserie-official.com/order",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/andopatisserie/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

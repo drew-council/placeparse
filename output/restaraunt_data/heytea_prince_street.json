@@ -52,5 +52,49 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:06.993897+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:07:09.018406+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.heytea.com/",
+        "title": "heytea - new style tea by inspiration",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://heytea-flushing-prince-street.wheree.com/",
+        "title": "HEYTEA (FLUSHING PRINCE STREET) - Reviews, Photos & Phone Number (2026) - Bubble Tea Store in Queens, New York (NY) - Wheree",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "heytea (Prince Street)  Flushing,  NY 11354 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/heytea-queens-4",
+          "https://www.heytea.com/contact",
+          "https://www.heytea.com/",
+          "https://www.ubereats.com/store/heytea-prince-st/p6UT5TqFXoKKrehBBcFonw?srsltid=AU7gw4Xk4eFsMDQF3SGjCIwu-wEbUke67d599frJg2XumT7DCh7J6ZZu",
+          "https://heytea-flushing-prince-street.wheree.com/",
+          "https://www.yelp.com/biz/heytea-flushing",
+          "https://local.yahoo.com/info-237476341-heytea-flushing/",
+          "https://www.mapquest.com/us/new-york/heytea-711451314",
+          "https://www.fantuanorder.com/en-US/store/heytea/us-1725896641"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://www.heytea.com/contact",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'wait', '--fn', 'document.body?.innerText?.trim"
+      }
+    ],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

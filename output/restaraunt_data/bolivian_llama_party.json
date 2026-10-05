@@ -91,5 +91,56 @@
     ],
     "browser_checked_at": "2026-10-03T22:07:25.363827+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.blp.nyc/contact-us",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact BLP | Get in Touch with Bolivian Llama Party | Bolivian Llama Party | Bolivian Cuisine | Queens, NY",
+          "labels": [
+            "Full name",
+            "you@example.com",
+            "123-456-7890",
+            "Your message here...",
+            "",
+            ""
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:10:55.775266+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:10:55.775335+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.blp.nyc/contact-us",
+        "title": "Contact BLP | Get in Touch with Bolivian Llama Party | Bolivian Llama Party | Bolivian Cuisine | Queens, NY",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/Bolivianllamaparty/",
+        "source": "https://www.blp.nyc/contact-us",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/bolivianllamaparty/",
+        "source": "https://www.blp.nyc/contact-us",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

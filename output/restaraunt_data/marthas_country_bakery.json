@@ -594,5 +594,73 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:10:03.935479+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:21:08.850828+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://marthascountrybakery.com/",
+        "title": "Martha´s Country Bakery | Est. 1972",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://marthascountrybakery.com/astoria/",
+        "title": "Astoria | Martha´s Country Bakery",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://marthascountrybakery.com/location/",
+        "title": "Location | Martha´s Country Bakery",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://marthascountrybakery.com/blog-2/",
+        "title": "Blog | Martha´s Country Bakery",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Martha's Country Bakery\"  Astoria,  NY 11105 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://marthascountrybakery.com/astoria/",
+          "https://marthascountrybakery.com/location/",
+          "https://marthascountrybakery.com/",
+          "https://www.yelp.com/biz/marthas-country-bakery-astoria?start=80",
+          "https://marthascountrybakery.com/blog-2/",
+          "https://www.instagram.com/marthascountrybakery/?hl=en",
+          "https://www.tripadvisor.com/Restaurant_Review-g29837-d3244277-Reviews-Martha_s_Country_Bakery-Astoria_Queens_New_York.html",
+          "https://www.facebook.com/marthasny/posts/?ref=page_internal&locale=tr_TR",
+          "https://local.yahoo.com/info-28389553-martha-s-country-bakery-astoria/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://instagram.com/marthascountrybakery?igshid=MjkzY2Y1YTY=",
+        "source": "https://marthascountrybakery.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/marthascountrybakery/",
+        "source": "https://marthascountrybakery.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/marthascountrybakery/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

@@ -476,5 +476,63 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:15.704072+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:24:25.919262+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://hamidoseafood.com/",
+        "title": "Hamido Seafood | Astoria, New York",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://hamidoseafood.com/faq/",
+        "title": "FAQ | Hamido Seafood",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"IBN Hamido Seafood\"  Astoria,  NY 11105 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://hamidoseafood.com/",
+          "https://www.facebook.com/HamidoSeafood/",
+          "https://www.tripadvisor.com/Restaurant_Review-g29837-d19226231-Reviews-Ibn_Hamido_Seafood_Nyc-Astoria_Queens_New_York.html",
+          "https://www.yelp.com/biz/ibn-hamido-seafood-astoria-3",
+          "https://www.facebook.com/Goodbytesbychris/posts/this-place-called-ibnhamidoseafoodnyc-is-an-egyptian-restaurant-known-to-be-maki/122141570918974329/",
+          "https://www.facebook.com/HamidoSeafood?locale=fo_FO",
+          "https://www.yelp.com/biz/ibn-hamido-seafood-astoria-3?start=40",
+          "https://ibn-hamido-seafood-1562252.wheree.com/",
+          "https://www.facebook.com/Jonathanchoione/posts/this-ny-times-top-100-restaurant-is-serving-one-of-the-best-1999-seafood-lunch-s/1299300798922112/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/ibn.hamido.seafood.nyc/",
+        "source": "https://hamidoseafood.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/HamidoSeafood/",
+        "source": "https://hamidoseafood.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/HamidoSeafood?locale=fo_FO",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

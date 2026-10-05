@@ -440,11 +440,21 @@
   "vicinity": "51 Mott St, New York",
   "website": "https://www.grubhub.com/restaurant/gai-kitchen-51-mott-street-new-york/4611272",
   "business_status_checked_at": "2026-10-03T20:05:11.113970+00:00",
-  "emails": [],
+  "emails": [
+    "gaikitchenchinatown@gmail.com",
+    "gaikitchennyc@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:51.838715+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "gaikitchenchinatown@gmail.com": [
+        "https://gaikitchen.com/page/contact-us"
+      ],
+      "gaikitchennyc@gmail.com": [
+        "https://gaikitchen.com/"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.grubhub.com/restaurant/gai-kitchen-51-mott-street-new-york/4611272",
@@ -452,6 +462,133 @@
         "emails": []
       }
     ],
-    "contact_forms": []
+    "contact_forms": [],
+    "publication_evidence": {
+      "gaikitchenchinatown@gmail.com": {
+        "url": "https://gaikitchen.com/page/contact-us",
+        "quote": "Skip to main content\nMenu\nFranchise With Us\nOur Story\nWe're Hiring\nGift Cards\nMore\nContact Us\nSign in\nOrder online\nContact Us | Gai Kitchen\nContact Info\n📞(347) 508-1843\n\n✉️ Gaikitchenchinatown@gmail.com\n\n📍51 Mott Street New York, NY 10013\n\nContact us\n\nPlease complete the form below and we’ll get back to you as soon as we can.\n\nName*\nrequired\nEmail*\nrequired\nPhone*\nrequired\nMessag",
+        "checked_at": "2026-10-04T20:49:41.456805+00:00",
+        "business_match": "Maps-linked restaurant site or manually matched restaurant name/location/phone"
+      },
+      "gaikitchennyc@gmail.com": {
+        "url": "https://gaikitchen.com/",
+        "quote": "delivery or takeout?\nWhere are you located?\nWhat areas do you serve?\nOur location\nGai Kitchen\nNew York, NY\nAddress\n51 Mott St\nNew York, NY 10013\nContact\nCall\n(646) 861-3798\nEmail\ngaikitchennyc@gmail.com\nGet directions\nToday: 10:00 AM - 9:00 PM\nSee hours\nOrder online\nMenu\nFranchise With Us\nOur Story\nWe're Hiring\nGift Cards\nContact Us\n\nDownload our app\n\nEarn points for free food\n\nF",
+        "checked_at": "2026-10-04T20:49:41.456805+00:00",
+        "business_match": "Maps-linked restaurant site or manually matched restaurant name/location/phone"
+      }
+    },
+    "browser_checked_at": "2026-10-04T20:49:41.456805+00:00"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://gaikitchen.com/page/contact-us",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact Us | Gai Kitchen",
+          "labels": [
+            "Name",
+            "Email",
+            "Phone",
+            "Message*\nrequired",
+            "SEND",
+            "Submit another request"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:49:34.754779+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:49:41.456805+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://gaikitchen.com/page/contact-us",
+        "title": "Contact Us | Gai Kitchen",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://gaikitchen.com/",
+        "title": "Best Thai Food in Chinatown, New York | Gai Kitchen | Thai Food near me",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://gaikitchenfranchise.com/",
+        "title": "Gai Kitchen Franchise – Gai Kitchen Franchise",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Gai Kitchen\"  New York,  NY 10013 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://gaikitchen.com/page/contact-us",
+          "https://gaikitchen.com/",
+          "https://gaikitchenfranchise.com/",
+          "https://www.facebook.com/people/Gai-Kitchen/100085690188005/",
+          "https://www.facebook.com/p/Gai-Kitchen-100085690188005/",
+          "https://www.instagram.com/gaikitchen/",
+          "https://www.back-link.us/business/gai-kitchen-7551316/branch/gai-kitchen-new-york-ny",
+          "https://www.newyorkmeal.com/106184534749378/Gai-Kitchen-Chinatown-NYC",
+          "https://www.yelp.com/biz/gai-kitchen-new-york-2",
+          "https://www.chamberofcommerce.com/business-directory/new-york/new-york/thai-restaurant/2029977531-gai-kitchen"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "gaikitchenchinatown@gmail.com",
+        "url": "https://gaikitchenfranchise.com/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "https://gaikitchenfranchise.com/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/profile.php?id=100085690188005",
+        "source": "https://gaikitchen.com/page/contact-us",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/gaikitchen/?hl=en",
+        "source": "https://gaikitchen.com/page/contact-us",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/people/Gai-Kitchen/100085690188005/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      },
+      {
+        "url": "https://www.facebook.com/p/Gai-Kitchen-100085690188005/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      },
+      {
+        "url": "https://www.instagram.com/gaikitchen/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

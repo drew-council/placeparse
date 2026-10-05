@@ -477,5 +477,78 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:46:55.883489+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://restaurantjump.com/nan-xiang-express-williamsburg-ny-11249/",
+        "title": "Nan Xiang Express - Williamsburg, NY - Brooklyn, NY 11249 - Menu, Reviews, Hours & Contact",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://nan-xiang-express-williamsburg-ny.wheree.com/",
+        "title": "NAN XIANG EXPRESS - WILLIAMSBURG, NY - Reviews, Photos & Phone Number (2026) - Noodle Restaurant in Kings County, New York (NY) - Wheree",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.postcard.inc/places/nan-xiang-express-williamsburg-ny-new-york-f_LJ_63s1nM",
+        "title": "Nan Xiang Express - Dumpling restaurant in Williamsburg, New York | Reviews, Photos & Information on Postcard",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.checkle.com/biz/nan-xiang-express-soup-dumplings-brooklyn",
+        "title": "Nan Xiang Express - Williamsburg, NY - Updated November 2025",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://restaurantedroop.com/restaurants-near-me/nan-xiang-express-williamsburg-ny",
+        "title": "Nan Xiang Express: Authentic Chinese Cuisine in Williamsburg, Brooklyn",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://buffetlocator.com/chinese-buffets/kings-county-ny/nan-xiang-express-williamsburg-ny-ny",
+        "title": "Nan Xiang Express - Williamsburg, NY – Chinese Buffet in Kings County (Menu, Prices, Hours)",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Nan Xiang Express - Williamsburg, NY\"  Brooklyn,  NY 11249 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://restaurantjump.com/nan-xiang-express-williamsburg-ny-11249/",
+          "https://nan-xiang-express-williamsburg-ny.wheree.com/",
+          "https://www.postcard.inc/places/nan-xiang-express-williamsburg-ny-new-york-f_LJ_63s1nM",
+          "https://www.checkle.com/biz/nan-xiang-express-soup-dumplings-brooklyn",
+          "https://restaurantedroop.com/restaurants-near-me/nan-xiang-express-williamsburg-ny",
+          "https://buffetlocator.com/chinese-buffets/kings-county-ny/nan-xiang-express-williamsburg-ny-ny"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "yrosa968@gmail.com",
+        "url": "https://restaurantjump.com/nan-xiang-express-williamsburg-ny-11249/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "https://restaurantjump.com/nan-xiang-express-williamsburg-ny-11249/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "email",
+        "email": "server@restaurantedroop.com",
+        "url": "https://restaurantedroop.com/restaurants-near-me/nan-xiang-express-williamsburg-ny",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": []
   }
 }

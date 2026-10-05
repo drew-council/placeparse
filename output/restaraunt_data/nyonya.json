@@ -674,5 +674,51 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:10:34.240546+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:55:03.768450+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://nyonya.locallya.com/",
+        "title": "Nyonya Malaysian Restaurant | Traditional Malaysian Cuisine in NYC",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://nyonya.org/",
+        "title": "Nyonya Restaurant NYC – Malaysian Dishes Full of Flavor & Spice",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Nyonya\"  New York,  NY 10013 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://nyonya.org/",
+          "https://www.yelp.com/biz/nyonya-new-york",
+          "https://nyonya.org/contact-us/",
+          "https://www.back-link.us/business/nyonya-9530035/branch/nyonya-new-york-ny",
+          "https://nyonya.store/",
+          "https://www.yellowpages.com/new-york-ny/mip/nyonya-453303570",
+          "https://a-better-place.com/US/nyonya-i554239.html",
+          "https://nyonya.wherevi.com/",
+          "https://www.mapquest.com/us/new-york/nyonya-272508786",
+          "https://www.manta.com/c/mklhy42/nyonya"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "review@nyonya.org",
+        "url": "https://nyonya.org/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": []
   }
 }

@@ -55,5 +55,62 @@
     ],
     "browser_checked_at": "2026-10-03T22:11:36.296717+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:07:32.655937+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://tapyorka.com/",
+        "title": "Tapyorka – Uma experiência de sabores tropicais que traz o verdadeiro Brasil para Nova York.",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.eater.com/venue/966959/tapyorka",
+        "title": "Tapyorka | Eater",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.buyblack.org/united-states/astoria/restaurants/tapyorka",
+        "title": "Tapyorka - Restaurants - Black-owned",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Tapyorka  Astoria,  NY 11106 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/tapyorka-astoria",
+          "https://www.instagram.com/tapyorka/?hl=en",
+          "https://www.eater.com/venue/966959/tapyorka",
+          "https://www.grubhub.com/restaurant/tapyorka-31-05-36th-avenue-astoria/14790952",
+          "https://www.ubereats.com/store/tapyorka-31-05-36th-ave/w4f60pqgT12yEXYvOeljgg?srsltid=AU7gw4UBKsmuF8VvhklOlR9LDL2BsRD8ZSSHFdk-JSsQEWit5BjhVCsS",
+          "https://www.buyblack.org/united-states/astoria/restaurants/tapyorka",
+          "https://www.nycrestaurantgrades.com/restaurants/queens/tapyorka-50178034",
+          "https://maps.apple.com/place?place-id=I21FF19BC25E7A07",
+          "https://postmates.com/store/tapyorka-31-05-36th-ave/w4f60pqgT12yEXYvOeljgg"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/tapyorka/",
+        "source": "https://tapyorka.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/tapyorka/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

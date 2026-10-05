@@ -452,12 +452,81 @@
   "utc_offset": -240,
   "vicinity": "84 E 10th St 2nd FL, New York",
   "business_status_checked_at": "2026-10-03T20:04:49.671486+00:00",
-  "emails": [],
+  "emails": [
+    "gracedessertev@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:14.426328+00:00",
-    "outcome": "no_website",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "gracedessertev@gmail.com": [
+        "https://www.cafe2by2.com/contact-us"
+      ]
+    },
     "pages": [],
-    "contact_forms": []
+    "contact_forms": [],
+    "publication_evidence": {
+      "gracedessertev@gmail.com": {
+        "url": "https://www.cafe2by2.com/contact-us",
+        "quote": "ar from you! Contact us with any questions, feedback,\n\nor just to say hello.\n\nFirst Name\nLast Name\nEmail\nMessage\nSend\n\nAddress\n\n84 E 10th Street, 2nd FL, New York NY 10003\n\nEmail\n\ngracedessertev@gmail.com\n\nPhone\n\n646-565-1355\n\nOpening Hours\n\n11am-10pm everyday\n\n© Powered by Chowbus",
+        "checked_at": "2026-10-04T20:29:56.937199+00:00",
+        "business_match": "Maps-linked restaurant site or manually matched restaurant name/location/phone"
+      }
+    },
+    "browser_checked_at": "2026-10-04T20:29:56.937199+00:00"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.cafe2by2.com/contact-us",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact Us | CAFE 2BY2",
+          "labels": [
+            "First Name",
+            "Last Name",
+            "Email",
+            "Message",
+            "Send"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:29:56.937132+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:29:56.937199+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.cafe2by2.com/contact-us",
+        "title": "Contact Us | CAFE 2BY2",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"CAFE 2BY2\"  New York,  NY 10003 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.cafe2by2.com/contact-us",
+          "https://www.yelp.com/biz/cafe-2by2-new-york",
+          "https://www.instagram.com/reel/DKvHz4dOayb/",
+          "https://local.yahoo.com/info-236819382-cafe-2by2-new-york/",
+          "https://www.grubhub.com/restaurant/cafe-2by2-84-e-10th-st-new-york/8455184",
+          "https://www.giftly.com/gift-card/cafe-2by2-new-york?srsltid=AU7gw4WsB55F2kRraIfXq-Nq6UElWbVPevHzepPaM1LzisfozEayONs9",
+          "https://www.instagram.com/reel/DbB8NuXgBUT/",
+          "https://cafe-2by2.wheree.com/",
+          "https://www.doordash.com/store/cafe-2by2-new-york-29355592/?srsltid=AU7gw4Uury_wMAaUt6LWZbdVfL7T5epQVCDKp0wQDpTK_o5eBQr_cU0L"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

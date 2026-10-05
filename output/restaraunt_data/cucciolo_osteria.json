@@ -515,6 +515,88 @@
       "https://cucciolonc.com/terrazza/contact/"
     ],
     "browser_checked_at": "2026-10-03T22:08:31.418614+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "candidate_sources": {
+      "info@cucciolodurham.com": {
+        "urls": [
+          "https://www.bizarchive.com/business/cucciolo-osteria-durham-984-243-8744"
+        ],
+        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T21:04:16.799769+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://cucciolonc.com/osteria/about/",
+        "title": "About | Cucciolo",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/north-carolina/durham/miscellaneous/2014615326-cucciolo-osteria-durham",
+        "title": "Cucciolo Osteria Durham in Durham, NC 27701 - 984-243...",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.bizarchive.com/business/cucciolo-osteria-durham-984-243-8744",
+        "title": "Cucciolo Osteria Durham | (984) 243-8744 | Durham, North Carolina",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Cucciolo Osteria Durham\"  Durham,  NC 27701 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.opentable.com/r/cucciolo-osteria-durham",
+          "https://cucciolonc.com/osteria/about/",
+          "https://www.yelp.com/biz/cucciolo-osteria-durham-3",
+          "https://www.facebook.com/CuccioloDurham/",
+          "https://www.chamberofcommerce.com/business-directory/north-carolina/durham/miscellaneous/2014615326-cucciolo-osteria-durham",
+          "https://www.bizarchive.com/business/cucciolo-osteria-durham-984-243-8744",
+          "https://www.findglocal.com/US/Durham/1794215307304673/Cucciolo-Osteria-Durham"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "http://www.cucciolodurham.com/",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'wait', '--fn', 'document.body?.innerText?.trim"
+      }
+    ],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/north-carolina/durham/miscellaneous/2014615326-cucciolo-osteria-durham",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "form",
+        "url": "https://www.bizarchive.com/business/cucciolo-osteria-durham-984-243-8744",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/CuccioloDurham/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ],
+    "email_lead_verification": {
+      "checked_at": "2026-10-04T21:27:37.440302+00:00",
+      "outcome": "not_confirmed_on_first_party_sources",
+      "queries": [
+        "\"info@cucciolodurham.com\" Cucciolo Osteria Durham"
+      ],
+      "result_urls": []
+    }
   }
 }

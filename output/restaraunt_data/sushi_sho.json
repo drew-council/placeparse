@@ -436,5 +436,56 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:30:41.710550+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.reddit.com/r/finedining/comments/1szbogu/sushi_sho_reservation_far_in_advance_emailcall/",
+        "title": "Sushi Sho Reservation Far in Advance - Email/Call : r/finedining",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.sushi-sho.com/reservations",
+        "title": "Reservations — SUSHI SHO",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://autoreserve.com/en/restaurants/QD9tw2r288xW2Vn4UNvz",
+        "title": "Attention Required! | Cloudflare",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Sushi Sho\"  New York,  NY 10017 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.exploretock.com/sushi-sho-nyc/faq/",
+          "https://www.reddit.com/r/finedining/comments/1szbogu/sushi_sho_reservation_far_in_advance_emailcall/",
+          "https://www.instagram.com/sushishonyc/?hl=en",
+          "https://www.yelp.com/biz/sushi-sho-new-york-2",
+          "https://www.sushi-sho.com/reservations",
+          "https://autoreserve.com/en/restaurants/QD9tw2r288xW2Vn4UNvz",
+          "https://www.exploretock.com/sushi-sho-nyc",
+          "https://www.exqz.com/place/sushi-sho-new-york",
+          "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-sho-1213976"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/sushishonyc/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

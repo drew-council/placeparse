@@ -52,5 +52,56 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:15.294406+00:00",
     "browser_outcome": "incomplete_lookup"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:10:13.100316+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://ny.eater.com/venue/98490/hyderabadi-zaiqa",
+        "title": "Hyderabadi Zaiqa | Eater NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ny.eater.com/venue/114402/hyderabadi-zaiqa-3",
+        "title": "Hyderabadi Zaiqa | Eater NY",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "HYDERABADI ZAIQA  New York,  NY 10016 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://hyderabadizaiqalexington.com/",
+          "https://ny.eater.com/venue/98490/hyderabadi-zaiqa",
+          "https://ny.eater.com/venue/114402/hyderabadi-zaiqa-3",
+          "https://www.yelp.com/biz/hyderabadi-zaiqa-new-york",
+          "https://hyderabadizaiqa.com/",
+          "https://www.instagram.com/hyderabadizaiqanyc/?hl=en",
+          "https://www.tripadvisor.com/Restaurant_Review-g60763-d26834530-Reviews-Hyderabadi_Zaiqa-New_York_City_New_York.html",
+          "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/hyderabadi-zaiqa",
+          "https://hyderabadizaiqa2026.com/"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://hyderabadizaiqalexington.com/",
+        "status": "browser_challenge_or_unavailable"
+      }
+    ],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/hyderabadizaiqanyc/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

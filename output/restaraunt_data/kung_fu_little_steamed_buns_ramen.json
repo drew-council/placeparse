@@ -468,5 +468,59 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:31.778425+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:54:50.874727+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://kungfutogo.com/",
+        "title": "Home | Kung Fu Little Steamed Buns Ramen (146 E 55th St)",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ny.eater.com/venue/77101/kung-fu-little-steamed-buns-ramen",
+        "title": "Kung Fu Little Steamed Buns Ramen | Eater NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.yellowpages.com/new-york-ny/mip/kung-fu-little-steamed-buns-ramen-507870989",
+        "title": "Kung Fu Little Steamed Buns - New York, NY 10022",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.foodiecard.com/our-restaurants/kung-fu-little-steamed-buns-ramen-55th-st",
+        "title": "Kung Fu Little Steamed Buns Ramen - 55th St in New York, NY - Get 10% Off | Foodie Card",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://kung-fu-little-steamed-buns-ramen.wheree.com/",
+        "title": "KUNG FU LITTLE STEAMED BUNS RAMEN - Reviews, Photos & Phone Number (2026) - Noodle Restaurant in New York, New York (NY) - Wheree",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Kung Fu Little Steamed Buns Ramen\"  New York,  NY 10022 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://kungfutogo.com/",
+          "https://www.yelp.com/biz/kung-fu-little-steamed-buns-ramen-new-york-2",
+          "https://ny.eater.com/venue/77101/kung-fu-little-steamed-buns-ramen",
+          "https://www.yellowpages.com/new-york-ny/mip/kung-fu-little-steamed-buns-ramen-507870989",
+          "https://www.foodiecard.com/our-restaurants/kung-fu-little-steamed-buns-ramen-55th-st",
+          "https://kung-fu-little-steamed-buns-ramen.wheree.com/",
+          "https://restaurantjump.com/kung-fu-little-steamed-buns-ramen-10022/",
+          "https://www.zoominfo.com/c/kung-fu-little-steamed-buns-ramen/1214073015",
+          "https://real-kung-fu-little-steamed-buns-ramen.restaurmenu.com/",
+          "https://firmania.com/new-york/kung-fu-little-steamed-buns-ramen-3631371"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

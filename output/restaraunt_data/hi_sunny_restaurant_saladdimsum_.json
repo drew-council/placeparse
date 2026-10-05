@@ -471,5 +471,53 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:08.637720+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:24:41.200276+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.hisunnyrestaurantny.com/",
+        "title": "Hi Sunny Restaurant Salad & Dimsum - Chinese Restaurant | Online Order | New York | NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.hisunnyrestaurantny.com/contact-us/",
+        "title": "Contact Us | Hi Sunny Restaurant Salad & Dimsum - Chinese Restaurant | Online Order | New York | NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.atly.com/united-states/new-york/best-dim-sum-hidden-gems",
+        "title": "NYC's 24 Best Hidden Gem Dim Sum Spots",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Hi Sunny Restaurant Salad&Dimsum 花园轻食\"  New York,  NY 10001 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.atly.com/united-states/new-york/best-dim-sum-hidden-gems"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/hisunnyrestaurant/",
+        "source": "https://www.hisunnyrestaurantny.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/profile.php?id=61569959501313",
+        "source": "https://www.hisunnyrestaurantny.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

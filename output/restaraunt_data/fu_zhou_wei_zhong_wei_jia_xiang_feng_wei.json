@@ -455,5 +455,43 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:24:33.806292+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.reddit.com/r/FoodNYC/comments/1wh248t/rateroast_my_list_of_things_i_want_to_eat_on_a/?solution=936a740bdea3248e936a740bdea3248e&js_challenge=1&jsc_token=2824be10929bdc604753c70a67a1c331e83e1ab7acab6ec8313bd4f9a59e656c&jsc_orig_r=",
+        "title": "Rate/roast my list of things I want to eat on a once in a lifetime trip to New York : r/FoodNYC",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://eatthisny.com/2024/09/26/dumplings/dumplings-in-new-york-fu-zhou-wei-zhong/",
+        "title": "DUMPLINGS in New York: Fu Zhou Wei Zhong – Eat This NY",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Fu Zhou Wei Zhong Wei Jia Xiang Feng Wei\"  New York,  NY 10002 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/fuzhou-wei-zhong-wei-new-york-2",
+          "https://www.tripadvisor.com/Restaurant_Review-g60763-d26921765-Reviews-Fu_Zhou_Wei_Zhong_Wei_Jia_Xiang_Feng_Wei-New_York_City_New_York.html",
+          "https://www.reddit.com/r/FoodNYC/comments/1wh248t/rateroast_my_list_of_things_i_want_to_eat_on_a/",
+          "https://eatthisny.com/2024/09/26/dumplings/dumplings-in-new-york-fu-zhou-wei-zhong/",
+          "https://www.instagram.com/reel/DIVGILHOsH6/",
+          "https://www.mapquest.com/us/new-york/fu-zhou-wei-zhong-wei-jia-xiang-feng-wei-777201861",
+          "https://www.eater.com/23598627/fu-zhou-wei-zhong-dumplings-chinatown-mall",
+          "https://www.facebook.com/HereBeBarr/posts/chinatown-nyc-hidden-gem-fu-zhou-wei-jong-with-their-5-steamed-bun-special-in-th/1148594243501388/",
+          "https://www.theinfatuation.com/new-york/reviews/fu-zhou-wei-zhong-wei-jia-xiang-feng-wei"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

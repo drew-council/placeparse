@@ -52,5 +52,68 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:27.052589+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:07:15.248546+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.cocinaconsuelonyc.com/consuelouws",
+        "title": "UPPER WEST SIDE LOCATION — Cocina Consuelo NYC",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.cocinaconsuelonyc.com/",
+        "title": "Cocina Consuelo NYC",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Consuelo  New York,  NY 10025 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.cocinaconsuelonyc.com/consuelouws",
+          "https://www.facebook.com/cocinaconsuelonyc/",
+          "https://www.cocinaconsuelonyc.com/",
+          "https://www.instagram.com/consuelo_nyc/",
+          "https://www.whitepages.com/name/Consuelo-E-Duenez/New-York-NY/Pl8aYvPm58b",
+          "https://www.yelp.com/biz/cocina-consuelo-new-york-2",
+          "https://npiregistry.cms.hhs.gov/provider-view/1104120401",
+          "https://cocina-consuelo.wheree.com/",
+          "https://www.theinfatuation.com/new-york/reviews/cocina-consuelo-upper-west-side"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://www.whitepages.com/name/Consuelo-E-Duenez/New-York-NY/Pl8aYvPm58b",
+        "status": "browser_challenge_or_unavailable"
+      }
+    ],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/cocinaconsuelonyc/",
+        "source": "https://www.cocinaconsuelonyc.com/consuelouws",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/cocinaconsuelonyc/",
+        "source": "https://www.cocinaconsuelonyc.com/consuelouws",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/consuelo_nyc/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

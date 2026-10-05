@@ -466,6 +466,94 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:43.714412+00:00",
-    "browser_outcome": "incomplete_lookup"
+    "browser_outcome": "incomplete_lookup",
+    "candidate_sources": {
+      "nicolew@essexpearl.com": {
+        "urls": [
+          "https://www.bizarchive.com/business/essex-pearl-347-899-4998"
+        ],
+        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T21:04:33.998565+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.bizarchive.com/business/essex-pearl-347-899-4998",
+        "title": "Essex Pearl | (347) 899-4998 | New York City",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.manhattan-nyc.com/verify-human?next=/businesses/essex-pearl--g-11fm_79ztm/",
+        "title": "Security Check",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://restaurantjump.com/essex-pearl-10011/",
+        "title": "Essex Pearl - New York, NY 10011 - Menu, Reviews, Hours & Contact",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Essex Pearl\"  New York,  NY 10011 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.essexpearl.com/",
+          "https://www.essexpearl.com/happy-hour",
+          "https://www.bizarchive.com/business/essex-pearl-347-899-4998",
+          "https://www.yelp.com/biz/essex-pearl-new-york-2",
+          "https://www.manhattan-nyc.com/businesses/essex-pearl--g-11fm_79ztm/",
+          "https://restaurantjump.com/essex-pearl-10011/",
+          "https://sushiseek.com/sushi_restaurant/essex-pearl/",
+          "https://local.yahoo.com/info-240496315-essex-pearl-new-york/",
+          "https://trangvang.cybo.com/US-biz/essex-pearl",
+          "https://localdinedeals.com/listing/essex-pearl/"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://www.essexpearl.com/",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'open', 'https://www.essexpearl.com/']' returne"
+      },
+      {
+        "url": "https://www.essexpearl.com/happy-hour",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'open', 'https://www.essexpearl.com/happy-hour'"
+      }
+    ],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.bizarchive.com/business/essex-pearl-347-899-4998",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "email",
+        "email": "yrosa968@gmail.com",
+        "url": "https://restaurantjump.com/essex-pearl-10011/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "https://restaurantjump.com/essex-pearl-10011/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [],
+    "email_lead_verification": {
+      "checked_at": "2026-10-04T21:27:41.586569+00:00",
+      "outcome": "not_confirmed_on_first_party_sources",
+      "queries": [
+        "\"nicolew@essexpearl.com\" Essex Pearl"
+      ],
+      "result_urls": []
+    }
   }
 }

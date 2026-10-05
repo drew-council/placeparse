@@ -465,5 +465,69 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:07:29.998199+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:26:20.076984+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://broadnosh.com/",
+        "title": "Broad Nosh Bagels & Cafe – A smile in every bite",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://joe.coffee/locations/ny/new-york/broad-nosh-bagels-deli-and-catering-58th-street-new-york/",
+        "title": "Broad Nosh Bagels Deli & Catering 58th Street - New York, NY | joe coffee",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.eatrealfoodnyc.com/restaurants/broad-nosh-bagels-deli-catering-58th-street",
+        "title": "Broad Nosh Bagels Deli & Catering 5... — Lincoln Square, NYC | Eat Real Food NYC",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://broad-nosh-bagels-deli-catering-58th-street-1.wheree.com/",
+        "title": "BROAD NOSH BAGELS DELI & CATERING 58TH STREET - Reviews, Photos & Phone Number (2026) - Breakfast & Brunch Restaurant in New York, New York (NY) - Wheree",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.favhiker.com/city/west-new-york-48535/restaurants/broad-nosh-bagels-deli-catering-58th-street-west-new-york-6a3d6464f427ae34f2f29f9d",
+        "title": "Broad Nosh Bagels Deli & Catering 58th, West New York —",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.postcard.inc/places/broad-nosh-bagels-deli-and-catering-58th-street-new-york-rg0VeWmljpf",
+        "title": "Broad Nosh Bagels - Bagel shop in Midtown West, New York | Reviews, Photos & Information on Postcard",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Broad Nosh Bagels Deli & Catering 58th Street\"  New York,  NY 10019 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://joe.coffee/locations/ny/new-york/broad-nosh-bagels-deli-and-catering-58th-street-new-york/",
+          "https://www.eatrealfoodnyc.com/restaurants/broad-nosh-bagels-deli-catering-58th-street",
+          "https://wanderlog.com/place/details/5777990/broad-nosh-bagels-deli--catering-58th-street",
+          "https://broad-nosh-bagels-deli-catering-58th-street-1.wheree.com/",
+          "https://www.favhiker.com/city/west-new-york-48535/restaurants/broad-nosh-bagels-deli-catering-58th-street-west-new-york-6a3d6464f427ae34f2f29f9d",
+          "https://www.postcard.inc/places/broad-nosh-bagels-deli-and-catering-58th-street-new-york-rg0VeWmljpf",
+          "https://wanderboat.ai/restaurants/united-states/new-york/broad-nosh-bagels/RIsvz1CbTcCwySRRLumXZg",
+          "https://www.lemon8-app.com/experience/best-bagel-shops-to-visit-in-midtown-manhattan?region=us",
+          "https://www.trip.com/restaurant/united-states/new-york/detail/broad-nosh-bagels-deli-and-catering-58th-street-147869164/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.eatrealfoodnyc.com/restaurants/broad-nosh-bagels-deli-catering-58th-street",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": []
   }
 }

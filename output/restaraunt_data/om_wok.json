@@ -466,5 +466,73 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:10:39.405675+00:00",
     "browser_outcome": "incomplete_lookup"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:55:43.159063+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.us-info.com/en/usa/om_wok/jackson_heights/USNY102996748-7186398800/businessdetails.aspx",
+        "title": "Om Wok - Restaurants in Jackson Heights, NY | US Info",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.us-info.com/en/usa/om_wok/jackson_heights/USNY101451830-7186398800/businessdetails.aspx",
+        "title": "Om Wok - Restaurants in Jackson Heights, NY | US Info",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.bizarchive.com/business/om-wok-718-639-8800",
+        "title": "Om Wok | (718) 639-8800 | Jackson Heights, Queens",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://streamlinefeed.co.ke/directory/us-om-wok-ny-11372",
+        "title": "Om Wok - Food, Restaurants & Cafes in Jackson Heights, NY | Streamline Directory",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.yellowpages.com/jackson-heights-ny/mip/om-wok-537093186",
+        "title": "Om Wok - Jackson Heights, NY 11372",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Om Wok\"  Jackson Heights,  NY 11372 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://local.us-info.com/USNY102996748-7186398800/om_wok-jackson_heights.html",
+          "https://local.us-info.com/USNY101451830-7186398800/om_wok-jackson_heights.html",
+          "https://www.bizarchive.com/business/om-wok-718-639-8800",
+          "https://streamlinefeed.co.ke/directory/us-om-wok-ny-11372",
+          "https://www.facebook.com/p/Om-Wok-100070394431550/",
+          "https://www.yellowpages.com/jackson-heights-ny/mip/om-wok-537093186",
+          "https://www.superpages.com/jackson-heights-ny/bpp/om-wok-537093186",
+          "https://local.yahoo.com/info-206156655-om-wok-jackson-heights/",
+          "https://www.tibetanlibrary.com/directory/om-wok-jackson-heights",
+          "https://www.restaurantji.com/ny/queens/om-wok-/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.bizarchive.com/business/om-wok-718-639-8800",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/p/Om-Wok-100070394431550/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

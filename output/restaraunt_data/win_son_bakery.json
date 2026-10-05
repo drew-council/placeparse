@@ -451,11 +451,17 @@
   "website": "http://winsonbrooklyn.com/",
   "wheelchair_accessible_entrance": true,
   "business_status_checked_at": "2026-10-03T20:06:24.895085+00:00",
-  "emails": [],
+  "emails": [
+    "bakery@winsonbrooklyn.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:50:24.235238+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "bakery@winsonbrooklyn.com": [
+        "https://winsonbrooklyn.com/bakery"
+      ]
+    },
     "pages": [
       {
         "url": "https://winsonbrooklyn.com/",
@@ -466,10 +472,79 @@
         "url": "https://winsonbrooklyn.com/",
         "status": "browser_ok",
         "emails": []
+      },
+      {
+        "url": "https://winsonbrooklyn.com/bakery",
+        "status": "browser_ok",
+        "emails": [
+          "bakery@winsonbrooklyn.com"
+        ]
       }
     ],
     "contact_forms": [],
-    "browser_checked_at": "2026-10-03T22:12:34.538512+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_checked_at": "2026-10-04T20:50:13.816931+00:00",
+    "browser_outcome": "not_found_on_rendered_pages",
+    "publication_evidence": {
+      "bakery@winsonbrooklyn.com": {
+        "url": "https://winsonbrooklyn.com/bakery",
+        "quote": "ion in the east village. please see our menu which is available for take out and delivery.\n\nfor any other inquiries, you can check out our catering and cakes page or contact us at bakery@winsonbrooklyn.com\n\nthank you!\n\n164 Graham Ave\n\nBrooklyn, NY 11206\n\n(917) 909-1725\n\nmon: 9am-3pm, tue-wed: 9am-9pm, thu-sat: 9am-10pm, sun: 9am-9pm\n\n23 2nd Ave\n\nNew York, NY 10003\n\n(646) 869-0150\n\nm",
+        "checked_at": "2026-10-04T20:50:13.816931+00:00",
+        "business_match": "Maps-linked restaurant site or manually matched restaurant name/location/phone"
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:50:13.816931+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://winsonbrooklyn.com/bakery",
+        "title": "Win Son Bakery",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Win Son Bakery\"  Brooklyn,  NY 11206 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://winsonbrooklyn.com/bakery",
+          "https://www.facebook.com/winsonbakery/",
+          "https://winsonbrooklyn.com/bakery/catering",
+          "https://thebestrestaurantsguide.com/restaurants/win-son-bakery",
+          "https://www.bizarchive.com/business/win-son-bakery-917-909-1725",
+          "https://restaurantjump.com/win-son-bakery-11206/",
+          "https://www.chamberofcommerce.com/business-directory/new-york/brooklyn/bakery/2007312644-win-son-bakery",
+          "https://www.buzzfile.com/business/Win-Son-Bakery-917-909-1725",
+          "https://www.facebook.com/winsonbakery2/"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "http://winsonbrooklyn.com/",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'wait', '--fn', 'document.body?.innerText?.trim"
+      }
+    ],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/winsonbakery/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      },
+      {
+        "url": "https://www.facebook.com/winsonbakery2/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

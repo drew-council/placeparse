@@ -43,5 +43,38 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "food_service_evidence": {
+      "url": "https://maps.google.com/?cid=1788992175943815210",
+      "quote": "Teado Tea Shop 葉風茶舖 — Tea house. Small, simply appointed place serving bubble teas with various flavors & toppings, plus snacks. 145D Hester St, New York, NY 10002; (212) 226-7687.",
+      "checked_at": "2026-10-04T21:51:08.685234+00:00",
+      "reason": "Food service explicitly published; generic/bar-only API types should not exclude this venue."
+    },
+    "checked_at": "2026-10-04T21:51:08.685234+00:00",
+    "method": "agent-browser manual rendered inspection; no sends/submissions",
+    "pages": [
+      {
+        "url": "https://tea-leaf-conversions.lovable.app/",
+        "title": "Teado Tea Shop 葉風茶舖 — Bubble Tea on Hester Street, NYC",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.facebook.com/145DHesterStreetNewYorkNY10002Tel2122267687/",
+        "title": "Teado Tea Shop 葉風茶舖 | New York NY | Facebook",
+        "status": "public_profile_login_needed"
+      }
+    ],
+    "channels": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/145DHesterStreetNewYorkNY10002Tel2122267687/",
+        "source": "public browser search followed by direct Facebook page inspection",
+        "business_match": "Name, 145D Hester Street, and (212) 226-7687 match the saved venue.",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ],
+    "notes": "No email or general inquiry form on the Maps-linked website; matching public Facebook profile inspected, but login required and private messaging not verified. Do not confuse this independent shop with the separately branded TeaDo chain."
   }
 }

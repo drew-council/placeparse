@@ -84,5 +84,51 @@
     ],
     "browser_checked_at": "2026-10-03T22:09:17.573354+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://katsuhamanewyork.com/contact/",
+        "purpose": "reservation request",
+        "evidence": {
+          "title": "Contact | Katsu-Hama | Tonkatsu restaurant New York",
+          "labels": [
+            "Leave this field empty  ",
+            "Leave this field empty  ",
+            "Leave this field empty  ",
+            "Leave this field empty ",
+            "Your name",
+            "e.g. +1 773 555 0199",
+            "you@example.com",
+            "Preferred date",
+            "Preferred time",
+            "How many guests?",
+            "Time flexibility\nExact time only\nUp to 30 minutes earlier or later\nUp to 60 minutes earlier or later\nUp to 90 minutes earlier or later\nUp to 120 minutes earlier or later",
+            "Request type\nChoose a request type\nTable reservation",
+            "Occasion, seating preferences, dietary needs, accessibility requests, or anything else we should know",
+            "Send reservation request"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:10:05.976827+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:10:05.976886+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://katsuhamanewyork.com/contact/",
+        "title": "Contact | Katsu-Hama | Tonkatsu restaurant New York",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

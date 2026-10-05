@@ -472,6 +472,111 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:10:27.244551+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "candidate_sources": {
+      "info@nycbch.com": {
+        "urls": [
+          "https://www.allbiz.com/business/new-york-city-bagel-coffee-house-718-728-9500"
+        ],
+        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:47:40.375444+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://nycbch.com/",
+        "title": "NYC Bagel and Coffee House | American Restaurant",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.allbiz.com/business/new-york-city-bagel-coffee-house-718-728-9500",
+        "title": "New York City Bagel & Coffee House | (718) 728-9500 | Astoria, Queens",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://new-york-city-bagel-coffee-house-3.wheree.com/",
+        "title": "NEW YORK CITY BAGEL & COFFEE HOUSE - Reviews, Photos & Phone Number (2026) - Specialty Food Store in Queens, New York (NY) - Wheree",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://sreebakers.com/find-bakers/new-york-city-bagel-coffee-house-on-30th-avenue",
+        "title": "New York City Bagel & Coffee House: Authentic Astoria Bagels and Brews",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://restaurantedroop.com/restaurants-near-me/new-york-city-bagel-coffee-house-on-30th-avenue",
+        "title": "New York City Bagel & Coffee House: A Quintessential Astoria Bagel Stop",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.yellowpages.com/astoria-ny/mip/new-york-city-bagel-coffee-house-576170094",
+        "title": "New York City Bagel & Coffee House - Astoria, NY 11103",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"New York City Bagel & Coffee House\"  Astoria,  NY 11103 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.allbiz.com/business/new-york-city-bagel-coffee-house-718-728-9500",
+          "https://www.facebook.com/482401305159213/",
+          "https://new-york-city-bagel-coffee-house-3.wheree.com/",
+          "https://sreebakers.com/find-bakers/new-york-city-bagel-coffee-house-on-30th-avenue",
+          "https://restaurantedroop.com/restaurants-near-me/new-york-city-bagel-coffee-house-on-30th-avenue",
+          "https://www.yellowpages.com/astoria-ny/mip/new-york-city-bagel-coffee-house-576170094",
+          "https://localitybiz.com/28858226/new-york-city-bagel-%26-coffee-house-astoria",
+          "https://heavenlydelightsbakery.com/bakery-near-me/new-york-city-bagel-coffee-house-on-30th-avenue/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.allbiz.com/business/new-york-city-bagel-coffee-house-718-728-9500",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "email",
+        "email": "server@sreebakers.com",
+        "url": "https://sreebakers.com/find-bakers/new-york-city-bagel-coffee-house-on-30th-avenue",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "email",
+        "email": "server@restaurantedroop.com",
+        "url": "https://restaurantedroop.com/restaurants-near-me/new-york-city-bagel-coffee-house-on-30th-avenue",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/nycbch",
+        "source": "https://nycbch.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/482401305159213/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ],
+    "email_lead_verification": {
+      "checked_at": "2026-10-04T21:27:50.342160+00:00",
+      "outcome": "not_confirmed_on_first_party_sources",
+      "queries": [
+        "\"info@nycbch.com\" New York City Bagel & Coffee House"
+      ],
+      "result_urls": []
+    }
   }
 }

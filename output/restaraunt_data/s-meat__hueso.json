@@ -471,5 +471,51 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:13:35.557388+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://s-meat-hueso-1.wheree.com/",
+        "title": "S-MEAT & HUESO - Reviews, Photos & Phone Number (2026) - Colombian Restaurant in Queens, New York (NY) - Wheree",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.corner.inc/place/p8CquxhtZfax",
+        "title": "S-Meat & Hueso - 35-50 31st St, Astoria | Corner",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "S-Meat & Hueso  Astoria,  NY 11106 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.instagram.com/s.meathueso.nyc/?hl=en",
+          "https://www.yelp.com/biz/s-meat-and-hueso-queens",
+          "https://s-meat-hueso-1.wheree.com/",
+          "https://www.corner.inc/place/p8CquxhtZfax",
+          "https://www.giftly.com/gift-card/s-meat-and-hueso-queens?srsltid=AU7gw4XUtz97tRkukAuy79ST0MRgPo_egjhmzcviLdxN89ZRy4ENLy1a",
+          "https://www.instagram.com/s.meathueso.nyc/reels/",
+          "https://www.moodap.com/new-york-city/yorkville/restaurants/s-meat-hueso",
+          "https://www.mapquest.com/us/new-york/s-meat-hueso-684787233",
+          "https://whereyoueat.com/Smeat-&-Hueso-30712.html"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/s.meathueso.nyc/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

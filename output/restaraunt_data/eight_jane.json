@@ -426,5 +426,58 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:32:05.895181+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.eightjane.com/",
+        "title": "Eight Jane Food Inc",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/eight-jane/",
+        "title": "Eight Jane",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://eight-jane.hey-restaurants.com/",
+        "title": "Eight Jane - Authentic Chinese Restaurant in Flushing, NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://m.yelp.com/biz/eight-jane-food-%E7%A7%80%E5%85%AB%E7%8F%8D%E5%8D%A4%E5%91%B3-flushing/",
+        "title": "EIGHT JANE FOOD 秀八珍卤味 - Updated October 2026 - 244 Reviews - 534 Photos - 37-12 Main St, Flushing, New York - Chinese - Restaurant Reviews - Phone Number - Yelp",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.fantuanorder.com/fr-FR/store/eight-jane-food-incflushing/us-1692586005",
+        "title": "Verification",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Eight Jane\"  Flushing,  NY 11354 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.eightjane.com/",
+          "https://www.nyctourism.com/restaurants/eight-jane/",
+          "https://www.yelp.com/biz/eight-jane-food-%E7%A7%80%E5%85%AB%E7%8F%8D%E5%8D%A4%E5%91%B3-flushing",
+          "https://eight-jane.hey-restaurants.com/",
+          "https://m.m.yelp.com/biz/eight-jane-food-%E7%A7%80%E5%85%AB%E7%8F%8D%E5%8D%A4%E5%91%B3-flushing/",
+          "https://www.fantuanorder.com/fr-FR/store/eight-jane-food-incflushing/us-1692586005",
+          "https://www.reddit.com/r/Flushing/comments/1q2n9a9/eight_jane/",
+          "https://maps.roadtrippers.com/us/flushing-ny/food-drink/eight-jane-food",
+          "https://wanderlog.com/place/details/2010286/eight-jane"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

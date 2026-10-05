@@ -522,5 +522,48 @@
         "reason": "Primary applicant/correspondence mailbox in a 2020 trademark application matching 65 Bayard Street. Legal/registration source, not verified as a current customer contact."
       }
     }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:53:17.025144+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://kongsihktong.com/contact",
+        "title": "Kong Sihk Tong CONTACT (Updated October 2026)",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://kongsihktong.com/contact",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/people/Kong-Sihk-Tong-KST/100063929327030/",
+        "source": "https://kongsihktong.com/contact",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/kongsihktong/",
+        "source": "https://kongsihktong.com/contact",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ],
+    "email_lead_verification": {
+      "checked_at": "2026-10-04T21:27:46.174577+00:00",
+      "outcome": "not_confirmed_on_first_party_sources",
+      "queries": [
+        "\"kstchinatown88@gmail.com\" Kong Sihk Tong"
+      ],
+      "result_urls": []
+    }
   }
 }

@@ -52,5 +52,95 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:07:17.356131+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:06:26.216871+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://aliveandkickinglobster.com/",
+        "title": "Alive & Kicking Lobsters | Best Lobster Sandwich in Cambridge, MA",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://aliveandkickinglobster.com/#about",
+        "title": "Alive & Kicking Lobsters | Best Lobster Sandwich in Cambridge, MA",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://aliveandkickinglobsters.website/contact",
+        "title": "Contact - Alive and Kicking Lobsters",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://boston.eater.com/venue/17637/alive-kicking-lobsters",
+        "title": "Alive & Kicking Lobsters | Eater Boston",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://cambridgeusa.org/listings/alive-kicking-lobsters/",
+        "title": "Alive & Kicking Lobsters - Cambridge Office for Tourism",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://lobstermen.com/dealers/alive-and-kicking-lobsters/",
+        "title": "Alive and Kicking Lobsters - Massachusetts Lobstermen's Association",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://aliveandkickinglobsters.website/community/register/activation",
+        "title": "Resend activation link - Alive and Kicking Lobsters",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Alive & Kicking Lobsters  Cambridge,  MA 02139 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://aliveandkickinglobsters.website/contact",
+          "https://boston.eater.com/venue/17637/alive-kicking-lobsters",
+          "https://www.yelp.com/biz/alive-and-kicking-lobsters-cambridge?start=50",
+          "https://cambridgeusa.org/listings/alive-kicking-lobsters/",
+          "https://lobstermen.com/dealers/alive-and-kicking-lobsters/",
+          "https://aliveandkickinglobsters.website/community/register/activation",
+          "https://www.tripadvisor.com/Restaurant_Review-g60890-d4070240-Reviews-Alive_and_Kicking_Lobsters-Cambridge_Massachusetts.html",
+          "https://www.bringfido.com/restaurant/37837",
+          "https://www.instagram.com/aliveandkickinglobsters/?hl=en"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "info@cambridgeusa.org",
+        "url": "https://cambridgeusa.org/listings/alive-kicking-lobsters/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://instagram.com/aliveandkickinglobsters",
+        "source": "https://aliveandkickinglobster.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/p/Alive-and-Kicking-Lobsters-100068865900163/",
+        "source": "https://aliveandkickinglobster.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/aliveandkickinglobsters/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

@@ -51,5 +51,77 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:18.524818+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:12:58.613406+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.sarisacafe.com/",
+        "title": "Sarisa Cafe",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.timeout.com/newyork/restaurants/sarisa-cafe",
+        "title": "Sarisa Cafe | Restaurants in Midtown East, New York",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "SARISA Cafe  New York,  NY 10022 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.sarisacafe.com/",
+          "https://www.facebook.com/p/Sarisa-Cafe-New-York-61550668197470/",
+          "https://www.instagram.com/sarisacafe_newyork/?hl=en",
+          "https://www.instagram.com/reel/Cw0wlyEPgnu/?hl=en",
+          "https://www.yelp.com/biz/sarisa-cafe-new-york",
+          "https://www.timeout.com/newyork/restaurants/sarisa-cafe",
+          "https://www.sarisacafe.com/gallery-1",
+          "https://eataroundtown.marriott.com/merchants/304298",
+          "https://www.facebook.com/61550668197470/?locale=cy_GB"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://instagram.com/sarisacafe_newyork?igshid=MzRlODBiNWFlZA==",
+        "source": "https://www.sarisacafe.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/profile.php?id=61550668197470",
+        "source": "https://www.sarisacafe.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/p/Sarisa-Cafe-New-York-61550668197470/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      },
+      {
+        "url": "https://www.instagram.com/sarisacafe_newyork/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      },
+      {
+        "url": "https://www.facebook.com/61550668197470/?locale=cy_GB",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

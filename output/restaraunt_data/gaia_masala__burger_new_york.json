@@ -82,5 +82,54 @@
     ],
     "browser_checked_at": "2026-10-03T22:08:52.769984+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://gaiamasalaandburger.com/contact",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Gaia Masala & Burger",
+          "labels": [
+            "John",
+            "Doe",
+            "johndoe@example.com",
+            "+10000000",
+            "Where do you hear about us?",
+            "Leave us a message",
+            "Send Message",
+            "Denver Capitol Hill\n\n609 Grant St, Denver, CO\n\n+17205320417",
+            "Gaia New York (Queens, NY)\n\n33-11 Broadway, Astoria, NY\n\n+17188890530",
+            "Gaia Westport (Missouri)\n\n425 Westport Rd, Kansas City, Missouri\n\n+18166034242",
+            "Gaia LoDo (1530 Blake)\n\n1530 Blake St, Denver(lodo), CO\n\n+13039932976",
+            "Gaia-Longmont\n\n704 Main St Unit 1, Longmont, Colorado (CO)\n\n+13037020984",
+            "Gaia Colorado Springs (CO)\n\n12 S Tejon St, Colorado Springs, CO\n\n+17196984629",
+            "Gaia Fort Collins\n\n649 S College Ave, Fort Collins, CO\n\n+17203393645",
+            "Gaia Boulder\n\n1116 13th St, Boulder, CO\n\n+17204566668",
+            "Gaia San Francisco\n\n1980 Union St, San Francisco, California (CA)\n\n+16283164286",
+            "Send Message"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:08:34.003893+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:08:34.003960+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://gaiamasalaandburger.com/contact",
+        "title": "Gaia Masala & Burger",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

@@ -458,5 +458,48 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:29:53.840390+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.reddit.com/r/FoodNYC/comments/11cz39p/grand_street_skewer_cart/",
+        "title": "Grand Street Skewer Cart : r/FoodNYC",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://grand-street-skewer-cart.wheree.com/",
+        "title": "GRAND STREET SKEWER CART - Reviews & Photos (2026) - Food Stand Store in New York, New York (NY) - Wheree",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://maps.roadtrippers.com/us/new-york-ny/food-drink/grand-street-skewer-cart",
+        "title": "Grand Street Skewer Cart, New York | Roadtrippers",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Grand Street Skewer Cart\"  New York,  NY 10002 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.reddit.com/r/FoodNYC/comments/11cz39p/grand_street_skewer_cart/",
+          "https://www.yelp.com/biz/grand-street-skewer-cart-new-york",
+          "https://grand-street-skewer-cart.wheree.com/",
+          "https://www.giftly.com/gift-card/grand-street-skewer-cart-new-york?srsltid=AU7gw4UMv-e8rgorrwAvq_geKORONCzDdio4tQtzHGX2Kx51B0kBjrEt",
+          "https://maps.roadtrippers.com/us/new-york-ny/food-drink/grand-street-skewer-cart",
+          "https://www.yelp.com/biz/grand-street-skewer-cart-new-york?start=40",
+          "https://www.mapquest.com/us/new-york/grand-street-skewer-cart-378608603",
+          "https://docentpro.com/places/grand-street-skewer-cart_NTI3NjU2",
+          "https://magicpin.com/usa/New-York/Chinatown/Restaurant/Grand-Street-Skewer-Cart/store/245506c"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

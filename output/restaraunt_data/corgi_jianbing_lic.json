@@ -21,5 +21,55 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:56:18.302414+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.restaurantji.com/ny/long-island-city/corgi-jianbing-/",
+        "title": "Corgi Jianbing LIC 可吉煎饼, Long Island City - Menu, Reviews (143), Photos (41) - Restaurantji",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.postcard.inc/places/corgi-jianbing-lic-new-york-TwvmixmbVsV",
+        "title": "Corgi Jianbing LIC 可吉煎饼 - Chinese restaurant in Long Island City, New York | Reviews, Photos & Information on Postcard",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.convergehq.ai/spot/5c6ae416-9c5d-4853-9a1d-996ffe3aa075",
+        "title": "",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.atly.com/location/Corgi-Jianbing-LIC-%E5%8F%AF%E5%90%89%E7%85%8E%E9%A5%BC",
+        "title": "Corgi Jianbing LIC 可吉煎饼 in New York - Chinese restaurant | Atly",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://es.restaurantguru.com/Corgi-Jianbing-New-York/menu",
+        "title": "Carta del restaurante Corgi Jianbing LIC 可吉煎饼, Nueva York, 44-05 Hunter St",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Corgi Jianbing LIC 可吉煎饼\" 44-05 Hunter St,  Long Island City contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.restaurantji.com/ny/long-island-city/corgi-jianbing-/",
+          "https://www.postcard.inc/places/corgi-jianbing-lic-new-york-TwvmixmbVsV",
+          "https://www.convergehq.ai/spot/5c6ae416-9c5d-4853-9a1d-996ffe3aa075",
+          "https://www.atly.com/location/new-york/Corgi-Jianbing-LIC-%E5%8F%AF%E5%90%89%E7%85%8E%E9%A5%BC",
+          "https://www.atly.com/location/Corgi-Jianbing-LIC-%E5%8F%AF%E5%90%89%E7%85%8E%E9%A5%BC",
+          "https://es.restaurantguru.com/Corgi-Jianbing-New-York/menu"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

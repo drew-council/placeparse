@@ -31,12 +31,90 @@
   "url": "https://maps.google.com/?cid=10762619801896862501",
   "details_checked_at": "2026-10-03T21:59:21.689879+00:00",
   "business_status_checked_at": "2026-10-03T21:59:21.689879+00:00",
-  "emails": [],
+  "emails": [
+    "hello@xiebao.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T22:00:30.454182+00:00",
-    "outcome": "no_website",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "hello@xiebao.com": [
+        "https://www.xiebaousa.com/faq",
+        "https://www.xiebaousa.com/about"
+      ]
+    },
     "pages": [],
-    "contact_forms": []
+    "contact_forms": [],
+    "publication_evidence": {
+      "hello@xiebao.com": {
+        "url": "https://www.xiebaousa.com/about",
+        "quote": "35 Roosevelt Avenue\n\nFlushing, NY 11354\n\nPhone: (929) 332-2747\n\nEDISON\n\nXie Bao Crab House — Edison\n\n1783 Lincoln Highway (U.S. Route 27)\n\nEdison, NJ 08817\n\nPhone: (732) 532-3224\n\nhello@xiebao.com\nInstagram\nTikTok\n\nEXPERIENCE XIE BAO\n\nTaste the tradition\n\nDine in on our second floor, order online, or book a table for your next celebration.\n\nBook a Table\nView Menu\n\nXie Bao 蟹",
+        "checked_at": "2026-10-04T20:08:32.782745+00:00",
+        "business_match": "Maps-linked restaurant site or manually matched restaurant name/location/phone"
+      }
+    },
+    "browser_checked_at": "2026-10-04T20:08:32.782745+00:00"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:08:32.782745+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.xiebaousa.com/faq",
+        "title": "FAQ",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.xiebaousa.com/about",
+        "title": "About",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.xiebaousa.com/",
+        "title": "Xie Bao — Authentic Huaiyang Cuisine",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://xie-bao.myshopify.com/",
+        "title": "Store unavailable",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Xie Bao 蟹宝  New York,  NY 10036 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.xiebaousa.com/faq",
+          "https://www.xiebaousa.com/about",
+          "https://www.xiebaousa.com/",
+          "https://www.instagram.com/p/DE76733xBbX/",
+          "https://xie-bao.myshopify.com/",
+          "https://www.instagram.com/reel/DcL5bZDBz4w/",
+          "https://www.instagram.com/reel/DRxZCqPAfyD/",
+          "https://www.facebook.com/JAYDBUN/videos/secret-tip-place-your-order-a-day-ahead-via-email-at-jaydbungmailcom-jaydbun-rho/3958103477825885/",
+          "https://www.instagram.com/reel/DGUKWS4Or3z/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://instagram.com/xiebao",
+        "source": "https://www.xiebaousa.com/faq",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/JAYDBUN/videos/secret-tip-place-your-order-a-day-ahead-via-email-at-jaydbungmailcom-jaydbun-rho/3958103477825885/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

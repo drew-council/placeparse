@@ -567,6 +567,98 @@
         "emails": []
       }
     ],
-    "contact_forms": []
+    "contact_forms": [],
+    "candidate_sources": {
+      "nauashika@gmail.com": {
+        "urls": [
+          "https://www.allbiz.com/business/kashin-japanese-restaurant-919-851-7101",
+          "https://www.superpages.com/cary-nc/bpp/kashin-japanese-restaurant-4638014",
+          "https://www.yellowpages.com/cary-nc/mip/kashin-japanese-restaurant-4638014"
+        ],
+        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      },
+      "p.su@kashin.com": {
+        "urls": [
+          "https://www.allbiz.com/business/kashin-japanese-restaurant-919-851-7101"
+        ],
+        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:46:18.605673+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.allbiz.com/business/kashin-japanese-restaurant-919-851-7101",
+        "title": "Kashin Japanese Restaurant | (919) 851-7101 | Cary, North Carolina",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.superpages.com/cary-nc/bpp/kashin-japanese-restaurant-4638014",
+        "title": "Kashin Japanese Restaurant 309 Crossroads Blvd, Cary, NC 27518 - superpages.com",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.yellowpages.com/cary-nc/mip/kashin-japanese-restaurant-4638014",
+        "title": "Kashin Japanese Restaurant - Cary, NC 27518",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.whereorg.com/kashin-japanese-restaurant-9697985",
+        "title": "Kashin Japanese Restaurant, Cary, NC - 309 Crossroads Blvd. - Drive-In Restaurants",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://411.info/business/Kashin-Japanese-Restaurant-Cary-NC-1738188",
+        "title": "Kashin Japanese Restaurant - Cary, NC (North Carolina) - (919) 851-7101, 9198517101 | 411",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Kashin Japanese Restaurant\"  Cary,  NC 27518 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://kashin.com/",
+          "https://www.allbiz.com/business/kashin-japanese-restaurant_1h-919-851-7101",
+          "https://www.superpages.com/cary-nc/bpp/kashin-japanese-restaurant-4638014",
+          "https://www.yellowpages.com/cary-nc/mip/kashin-japanese-restaurant-4638014",
+          "https://www.whereorg.com/kashin-japanese-restaurant-9697985",
+          "https://411.info/business/Kashin-Japanese-Restaurant-Cary-NC-1738188",
+          "https://www.bbb.org/us/nc/cary/profile/restaurants/kashin-japanese-restaurant-0593-9712",
+          "https://1network.com/biz/kashin-japanese-restaurant-cary-nc-20143938",
+          "https://www.facebook.com/kashinsushi/",
+          "https://www.visitraleigh.com/listing/kashin-japanese-restaurant/65501/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.allbiz.com/business/kashin-japanese-restaurant-919-851-7101",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/kashinsushi/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ],
+    "email_lead_verification": {
+      "checked_at": "2026-10-04T21:27:43.014840+00:00",
+      "outcome": "not_confirmed_on_first_party_sources",
+      "queries": [
+        "\"nauashika@gmail.com\" Kashin Japanese Restaurant"
+      ],
+      "result_urls": []
+    }
   }
 }

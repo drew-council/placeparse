@@ -465,5 +465,86 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:10:23.118567+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T21:00:30.034772+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.us-info.com/en/usa/nenes_taqueria/brooklyn/USNY102357636-9296074551/businessdetails.aspx",
+        "title": "Nenes Taqueria - Restaurants in Brooklyn, NY | US Info",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/brooklyn/mexican-restaurant/2032460838-nenes-taqueria",
+        "title": "Nenes Taqueria in Brooklyn, NY 11217 - 929-607...",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://restaurantjump.com/nenes-taqueria-11217/",
+        "title": "Nenes Taqueria - Brooklyn, NY 11217 - Menu, Reviews, Hours & Contact",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ny.eater.com/venue/91990/nenes-taqueria",
+        "title": "Nenes Taqueria | Eater NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://nenes-taqueria.wheree.com/",
+        "title": "NENES TAQUERIA - Reviews, Photos & Phone Number (2026) - Taco Store in Kings County, New York (NY) - Wheree",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://nenestaqueria.restaurants-us.com/",
+        "title": "Nenes Taqueria Brooklyn – Reviews, Tacos & Mexican Food",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Nenes Taqueria\"  Brooklyn,  NY 11217 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://local.us-info.com/USNY102357636-9296074551/nenes_taqueria-brooklyn.html",
+          "https://www.chamberofcommerce.com/business-directory/new-york/brooklyn/mexican-restaurant/2032460838-nenes-taqueria",
+          "https://restaurantjump.com/nenes-taqueria-11217/",
+          "https://ny.eater.com/venue/91990/nenes-taqueria",
+          "https://nenes-taqueria.wheree.com/",
+          "https://nenestaqueria.restaurants-us.com/",
+          "https://www.yelp.com/biz/nenes-taqueria-brooklyn",
+          "https://whereyoueat.com/Nenes-Taqueria-27314.html",
+          "https://cititour.com/NYC_Restaurants/Nenes-Taqueria/19615"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://nenestaqueria.com/",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'wait', '--fn', 'document.body?.innerText?.trim"
+      }
+    ],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/brooklyn/mexican-restaurant/2032460838-nenes-taqueria",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "email",
+        "email": "yrosa968@gmail.com",
+        "url": "https://restaurantjump.com/nenes-taqueria-11217/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "https://restaurantjump.com/nenes-taqueria-11217/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": []
   }
 }

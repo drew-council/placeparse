@@ -449,5 +449,61 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:56:35.375632+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://restaurantjump.com/mrs-fish-10013/",
+        "title": "Mrs. Fish - New York, NY 10013 - Menu, Reviews, Hours & Contact",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/miscellaneous/2004364112-mrs-fish",
+        "title": "Mrs. Fish in New York, NY 10013 - 212-267...",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.menupix.com/menudirectory/menu.php?id=32694349",
+        "title": "Attention Required! | Cloudflare",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Mrs. Fish\"  New York,  NY 10013 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://restaurantjump.com/mrs-fish-10013/",
+          "https://www.chamberofcommerce.com/business-directory/new-york/new-york/miscellaneous/2004364112-mrs-fish",
+          "https://www.mapquest.com/us/new-york/mrs-fish-524338218",
+          "https://www.menupix.com/menudirectory/menu.php?id=32694349",
+          "https://www.mapquest.com/us/new-york/mrs-fish-753576780"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "yrosa968@gmail.com",
+        "url": "https://restaurantjump.com/mrs-fish-10013/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "https://restaurantjump.com/mrs-fish-10013/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/miscellaneous/2004364112-mrs-fish",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": []
   }
 }

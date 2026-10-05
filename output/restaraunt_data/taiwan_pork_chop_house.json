@@ -483,5 +483,59 @@
     ],
     "browser_checked_at": "2026-10-03T22:11:33.582137+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.taiwanporkchop.com/reportbug",
+        "purpose": "website technical support",
+        "evidence": {
+          "title": "Taiwan Pork Chop House - New York in NY | Technical Support",
+          "labels": [
+            "Your name",
+            "Your email addresss",
+            "Issue encountered",
+            "Severity",
+            "Reproducibility",
+            "",
+            ""
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:59:29.584041+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:59:29.584091+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.taiwanporkchop.com/contact",
+        "title": "Taiwan Pork Chop House - New York in NY | Contact Us",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.taiwanporkchop.com/contact?form=map&lid=6319",
+        "title": "Taiwan Pork Chop House - New York Map | Taiwanese",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.taiwanporkchop.com/",
+        "title": "Taiwan Pork Chop House - New York in NY | Online Ordering",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.taiwanporkchop.com/reportbug",
+        "title": "Taiwan Pork Chop House - New York in NY | Technical Support",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

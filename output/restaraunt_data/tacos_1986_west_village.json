@@ -82,5 +82,87 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:31.123752+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:13:09.856671+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://tacos1986.com/westvillage",
+        "title": "West Village NYC | Tacos 1986",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://tacos1986.com/contact",
+        "title": "Contact | Tacos 1986",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://tacos1986.com/about",
+        "title": "About | Tacos 1986",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://tacos1986.com/contact#/",
+        "title": "Contact | Tacos 1986",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://tacos1986.com/",
+        "title": "Home | Tacos 1986",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://tacos86.com/contact-us/",
+        "title": "Contact Us – Tacos86",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Tacos 1986 West Village  New York,  NY 10014 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://tacos1986.com/westvillage",
+          "https://tacos1986.com/contact",
+          "https://tacos1986.com/",
+          "https://tacos86.com/contact-us/",
+          "https://www.yelp.com/biz/tacos-1986-new-york",
+          "https://www.facebook.com/tacos1986/posts/tacos-1986-west-village-in-new-york-city-opens-tonight-thank-you-nyc-tacos1986we/1298084258821999/",
+          "https://tacos1986.com/fundraiser",
+          "https://www.theinfatuation.com/new-york/reviews/tacos-1986-nyc",
+          "https://www.nyc.gov/assets/bic/downloads/pdf/flag-container-customer-list.pdf"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://tacos86.com/contact-us/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "form",
+        "url": "https://tacos86.com/contact-us/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/tacos1986la",
+        "source": "https://tacos1986.com/westvillage",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/heavyhanded.la/",
+        "source": "https://tacos1986.com/westvillage",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

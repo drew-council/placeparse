@@ -88,7 +88,7 @@ def email_role(email: str) -> str:
         ("allergy/dietary", ("allerg", "dietary")),
         ("reservations", ("reserv", "booking")),
         ("press/marketing", ("press", "media", "pr", "marketing")),
-        ("careers", ("career", "job", "hiring", "resume")),
+        ("careers", ("career", "job", "hiring", "resume", "hr", "recruit", "talent")),
         ("events/catering", ("event", "cater", "party", "parties", "private")),
         ("privacy/legal", ("privacy", "legal", "abuse", "copyright")),
         ("ticketing/membership", ("ticket", "member", "sponsor")),

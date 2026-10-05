@@ -818,5 +818,84 @@
     ],
     "browser_checked_at": "2026-10-03T22:10:53.073102+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.ozakaya.com/reservations",
+        "purpose": "reservation request",
+        "evidence": {
+          "title": "Reservations | Ozakaya",
+          "labels": [
+            "First Name*",
+            "Last Name*",
+            "Email*",
+            "Phone*",
+            "Select a date*",
+            "Open calendar",
+            "How many guests*",
+            "Time Picker",
+            "Additional Information",
+            "Send"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:45:04.501503+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:45:04.501575+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.ozakaya.com/",
+        "title": "Ozakaya | Japanese restaurant in Brooklyn | New York",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.ozakaya.com/reservations",
+        "title": "Reservations | Ozakaya",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Ozakaya\"  Brooklyn,  NY 11238 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.ozakaya.com/",
+          "https://www.ozakaya.com/reservations",
+          "https://www.facebook.com/p/Ozakaya-100074123987742/",
+          "https://www.postcard.inc/places/ozakaya-new-york-uTgUyWBqbET",
+          "https://ozakaya.wheree.com/",
+          "https://www.superpages.com/brooklyn-ny/bpp/ozakaya-566800966",
+          "https://www.yelp.com/biz/ozakaya-brooklyn",
+          "https://www.instagram.com/ozakaya_nyc/",
+          "https://www.opentable.com/r/ozakaya-brooklyn",
+          "https://restaurantjun.com/japanese-restaurant-near-me/ozakaya/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/ozakaya_nyc/",
+        "source": "https://www.ozakaya.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/p/Ozakaya-100074123987742/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

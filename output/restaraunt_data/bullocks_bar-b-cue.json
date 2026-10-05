@@ -433,6 +433,119 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:07:53.463168+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "candidate_sources": {
+      "bullocksbbq@gmail.com": {
+        "urls": [
+          "https://www.allbiz.com/business/bullocks-bar-b-cue-919-383-3211"
+        ],
+        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T21:03:09.717773+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.bullocks-bbq.com/",
+        "title": "Bullock's BBQ",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.bullocks-bbq.com/about.html",
+        "title": "Bullock's BBQ - About Us",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.allbiz.com/business/bullocks-bar-b-cue-919-383-3211",
+        "title": "Bullock's Bar-B-Cue | (919) 383-3211 | Durham, North Carolina",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.discoverdurham.com/directory/bullocks-bar-b-cue/",
+        "title": "Bullock's Bar-B-Cue | Discover Durham",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://restaurantjump.com/bullocks-bar-b-cue-27705/",
+        "title": "Bullock's Bar-B-Cue - Durham, NC 27705 - Menu, Reviews, Hours & Contact",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.discoverdurham.com/blog/durhams-best-bbq/",
+        "title": "Durham's Best BBQ | Discover Durham",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Bullock's Bar-B-Cue\"  Durham,  NC 27705 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.allbiz.com/business/bullocks-bar-b-cue-919-383-3211",
+          "https://www.discoverdurham.com/directory/bullocks-bar-b-cue/",
+          "https://www.zmenu.com/bullocks-bar-b-q-durham-online-menu/",
+          "https://restaurantjump.com/bullocks-bar-b-cue-27705/",
+          "https://www.facebook.com/fb-answers/barbecue-restaurants-in-durham-nc/",
+          "https://www.discoverdurham.com/blog/durhams-best-bbq/"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://www.zmenu.com/bullocks-bar-b-q-durham-online-menu/",
+        "status": "browser_challenge_or_unavailable"
+      }
+    ],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.allbiz.com/business/bullocks-bar-b-cue-919-383-3211",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "email",
+        "email": "yrosa968@gmail.com",
+        "url": "https://restaurantjump.com/bullocks-bar-b-cue-27705/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "https://restaurantjump.com/bullocks-bar-b-cue-27705/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "email",
+        "email": "blog@discoverdurham.com",
+        "url": "https://www.discoverdurham.com/blog/durhams-best-bbq/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "email",
+        "email": "kristin@discoverdurham.com",
+        "url": "https://www.discoverdurham.com/blog/durhams-best-bbq/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/fb-answers/barbecue-restaurants-in-durham-nc/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ],
+    "email_lead_verification": {
+      "checked_at": "2026-10-04T21:27:33.155957+00:00",
+      "outcome": "not_confirmed_on_first_party_sources",
+      "queries": [
+        "\"bullocksbbq@gmail.com\" Bullock's Bar-B-Cue"
+      ],
+      "result_urls": []
+    }
   }
 }

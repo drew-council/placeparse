@@ -500,5 +500,66 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:49.169228+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:32:43.288489+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://fayda.com/",
+        "title": "Fay Da Bakery",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://fayda.com/pages/about-us",
+        "title": "About Us – Fay Da Bakery",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://fayda.com/pages/contact",
+        "title": "Contact – Fay Da Bakery",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.reddit.com/r/AskNYC/comments/19bcg58/where_can_i_go_eat_a_copious_amount_of_plain_soft/",
+        "title": "where can I go eat a copious amount of plain soft warm bread? : r/AskNYC",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://local.yahoo.com/info-99675489-fay-da-bakery-new-york/",
+        "title": "Fay Da Bakery in New York, NY – Reviews, Hours, and Contact Details",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Fay Da Bakery\"  New York,  NY 10014 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/fay-da-bakery-new-york",
+          "https://fayda.com/",
+          "https://www.instagram.com/faydabakery/?hl=en",
+          "https://www.reddit.com/r/AskNYC/comments/19bcg58/where_can_i_go_eat_a_copious_amount_of_plain_soft/",
+          "https://local.yahoo.com/info-99675489-fay-da-bakery-new-york/",
+          "https://www.tripadvisor.com/Restaurant_Review-g60763-d5009182-Reviews-Fay_Da_Bakery-New_York_City_New_York.html",
+          "https://www.doordash.com/store/fay-da-bakery-new-york-35370945/?srsltid=AU7gw4V1xdIbZyYnW_c8k7ispxbgy5JVMh-n72OTnOyLZGrjolN7eKoT",
+          "https://www.facebook.com/groups/347221162142638/posts/2568963643301701/",
+          "https://ny.eater.com/venue/50886/fay-da-bakery"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/faydabakery/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

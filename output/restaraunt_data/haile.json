@@ -458,5 +458,73 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:03.017051+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:52:57.145930+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://hailecuisine.com/",
+        "title": "Haile",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.us-info.com/en/usa/haile/new_york/USNY100337008-2126738949/businessdetails.aspx",
+        "title": "Haile - Restaurants in New York, NY | US Info",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.datanyze.com/companies/haile-bistro/411642816",
+        "title": "Haile Bistro Company Profile | Management and Employees List",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chamberofcommerce.com/united-states/new-york/new-york/ethiopian-restaurant/2004147444-haile",
+        "title": "Haile in New York, NY 10009 - (212) 6...",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Haile\"  New York,  NY 10009 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "http://hailecuisine.com/",
+          "https://local.us-info.com/USNY100337008-2126738949/haile_ethiopian_cuisine-new_york.html",
+          "https://www.datanyze.com/companies/haile-bistro/411642816",
+          "https://www.chamberofcommerce.com/united-states/new-york/new-york/ethiopian-restaurant/2004147444-haile",
+          "https://ourcaferestaurants.com/new-york/haile/",
+          "https://www.facebook.com/HaileBistro/",
+          "https://www.buzzfile.com/business/Haile-Bistro-Incorporated-212-673-8949",
+          "https://haile.wheree.com/",
+          "https://www.superpages.com/new-york-ny/bpp/haile-bistro-inc-482153716",
+          "https://www.yelp.com/biz/haile-bistro-new-york"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://ourcaferestaurants.com/new-york/haile/",
+        "status": "browser_challenge_or_unavailable"
+      }
+    ],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/united-states/new-york/new-york/ethiopian-restaurant/2004147444-haile",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/HaileBistro/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

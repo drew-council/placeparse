@@ -54,6 +54,102 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:42.490755+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "candidate_sources": {
+      "102suffolk@gmail.com": {
+        "urls": [
+          "https://www.raisin.digital/en/explore/united-states/new-york/venues/davelle-6637/"
+        ],
+        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:09:55.051324+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://davellenewyork.com/",
+        "title": "Davelle — Japanese café · 102 Suffolk Street, New York",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://davellenewyork.com/",
+        "title": "Davelle — Japanese café · 102 Suffolk Street, New York",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://davellenewyork.com/",
+        "title": "Davelle — Japanese café · 102 Suffolk Street, New York",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.raisin.digital/en/explore/united-states/new-york/venues/davelle-6637/",
+        "title": "Davelle: a Restaurant in Manhattan - New York City with a selection of natural wines. Local, seasonal, organic food and natural wines. - Raisin",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/davelle/",
+        "title": "Davelle | Manhattan | Restaurants",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Davelle  New York,  NY 10002 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://davellenewyork.com/",
+          "https://davellenewyork.com/about",
+          "https://www.facebook.com/davelle.nyc/",
+          "https://www.raisin.digital/en/explore/united-states/new-york/venues/davelle-6637/",
+          "https://www.nyctourism.com/restaurants/davelle/",
+          "https://www.yelp.com/biz/davelle-new-york-2",
+          "https://ny.eater.com/venue/42974/davelle",
+          "https://joe.coffee/locations/ny/new-york/davelle-new-york/",
+          "https://www.worldofmouth.app/restaurants/davelle"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "contact@raisin.digital",
+        "url": "https://www.raisin.digital/en/explore/united-states/new-york/venues/davelle-6637/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "email",
+        "email": "wine@raisin.digital",
+        "url": "https://www.raisin.digital/en/explore/united-states/new-york/venues/davelle-6637/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://instagram.com/davelle.nyc",
+        "source": "https://davellenewyork.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/davelle.nyc/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ],
+    "email_lead_verification": {
+      "checked_at": "2026-10-04T21:27:38.839381+00:00",
+      "outcome": "not_confirmed_on_first_party_sources",
+      "queries": [
+        "\"102suffolk@gmail.com\" Davelle"
+      ],
+      "result_urls": []
+    }
   }
 }

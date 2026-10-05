@@ -458,8 +458,12 @@
   "business_status_checked_at": "2026-10-03T20:06:08.057448+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:57.861382+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "info@sobaya-nyc.com": [
+        "https://sobaya.square.site/"
+      ]
+    },
     "pages": [
       {
         "url": "https://sobaya.square.site/",
@@ -473,7 +477,38 @@
       }
     ],
     "contact_forms": [],
-    "browser_checked_at": "2026-10-03T22:11:24.211801+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_checked_at": "2026-10-04T20:54:58.223900+00:00",
+    "browser_outcome": "not_found_on_rendered_pages",
+    "publication_evidence": {
+      "info@sobaya-nyc.com": {
+        "url": "https://sobaya.square.site/",
+        "quote": "local culture and cuisine thousands of miles away from home. \n\nExplore our Instagram\n@sobaya.nyc\nLocation & Hours\n\nSobaya\n229 E 9TH ST\nNEW YORK, New York 10003, US\n+1 212-533-6966\ninfo@sobaya-nyc.com\n\nMon to Thur : 12PM - 9PM\n\nFri & Sat : 12PM - 10PM\n\nSun : 12PM - 8PM\n\n\nSign Up\nThis form is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nPower",
+        "checked_at": "2026-10-04T20:54:58.223900+00:00",
+        "business_match": "Maps-linked restaurant site or manually matched restaurant name/location/phone"
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:54:58.223900+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://sobaya.square.site/",
+        "title": "Home | Sobaya",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/sobaya.nyc/",
+        "source": "https://sobaya.square.site/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

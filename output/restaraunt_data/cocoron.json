@@ -644,5 +644,79 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:25.570660+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.cocoronandgoemon.com/contact",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact — Soba Noodle (cocoron) / Shabushabu Mayumon (Hotpot) / cocoron market & restaurant (Eclectic comfort food), New York",
+          "labels": [
+            "First Name\n(required)",
+            "Last Name\n(required)",
+            "",
+            "Email\n(required)",
+            "Date of Visit / Delivery",
+            "Time of Visit / Delivery",
+            "Order Number",
+            "What did you order?",
+            "Subject\n(required)",
+            "Message\n(required)",
+            "",
+            "SUBMIT"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:13:40.247534+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:13:40.247607+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.cocoronandgoemon.com/",
+        "title": "Soba Noodle (cocoron) / Shabushabu Mayumon (Hotpot) / cocoron market & restaurant (Eclectic comfort food), New York",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.cocoronandgoemon.com/contact",
+        "title": "Contact — Soba Noodle (cocoron) / Shabushabu Mayumon (Hotpot) / cocoron market & restaurant (Eclectic comfort food), New York",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Cocoron  New York,  NY 10002 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.cocoronandgoemon.com/contact",
+          "https://www.instagram.com/cocoronteam/?hl=en",
+          "https://www.cocoronandgoemon.com/",
+          "https://www.cocoronandgoemon.com/location",
+          "https://www.cocoronandgoemon.com/cocoroninfo",
+          "https://ny.eater.com/venue/40253/cocoron",
+          "https://mail.citimenus.com/NYC_Restaurants/Cocoron/6423",
+          "https://www.moodap.com/new-york-city/lower-east-side/restaurants/cocoron",
+          "https://m.yelp.com/biz/cocoron-new-york?start=240"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/cocoronteam/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

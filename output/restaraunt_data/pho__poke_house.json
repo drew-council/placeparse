@@ -451,5 +451,71 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:01.485086+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T21:04:27.702828+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.phopokehouse.com/",
+        "title": "Pho & Poke House",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.bizarchive.com/business/pho-poke-house-919-382-0805",
+        "title": "Pho & Poke House | (919) 382-0805 | Durham, North Carolina",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/north-carolina/durham/vietnamese-restaurant/2013708124-pho-poke-house",
+        "title": "Pho & Poke House in Durham, NC 27705 - 919-382...",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.discoverdurham.com/directory/pho-poke-house/",
+        "title": "Pho & Poke House | Discover Durham",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.restaurantji.com/nc/durham/pho-and-poke-house-/",
+        "title": "Pho & Poke House, Durham - Menu, Reviews (166), Photos (37) - Restaurantji",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Pho & Poke House\"  Durham,  NC 27705 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.phopokehouse.com/",
+          "https://pho-poke-house.wheree.com/",
+          "https://www.bizarchive.com/business/pho-and-poke-house-919-382-0805",
+          "https://www.chamberofcommerce.com/business-directory/north-carolina/durham/vietnamese-restaurant/2013708124-pho-poke-house",
+          "https://www.discoverdurham.com/directory/pho-poke-house/",
+          "https://www.restaurantji.com/nc/durham/pho-and-poke-house-/"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://pho-poke-house.wheree.com/",
+        "status": "browser_challenge_or_unavailable"
+      }
+    ],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.bizarchive.com/business/pho-poke-house-919-382-0805",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/north-carolina/durham/vietnamese-restaurant/2013708124-pho-poke-house",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": []
   }
 }

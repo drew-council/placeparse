@@ -592,5 +592,73 @@
     "contact_forms": [
       "https://www.liuyishouna.com/joininourteam"
     ]
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:44:45.713397+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.liuyishouna.com/flushing",
+        "title": "Flushing | Liuyishou Hot Pot NA",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.us-info.com/en/usa/liuyishou_hot_pot/flushing/USNY101446838-3477320201/businessdetails.aspx",
+        "title": "Liuyishou Hot Pot - Restaurants in Flushing, NY | US Info",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.us-info.com/en/usa/liuyishou_hot_pot/flushing/USNY102947634-3477320201/businessdetails.aspx",
+        "title": "Liuyishou Hot Pot - Restaurants in Flushing, NY | US Info",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/flushing/miscellaneous/2005028783-liuyishou-hot-pot",
+        "title": "Liuyishou Hot Pot in Flushing, NY 11354 - 347-732...",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.steamanddip.com/hot-pot-restaurants/liuyishou-hot-pot/",
+        "title": "Liuyishou Hot Pot in Flushing, New York 11354",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Liuyishou Hot Pot\"  Flushing,  NY 11354 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://local.us-info.com/USNY101446838-3477320201/liuyishou_hot_pot-flushing.html",
+          "https://www.liuyishouna.com/flushing",
+          "https://www.us-info.com/en/usa/liuyishou_hot_pot/flushing/USNY102947634-3477320201/businessdetails.aspx",
+          "https://www.chamberofcommerce.com/business-directory/new-york/flushing/miscellaneous/2005028783-liuyishou-hot-pot",
+          "https://www.steamanddip.com/hot-pot-restaurants/liuyishou-hot-pot/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/flushing/miscellaneous/2005028783-liuyishou-hot-pot",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/liuyishou.newyork/",
+        "source": "https://www.liuyishouna.com/flushing",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/pages/Liuyishou-Hotpot-%E5%8A%89%E4%B8%80%E6%89%8B%E7%81%AB%E9%8D%8B/346153785951628",
+        "source": "https://www.liuyishouna.com/flushing",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

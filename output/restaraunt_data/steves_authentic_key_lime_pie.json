@@ -452,6 +452,58 @@
         "emails": []
       }
     ],
-    "contact_forms": []
+    "contact_forms": [],
+    "candidate_sources": {
+      "inquiry@keylime.com": {
+        "urls": [
+          "https://maps.roadtrippers.com/us/new-york-ny/food-drink/steve-s-authentic-key-lime-pie"
+        ],
+        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:53:00.846251+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://maps.roadtrippers.com/us/new-york-ny/food-drink/steve-s-authentic-key-lime-pie",
+        "title": "Steve’s Authentic Key Lime Pie, New York | Roadtrippers",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Steve's Authentic Key Lime Pie\"  Brooklyn,  NY 11231 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://keylime.com/talk-to-us/",
+          "https://www.facebook.com/steves.authentic/",
+          "https://maps.roadtrippers.com/us/new-york-ny/food-drink/steve-s-authentic-key-lime-pie",
+          "https://www.yelp.com/biz/steve-s-authentic-key-lime-pie-brooklyn"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/steves.authentic/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ],
+    "email_lead_verification": {
+      "checked_at": "2026-10-04T21:27:53.251458+00:00",
+      "outcome": "not_confirmed_on_first_party_sources",
+      "queries": [
+        "\"inquiry@keylime.com\" Steve's Authentic Key Lime Pie"
+      ],
+      "result_urls": []
+    }
   }
 }

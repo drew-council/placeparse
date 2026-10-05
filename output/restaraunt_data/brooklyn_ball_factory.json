@@ -487,5 +487,58 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:07:49.038514+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.brooklynballfactory.com/contact",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact Us | Brooklyn Ball Factory 95 Montrose",
+          "labels": [
+            "Full name",
+            "Email (required)",
+            "Message",
+            "Submit Contact us"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:44:58.572806+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:44:58.572885+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.brooklynballfactory.com/",
+        "title": "Home | Brooklyn Ball Factory 95 Montrose",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.brooklynballfactory.com/aboutus",
+        "title": "About-1 | Brooklyn Ball Factory 95 Montrose",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.brooklynballfactory.com/contact",
+        "title": "Contact Us | Brooklyn Ball Factory 95 Montrose",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/bbf_bento_catering",
+        "source": "https://www.brooklynballfactory.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

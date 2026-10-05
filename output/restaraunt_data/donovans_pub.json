@@ -492,5 +492,15 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "food_service_evidence": {
+      "url": "https://donovansny.com/",
+      "quote": "Our catering menu is packed with Irish-inspired comfort food and pub classics—from shepherd's pie and corned beef & cabbage, to wings, sandwiches, and hearty sides. 57-24 Roosevelt Avenue, Woodside, NY 11377. Kitchen open daily.",
+      "checked_at": "2026-10-04T21:51:08.685234+00:00",
+      "reason": "Food service explicitly published; generic/bar-only API types should not exclude this venue."
+    },
+    "checked_at": "2026-10-04T21:51:08.685234+00:00",
+    "method": "agent-browser manual rendered inspection; no sends/submissions"
   }
 }

@@ -490,5 +490,56 @@
     ],
     "browser_checked_at": "2026-10-03T22:08:27.621143+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.copacabanabraziliangrill.com/contact.html",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Copacabana Brazilian Grill",
+          "labels": [
+            "First Name",
+            "Last Name",
+            "Email Address",
+            "Phone No",
+            "Message",
+            ""
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:13:31.070745+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:13:31.070806+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.copacabanabraziliangrill.com/contact.html",
+        "title": "Copacabana Brazilian Grill",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/copacabanabraziliangrill/",
+        "source": "https://www.copacabanabraziliangrill.com/contact.html",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/copacabanabraziliangrill/",
+        "source": "https://www.copacabanabraziliangrill.com/contact.html",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

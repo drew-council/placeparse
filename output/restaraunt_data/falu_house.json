@@ -86,5 +86,86 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:47.644058+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.faluhouse.com/visit",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Visit Us — Falu House Scandinavian Deli",
+          "labels": [
+            "First Name\n(required)",
+            "Last Name\n(required)",
+            "Email\n(required)",
+            "Message",
+            "",
+            "Send"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:08:45.191452+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:08:45.191539+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.faluhouse.com/",
+        "title": "Falu House Scandinavian Deli",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.faluhouse.com/visit",
+        "title": "Visit Us — Falu House Scandinavian Deli",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Falu House  Brooklyn,  NY 11222 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.faluhouse.com/visit",
+          "https://www.faluhouse.com/",
+          "https://www.facebook.com/people/Falu-House/61571760144094/",
+          "https://www.instagram.com/faluhouse/?hl=en",
+          "https://www.faluhouse.com/tinned-fish-club-sign-up",
+          "https://lagenheten.com/contact-us/",
+          "https://www.yelp.com/biz/falu-house-scandinavian-deli-brooklyn",
+          "https://frauhaus.nyc/contact/",
+          "https://www.faluhouse.com/beverage"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/faluhouse/",
+        "source": "https://www.faluhouse.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/people/Falu-House/61571760144094/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      },
+      {
+        "url": "https://www.instagram.com/faluhouse/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

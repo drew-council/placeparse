@@ -430,5 +430,72 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:56:02.478435+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.us-info.com/en/usa/s_wan_cafe/new_york/USNY101929849-2129668269/businessdetails.aspx",
+        "title": "S Wan Cafe - Restaurants in New York, NY | US Info",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.allbiz.com/business/s-wan-cafe-212-966-8269",
+        "title": "S Wan Cafe Inc | (212) 966-8269 | New York City",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://xn----8sbnadqrtzjid0d5cj.cybo.com/US-biz/s-wan-cafe",
+        "title": "Быстрая проверка безопасности",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://a-better-place.com/US/d-i.html?utm_content=s-wan-cafe-i622573",
+        "title": "S Wan Cafe - New York",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"S Wan Cafe\"  New York,  NY 10002 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://local.us-info.com/USNY101929849-2129668269/s_wan_cafe-new_york.html",
+          "https://www.yelp.com/biz/s-wan-cafe-%E6%B4%8B%E7%B4%AB%E8%8D%86-new-york",
+          "https://www.allbiz.com/business/s-wan-cafe-212-966-8269",
+          "https://www.facebook.com/profile.php/?id=100860169959366",
+          "https://xn----8sbnadqrtzjid0d5cj.cybo.com/US-biz/s-wan-cafe",
+          "https://a-better-place.com/US/s-wan-cafe-i622573.html",
+          "https://s-wan-cafe.netwaiter.com/new-york/about/",
+          "https://local.yahoo.com/info-11063583-s-wan-cafe-%E6%B4%8B%E7%B4%AB%E8%8D%86-new-york/",
+          "https://www.restaurantji.com/ny/new-york/s-wan-cafe-/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.allbiz.com/business/s-wan-cafe-212-966-8269",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "form",
+        "url": "https://a-better-place.com/US/d-i.html?utm_content=s-wan-cafe-i622573",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/profile.php/?id=100860169959366",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

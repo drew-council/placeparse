@@ -468,5 +468,75 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:17.306462+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://saranromthai.com/contact/",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact - Saranrom Thai",
+          "labels": [
+            "Leave this field empty",
+            "Full Name *",
+            "Email *",
+            "Phone",
+            "Subject",
+            "Message *",
+            "Send Message"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:59:35.580532+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:59:35.580683+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://saranromthai.dine.online/locations/5583912?fulfillment=pickup",
+        "title": "saranromthai | saranromthai menu & prices",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://saranromthai.com/contact/",
+        "title": "Contact - Saranrom Thai",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Saranrom Thai\"  Elmhurst,  NY 11373 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://saranromthai.com/contact/",
+          "https://www.facebook.com/saranrom.nyc/",
+          "https://saranromthai.com/",
+          "https://www.yelp.com/biz/saranrom-thai-elmhurst-2",
+          "https://saranrom-thai.here-restaurants.com/",
+          "https://www.cybo.com/US-biz/saranrom-thai",
+          "https://saranromthai.restaurants-info.com/",
+          "https://saranrom-thai.wherevi.com/",
+          "https://ny.eater.com/venue/103246/saranrom-thai-2",
+          "https://menuthaifood.com/thai-food-near-me/saranrom-thai"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/saranrom.nyc/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

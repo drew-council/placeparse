@@ -55,5 +55,55 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:48.253251+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://tentennyc.square.site/contact-us",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact Us | Tènten",
+          "labels": [
+            "Full name (required)",
+            "Company",
+            "Phone number (required)",
+            "Email (required)",
+            "Message",
+            "Submit Contact us"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:08:26.373668+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:08:26.373766+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://tentennyc.square.site/",
+        "title": "About | Tènten",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://tentennyc.square.site/contact-us",
+        "title": "Contact Us | Tènten",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/tenten_nyc",
+        "source": "https://tentennyc.square.site/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

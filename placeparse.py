@@ -430,7 +430,6 @@ def export_email_reports() -> None:
         "food",
         "cafe",
         "bakery",
-        "bar",
         "meal_takeaway",
         "meal_delivery",
     }
@@ -481,8 +480,12 @@ def export_email_reports() -> None:
             pages = discovery.get("pages", [])
             # A redirecting Maps CID may differ from the canonical result CID.
             on_list = cached_cid(data) in current or file.name in listed_files
-            is_food = bool(food_types & set(data.get("types", []))) or bool(
-                data.get("food_place", False)
+            is_food = (
+                bool(food_types & set(data.get("types", [])))
+                or bool(data.get("food_place", False))
+                or bool(
+                    data.get("text_contact_discovery", {}).get("food_service_evidence")
+                )
             )
             legacy = set(data.get("emails", [])) | {data.get("email", "")}
             summary.writerow(

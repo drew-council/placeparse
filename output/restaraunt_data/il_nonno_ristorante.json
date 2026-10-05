@@ -523,12 +523,114 @@
   "vicinity": "25-17 Astoria Blvd, Astoria",
   "wheelchair_accessible_entrance": true,
   "business_status_checked_at": "2026-10-03T20:05:19.616716+00:00",
-  "emails": [],
+  "emails": [
+    "ilnonnonyc@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:01.974513+00:00",
-    "outcome": "no_website",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "ilnonnonyc@gmail.com": [
+        "https://www.ilnonnonyc.com/contact-us"
+      ]
+    },
     "pages": [],
-    "contact_forms": []
+    "contact_forms": [],
+    "publication_evidence": {
+      "ilnonnonyc@gmail.com": {
+        "url": "https://www.ilnonnonyc.com/contact-us",
+        "quote": "feedback, we're here for you! Reach out by phone, email, or drop by in person—our team is always ready to help.\n\n25-17 Astoria Blvd\n\nAstoria, NY 11102\n\nPhone\n\n347-808-0087\n\nEmail\n\nilnonnonyc@gmail.com\n\nFirst Name\nLast Name\nEmail\nMessage\nSend\n\nFacebook\n\nInstagram\n\nTikTok",
+        "checked_at": "2026-10-04T20:13:29.662018+00:00",
+        "business_match": "Maps-linked restaurant site or manually matched restaurant name/location/phone"
+      }
+    },
+    "browser_checked_at": "2026-10-04T20:13:29.662018+00:00"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.ilnonnonyc.com/contact-us",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "CONTACT US | Il Nonno",
+          "labels": [
+            "First Name",
+            "Last Name",
+            "Email",
+            "Message",
+            "Send"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:13:29.661939+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:13:29.662018+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.ilnonnonyc.com/contact-us",
+        "title": "CONTACT US | Il Nonno",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Il Nonno Ristorante  Astoria,  NY 11102 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.ilnonnonyc.com/contact-us",
+          "https://www.ilnonnonyc.com/",
+          "https://www.facebook.com/p/Il-Nonno-nyc-61557578788657/",
+          "https://www.nyctourism.com/restaurants/il-nonno/",
+          "https://www.instagram.com/ilnonnonewyork/?hl=en",
+          "https://www.yelp.com/biz/il-nonno-astoria",
+          "https://ny.eater.com/venue/109638/il-nonno",
+          "https://www.outgoing.world/activity/il-nonno-39e10305f926",
+          "https://toast.app/r/il-nonno?utm_medium=redirect"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/ilnonnonewyork",
+        "source": "https://www.ilnonnonyc.com/contact-us",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com//people/Il-Nonno-nyc/61557578788657/",
+        "source": "https://www.ilnonnonyc.com/contact-us",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/people/Il-Nonno-nyc/61557578788657/",
+        "source": "https://www.ilnonnonyc.com/contact-us",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/p/Il-Nonno-nyc-61557578788657/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      },
+      {
+        "url": "https://www.instagram.com/ilnonnonewyork/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

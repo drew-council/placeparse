@@ -479,5 +479,56 @@
     ],
     "browser_checked_at": "2026-10-03T22:11:08.681697+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.radiobakery.nyc/contact",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact Us — Radio Bakery",
+          "labels": [
+            "First Name\n(required)",
+            "Last Name\n(required)",
+            "Email\n(required)",
+            "Location ",
+            "Message\n(required)",
+            "",
+            "Send"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T21:02:13.854439+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T21:02:13.854522+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.radiobakery.nyc/",
+        "title": "Radio Bakery",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.radiobakery.nyc/contact",
+        "title": "Contact Us — Radio Bakery",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/radiobakerynyc/",
+        "source": "https://www.radiobakery.nyc/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

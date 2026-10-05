@@ -544,6 +544,118 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:07.307580+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "candidate_sources": {
+      "d.detoy@chavelasnyc.com": {
+        "urls": [
+          "https://www.allbiz.com/business/chavelas_7A-718-622-3100"
+        ],
+        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      },
+      "info@chavelasnyc.com": {
+        "urls": [
+          "https://www.allbiz.com/business/chavelas_7A-718-622-3100"
+        ],
+        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:54:37.263180+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://chavelasnyc.com/",
+        "title": "Home | Chavela's",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://chavelasnyc.com/about/",
+        "title": "About | Chavela's",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.allbiz.com/business/chavelas_7A-718-622-3100",
+        "title": "Chavela's | (718) 622-3100 | Brooklyn",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.datalane.com/contact/restaurants/chavelas",
+        "title": "Chavela's Contact Details | Owner Phone & Email",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://chavelasnyc.com/info/",
+        "title": "Info | Chavela's",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://restaurantjump.com/chavelas-11238/",
+        "title": "Chavela's - Brooklyn, NY 11238 - Menu, Reviews, Hours & Contact",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Chavela's\"  Brooklyn,  NY 11238 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.allbiz.com/business/chavelas_7A-718-622-3100",
+          "https://chavelasnyc.com/",
+          "https://www.datalane.com/contacts/restaurants/chavelas",
+          "https://www.facebook.com/ChavelasRestaurantNYC/",
+          "https://chavelasnyc.com/info/",
+          "https://restaurantjump.com/chavelas-11238/",
+          "https://bukutelepon.cybo.com/US-biz/chavelas_7A",
+          "https://chavelasmexicancuisine.com/page/contact-us",
+          "https://www.superpages.com/brooklyn-ny/bpp/chavelas-467877803",
+          "https://www.aplez.com/business/food-dining/2617-chavela-s"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.allbiz.com/business/chavelas_7A-718-622-3100",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "email",
+        "email": "yrosa968@gmail.com",
+        "url": "https://restaurantjump.com/chavelas-11238/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "https://restaurantjump.com/chavelas-11238/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/chavelasnyc/?hl=es",
+        "source": "https://chavelasnyc.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/ChavelasRestaurantNYC/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ],
+    "email_lead_verification": {
+      "checked_at": "2026-10-04T21:27:36.005792+00:00",
+      "outcome": "not_confirmed_on_first_party_sources",
+      "queries": [
+        "\"d.detoy@chavelasnyc.com\" Chavela's"
+      ],
+      "result_urls": []
+    }
   }
 }

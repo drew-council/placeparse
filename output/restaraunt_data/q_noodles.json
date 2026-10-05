@@ -457,5 +457,68 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:07.653471+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:46:26.934803+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.qnoodles.co/",
+        "title": "Q Noodles | Handmade Dumplings & Noodles in Cary, NC",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.findglocal.com/US/Cary/1001301763069690/Q-Noodles-Cary",
+        "title": "Q Noodles Cary, 1026 Ryan Road, Cary, NC (2026)",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://qnoodles.fronteats.com/",
+        "title": "Q NOODLES | Cary",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.qnoodles.co/the-fam",
+        "title": "Q Noodle Family — Q Noodles | Handmade Dumplings & Noodles in Cary, NC",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Q noodles\"  Cary,  NC 27511 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.qnoodles.co/",
+          "https://www.findglocal.com/US/Cary/1001301763069690/Q-Noodles-Cary",
+          "https://qnoodles.fronteats.com/",
+          "https://www.facebook.com/people/Q-Noodles-Cary/61579557522863/",
+          "https://www.qnoodles.co/the-fam",
+          "https://www.yelp.com/biz/q-noodles-cary",
+          "https://www.chamberofcommerce.com/business-directory/north-carolina/cary/miscellaneous/2023940101-q-noodles",
+          "https://restaurantjump.com/q-noodles-27511/",
+          "https://q-noodles-1430445.wheree.com/",
+          "https://www.carymagazine.com/restaurants/q-noodles/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/qnoodle_cary/?hl=en",
+        "source": "https://www.qnoodles.co/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/people/Q-Noodles-Cary/61579557522863/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

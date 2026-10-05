@@ -496,5 +496,77 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:19.000237+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:55:54.067102+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.shanghaiyougardennyc.com/",
+        "title": "Shanghai You Garden | Authentic Soup Dumplings & Shanghainese Cuisine in NYC",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.shanghaiyougardennyc.com/about",
+        "title": "About Us | Shanghai You Garden — Our Story Since 2016",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.us-info.com/en/usa/shanghai_you_garden/flushing/USNY100818281-7188862286/businessdetails.aspx",
+        "title": "Shanghai You Garden - Restaurants in Flushing, NY | US Info",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://shanghaiyougardennyc.com/",
+        "title": "Shanghai You Garden | Authentic Soup Dumplings & Shanghainese Cuisine in NYC",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.us-info.com/en/usa/shanghai_you_garden/flushing/USNY102869609-7188862286/businessdetails.aspx",
+        "title": "Shanghai You Garden - Restaurants in Flushing, NY | US Info",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.shanghaiyougardennyc.com/locations",
+        "title": "Locations & Hours | Shanghai You Garden — Flushing, Bayside & Long Island",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Shanghai You Garden\"  Flushing,  NY 11354 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://local.us-info.com/USNY100818281-7188862286/shanghai_you_garden-flushing.html",
+          "https://shanghaiyougardennyc.com/",
+          "https://local.us-info.com/USNY102869609-7188862286/shanghai_you_garden-flushing.html",
+          "https://www.shanghaiyougardennyc.com/locations",
+          "https://www.facebook.com/ShanghaiYouGardenNYC/",
+          "https://www.yelp.com/biz/shanghai-you-garden-flushing-3",
+          "https://www.superpages.com/flushing-ny/bpp/shanghai-you-garden-507711227",
+          "https://www.yellowpages.com/flushing-ny/mip/shanghai-you-garden-507711227",
+          "https://www.chamberofcommerce.com/business-directory/new-york/flushing/miscellaneous/2007372189-shanghai-you-garden-shang-hai-yu-yuan"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/shanghaiyougarden/",
+        "source": "https://www.shanghaiyougardennyc.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/ShanghaiYouGardenNYC/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

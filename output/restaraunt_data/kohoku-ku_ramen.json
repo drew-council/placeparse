@@ -488,5 +488,73 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:23.566054+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:25:12.834589+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.kohoku-kuramen.com/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF-new-york",
+        "title": "ニューヨーク NEW YORK | Mysite",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.kohoku-kuramen.com/about-us",
+        "title": "私たちに関してはABOUT US | Mysite",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.kohoku-kuramen.com/contact",
+        "title": "コンタクトCONTACT | Mysite",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://mindtrip.ai/restaurant/new-york-city/kohoku-ku-ramen/re-ZqBmWAJh",
+        "title": "Kohoku-Ku Ramen in New York City, New York | Is it Good?",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"KOHOKU-KU RAMEN\"  New York,  NY 10019 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://mindtrip.ai/restaurant/new-york-city/kohoku-ku-ramen/re-ZqBmWAJh",
+          "https://www.yelp.com/biz/kohoku-ku-ramen-new-york-2",
+          "https://www.kohoku-kuramen.com/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF-new-york",
+          "https://www.tripadvisor.com/Restaurant_Review-g60763-d23638710-Reviews-Kohoku_ku_Ramen-New_York_City_New_York.html",
+          "https://www.grubhub.com/restaurant/kohoku-ku-ramen-709-9th-ave-new-york/2901356",
+          "https://www.facebook.com/p/Kohoku-Ku-RAMEN-%E3%81%93%E3%81%86%E3%81%BB%E3%81%8F%E3%81%8F%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3-100083278573938/",
+          "https://www.doordash.com/store/2347088?srsltid=AU7gw4XmxD9cSLqWQ-7IpKHaM4FQdr-wzOdRhXxjG8ySLadhe_zb3h6t",
+          "https://www.theinfatuation.com/new-york/reviews/kohokuku-ramen",
+          "https://toast.app/r/kohoku-ku-ramen-709-9th-ave/order?utm_medium=redirect"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "kohokukuramen@gmail.com",
+        "url": "https://mindtrip.ai/restaurant/new-york-city/kohoku-ku-ramen/re-ZqBmWAJh",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "https://mindtrip.ai/restaurant/new-york-city/kohoku-ku-ramen/re-ZqBmWAJh",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/p/Kohoku-Ku-RAMEN-%E3%81%93%E3%81%86%E3%81%BB%E3%81%8F%E3%81%8F%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3-100083278573938/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

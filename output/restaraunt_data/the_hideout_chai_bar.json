@@ -422,13 +422,18 @@
   "wheelchair_accessible_entrance": false,
   "emails": [
     "13e49d785d8d4f828038b6136f3b48ba@sentry.io",
-    "hi@mystore.com"
+    "hi@mystore.com",
+    "info@thehideoutnyc.com"
   ],
   "business_status_checked_at": "2026-10-03T20:06:16.698060+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:50:06.496505+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "info@thehideoutnyc.com": [
+        "https://www.thehideoutnyc.com/"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.thehideoutnyc.com",
@@ -447,7 +452,70 @@
       }
     ],
     "contact_forms": [],
-    "browser_checked_at": "2026-10-03T22:11:43.947094+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_checked_at": "2026-10-04T20:25:57.139663+00:00",
+    "browser_outcome": "not_found_on_rendered_pages",
+    "publication_evidence": {
+      "info@thehideoutnyc.com": {
+        "url": "https://www.thehideoutnyc.com/",
+        "quote": "ed by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\nSubmit\nLocation & Hours\n\nThe Hideout Chai Bar\n42 Rivington Street\nNEW YORK, New York 10002\n(646) 649-5868\ninfo@thehideoutnyc.com\n\nGet directions\n\nMonday\nClosed\nTuesday\n10:00 am\n-\n7:00 pm\nWednesday\n10:00 am\n-\n7:00 pm\nThursday\n10:00 am\n-\n7:00 pm\nFriday\n10:00 am\n-\n7:00 pm\nSaturday\n10:00 am\n-\n7:00 pm\nSunday\n10:",
+        "checked_at": "2026-10-04T20:25:57.139663+00:00",
+        "business_match": "Maps-linked restaurant site or manually matched restaurant name/location/phone"
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.thehideoutnyc.com/",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Home | The Hideout Chai Bar",
+          "labels": [
+            "Full name",
+            "Email (required)",
+            "Message",
+            "Submit Contact us"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:25:57.139597+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:25:57.139663+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.thehideoutnyc.com/",
+        "title": "Home | The Hideout Chai Bar",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/thehideoutchai/",
+        "source": "https://www.thehideoutnyc.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/thehideoutchai",
+        "source": "https://www.thehideoutnyc.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/thehideoutchai",
+        "source": "https://www.thehideoutnyc.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

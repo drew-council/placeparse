@@ -453,5 +453,53 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:21:49.002881+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.nyctourism.com/restaurants/sybils-bakery-and-restaurant/",
+        "title": "Sybil’s Bakery and Restaurant",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://guyaneseswag.com/nl/pages/directory/sybils-bakery-restaurant-queens",
+        "title": "Sybil's Bakery & Restaurant | Guyanese Food in NY & Florida – Guyanese Swag",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://sybils-bakery-restaurant.wheree.com/",
+        "title": "SYBIL'S BAKERY & RESTAURANT - Reviews, Photos & Phone Number (2026) - Caribbean Restaurant in Queens, New York (NY) - Wheree",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://toast.app/r/sybilsbakeryhillside/order?utm_medium=redirect",
+        "title": "Sybil's Bakery & Restaurant - Hillside Avenue 159-24 Hillside Avenue | Toast",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Sybil's Bakery & Restaurant\"  Jamaica,  NY 11432 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/sybils-bakery-and-restaurant-jamaica",
+          "https://www.nyctourism.com/restaurants/sybils-bakery-and-restaurant/",
+          "https://guyaneseswag.com/nl/pages/directory/sybils-bakery-restaurant-queens?srsltid=AU7gw4V5CFt0hDdVqXFNu8L3n9JI6SaXnU3s8IOYOd0UnWeygZL080fY",
+          "https://sybils-bakery-restaurant.wheree.com/",
+          "https://www.facebook.com/SybilsHillside/posts/try-it-for-yourself159-24-hillside-ave-jamaica-ny-fyp-pov-guyanatiktok-nyceats-c/1836539911006145/",
+          "https://toast.app/r/sybilsbakeryhillside/order?utm_medium=redirect",
+          "https://www.yelp.com/biz/sybils-bakery-and-restaurant-south-richmond-hill",
+          "https://www.timeout.com/newyork/restaurants/sybils-bakery-restaurant",
+          "https://order.toasttab.com/online/sybilsbakeryhillside/item-fish-roti_402e7404-c4e5-4a7d-aba2-e5ff2e24ad45"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

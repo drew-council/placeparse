@@ -449,5 +449,71 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:49:07.929972+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.us-info.com/en/usa/fu_yuan/flushing/USNY100962562-3474758181/businessdetails.aspx",
+        "title": "Fu Yuan - Restaurants in Flushing, NY | US Info",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.yellowpages.com/flushing-ny/mip/fu-yuan-525299402",
+        "title": "Fu Yuan - Flushing, NY 11354",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://chinarestaurant-luckypalace.com/chinese-restaurants-near-me/fu-yuan",
+        "title": "Fu Yuan: Authentic Rice Rolls and Congee in Flushing, Queens",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://fu-yuan.cuba-cafe.com/",
+        "title": "Fu Yuan Flushing, NY 11354 | Explore Menu, Customer Reviews & Location",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://nooklyn.com/locations/4KEkk6cN7pIhtx7KFvwx",
+        "title": "Fu Yuan 富源腸粉 on 135-43 Roosevelt Ave, Flushing, NY 11354, USA in Flushing - Powered by Nooklyn",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.restaurantji.com/ny/flushing/fu-yuan-/",
+        "title": "Fu Yuan, Flushing - Menu, Reviews (139), Photos (39) - Restaurantji",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Fu Yuan\"  Flushing,  NY 11354 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://local.us-info.com/USNY100962562-3477329882/fu_yuan-flushing.html",
+          "https://www.yellowpages.com/flushing-ny/mip/fu-yuan-525299402",
+          "https://chinarestaurant-luckypalace.com/chinese-restaurants-near-me/fu-yuan",
+          "https://fu-yuan.cuba-cafe.com/",
+          "https://nooklyn.com/locations/4KEkk6cN7pIhtx7KFvwx",
+          "https://www.restaurantji.com/ny/flushing/fu-yuan-/",
+          "https://restaurantedroop.com/restaurants-near-me/fu-yuan",
+          "https://fu-yuan.wheree.com/",
+          "https://www.dnb.com/business-directory/company-profiles.fu_yuan_kitchen_inc.a8cbbe505f8a48c09134fec5bfac80e9.html",
+          "https://fu-yuan.localoria.com/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "server@chinarestaurant-luckypalace.com",
+        "url": "https://chinarestaurant-luckypalace.com/chinese-restaurants-near-me/fu-yuan",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": []
   }
 }

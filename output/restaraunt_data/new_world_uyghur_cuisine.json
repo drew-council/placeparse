@@ -462,5 +462,48 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:10:25.998363+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:30:53.392889+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.newworlduyghurcuisine.com/0yl4f5tl/restaurant/order-online?menu=All+Day+Menu&category=Specialties",
+        "title": "Best Chinese in Queens, NY | New World Uyghur Cuisine | Order Online",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.newworlduyghurcuisine.com/0yl4f5tl/restaurant/order-online?menu=All+Day+Menu&category=Specialties",
+        "title": "Best Chinese in Queens, NY | New World Uyghur Cuisine | Order Online",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://new-world-uyghur-cuisine-1.wheree.com/",
+        "title": "NEW WORLD UYGHUR CUISINE - Reviews, Photos & Phone Number (2026) - Specialty Food Store in Queens, New York (NY) - Wheree",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"New world Uyghur Cuisine\"  Flushing,  NY 11354 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.newworlduyghurcuisine.com/",
+          "https://new-world-uyghur-cuisine-1.wheree.com/",
+          "https://www.instagram.com/popular/zhouyu-136-95-roosevelt-ave-flushing-ny-11354/",
+          "https://www.facebook.com/natamew/posts/-new-york-food-court-133-35-roosevelt-ave-flushing-ny-11354everything-at-this-fl/1379611880996263/",
+          "https://www.facebook.com/nanxiangsoupdumplings/posts/new-year-energy-is-already-in-the-air-at-flushing-one-of-the-most-famous-asian-t/1442266214568183/",
+          "https://www.tiktok.com/@melon_park/video/7616594140863761695",
+          "https://www.tiktok.com/discover/flushing-chinatown-food-crawl-ellen",
+          "https://www.austinfoodadventures.com/blog/the-perfect-nyc-food-crawl-in-3-days/",
+          "https://www.facebook.com/cynthiachungphoto/posts/haejang162-10-crocheron-ave-flushing-ny-11358this-fried-fish-is-so-good-and-it-c/1714317677362605/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

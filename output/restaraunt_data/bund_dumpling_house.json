@@ -568,5 +568,43 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:22:33.644816+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://bund-dumpling-house.wheree.com/",
+        "title": "BUND DUMPLING HOUSE - Reviews, Photos & Phone Number (2026) - Noodle Restaurant in Queens, New York (NY) - Wheree",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://local.yahoo.com/info-221332794-bund-dumpling-house-astoria/?guccounter=1",
+        "title": "Bund Dumpling House in Astoria, NY – Reviews, Hours, and Contact Details",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Bund Dumpling House\"  Astoria,  NY 11106 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/bund-dumpling-house-astoria-2",
+          "https://order.toasttab.com/online/bunddumplinghouse",
+          "https://www.grubhub.com/restaurant/bund-dumpling-house-2508-broadway-astoria/3132793",
+          "https://bund-dumpling-house.wheree.com/",
+          "https://www.instagram.com/p/CDDKdZhjI8v/",
+          "https://local.yahoo.com/info-221332794-bund-dumpling-house-astoria/",
+          "https://whereyoueat.com/Bund-Dumpling-House-31352.html",
+          "https://wanderlog.com/place/details/2160671/bund-dumpling-house",
+          "https://www.yelp.com/biz/bund-dumpling-house-astoria-2?start=140"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

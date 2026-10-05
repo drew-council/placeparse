@@ -428,12 +428,73 @@
   "utc_offset": -240,
   "vicinity": "42-05 162nd St, Flushing",
   "business_status_checked_at": "2026-10-03T20:04:53.972193+00:00",
-  "emails": [],
+  "emails": [
+    "chefpapanyc@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:21.636373+00:00",
-    "outcome": "no_website",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "chefpapanyc@gmail.com": [
+        "https://www.chefpapanyc.com/"
+      ]
+    },
     "pages": [],
-    "contact_forms": []
+    "contact_forms": [],
+    "publication_evidence": {
+      "chefpapanyc@gmail.com": {
+        "url": "https://www.chefpapanyc.com/",
+        "quote": "g/ Private Event\nContact Us\nAuthentic Modern Vietnamese Cuisine\nAbout Us\n\nPICK YOUR FLAVOR\n\nView Menu\n\nChef Papa Vietnamese Kitchen\n\nLIC: (929) 600-5568\n\nFlushing: (917) 688-3968\n\nChefPapaNYC@gmail.com\n\nLong Island City:\n\n42-44 Crescent St, Long Island City, NY 11101\n\nFlushing:\n\n42-05 162nd St, Flushing, NY 11358\n\nPrivacy Policy\n\nTerms & Conditions",
+        "checked_at": "2026-10-04T20:45:19.379857+00:00",
+        "business_match": "Maps-linked restaurant site or manually matched restaurant name/location/phone"
+      }
+    },
+    "browser_checked_at": "2026-10-04T20:45:19.379857+00:00"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:45:19.379857+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://chefpapaflushing.com/contact/",
+        "title": "Contact | Chef Papa Vietnamese Kitchen | Vietnamese restaurant Flushing",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chefpapanyc.com/",
+        "title": "Home | Chef Papa Vietnamese",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Chef Papa Vietnamese Kitchen\"  Flushing,  NY 11358 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://chefpapaflushing.com/contact/",
+          "https://www.chefpapanyc.com/",
+          "https://www.chefpapanyc.com/contact-10",
+          "https://chefpapaflushing.com/faq/",
+          "https://www.yelp.com/biz/chef-papa-vietnamese-kitchen-flushing",
+          "https://chef-papa-vietnamese-kitchen-flushing.wheree.com/",
+          "https://www.cybo.com/US-biz/chef-papa-vietnamese-kitchen",
+          "https://restaurantedroop.com/restaurants-near-me/chef-papa-vietnamese-kitchen",
+          "https://restaurantjump.com/chef-papa-vietnamese-kitchen-11358/",
+          "https://blipped.ai/venue/chef-papa-vietnamese-kitchen"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/chefpapanyc?igsh=Z3Ztdjd6NXk3Zm4x&utm_source=qr",
+        "source": "https://www.chefpapanyc.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

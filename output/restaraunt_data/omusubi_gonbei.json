@@ -488,5 +488,116 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:10:41.054992+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:55:30.945967+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.omusubi-gonbei.com/en/",
+        "title": "OMUSUBI GONBEI",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.omusubi-gonbei.com/en/particular/rice/",
+        "title": "About rice | Gonbei's feature | OMUSUBI GONBEI",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.omusubi-gonbei.com/en/particular/foodstuff/",
+        "title": "About Ingredients | Gonbei's feature | OMUSUBI GONBEI",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.omusubi-gonbei.com/en/shoplist/",
+        "title": "Locations | OMUSUBI GONBEI",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.us-info.com/en/usa/omusubi_gonbei/new_york/USNY102540062-9174727025/businessdetails.aspx",
+        "title": "Omusubi Gonbei - Restaurants in New York, NY | US Info",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.bizarchive.com/business/omusubi-gonbei_2A-917-472-7168",
+        "title": "Omusubi Gonbei | (917) 472-7168 | New York City",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.roostcafeandbistro.com/omusubi-gonbei-10017/",
+        "title": "Omusubi Gonbei Menu - New York, NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://takoyakinearme.com/takoyaki-listing/1924/",
+        "title": "Omusubi Gonbei - Takoyaki Near Me",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Omusubi Gonbei\"  New York,  NY 10017 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "http://www.omusubi-gonbei.com/en/shoplist/",
+          "https://www.yelp.com/biz/omusubi-gonbei-new-york-3",
+          "https://local.us-info.com/USNY102540062-9174727025/omusubi_gonbei-new_york.html",
+          "https://www.bizarchive.com/business/omusubi-gonbei_2A-917-472-7168",
+          "https://www.roostcafeandbistro.com/omusubi-gonbei-10017/",
+          "https://takoyakinearme.com/takoyaki-listing/1924/",
+          "https://www.chamberofcommerce.com/business-directory/new-york/new-york/japanese-restaurant/2023118664-omusubi-gonbei",
+          "https://www.yellowpages.com/new-york-ny/mip/omusubi-gonbei-546588173",
+          "https://omusubi-gonbei.wheree.com/",
+          "https://www.omusubi-gonbei.com/shoplist/usa/gonbei-usa2.html"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.bizarchive.com/business/omusubi-gonbei_2A-917-472-7168",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "email",
+        "email": "hello@summercamp.com",
+        "url": "https://www.roostcafeandbistro.com/omusubi-gonbei-10017/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "email",
+        "email": "info@roostcafeandbistro.com",
+        "url": "https://www.roostcafeandbistro.com/omusubi-gonbei-10017/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "email",
+        "email": "yrosa968@gmail.com",
+        "url": "https://www.roostcafeandbistro.com/omusubi-gonbei-10017/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "https://www.roostcafeandbistro.com/omusubi-gonbei-10017/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/omusubigonbei_us/",
+        "source": "https://www.omusubi-gonbei.com/en/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/omusubigonbei_france/",
+        "source": "https://www.omusubi-gonbei.com/en/shoplist/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

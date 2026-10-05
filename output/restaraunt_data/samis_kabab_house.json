@@ -52,5 +52,57 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:15.384904+00:00",
     "browser_outcome": "incomplete_lookup"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:01:08.825968+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://ny.eater.com/venue/48225/sami-s-kabab-house",
+        "title": "Sami’s Kabab House | Eater NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.foodiecard.com/our-restaurants/samis-kabab-house-astoria",
+        "title": "Sami's Kabab House - Astoria in Astoria, NY - Get 10% Off | Foodie Card",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Sami's Kabab House  Astoria,  NY 11106 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/sami-s-kebab-house-astoria",
+          "https://www.instagram.com/samiskababhouse/?hl=en",
+          "https://ny.eater.com/venue/48225/sami-s-kabab-house",
+          "https://www.tripadvisor.com/Restaurant_Review-g29837-d11916912-Reviews-Sami_s_Kabab_House-Astoria_Queens_New_York.html",
+          "https://www.foodiecard.com/our-restaurants/samis-kabab-house-astoria",
+          "https://www.grubhub.com/restaurant/samis-kabab-house-astoria-35-57-crescent-st-astoria/403871",
+          "https://app.karpo.ai/scenarios/nyc-sami-s-kabab-house-the-astoria-spot-for-south-asian-comfort-food-that-still",
+          "https://samis-kabab-house.wheree.com/",
+          "https://www.corner.inc/place/pRSS1RbhkcT3"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://samis.nyc/",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'open', 'https://samis.nyc/']' returned non-zer"
+      }
+    ],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/samiskababhouse/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

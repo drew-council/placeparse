@@ -32,11 +32,17 @@
   "website": "https://www.nowonusa.com/",
   "details_checked_at": "2026-10-03T21:59:26.006266+00:00",
   "business_status_checked_at": "2026-10-03T21:59:26.006266+00:00",
-  "emails": [],
+  "emails": [
+    "eastvillage@nowonusa.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T22:00:18.312272+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "eastvillage@nowonusa.com": [
+        "https://www.nowonusa.com/eastvillageinfo"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.nowonusa.com/",
@@ -60,7 +66,78 @@
       }
     ],
     "contact_forms": [],
-    "browser_checked_at": "2026-10-03T22:10:32.956330+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_checked_at": "2026-10-04T20:09:17.570226+00:00",
+    "browser_outcome": "not_found_on_rendered_pages",
+    "publication_evidence": {
+      "eastvillage@nowonusa.com": {
+        "url": "https://www.nowonusa.com/eastvillageinfo",
+        "quote": "SKIP TO CONTENT\nORDER\nBOOKING\nABOUT\nEAST VILLAFE CONTACT INFO\nEAST VILLAGE, NYC\n“THE OG FLAGSHIP, WHERE WE BEGAN THE DREAM.”\n\n507 E 6th St. New York, NY 10009\n\n(646) 692-3867\n\neastvillage@nowonusa.com\n\nHours of Operation: \n\nMon – Thurs: 4 PM – 11 PM\n\nFri: 4 PM – 12 AM\n\nSat: 11 AM – 12 AM\n\nSun: 11 AM – 11 PM\n\nMENU ‍           ‍GIFT CARD\n\nNOWON EAST VILLAGE:\n507 E 6th St. New Yor",
+        "checked_at": "2026-10-04T20:09:17.570226+00:00",
+        "business_match": "Maps-linked restaurant site or manually matched restaurant name/location/phone"
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:09:17.570226+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.nowonusa.com/",
+        "title": "Nowon | Order Now for Delivery",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.nowonusa.com/history",
+        "title": "Nowon History | Korean American Pocha by Chef Jae Lee — Nowon",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.nowonusa.com/eastvillageinfo",
+        "title": "Nowon | Korean American Restaurant - East Village — Nowon",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Nowon East Village  New York,  NY 10009 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.nowonusa.com/eastvillageinfo",
+          "https://resy.com/cities/new-york-ny/venues/nowon-east-village",
+          "https://mindtrip.ai/restaurant/new-york-city/nowon/re-7pTpv0Vc",
+          "https://www.facebook.com/nowon.usa/",
+          "https://www.nyctourism.com/restaurants/nowon-nyc/",
+          "https://www.yelp.com/biz/nowon-east-village-new-york-3",
+          "https://www.instagram.com/reel/CuIaZ4PucJb/",
+          "https://www.nowonusa.com/bushwickinfo",
+          "https://www.tripadvisor.com/Restaurant_Review-g60763-d19819640-Reviews-Nowon_East_Village-New_York_City_New_York.html"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "http://instagram.com/nowon.usa",
+        "source": "https://www.nowonusa.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://instagram.com/youngskeletons",
+        "source": "https://www.nowonusa.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/nowon.usa/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

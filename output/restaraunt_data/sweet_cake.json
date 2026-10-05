@@ -450,6 +450,89 @@
         "emails": []
       }
     ],
-    "contact_forms": []
+    "contact_forms": [],
+    "candidate_sources": {
+      "sweetmomentcakeinc@gmail.com": {
+        "urls": [
+          "https://www.chamberofcommerce.com/business-directory/new-york/flushing/dessert-shop/2023016365-sweet-cake"
+        ],
+        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:46:43.905187+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/flushing/dessert-shop/2023016365-sweet-cake",
+        "title": "Sweet Cake in Flushing, NY 11354 - 929-329...",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.findglocal.com/XX/Unknown/101949196138454/Sweet-Cake-NY",
+        "title": "Sweet Cake NY, 137-06 Northern Boulevard (2026)",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Sweet Cake\"  Flushing,  NY 11354 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.facebook.com/SweetCakeNY/",
+          "https://www.facebook.com/SweetCakeNewYork/",
+          "https://www.yelp.com/biz/sweet-cake-flushing",
+          "https://www.chamberofcommerce.com/business-directory/new-york/flushing/dessert-shop/2023016365-sweet-cake",
+          "https://www.findglocal.com/XX/Unknown/101949196138454/Sweet-Cake-NY",
+          "https://www.instagram.com/sweetcakenewyork/",
+          "https://opengovny.com/corporation/6590821",
+          "https://nooklyn.com/locations/QQOyFzCpj3kUS1K5Mvhl",
+          "https://www.manta.com/c/m1r4qfw/sweet-cake",
+          "https://www.yelp.com/biz/sweet-cake-flushing?start=10"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/flushing/dessert-shop/2023016365-sweet-cake",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/SweetCakeNY/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      },
+      {
+        "url": "https://www.facebook.com/SweetCakeNewYork/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      },
+      {
+        "url": "https://www.instagram.com/sweetcakenewyork/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ],
+    "email_lead_verification": {
+      "checked_at": "2026-10-04T21:27:54.655374+00:00",
+      "outcome": "not_confirmed_on_first_party_sources",
+      "queries": [
+        "\"sweetmomentcakeinc@gmail.com\" Sweet Cake"
+      ],
+      "result_urls": []
+    }
   }
 }

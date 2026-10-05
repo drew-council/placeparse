@@ -85,5 +85,55 @@
     ],
     "browser_checked_at": "2026-10-03T22:10:16.373282+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.mikespastry.com/contact/",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact Us | Mike's Pastry",
+          "labels": [
+            "Name*",
+            "Email*",
+            "Message*",
+            "I agree to the privacy policy.",
+            "Submit Now"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:06:11.589031+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:06:11.589281+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.mikespastry.com/contact/",
+        "title": "Contact Us | Mike's Pastry",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/Mikes-Pastry-Inc-120188411325903/",
+        "source": "https://www.mikespastry.com/contact/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/mikespastry/",
+        "source": "https://www.mikespastry.com/contact/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

@@ -472,5 +472,55 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:15.869853+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.sanukiudonusa.com/contact",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact Sanuki Udon | Udon Restaurant in New York",
+          "labels": [
+            "First Name\n(required)",
+            "Last Name\n(required)",
+            "Email\n(required)",
+            "Message\n(required)",
+            "",
+            "SEND"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:24:12.804645+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:24:12.804717+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.sanukiudonusa.com/",
+        "title": "Sanuki Udon - Best Udon in NYC | Made Fresh Daily",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.sanukiudonusa.com/contact",
+        "title": "Contact Sanuki Udon | Udon Restaurant in New York",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "http://instagram.com/sanukiudonusa",
+        "source": "https://www.sanukiudonusa.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

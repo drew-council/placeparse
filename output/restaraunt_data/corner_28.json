@@ -462,5 +462,53 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:32:22.323129+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.beyondmenu.com/42256/flushing/corner-28-flushing-11354/info.aspx",
+        "title": "Info & Hours | Corner 28 | Beyond Menu",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://local.yahoo.com/info-42156086-corner-28-flushing/",
+        "title": "Corner 28 in Flushing, NY – Reviews, Hours, and Contact Details",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://whereyoueat.com/Corner-28-14459.html",
+        "title": "Corner 28 Restaurant in Queens / Menus & Photos",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Corner 28\"  Flushing,  NY 11354 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/corner-28-flushing-3",
+          "https://www.beyondmenu.com/42256/flushing/corner-28-flushing-11354/info.aspx",
+          "https://local.yahoo.com/info-42156086-corner-28-flushing/",
+          "https://www.tripadvisor.com/Restaurant_Review-g47729-d1109511-Reviews-Corner_28-Flushing_Queens_New_York.html",
+          "https://corner-28.wheree.com/",
+          "https://whereyoueat.com/Corner-28-14459.html",
+          "https://www.fantuanorder.com/en-US/store/corner-28/us-1440974770",
+          "https://wanderlog.com/place/details/114991/corner-28",
+          "https://www.mapquest.com/us/new-york/corner-28-inc-407356197"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://corner-28.wheree.com/",
+        "status": "browser_challenge_or_unavailable"
+      }
+    ],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

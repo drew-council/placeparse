@@ -89,5 +89,83 @@
     ],
     "browser_checked_at": "2026-10-03T22:08:18.898323+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:08:02.236923+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.chubbycattle.com/contact-us/",
+        "title": "Contact Us - Chubby Cattle",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chubbycattle.com/project/chubby-cattle-new-york/",
+        "title": "Chubby Cattle New York - Chubby Cattle",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chubbycattle.com/contact-us/#",
+        "title": "Contact Us - Chubby Cattle",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chubbycattle.com/about-us/",
+        "title": "About Us - Chubby Cattle",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chubbycattle.com/chubby-cattle-bbq-citi-tour-ny/",
+        "title": "Chubby Cattle BBQ - Citi Tour NY - Chubby Cattle",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chubbygroup.com/contact-us/",
+        "title": "Contact Us - Chubby Group",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Chubby Cattle BBQ | New York  New York,  NY 10012 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.chubbycattle.com/contact-us/",
+          "https://www.chubbycattle.com/chubby-cattle-bbq-citi-tour-ny/",
+          "https://www.chubbygroup.com/contact-us/",
+          "https://www.chubbycattle.com/project/chubby-cattle-new-york/",
+          "https://www.yelp.com/biz/chubby-cattle-new-york-3",
+          "https://www.chubbycattle.com/project_category/new-york-ny/",
+          "https://www.chubbycattle.com/chubby-cattle-bbq-blazing-into-new-york/",
+          "https://www.instagram.com/reel/DQmwJxhAXo0/?hl=en",
+          "https://cbmanhattan.cityofnewyork.us/cb2/wp-content/uploads/sites/9/2025/06/Questionnaire-Chubby-Cattle-BBQ-Spring-St-NYC-LLC-206-Spring-St_Redacted.pdf"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "hr@www.chubbygroup.com",
+        "url": "https://www.chubbygroup.com/contact-us/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/chubbycattlebbq/",
+        "source": "https://www.chubbycattle.com/project/chubby-cattle-new-york/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/chubbycattlebbq/",
+        "source": "https://www.chubbycattle.com/project/chubby-cattle-new-york/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

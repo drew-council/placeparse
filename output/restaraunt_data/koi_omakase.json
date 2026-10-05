@@ -628,5 +628,62 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:24.321726+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:22:28.412282+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://m.yelp.com/biz/kimyo-omakase-brooklyn-3?start=40",
+        "title": "KIMYO OMAKASE - Updated October 2026 - 171 Reviews - 1178 Photos - 55 Fifth Ave, Brooklyn, New York - Sushi Bars - Restaurant Reviews - Phone Number - Yelp",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://koi-omakase.com.bagageutrymme.se/",
+        "title": "Koi Omakase | Brooklyn Omakase Experience",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://koi-omakase.wheree.com/",
+        "title": "KOI OMAKASE - Reviews, Photos & Phone Number (2026) - Sushi Bar in Kings County, New York (NY) - Wheree",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Koi Omakase\"  Brooklyn,  NY 11217 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://m.yelp.com/biz/koi-omakase-brooklyn?start=40",
+          "https://koi-omakase.com.bagageutrymme.se/",
+          "https://koi-omakase.wheree.com/",
+          "https://www.facebook.com/p/KimyoOmakase-61559828941812/",
+          "https://www.yelp.com/biz/kimyo-omakase-brooklyn-3",
+          "https://wanderlog.com/place/details/7990952/koi-omakase",
+          "https://www.instagram.com/reel/DFv8JFkp4tt/",
+          "https://www.threads.com/@kimyoomakasenyc",
+          "https://www.instagram.com/p/C_jWLzPPPvF/"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://koiomakase.square.site/",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'wait', '--fn', 'document.body?.innerText?.trim"
+      }
+    ],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/p/KimyoOmakase-61559828941812/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

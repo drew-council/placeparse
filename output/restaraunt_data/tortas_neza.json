@@ -459,5 +459,76 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:58.274299+00:00",
     "browser_outcome": "incomplete_lookup"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:52:28.273893+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.datalane.com/contact/restaurants",
+        "title": "Restaurant Contact Information | DataLane Business Database",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/flushing/mexican-torta-restaurant/2014135206-tortas-neza",
+        "title": "Tortas Neza in Flushing, NY 11368 - 347-666...",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://tortas-neza.wheree.com/",
+        "title": "TORTAS NEZA - Reviews, Photos & Phone Number (2026) - Specialty Food Store in Queens, New York (NY) - Wheree",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Tortas Neza\"  Flushing,  NY 11368 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.datalane.com/contacts/restaurants/tortas-neza",
+          "https://www.facebook.com/p/Tortas-Neza-100063750061179/",
+          "https://www.chamberofcommerce.com/business-directory/new-york/flushing/mexican-torta-restaurant/2014135206-tortas-neza",
+          "https://www.facebook.com/Tortas-Neza-896684927123739/",
+          "https://tortas-neza.wheree.com/",
+          "https://www.yelp.com/biz/tortas-neza-corona-3",
+          "https://fromtherestaurant.com/tortas-neza/",
+          "https://restaurantedroop.com/restaurants-near-me/tortas-neza",
+          "https://www.yellowpages.com/corona-ny/mip/tortas-neza-521032132",
+          "https://opengovny.com/corporation/5384682"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://tortasnezany.com/",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'open', 'https://tortasnezany.com/']' returned "
+      }
+    ],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/flushing/mexican-torta-restaurant/2014135206-tortas-neza",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/p/Tortas-Neza-100063750061179/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      },
+      {
+        "url": "https://www.facebook.com/Tortas-Neza-896684927123739/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

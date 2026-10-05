@@ -427,5 +427,63 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:25:28.847472+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.exqz.com/place/duo-cafe-new-york",
+        "title": "Duo Cafe | Exqz",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://local.yahoo.com/info-234867090-Duo-Cafe/?p=Duo%20Cafe&selectedId=234867090&ei=UTF-8",
+        "title": "Duo Cafe in New York, NY – Reviews, Hours, and Contact Details",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.teaformeplease.com/tea-places-duo-cafe/",
+        "title": "Tea Places: Duo Cafe - Tea for Me Please",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Duo Cafe\"  New York,  NY 10003 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.instagram.com/duocafe.nyc/",
+          "https://www.instagram.com/duocafe.nyc/reels/",
+          "https://www.yelp.com/biz/duo-cafe-new-york",
+          "https://www.exqz.com/place/duo-cafe-new-york",
+          "https://local.yahoo.com/info-234867090-Duo-Cafe/?p=Duo%20Cafe&selectedId=234867090&ei=UTF-8",
+          "https://www.teaformeplease.com/tea-places-duo-cafe/",
+          "https://toast.app/r/duo-cafe-223-e-5th-st/order",
+          "https://duo-cafe-1.wheree.com/",
+          "https://maps.roadtrippers.com/us/new-york-ny/food-drink/duo-cafe-new-york"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "nicole@teaformeplease.com",
+        "url": "https://www.teaformeplease.com/tea-places-duo-cafe/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/duocafe.nyc/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

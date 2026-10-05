@@ -449,11 +449,17 @@
   "vicinity": "803 8th Ave, Brooklyn",
   "website": "https://www.pastalouise.com/",
   "business_status_checked_at": "2026-10-03T20:05:51.893899+00:00",
-  "emails": [],
+  "emails": [
+    "cheers@pastalouise.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:41.470147+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "cheers@pastalouise.com": [
+        "https://www.barlouisenyc.com/about"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.pastalouise.com/",
@@ -510,6 +516,65 @@
       "https://www.pastalouise.com/location/pasta-louise/"
     ],
     "browser_checked_at": "2026-10-03T22:10:57.172286+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "publication_evidence": {
+      "cheers@pastalouise.com": {
+        "url": "https://www.barlouisenyc.com/about",
+        "quote": "Contact us at cheers@pastalouise.com. for event inquiries or just to say hello!",
+        "business_match": "Official sister venue About page explicitly identifies Pasta Louise cafe at 803 8th Ave and restaurant at 1114 8th Ave, Brooklyn.",
+        "note": "Shared restaurant-group/sister-venue contact, not a verified cafe-specific mailbox. Confirm cafe routing before disclosing allergy information.",
+        "checked_at": "2026-10-04T21:38:47.285952+00:00"
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "checked_at": "2026-10-04T20:52:05.478989+00:00",
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.pastalouise.com/contact/",
+        "purpose": "general inquiry",
+        "source_type": "official_website",
+        "evidence": {
+          "title": "Contact | Pasta Louise in Park Slope, Brooklyn",
+          "labels": [
+            "Name",
+            "Email",
+            "Phone Number",
+            "General Inquiry",
+            "Your Message",
+            "Send"
+          ],
+          "message_field_visible": true
+        },
+        "submission_tested": false,
+        "business_match_confirmed": true
+      }
+    ],
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.pastalouise.com/contact/",
+        "title": "Contact | Pasta Louise in Park Slope, Brooklyn",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/pastalouise/",
+        "source": "https://www.pastalouise.com/contact/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/pastalouise/",
+        "source": "https://www.pastalouise.com/contact/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

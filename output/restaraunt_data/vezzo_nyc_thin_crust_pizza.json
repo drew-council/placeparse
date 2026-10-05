@@ -600,5 +600,57 @@
     ],
     "browser_checked_at": "2026-10-03T22:12:32.144723+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.nycthincrust.com/contact/",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact | NYC Thin Crust Pizza",
+          "labels": [
+            "leave this field blank",
+            "Name",
+            "Email",
+            "Phone Number",
+            "What are you getting in touch about? - Optional\nWhat are you getting in touch about?\nGruppo\nPosto\nVezzo\nSpunto\nTappo\nBrado\nTrovo",
+            "Your Message",
+            "Send"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:49:42.959166+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:49:42.959252+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.nycthincrust.com/contact/",
+        "title": "Contact | NYC Thin Crust Pizza",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/TappoThinCrust/",
+        "source": "https://www.nycthincrust.com/contact/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/tappothincrust",
+        "source": "https://www.nycthincrust.com/contact/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

@@ -32,11 +32,17 @@
   "website": "http://banhny.com/",
   "details_checked_at": "2026-10-03T21:59:10.375149+00:00",
   "business_status_checked_at": "2026-10-03T21:59:10.375149+00:00",
-  "emails": [],
+  "emails": [
+    "banhvny@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:59:55.745081+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "banhvny@gmail.com": [
+        "https://www.banhny.com/"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.banhny.com",
@@ -50,7 +56,31 @@
       }
     ],
     "contact_forms": [],
-    "browser_checked_at": "2026-10-03T22:07:23.346021+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_checked_at": "2026-10-04T20:06:38.501199+00:00",
+    "browser_outcome": "not_found_on_rendered_pages",
+    "publication_evidence": {
+      "banhvny@gmail.com": {
+        "url": "https://www.banhny.com/",
+        "quote": "Published mailto link: banhvny@gmail.com",
+        "checked_at": "2026-10-04T20:06:38.501199+00:00",
+        "business_match": "Maps-linked restaurant site or manually matched restaurant name/location/phone"
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:06:38.501199+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.banhny.com/",
+        "title": "Order Online | Bánh Shop House",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

@@ -628,5 +628,58 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:23.063984+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:30:16.178079+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "http://www.kofoony.com/",
+        "title": "KoFoo :: Best Asian in New York :: Order Online",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://kofoo.restaurants-hi.com/",
+        "title": "Kofoo: Vibrant Dining Experience in New York City",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.cozeetable.com/restaurant/us-new-york-kofoo-node-2630078319",
+        "title": "Kofoo | CozeeTable",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://kofoo.wheree.com/",
+        "title": "KOFOO - Reviews, Photos & Phone Number (2026) - Specialty Food Store in New York, New York (NY) - Wheree",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://order.online/en/store/kofoo-23rd-street-50135",
+        "title": "KoFoo 67 West 23rd Street – Order pickup and delivery",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"KoFoo\"  New York,  NY 10010 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://kofoo.restaurants-hi.com/",
+          "https://www.yelp.com/biz/kofoo-new-york",
+          "https://www.cozeetable.com/restaurant/us-new-york-kofoo-node-2630078319",
+          "https://kofoo.wheree.com/",
+          "https://order.online/en/store/kofoo-23rd-street-50135",
+          "https://www.doordash.com/store/kofoo-new-york-50135/?srsltid=AU7gw4Um7wdLImfKgtMKHp8I3LLKMejP6YZhpcXU_qyZCvCmxdyzuzm0",
+          "https://maps.apple.com/place?place-id=IE8868C11EA57B1E5",
+          "https://postmates.com/store/kofoo-nyc/I327J9LOVdaT-DJR01esWQ/b0968721-64df-5d7f-932c-18d18d1367f4/5c408300-922a-5ff1-8066-1def02102517?mod=storeInfoTopEats&modctx=237dbb27-d2ce-55d6-93f8-3251d357ac59&ps=1",
+          "https://www.ubereats.com/store/kofoo-nyc/I327J9LOVdaT-DJR01esWQ?srsltid=AU7gw4V-eTS_t1k1D6EglXl8i7JIJYYXXpYcsD068wLn1onFqN675VMj"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

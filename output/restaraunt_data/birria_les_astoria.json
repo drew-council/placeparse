@@ -38,5 +38,51 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:10:37.689322+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.mywebsample01.com/about-us/",
+        "title": "About Us – BirriaLES",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://birriales.restaurants-info.com/",
+        "title": "Birria LES – Best Authentic Birria Tacos & Consome in NYC",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Birria LES Astoria  Astoria,  NY 11105 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/birria-les-new-york",
+          "https://www.mywebsample01.com/about-us/",
+          "https://www.instagram.com/birriales/?hl=en",
+          "https://birriales.restaurants-info.com/",
+          "https://www.yelp.com/biz/birria-les-queens",
+          "https://www.ubereats.com/store/birria-les-astoria/C4HVtZwlVe2NAU1DqlEHjg?srsltid=AU7gw4XQrHceDzDQiIV9kz7DwaTmjJgZYr2UJmyIG2KmYnCxqTnrylCH",
+          "https://www.reddit.com/r/visitingnyc/comments/1v9qqpc/going_to_nyc_this_friday/",
+          "https://www.seamless.com/menu/birria-les---astoria-31-27-ditmars-boulevard-astoria/13558512",
+          "https://www.mapquest.com/us/new-york/birria-les-796218656"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/birriales/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

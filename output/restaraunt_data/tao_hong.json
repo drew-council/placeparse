@@ -442,5 +442,69 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:13:50.053588+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://diningonashoestringinnyc.wordpress.com/2018/09/27/tao-hong-bakery-81-chrystie-street-new-york-ny-10002/",
+        "title": "Tao Hong Bakery 81 Chrystie Street New York, NY 10022 – Dining on a Shoestring in the New York City area and beyond.",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://tao-hong.wheree.com/",
+        "title": "TAO HONG - Reviews, Photos & Phone Number (2026) - Bakery Store in New York, New York (NY) - Wheree",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.theinfatuation.com/new-york/reviews/tao-hong-bakery",
+        "title": "Tao Hong Bakery - Review - Lower East Side - New York - The Infatuation",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Tao Hong  New York,  NY 10002 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/tao-hong-bakery-new-york",
+          "https://www.tripadvisor.com/Restaurant_Review-g60763-d15083570-Reviews-Tao_Hong_Bakery-New_York_City_New_York.html",
+          "https://www.facebook.com/pages/Tao-Hong-Bakery/534751813215746",
+          "https://diningonashoestringinnyc.wordpress.com/2018/09/27/tao-hong-bakery-81-chrystie-street-new-york-ny-10002/",
+          "https://tao-hong.wheree.com/",
+          "https://www.theinfatuation.com/new-york/reviews/tao-hong-bakery",
+          "https://taogroup.com/venues/tao-downtown-new-york/contact/",
+          "https://www.reddit.com/r/FoodNYC/comments/1ahwrbv/best_dim_sum_in_manhattan/",
+          "https://www.moodap.com/new-york-city/chinatown/cafes/tao-hong"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "addthistoyourgrocerylist.com@wordpress.com",
+        "url": "https://diningonashoestringinnyc.wordpress.com/2018/09/27/tao-hong-bakery-81-chrystie-street-new-york-ny-10002/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "email",
+        "email": "support@theinfatuation.com",
+        "url": "https://www.theinfatuation.com/new-york/reviews/tao-hong-bakery",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/pages/Tao-Hong-Bakery/534751813215746",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

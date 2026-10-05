@@ -589,6 +589,90 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:58.442836+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "candidate_sources": {
+      "info@mangomangodessert.com": {
+        "urls": [
+          "https://www.franchimp.com/?page=franchisor&id=108604"
+        ],
+        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:31:07.799334+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.mangomangodessert.com/",
+        "title": "Homepage | Mango Mango Dessert-Official Site",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.mangomangodessert.com/rewards",
+        "title": "Rewards | Mango Mango Dessert-Official Site",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.mangomangodessert.com/career",
+        "title": "Career | Mango Mango Dessert-Official Site",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.franchimp.com/?page=franchisor&id=108604",
+        "title": "Mango Mango Dessert Analysis | Updated 2026",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Mango Mango Dessert\"  Flushing,  NY 11354 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.mangomangodessert.com/",
+          "https://www.mangomangodessert.com/career",
+          "https://www.yelp.com/biz/mango-mango-dessert-flushing-3",
+          "https://www.facebook.com/p/Mango-Mango-Dessert-Flushing-100090022002898/",
+          "https://www.franchimp.com/?page=franchisor&id=108604",
+          "https://www.tripadvisor.com/Restaurant_Review-g60763-d4834070-Reviews-Mango_Mango_Dessert-New_York_City_New_York.html",
+          "https://local.yahoo.com/info-195367634-mango-mango-dessert-flushing/",
+          "https://www.reddit.com/r/FoodNYC/comments/1q2xy3i/food_two_travelers_from_afar/",
+          "https://mango-mango-dessert-6.wheree.com/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/mangomangodessertusa/",
+        "source": "https://www.mangomangodessert.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/mangomangodessertusa/",
+        "source": "https://www.mangomangodessert.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/p/Mango-Mango-Dessert-Flushing-100090022002898/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ],
+    "email_lead_verification": {
+      "checked_at": "2026-10-04T21:27:47.543402+00:00",
+      "outcome": "not_confirmed_on_first_party_sources",
+      "queries": [
+        "\"info@mangomangodessert.com\" Mango Mango Dessert"
+      ],
+      "result_urls": []
+    }
   }
 }

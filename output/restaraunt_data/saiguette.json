@@ -62,5 +62,83 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:14.667906+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:06:35.695535+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.saiguette.com/",
+        "title": "Banh Mi | Saiguette | New York",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.saiguette.com/contact-us",
+        "title": "CONTACT US | Saiguette",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.saiguette.com/about",
+        "title": "ABOUT | Saiguette",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.saiguette.com/",
+        "title": "Banh Mi | Saiguette | New York",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://michaelminn.net/newyork/food/manhattan/saiguette/index.html",
+        "title": "Saiguette",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.saiguette.com/menu",
+        "title": "Saiguette Menu | Saiguette",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Saiguette  New York,  NY 10025 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.saiguette.com/contact-us",
+          "https://www.saiguette.com/about",
+          "https://www.saiguette.com/",
+          "https://michaelminn.net/newyork/food/manhattan/saiguette/index.html",
+          "https://www.facebook.com/Saiguette/",
+          "https://www.saiguette.com/menu",
+          "https://www.nyc.com/restaurants/saiguette.1261040/",
+          "https://www.yelp.com/biz/saiguette-new-york-2",
+          "https://www.outgoing.world/activity/saiguette-aecb293b8ed6"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/Saiguette",
+        "source": "https://www.saiguette.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/saiguettellc/?hl=en",
+        "source": "https://www.saiguette.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/Saiguette/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

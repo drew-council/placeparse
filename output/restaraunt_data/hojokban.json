@@ -820,8 +820,12 @@
   "business_status_checked_at": "2026-10-03T20:05:16.707700+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:58.100967+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "hojokban@handhospitality.com": [
+        "https://hojokban.com/new-york/contact-us"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.hojokbannyc.com/",
@@ -835,7 +839,117 @@
       }
     ],
     "contact_forms": [],
-    "browser_checked_at": "2026-10-03T22:09:15.252015+00:00",
-    "browser_outcome": "incomplete_lookup"
+    "browser_checked_at": "2026-10-04T21:17:15.926321+00:00",
+    "browser_outcome": "incomplete_lookup",
+    "candidate_sources": {},
+    "publication_evidence": {
+      "hojokban@handhospitality.com": {
+        "url": "https://hojokban.com/new-york/contact-us",
+        "quote": "Hojokban New York; 128 Madison Ave. #1F New York, NY 10016; +1 (646) 454-0008; hojokban@handhospitality.com",
+        "note": "Only the New York mailbox retained; Los Angeles mailbox deliberately excluded.",
+        "checked_at": "2026-10-04T21:17:15.926321+00:00"
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://hojokban.com/new-york/contact-us",
+        "purpose": "general inquiry",
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website",
+        "evidence": {
+          "title": "Contact | Contemporary Korean Restaurant in NYC — HOJOKBAN",
+          "labels": [
+            "Name",
+            "Email",
+            "Phone Number",
+            "What are you getting in touch about?",
+            "Your Message",
+            "Send"
+          ],
+          "message_field_observed": true,
+          "note": "Manually inspected with agent-browser; form supports general inquiries."
+        },
+        "checked_at": "2026-10-04T21:17:15.926321+00:00",
+        "submission_tested": false
+      }
+    ],
+    "checked_at": "2026-10-04T21:04:45.527066+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/korean-restaurant/2026049440-hojokban-nyc",
+        "title": "HOJOKBAN NYC in New York, NY 10016 - (646) 9...",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.us-info.com/en/usa/hojokban_nyc/new_york/USNY102338225-6464540008/businessdetails.aspx",
+        "title": "HOJOKBAN NYC - Restaurants in New York, NY | US Info",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://citysquares.com/b/hojokban-25484512",
+        "title": "HOJOKBAN NYC - New York, New York 10016 (25484512) | CitySquares",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.kfoodup.com/en/restaurant/hojokban-new-york",
+        "title": "호족반 뉴욕 (HOJOKBAN NYC) | Kfoodup",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"HOJOKBAN NYC\"  New York,  NY 10016 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.chamberofcommerce.com/business-directory/new-york/new-york/korean-restaurant/2026049440-hojokban-nyc",
+          "https://hojokban-nyc.wheree.com/",
+          "https://www.facebook.com/hojokban/",
+          "https://local.us-info.com/USNY102338225-6464540008/hojokban_nyc-new_york.html",
+          "https://citysquares.com/b/hojokban-25484512",
+          "https://www.kfoodup.com/en/restaurant/hojokban-new-york",
+          "https://www.showmelocal.com/36796905-hojokban-nyc-new-york",
+          "https://www.dexknows.com/new-york-ny/bp/hojokban-nyc-575019287"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://hojokban-nyc.wheree.com/",
+        "status": "browser_challenge_or_unavailable"
+      }
+    ],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "hojokban@handhospitality.com",
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/korean-restaurant/2026049440-hojokban-nyc",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/korean-restaurant/2026049440-hojokban-nyc",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "email",
+        "email": "hojokban@handhospitality.com",
+        "url": "https://citysquares.com/b/hojokban-25484512",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/hojokban/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

@@ -491,5 +491,72 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:34.729056+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:22:45.652774+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://laghmanexpress.com/",
+        "title": "Laghman Express — Hand-Pulled Noodles in Brooklyn & Alpharetta",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://laghmanexpress.com/about-us",
+        "title": "About Us — Laghman Express",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://laghmanexpress.com/about/",
+        "title": "About Laghman Express — Craft, Made Consistent",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://laghman-express.res-discover.com/",
+        "title": "Laghman Express Brooklyn NY | Halal Restaurant Reviews & Menu",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://laghman-express.wheree.com/",
+        "title": "LAGHMAN EXPRESS - Reviews, Photos & Phone Number (2026) - Noodle Restaurant in Kings County, New York (NY) - Wheree",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Laghman Express\"  Brooklyn,  NY 11223 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/laghman-express-brooklyn-2",
+          "https://www.instagram.com/laghman.express/?hl=en",
+          "https://www.grubhub.com/restaurant/laghman-express-2376-coney-island-ave-brooklyn/9954624",
+          "https://laghman-express.res-discover.com/",
+          "https://www.instagram.com/reel/DF0iCJ8xcOg/",
+          "https://laghman-express.wheree.com/",
+          "https://reviews.birdeye.com/laghman-express-178428682698969",
+          "https://www.instagram.com/laghman.express/reels/?hl=en",
+          "https://www.seamless.com/menu/laghman-express-2376-coney-island-ave-brooklyn/9954624"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/laghman.express/",
+        "source": "https://laghmanexpress.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/laghman.express/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

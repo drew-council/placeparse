@@ -426,5 +426,33 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:30:45.723021+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.alamy.com/stock-photo/an-124.html?page=4&sortBy=relevant",
+        "title": "An 124 hi-res stock photography and images - Page 4 - Alamy",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"West Rice Roll King 西关肠粉王\"  New York,  NY 10002 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.instagram.com/popular/fried-rice-truck/",
+          "https://www.instagram.com/popular/chinese-rice-man/",
+          "https://www.alamy.com/stock-photo/an-124.html?page=4",
+          "https://www.instagram.com/popular/wheres-chino/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

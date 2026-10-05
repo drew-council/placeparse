@@ -466,5 +466,43 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T21:04:49.961607+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.allbiz.com/business/b-b_70O-646-429-8174",
+        "title": "B & B | (646) 429-8174 | New York City",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.restaurant.com/locations/b-b-restaurant-corp-1421",
+        "title": "B & B Restaurant Corp in New York, NY",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"B & B\"  New York,  NY 10001 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.allbiz.com/business/b-b_70O-646-429-8174",
+          "https://www.restaurant.com/locations/b-b-restaurant-corp-1421",
+          "https://www.yelp.com/biz/b-and-b-new-york-3"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.allbiz.com/business/b-b_70O-646-429-8174",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": []
   }
 }

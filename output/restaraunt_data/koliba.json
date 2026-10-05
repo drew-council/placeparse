@@ -52,5 +52,73 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:24.652527+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:10:54.382406+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.kolibarestaurant.com/",
+        "title": "Koliba",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.kolibarestaurant.com/story",
+        "title": "Story — Koliba",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.kolibarestaurant.com/menu",
+        "title": "Menu — Koliba",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.kolibarestaurant.com/eat",
+        "title": "Eat — Koliba",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Koliba  Astoria,  NY 11105 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.kolibarestaurant.com/",
+          "https://www.facebook.com/p/Koliba-Restaurant-Inc-100063752906584/",
+          "https://www.kolibarestaurant.com/story",
+          "https://www.tripadvisor.com/ShowUserReviews-g48080-d938034-r348965870-Koliba_Restaurant-Long_Island_City_Queens_New_York.html",
+          "https://www.kolibarestaurant.com/menu",
+          "https://www.kolibarestaurant.com/eat",
+          "https://www.yelp.com/biz/koliba-astoria",
+          "https://mzv.gov.cz/washington/en/culture_events/cz_us_community/services/directory_of_czech_american_restaurants.html",
+          "https://runinos.com/places/koliba-astoria-ny/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "http://instagram.com/koliba_restaurant",
+        "source": "https://www.kolibarestaurant.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/profile.php?id=100063752906584",
+        "source": "https://www.kolibarestaurant.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/p/Koliba-Restaurant-Inc-100063752906584/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

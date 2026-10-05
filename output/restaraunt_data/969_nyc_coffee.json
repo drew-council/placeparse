@@ -442,5 +442,77 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:07:10.539362+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T21:01:29.898974+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://restaurantjump.com/969-nyc-coffee-11372/",
+        "title": "969 NYC Coffee - Jackson Heights, NY 11372 - Menu, Reviews, Hours & Contact",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.yellowpages.com/jackson-heights-ny/mip/969-nyc-coffee-531709597",
+        "title": "969 NYC Coffee - Jackson Heights, NY 11372",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.superpages.com/jackson-heights-ny/bpp/969-nyc-coffee-531709597",
+        "title": "969 NYC Coffee 3761 80th St, Jackson Heights, NY 11372 - superpages.com",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://joe.coffee/locations/ny/jackson-heights/969-nyc-coffee-jackson-heights/",
+        "title": "969 NYC Coffee - Jackson Heights, NY | joe coffee",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://969-nyc-coffee.wheree.com/",
+        "title": "969 NYC COFFEE - Reviews, Photos & Phone Number (2026) - Sandwich Store in Queens, New York (NY) - Wheree",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"969 NYC Coffee\"  Jackson Heights,  NY 11372 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://restaurantjump.com/969-nyc-coffee-11372/",
+          "https://www.yelp.com/biz/969-nyc-coffee-jackson-heights-2",
+          "https://www.yellowpages.com/jackson-heights-ny/mip/969-nyc-coffee-531709597",
+          "https://www.superpages.com/jackson-heights-ny/bpp/969-nyc-coffee-531709597",
+          "https://joe.coffee/locations/ny/jackson-heights/969-nyc-coffee-jackson-heights/",
+          "https://969-nyc-coffee.wheree.com/",
+          "https://local.yahoo.com/info-204537027-969-nyc-coffee-jackson-heights/",
+          "https://www.buzzfile.com/business/969-Nyc-Coffee-Inc.-646-203-7304",
+          "https://usa.worldplaces.me/coffee-shops-in-jackson-heights/57597058-969-nyc-coffee.html",
+          "https://www.checkle.com/biz/969-nyc-coffee-jackson-heights"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://969nyccoffee.shop/",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'wait', '--fn', 'document.body?.innerText?.trim"
+      }
+    ],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "yrosa968@gmail.com",
+        "url": "https://restaurantjump.com/969-nyc-coffee-11372/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "https://restaurantjump.com/969-nyc-coffee-11372/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": []
   }
 }

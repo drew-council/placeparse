@@ -447,5 +447,90 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:10:58.930702+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:47:22.011015+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.philomenasqueens.com/",
+        "title": "Home | Philomenas Queens",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.restaurantji.com/ny/queens/philomena-s-restaurant-/",
+        "title": "Philomena's Pizza, Sunnyside - Menu, Reviews (292), Photos (54) - Restaurantji",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://restaurantjump.com/philomenas-pizza-11104/",
+        "title": "Philomena's Pizza - Sunnyside, NY 11104 - Menu, Reviews, Hours & Contact",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.foodindex.us/restaurants/philomenas-pizza-sunnyside-new-york/",
+        "title": "Philomena's Pizza Sunnyside | Menu, Hours - FoodIndex",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.amny.com/whatisnewyork/philomenas-pizza-sunnyside/",
+        "title": "Philomena’s Pizza keeps family traditions alive in Sunnyside | amNewYork",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/philomenas-pizza/",
+        "title": "Philomena's Pizza | Your Guide to NYC Tourism",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://restaurantedroop.com/restaurants-near-me/philomena-s-pizza",
+        "title": "Philomena's Pizza: A Sunnyside, Queens Gem for Expertly Crafted Pies and Slices",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Philomena's Pizza\"  Sunnyside,  NY 11104 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.restaurantji.com/ny/queens/philomena-s-restaurant-/",
+          "https://restaurantjump.com/philomenas-pizza-11104/",
+          "https://www.foodindex.us/restaurants/philomenas-pizza-sunnyside-new-york/",
+          "https://www.amny.com/whatisnewyork/philomenas-pizza-sunnyside/",
+          "https://www.nyctourism.com/restaurants/philomenas-pizza/",
+          "https://restaurantedroop.com/restaurants-near-me/philomena-s-pizza",
+          "https://www.checkle.com/biz/philomenas-pizza-sunnyside"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "yrosa968@gmail.com",
+        "url": "https://restaurantjump.com/philomenas-pizza-11104/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "https://restaurantjump.com/philomenas-pizza-11104/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "email",
+        "email": "edavenport@qns.com",
+        "url": "https://www.amny.com/whatisnewyork/philomenas-pizza-sunnyside/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "email",
+        "email": "server@restaurantedroop.com",
+        "url": "https://restaurantedroop.com/restaurants-near-me/philomena-s-pizza",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": []
   }
 }

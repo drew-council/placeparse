@@ -625,5 +625,56 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:10:38.803768+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:26:26.671533+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.okonomi.us/",
+        "title": "OKONOMI · YUJI Ramen",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://okonomibrooklyn.shop/",
+        "title": "OKONOMI Brooklyn: Experience Authentic Japanese Breakfast in a Cozy Setting",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"OKONOMI Brooklyn\"  Brooklyn,  NY 11211 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://okonomibrooklyn.shop/",
+          "https://www.yelp.com/biz/okonomi-brooklyn-3",
+          "https://joinpearl.co/restaurants/new-york-city/okonomi",
+          "https://www.tripadvisor.com/Restaurant_Review-g60827-d7143394-Reviews-Okonomi_Brooklyn-Brooklyn_New_York.html",
+          "https://www.yelp.com/biz/okonomi-brooklyn-3?start=20",
+          "https://www.yellowpages.com/brooklyn-ny/bpp/okonomi-503894630",
+          "https://okonomi-brooklyn.wheree.com/",
+          "https://wanderlog.com/place/details/388762/okonomi",
+          "https://www.hyperflyer.com/biz/okonomi-brooklyn-3/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://okonomibrooklyn.shop/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/yuji_hawaii/",
+        "source": "https://www.okonomi.us/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

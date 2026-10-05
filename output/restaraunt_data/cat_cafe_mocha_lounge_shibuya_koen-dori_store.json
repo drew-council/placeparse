@@ -502,5 +502,59 @@
     ],
     "browser_checked_at": "2026-10-03T22:07:56.507711+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://catmocha.jp/contact/",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "お問い合わせ｜猫カフェ MOCHA(モカ)",
+          "labels": [
+            "システム・ルールのご質問",
+            "採用に関するお問い合わせ",
+            "コラボ企画・業務提携などのお問い合わせ",
+            "取材・メディア掲載のお問い合わせ",
+            "その他ご意見・ご要望等",
+            "",
+            "",
+            "03-1234-5678",
+            "sample@catmocha.jp",
+            "sample@catmocha.jp",
+            "本部\n池袋本店\nモカラウンジ 池袋東口店\n渋谷センター街店\nモカラウンジ 渋谷公園通り店\n原宿店\n秋葉原店\nモカラウンジ 新宿店\n吉祥寺店\n立川店\n町田ジョルナ店\nイオンモール東久留米店\nイオンレイクタウン店\nアルシェ大宮店\nイオンモール羽生店\nイオンモール幕張新都心店\nイオンモール高崎店\nイオンモール太田店\nイオンモール水戸内原店\n名古屋栄店\nイオンモール Nagoya Noritake Garden店\nららぽーと名古屋みなとアクルス店\nイオンモール甲府昭和店\nイオンモール松本店\nイオンモール浜松市野店\n心斎橋店\n梅田店\n京都河原町店\nイオンモール神戸北店\n三宮店\nピオレ姫路店\nイオンモール岡山店\nイオンモール徳島店\n天神大名店\nイオンモール筑紫野店\nイオンモール福津店\n宮崎橘通店\n韓国カンナム店",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:25:21.590342+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:25:21.590461+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://catmocha.jp/contact/",
+        "title": "お問い合わせ｜猫カフェ MOCHA(モカ)",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/catcafemocha/",
+        "source": "https://catmocha.jp/contact/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

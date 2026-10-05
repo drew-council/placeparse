@@ -72,5 +72,79 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:12:26.761490+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:10:47.723477+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://ukaomakase.com/",
+        "title": "Uka Omakse",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ukaomakase.com/about",
+        "title": "About | Uka Omakase",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ukaomakase.com/",
+        "title": "Uka Omakse",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ukaomakase.com/events",
+        "title": "Events | Uka Omakase",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.tortorapromotions.com/post/ukaomakasenyc",
+        "title": "Uka Omakase NYC: Top Sushi Restaurants Near Me for VIP Experience",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Uka Omakase  New York,  NY 10022 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://ukaomakase.com/",
+          "https://ukaomakase.com/about",
+          "https://www.facebook.com/p/Uka-Omakase-61576248845330/",
+          "https://www.yelp.com/biz/uka-omakase-new-york",
+          "https://ukaomakase.com/events",
+          "https://www.tortorapromotions.com/post/ukaomakasenyc",
+          "https://www.ukarestaurant.com/reservation/",
+          "https://local.yahoo.com/info-239607851-uka-omakase-new-york/",
+          "https://www.opentable.com/r/uka-omakase-new-york"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "support@tortorapromotions.com",
+        "url": "https://www.tortorapromotions.com/post/ukaomakasenyc",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/ukaomakase/?hl=en",
+        "source": "https://ukaomakase.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/p/Uka-Omakase-61576248845330/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

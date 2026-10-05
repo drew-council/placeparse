@@ -39,5 +39,48 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:09:12.115455+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://whereyoueat.com/Mamas-27177.html",
+        "title": "Mama's Restaurant in Queens / Menus & Photos",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://mama-s.wheree.com/",
+        "title": "MAMA'S - Reviews, Photos & Phone Number (2026) - Breakfast & Brunch Restaurant in Queens, New York (NY) - Wheree",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://maps.apple.com/place?place-id=I65B706413BA02A1",
+        "title": "Mama's Coffee Shop & Restaurant in Long Island City, NY United States - Apple Maps",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Mama's  Long Island City,  NY 11101 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/mamas-coffee-shop-and-restaurant-long-island-city",
+          "https://www.tripadvisor.com/Restaurant_Review-g48080-d19243380-Reviews-Mama_s-Long_Island_City_Queens_New_York.html",
+          "https://whereyoueat.com/Mamas-27177.html",
+          "https://mama-s.wheree.com/",
+          "https://www.grubhub.com/restaurant/mamas-coffeeshop--restaurant-1301-40th-ave-queens/2198386",
+          "https://maps.apple.com/place?place-id=I65B706413BA02A1",
+          "https://mindtrip.ai/restaurant/new-york-city/mamas/re-bEygmXy5",
+          "https://www.seamless.com/menu/mamas-coffeeshop--restaurant-1301-40th-ave-queens/2198386",
+          "https://www.mapquest.com/us/new-york/mamas-423816795"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

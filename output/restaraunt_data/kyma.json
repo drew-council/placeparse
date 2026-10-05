@@ -642,13 +642,18 @@
   "website": "https://kymarestaurants.com/",
   "wheelchair_accessible_entrance": true,
   "emails": [
-    "email@example.com"
+    "email@example.com",
+    "flatiron@kymarestaurants.com"
   ],
   "business_status_checked_at": "2026-10-03T20:05:29.507601+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:13.533666+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "flatiron@kymarestaurants.com": [
+        "https://www.kymarestaurants.com/location/kyma-flatiron/"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.kymarestaurants.com/",
@@ -704,7 +709,101 @@
       "https://www.kymarestaurants.com/roslyn-events/",
       "https://www.kymarestaurants.com/flatiron-events/"
     ],
-    "browser_checked_at": "2026-10-03T22:09:32.666358+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_checked_at": "2026-10-04T20:47:05.001532+00:00",
+    "browser_outcome": "not_found_on_rendered_pages",
+    "publication_evidence": {
+      "flatiron@kymarestaurants.com": {
+        "url": "https://www.kymarestaurants.com/location/kyma-flatiron/",
+        "quote": "Toggle Navigation\nMain content starts here, tab to start navigating\nHOURS & LOCATION\n\n15 West 18th Street,\nNew York, NY 10011\n- Google Maps Location\n\n(212)-268-5555\nPhone number\n\nflatiron@kymarestaurants.com\n\nMonday, Tuesday, Wednesday\n\nLunch 11:30 AM - 3 PM\nHappy Hour 4 PM - 6 PM\nDinner 5 - 10 PM\n\nThursday - Friday\n\nLunch 11:30 AM - 3 PM\nHappy Hour 4 PM - 6 PM\nDinner 5 - 11 PM\n\nSatur",
+        "checked_at": "2026-10-04T20:47:05.001532+00:00",
+        "business_match": "Maps-linked restaurant site or manually matched restaurant name/location/phone"
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:47:05.001532+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.kymarestaurants.com/",
+        "title": "Kyma | Greek Restaurant in FL & NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.kymarestaurants.com/hours-and-location/",
+        "title": "Contact | Kyma in NY & FL",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.kymarestaurants.com/about/",
+        "title": "About | Kyma in NY & FL",
+        "status": "browser_ok"
+      },
+      {
+        "url": "http://stirling3d.com/contact/",
+        "title": "Kyma | Contact",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.kymarestaurants.com/location/kyma-flatiron/",
+        "title": "Hours & Location | Kyma in New York, NY",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Kyma\"  New York,  NY 10011 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "http://stirling3d.com/contact/",
+          "https://www.kymarestaurants.com/location/kyma-flatiron/",
+          "http://stirling3d.com/",
+          "https://www.kymarestaurants.com/hours-and-location/",
+          "https://www.facebook.com/kymaflatiron/",
+          "https://restaurantjump.com/kyma-10011/",
+          "https://www.opentable.com/r/kyma-flatiron-new-york-3",
+          "https://www.sevenrooms.com/reservations/kymaflatiron",
+          "https://kyma.com/contact/",
+          "https://www.datanyze.com/companies/kyma-restaurants/1176761825"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "dunja@kymarestaurants.com",
+        "url": "http://stirling3d.com/contact/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "email",
+        "email": "flatiron@kymarestaurants.com",
+        "url": "http://stirling3d.com/contact/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "http://stirling3d.com/contact/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/kyma.nyc/",
+        "source": "https://www.kymarestaurants.com/location/kyma-flatiron/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/kymaflatiron/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

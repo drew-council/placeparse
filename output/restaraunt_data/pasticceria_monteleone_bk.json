@@ -455,5 +455,61 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:21:24.582885+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.nycdateideas.com/places/pasticceria-monteleone-bk",
+        "title": "Pasticceria Monteleone BK — NYC Date Ideas",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://nonnaslist.com/italian-bakeries/new-york/brooklyn/pasticceria-monteleone-bk",
+        "title": "Pasticceria Monteleone Bk - Italian Bakery in Brooklyn, NY | Nonna's List",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://pasticceria-monteleone-bk.wheree.com/",
+        "title": "PASTICCERIA MONTELEONE BK - Reviews, Photos & Phone Number (2026) - Bakery Store in Kings County, New York (NY) - Wheree",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Pasticceria Monteleone BK\"  Brooklyn,  NY 11231 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.facebook.com/FMonteleoneBakery/",
+          "https://www.nycdateideas.com/places/pasticceria-monteleone-bk",
+          "https://nonnaslist.com/italian-bakeries/new-york/brooklyn/pasticceria-monteleone-bk",
+          "https://pasticceria-monteleone-bk.wheree.com/",
+          "https://wanderlog.com/place/details/1551510/pasticceria-monteleone-bk",
+          "https://pagenearby.com/new-york-ny/fort-greene/pasticceria-monteleone-bk/",
+          "https://nonnaslist.com/italian-bakeries/new-york/brooklyn/court-pastry-shop",
+          "https://wanderlog.com/list/geoCategory/1575698/best-italian-bakeries-in-brooklyn",
+          "https://www.tiktok.com/discover/remini-bakery-brooklyn"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://pagenearby.com/new-york-ny/fort-greene/pasticceria-monteleone-bk/",
+        "status": "browser_challenge_or_unavailable"
+      }
+    ],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/FMonteleoneBakery/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

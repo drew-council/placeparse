@@ -572,5 +572,73 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:42.986175+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:48:21.811568+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://castillodejagua2nyc.com/page/contact-us",
+        "title": "Contact Us | El Castillo De Jagua 2",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"El Castillo De Jagua\"  New York,  NY 10002 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://castillodejagua2nyc.com/page/contact-us",
+          "https://castillodejagua2nyc.com/",
+          "https://castillodejagua.com/",
+          "https://www.facebook.com/ElCastillodeJagua/",
+          "https://www.facebook.com/ElCastillodeJaguaRivington/",
+          "https://local.us-info.com/USNY100349844-2129826412/el_castillo_de_jagua-new_york.html",
+          "https://cityseeker.com/new-york/886684-el-castillo-de-jagua",
+          "https://castillodejagua2nyc.com/tags/dinner",
+          "https://www.facebook.com/p/El-Castillo-de-Jagua-100064397828768/",
+          "https://castillodejagua2nyc.com/tags/delivery"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://www.castillodejagua2.com/",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'wait', '--fn', 'document.body?.innerText?.trim"
+      }
+    ],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://castillodejagua2nyc.com/page/contact-us",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/ElCastillodeJagua/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      },
+      {
+        "url": "https://www.facebook.com/ElCastillodeJaguaRivington/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      },
+      {
+        "url": "https://www.facebook.com/p/El-Castillo-de-Jagua-100064397828768/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

@@ -31,12 +31,82 @@
   "url": "https://maps.google.com/?cid=15642939993430021057",
   "details_checked_at": "2026-10-03T21:59:18.633833+00:00",
   "business_status_checked_at": "2026-10-03T21:59:18.633833+00:00",
-  "emails": [],
+  "emails": [
+    "danny.liu@caliamgroup.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T22:00:24.880967+00:00",
-    "outcome": "no_website",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "danny.liu@caliamgroup.com": [
+        "https://www.southofthecloudsnyc.com/contact"
+      ]
+    },
     "pages": [],
-    "contact_forms": []
+    "contact_forms": [],
+    "publication_evidence": {
+      "danny.liu@caliamgroup.com": {
+        "url": "https://www.southofthecloudsnyc.com/contact",
+        "quote": "sponse Time\n\nWe respond to all inquiries within 24 hours during business days\n\nPrivate Dining\n\nExclusive experiences for 8-50 guests\n\nDownload Private Dining Guide\nDirect Contact\n\ndanny.liu@caliamgroup.com\n\nGeneral Inquiries\n\ndanny.liu@caliamgroup.com\n\nPrivate Events\n\nVisit Our Locations\n\nThree carefully curated spaces across New York and New Jersey, each offering the same commitmen",
+        "checked_at": "2026-10-04T20:07:49.687947+00:00",
+        "business_match": "Maps-linked restaurant site or manually matched restaurant name/location/phone"
+      }
+    },
+    "browser_checked_at": "2026-10-04T20:07:49.687947+00:00"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.southofthecloudsnyc.com/contact",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact Us - South of the Clouds",
+          "labels": [
+            "Your full name",
+            "your.email@example.com",
+            "(555) 123-4567",
+            "Select your inquiry type\nReservations\nPrivate Dining\nSpecial Events\nCatering Services\nPress & Media\nFeedback & Suggestions\nOther",
+            "Share your message, special requests, or questions with us...",
+            "Send Message"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:07:49.687870+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:07:49.687947+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.southofthecloudsnyc.com/contact",
+        "title": "Contact Us - South of the Clouds",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "South of the Clouds 云之南 Greenwich Village  New York,  NY 10011 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.southofthecloudsnyc.com/contact",
+          "https://southofthecloudsgv.com/",
+          "https://www.southofthecloudsnyc.com/",
+          "https://www.nyctourism.com/restaurants/south-of-the-clouds/",
+          "https://southofthecloudsgreenwichvillage.shop/",
+          "https://southofthecloudsgv.com/about/",
+          "https://southofthecloudsgv.com/faq/",
+          "https://www.southofthecloudsnyc.com/locations",
+          "https://south-of-the-clouds-1.wheree.com/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": []
   }
 }

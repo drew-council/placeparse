@@ -442,5 +442,46 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:22:52.704636+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://mr-p-s-homemade-ice-cream.wheree.com/",
+        "title": "MR P'S HOMEMADE ICE CREAM - Reviews, Photos & Phone Number (2026) - Ice Cream & Frozen Yogurt Store in Kings County, New York (NY) - Wheree",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Mr P's Homemade Ice Cream\"  Brooklyn,  NY 11226 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://mr-p-s-homemade-ice-cream.wheree.com/",
+          "https://www.instagram.com/reel/DDiXBWixjnn/",
+          "https://www.ubereats.com/store/mr-ps-homemade-ice-cream-nostrand-ave/hD6F-yYnR02_Dz5jc1zurQ?srsltid=AU7gw4V6AWgFRcPwV3baqBTaaiRH8aE2CgnXpJ5EQ427i80KSelFeZpE",
+          "https://www.instagram.com/p/DZ21TxbE5mB/",
+          "https://www.mapquest.com/us/new-york/mr-ps-ice-cream-shop-519886026",
+          "https://www.facebook.com/fb-answers/mr-p-ice-cream-brooklyn-reviews/",
+          "https://www.nycrestaurantgrades.com/restaurants/brooklyn/mr-ps-homemade-ice-cream-50131085",
+          "https://www.facebook.com/Jonathanchoione/posts/this-ice-cream-shop-is-serving-the-most-unique-ice-cream-in-nyc-right-now-the-ow/1444723254379865/",
+          "https://www.nydailynews.com/2025/06/25/nyc-hidden-dining-gems-mr-ps-homemade-ice-cream/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/fb-answers/mr-p-ice-cream-brooklyn-reviews/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

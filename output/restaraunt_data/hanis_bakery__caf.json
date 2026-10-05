@@ -66,5 +66,121 @@
     ],
     "browser_checked_at": "2026-10-03T22:09:03.561817+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:10:30.058506+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.hanisnyc.com/",
+        "title": "Hani's",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.hanisnyc.com/story",
+        "title": "Story — Hani's",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.hanisnyc.com/",
+        "title": "Hani's",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.hanisnyc.com/team",
+        "title": "Team — Hani's",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ny.eater.com/venue/113820/hani-s-bakery",
+        "title": "Hani’s Bakery | Eater NY",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Hani’s bakery + café  New York,  NY 10003 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.hanisnyc.com/",
+          "https://www.hanisnyc.com/say-hi",
+          "https://www.facebook.com/hanisbakerynyc/",
+          "https://www.yelp.com/biz/hanis-bakery-new-york",
+          "https://www.hanisnyc.com/team",
+          "https://ny.eater.com/venue/113820/hani-s-bakery",
+          "https://www.instagram.com/hanisbakerynyc/?hl=en",
+          "https://www.linkedin.com/company/hani-s-bakery-cafe",
+          "https://pastryartsmag.com/places/hanis-bakery-in-new-york-ny/"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://www.hanisnyc.com/say-hi",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'eval', \"(()=>{\\nconst fields=f=>[...f.querySel"
+      }
+    ],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/mirouskokovic/?hl=en",
+        "source": "https://www.hanisnyc.com/team",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/shilpauskokovic/",
+        "source": "https://www.hanisnyc.com/team",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/mahannyc/",
+        "source": "https://www.hanisnyc.com/team",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/alvarez.daniel89/",
+        "source": "https://www.hanisnyc.com/team",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/jw.santi/",
+        "source": "https://www.hanisnyc.com/team",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/k_legit1/",
+        "source": "https://www.hanisnyc.com/team",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/djblickenstaff/",
+        "source": "https://www.hanisnyc.com/team",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/hanisbakerynyc/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      },
+      {
+        "url": "https://www.instagram.com/hanisbakerynyc/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

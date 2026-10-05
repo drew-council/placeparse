@@ -486,5 +486,63 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:32:56.520847+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://ricethief.online/privacy-policy/",
+        "title": "Privacy Policy | Rice Thief",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://local.yahoo.com/info-236835854-rice-thief-long-island-city/",
+        "title": "Rice Thief in Long Island City, NY – Reviews, Hours, and Contact Details",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://usemarqer.com/m/dccf882b-25b5-446d-a408-47ba0baca0c2",
+        "title": "Winnie | NYC Foodie ↔ Rice Thief | marQer",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Rice Thief\"  Long Island City,  NY 11101 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://ricethief.online/privacy-policy/",
+          "https://www.yelp.com/biz/rice-thief-long-island-city",
+          "https://www.instagram.com/ricethief.nyc/?hl=en",
+          "https://local.yahoo.com/info-236835854-rice-thief-long-island-city/",
+          "https://marqer.vercel.app/m/dccf882b-25b5-446d-a408-47ba0baca0c2",
+          "https://www.yelp.com/biz/rice-thief-long-island-city?start=50",
+          "https://whereyoueat.com/Rice-Thief-30713.html",
+          "https://rice-thief.wheree.com/",
+          "https://nz.appointmenttrader.com/rice-thief-queens"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "support@usemarqer.com",
+        "url": "https://usemarqer.com/m/dccf882b-25b5-446d-a408-47ba0baca0c2",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/ricethief.nyc/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

@@ -594,5 +594,61 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:51.573611+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.forallthingsgoodbk.com/contact",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Contact — for all things good",
+          "labels": [
+            "First Name\n(required)",
+            "Last Name\n(required)",
+            "Email Address\n(required)",
+            "Subject\n(required)",
+            "Message\n(required)",
+            "",
+            "SUBMIT"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:54:54.362887+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:54:54.362936+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.forallthingsgoodbk.com/",
+        "title": "for all things good",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.forallthingsgoodbk.com/new-page-44",
+        "title": "Our Story — for all things good",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.forallthingsgoodbk.com/contact",
+        "title": "Contact — for all things good",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/forallthingsgoodbk/",
+        "source": "https://www.forallthingsgoodbk.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

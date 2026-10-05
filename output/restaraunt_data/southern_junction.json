@@ -423,5 +423,75 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:26.270600+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:21:17.417597+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.southernjunction716.com/",
+        "title": "Southern Junction Barbecue",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.southernjunction716.com/home",
+        "title": "Home — Southern Junction Barbecue",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFa-DwrPPcoBgAAAaEIk-aotO6-6P3fTy3Lc-kLrstQ8wjpVTtTz0k1nP_ndkZX6-JiHtyBvay5yydYNGZu0xxjRmUgT1EOCd2X2vriipFu2z4qtLIqB0Ilv6n1YyQ6WxRlK_c=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fsouthernjunction",
+        "title": "Sign Up | LinkedIn",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.iloveny.com/listing/southern-junction/138182/",
+        "title": "Southern Junction | Buffalo, NY 14213",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Southern Junction\"  Buffalo,  NY 14213 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.southernjunction716.com/home",
+          "https://www.southernjunction716.com/",
+          "https://www.instagram.com/southernjunction716/?hl=en",
+          "https://www.facebook.com/southernjunction716/",
+          "https://www.linkedin.com/company/southernjunction",
+          "https://www.iloveny.com/listing/southern-junction/138182/",
+          "https://www.yelp.com/biz/southern-junction-buffalo",
+          "https://order.toasttab.com/online/southernjunction716",
+          "https://visitbuffalo.com/unexpectedly-amazing-barbecue-around-buffalo/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "info@iloveny.com",
+        "url": "https://www.iloveny.com/listing/southern-junction/138182/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/southernjunction716/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      },
+      {
+        "url": "https://www.facebook.com/southernjunction716/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

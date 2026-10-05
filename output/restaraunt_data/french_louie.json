@@ -651,5 +651,55 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:52:35.199837+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/brooklyn/miscellaneous/2004030274-french-louie",
+        "title": "French Louie in Brooklyn, NY 11201 - 718-935...",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://french-louie.wheree.com/",
+        "title": "FRENCH LOUIE - Reviews, Photos & Phone Number (2026) - French Restaurant in Kings County, New York (NY) - Wheree",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.nyctourism.com/restaurants/french-louie/",
+        "title": "French Louie | Brooklyn | Restaurants",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"French Louie\"  Brooklyn,  NY 11201 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://frenchlouienyc.com/location/",
+          "https://frenchlouienyc.com/",
+          "https://www.yelp.com/biz/french-louie-brooklyn",
+          "https://www.chamberofcommerce.com/business-directory/new-york/brooklyn/miscellaneous/2004030274-french-louie",
+          "https://french-louie.wheree.com/",
+          "https://www.nyctourism.com/restaurants/french-louie/",
+          "https://www.findglocal.com/US/Brooklyn/288134844670429/French-Louie",
+          "https://restaurantjump.com/french-louie-11201/",
+          "https://local.us-info.com/USNY101736093-7189351200/french_louie-brooklyn.html",
+          "https://visitbrooklyn.nyc/eatanddrink/french-louie"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/brooklyn/miscellaneous/2004030274-french-louie",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": []
   }
 }

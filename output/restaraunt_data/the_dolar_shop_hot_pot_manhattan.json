@@ -619,6 +619,111 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:40.895665+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "candidate_sources": {
+      "dolarshopev@gmail.com": {
+        "urls": [
+          "https://www.chamberofcommerce.com/business-directory/new-york/new-york/hot-pot-restaurant/2032618904-the-dolar-shop-hot-pot-manhattan"
+        ],
+        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T21:05:34.036426+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.dolarshop.com/location/manhattan-location",
+        "title": "Manhattan Location | The Dolar Shop Hot Pot",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.dolarshop.com/about",
+        "title": "About | The Dolar Shop Hot Pot",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.dolarshop.com/halalfaq",
+        "title": "Halal Menu FAQ | The Dolar Shop",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.dolarshop.com/location/manhattan-location/manhattan-group-dining",
+        "title": "Manhattan Group Dining | The Dolar Shop Hot Pot",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.bizarchive.com/business/the-dolar-shop-hot-pot-manhattan-646-590-0034",
+        "title": "The Dolar Shop Hot Pot Manhattan | (646) 590-0034 | New York City",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.steamanddip.com/hot-pot-restaurants/the-dolar-shop-hot-pot-manhattan/",
+        "title": "The Dolar Shop Hot Pot Manhattan in New York, New York 10003",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://buffetlocator.com/chinese-buffets/new-york-ny/the-dolar-shop-hot-pot-manhattan-ny",
+        "title": "The Dolar Shop Hot Pot Manhattan – Chinese Buffet in New York (Menu, Prices, Hours)",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/hot-pot-restaurant/2032618904-the-dolar-shop-hot-pot-manhattan",
+        "title": "The Dolar Shop Hot Pot Manhattan in New York, NY 10003 - 646-590...",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"The Dolar Shop Hot Pot Manhattan\"  New York,  NY 10003 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.dolarshop.com/location/manhattan-location",
+          "https://www.dolarshop.com/location/manhattan-location/manhattan-group-dining",
+          "https://www.bizarchive.com/business/the-dolar-shop-hot-pot-manhattan-646-590-0034",
+          "https://www.steamanddip.com/hot-pot-restaurants/the-dolar-shop-hot-pot-manhattan/",
+          "https://buffetlocator.com/chinese-buffets/new-york-ny/the-dolar-shop-hot-pot-manhattan-ny",
+          "https://www.chamberofcommerce.com/business-directory/new-york/new-york/hot-pot-restaurant/2032618904-the-dolar-shop-hot-pot-manhattan"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.bizarchive.com/business/the-dolar-shop-hot-pot-manhattan-646-590-0034",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/hot-pot-restaurant/2032618904-the-dolar-shop-hot-pot-manhattan",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/thedolarshopusa/",
+        "source": "https://www.dolarshop.com/location/manhattan-location",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/thedolarshopnewyork",
+        "source": "https://www.dolarshop.com/location/manhattan-location",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ],
+    "email_lead_verification": {
+      "checked_at": "2026-10-04T21:27:56.054819+00:00",
+      "outcome": "not_confirmed_on_first_party_sources",
+      "queries": [
+        "\"dolarshopev@gmail.com\" The Dolar Shop Hot Pot Manhattan"
+      ],
+      "result_urls": []
+    }
   }
 }

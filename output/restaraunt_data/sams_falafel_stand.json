@@ -431,5 +431,75 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T21:02:32.485586+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.restaurantji.com/ny/new-york/sams-falafel-stand-/",
+        "title": "Sam's Falafel Stand, New York - Reviews (127), Photos (37) - Restaurantji",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/miscellaneous/2012994712-sam-s-falafel-stand",
+        "title": "Sam's Falafel Stand in New York, NY 10006 -",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.checkle.com/biz/sams-falafel-stand-new-york",
+        "title": "Sam's Falafel Stand - Updated November 2025",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ruspagesusa.com/catalog/gorod_nyu-york/sams_falafel_stand/",
+        "title": "Falafel restaurant - Sam's Falafel Stand. New York City, 100 Cedar St #90, New York, NY 10006. USA",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://restaurantedroop.com/restaurants-near-me/sam-s-falafel-stand",
+        "title": "Sam's Falafel Stand: The Best Falafel in Downtown Manhattan",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.gettoptable.com/new-york/places/sams-falafel-stand",
+        "title": "Sam's Falafel Stand - Falafel Restaurant in Financial District, New York | Top Table",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Sam's Falafel Stand\"  New York,  NY 10006 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.restaurantji.com/ny/new-york/sams-falafel-stand-/",
+          "https://www.chamberofcommerce.com/business-directory/new-york/new-york/miscellaneous/2012994712-sam-s-falafel-stand",
+          "https://www.checkle.com/biz/sams-falafel-stand-new-york",
+          "https://ruspagesusa.com/catalog/gorod_nyu-york/sams_falafel_stand/",
+          "https://restaurantedroop.com/restaurants-near-me/sam-s-falafel-stand",
+          "https://www.gettoptable.com/new-york/places/sams-falafel-stand",
+          "https://www.postcard.inc/places/sams-falafel-stand-new-york",
+          "https://www.manhattan-nyc.com/businesses/sams-falafel-stand--g-11ckvl54_w/",
+          "https://sams-falafel-stand.res-menu.net/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/miscellaneous/2012994712-sam-s-falafel-stand",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      },
+      {
+        "kind": "email",
+        "email": "server@restaurantedroop.com",
+        "url": "https://restaurantedroop.com/restaurants-near-me/sam-s-falafel-stand",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": []
   }
 }

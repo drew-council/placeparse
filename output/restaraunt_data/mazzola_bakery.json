@@ -492,5 +492,78 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:10:08.847040+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:26:47.522063+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://mazzolabakerycafe.com/",
+        "title": "Mazzola Bakery – Since 1928",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://mazzolabakerycafe.com/index.php/about/",
+        "title": "About – Mazzola Bakery",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ny.eater.com/venue/84300/mazzola-bakery",
+        "title": "Mazzola Bakery | Eater NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.nydailynews.com/2025/04/23/nyc-hidden-dining-gems-mazzola-bakery-carroll-gardens-review/",
+        "title": "NYC hidden dining gems: Mazzola Bakery Carroll Gardens review",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://mazzola-bakery.wheree.com/",
+        "title": "MAZZOLA BAKERY - Reviews, Photos & Phone Number (2026) - Specialty Food Store in Kings County, New York (NY) - Wheree",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Mazzola Bakery\"  Brooklyn,  NY 11231 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.facebook.com/MazzolaBakery/",
+          "https://mazzolabakerycafe.com/",
+          "https://www.tripadvisor.com/Restaurant_Review-g60827-d924027-Reviews-Mazzola_Bakery-Brooklyn_New_York.html",
+          "https://ny.eater.com/venue/84300/mazzola-bakery",
+          "https://www.nydailynews.com/2025/04/23/nyc-hidden-dining-gems-mazzola-bakery-carroll-gardens-review/",
+          "https://mazzola-bakery.wheree.com/",
+          "https://maps.apple.com/place?place-id=IE3DD1B25C415A8E8",
+          "https://www.timeout.com/newyork/restaurants/mazzola-bakery",
+          "https://ca.style.yahoo.com/local-spot-hit-desserts-feel-090500801.html"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "http://www.facebook.com/MazzolaBakery",
+        "source": "https://mazzolabakerycafe.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://instagram.com/mazzolabakery",
+        "source": "https://mazzolabakerycafe.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/MazzolaBakery/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

@@ -595,5 +595,46 @@
       }
     },
     "quality_reviewed_at": "2026-10-04T05:58:56.899370+00:00"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:44:52.215838+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://xiang-hotpot-brooklyn.localoria.com/",
+        "title": "Xiang Hotpot-Brooklyn | Cozy Spot for Authentic Hot Pot in Brooklyn",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://xiang-hotpot-brooklyn.wherevi.com/",
+        "title": "Xiang Hotpot-Brooklyn | Authentic Hot Pot & Asian Flavors in Brooklyn",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Xiang Hotpot-Brooklyn\"  Brooklyn,  NY 11219 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/xiang-hotpot-brooklyn-brooklyn",
+          "https://xiang-hotpot-brooklyn.wherevi.com/",
+          "https://www.cybo.com/US-biz/xiang-hotpot-brooklyn",
+          "https://www.restaurantji.com/ny/brooklyn/xiang-hot-pot-/",
+          "https://www.steamanddip.com/hot-pot-restaurants/xiang-hotpot-brooklyn/",
+          "https://www.yelp.com/biz/xiang-hotpot-brooklyn-brooklyn?start=290"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://xiang-hotpot-brooklyn.wherevi.com/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": []
   }
 }

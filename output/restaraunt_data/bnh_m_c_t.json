@@ -45,5 +45,58 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:08:08.263365+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://nycpho.com/",
+        "title": "Kitchen Cô Út - New York, NY Vietnamese Restaurant",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.corner.inc/place/pqyMLSPuzTs1",
+        "title": "Bánh Mì Cô Út - 83 Elizabeth St, New York | Corner",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Bánh Mì Cô Út  New York,  NY 10013 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.facebook.com/banhmicoutnyc/",
+          "https://www.yelp.com/biz/banh-mi-co-ut-new-york-2",
+          "https://nycpho.com/",
+          "https://www.instagram.com/banhmicoutnyc/?hl=en",
+          "https://www.tripadvisor.com/Restaurant_Review-g60763-d23168470-Reviews-VietNamese_Sandwich_Newyork_Banh_Mi_Co_ut-New_York_City_New_York.html",
+          "https://www.corner.inc/place/pqyMLSPuzTs1",
+          "https://www.yelp.com/biz/banh-mi-co-ut-new-york-11",
+          "https://docentpro.com/places/bnh-m-c-t_NjUyMTEz",
+          "https://www.theinfatuation.com/new-york/guides/the-best-banh-mi-in-nyc"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/banhmicoutnyc/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      },
+      {
+        "url": "https://www.instagram.com/banhmicoutnyc/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

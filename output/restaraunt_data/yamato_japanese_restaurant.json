@@ -527,5 +527,56 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:33:04.055048+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://yamato-japanese-restaurant-3.wheree.com/",
+        "title": "YAMATO JAPANESE RESTAURANT - Reviews, Photos & Phone Number (2026) - Asian Restaurant in Pima County, Arizona (AZ) - Wheree",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://tucsonfoodie.com/news/best-japanese-restaurants-tucson",
+        "title": "Guide to 11 Best Japanese Restaurants in Tucson | Tucson Foodie",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Yamato Japanese Restaurant\"  Tucson,  AZ 85719 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.facebook.com/p/Yamato-Japanese-Restaurant-100063610479187/",
+          "https://www.tripadvisor.com/Restaurant_Review-g60950-d594656-Reviews-Yamato_Japanese_Restaurant-Tucson_Arizona.html",
+          "https://yamato-japanese-restaurant-3.wheree.com/",
+          "https://tucsonfoodie.com/news/best-japanese-restaurants-tucson",
+          "https://wanderboat.ai/restaurants/united-states/tucson/yamato-japanese-restaurant/_xIEyWobSiu_DSt-9DqRGg",
+          "https://wanderlog.com/place/details/1435899/yamato-japanese-restaurant",
+          "https://www.mapquest.com/us/arizona/yamato-633486068",
+          "https://maps.apple.com/place?place-id=IED19E347AF2D807A",
+          "https://www.bringmethat.com/t/az/tucson/85719/yamato-japanese-restaurant"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://wanderboat.ai/restaurants/united-states/tucson/yamato-japanese-restaurant/_xIEyWobSiu_DSt-9DqRGg",
+        "status": "browser_challenge_or_unavailable"
+      }
+    ],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/p/Yamato-Japanese-Restaurant-100063610479187/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

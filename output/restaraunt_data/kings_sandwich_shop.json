@@ -446,6 +446,102 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:19.774257+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "candidate_sources": {
+      "info@kingssandwichshop.com": {
+        "urls": [
+          "https://www.allbiz.com/business/kings-sandwich-shop_23-919-682-0071"
+        ],
+        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T21:02:55.731480+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://kingssandwichshop.com/index.html",
+        "title": "Kings Sandwich Shop Durham | Food for the people",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.us-info.com/en/usa/king_s_sandwich_shop/durham/USNC100079920-9196820071/businessdetails.aspx",
+        "title": "King's Sandwich Shop - Restaurants in Durham, NC | US Info",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.allbiz.com/business/kings-sandwich-shop_23-919-682-0071",
+        "title": "King's Sandwich Shop | (919) 682-0071 | Durham, North Carolina",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.discoverdurham.com/directory/kings-sandwich-shop/",
+        "title": "King's Sandwich Shop | Discover Durham",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.superpages.com/durham-nc/bpp/kings-sandwich-shop-16445725",
+        "title": "King's Sandwich Shop 701 Foster St, Durham, NC 27701 - superpages.com",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"King's Sandwich Shop\"  Durham,  NC 27701 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://local.us-info.com/USNC100079920-9196820071/king_s_sandwich_shop-durham.html",
+          "https://www.allbiz.com/business/kings-sandwich-shop_23-919-682-0071",
+          "https://www.yelp.com/biz/kings-sandwich-shop-durham",
+          "https://www.facebook.com/100057393550811/about/",
+          "https://www.discoverdurham.com/directory/kings-sandwich-shop/",
+          "https://www.superpages.com/durham-nc/bpp/kings-sandwich-shop-16445725",
+          "https://kings-sandwich-shop.wheree.com/",
+          "https://www.chamberofcommerce.com/business-directory/north-carolina/durham/miscellaneous/27318715-king-s-sandwich-shop",
+          "https://www.yellowpages.com/durham-nc/mip/kings-sandwich-shop-16445725",
+          "https://www.findabusinessthat.com/342144/king-s-sandwich-shop-durham-nc-27701"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.allbiz.com/business/kings-sandwich-shop_23-919-682-0071",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/kingssandwichshop/",
+        "source": "https://kingssandwichshop.com/index.html",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/profile.php?id=100057393550811",
+        "source": "https://kingssandwichshop.com/index.html",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/100057393550811/about/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ],
+    "email_lead_verification": {
+      "checked_at": "2026-10-04T21:27:44.775073+00:00",
+      "outcome": "not_confirmed_on_first_party_sources",
+      "queries": [
+        "\"info@kingssandwichshop.com\" King's Sandwich Shop"
+      ],
+      "result_urls": []
+    }
   }
 }

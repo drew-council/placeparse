@@ -483,5 +483,107 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:07:45.085972+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:49:31.591480+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.brodo.com/",
+        "title": "Quality Bone Broth - Shipped Straight To You - Brodo Broth Co™",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.brodo.com/about/",
+        "title": "About Brodo Bone Broth",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.brodo.com/faqs/?hcUrl=%2Fen-US",
+        "title": "FAQs - Brodo Broth Co™",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.brodo.com/contact/",
+        "title": "Contact Us - Brodo Broth Co™",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://eastvillage.com/restaurants/brodo/",
+        "title": "Brodo - East Village",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.manhattan-nyc.com/businesses/brodo-east-village--g-11b6srj7sr/",
+        "title": "Brodo - East Village - Downtown Manhattan",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://restaurantedroop.com/restaurants-near-me/brodo-east-village",
+        "title": "Brodo - East Village: Your Go-To for Wholesome Bone Broth in NYC",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.restaurantji.com/ny/new-york/brodo-east-village-/",
+        "title": "Brodo - East Village, New York - Menu, Reviews (157), Photos (35) - Restaurantji",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://brunchatsnackchat.com/best-restaurants-near-me/brodo-east-village/",
+        "title": "Brodo East Village: Your Go-To for Nourishing Takeaway in NYC",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.enprimeurclub.com/restaurants/brodo-east-village-new-york-city-restaurant",
+        "title": "Brodo - East Village Restaurant, New York City",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Brodo - East Village\"  New York,  NY 10009 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://eastvillage.com/restaurants/brodo/",
+          "https://www.manhattan-nyc.com/businesses/brodo-east-village--g-11b6srj7sr/",
+          "https://restaurantedroop.com/restaurants-near-me/brodo-east-village",
+          "https://www.restaurantji.com/ny/new-york/brodo-east-village-/",
+          "https://brunchatsnackchat.com/best-restaurants-near-me/brodo-east-village/",
+          "https://www.enprimeurclub.com/restaurants/brodo-east-village-new-york-city-restaurant",
+          "https://monaghansrvc.com/res/brodo-east-village-reviews-menu-new-york-city.p1118"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "server@restaurantedroop.com",
+        "url": "https://restaurantedroop.com/restaurants-near-me/brodo-east-village",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "email",
+        "email": "server@brunchatsnackchat.com",
+        "url": "https://brunchatsnackchat.com/best-restaurants-near-me/brodo-east-village/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/brodonyc/",
+        "source": "https://www.brodo.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/brodo/",
+        "source": "https://www.brodo.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

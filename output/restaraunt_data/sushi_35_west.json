@@ -436,5 +436,87 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:30.302186+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:45:13.329211+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.sushi35west.com/",
+        "title": "Sushi 35 West - Japanese Restaurant｜Online Order｜New York｜NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.sushi35west.com/contact-us/",
+        "title": "Sushi 35 West - Japanese Restaurant｜Online Order｜New York｜NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://restaurantjump.com/sushi-35-west-10001/",
+        "title": "Sushi 35 West - New York, NY 10001 - Menu, Reviews, Hours & Contact",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.findglocal.com/US/New-York/104783001812830/Sushi-35-West",
+        "title": "Sushi 35 West, 224 W 35th Street 2nd fl, New York, NY (2026)",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Sushi 35 West\"  New York,  NY 10001 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.sushi35west.com/contact-us/",
+          "https://www.sushi35west.com/",
+          "https://restaurantjump.com/sushi-35-west-10001/",
+          "https://www.findglocal.com/US/New-York/104783001812830/Sushi-35-West",
+          "https://www.yelp.com/biz/sushi-35-west-new-york",
+          "https://www.facebook.com/p/sushi-35-west-100068705081123/",
+          "https://sushi-35-west.wheree.com/",
+          "https://www.facebook.com/people/Sushi-35-West/100068705081123/",
+          "https://restaurantjun.com/japanese-restaurant-near-me/sushi-35-west/",
+          "https://opengovus.com/new-york-restaurant/50110096"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "yrosa968@gmail.com",
+        "url": "https://restaurantjump.com/sushi-35-west-10001/",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      },
+      {
+        "kind": "form",
+        "url": "https://restaurantjump.com/sushi-35-west-10001/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/p/Sushi-35-West-100068705081123/",
+        "source": "https://www.sushi35west.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/p/sushi-35-west-100068705081123/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      },
+      {
+        "url": "https://www.facebook.com/people/Sushi-35-West/100068705081123/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

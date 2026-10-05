@@ -579,5 +579,53 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:09.406811+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:26:35.386429+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://docentpro.com/places/hinatomaru-asakusa-main-store_MTI5OTkx",
+        "title": "Hinatomaru Asakusa main store - Restaurant | DocentPro",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://hinatomaru-asakusa-main-store.wheree.com/menu",
+        "title": "Hinatomaru Asakusa main store Menu (Updated 2026)",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.yelp.com/search?cflt=conveyorsushi&find_loc=Ueno+Station%2C+Tait%C5%8D%2C+%E6%9D%B1%E4%BA%AC%E9%83%BD",
+        "title": "THE BEST 10 CONVEYOR BELT SUSHI NEAR TAITO CITY, 東京都, JAPAN - UPDATED OCTOBER 2026 - VERIFIED LISTINGS ONLY - HOURS - YELP",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Hinatomaru Asakusa main store\"  Taito City,  Tokyo 111-0032 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://wanderlog.com/place/details/2167172/hinatomaru-asakusa-main-store",
+          "https://docentpro.com/places/hinatomaru-asakusa-main-store_MTI5OTkx",
+          "https://hinatomaru-asakusa-main-store.wheree.com/menu",
+          "https://m.yelp.com/search?cflt=conveyorsushi&find_loc=Ueno+Station%2C+Tait%C5%8D%2C+%E6%9D%B1%E4%BA%AC%E9%83%BD",
+          "https://wanderlog.com/list/geoCategory/409111/best-sushi-restaurants-and-sushi-bars-in-arakawa",
+          "https://wanderlog.com/zh/list/geoCategory/409111/arakawa%E4%B8%AD%E5%AE%B6%E6%9C%80%E4%BD%B3%E5%AF%BF%E5%8F%B8%E9%A4%90%E5%8E%85%E5%92%8C%E5%AF%BF%E5%8F%B8%E9%85%92%E5%90%A7",
+          "https://wanderlog.com/zh/list/geoCategory/417816/hokuriku%E4%B8%AD%E5%AE%B6%E6%9C%80%E4%BD%B3%E5%AF%BF%E5%8F%B8%E9%A4%90%E5%8E%85%E5%92%8C%E5%AF%BF%E5%8F%B8%E9%85%92%E5%90%A7"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "support@docentpro.com",
+        "url": "https://docentpro.com/places/hinatomaru-asakusa-main-store_MTI5OTkx",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": []
   }
 }

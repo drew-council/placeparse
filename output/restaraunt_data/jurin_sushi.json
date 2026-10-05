@@ -46,5 +46,68 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:07:23.255905+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://insmeal.com/JURINSUSHI",
+        "title": "Insmeal",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.jurinsushiny.com/",
+        "title": "Order Authentic Japanese Online | Jurin Sushi - Pickup or Delivery Available",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.jurinsushiny.com/jpo49d7s/jurin-sushi-new-york-10018/order-online?menu=Lunch&category=Lunch+Special",
+        "title": "Best Japanese in New York, NY | Jurin Sushi | Order Online",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.jurinsushiny.com/jpo49d7s/jurin-sushi-new-york-10018/menu?menu=Lunch&category=Lunch+Special",
+        "title": "Best Japanese in New York, NY | Jurin Sushi | Menu",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Jurin Sushi  New York,  NY 10018 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://insmeal.com/JURINSUSHI",
+          "https://www.jurinsushiny.com/",
+          "https://www.yelp.com/biz/jurin-sushi-new-york",
+          "https://www.instagram.com/jurinsushi_nyc/?hl=en",
+          "https://www.jurinsushiny.com/jpo49d7s/jurin-sushi-new-york-10018/order-online",
+          "https://www.jurinsushiny.com/jpo49d7s/jurin-sushi-new-york-10018/menu",
+          "https://www.beyondmenu.com/60786/new-york/jurin-sushi-new-york-10018/info.aspx",
+          "https://www.nycrestaurantgrades.com/restaurants/manhattan/jurin-sushi-50142166",
+          "https://order.toasttab.com/online/jurinsushi"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "email",
+        "email": "insmeal@gmail.com",
+        "url": "https://insmeal.com/JURINSUSHI",
+        "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/jurinsushi_nyc/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

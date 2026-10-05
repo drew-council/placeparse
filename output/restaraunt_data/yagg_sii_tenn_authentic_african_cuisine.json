@@ -429,5 +429,81 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:12:40.763701+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:46:39.130501+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://yaggsitenn.com/",
+        "title": "AFRICAN CUISINE",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://yaggsitenn.com/about-contact-us",
+        "title": "About-Contact Us",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://afri-table.com/restaurants/yagg-sii-tenn-authentic-african-cuisine-apex",
+        "title": "Yagg Sii Tenn Authentic African Cuisine | AfriTable",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.findglocal.com/US/Apex/155887394562039/Yagg-sii-tenn-Authentic-African-Cuisine",
+        "title": "Yagg sii tenn Authentic African Cuisine, 1440 Chapel Ridge Road suite 170, Apex, NC (2026)",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.2findlocal.com/b/14659185/yagg-sii-tenn-authentic-african-cuisine-apex-nc",
+        "title": "Yagg Sii Tenn Authentic African Cuisine | African Restaurants in Apex, NC",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Yagg Sii Tenn Authentic African Cuisine\"  Apex,  NC 27502 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.facebook.com/Yaggsiitenn/",
+          "https://yaggsitenn.com/about-contact-us",
+          "https://afri-table.com/restaurants/yagg-sii-tenn-authentic-african-cuisine-apex",
+          "https://www.findglocal.com/US/Apex/155887394562039/Yagg-sii-tenn-Authentic-African-Cuisine",
+          "https://www.2findlocal.com/b/14659185/yagg-sii-tenn-authentic-african-cuisine-apex-nc",
+          "https://www.yelp.com/biz/yagg-sii-tenn-authentic-african-cuisine-apex?start=20"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://afri-table.com/restaurants/yagg-sii-tenn-authentic-african-cuisine-apex",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/yaggsiitenn",
+        "source": "https://yaggsitenn.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "http://www.instagram.com/yagg_sii_tenn",
+        "source": "https://yaggsitenn.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/Yaggsiitenn/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

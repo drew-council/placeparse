@@ -435,5 +435,85 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:44.049529+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:52:47.802423+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://falafeltanami.com/?utm_source=GMB&utm_medium=Website%20button&utm_id=Falafel%20Tanami",
+        "title": "Falafel Tanami NY Brooklyn Delivery and Pickup menu",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.us-info.com/en/usa/falafel_tanami/brooklyn/USNY101347244-7184839100/businessdetails.aspx",
+        "title": "Falafel Tanami - Restaurants in Brooklyn, NY | US Info",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.datalane.com/contact/restaurants/falafel-tanami",
+        "title": "Falafel Tanami Contact Details | Owner Phone & Email",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://falafeltanami.com/",
+        "title": "Falafel Tanami NY Brooklyn Delivery and Pickup menu",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.superpages.com/brooklyn-ny/bpp/falafel-tanami-548695512",
+        "title": "Falafel Tanami 1305 E 17th St, Brooklyn, NY 11230 - superpages.com",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://a-better-place.com/US/d-i.html?utm_content=falafel-tanami-i766489",
+        "title": "Falafel Tanami - Brooklyn",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Falafel Tanami\"  Brooklyn,  NY 11230 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://local.us-info.com/USNY101347244-7184839100/falafel_tanami-brooklyn.html",
+          "https://www.datalane.com/contacts/restaurants/falafel-tanami",
+          "https://falafeltanami.com/",
+          "https://www.superpages.com/brooklyn-ny/bpp/falafel-tanami-548695512",
+          "https://www.facebook.com/TanamiBK/about/",
+          "https://a-better-place.com/US/falafel-tanami-i766489.html",
+          "https://mekomos.com/places/falafel-tanami",
+          "https://kosherwithoutborders.com/brooklyn/falafel-tanami.html",
+          "https://www.ubereats.com/store/falafel-tanami/PMAl403mQ_e09Wr82GjloA",
+          "https://www.facebook.com/FalafelTanami/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://a-better-place.com/US/d-i.html?utm_content=falafel-tanami-i766489",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/TanamiBK/about/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      },
+      {
+        "url": "https://www.facebook.com/FalafelTanami/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

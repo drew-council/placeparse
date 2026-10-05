@@ -701,5 +701,74 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:12:01.126950+00:00",
     "browser_outcome": "incomplete_lookup"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:54:23.793321+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://ubaniny.com/",
+        "title": "Ubani - The Best Georgian Cuisine in New York.",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ubaniny.com/about",
+        "title": "About Ubani - The Best Georgian Cuisine in New York.",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ubaniny.com/accessible-compliance.php",
+        "title": "Accessibility Compliance Statement",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ubani.us/bay-ridge",
+        "title": "Ubani | Best Georgian Restaurant in Brooklyn, NY | Georgian Restaurant near me",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ubani.us/page/our-locations",
+        "title": "Our Locations | Ubani",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ubani-bay-ridge.wherevi.com/",
+        "title": "Ubani - Bay Ridge | Authentic Georgian Cuisine in Brooklyn",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Ubani - Bay Ridge\"  Brooklyn,  NY 11209 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://ubani.us/bay-ridge",
+          "https://ubani.us/page/our-locations",
+          "https://ubani-bay-ridge.wherevi.com/",
+          "https://www.yellowpages.com/brooklyn-ny/mip/ubani-bay-ridge-582708616",
+          "https://www.yelp.com/biz/ubani-brooklyn",
+          "https://restaurantedroop.com/restaurants-near-me/ubani-bay-ridge",
+          "https://www.showmelocal.com/40253512-ubani-bay-ridge-brooklyn",
+          "https://www.opentable.com/r/ubani-bay-ridge-brooklyn"
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://ubaniny.com/contact",
+        "status": "browser_load_error",
+        "error": "Command '['agent-browser', '--session', 'placeparse-text-contact-sweep', '--cdp', '9222', '--pin-tab', '--json', 'wait', '--fn', 'document.body?.innerText?.trim"
+      }
+    ],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://ubani-bay-ridge.wherevi.com/",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": []
   }
 }

@@ -463,5 +463,86 @@
       }
     ],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://coffeeprojectny.com/contact/",
+        "purpose": "general inquiry",
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website",
+        "evidence": {
+          "title": "Contact Our Company | Coffee Project NY",
+          "labels": [
+            "Your Name",
+            "Your Email",
+            "Subject: General Inquiry",
+            "Your Message",
+            "Submit"
+          ],
+          "message_field_observed": true,
+          "note": "Manually inspected with agent-browser. Corporate contact page for the same cafe brand; do not mistake the optional newsletter checkbox for the purpose of the form."
+        },
+        "checked_at": "2026-10-04T21:17:15.926321+00:00",
+        "submission_tested": false
+      }
+    ],
+    "checked_at": "2026-10-04T20:53:21.579684+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/cafe/2023212737-coffee-project-new-york-chelsea",
+        "title": "Coffee Project New York | Chelsea in New York, NY 10011 - 917-388...",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.superpages.com/new-york-ny/bpp/coffee-project-new-york-557756777",
+        "title": "Coffee Project New York 155 7th Ave, New York, NY 10011 - superpages.com",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Coffee Project New York\"  New York,  NY 10011 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://coffeeprojectny.com/contact/",
+          "https://coffeeprojectny.com/cafe-locations/",
+          "https://www.facebook.com/coffeeprojectny/",
+          "https://www.yelp.com/biz/coffee-project-new-york-chelsea-new-york-3",
+          "https://www.chamberofcommerce.com/business-directory/new-york/new-york/cafe/2023212737-coffee-project-new-york-chelsea",
+          "https://www.superpages.com/new-york-ny/bpp/coffee-project-new-york-557756777",
+          "https://www.yellowpages.com/new-york-ny/mip/coffee-project-new-york-557756777",
+          "https://www.facebook.com/coffeeprojectny.eastvillage/",
+          "https://mymenuweb.com/us/restaurants/1529382/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/cafe/2023212737-coffee-project-new-york-chelsea",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/coffeeprojectny/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      },
+      {
+        "url": "https://www.facebook.com/coffeeprojectny.eastvillage/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "DuckDuckGo browser"
+      }
+    ]
   }
 }

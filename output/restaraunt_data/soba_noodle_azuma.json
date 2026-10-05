@@ -62,5 +62,78 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:22.770050+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:10:04.482563+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.sobaazuma55.com/",
+        "title": "SOBA AZUMA@ midtown New York",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.sobaazuma55.com/",
+        "title": "SOBA AZUMA@ midtown New York",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.sobaazuma55.com/special",
+        "title": "LOCATION | Soba Noodle Azuma",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ny.eater.com/venue/40651/soba-noodle-azuma",
+        "title": "Soba Noodle Azuma | Eater NY",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.sobaazuma55.com/menu-1",
+        "title": "MENU | Soba Noodle Azuma",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Soba Noodle Azuma  New York,  NY 10019 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.sobaazuma55.com/",
+          "https://www.sobaazuma55.com/special",
+          "https://www.yelp.com/biz/soba-noodle-azuma-new-york-3",
+          "https://www.facebook.com/p/Soba-Noodle-Azuma-100068400587668/",
+          "https://ny.eater.com/venue/40651/soba-noodle-azuma",
+          "https://www.sobaazuma55.com/menu-1",
+          "https://www.azumanoodle.com/contact",
+          "https://www.tripadvisor.com/Restaurant_Review-g60763-d10082986-Reviews-Soba_Noodle_Azuma-New_York_City_New_York.html",
+          "https://www.instagram.com/p/DS54D2gk3g9/"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/profile.php?id=100068400587668",
+        "source": "https://www.sobaazuma55.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/soba.azuma/",
+        "source": "https://www.sobaazuma55.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.facebook.com/p/Soba-Noodle-Azuma-100068400587668/",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }

@@ -452,5 +452,64 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:48:41.272013+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/dumpling-restaurant/2032832519-homemade-dumpling",
+        "title": "Homemade Dumpling in New York, NY 10002 - 212-529...",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://homemade-dumpling.wheree.com/",
+        "title": "HOMEMADE DUMPLING - Reviews, Photos & Phone Number (2026) - Chinese Restaurant in New York, New York (NY) - Wheree",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://mymenuweb.com/us/restaurants/1542990/",
+        "title": "Homemade Dumpling New York",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://usarestaurants.info/explore/united-states/new-york/new-york-county/30254-homemade-dumpling.htm",
+        "title": "Homemade Dumpling | 27 Essex St A, New York, NY 10002, USA",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ny.eater.com/venue/69997/homemade-dumpling",
+        "title": "Homemade Dumpling | Eater NY",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "\"Homemade Dumpling\"  New York,  NY 10002 contact email",
+        "provider": "DuckDuckGo browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/homemade-dumpling-new-york",
+          "https://www.chamberofcommerce.com/business-directory/new-york/new-york/dumpling-restaurant/2032832519-homemade-dumpling",
+          "https://homemade-dumpling.wheree.com/",
+          "https://mymenuweb.com/us/restaurants/1542990/",
+          "https://usarestaurants.info/explore/united-states/new-york/new-york-county/30254-homemade-dumpling.htm",
+          "https://ny.eater.com/venue/69997/homemade-dumpling",
+          "https://restaurantedroop.com/restaurants-near-me/homemade-dumpling",
+          "https://www.checkle.com/biz/homemade-dumpling-new-york",
+          "https://www.mapquest.com/us/new-york/homemade-dumpling-437147928"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [
+      {
+        "kind": "form",
+        "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/dumpling-restaurant/2032832519-homemade-dumpling",
+        "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
+      }
+    ],
+    "social_profiles": []
   }
 }

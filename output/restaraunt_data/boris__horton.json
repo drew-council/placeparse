@@ -571,5 +571,56 @@
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:07:27.100734+00:00",
     "browser_outcome": "not_found_on_rendered_pages"
+  },
+  "text_contact_discovery": {
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.borisandhorton.com/",
+        "purpose": "general inquiry",
+        "evidence": {
+          "title": "Boris and Horton | Join Our Pack Today",
+          "labels": [
+            "First Name\n(required)",
+            "Last Name\n(required)",
+            "Email\n(required)",
+            "Message\n(required)",
+            "",
+            "SEND"
+          ],
+          "message_field_visible": true
+        },
+        "checked_at": "2026-10-04T20:21:50.897729+00:00",
+        "submission_tested": false,
+        "business_match_confirmed": true,
+        "source_type": "restaurant_website"
+      }
+    ],
+    "checked_at": "2026-10-04T20:21:50.897806+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://www.borisandhorton.com/",
+        "title": "Boris and Horton | Join Our Pack Today",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.facebook.com/borisandhorton/",
+        "source": "https://www.borisandhorton.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      },
+      {
+        "url": "https://www.instagram.com/borisandhorton/",
+        "source": "https://www.borisandhorton.com/",
+        "messaging_verified": false,
+        "requires_login": true
+      }
+    ]
   }
 }

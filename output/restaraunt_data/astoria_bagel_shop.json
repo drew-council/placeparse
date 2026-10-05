@@ -39,5 +39,61 @@
     "sources": {},
     "pages": [],
     "contact_forms": []
+  },
+  "text_contact_discovery": {
+    "channels": [],
+    "checked_at": "2026-10-04T20:06:10.209960+00:00",
+    "method": "agent-browser rendered sites and public search results; no submissions or messages",
+    "pages": [
+      {
+        "url": "https://astoriabagelshopanddeliastoria.cafecityguide.website/",
+        "title": "Astoria Bagel Shop & Deli - 28-12 Ditmars Blvd, Astoria - Full Menu and Reviews",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://ashleysbagelblog.wordpress.com/tag/astoria-bagels/",
+        "title": "Astoria bagels – ashley's bagel blog",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://www.boxncase.com/community/chefs/astoria-bagel-shop",
+        "title": "ASTORIA BAGEL SHOP — Bagels/Pretzels in Queens, NY | ChefNetwork by BoxNCase",
+        "status": "browser_ok"
+      },
+      {
+        "url": "https://astoria-bagel-shop.wheree.com/",
+        "title": "ASTORIA BAGEL SHOP - Reviews, Photos & Phone Number (2026) - Specialty Food Store in Queens, New York (NY) - Wheree",
+        "status": "browser_ok"
+      }
+    ],
+    "searches": [
+      {
+        "query": "Astoria Bagel Shop  Astoria,  NY 11105 contact email",
+        "provider": "Google browser",
+        "blocked": false,
+        "result_urls": [
+          "https://www.yelp.com/biz/astoria-bagel-shop-and-deli-astoria",
+          "https://www.tripadvisor.com/Restaurant_Review-g29837-d5975401-Reviews-Astoria_Bagel_Shop-Astoria_Queens_New_York.html",
+          "https://astoriabagelshopanddeliastoria.cafecityguide.website/",
+          "https://ashleysbagelblog.wordpress.com/tag/astoria-bagels/",
+          "https://www.boxncase.com/community/chefs/astoria-bagel-shop",
+          "https://astoria-bagel-shop.wheree.com/",
+          "https://culinarybackstreets.com/stories/queens/round-and-round",
+          "https://brooklynbread.com/location-hours/",
+          "https://www.instagram.com/astoriabakerycafe/?hl=en"
+        ]
+      }
+    ],
+    "errors": [],
+    "rejected_contacts": [],
+    "social_profiles": [
+      {
+        "url": "https://www.instagram.com/astoriabakerycafe/?hl=en",
+        "source": "public_search_result",
+        "messaging_verified": false,
+        "requires_login": true,
+        "search_provider": "Google browser"
+      }
+    ]
   }
 }
