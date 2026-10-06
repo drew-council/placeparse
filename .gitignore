@@ -5,3 +5,6 @@ __pycache__/
 .direnv/
 .env
 .env.*
+
+# Personal Gmail setup, sent-message IDs, and restaurant correspondence
+/private-outreach/
