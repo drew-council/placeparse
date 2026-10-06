@@ -419,6 +419,47 @@
         "requires_login": true,
         "search_provider": "DuckDuckGo browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "rays_candy_store.json",
+      "name": "Ray's Candy Store",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "(search frontends already challenged/degraded in this session; relied on packet lead URLs and the Linktree link graph)",
+          "provider": "direct navigation of prior lead URLs",
+          "note": "No fresh provider queries to avoid violating the two-frontend stop rule"
+        }
+      ],
+      "inspected_urls": [
+        "http://www.rayscandystore.com/ (redirects to https://linktr.ee/RaysCandyStore)",
+        "https://linktr.ee/RaysCandyStore",
+        "https://www.facebook.com/RaysCandyStoreNYC/ (login wall)"
+      ],
+      "errors": [
+        "facebook.com page redirects to login wall without account; About-section email check not possible",
+        "manhattan-nyc.com previously behind verify-human security check (prior packet), not revisited",
+        "robot_excluded_urls under linktr.ee respected — not visited"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Facebook Page About (RaysCandyStoreNYC) is login-gated; About tab may publish an email — parent-tab check possible",
+        "Google business profile via g.page/rayscandystore (linked from Linktree) — Maps shows no email field historically",
+        "Delivery-app listings (UberEats/Grubhub/DoorDash linked from Linktree) contain no staff email by platform design"
+      ],
+      "effort_notes": "Saved website www.rayscandystore.com now resolves to a Linktree profile. Full Linktree link graph enumerated (amNY article, photographer shop, FOX5 video, GoFundMe, UberEats/Grubhub/DoorDash, g.page, Yelp, TripAdvisor, cafepress, rookiesguide, Wikipedia) — no mailto, no email text, no general contact form anywhere on the profile. Tripadvisor 'Email' row in the parent snippet is the 'Improve this listing' widget, not an address. Not found in checked sources.",
+      "prior_context": "chamberofcommerce form previously rejected — consistent.",
+      "worker_claimed_checked_at": "2026-10-05T06:58:20Z",
+      "batch_completed_at": "2026-10-05T06:59:29.442618+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.531974+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-15",
+      "artifact_sha256": "2823dc4cb0abec228d7f3debd15e3c3f6fcee75bf12c734f76f78b7da179ea94",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Saved website www.rayscandystore.com now resolves to a Linktree profile. Full Linktree link graph enumerated (amNY article, photographer shop, FOX5 video, GoFundMe, UberEats/Grubhub/DoorDash, g.page, Yelp, TripAdvisor, cafepress, rookiesguide, Wikipedia) — no mailto, no email text, no general contact form anywhere on the profile. Tripadvisor 'Email' row in the parent snippet is the 'Improve this listing' widget, not an address. Not found in checked sources."
+    }
   }
 }

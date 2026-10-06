@@ -68,7 +68,29 @@
     "browser_outcome": "not_found_on_rendered_pages"
   },
   "text_contact_discovery": {
-    "channels": [],
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.hanisnyc.com/say-hi",
+        "purpose": "general inquiry",
+        "business_match_confirmed": true,
+        "business_match_evidence": "Official site hanisnyc.com states 'Hani's is a New York City bakery and café from chef Miro Uskokovic. LOCATION 67 COOPER SQUARE NEW YORK, NY 10003' - exact address match to saved record 67 Cooper Sq, New York, NY 10003; page is part of the same official site (nav links PREORDER/GIFT CARDS/MENU/ABOUT all on hanisnyc.com)",
+        "field_evidence": [
+          "First Name\n(required)",
+          "Last Name\n(required)",
+          "Email\n(required)",
+          "Sign up for news and updates",
+          "Subject\n(required)",
+          "Message\n(required)",
+          "message-yui_f12ee144-6826-454b-a0ac-59c4991cebe0-field",
+          "email",
+          "g-recaptcha-response"
+        ],
+        "notes": "Parent independently confirmed actual message field and public general-inquiry wording. Not submitted/delivery tested.",
+        "checked_at": "2026-10-05T08:25:23.499905+00:00",
+        "submission_tested": false
+      }
+    ],
     "checked_at": "2026-10-04T20:10:30.058506+00:00",
     "method": "agent-browser rendered sites and public search results; no submissions or messages",
     "pages": [
@@ -181,6 +203,55 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "hanis_bakery__caf.json",
+      "name": "Hani’s bakery + café",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://www.hanisnyc.com/say-hi",
+          "business_match": "Official site hanisnyc.com states 'Hani's is a New York City bakery and café from chef Miro Uskokovic. LOCATION 67 COOPER SQUARE NEW YORK, NY 10003' - exact address match to saved record 67 Cooper Sq, New York, NY 10003; page is part of the same official site (nav links PREORDER/GIFT CARDS/MENU/ABOUT all on hanisnyc.com)",
+          "fields": "Free-text form with labeled fields: First Name (required), Last Name (required), Email (required), Subject (required), Message (required), plus Submit button and optional 'Sign up for news and updates' checkbox",
+          "purpose": "general_inquiry",
+          "purpose_quote": "come say hi ... get in touch ... A haiku about Hani’s, ideas, suggestions, requests for special orders, or inquiries about joining our team - you can do all this and more via the form.",
+          "general_vs_restricted": "general (ideas, suggestions, special orders, and team inquiries explicitly invited; not newsletter/order/booking-only)",
+          "submission_tested": false,
+          "notes": "This page previously failed to load in the prior sweep (browser_load error); successfully loaded and inspected this run. No mailto or published email appears anywhere on the site pages checked (/, /say-hi, /story, /team)."
+        }
+      ],
+      "queries": [
+        {
+          "query": "parent-lead cache: \"Hani’s bakery + café\" email contact 67 Cooper Sq, New York, NY 10003, USA (DuckDuckGo, 2026-10-05T06:00:06Z)",
+          "provider": "parent-search-leads file (no re-query)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.hanisnyc.com/",
+        "https://www.hanisnyc.com/say-hi",
+        "https://www.hanisnyc.com/story",
+        "https://www.hanisnyc.com/team",
+        "https://www.hanisnyc.com/about"
+      ],
+      "errors": [
+        "https://www.hanisnyc.com/about - redirected to /story; no separate about page content"
+      ],
+      "outcome": "general_form_found_no_email",
+      "remaining_avenues": [
+        "No published email was found on any checked page of the official site; if the bakery later publishes one (e.g., for press or preorders), /say-hi and the site footer would be the likely locations.",
+        "Instagram bio (@hanisbakerynyc) is a plausible place for a published email but was not inspectable (search frontends degraded; Instagram public profiles typically login-walled)."
+      ],
+      "effort_notes": "Resolving the prior sweep's load error on /say-hi was the key deeper step: the page hosts the bakery's general 'get in touch' form (visible free-text Message field), recorded here as form fallback evidence with submission_tested:false. Also swept /, /story, /team and /about for mailto links and email strings - none published. No emails withheld.",
+      "worker_claimed_checked_at": "2026-10-05T06:14:00Z",
+      "batch_completed_at": "2026-10-05T06:21:42.248735+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.500266+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-07",
+      "artifact_sha256": "210847c8c12f7b094f6798ae347524295820591594d76b1d876f2848b7f0fcc4",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Resolving the prior sweep's load error on /say-hi was the key deeper step: the page hosts the bakery's general 'get in touch' form (visible free-text Message field), recorded here as form fallback evidence with submission_tested:false. Also swept /, /story, /team and /about for mailto links and email strings - none published. No emails withheld."
+    }
   }
 }

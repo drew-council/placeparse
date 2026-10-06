@@ -513,6 +513,59 @@
         "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "969_nyc_coffee.json",
+      "name": "969 NYC Coffee",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"969 NYC Coffee\" Jackson Heights email OR contact OR \"@\"",
+          "provider": "DuckDuckGo browser (own session)"
+        },
+        {
+          "query": "\"969 NYC Coffee\" \"Jackson Heights\" email OR \"@gmail\" OR \"@969nyccoffee\"",
+          "provider": "Google browser (own session)"
+        },
+        {
+          "query": "\"969 NYC Coffee\" email contact 3761 80th St, Jackson Heights, NY 11372, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent-provided leads file)"
+        }
+      ],
+      "inspected_urls": [
+        "https://969nyccoffee.shop/",
+        "https://joe.coffee/locations/ny/jackson-heights/969-nyc-coffee-jackson-heights/",
+        "https://maps.google.com/?cid=8045822350553533969",
+        "https://www.checkle.com/biz/969-nyc-coffee-jackson-heights",
+        "https://local.yahoo.com/info-204537027-969-nyc-coffee-jackson-heights/",
+        "https://usa.worldplaces.me/coffee-shops-in-jackson-heights/57597058-969-nyc-coffee.html"
+      ],
+      "errors": [
+        "https://969nyccoffee.shop/ is now a ParkLogic parked domain ('Redirecting...' page, no restaurant content) - the saved website no longer serves the business.",
+        "DuckDuckGo returned a bot CAPTCHA ('Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck') on first query.",
+        "Google redirected to google.com/sorry CAPTCHA on first query; per contract stopped cycling providers after two challenged frontends.",
+        "https://www.checkle.com/biz/969-nyc-coffee-jackson-heights served 'Vercel Security Checkpoint' challenge.",
+        "https://usa.worldplaces.me/... returned 403 Forbidden."
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "The business's Google Maps listing is unclaimed ('Claim this business' shown); owner-claim or updated listing could add a contact.",
+        "Restaurant's Instagram/Yelp 'From the business' sections if a handle can be observed from a legitimate source (not guessed).",
+        "buzzfile.com profile (prior search result) was not opened this run; it typically exposes owner/executive data of limited business-purpose reliability.",
+        "Parent search leads list menu-world.com and a chamberofcommerce.com page; both returned Cloudflare challenges this session."
+      ],
+      "effort_notes": "Deeper attempt beyond prior one-query sweep: confirmed the saved website domain is now parked (explains prior browser_load_error), checked the joe.coffee ordering platform page (only joe.coffee platform staff emails help@/brenden@/david@joe.coffee and platform partner/signup forms - not restaurant contacts), Google Maps public listing (no email, unclaimed), and two more directory pages. Both search frontends challenged; used parent-provided search leads instead. No restaurant-specific email published in any checked source.",
+      "worker_claimed_checked_at": "2026-10-05T05:51:51Z",
+      "batch_completed_at": "2026-10-05T05:52:42.594255+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.446957+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-01",
+      "artifact_sha256": "fb1a9d8a8677829bf12161aebdaf9b2e2cad3a9256e7480e18f13f2e23edf770",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Deeper attempt beyond prior one-query sweep: confirmed the saved website domain is now parked (explains prior browser_load_error), checked the joe.coffee ordering platform page (only joe.coffee platform staff emails help@/brenden@/david@joe.coffee and platform partner/signup forms - not restaurant contacts), Google Maps public listing (no email, unclaimed), and two more directory pages. Both search frontends challenged; used parent-provided search leads instead. No restaurant-specific email published in any checked source."
+    }
   }
 }

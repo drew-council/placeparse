@@ -475,7 +475,26 @@
     "contact_forms": []
   },
   "text_contact_discovery": {
-    "channels": [],
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://dimsumpalace.com/contact-7/",
+        "purpose": "general inquiry",
+        "business_match_confirmed": true,
+        "business_match_evidence": "Official site contact page titled 'Dim Sum Palace Chinatown | 27 Division St, New York'; page text 'Contact 27 DIVISION STREET NEW YORK, NY T. 212-587-4277' — exact address and phone match to saved business",
+        "field_evidence": [
+          "YOUR NAME\n",
+          "YOUR EMAIL\n",
+          "SUBJECT\n",
+          "YOUR MESSAGE (OPTIONAL)\n",
+          "g-recaptcha-response",
+          "submit"
+        ],
+        "notes": "Parent independently confirmed actual message field and public general-inquiry wording. Not submitted/delivery tested.",
+        "checked_at": "2026-10-05T08:25:23.502453+00:00",
+        "submission_tested": false
+      }
+    ],
     "checked_at": "2026-10-04T20:46:03.582590+00:00",
     "method": "agent-browser rendered sites and public search results; no submissions or messages",
     "pages": [
@@ -516,6 +535,52 @@
     ],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "dim_sum_palace.json",
+      "name": "Dim Sum Palace",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://dimsumpalace.com/contact-7/",
+          "matching_business_evidence": "Official site contact page titled 'Dim Sum Palace Chinatown | 27 Division St, New York'; page text 'Contact 27 DIVISION STREET NEW YORK, NY T. 212-587-4277' — exact address and phone match to saved business",
+          "visible_fields": "YOUR NAME, YOUR EMAIL, SUBJECT, YOUR MESSAGE (OPTIONAL), submit (Contact Form 7 #wpcf7-f7-p5122-o1 with reCAPTCHA)",
+          "general_vs_restricted": "general ('Get in touch' message form for the Chinatown branch; separate from the reservation widget)",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Dim Sum Palace\" email contact 27 Division St, New York, NY 10002, USA (parent search-leads)",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab"
+        }
+      ],
+      "inspected_urls": [
+        "https://dimsumpalace.com/contact-7/",
+        "https://dimsumpalace.com/robots.txt",
+        "https://www.facebook.com/people/Dim-Sum-Palace-%E9%87%91%E6%BB%A1%E5%BA%AD/100085697166559/"
+      ],
+      "errors": [
+        "DuckDuckGo served a 'Select all squares' bot challenge on the follow-up email query.",
+        "Google search returned /sorry/index 'unusual traffic' challenge; stopped live search cycling per contract."
+      ],
+      "outcome": "not_found_in_checked_sources",
+      "remaining_avenues": [
+        "No email is published on the official site (checked current contact page, full-page HTML regex), its Facebook page intro, or any parent-lead directory page; the branch-level contact form is the primary text route.",
+        "Other branch contact pages (contact-9 etc.) follow the same no-email pattern; a brand-wide press/catering email is unlikely to be branch-specific.",
+        "Ask the parent if a targeted Bing/Yandex search for a site-wide email is desired."
+      ],
+      "effort_notes": "Current robots.txt for dimsumpalace.com disallows only wp-admin/upload paths; the prior root-level robot_excluded_urls entry no longer reflects robots.txt, but the homepage itself was not revisited beyond the contact page. Official Facebook page (located via the findglocal-documented page ID) publishes no email. 5 command groups used.",
+      "worker_claimed_checked_at": "2026-10-05T06:07:00Z",
+      "batch_completed_at": "2026-10-05T06:11:43.786915+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.491038+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-05",
+      "artifact_sha256": "64c31ccfb3906e276150604955f2eb251bddd9135580e1b195197e3a37732574",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Current robots.txt for dimsumpalace.com disallows only wp-admin/upload paths; the prior root-level robot_excluded_urls entry no longer reflects robots.txt, but the homepage itself was not revisited beyond the contact page. Official Facebook page (located via the findglocal-documented page ID) publishes no email. 5 command groups used."
+    }
   }
 }

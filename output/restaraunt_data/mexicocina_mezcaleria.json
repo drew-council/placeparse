@@ -560,8 +560,12 @@
   "business_status_checked_at": "2026-10-03T20:05:39.013605+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:24.757257+00:00",
-    "outcome": "contact_form_only",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "mexicocinabny@gmail.com": [
+        "https://www.getsauce.com/order/site/mexicocina-mezcaleria/"
+      ]
+    },
     "pages": [
       {
         "url": "https://mexicocinanyc.com/",
@@ -609,7 +613,37 @@
       "https://mexicocinanyc.com/join-a-growing-team-with-a-love-for-food/"
     ],
     "browser_checked_at": "2026-10-03T22:10:13.400196+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "mexicocinabny@gmail.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "mexicocinabny@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://www.getsauce.com/order/site/mexicocina-mezcaleria/",
+            "quote": "503 Jackson Ave, Bronx, NY 10455 (347) 498-1055 mexicocinabny@gmail.com Mon-Thu: 9AM-11PM Fri-Sat: 9AM-12AM Sun: 9AM-11PM",
+            "identity_evidence": [
+              {
+                "url": "https://mexicocinanyc.com/",
+                "quote": "CLOSED 9:00 AM - 11:00 PM 503 Jackson Ave, Bronx, NY 10455 ORDER ONLINE CATERING MENU RESERVATIONS WE'RE HIRING"
+              },
+              {
+                "url": "https://mexicocinanyc.com/join-a-growing-team-with-a-love-for-food/",
+                "quote": "Join a growing team with a love for food Why work with us? We are always hiring A players who work hard, love helping others, and do great work."
+              }
+            ],
+            "source_type": "official_restaurant_ordering_site",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent confirmed advertised mailbox/mailto on ordinary ordering-site home Contact block and sitewide footer beside saved 503 Jackson Ave and (347)498-1055. Not hiring-only; corroborated on homepage rather than merely hiring page.",
+            "notes": "Published as a literal mailto link (mailto:mexicocinabny@gmail.com) on the restaurant's official ordering platform matching saved address and phone. Publication verified in isolated browser session; inbox delivery not tested.",
+            "checked_at": "2026-10-05T08:21:32.565050+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Published as a literal mailto link (mailto:mexicocinabny@gmail.com) on the restaurant's official ordering platform matching saved address and phone. Publication verified in isolated browser session; inbox delivery not tested. Parent confirmed advertised mailbox/mailto on ordinary ordering-site home Contact block and sitewide footer beside saved 503 Jackson Ave and (347)498-1055. Not hiring-only; corroborated on homepage rather than merely hiring page."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [
@@ -645,6 +679,73 @@
     "searches": [],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "mexicocina_mezcaleria.json",
+      "name": "Mexicocina Mezcaleria",
+      "emails": [
+        {
+          "email": "mexicocinabny@gmail.com",
+          "url": "https://www.getsauce.com/order/site/mexicocina-mezcaleria/",
+          "quote": "503 Jackson Ave, Bronx, NY 10455 (347) 498-1055 mexicocinabny@gmail.com Mon-Thu: 9AM-11PM Fri-Sat: 9AM-12AM Sun: 9AM-11PM",
+          "source_type": "official_restaurant_ordering_site",
+          "purpose": "General business contact email displayed site-wide in the restaurant's official getsauce ordering-site footer (appears on all pages of that site, not restricted to hiring)",
+          "business_match": "Footer address 503 Jackson Ave, Bronx, NY 10455 and phone (347) 498-1055 exactly match the saved Google business listing; getsauce site title is 'Mexicocina Mezcaleria'; identical hiring copy ('Join a growing team with a love for food') is embedded on the saved official site mexicocinanyc.com, confirming the same business operates the getsauce site.",
+          "identity_evidence": [
+            {
+              "url": "https://mexicocinanyc.com/",
+              "quote": "CLOSED 9:00 AM - 11:00 PM 503 Jackson Ave, Bronx, NY 10455 ORDER ONLINE CATERING MENU RESERVATIONS WE'RE HIRING"
+            },
+            {
+              "url": "https://mexicocinanyc.com/join-a-growing-team-with-a-love-for-food/",
+              "quote": "Join a growing team with a love for food Why work with us? We are always hiring A players who work hard, love helping others, and do great work."
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Published as a literal mailto link (mailto:mexicocinabny@gmail.com) on the restaurant's official ordering platform matching saved address and phone. Publication verified in isolated browser session; inbox delivery not tested.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent confirmed advertised mailbox/mailto on ordinary ordering-site home Contact block and sitewide footer beside saved 503 Jackson Ave and (347)498-1055. Not hiring-only; corroborated on homepage rather than merely hiring page.",
+            "source_url": "https://www.getsauce.com/order/site/mexicocina-mezcaleria/"
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://mexicocinanyc.com/contact-us/",
+          "business_match": "Official site mexicocinanyc.com for Mexicocina Mezcaleria; header shows 503 Jackson Ave, Bronx, NY 10455.",
+          "fields": "Your Name (required), Your Email (required), Your Message (free-text textarea)",
+          "general_or_restricted": "General ('Please complete the form below and we'll get back to you as soon as we can.')",
+          "submission_tested": false
+        }
+      ],
+      "queries": [],
+      "inspected_urls": [
+        "https://mexicocinanyc.com/contact-us/",
+        "https://mexicocinanyc.com/",
+        "https://mexicocinanyc.com/join-a-growing-team-with-a-love-for-food/",
+        "https://www.getsauce.com/order/site/mexicocina-mezcaleria/were-hiring/"
+      ],
+      "errors": [],
+      "outcome": "email_found",
+      "remaining_avenues": [
+        "No further avenues needed; general form remains as fallback."
+      ],
+      "effort_notes": "Followed parent search-lead to the restaurant's getsauce ordering site (found via parent's fresh public search results), extracted the published mailto and footer business identity, then independently verified identity linkage against the saved official site mexicocinanyc.com.",
+      "worker_claimed_checked_at": "2026-10-05T08:06:54Z",
+      "batch_completed_at": "2026-10-05T08:07:37.471630+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.565050+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-25",
+      "artifact_sha256": "792c5dda39f67d31a1f49c69ad2da90acf618feb5048a05abd438dec33fa3c92",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "mexicocinabny@gmail.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

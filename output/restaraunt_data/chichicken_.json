@@ -132,6 +132,46 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "chichicken_.json",
+      "name": "ChiChicken 吃鸡",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "ChiChicken 吃鸡 Long Island City, NY 11101 contact email",
+          "provider": "Google browser (prior sweep)"
+        }
+      ],
+      "inspected_urls": [
+        "https://web.archive.org/web/20250426100412/https://www.chichicken.food/contact-us/",
+        "https://order.mealkeyway.com/merchant/6651434b632f6f30445a6f6b59656a4b666d4b7169413d3d/main",
+        "https://www.instagram.com/nychichicken/"
+      ],
+      "errors": [
+        "https://www.chichicken.food/contact-us/ (and homepage): CDP Page.navigate timeouts on 4 attempts across ~3 minutes — site unreachable during this run (it loaded in the prior sweep).",
+        "https://www.instagram.com/nychichicken/ shows a full login wall (no public intro content, no email).",
+        "Archived contact page (Wayback 2025-04-26) contains only business hours, phone 718-988-7788, and address 42-59 Hunter St — no email, no rendered form."
+      ],
+      "outcome": "not_found_in_checked_sources",
+      "remaining_avenues": [
+        "Retry https://www.chichicken.food/contact-us/ when the site recovers — the prior sweep reached it three times; it may contain a contact form with a hidden/JS-published address.",
+        "The official online-order site is order.mealkeyway.com/merchant/6651434b632f6f30445a6f6b59656a4b666d4b7169413d3d (verified live, shows 42-59 Hunter St address matching saved business) — no email on its main page; deeper store-info panels could be checked.",
+        "Phone (718) 988-7788 remains the only verified channel.",
+        "Menusifu (site platform, per archived footer 'Powered by Menusifu') may expose a store contact route."
+      ],
+      "effort_notes": "~8 browser command groups (including a hung-session restart with close of only my own session). Depth attempts: Wayback archive of the official contact page, the official mealkeyway ordering site discovered from the archived page's observed links, and the Instagram bio (login-walled). No candidate email surfaced from any source.",
+      "worker_claimed_checked_at": "2026-10-05T05:55:00Z",
+      "batch_completed_at": "2026-10-05T05:54:15.783326+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.484879+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-03",
+      "artifact_sha256": "7ea29bb6d9a8d43f5cf1c18d5242c0651789326c70094b613244ec482ab8951d",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. ~8 browser command groups (including a hung-session restart with close of only my own session). Depth attempts: Wayback archive of the official contact page, the official mealkeyway ordering site discovered from the archived page's observed links, and the Instagram bio (login-walled). No candidate email surfaced from any source."
+    }
   }
 }

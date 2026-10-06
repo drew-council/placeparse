@@ -545,6 +545,55 @@
         "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "nenes_taqueria.json",
+      "name": "Nenes Taqueria",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Nenes Taqueria\" email contact 660 Degraw St, Brooklyn, NY 11217, USA",
+          "provider": "parent-search-leads (DuckDuckGo, pre-retrieved)"
+        },
+        {
+          "query": "\"Nenes Taqueria\" Brooklyn official website instagram contact",
+          "provider": "DuckDuckGo browser (BLOCKED - CAPTCHA 'select all squares containing a duck')"
+        },
+        {
+          "query": "\"Nene's Taqueria\" Brooklyn contact OR \"gmail.com\" OR instagram",
+          "provider": "Google browser (BLOCKED - /sorry/ unusual-traffic CAPTCHA)"
+        }
+      ],
+      "inspected_urls": [
+        "https://nenestaqueria.com/",
+        "https://ny.eater.com/venue/91990/nenes-taqueria",
+        "https://instagram.com/nenestaqueria",
+        "https://whereyoueat.com/Nenes-Taqueria-27314.html",
+        "https://cititour.com/NYC_Restaurants/Nenes-Taqueria/19615"
+      ],
+      "errors": [
+        "https://nenestaqueria.com/ - domain is PARKED/FOR SALE ('This domain name may be for sale ... © 2026 ParkLogic.com'); the saved official website no longer serves the restaurant",
+        "https://instagram.com/nenestaqueria - Instagram login wall (observed link from Eater NY venue page); bio not retrievable without login, which is prohibited",
+        "https://cititour.com/NYC_Restaurants/Nenes-Taqueria/19615 - Cloudflare 'Just a moment...' challenge"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Instagram bio of @nenestaqueria (officially linked from Eater NY) may publish a contact email but requires a logged-in/parent-authorized tab",
+        "Grubhub delivery page for Nenes Taqueria may carry an operator contact but Grubhub pages typically publish none",
+        "Watch whether the restaurant relaunches a non-parked domain"
+      ],
+      "effort_notes": "Major finding: the saved official website nenestaqueria.com is now a parked/for-sale domain, so no official email can come from it. Checked the Eater venue page (observed Instagram link, login-walled), whereyoueat (no email), cititour (Cloudflare). Both DuckDuckGo and Google search frontends served CAPTCHAs this run; per contract, stopped cycling providers. ~7 browser command groups.",
+      "worker_claimed_checked_at": "2026-10-05T06:58:00Z",
+      "batch_completed_at": "2026-10-05T06:54:00.676755+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.523170+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-13",
+      "artifact_sha256": "3287de346653c8e79fa618db4f0511c88e5e175262631811cb56a758280447df",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Major finding: the saved official website nenestaqueria.com is now a parked/for-sale domain, so no official email can come from it. Checked the Eater venue page (observed Instagram link, login-walled), whereyoueat (no email), cititour (Cloudflare). Both DuckDuckGo and Google search frontends served CAPTCHAs this run; per contract, stopped cycling providers. ~7 browser command groups."
+    }
   }
 }

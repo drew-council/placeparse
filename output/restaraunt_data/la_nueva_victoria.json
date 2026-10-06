@@ -525,6 +525,43 @@
         "requires_login": true,
         "search_provider": "DuckDuckGo browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "la_nueva_victoria.json",
+      "name": "La Nueva Victoria",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"La Nueva Victoria\" \"2536 Broadway\" email contact",
+          "provider": "Bing browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.facebook.com/LaNuevaVictoriaRestaurant/",
+        "https://www.facebook.com/LaNuevaVictoriaRestaurant/about/",
+        "https://www.theonlineyp.com/business/detail?id=NE0413-14-1598115-001"
+      ],
+      "errors": [
+        "Bing returned degraded unrelated results (matched only 'LA' -> Los Angeles pages) for the targeted query; DDG was already CAPTCHA-challenged in this batch, so provider cycling stopped per contract."
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "Official public Facebook page (page + About/'Contact and basic info' inspected) publishes only address '2536 Broadway ... 10025' and phone (212) 865-1810; no email field.",
+        "theonlineyp.com advertises an email field but lists none for this business (phone only).",
+        "No official website exists (website: null). Remaining avenues: Google Maps public business details Q&A, Seamless/Grubhub order channels, or a parent-side targeted search quoting the address."
+      ],
+      "effort_notes": "Checked the business's own public Facebook profile and full About/contact-info section live, plus one directory lead advertising an email; one search attempt degraded. No email published in checked sources.",
+      "worker_claimed_checked_at": "2026-10-05T06:38:59Z",
+      "batch_completed_at": "2026-10-05T06:40:05.926079+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.511482+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-10",
+      "artifact_sha256": "1f7345e076c0c9bcd51b81f469a73373564f9634df130ec08785025944ebe3fb",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Checked the business's own public Facebook profile and full About/contact-info section live, plus one directory lead advertising an email; one search attempt degraded. No email published in checked sources."
+    }
   }
 }

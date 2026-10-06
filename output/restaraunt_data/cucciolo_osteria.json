@@ -455,13 +455,18 @@
   "emails": [
     "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
     "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
-    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com"
+    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+    "info@cucciolodurham.com"
   ],
   "business_status_checked_at": "2026-10-03T20:04:59.560477+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:27.004940+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "info@cucciolodurham.com": [
+        "https://www.facebook.com/CuccioloDurham/"
+      ]
+    },
     "pages": [
       {
         "url": "https://cucciolonc.com/",
@@ -516,12 +521,50 @@
     ],
     "browser_checked_at": "2026-10-03T22:08:31.418614+00:00",
     "browser_outcome": "not_found_on_rendered_pages",
-    "candidate_sources": {
+    "candidate_sources": {},
+    "candidate_resolution_history": [
+      {
+        "email": "info@cucciolodurham.com",
+        "original_candidate": {
+          "urls": [
+            "https://www.bizarchive.com/business/cucciolo-osteria-durham-984-243-8744"
+          ],
+          "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+        },
+        "resolved_at": "2026-10-05T06:42:47.487808+00:00",
+        "decision": "primary_publication_verified",
+        "primary_source": "https://www.facebook.com/CuccioloDurham/",
+        "reason": "Parent independently verified literal public business-contact publication. Facebook intro lists the exact saved address '601 W Main St. Suite C, Durham, NC' and exact saved phone '(984) 243-8744'; page name 'Cucciolo Osteria Durham' and website link 'cucciolodurham.com' match the saved website domain Address on the restaurant's own domain (cucciolonc.com osteria footer) confirms the business identity; the email is on the same domain as the saved website (cucciolodurham.com). Same address was previously shown by the third-party bizarchive lead, now corroborated by the restaurant's own Facebook page. Publication does not prove inbox delivery; recommend initial contact avoid sensitive data until confirmed."
+      }
+    ],
+    "role_overrides": {
+      "info@cucciolodurham.com": "general/unspecified"
+    },
+    "publication_evidence": {
       "info@cucciolodurham.com": {
-        "urls": [
-          "https://www.bizarchive.com/business/cucciolo-osteria-durham-984-243-8744"
+        "evidence": [
+          {
+            "url": "https://www.facebook.com/CuccioloDurham/",
+            "quote": "Page · Italian Restaurant\n601 W Main St. Suite C, Durham, NC, United States, North Carolina\n(984) 243-8744\ninfo@cucciolodurham.com\ncucciolodurham.com",
+            "identity_evidence": [
+              {
+                "url": "https://www.facebook.com/CuccioloDurham/",
+                "quote": "Cucciolo Osteria Durham ... Page · Italian Restaurant\n601 W Main St. Suite C, Durham, NC, United States, North Carolina\n(984) 243-8744\ninfo@cucciolodurham.com\ncucciolodurham.com"
+              },
+              {
+                "url": "https://cucciolonc.com/osteria/",
+                "quote": "984-243-8744\n\nCucciolo Osteria\n601 W Main St. Suite C\nDurham, NC, 27701"
+              }
+            ],
+            "source_type": "official business Facebook page (public intro/about section, no login)",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently verified literal public business-contact publication. Facebook intro lists the exact saved address '601 W Main St. Suite C, Durham, NC' and exact saved phone '(984) 243-8744'; page name 'Cucciolo Osteria Durham' and website link 'cucciolodurham.com' match the saved website domain Address on the restaurant's own domain (cucciolonc.com osteria footer) confirms the business identity; the email is on the same domain as the saved website (cucciolodurham.com). Same address was previously shown by the third-party bizarchive lead, now corroborated by the restaurant's own Facebook page. Publication does not prove inbox delivery; recommend initial contact avoid sensitive data until confirmed.",
+            "notes": "Address on the restaurant's own domain (cucciolonc.com osteria footer) confirms the business identity; the email is on the same domain as the saved website (cucciolodurham.com). Same address was previously shown by the third-party bizarchive lead, now corroborated by the restaurant's own Facebook page. Publication does not prove inbox delivery; recommend initial contact avoid sensitive data until confirmed.",
+            "checked_at": "2026-10-05T06:42:47.487808+00:00",
+            "delivery_tested": false
+          }
         ],
-        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+        "note": "Address on the restaurant's own domain (cucciolonc.com osteria footer) confirms the business identity; the email is on the same domain as the saved website (cucciolodurham.com). Same address was previously shown by the third-party bizarchive lead, now corroborated by the restaurant's own Facebook page. Publication does not prove inbox delivery; recommend initial contact avoid sensitive data until confirmed. Parent independently verified literal public business-contact publication. Facebook intro lists the exact saved address '601 W Main St. Suite C, Durham, NC' and exact saved phone '(984) 243-8744'; page name 'Cucciolo Osteria Durham' and website link 'cucciolodurham.com' match the saved website domain Address on the restaurant's own domain (cucciolonc.com osteria footer) confirms the business identity; the email is on the same domain as the saved website (cucciolodurham.com). Same address was previously shown by the third-party bizarchive lead, now corroborated by the restaurant's own Facebook page. Publication does not prove inbox delivery; recommend initial contact avoid sensitive data until confirmed."
       }
     }
   },
@@ -597,6 +640,80 @@
         "\"info@cucciolodurham.com\" Cucciolo Osteria Durham"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "cucciolo_osteria.json",
+      "name": "Cucciolo Osteria Durham",
+      "emails": [
+        {
+          "email": "info@cucciolodurham.com",
+          "url": "https://www.facebook.com/CuccioloDurham/",
+          "quote": "Page · Italian Restaurant\n601 W Main St. Suite C, Durham, NC, United States, North Carolina\n(984) 243-8744\ninfo@cucciolodurham.com\ncucciolodurham.com",
+          "source_type": "official business Facebook page (public intro/about section, no login)",
+          "purpose": "general customer inquiry address published on the restaurant's own page intro",
+          "business_match": "Facebook intro lists the exact saved address '601 W Main St. Suite C, Durham, NC' and exact saved phone '(984) 243-8744'; page name 'Cucciolo Osteria Durham' and website link 'cucciolodurham.com' match the saved website domain",
+          "identity_evidence": [
+            {
+              "url": "https://www.facebook.com/CuccioloDurham/",
+              "quote": "Cucciolo Osteria Durham ... Page · Italian Restaurant\n601 W Main St. Suite C, Durham, NC, United States, North Carolina\n(984) 243-8744\ninfo@cucciolodurham.com\ncucciolodurham.com"
+            },
+            {
+              "url": "https://cucciolonc.com/osteria/",
+              "quote": "984-243-8744\n\nCucciolo Osteria\n601 W Main St. Suite C\nDurham, NC, 27701"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Address on the restaurant's own domain (cucciolonc.com osteria footer) confirms the business identity; the email is on the same domain as the saved website (cucciolodurham.com). Same address was previously shown by the third-party bizarchive lead, now corroborated by the restaurant's own Facebook page. Publication does not prove inbox delivery; recommend initial contact avoid sensitive data until confirmed.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently verified literal public business-contact publication. Facebook intro lists the exact saved address '601 W Main St. Suite C, Durham, NC' and exact saved phone '(984) 243-8744'; page name 'Cucciolo Osteria Durham' and website link 'cucciolodurham.com' match the saved website domain Address on the restaurant's own domain (cucciolonc.com osteria footer) confirms the business identity; the email is on the same domain as the saved website (cucciolodurham.com). Same address was previously shown by the third-party bizarchive lead, now corroborated by the restaurant's own Facebook page. Publication does not prove inbox delivery; recommend initial contact avoid sensitive data until confirmed."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://cucciolonc.com/osteria/contact/",
+          "matching_business_evidence": "Footer on the same page: 'Cucciolo Osteria 601 W Main St. Suite C, Durham, NC, 27701' and phone '984-243-8744' — exact match to saved business",
+          "visible_fields": "Name (Required), Email (Required), Phone, Message (textarea), Submit",
+          "general_vs_restricted": "general ('Want to learn more? Let's talk. Send us a message and we will get in touch.')",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Cucciolo Osteria\" Durham info@cucciolodurham.com OR email",
+          "provider": "DuckDuckGo browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://cucciolonc.com/osteria/",
+        "https://cucciolonc.com/osteria/contact/",
+        "https://cucciolonc.com/",
+        "https://cucciolonc.com/famiglia/contact/",
+        "https://www.facebook.com/CuccioloDurham/"
+      ],
+      "errors": [
+        "DuckDuckGo returned a human-verification challenge ('Select all squares containing a duck') for the follow-up search; abandoned live search cycling."
+      ],
+      "outcome": "source_backed_email_found",
+      "remaining_avenues": [
+        "Confirm inbox delivery during first parent-side outreach; email not yet message-verified."
+      ],
+      "effort_notes": "Official site (cucciolonc.com osteria section, incl. contact and famiglia contact pages) publishes no email; sibling-location pages checked. Facebook page intro yielded the published address with exact matching address/phone. One DDG search challenged; stopped per contract. ~6 command groups used.",
+      "worker_claimed_checked_at": "2026-10-05T06:07:00Z",
+      "batch_completed_at": "2026-10-05T06:11:43.786915+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.488776+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-05",
+      "artifact_sha256": "64c31ccfb3906e276150604955f2eb251bddd9135580e1b195197e3a37732574",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "info@cucciolodurham.com"
+      ],
+      "no_general_email_reason": ""
     }
   }
 }

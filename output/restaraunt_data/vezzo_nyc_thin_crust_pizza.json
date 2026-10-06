@@ -556,11 +556,17 @@
   "website": "https://www.nycthincrust.com/location/vezzo-thin-crust/",
   "wheelchair_accessible_entrance": true,
   "business_status_checked_at": "2026-10-03T20:06:23.179645+00:00",
-  "emails": [],
+  "emails": [
+    "support@nycthincrust.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:50:21.917869+00:00",
-    "outcome": "contact_form_only",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "support@nycthincrust.com": [
+        "https://www.nycthincrust.com/privacy-policy"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.nycthincrust.com/location/vezzo-thin-crust/",
@@ -599,7 +605,37 @@
       "https://www.nycthincrust.com/about/"
     ],
     "browser_checked_at": "2026-10-03T22:12:32.144723+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "support@nycthincrust.com": "privacy/legal"
+    },
+    "publication_evidence": {
+      "support@nycthincrust.com": {
+        "evidence": [
+          {
+            "url": "https://www.nycthincrust.com/privacy-policy",
+            "quote": "Depending on your state and jurisdiction in which you reside, and subject to certain exceptions, exemptions, and restrictions, you or your authorized agent may exercise these rights by contacting us at support@nycthincrust.com ... by submitting a request at support@nycthincrust.com (appears 6 times, including: 'You can opt-out of marketing email communications by clicking on the \"unsubscribe\" link ... or by submitting a request at support@nycthincrust.com')",
+            "identity_evidence": [
+              {
+                "url": "https://www.nycthincrust.com/about/",
+                "quote": "Antonio Gomez founded Gruppo Thin Crust Pizza with friend and business partner Jonathan Tweedy in 1999. ... Posto, Vezzo, Spunto, Tappo, Brado and Trovo are now all under the umbrella of the Tweedy Gomez Group, Inc."
+              },
+              {
+                "url": "https://www.nycthincrust.com/location/vezzo-thin-crust/",
+                "quote": "Vezzo | NYC Thin Crust Pizza ... 178 Lexington Avenue, [NY 10016]"
+              }
+            ],
+            "source_type": "official_website_privacy_policy",
+            "purpose": "privacy/legal",
+            "parent_reason": "Parent confirmed repeated literal privacy/data/marketing request mailtos on official operator-group policy covering Vezzo. Only privacy/legal purpose supported; support local-part does not establish general inquiries.",
+            "notes": "Real published support address on the brand family's own website (privacy/legal + support purposes), covering Vezzo. It is brand-level (Gruppo/Posto/Vezzo/Spun family), not Vezzo-branch-specific, and no branch-specific email for Vezzo was found. The location page and contact form carry no published email (form only).",
+            "checked_at": "2026-10-05T08:21:32.569898+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Real published support address on the brand family's own website (privacy/legal + support purposes), covering Vezzo. It is brand-level (Gruppo/Posto/Vezzo/Spun family), not Vezzo-branch-specific, and no branch-specific email for Vezzo was found. The location page and contact form carry no published email (form only). Parent confirmed repeated literal privacy/data/marketing request mailtos on official operator-group policy covering Vezzo. Only privacy/legal purpose supported; support local-part does not establish general inquiries."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [
@@ -651,6 +687,81 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "vezzo_nyc_thin_crust_pizza.json",
+      "name": "Vezzo NYC Thin Crust Pizza",
+      "emails": [
+        {
+          "email": "support@nycthincrust.com",
+          "url": "https://www.nycthincrust.com/privacy-policy",
+          "quote": "Depending on your state and jurisdiction in which you reside, and subject to certain exceptions, exemptions, and restrictions, you or your authorized agent may exercise these rights by contacting us at support@nycthincrust.com ... by submitting a request at support@nycthincrust.com (appears 6 times, including: 'You can opt-out of marketing email communications by clicking on the \"unsubscribe\" link ... or by submitting a request at support@nycthincrust.com')",
+          "source_type": "official_website_privacy_policy",
+          "purpose": "guest support / privacy & data inquiries / marketing-communication requests (legal/privacy page purpose) — published as the group's customer support mailbox",
+          "business_match": "Vezzo is served by this exact website: the saved Vezzo website is https://www.nycthincrust.com/location/vezzo-thin-crust/, and the site's About page states 'Posto, Vezzo, Spunto, Tappo, Brado and Trovo are now all under the umbrella of the Tweedy Gomez Group, Inc.' The privacy policy is the brand-family site's own policy covering Vezzo guests. The contact form at nycthincrust.com/contact/ includes 'Vezzo' as a location choice, confirming the same site operates Vezzo's contact channel.",
+          "identity_evidence": [
+            {
+              "url": "https://www.nycthincrust.com/about/",
+              "quote": "Antonio Gomez founded Gruppo Thin Crust Pizza with friend and business partner Jonathan Tweedy in 1999. ... Posto, Vezzo, Spunto, Tappo, Brado and Trovo are now all under the umbrella of the Tweedy Gomez Group, Inc."
+            },
+            {
+              "url": "https://www.nycthincrust.com/location/vezzo-thin-crust/",
+              "quote": "Vezzo | NYC Thin Crust Pizza ... 178 Lexington Avenue, [NY 10016]"
+            }
+          ],
+          "confidence": "medium-high",
+          "decision": "source_backed",
+          "notes": "Real published support address on the brand family's own website (privacy/legal + support purposes), covering Vezzo. It is brand-level (Gruppo/Posto/Vezzo/Spun family), not Vezzo-branch-specific, and no branch-specific email for Vezzo was found. The location page and contact form carry no published email (form only).",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "privacy/legal",
+            "reason": "Parent confirmed repeated literal privacy/data/marketing request mailtos on official operator-group policy covering Vezzo. Only privacy/legal purpose supported; support local-part does not establish general inquiries."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://www.nycthincrust.com/contact/",
+          "matching_business_evidence": "Official NYC Thin Crust Pizza (Tweedy Gomez Group) contact form whose topic/location select includes 'Vezzo'; saved Vezzo website is a page on this same domain.",
+          "visible_fields": "Name - Required, Email - Required, Phone Number - Required, 'What are you getting in touch about?' (location select: Gruppo | Posto | Vezzo | Spun), free-text message area (17 inputs)",
+          "general_vs_restricted": "general ('Send us a message and we'll get back to you as soon as possible') with Vezzo selectable",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Vezzo NYC Thin Crust Pizza\" email contact 178 Lexington Ave, New York, NY 10016, USA",
+          "provider": "DuckDuckGo (parent-authorized tab, via parent-search-leads file)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.nycthincrust.com/contact/",
+        "https://www.nycthincrust.com/location/vezzo-thin-crust/",
+        "https://www.nycthincrust.com/",
+        "https://www.nycthincrust.com/about/",
+        "https://www.nycthincrust.com/privacy-policy"
+      ],
+      "errors": [
+        "https://www.nycthincrust.com/about-us/ returned 'Page Not Found' (correct path is /about/)."
+      ],
+      "outcome": "published_email_found",
+      "remaining_avenues": [
+        "Seek a Vezzo-branch-specific address (none published on the group site); reservations platform (Resy/OpenTable) pages were not inspected for emails.",
+        "Tweedy Gomez Group corporate contact routes beyond this site were not found in checked sources."
+      ],
+      "effort_notes": "Swept contact page, Vezzo location page, homepage, About, and Privacy Policy; email found in privacy policy (6 occurrences, support/privacy purposes). Identity chain (same domain as saved Vezzo website + About page naming Vezzo in the family) documented. ~6 command groups used.",
+      "worker_claimed_checked_at": "2026-10-05T08:13:32Z",
+      "batch_completed_at": "2026-10-05T08:14:34.636570+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.569898+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-26",
+      "artifact_sha256": "7fc18ab250a6f5d4bf02cbd351386f52ae1f7219124f5bee5f9bbca03d45e79c",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "support@nycthincrust.com"
+      ],
+      "no_general_email_reason": "Only limited-purpose published email(s); no accepted general-inquiry email in checked sources."
+    }
   }
 }

@@ -140,6 +140,56 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "mahmouds_corner_halal_food_cart.json",
+      "name": "Mahmoud's Corner Halal Food Cart",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Mahmoud's Corner\" halal Astoria email contact",
+          "provider": "parent DuckDuckGo (depth11-targeted-searches.json)"
+        },
+        {
+          "query": "\"mahmouds34thavecorner\" OR \"34halalfood\" email",
+          "provider": "parent DuckDuckGo (depth11-targeted-searches.json, zero results)"
+        },
+        {
+          "query": "\"Mahmoud's Corner Halal Food Cart\" email contact 34th Ave at, Steinway St, Astoria, NY 11103, USA",
+          "provider": "parent DuckDuckGo (email-depth-11-parent-search-leads.json)"
+        }
+      ],
+      "inspected_urls": [
+        "http://mahmouds34thavecorner.weebly.com/",
+        "http://mahmouds34thavecorner.weebly.com/about.html",
+        "http://mahmouds34thavecorner.weebly.com/location.html",
+        "https://web.archive.org/web/20230206025645/https://mahmouds34thavecorner.weebly.com/",
+        "https://www.facebook.com/34halalfood/about",
+        "http://4sq.com/9c2GUq (redirected to Foursquare login)",
+        "https://ummahx.org/p/mahmoud-s-corner-halal-food-cart",
+        "https://www.webpagedepot.com/mahmouds-corner-halal-food-cart--astoria-6601/contact-us"
+      ],
+      "errors": [
+        "Foursquare venue link from the official Facebook page redirected to a login wall; not bypassed.",
+        "DuckDuckGo/Bing unavailable in this session (CAPTCHA/degradation)."
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "The official Facebook About page (facebook.com/34halalfood/about) confirms address 'Corner of 34th Ave and Steinway, New York, NY, United States, 11103' and phone (917) 295-2281 but publishes no email and links only 4sq.com.",
+        "Phone/SMS or the street-vendor project channels are the practical routes; no further public email sources observed."
+      ],
+      "effort_notes": "~5 command groups. All four weebly pages (home, menu, about, location) plus a 2023 Wayback snapshot crawled for mailto/data-cfemail — none. Parent-targeted directories (webpagedepot, ummahx) inspected; phone-only.",
+      "worker_claimed_checked_at": "2026-10-05T06:37:59Z",
+      "batch_completed_at": "2026-10-05T06:38:39.698611+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.514583+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-11",
+      "artifact_sha256": "f36c0b8087551d0a36ceb7cbbfacee76232d63607cefe8bfb18bdb96ea205cf1",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. ~5 command groups. All four weebly pages (home, menu, about, location) plus a 2023 Wayback snapshot crawled for mailto/data-cfemail — none. Parent-targeted directories (webpagedepot, ummahx) inspected; phone-only."
+    }
   }
 }

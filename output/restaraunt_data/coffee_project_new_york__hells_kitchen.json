@@ -544,11 +544,21 @@
   "website": "http://www.coffeeprojectny.com/",
   "wheelchair_accessible_entrance": true,
   "business_status_checked_at": "2026-10-03T20:04:57.844230+00:00",
-  "emails": [],
+  "emails": [
+    "contact@coffeeprojectny.com",
+    "class@coffeeprojectny.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:25.496380+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "contact@coffeeprojectny.com": [
+        "https://coffeeprojectny.com/accessibility-statement/"
+      ],
+      "class@coffeeprojectny.com": [
+        "https://coffeeprojectny.com/about/faq/"
+      ]
+    },
     "pages": [
       {
         "url": "http://www.coffeeprojectny.com/",
@@ -556,7 +566,59 @@
         "emails": []
       }
     ],
-    "contact_forms": []
+    "contact_forms": [],
+    "role_overrides": {
+      "contact@coffeeprojectny.com": "website accessibility",
+      "class@coffeeprojectny.com": "classes/education"
+    },
+    "publication_evidence": {
+      "contact@coffeeprojectny.com": {
+        "evidence": [
+          {
+            "url": "https://coffeeprojectny.com/accessibility-statement/",
+            "quote": "Need assistance or want to report an issue?\\n\\nWe welcome feedback about accessibility. If you have trouble using any part of our websites, or if you encounter a barrier to access, please contact us:\\n\\nEmail: contact@coffeeprojectny.com",
+            "identity_evidence": [
+              {
+                "url": "https://coffeeprojectny.com/contact/",
+                "quote": "Contact Our Company | Coffee Project NY ... LOCATIONS ABOUT CLASSES SHOP CORPORATE EVENTS WHOLESALE CONTACT US"
+              },
+              {
+                "url": "https://coffeeprojectny.com/cafe-locations/",
+                "quote": "cafe-locations page linked from the contact page with Manhattan/Brooklyn/Queens anchors covering the Hell's Kitchen cafe"
+              }
+            ],
+            "source_type": "official_website_accessibility_statement",
+            "purpose": "website accessibility",
+            "parent_reason": "Parent confirmed live official accessibility statement explicitly asks for website barrier/assistive-technology details. Website-accessibility route only, NOT general despite contact local-part.",
+            "notes": "Company-level address, not branch-specific. Accessibility statement uses it as the 'contact us' route; likely doubles as the general inbox but parent should weigh the accessibility-only framing. The contact page itself is form-only with no address.",
+            "checked_at": "2026-10-05T08:21:32.560383+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Company-level address, not branch-specific. Accessibility statement uses it as the 'contact us' route; likely doubles as the general inbox but parent should weigh the accessibility-only framing. The contact page itself is form-only with no address. Parent confirmed live official accessibility statement explicitly asks for website barrier/assistive-technology details. Website-accessibility route only, NOT general despite contact local-part."
+      },
+      "class@coffeeprojectny.com": {
+        "evidence": [
+          {
+            "url": "https://coffeeprojectny.com/about/faq/",
+            "quote": "Please notify us via email as soon as possible. You can reach out to us at class@coffeeprojectny.com. (mailto link: mailto:class@coffeeprojectny.com, labeled \"class@coffeeprojectny.com\")",
+            "identity_evidence": [
+              {
+                "url": "https://coffeeprojectny.com/about/faq/",
+                "quote": "CANCELLATION POLICY ... While we don't offer refunds for classes, we will accommodate changes based on when you reach out to us and how much advance notice is given"
+              }
+            ],
+            "source_type": "official_website_faq",
+            "purpose": "classes/education",
+            "parent_reason": "Parent confirmed official FAQ literal mailtos; class/cancellation/rescheduling only. Brand-level route, not a branch-specific cafe/general contact.",
+            "notes": "Restricted-purpose address for class/cancellation matters; included because it is a real published mailbox, but not a substitute for general customer inquiries.",
+            "checked_at": "2026-10-05T08:21:32.560383+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Restricted-purpose address for class/cancellation matters; included because it is a real published mailbox, but not a substitute for general customer inquiries. Parent confirmed official FAQ literal mailtos; class/cancellation/rescheduling only. Brand-level route, not a branch-specific cafe/general contact."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [
@@ -624,6 +686,100 @@
         "requires_login": true,
         "search_provider": "DuckDuckGo browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "coffee_project_new_york__hells_kitchen.json",
+      "name": "Coffee Project New York | Hell's Kitchen",
+      "emails": [
+        {
+          "email": "contact@coffeeprojectny.com",
+          "url": "https://coffeeprojectny.com/accessibility-statement/",
+          "quote": "Need assistance or want to report an issue?\\n\\nWe welcome feedback about accessibility. If you have trouble using any part of our websites, or if you encounter a barrier to access, please contact us:\\n\\nEmail: contact@coffeeprojectny.com",
+          "source_type": "official_website_accessibility_statement",
+          "purpose": "company/general feedback contact (published as a general 'please contact us' route; stated in accessibility-feedback context, not labeled as a general customer-service inbox)",
+          "business_match": "Published on the official Coffee Project New York website (coffeeprojectny.com), the brand operating the Hell's Kitchen location at 401 W 53rd St; the contact page and footer carry the same brand identity across all NYC locations including Hell's Kitchen.",
+          "identity_evidence": [
+            {
+              "url": "https://coffeeprojectny.com/contact/",
+              "quote": "Contact Our Company | Coffee Project NY ... LOCATIONS ABOUT CLASSES SHOP CORPORATE EVENTS WHOLESALE CONTACT US"
+            },
+            {
+              "url": "https://coffeeprojectny.com/cafe-locations/",
+              "quote": "cafe-locations page linked from the contact page with Manhattan/Brooklyn/Queens anchors covering the Hell's Kitchen cafe"
+            }
+          ],
+          "confidence": 0.7,
+          "decision": "source_backed",
+          "notes": "Company-level address, not branch-specific. Accessibility statement uses it as the 'contact us' route; likely doubles as the general inbox but parent should weigh the accessibility-only framing. The contact page itself is form-only with no address.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "website accessibility",
+            "reason": "Parent confirmed live official accessibility statement explicitly asks for website barrier/assistive-technology details. Website-accessibility route only, NOT general despite contact local-part."
+          }
+        },
+        {
+          "email": "class@coffeeprojectny.com",
+          "url": "https://coffeeprojectny.com/about/faq/",
+          "quote": "Please notify us via email as soon as possible. You can reach out to us at class@coffeeprojectny.com. (mailto link: mailto:class@coffeeprojectny.com, labeled \"class@coffeeprojectny.com\")",
+          "source_type": "official_website_faq",
+          "purpose": "class scheduling/rescheduling/cancellation inquiries only (restricted purpose; not a general customer-inquiry inbox)",
+          "business_match": "Published on the official Coffee Project New York FAQ page; company-level (all branches' classes), brand covers the Hell's Kitchen cafe.",
+          "identity_evidence": [
+            {
+              "url": "https://coffeeprojectny.com/about/faq/",
+              "quote": "CANCELLATION POLICY ... While we don't offer refunds for classes, we will accommodate changes based on when you reach out to us and how much advance notice is given"
+            }
+          ],
+          "confidence": 0.85,
+          "decision": "source_backed",
+          "notes": "Restricted-purpose address for class/cancellation matters; included because it is a real published mailbox, but not a substitute for general customer inquiries.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "classes/education",
+            "reason": "Parent confirmed official FAQ literal mailtos; class/cancellation/rescheduling only. Brand-level route, not a branch-specific cafe/general contact."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://coffeeprojectny.com/contact/",
+          "business_match": "Official Coffee Project NY contact page ('Contact Our Company | Coffee Project NY') for the brand operating the Hell's Kitchen cafe at 401 W 53rd St.",
+          "fields": "Your Name (required), Your Email (required), Subject (dropdown: General Inquiry / Classes / Shopping / Subscriptions / Press), Your Message (required), newsletter opt-in checkbox",
+          "general_vs_restricted": "general (default subject is 'General Inquiry')",
+          "visible_free_text_field": "Your Message (textarea, required)",
+          "submission_tested": false
+        }
+      ],
+      "queries": [],
+      "inspected_urls": [
+        "https://coffeeprojectny.com/contact/",
+        "https://coffeeprojectny.com/about/careers/",
+        "https://coffeeprojectny.com/about/faq/",
+        "https://coffeeprojectny.com/wholesale-consulting/",
+        "https://coffeeprojectny.com/privacy-policy-2/",
+        "https://coffeeprojectny.com/accessibility-statement/",
+        "https://coffeeprojectny.com/terms-and-conditions/"
+      ],
+      "errors": [],
+      "outcome": "emails_found_restricted_plus_general_candidate",
+      "remaining_avenues": [
+        "Ask parent to retrieve via a non-degraded search: '\"Coffee Project New York\" \"coffeeprojectny.com\" email' to see if a general info/press address is published elsewhere (e.g., press page).",
+        "Inspect press category page (https://coffeeprojectny.com/category/press/) for a press email."
+      ],
+      "effort_notes": "Note: http://www.coffeeprojectny.com/ is robot_excluded and was not revisited; all inspections used https://coffeeprojectny.com/ pages discovered via on-site links from /contact/. Contact, careers, FAQ, wholesale, privacy, accessibility, and terms pages all inspected in this session. Parent search-leads for this restaurant contained no email-bearing sources.",
+      "worker_claimed_checked_at": "2026-10-05T07:58:27Z",
+      "batch_completed_at": "2026-10-05T07:59:29.456113+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.560383+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-24",
+      "artifact_sha256": "ef42be3a0d0ce7515dd2a3210746c8c6de94e946843b3136c149678413c12863",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "contact@coffeeprojectny.com",
+        "class@coffeeprojectny.com"
+      ],
+      "no_general_email_reason": "Only limited-purpose published email(s); no accepted general-inquiry email in checked sources."
+    }
   }
 }

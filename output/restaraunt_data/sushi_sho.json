@@ -486,6 +486,40 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "sushi_sho.json",
+      "name": "Sushi Sho",
+      "emails": [],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://www.sushi-sho.com/reservations (DIFFERENT business - El Cerrito, CA)",
+        "https://www.sushi-sho.com/ (DIFFERENT business - El Cerrito, CA)",
+        "https://www.exploretock.com/sushi-sho-nyc/faq/ (Cloudflare challenge)",
+        "https://www.reddit.com/r/finedining/comments/1szbogu/sushi_sho_reservation_far_in_advance_emailcall/ (network-security block)"
+      ],
+      "errors": [
+        "exploretock.com/sushi-sho-nyc/faq/ returned a Cloudflare 'Just a moment...' challenge; not bypassed (root exploretock.com/sushi-sho-nyc is robot-excluded from a prior sweep and was not visited)",
+        "reddit.com thread returned 'You've been blocked by network security'; not bypassed"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Tock FAQ page (https://www.exploretock.com/sushi-sho-nyc/faq/) when Cloudflare permits; Tock venue pages occasionally list host contact details",
+        "Phone (646) 863-2023 remains the only published direct channel",
+        "A parent-supplied live search for the exact NYC Sushi Sho (e.g., 'Sushi Sho NYC' ' Nakazawa email') if another search frontend is available"
+      ],
+      "effort_notes": "Important negative finding: https://www.sushi-sho.com/ is Sushi Sho in El Cerrito, CA (owner Aki Kawata, 10749 San Pablo, (510) 525-1800) and must NOT be attributed to the NYC Sushi Sho (3 E 41st St, Chef Keiji Nakazawa). The NYC restaurant's official channels are the Tock booking page (robot-excluded root / Cloudflare on FAQ) and Instagram; no published email found in checked sources.",
+      "worker_claimed_checked_at": "2026-10-05T07:12:42Z",
+      "batch_completed_at": "2026-10-05T07:17:51.087573+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.540402+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-18",
+      "artifact_sha256": "16a28371751602f2c7169c43d6552d89c7da323e404aaba1d36e965715a710c9",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Important negative finding: https://www.sushi-sho.com/ is Sushi Sho in El Cerrito, CA (owner Aki Kawata, 10749 San Pablo, (510) 525-1800) and must NOT be attributed to the NYC Sushi Sho (3 E 41st St, Chef Keiji Nakazawa). The NYC restaurant's official channels are the Tock booking page (robot-excluded root / Cloudflare on FAQ) and Instagram; no published email found in checked sources."
+    }
   }
 }

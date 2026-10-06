@@ -32,11 +32,17 @@
   "website": "https://www.ayatnyc.com/location/astoria/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile%20&utm_content=ast",
   "details_checked_at": "2026-10-03T21:59:05.337222+00:00",
   "business_status_checked_at": "2026-10-03T21:59:05.337222+00:00",
-  "emails": [],
+  "emails": [
+    "ayatnyc@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:59:53.833250+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "ayatnyc@gmail.com": [
+        "https://www.ayatnyc.com/privacy-policy/"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.ayatnyc.com/location/astoria/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile%20&utm_content=ast",
@@ -93,7 +99,33 @@
       "https://www.ayatnyc.com/location/dallas/"
     ],
     "browser_checked_at": "2026-10-03T22:07:18.647588+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "ayatnyc@gmail.com": "privacy/legal"
+    },
+    "publication_evidence": {
+      "ayatnyc@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://www.ayatnyc.com/privacy-policy/",
+            "quote": "To request access to or deletion of personal information, please contact us by email at ayatnyc@gmail.com or by mail using the details provided below",
+            "identity_evidence": [
+              {
+                "url": "https://www.ayatnyc.com/contact/",
+                "quote": "What are you getting in touch about? ... Location: Ayat DC, Astoria, Bay Ridge, Bushwick, Dallas, Ditmas Park, East Village, Ayat Hinds Hall, Industry City, Princeton, NJ (Astoria is an official Ayat location on this domain)"
+              }
+            ],
+            "source_type": "official_website_privacy_policy",
+            "purpose": "privacy/legal",
+            "parent_reason": "Parent reinspection confirms publication for access/deletion/CCPA requests. Brand website includes Astoria branch; accept only privacy/legal, not dietary/general.",
+            "notes": "Brand-level published address with a privacy/legal purpose on an official page; no Astoria-branch-specific mailbox was published. General contact form retained as fallback for branch-level contact.",
+            "checked_at": "2026-10-05T08:21:32.555189+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Brand-level published address with a privacy/legal purpose on an official page; no Astoria-branch-specific mailbox was published. General contact form retained as fallback for branch-level contact. Parent reinspection confirms publication for access/deletion/CCPA requests. Brand website includes Astoria branch; accept only privacy/legal, not dietary/general."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [
@@ -146,6 +178,75 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "ayat_astoria.json",
+      "name": "Ayat Astoria",
+      "emails": [
+        {
+          "email": "ayatnyc@gmail.com",
+          "url": "https://www.ayatnyc.com/privacy-policy/",
+          "quote": "To request access to or deletion of personal information, please contact us by email at ayatnyc@gmail.com or by mail using the details provided below",
+          "source_type": "official_website_privacy_policy",
+          "purpose": "privacy/CCPA data-request contact published for 'Ayat' (the brand); legal-purpose address, not visibly branch-specific",
+          "business_match": "Published on the official brand website ayatnyc.com (saved website is https://www.ayatnyc.com/location/astoria/). The contact page's location selector includes 'Astoria' alongside other Ayat branches, confirming Astoria operates under the Ayat brand on this domain. Email appears 6+ times across the privacy policy.",
+          "identity_evidence": [
+            {
+              "url": "https://www.ayatnyc.com/contact/",
+              "quote": "What are you getting in touch about? ... Location: Ayat DC, Astoria, Bay Ridge, Bushwick, Dallas, Ditmas Park, East Village, Ayat Hinds Hall, Industry City, Princeton, NJ (Astoria is an official Ayat location on this domain)"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "source_backed",
+          "notes": "Brand-level published address with a privacy/legal purpose on an official page; no Astoria-branch-specific mailbox was published. General contact form retained as fallback for branch-level contact.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "privacy/legal",
+            "reason": "Parent reinspection confirms publication for access/deletion/CCPA requests. Brand website includes Astoria branch; accept only privacy/legal, not dietary/general."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://www.ayatnyc.com/contact/",
+          "business_match": "Official brand site; 'Location - Required' selector includes 'Astoria' so inquiries route to the Astoria branch, which is the saved business.",
+          "fields": [
+            "Name - Required",
+            "Email - Required",
+            "Phone Number - Required",
+            "Location (select incl. Astoria) - Required",
+            "What are you getting in touch about? (General Inquiry / Press Inquiry)",
+            "Your Message - Required"
+          ],
+          "purpose": "general",
+          "general_vs_restricted": "General inquiry form ('Send us a message and we'll get back to you as soon as possible') with explicit 'General Inquiry' option; reservation widget (location/seats/date/time) is a separate form.",
+          "submission_tested": false
+        }
+      ],
+      "queries": [],
+      "inspected_urls": [
+        "https://www.ayatnyc.com/contact/",
+        "https://www.ayatnyc.com/privacy-policy/",
+        "https://www.ayatnyc.com/press/"
+      ],
+      "errors": [],
+      "outcome": "email_found",
+      "remaining_avenues": [
+        "Astoria-specific or catering mailbox could exist on branch subpages not linked from the footer."
+      ],
+      "effort_notes": "Went beyond the known contact form: inspected privacy policy (found mailto:ayatnyc@gmail.com repeated) and press page; confirmed Astoria as a branded location via the contact form's location selector.",
+      "worker_claimed_checked_at": "2026-10-05T07:52:00Z",
+      "batch_completed_at": "2026-10-05T07:52:36.451106+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.555189+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-22",
+      "artifact_sha256": "a467a93aa7340f94c5b0f762b59bc5fc004bc4f3bcb81cd7a1f2c97ecb23f0d4",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "ayatnyc@gmail.com"
+      ],
+      "no_general_email_reason": "Only limited-purpose published email(s); no accepted general-inquiry email in checked sources."
+    }
   }
 }

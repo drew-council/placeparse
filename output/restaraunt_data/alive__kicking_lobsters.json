@@ -141,6 +141,47 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "alive__kicking_lobsters.json",
+      "name": "Alive & Kicking Lobsters",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "Alive & Kicking Lobsters email contact 269 Putnam Ave, Cambridge, MA 02139, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent-provided leads file)"
+        }
+      ],
+      "inspected_urls": [
+        "https://aliveandkickinglobsters.website/contact",
+        "https://aliveandkickinglobster.com/",
+        "https://lobstermen.com/dealers/alive-and-kicking-lobsters/",
+        "https://cambridgeusa.org/listings/alive-kicking-lobsters/",
+        "https://map.contact/alive-kicking-lobsters"
+      ],
+      "errors": [
+        "https://aliveandkickinglobsters.website/contact contains a malformed anchor href='mailto:269 Putnam Ave, Cambridge, MA 02139' - the mailto wraps the street address, not an email; not repaired or promoted per 'don't silently repair malformed addresses'.",
+        "info@cambridgeusa.org on the Cambridge Office for Tourism listing is the tourism board's own office contact (Harvard Square visitor center hours/phone context), previously rejected; reconfirmed as publisher contact, not restaurant contact.",
+        "https://www.allbiz.com/business/alive-kicking-lobsters-617-876-0451 (parent lead) not inspected directly; same allbiz Cloudflare block encountered this session on the B&B listing."
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "Instagram @aliveandkickinglobsters (linked by Eater Boston) bio could carry an email; Instagram serves a login wall without credentials.",
+        "The live official site aliveandkickinglobster.com is a platform-built page with no contact route besides tel: and Maps directions; an owner-updated listing could add one.",
+        "map.contact/alive-kicking-lobsters directory page has no email."
+      ],
+      "effort_notes": "Re-inspected both domains: the community site (.website) contact page, the live platform-built official site (links only to menu/reviews/directions, no contact), the Massachusetts Lobstermen's Association dealer page, the Cambridge tourism listing (info@cambridgeusa.org reconfirmed as tourism-office contact), and the parent-lead map.contact page. No restaurant-published email in checked sources.",
+      "worker_claimed_checked_at": "2026-10-05T05:51:51Z",
+      "batch_completed_at": "2026-10-05T05:52:42.594255+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.448203+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-01",
+      "artifact_sha256": "fb1a9d8a8677829bf12161aebdaf9b2e2cad3a9256e7480e18f13f2e23edf770",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Re-inspected both domains: the community site (.website) contact page, the live platform-built official site (links only to menu/reviews/directions, no contact), the Massachusetts Lobstermen's Association dealer page, the Cambridge tourism listing (info@cambridgeusa.org reconfirmed as tourism-office contact), and the parent-lead map.contact page. No restaurant-published email in checked sources."
+    }
   }
 }

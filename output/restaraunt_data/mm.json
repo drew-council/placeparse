@@ -471,6 +471,41 @@
         "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "mm.json",
+      "name": "Mắm",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Mắm\" email contact 70 Forsyth St, New York, NY 10002, USA",
+          "provider": "parent-search-leads (DuckDuckGo, pre-retrieved)"
+        }
+      ],
+      "inspected_urls": [
+        "https://resy.com/cities/new-york-ny/venues/mam",
+        "https://maps.google.com/?cid=1195473898074130668"
+      ],
+      "errors": [
+        "https://instagram.com/mam.nyc - redirects to instagram.com login wall without login; bio/contact not retrievable (also robot_excluded for this packet)"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Google Maps public listing confirms NO website and NO phone for Mắm - only instagram.com/mam.nyc and Resy; Instagram bio is the only plausible published-contact location and requires a logged-in or parent-authorized tab",
+        "Resy venue page publishes no restaurant email; internal Resy messaging is not a public email channel"
+      ],
+      "effort_notes": "Resy venue inspected: all outbound links are Instagram/Google Maps/App stores, no mailto. Google Maps limited view confirms restaurant publishes no site/phone. DuckDuckGo and Google search frontends both served CAPTCHAs this run, preventing additional query angles. Social-only is not a success per contract.",
+      "worker_claimed_checked_at": "2026-10-05T06:58:00Z",
+      "batch_completed_at": "2026-10-05T06:54:00.676755+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.521282+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-13",
+      "artifact_sha256": "3287de346653c8e79fa618db4f0511c88e5e175262631811cb56a758280447df",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Resy venue inspected: all outbound links are Instagram/Google Maps/App stores, no mailto. Google Maps limited view confirms restaurant publishes no site/phone. DuckDuckGo and Google search frontends both served CAPTCHAs this run, preventing additional query angles. Social-only is not a success per contract."
+    }
   }
 }

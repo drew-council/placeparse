@@ -526,6 +526,48 @@
         "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "daesung_korean_noodle.json",
+      "name": "Daesung korean Noodle",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Daesung korean Noodle\" email contact 45-04 162nd St, Flushing, NY 11358, USA (parent search-leads)",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent search-leads file)"
+        }
+      ],
+      "inspected_urls": [
+        "https://daesungkoreannoodleflushing.com/contact/",
+        "https://daesungkoreannoodleflushing.com/group-dining/",
+        "https://daesungkoreannoodle.site/",
+        "https://about.me/koreannoodle",
+        "https://daesungkoreannoodle.store/"
+      ],
+      "errors": [
+        "Saved website https://daesungkoreannoodle.site/ redirects to unrelated spam site majorbeautysalon.com ('MIXUE88 : Link Situs Game Online Gacor...') — domain hijacked/parked, not the restaurant.",
+        "https://daesungkoreannoodle.store/ (promoted by about.me/koreannoodle) shows 'This domain is for sale' — parked domain, not the restaurant.",
+        "about.me/koreannoodle profile links out to pinterest/deviantart/vimeo/tumblr accounts — looks like an auto-generated SEO profile; treated with caution, no email published there anyway.",
+        "Contact page copy on daesungkoreannoodleflushing.com says 'use the contact form' but no <form> element is present in the rendered DOM; page is phone-only."
+      ],
+      "outcome": "not_found_in_checked_sources",
+      "remaining_avenues": [
+        "Phone-only inquiry route: tel:+17184600088 (tel:+17184600088 links on daesungkoreannoodleflushing.com); no published text route found.",
+        "Yelp business page 'suggest an edit'/message channel (login required).",
+        "If a Facebook page for the branch is later identified (none observed), its intro may publish an email."
+      ],
+      "effort_notes": "Branch site daesungkoreannoodleflushing.com (matches 45-04 162nd St / 718-460-0088) has no email and no working form. Saved website daesungkoreannoodle.site confirmed hijacked to unrelated spam; daesungkoreannoodle.store is a parked 'domain for sale'. ~5 command groups used.",
+      "worker_claimed_checked_at": "2026-10-05T06:07:00Z",
+      "batch_completed_at": "2026-10-05T06:11:43.786915+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.490016+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-05",
+      "artifact_sha256": "64c31ccfb3906e276150604955f2eb251bddd9135580e1b195197e3a37732574",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Branch site daesungkoreannoodleflushing.com (matches 45-04 162nd St / 718-460-0088) has no email and no working form. Saved website daesungkoreannoodle.site confirmed hijacked to unrelated spam; daesungkoreannoodle.store is a parked 'domain for sale'. ~5 command groups used."
+    }
   }
 }

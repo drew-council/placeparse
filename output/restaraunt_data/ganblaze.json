@@ -31,13 +31,49 @@
   "url": "https://maps.google.com/?cid=14726754554313280565",
   "details_checked_at": "2026-10-03T21:59:20.946645+00:00",
   "business_status_checked_at": "2026-10-03T21:59:20.946645+00:00",
-  "emails": [],
+  "emails": [
+    "byganblaze@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T22:00:06.205663+00:00",
-    "outcome": "no_website",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "byganblaze@gmail.com": [
+        "https://www.facebook.com/p/%E5%B9%B2%E6%9D%AF-GanBlaze-61582891985772/"
+      ]
+    },
     "pages": [],
-    "contact_forms": []
+    "contact_forms": [],
+    "role_overrides": {
+      "byganblaze@gmail.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "byganblaze@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://www.facebook.com/p/%E5%B9%B2%E6%9D%AF-GanBlaze-61582891985772/",
+            "quote": "干杯 GanBlaze ... Page · Barbecue Restaurant · Bar · Restaurant / 37-09 College Point Blvd #FH9&10, Flushing, NY, United States, New York / (929) 520-6667 / byganblaze@gmail.com",
+            "identity_evidence": [
+              {
+                "url": "https://www.facebook.com/p/%E5%B9%B2%E6%9D%AF-GanBlaze-61582891985772/",
+                "quote": "干杯 GanBlaze | Flushing NY ... We are Chinese BBQ restaurant ... 37-09 College Point Blvd #FH9&10, Flushing, NY, United States, New York ... (929) 520-6667"
+              },
+              {
+                "url": "https://retail.tangramnyc.com/store/ganblaze-bbq-house/",
+                "quote": "GANBLAZE BBQ HOUSE ... LEVEL 1 Tangram Food Hall (across from CooCooCachoo) ... For more info: (929) 520-6667"
+              }
+            ],
+            "source_type": "social",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently verified literal public business-contact publication. Exact match to saved record: address '37-09 College Point Blvd #FH9&10, Flushing, NY' matches saved '37-09 College Point Boulevard Space #FH9&10, Flushing, NY 11354'; phone (929) 520-6667 matches saved phone; page title '干杯 GanBlaze | Flushing NY' is the restaurant's official Facebook Page (same page URL was captured in the prior sweep's search results as the brand's social profile) Published by the business itself on its official Facebook Page alongside its exact address and phone; 'byganblaze' is the brand's own published handle-style address. Publication verified live 2026-10-05; inbox delivery/ownership not independently verified. This is the restaurant's own page contact, NOT the Tangram landlord addresses (info@tangramnyc.com / events@tangramnyc.com), which remain correctly rejected.",
+            "notes": "Published by the business itself on its official Facebook Page alongside its exact address and phone; 'byganblaze' is the brand's own published handle-style address. Publication verified live 2026-10-05; inbox delivery/ownership not independently verified. This is the restaurant's own page contact, NOT the Tangram landlord addresses (info@tangramnyc.com / events@tangramnyc.com), which remain correctly rejected.",
+            "checked_at": "2026-10-05T06:42:47.497602+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Published by the business itself on its official Facebook Page alongside its exact address and phone; 'byganblaze' is the brand's own published handle-style address. Publication verified live 2026-10-05; inbox delivery/ownership not independently verified. This is the restaurant's own page contact, NOT the Tangram landlord addresses (info@tangramnyc.com / events@tangramnyc.com), which remain correctly rejected. Parent independently verified literal public business-contact publication. Exact match to saved record: address '37-09 College Point Blvd #FH9&10, Flushing, NY' matches saved '37-09 College Point Boulevard Space #FH9&10, Flushing, NY 11354'; phone (929) 520-6667 matches saved phone; page title '干杯 GanBlaze | Flushing NY' is the restaurant's official Facebook Page (same page URL was captured in the prior sweep's search results as the brand's social profile) Published by the business itself on its official Facebook Page alongside its exact address and phone; 'byganblaze' is the brand's own published handle-style address. Publication verified live 2026-10-05; inbox delivery/ownership not independently verified. This is the restaurant's own page contact, NOT the Tangram landlord addresses (info@tangramnyc.com / events@tangramnyc.com), which remain correctly rejected."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -103,6 +139,70 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "ganblaze.json",
+      "name": "GanBlaze",
+      "emails": [
+        {
+          "email": "byganblaze@gmail.com",
+          "url": "https://www.facebook.com/p/%E5%B9%B2%E6%9D%AF-GanBlaze-61582891985772/",
+          "quote": "干杯 GanBlaze ... Page · Barbecue Restaurant · Bar · Restaurant / 37-09 College Point Blvd #FH9&10, Flushing, NY, United States, New York / (929) 520-6667 / byganblaze@gmail.com",
+          "source_type": "social",
+          "purpose": "General customer contact published in the restaurant's own Facebook Page contact/Intro section (public, no login content used)",
+          "business_match": "Exact match to saved record: address '37-09 College Point Blvd #FH9&10, Flushing, NY' matches saved '37-09 College Point Boulevard Space #FH9&10, Flushing, NY 11354'; phone (929) 520-6667 matches saved phone; page title '干杯 GanBlaze | Flushing NY' is the restaurant's official Facebook Page (same page URL was captured in the prior sweep's search results as the brand's social profile)",
+          "identity_evidence": [
+            {
+              "url": "https://www.facebook.com/p/%E5%B9%B2%E6%9D%AF-GanBlaze-61582891985772/",
+              "quote": "干杯 GanBlaze | Flushing NY ... We are Chinese BBQ restaurant ... 37-09 College Point Blvd #FH9&10, Flushing, NY, United States, New York ... (929) 520-6667"
+            },
+            {
+              "url": "https://retail.tangramnyc.com/store/ganblaze-bbq-house/",
+              "quote": "GANBLAZE BBQ HOUSE ... LEVEL 1 Tangram Food Hall (across from CooCooCachoo) ... For more info: (929) 520-6667"
+            }
+          ],
+          "confidence": "medium-high",
+          "decision": "source_backed",
+          "notes": "Published by the business itself on its official Facebook Page alongside its exact address and phone; 'byganblaze' is the brand's own published handle-style address. Publication verified live 2026-10-05; inbox delivery/ownership not independently verified. This is the restaurant's own page contact, NOT the Tangram landlord addresses (info@tangramnyc.com / events@tangramnyc.com), which remain correctly rejected.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently verified literal public business-contact publication. Exact match to saved record: address '37-09 College Point Blvd #FH9&10, Flushing, NY' matches saved '37-09 College Point Boulevard Space #FH9&10, Flushing, NY 11354'; phone (929) 520-6667 matches saved phone; page title '干杯 GanBlaze | Flushing NY' is the restaurant's official Facebook Page (same page URL was captured in the prior sweep's search results as the brand's social profile) Published by the business itself on its official Facebook Page alongside its exact address and phone; 'byganblaze' is the brand's own published handle-style address. Publication verified live 2026-10-05; inbox delivery/ownership not independently verified. This is the restaurant's own page contact, NOT the Tangram landlord addresses (info@tangramnyc.com / events@tangramnyc.com), which remain correctly rejected."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "parent-lead cache: \"GanBlaze\" email contact 37-09 College Point Boulevard Space #FH9&10, Flushing, NY 11354, USA (DuckDuckGo, 2026-10-05T06:00:00Z, empty result set)",
+          "provider": "parent-search-leads file (no re-query)"
+        }
+      ],
+      "inspected_urls": [
+        "https://retail.tangramnyc.com/store/ganblaze-bbq-house/",
+        "https://www.facebook.com/p/%E5%B9%B2%E6%9D%AF-GanBlaze-61582891985772/",
+        "https://www.instagram.com/gan.blaze/"
+      ],
+      "errors": [
+        "https://www.instagram.com/gan.blaze/ - redirected to Instagram login wall; no public bio content accessible without login (login not attempted per rules)"
+      ],
+      "outcome": "email_found",
+      "remaining_avenues": [
+        "If a stronger primary-source confirmation is wanted: the Tangram Food Hall directory page or GanBlaze's own printed menu could corroborate the address, but no restaurant email beyond the Facebook-published one exists in checked sources."
+      ],
+      "effort_notes": "Prior sweep stopped at the Tangram landlord emails (events@/info@tangramnyc.com), re-verified live as leasing/inquiries contacts of the venue, not the restaurant. Going deeper: inspected the restaurant's own Facebook Page (public Intro/contact section without logging in) and found a genuinely restaurant-specific published email with exact address/phone match. Instagram bio check was login-walled and abandoned.",
+      "worker_claimed_checked_at": "2026-10-05T06:10:00Z",
+      "batch_completed_at": "2026-10-05T06:21:42.248735+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.498820+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-07",
+      "artifact_sha256": "210847c8c12f7b094f6798ae347524295820591594d76b1d876f2848b7f0fcc4",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "byganblaze@gmail.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

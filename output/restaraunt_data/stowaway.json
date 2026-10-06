@@ -111,6 +111,49 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "stowaway.json",
+      "name": "STOWAWAY",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://web.archive.org/web/20241207171759/https://www.stowawaynyc.com/contact/",
+          "matching_business_evidence": "Archived capture (Dec 7, 2024) of the restaurant's own BentoBox site, header '159 Greenpoint Ave, Brooklyn, NY 11222' — exact saved address",
+          "visible_fields": "Name (Required), Email (Required), Phone Number (Required), 'What are you getting in touch about?' (Optional: General Inquiry / Press Inquiry), Your Message (Required), SEND (reCAPTCHA)",
+          "general_vs_restricted": "general inquiry form ('Send us a message and we'll get back to you as soon as possible.')",
+          "submission_tested": false
+        }
+      ],
+      "queries": [],
+      "inspected_urls": [
+        "http://www.stowawaynyc.com/",
+        "https://web.archive.org/web/20250104060814/https://www.stowawaynyc.com/",
+        "https://web.archive.org/web/20241207171759/https://www.stowawaynyc.com/contact/",
+        "https://web.archive.org/web/20250207141114/https://www.stowawaynyc.com/private-events/"
+      ],
+      "errors": [
+        "http(s)://www.stowawaynyc.com/ and https://stowawaynyc.com/: navigation failed with net::ERR_CERT_COMMON_NAME_INVALID; text fetch failed with 'certificate expired: certificate is not valid after 1687737599' (June 2023) — the official live site is currently unreachable",
+        "Instagram (@stowaway.bk) and Facebook bios not inspectable (login walls); no live search this run (both public search frontends bot-challenged earlier; stopped per contract)",
+        "Prior rejection of customerservice@stowaway2.com stands (that is the StowAway luggage company, different business)"
+      ],
+      "outcome": "form_fallback_only",
+      "remaining_avenues": [
+        "Parent targeted search for any published operator email (e.g., 'Stowaway' Greenpoint 159 Greenpoint email events manager)",
+        "Private-events route: the archived /private-events/ page publishes no email, but an events-inquiry email may exist on the live site once its TLS certificate is fixed",
+        "Order-online platform (toasttab) could carry an operator support disclosure"
+      ],
+      "effort_notes": "Official site is down (expired TLS certificate, prior session hit a load error too), so the current contact channel was verified only via a Dec-2024/Feb-2025 web.archive.org captures of the restaurant's own pages: a general-inquiry BentoBox form with the exact saved address; no email published anywhere in the archived contact/private-events pages.",
+      "worker_claimed_checked_at": "2026-10-05T07:16:10Z",
+      "batch_completed_at": "2026-10-05T07:16:56.653953+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.539016+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-17",
+      "artifact_sha256": "f2bbab4f989c9a3e0a6bdd59eab03dd8fcf8cfe693395a8cd42c29df99e4e7f5",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Official site is down (expired TLS certificate, prior session hit a load error too), so the current contact channel was verified only via a Dec-2024/Feb-2025 web.archive.org captures of the restaurant's own pages: a general-inquiry BentoBox form with the exact saved address; no email published anywhere in the archived contact/private-events pages."
+    }
   }
 }

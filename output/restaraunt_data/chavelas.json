@@ -515,11 +515,17 @@
   "website": "http://chavelasnyc.com/",
   "wheelchair_accessible_entrance": true,
   "business_status_checked_at": "2026-10-03T20:04:53.623712+00:00",
-  "emails": [],
+  "emails": [
+    "info@chavelasnyc.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:21.095960+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "info@chavelasnyc.com": [
+        "https://www.facebook.com/ChavelasRestaurantNYC/"
+      ]
+    },
     "pages": [
       {
         "url": "http://chavelasnyc.com/",
@@ -551,12 +557,47 @@
           "https://www.allbiz.com/business/chavelas_7A-718-622-3100"
         ],
         "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
-      },
+      }
+    },
+    "candidate_resolution_history": [
+      {
+        "email": "info@chavelasnyc.com",
+        "original_candidate": {
+          "urls": [
+            "https://www.allbiz.com/business/chavelas_7A-718-622-3100"
+          ],
+          "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+        },
+        "resolved_at": "2026-10-05T06:22:42.092614+00:00",
+        "decision": "primary_publication_verified",
+        "primary_source": "https://www.facebook.com/ChavelasRestaurantNYC/",
+        "reason": "Original child browser tool output (e7141c74 output-0.log line 955) directly captured the business-page contact, matching 736 Franklin Ave, (718) 622-3100 and official chavelasnyc.com domain. Parent repeat visit was login-walled; no bypass. Resolve only this prior candidate, retain d.detoy and all original decisions."
+      }
+    ],
+    "role_overrides": {
+      "info@chavelasnyc.com": "general/unspecified"
+    },
+    "publication_evidence": {
       "info@chavelasnyc.com": {
-        "urls": [
-          "https://www.allbiz.com/business/chavelas_7A-718-622-3100"
+        "evidence": [
+          {
+            "url": "https://www.facebook.com/ChavelasRestaurantNYC/",
+            "quote": "Chavela's - La Cocina Mexicana | ... Page · Mexican Restaurant | 736 Franklin Ave, Brooklyn, NY, United States, New York | (718) 622-3100 | info@chavelasnyc.com | chavelasnyc.com",
+            "identity_evidence": [
+              {
+                "url": "https://chavelasnyc.com/info/",
+                "quote": "736 Franklin Avenue @ Sterling Place in Crown Heights | Brooklyn, NY 11238 ... 718-622-3100 | Copyright © 2026 Chavela's"
+              }
+            ],
+            "source_type": "official_facebook_page_bio",
+            "purpose": "general/unspecified",
+            "parent_reason": "Original child browser tool output (e7141c74 output-0.log line 955) directly captured the business-page contact, matching 736 Franklin Ave, (718) 622-3100 and official chavelasnyc.com domain. Parent repeat visit was login-walled; no bypass. Resolve only this prior candidate, retain d.detoy and all original decisions.",
+            "notes": "Promotes the prior allbiz candidate to source-backed: the same domain-matching address is now confirmed published on the restaurant's OWN Facebook page with exact address/phone match. Primary-source publication verified live this run.",
+            "checked_at": "2026-10-05T06:22:42.092614+00:00",
+            "delivery_tested": false
+          }
         ],
-        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+        "note": "Promotes the prior allbiz candidate to source-backed: the same domain-matching address is now confirmed published on the restaurant's OWN Facebook page with exact address/phone match. Primary-source publication verified live this run. Original child browser tool output (e7141c74 output-0.log line 955) directly captured the business-page contact, matching 736 Franklin Ave, (718) 622-3100 and official chavelasnyc.com domain. Parent repeat visit was login-walled; no bypass. Resolve only this prior candidate, retain d.detoy and all original decisions."
       }
     }
   },
@@ -656,6 +697,88 @@
         "\"d.detoy@chavelasnyc.com\" Chavela's"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "chavelas.json",
+      "name": "Chavela's",
+      "emails": [
+        {
+          "email": "info@chavelasnyc.com",
+          "url": "https://www.facebook.com/ChavelasRestaurantNYC/",
+          "quote": "Chavela's - La Cocina Mexicana | ... Page · Mexican Restaurant | 736 Franklin Ave, Brooklyn, NY, United States, New York | (718) 622-3100 | info@chavelasnyc.com | chavelasnyc.com",
+          "source_type": "official_facebook_page_bio",
+          "purpose": "general info/contact address published in the intro of the restaurant's official Facebook page",
+          "business_match": "Official Facebook page 'Chavela's - La Cocina Mexicana' publishes the exact saved address (736 Franklin Ave, Brooklyn) and exact saved phone (718) 622-3100, followed by info@chavelasnyc.com and the restaurant's own domain chavelasnyc.com — the email uses that same official domain.",
+          "identity_evidence": [
+            {
+              "url": "https://chavelasnyc.com/info/",
+              "quote": "736 Franklin Avenue @ Sterling Place in Crown Heights | Brooklyn, NY 11238 ... 718-622-3100 | Copyright © 2026 Chavela's"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Promotes the prior allbiz candidate to source-backed: the same domain-matching address is now confirmed published on the restaurant's OWN Facebook page with exact address/phone match. Primary-source publication verified live this run.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Original child browser tool output (e7141c74 output-0.log line 955) directly captured the business-page contact, matching 736 Franklin Ave, (718) 622-3100 and official chavelasnyc.com domain. Parent repeat visit was login-walled; no bypass. Resolve only this prior candidate, retain d.detoy and all original decisions."
+          }
+        },
+        {
+          "email": "d.detoy@chavelasnyc.com",
+          "url": "https://www.allbiz.com/business/chavelas_7A-718-622-3100",
+          "quote": "Directory listing (prior sweep) published d.detoy@chavelasnyc.com alongside info@chavelasnyc.com for Chavela's, (718) 622-3100.",
+          "source_type": "third_party_directory",
+          "purpose": "appears to be a named individual (D. DeToy) role address at the restaurant domain; exact role/purpose not verifiable this run",
+          "business_match": "Domain matches the restaurant's official site (chavelasnyc.com) and the listing matched phone (718) 622-3100, but the listing could not be re-verified live this run (Cloudflare block).",
+          "identity_evidence": [],
+          "confidence": "low",
+          "decision": "candidate",
+          "notes": "Remains a candidate only. allbiz.com now blocks with 'Sorry, you have been blocked' (Cloudflare), and datalane.com shows a Cloudflare 'Just a moment...' challenge, so the original publication could not be re-inspected. No primary-source publication found; info@chavelasnyc.com is the preferred address.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Chavela's\" Brooklyn, NY 11238 contact email",
+          "provider": "DuckDuckGo browser (prior sweep)"
+        }
+      ],
+      "inspected_urls": [
+        "https://chavelasnyc.com/info/",
+        "https://chavelasnyc.com/about/",
+        "https://chavelasnyc.com/catering/",
+        "https://www.allbiz.com/business/chavelas_7A-718-622-3100",
+        "https://www.datalane.com/contact/restaurants/chavelas",
+        "https://www.facebook.com/ChavelasRestaurantNYC/"
+      ],
+      "errors": [
+        "https://www.allbiz.com/business/chavelas_7A-718-622-3100: Cloudflare block ('Sorry, you have been blocked').",
+        "https://www.datalane.com/contact/restaurants/chavelas: Cloudflare 'Just a moment...' interstitial; not bypassed.",
+        "No email or mailto published anywhere on chavelasnyc.com (info/, about/, catering/ all checked: 0 emails, 0 mailtos)."
+      ],
+      "outcome": "email_found_official_facebook_bio",
+      "remaining_avenues": [
+        "Re-verify d.detoy@chavelasnyc.com when allbiz/datalane are reachable.",
+        "Official site has no contact form; phone (718) 622-3100 is the secondary route."
+      ],
+      "effort_notes": "~8 browser command groups. Depth gains: swept all official-site subpages for mailto (none), then confirmed info@chavelasnyc.com on the official Facebook bio with exact address/phone — upgrading the prior candidate to source-backed.",
+      "worker_claimed_checked_at": "2026-10-05T05:30:00Z",
+      "batch_completed_at": "2026-10-05T05:54:15.783326+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.483771+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-03",
+      "artifact_sha256": "7ea29bb6d9a8d43f5cf1c18d5242c0651789326c70094b613244ec482ab8951d",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "info@chavelasnyc.com"
+      ],
+      "no_general_email_reason": ""
     }
   }
 }

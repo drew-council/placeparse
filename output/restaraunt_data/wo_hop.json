@@ -582,6 +582,61 @@
         "requires_login": true,
         "search_provider": "DuckDuckGo browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "wo_hop.json",
+      "name": "Wo Hop",
+      "emails": [],
+      "forms": [
+        {
+          "url": "http://www.wohopchinese.com/#contactform",
+          "matching_business_evidence": "Page footer states 'Visit Us: 17 Mott St New York, NY 10013 Call us : (212) 962-8617' matching the saved business (17 Mott St, 212-962-8617); the official Facebook page (facebook.com/people/Wo-Hop/100057256856582) lists wohopchinese.com as the restaurant's website",
+          "visible_fields": [
+            "Name (required, 'Enter name')",
+            "Email (required, 'Enter email')",
+            "Message (required, 'Enter your message')",
+            "Fax (honeypot)",
+            "Submit"
+          ],
+          "general_vs_restricted": "RESTRICTED — the page explicitly says: 'For general comments or questions about catering needs, reservations, ordering, menu items etc., please call Wo Hop directly during business hours. (212) 962-8617. For website related questions, please use the contact form.' The form is therefore website-technical-support only, NOT a general inquiry channel",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Wo Hop\" \"17 Mott\" email (parent-retrieved)",
+          "provider": "DuckDuckGo in parent-authorized pinned tab"
+        },
+        {
+          "query": "\"Wo Hop\" catering email (parent-retrieved)",
+          "provider": "DuckDuckGo in parent-authorized pinned tab"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.wohop17.com/ (official site; CONTACT block is phone-only: 212-962-8617, 212-267-2536; no email, no contact page)",
+        "http://www.wohopchinese.com/ (contact form + restriction quote; ©2026; links to facebook.com/Wo-Hop-33963903738)",
+        "https://www.facebook.com/people/Wo-Hop/100057256856582/ (public intro visible: '17 Mott St... (212) 962-8617 wohopchinese.com'; no email; deeper About/login-walled)",
+        "https://www.findglocal.com/US/New-York/1045628585568817/Wo-Hop (Cloudflare 'Just a moment...', not bypassed)"
+      ],
+      "errors": [
+        "findglocal.com Cloudflare challenge; Instagram/Facebook deeper pages login-walled; not bypassed"
+      ],
+      "outcome": "form_fallback_restricted_purpose_no_email",
+      "remaining_avenues": [
+        "Facebook page 'About'/Contact details tabs (login required) might hold a published email — left unattempted per no-login rule",
+        "wohop15.com (Wo Hop Next Door, sister business under same family) contact page shows phone only; a sibling-brand inquiry route would still be branch-level, not 17 Mott-specific"
+      ],
+      "effort_notes": "Corrected prior framing: wohopchinese.com form exists but is explicitly website-related only per on-page quote (parent finding verified verbatim); official wohop17.com has phone-only contact.",
+      "worker_claimed_checked_at": "2026-10-05T07:44:05Z",
+      "batch_completed_at": "2026-10-05T07:48:19.571010+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.549437+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-20",
+      "artifact_sha256": "2defc17f9a9bca915f7a051661666e86a8ff34a275abec13d318816a1d36390f",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Corrected prior framing: wohopchinese.com form exists but is explicitly website-related only per on-page quote (parent finding verified verbatim); official wohop17.com has phone-only contact."
+    }
   }
 }

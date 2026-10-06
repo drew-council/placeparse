@@ -541,6 +541,44 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "ando_patisserie.json",
+      "name": "ANDO patisserie",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "ANDO patisserie email contact 214 E 10th St, New York, NY 10003, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent-provided leads file)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.andopatisserie-official.com/",
+        "https://www.andopatisserie-official.com/order"
+      ],
+      "errors": [
+        "https://www.andopatisserie-official.com/order ('Contact 3' page) contains only template placeholder data: 'email@example.com', 'user@domain.com', '123 Demo Street New York, NY 12345', '(555) 555-5555' - placeholders, not published real contacts; not repaired or promoted.",
+        "https://www.instagram.com/andopatisserie/ (officially linked from the shop homepage) redirects to Instagram login wall; no public bio content available without credentials.",
+        "thesugar.app/shop/ando-patisserie-al7q2b (parent lead) failed with net::ERR_NAME_NOT_RESOLVED."
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "Instagram bio for @andopatisserie from an authorized/authenticated context (only link route published by the official site).",
+        "The shop homepage shows a WeChat mini-program ordering route (微信小程序点单，搜索 \"ando patisserie\") and a second Brooklyn location (174 Conselyea St) with no contact; second location's listings could differ.",
+        "manta.com and us-info.com listings from parent leads are unclaimed aggregator profiles; us-info shows masked/registration-style data and was not inspected per scope guardrail."
+      ],
+      "effort_notes": "Crawled the official site's link graph: homepage link set is limited to /cart, /shop, product pages, and the Instagram link; the /order 'Contact 3' page is an unfilled template (placeholder email/street/phone). No real email published on the official site; Instagram login-walled. No email found in checked sources.",
+      "worker_claimed_checked_at": "2026-10-05T05:51:51Z",
+      "batch_completed_at": "2026-10-05T05:52:42.594255+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.448653+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-01",
+      "artifact_sha256": "fb1a9d8a8677829bf12161aebdaf9b2e2cad3a9256e7480e18f13f2e23edf770",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Crawled the official site's link graph: homepage link set is limited to /cart, /shop, product pages, and the Instagram link; the /order 'Contact 3' page is an unfilled template (placeholder email/street/phone). No real email published on the official site; Instagram login-walled. No email found in checked sources."
+    }
   }
 }

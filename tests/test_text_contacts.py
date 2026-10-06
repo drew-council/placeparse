@@ -54,6 +54,18 @@ class TextContactTests(unittest.TestCase):
                                 },
                             },
                             "text_contact_discovery": {
+                                "email_investigation": {
+                                    "outcome": "candidate_only",
+                                    "inspected_urls": ["https://directory.com"],
+                                    "queries": [
+                                        {
+                                            "query": name + " email",
+                                            "provider": "browser search",
+                                        }
+                                    ],
+                                    "no_general_email_reason": "Published lead needs ownership confirmation.",
+                                    "remaining_avenues": ["Inspect official menu PDF"],
+                                },
                                 "food_service_evidence": (
                                     {
                                         "url": "https://restaurant.com/menu",
@@ -102,6 +114,24 @@ class TextContactTests(unittest.TestCase):
             )
             self.assertTrue(all(not r["General Inquiry Emails"] for r in rows.values()))
             self.assertFalse(rows["Review form"]["General Contact Forms"])
+            self.assertEqual(
+                rows["Review form"]["Deeper Email Investigation"], "candidate_only"
+            )
+            self.assertIn(
+                "ownership confirmation",
+                rows["Review form"]["Why No General Email Accepted"],
+            )
+            self.assertEqual(
+                rows["Review form"]["Email Investigation Sources"],
+                "https://directory.com",
+            )
+            self.assertEqual(
+                rows["Review form"]["Email Investigation Queries"], "Review form email"
+            )
+            self.assertEqual(
+                rows["Review form"]["Remaining Email Avenues"],
+                "Inspect official menu PDF",
+            )
             self.assertFalse(rows["Booking"]["General Contact Forms"])
             self.assertIn(
                 "reservation request", rows["Booking"]["Limited Purpose Forms"]

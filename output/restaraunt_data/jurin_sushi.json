@@ -108,6 +108,44 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "jurin_sushi.json",
+      "name": "Jurin Sushi",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Jurin Sushi\" New York 10018 email contact jurinsushiny.com gmail",
+          "provider": "DuckDuckGo in parent-authorized Chrome (supervisor-targeted search, jurin-kaki-targeted-searches.json)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.jurinsushiny.com/",
+        "https://www.jurinsushiny.com/jpo49d7s/jurin-sushi-new-york-10018/order-online",
+        "https://mymenuweb.com/us/restaurants/1544867/",
+        "https://restaurantguru.com/Jurin-Sushi-West-New-York"
+      ],
+      "errors": [
+        "https://www.jurinsushiny.com/ and /jpo49d7s/.../order-online persistently return 'Vercel Security Checkpoint Code 21' in the isolated headless session (retried 4 times over ~10 minutes including long waits); could not inspect current site content for emails or forms. Per supervisor: do not attempt to bypass the checkpoint."
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "Retry the official site (www.jurinsushiny.com) from a different IP/session later when the Vercel checkpoint clears; prior sweep browsed it successfully, so the site was reachable recently and may expose a contact page or ToastTab footer contact.",
+        "Instagram bio @jurinsushi_nyc (observed in prior search results) is login-walled in this session; a logged-in public bio view could reveal an email.",
+        "The Toast ordering site order.toasttab.com/online/jurinsushi is robot_excluded and could not be revisited."
+      ],
+      "effort_notes": "Primary site checkpoint-blocked despite repeated waits; parent-targeted search (no challenge) returned only menu/order URLs and directories, no email snippets. Restaurant Guru page (which labels the business in West New York, NJ but shows matching phone 718-838-2223) contains no email; MyMenuWeb directory shows only phone/address. ~4 browser groups spent. Stopped per scope guardrail; directory-only emails were previously rejected and no new candidate surfaced.",
+      "worker_claimed_checked_at": "2026-10-05T06:28:34Z",
+      "batch_completed_at": "2026-10-05T06:29:41.779741+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.504396+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-09",
+      "artifact_sha256": "ce6e08a692c216168faa036bb937b26433b7f91f6e5d1c74518e0c366d18092c",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Primary site checkpoint-blocked despite repeated waits; parent-targeted search (no challenge) returned only menu/order URLs and directories, no email snippets. Restaurant Guru page (which labels the business in West New York, NJ but shows matching phone 718-838-2223) contains no email; MyMenuWeb directory shows only phone/address. ~4 browser groups spent. Stopped per scope guardrail; directory-only emails were previously rejected and no new candidate surfaced."
+    }
   }
 }

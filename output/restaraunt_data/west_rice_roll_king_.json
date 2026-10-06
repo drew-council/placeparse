@@ -425,7 +425,16 @@
     "outcome": "no_website",
     "sources": {},
     "pages": [],
-    "contact_forms": []
+    "contact_forms": [],
+    "excluded_sources": {
+      "info@westricerollking.com": {
+        "urls": [
+          "https://www.westricerollking.com/contact-us/"
+        ],
+        "reason": "Non-matching template contact: Turkish filler content, Arlington VA placeholder address and (703)555-1234 do not establish NYC restaurant ownership, even though Maps listed domain. Never a restaurant recipient.",
+        "role": "unrelated/template"
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -453,6 +462,54 @@
     ],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "west_rice_roll_king_.json",
+      "name": "West Rice Roll King 西关肠粉王",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"West Rice Roll King\" Hester email (parent-retrieved)",
+          "provider": "DuckDuckGo in parent-authorized pinned tab"
+        },
+        {
+          "query": "\"西关肠粉王\" 纽约 联系 email (parent-retrieved)",
+          "provider": "DuckDuckGo in parent-authorized pinned tab (0 results)"
+        }
+      ],
+      "inspected_urls": [
+        "https://maps.google.com/?cid=5687364101205884334 (public business details: 124 Hester St, (646) 830-2437, website westricerollking.com, unclaimed listing 'Claim this business')",
+        "https://westricerollking.com/ (Turkish-language template site, 'West Rice Roll King'e hoş geldiniz... pirinç rulolarıyla')",
+        "https://www.westricerollking.com/contact-us/ (info@westricerollking.com published, but business identity is fabricated: '1234 Elm Street, Suite 101, Arlington, VA 22201', 'Phone: (703) 555-1234')",
+        "https://www.checkle.com/biz/west-rice-roll-king--new-york (Vercel Security Checkpoint, verification failed — code 21)"
+      ],
+      "errors": [
+        "checkle.com blocked by Vercel Security Checkpoint (Failed to verify your browser, Code 21); not bypassed",
+        "DuckDuckGo Chinese-language query returned zero results"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "candidate_addresses_withheld": [
+        {
+          "email": "info@westricerollking.com",
+          "reason": "Published on westricerollking.com, but that site is demonstrably not this restaurant: Turkish-language filler content, placeholder address '1234 Elm Street, Suite 101, Arlington, VA 22201' and phone '(703) 555-1234' prove fabricated template data despite Google Maps listing the domain. Withheld as non-matching/fraudulent template."
+        }
+      ],
+      "remaining_avenues": [
+        "The tiny mom-and-pop shop (per reviewer accounts) appears to have no web presence beyond Google Maps; a Chinese-language search (e.g., 小红书/微博 public posts) was out of scope for my tooling",
+        "opengovus.com DOHMH permit record (permit #50131829, phone 3477712031) confirms identity but regulators list no email"
+      ],
+      "effort_notes": "Deepest available angle (Google Maps public details) uncovered and definitively disqualified the fake template domain; search results supplied by parent contained identity/directories and reviewer IG posts only.",
+      "worker_claimed_checked_at": "2026-10-05T07:44:05Z",
+      "batch_completed_at": "2026-10-05T07:48:19.571010+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.548899+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-20",
+      "artifact_sha256": "2defc17f9a9bca915f7a051661666e86a8ff34a275abec13d318816a1d36390f",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Deepest available angle (Google Maps public details) uncovered and definitively disqualified the fake template domain; search results supplied by parent contained identity/directories and reviewer IG posts only."
+    }
   }
 }

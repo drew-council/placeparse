@@ -521,6 +521,35 @@
     ],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "kung_fu_little_steamed_buns_ramen.json",
+      "name": "Kung Fu Little Steamed Buns Ramen",
+      "emails": [],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://kungfutogo.com/",
+        "https://kungfutogo.com/privacy-policy/"
+      ],
+      "errors": [],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "kungfutogo.com homepage and privacy policy contain no email, mailto link, or contact form fields (a generic OrderToGo template site); 'Contact Us' is only an anchor with no form detected. Privacy policy has no contact email.",
+        "Prior directories already checked by parent (yellowpages, foodiecard, wheree, restaurantjump, zoominfo) - zoominfo is a people/data-broker source to avoid.",
+        "Remaining avenues: Yelp 'send message' style channels (not general published email), DoorDash/Grubhub support, or a parent-side targeted search for a quoted address."
+      ],
+      "effort_notes": "Live full-site extraction of emails/mailtos/links on the official domain; no search performed this run because prior packet already covered the main directories and search frontends were degraded for other restaurants in this batch.",
+      "worker_claimed_checked_at": "2026-10-05T06:38:59Z",
+      "batch_completed_at": "2026-10-05T06:40:05.926079+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.510953+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-10",
+      "artifact_sha256": "1f7345e076c0c9bcd51b81f469a73373564f9634df130ec08785025944ebe3fb",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Live full-site extraction of emails/mailtos/links on the official domain; no search performed this run because prior packet already covered the main directories and search frontends were degraded for other restaurants in this batch."
+    }
   }
 }

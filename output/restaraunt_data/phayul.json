@@ -522,6 +522,47 @@
         "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "phayul.json",
+      "name": "Phayul",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Phayul\" email contact 37-65 74th St., Jackson Heights, NY 11372, USA",
+          "provider": "DuckDuckGo browser (parent search-leads cache)"
+        }
+      ],
+      "inspected_urls": [
+        "https://phayul.shop/",
+        "https://phayul.localoria.com/",
+        "https://www.findglocal.com/US/New-York/118022644951501/Phayul-Restaurant",
+        "https://www.ngatso.com/phayul"
+      ],
+      "errors": [
+        "New lead https://phayul.shop/ (from UnitedSewa listing) redirects to https://phayul.localoria.com/, an AI-directory page whose only emails are the platform placeholder 'your@email.com' and publisher 'localoria.com@gmail.com' — not the restaurant",
+        "findglocal.com (Facebook-page mirror) blocked by Cloudflare 'Just a moment...' challenge (not bypassed)",
+        "Facebook page for Phayul Restaurant was not directly reachable without login (findglocal mirror was the fallback and is Cloudflare-blocked)"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "The Facebook page 'Phayul Restaurant' (page id 118022644951501 per the findglocal mirror URL) may publish an email in its About section; requires a non-login view or parent-authorized retrieval",
+        "Ngatso page for 'Phayul Restaurant & Bar' (https://www.ngatso.com/phayul) lists a related-but-distinct entity (37-59 74th Street, phone (646) 915-5188) versus the saved Phayul at 37-65 74th St / (718) 424-1869; only the ngatso publisher email info@ngatso.com appears (mailto), consistent with prior rejection",
+        "Owners named in directory data (Dawa Lhamo and Chime Tendha per tibetanlibrary.com) — any personal email must not be used per scope guardrails",
+        "Ask parent to retrieve targeted results for: \"Phayul\" restaurant Jackson Heights email OR gmail; \"phayul\" \"74th\" contact"
+      ],
+      "effort_notes": "About 4 browser command groups. Tested the new phayul.shop lead (directory redirect), ngatso, and findglocal; all blocked or publisher-only.",
+      "worker_claimed_checked_at": "2026-10-05T06:53:19Z",
+      "batch_completed_at": "2026-10-05T06:54:31.233557+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.528916+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-14",
+      "artifact_sha256": "e6b5b8faa2c19283b59313e8cad615fc54cacb70462a0d23065cc6f55c0fbbb1",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. About 4 browser command groups. Tested the new phayul.shop lead (directory redirect), ngatso, and findglocal; all blocked or publisher-only."
+    }
   }
 }

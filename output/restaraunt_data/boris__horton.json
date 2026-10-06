@@ -621,6 +621,52 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "boris__horton.json",
+      "name": "Boris & Horton",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://www.borisandhorton.com/",
+          "business_match": "Official site (saved website); footer 'Location 195 Avenue A New York, NY 10009' and 'Contact 212-510-8986' exactly match the saved address and phone.",
+          "fields": [
+            "fname",
+            "lname",
+            "email",
+            "message (textarea)"
+          ],
+          "purpose": "general",
+          "general_vs_restricted": "General contact form under a 'Contact Us - Have a question or suggestion, or just want to say hi? Drop us a line' heading (Squarespace); the newsletter signup heading shares the same form block.",
+          "submission_tested": false
+        }
+      ],
+      "queries": [],
+      "inspected_urls": [
+        "https://www.borisandhorton.com/",
+        "https://www.borisandhorton.com/about-us",
+        "https://www.borisandhorton.com/events-muJ3R",
+        "https://theworthydog.com/store-locator/store_296/ (parent search lead)"
+      ],
+      "errors": [
+        "theworthydog.com store-locator lead (parent search result showing an obfuscated '[email protected]' with phone 248-842-7047) now returns HTTP 404; the obfuscated address is unreachable and that lead's phone did not match the saved business phone (212-510-8986) anyway."
+      ],
+      "outcome": "general_contact_form",
+      "remaining_avenues": [
+        "Menu PDFs (/s/MenuBundle-20250112.pdf, /s/BH-Menu-20250515.pdf) could be text-extracted for a published email; not yet extracted.",
+        "ZoomInfo/Cititour directory leads from parent search contain people-level or mismatched contacts; not usable without verification."
+      ],
+      "effort_notes": "Swept homepage (forms + footer), about-us, and events pages for mailto/obfuscated emails - none published anywhere on the official site. Followed the parent's theworthydog directory lead; page is now 404. Form-only outcome stands with exact address/phone identity evidence.",
+      "worker_claimed_checked_at": "2026-10-05T07:52:00Z",
+      "batch_completed_at": "2026-10-05T07:52:36.451106+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.555920+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-22",
+      "artifact_sha256": "a467a93aa7340f94c5b0f762b59bc5fc004bc4f3bcb81cd7a1f2c97ecb23f0d4",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Swept homepage (forms + footer), about-us, and events pages for mailto/obfuscated emails - none published anywhere on the official site. Followed the parent's theworthydog directory lead; page is now 404. Form-only outcome stands with exact address/phone identity evidence."
+    }
   }
 }

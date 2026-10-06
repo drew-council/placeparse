@@ -536,6 +536,59 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "maiko_matcha_cafe.json",
+      "name": "Maiko Matcha Cafe",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://www.matchacafe-maiko.com/eng/contact/",
+          "business_match": "Official English site of Matcha Cafe Maiko (brand operating the Flushing store, listed under Our Stores); operated by Eight USA Inc., Honolulu per company profile page.",
+          "fields": "Your name (required), Phone Number, E-mail address (required), inquiry content (required) with confirm-step button",
+          "general_or_restricted": "General ('If you have any questions or comments about Matcha Cafe Maiko, please feel free to contact us by filling in the form below.')",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"matcha cafe maiko\" Flushing @matchacafe-maiko.com OR email",
+          "provider": "DuckDuckGo full-JS page"
+        },
+        {
+          "query": "\"matcha cafe maiko\" Flushing email contact",
+          "provider": "Bing"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.matchacafe-maiko.com/eng/contact/",
+        "https://www.matchacafe-maiko.com/eng/company/",
+        "https://www.matchacafe-maiko.com/eng/privacy/",
+        "https://www.matchacafe-maiko.com/contact/",
+        "https://duckduckgo.com/?q=%22matcha+cafe+maiko%22+Flushing+%40matchacafe-maiko.com+OR+email&ia=web",
+        "https://www.bing.com/search?q=%22matcha+cafe+maiko%22+Flushing+email+contact"
+      ],
+      "errors": [
+        "DuckDuckGo full-JS search returned a bot challenge instead of results.",
+        "Bing returned degraded unrelated results (generic matcha health articles), not matching the quoted business query; stopped cycling providers per contract."
+      ],
+      "outcome": "general_contact_form",
+      "remaining_avenues": [
+        "Japanese and English official sites, company profile (Eight USA Inc., 2310 Kuhio Ave #143, Honolulu, HI 96815), and privacy pages contain no published email.",
+        "Public Facebook/Instagram bios of the brand or Flushing branch could be inspected for a published email if a login-free route is available.",
+        "Parent-authorized targeted search for a Flushing-branch-specific email (branch may publish its own contact in local directories)."
+      ],
+      "effort_notes": "Inspected EN contact, EN company, EN privacy, and JP contact pages with scoped extraction (zero emails/mailtos); two search attempts (DDG challenged, Bing degraded); parent leads inspected (directories only, no email-bearing source).",
+      "worker_claimed_checked_at": "2026-10-05T08:06:54Z",
+      "batch_completed_at": "2026-10-05T08:07:37.471630+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.563911+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-25",
+      "artifact_sha256": "792c5dda39f67d31a1f49c69ad2da90acf618feb5048a05abd438dec33fa3c92",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Inspected EN contact, EN company, EN privacy, and JP contact pages with scoped extraction (zero emails/mailtos); two search attempts (DDG challenged, Bing degraded); parent leads inspected (directories only, no email-bearing source)."
+    }
   }
 }

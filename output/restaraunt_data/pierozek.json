@@ -41,7 +41,8 @@
     "sources": {
       "catering@pierozekbrooklyn.com": [
         "https://www.pierozekbrooklyn.com/",
-        "https://www.pierozekbrooklyn.com/events"
+        "https://www.pierozekbrooklyn.com/events",
+        "https://www.pierozekbrooklyn.com/home"
       ]
     },
     "pages": [
@@ -76,6 +77,140 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:04.752445+00:00",
-    "browser_outcome": "found"
+    "browser_outcome": "found",
+    "role_overrides": {
+      "catering@pierozekbrooklyn.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "catering@pierozekbrooklyn.com": {
+        "evidence": [
+          {
+            "url": "https://www.pierozekbrooklyn.com/home",
+            "quote": "592 Manhattan Ave., Brooklyn, NY 11222 (718)576-3866 catering@pierozekbrooklyn.com Monday-Saturday 12pm-10pm Sunday 12pm-8pm — footer link href=\"mailto:catering@pierozekbrooklyn.com?subject=Website%20Inquiry&cc=alexandra%40Pierozekbrooklyn.com\"",
+            "identity_evidence": [
+              {
+                "url": "https://www.pierozekbrooklyn.com/home",
+                "quote": "Home | Discover Delicious Dumplings — Pierozek Brooklyn ... 592 Manhattan Ave., Brooklyn, NY 11222 (718)576-3866 catering@pierozekbrooklyn.com"
+              },
+              {
+                "url": "https://www.pierozekbrooklyn.com/catering-1",
+                "quote": "Please email us your order here. We will get back to you within 24 hours. — mailto:catering@pierozekbrooklyn.com?subject=Catering%20Inquiry&cc=alexandra%40pierozekbrooklyn.com"
+              }
+            ],
+            "source_type": "official_restaurant_site_footer_and_mailto",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently verified literal public publication and source-specific purpose. Footer on the same page as the email shows 592 Manhattan Ave., Brooklyn, NY 11222 and (718) 576-3866, matching the saved business address and phone exactly; site is pierozekbrooklyn.com per saved website field Published literally in visible page text (footer of home, /events, /catering-1) with matching address/phone. Label caveat: address is branded 'catering@' and is the site's designated catch-all including 'Website Inquiry' mailto routing; it is a de-facto general route but its advertised name is catering. Beyond the previously known /events citation, this sweep adds the homepage footer text, the Website-Inquiry mailto, and the catering-order usage. General-role override is based on the sole site-wide contact mailto explicitly prefilled with subject Website Inquiry, not a guess based on local-part. Address remains catering-named; confirm handling of dietary inquiries.",
+            "notes": "Published literally in visible page text (footer of home, /events, /catering-1) with matching address/phone. Label caveat: address is branded 'catering@' and is the site's designated catch-all including 'Website Inquiry' mailto routing; it is a de-facto general route but its advertised name is catering. Beyond the previously known /events citation, this sweep adds the homepage footer text, the Website-Inquiry mailto, and the catering-order usage.",
+            "checked_at": "2026-10-05T07:21:04.932965+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Published literally in visible page text (footer of home, /events, /catering-1) with matching address/phone. Label caveat: address is branded 'catering@' and is the site's designated catch-all including 'Website Inquiry' mailto routing; it is a de-facto general route but its advertised name is catering. Beyond the previously known /events citation, this sweep adds the homepage footer text, the Website-Inquiry mailto, and the catering-order usage. Parent independently verified literal public publication and source-specific purpose. Footer on the same page as the email shows 592 Manhattan Ave., Brooklyn, NY 11222 and (718) 576-3866, matching the saved business address and phone exactly; site is pierozekbrooklyn.com per saved website field Published literally in visible page text (footer of home, /events, /catering-1) with matching address/phone. Label caveat: address is branded 'catering@' and is the site's designated catch-all including 'Website Inquiry' mailto routing; it is a de-facto general route but its advertised name is catering. Beyond the previously known /events citation, this sweep adds the homepage footer text, the Website-Inquiry mailto, and the catering-order usage. General-role override is based on the sole site-wide contact mailto explicitly prefilled with subject Website Inquiry, not a guess based on local-part. Address remains catering-named; confirm handling of dietary inquiries."
+      }
+    },
+    "candidate_sources": {
+      "alexandra@pierozekbrooklyn.com": {
+        "urls": [
+          "https://www.pierozekbrooklyn.com/home"
+        ],
+        "reason": "Parent review pending; publication, exact branch attribution, currentness, and purpose are not yet all accepted.",
+        "role": "general/unspecified",
+        "checked_at": "2026-10-05T07:37:41.945647+00:00"
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "email_investigation": {
+      "cache_file": "pierozek.json",
+      "name": "Pierozek",
+      "emails": [
+        {
+          "email": "catering@pierozekbrooklyn.com",
+          "url": "https://www.pierozekbrooklyn.com/home",
+          "quote": "592 Manhattan Ave., Brooklyn, NY 11222 (718)576-3866 catering@pierozekbrooklyn.com Monday-Saturday 12pm-10pm Sunday 12pm-8pm — footer link href=\"mailto:catering@pierozekbrooklyn.com?subject=Website%20Inquiry&cc=alexandra%40Pierozekbrooklyn.com\"",
+          "source_type": "official_restaurant_site_footer_and_mailto",
+          "purpose": "sole published mailbox on every page of the site; used as the mailto target with subject 'Website Inquiry' (general inquiries) and additionally for catering orders ('Please email us your order here', 'email us with any questions' on /catering-1)",
+          "business_match": "Footer on the same page as the email shows 592 Manhattan Ave., Brooklyn, NY 11222 and (718) 576-3866, matching the saved business address and phone exactly; site is pierozekbrooklyn.com per saved website field",
+          "identity_evidence": [
+            {
+              "url": "https://www.pierozekbrooklyn.com/home",
+              "quote": "Home | Discover Delicious Dumplings — Pierozek Brooklyn ... 592 Manhattan Ave., Brooklyn, NY 11222 (718)576-3866 catering@pierozekbrooklyn.com"
+            },
+            {
+              "url": "https://www.pierozekbrooklyn.com/catering-1",
+              "quote": "Please email us your order here. We will get back to you within 24 hours. — mailto:catering@pierozekbrooklyn.com?subject=Catering%20Inquiry&cc=alexandra%40pierozekbrooklyn.com"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Published literally in visible page text (footer of home, /events, /catering-1) with matching address/phone. Label caveat: address is branded 'catering@' and is the site's designated catch-all including 'Website Inquiry' mailto routing; it is a de-facto general route but its advertised name is catering. Beyond the previously known /events citation, this sweep adds the homepage footer text, the Website-Inquiry mailto, and the catering-order usage.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently verified literal public publication and source-specific purpose. Footer on the same page as the email shows 592 Manhattan Ave., Brooklyn, NY 11222 and (718) 576-3866, matching the saved business address and phone exactly; site is pierozekbrooklyn.com per saved website field Published literally in visible page text (footer of home, /events, /catering-1) with matching address/phone. Label caveat: address is branded 'catering@' and is the site's designated catch-all including 'Website Inquiry' mailto routing; it is a de-facto general route but its advertised name is catering. Beyond the previously known /events citation, this sweep adds the homepage footer text, the Website-Inquiry mailto, and the catering-order usage. General-role override is based on the sole site-wide contact mailto explicitly prefilled with subject Website Inquiry, not a guess based on local-part. Address remains catering-named; confirm handling of dietary inquiries."
+          }
+        },
+        {
+          "email": "alexandra@pierozekbrooklyn.com",
+          "url": "https://www.pierozekbrooklyn.com/home",
+          "quote": "link parameter: mailto:catering@pierozekbrooklyn.com?subject=Website%20Inquiry&cc=alexandra%40Pierozekbrooklyn.com (also lowercase alexandra%40pierozekbrooklyn.com in the Catering Inquiry mailto on /catering-1)",
+          "source_type": "official_restaurant_site_mailto_cc_parameter",
+          "purpose": "CC recipient auto-included on the restaurant's own Website Inquiry and Catering Inquiry mailto links; routing address inside the official site, not visibly advertised in page text",
+          "business_match": "Appears only within mailto links embedded in the official pierozekbrooklyn.com pages for the 592 Manhattan Ave. restaurant; domain is the restaurant's own",
+          "identity_evidence": [
+            {
+              "url": "https://www.pierozekbrooklyn.com/home",
+              "quote": "href=\"mailto:catering@pierozekbrooklyn.com?subject=Website%20Inquiry&cc=alexandra%40Pierozekbrooklyn.com\""
+            },
+            {
+              "url": "https://www.pierozekbrooklyn.com/catering-1",
+              "quote": "href=\"mailto:catering@pierozekbrooklyn.com?subject=Catering%20Inquiry&cc=alexandra%40pierozekbrooklyn.com\""
+            }
+          ],
+          "confidence": "low-to-medium",
+          "decision": "candidate",
+          "notes": "Per parent caveat: this address is embedded in a link parameter (URL-encoded, with case variation Pierozek vs pierozek in the two occurrences) rather than advertised as text; recipient role/person identity is inferred from context only, not proven. Parent should decide whether a CC-routing address qualifies for promotion; the literal address is published in the href of the official site.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "(no new search needed — official site inspected directly after parent lead identified catering@ on /home)",
+          "provider": "direct navigation",
+          "note": "Parent lead: pierozekbrooklyn.com/home snippet '592 Manhattan Ave., Brooklyn, NY 11222 (718)576-3866 catering@pierozekbrooklyn.com'"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.pierozekbrooklyn.com/home",
+        "https://www.pierozekbrooklyn.com/catering-1",
+        "https://www.pierozekbrooklyn.com/events",
+        "https://www.facebook.com/pierozekbrooklyn/ (login wall)"
+      ],
+      "errors": [
+        "facebook.com page redirects to login wall without account; About-section email check not possible"
+      ],
+      "outcome": "sourced_email_found_with_general_route_evidence",
+      "remaining_avenues": [
+        "Facebook About section (login-gated) could reveal a separate general mailbox",
+        "No other mailboxes observed across home, catering, events pages"
+      ],
+      "effort_notes": "Full link-graph of official site inspected (menu, catering, events, pierogi-contest, giftcards, chownow ordering, Instagram, Facebook). catering@ is the only visibly published mailbox; alexandra@ appears solely in mailto cc parameters. Exact mailto hrefs captured verbatim including URL-encoding.",
+      "worker_claimed_checked_at": "2026-10-05T06:58:20Z",
+      "batch_completed_at": "2026-10-05T06:59:29.442618+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.530630+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-15",
+      "artifact_sha256": "2823dc4cb0abec228d7f3debd15e3c3f6fcee75bf12c734f76f78b7da179ea94",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "catering@pierozekbrooklyn.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

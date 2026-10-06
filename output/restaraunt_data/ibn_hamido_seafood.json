@@ -444,13 +444,18 @@
   "wheelchair_accessible_entrance": true,
   "emails": [
     "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
-    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com"
+    "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "ibnhamidonyc@gmail.com"
   ],
   "business_status_checked_at": "2026-10-03T20:05:18.961478+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:00.657615+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "ibnhamidonyc@gmail.com": [
+        "https://www.facebook.com/HamidoSeafood/"
+      ]
+    },
     "pages": [
       {
         "url": "https://hamidoseafood.com/",
@@ -475,7 +480,41 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:15.704072+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "ibnhamidonyc@gmail.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "ibnhamidonyc@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://www.facebook.com/HamidoSeafood/",
+            "quote": "Page · Seafood Restaurant\n3129 Ditmars Blvd, Astoria, NY, United States, New York\n(718) 535-4700\nibnhamidonyc@gmail.com\nClosed now\nDine-in · Outdoor seating\nPrice Range · $$\n94% recommend (216 reviews)",
+            "identity_evidence": [
+              {
+                "url": "https://hamidoseafood.com/",
+                "quote": "https://www.facebook.com/HamidoSeafood/ (footer social link on the official site)"
+              },
+              {
+                "url": "https://hamidoseafood.com/",
+                "quote": "DINE IN\n\n31-29 Ditmars Blvd\nAstoria, NY 11105\n\n(718) 535-4700"
+              },
+              {
+                "url": "https://www.facebook.com/HamidoSeafood/",
+                "quote": "IBN Hamido Seafood NYC\n3.5K followers · 12 following ... Intro\nMediterranean family owned Seafood Restaurant in Astoria, Come try our chefs special recipe!!!"
+              }
+            ],
+            "source_type": "official_social_bio",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently verified literal public business-contact publication. Strong: the official Facebook page 'IBN Hamido Seafood NYC' publishes the exact saved address 3129 Ditmars Blvd, Astoria, NY and the exact saved phone (718) 535-4700 alongside the email; the same page is linked from the footer of the saved official website hamidoseafood.com. Email extracted from the publicly rendered (logged-out) Facebook page Intro/About contact info; no login used. Official website hamidoseafood.com itself publishes no email anywhere (homepage, FAQ, footer checked; contact routes are tel: link and online ordering).",
+            "notes": "Email extracted from the publicly rendered (logged-out) Facebook page Intro/About contact info; no login used. Official website hamidoseafood.com itself publishes no email anywhere (homepage, FAQ, footer checked; contact routes are tel: link and online ordering).",
+            "checked_at": "2026-10-05T06:42:47.501657+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Email extracted from the publicly rendered (logged-out) Facebook page Intro/About contact info; no login used. Official website hamidoseafood.com itself publishes no email anywhere (homepage, FAQ, footer checked; contact routes are tel: link and online ordering). Parent independently verified literal public business-contact publication. Strong: the official Facebook page 'IBN Hamido Seafood NYC' publishes the exact saved address 3129 Ditmars Blvd, Astoria, NY and the exact saved phone (718) 535-4700 alongside the email; the same page is linked from the footer of the saved official website hamidoseafood.com. Email extracted from the publicly rendered (logged-out) Facebook page Intro/About contact info; no login used. Official website hamidoseafood.com itself publishes no email anywhere (homepage, FAQ, footer checked; contact routes are tel: link and online ordering)."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -533,6 +572,75 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "ibn_hamido_seafood.json",
+      "name": "IBN Hamido Seafood",
+      "emails": [
+        {
+          "email": "ibnhamidonyc@gmail.com",
+          "url": "https://www.facebook.com/HamidoSeafood/",
+          "quote": "Page · Seafood Restaurant\n3129 Ditmars Blvd, Astoria, NY, United States, New York\n(718) 535-4700\nibnhamidonyc@gmail.com\nClosed now\nDine-in · Outdoor seating\nPrice Range · $$\n94% recommend (216 reviews)",
+          "source_type": "official_social_bio",
+          "purpose": "general business contact email published in the page's Intro/About contact block",
+          "business_match": "Strong: the official Facebook page 'IBN Hamido Seafood NYC' publishes the exact saved address 3129 Ditmars Blvd, Astoria, NY and the exact saved phone (718) 535-4700 alongside the email; the same page is linked from the footer of the saved official website hamidoseafood.com.",
+          "identity_evidence": [
+            {
+              "url": "https://hamidoseafood.com/",
+              "quote": "https://www.facebook.com/HamidoSeafood/ (footer social link on the official site)"
+            },
+            {
+              "url": "https://hamidoseafood.com/",
+              "quote": "DINE IN\n\n31-29 Ditmars Blvd\nAstoria, NY 11105\n\n(718) 535-4700"
+            },
+            {
+              "url": "https://www.facebook.com/HamidoSeafood/",
+              "quote": "IBN Hamido Seafood NYC\n3.5K followers · 12 following ... Intro\nMediterranean family owned Seafood Restaurant in Astoria, Come try our chefs special recipe!!!"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Email extracted from the publicly rendered (logged-out) Facebook page Intro/About contact info; no login used. Official website hamidoseafood.com itself publishes no email anywhere (homepage, FAQ, footer checked; contact routes are tel: link and online ordering).",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently verified literal public business-contact publication. Strong: the official Facebook page 'IBN Hamido Seafood NYC' publishes the exact saved address 3129 Ditmars Blvd, Astoria, NY and the exact saved phone (718) 535-4700 alongside the email; the same page is linked from the footer of the saved official website hamidoseafood.com. Email extracted from the publicly rendered (logged-out) Facebook page Intro/About contact info; no login used. Official website hamidoseafood.com itself publishes no email anywhere (homepage, FAQ, footer checked; contact routes are tel: link and online ordering)."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Hamido\" Seafood Astoria email @gmail.com",
+          "provider": "DuckDuckGo browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://hamidoseafood.com/",
+        "https://hamidoseafood.com/faq/",
+        "https://duckduckgo.com/?q=%22Hamido%22+Seafood+Astoria+email+%40gmail.com&ia=web",
+        "https://www.facebook.com/HamidoSeafood/"
+      ],
+      "errors": [
+        "DuckDuckGo search returned a CAPTCHA challenge page ('Please complete the following challenge to confirm this search was made by a human'); no bypass attempted, switched to direct primary-source inspection."
+      ],
+      "outcome": "email_found_source_backed",
+      "remaining_avenues": [
+        "Instagram bio @ibn.hamido.seafood.nyc (linked from official site) was not rendered this run; could confirm/duplicate the same or another published address."
+      ],
+      "effort_notes": "Loaded official site homepage + FAQ (no email; FAQ says 'call the restaurant' for catering), footer only links tel:, maps, Instagram, Facebook, Yelp. DuckDuckGo search challenged, so verified the officially linked Facebook page in a logged-out view and found the published email with matching address/phone.",
+      "worker_claimed_checked_at": "2026-10-05T06:28:59Z",
+      "batch_completed_at": "2026-10-05T06:30:02.042632+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.503046+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-08",
+      "artifact_sha256": "c184ae396f0dbac63230ab910b70e086f0bcce376d15cb49650b405fc683494b",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "ibnhamidonyc@gmail.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

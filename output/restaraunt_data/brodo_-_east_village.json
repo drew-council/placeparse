@@ -584,6 +584,54 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "brodo_-_east_village.json",
+      "name": "Brodo - East Village",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://www.brodo.com/contact/",
+          "matching_business_evidence": "brodo.com is the official Brodo Broth Co site (brand of the East Village shop, founded by Marco Canora); footer shows ©2026 Brodo, WordPress/Pressable. Brand-level form, not branch-specific.",
+          "visible_fields": "Embedded Gorgias customer-service form (iframe https://contact.gorgias.help/embed/forms/u4rjbacy) inside the 'Contact Us' page; page text: 'We have many standard questions answered on our FAQ page, but for any specific questions about your order please fill out the contact form below.'",
+          "purpose": "customer_service_order_questions",
+          "general_vs_restricted": "Restricted — explicitly framed for 'specific questions about your order'; not a general restaurant-inquiry form, but it is the brand's only published contact route.",
+          "submission_tested": false,
+          "caveat": "Brand/e-commerce support channel (Gorgias helpdesk), not an East Village storefront address. Parent should weigh whether brand-level customer support is an acceptable recipient."
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Brodo - East Village\" New York, NY 10009 contact email (carried from prior sweep; new sweep used official-site pages)",
+          "provider": "DuckDuckGo browser (prior)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.brodo.com/contact/",
+        "https://www.brodo.com/faqs/",
+        "https://www.brodo.com/about/",
+        "https://www.brodo.com/locations/"
+      ],
+      "errors": [
+        "https://www.brodo.com/locations/ returns 404 ('Page not found') — no storefront/location pages on the e-commerce site."
+      ],
+      "outcome": "form_fallback_only",
+      "remaining_avenues": [
+        "Brodo FAQ/helpdesk (Gorgias) may auto-reply from a brand email; not published on site.",
+        "Press page (if one exists beyond the footer link target) could carry a press contact email — not found in checked pages.",
+        "eastvillage.com and prior directories already checked; only publisher emails found."
+      ],
+      "effort_notes": "Deepened: searched full HTML of contact, FAQs, and About pages — zero email addresses published anywhere on brodo.com. The only contact route is the Gorgias order-support form (recorded). No general-inquiry email exists in checked sources.",
+      "worker_claimed_checked_at": "2026-10-05T05:43:00Z",
+      "batch_completed_at": "2026-10-05T05:44:15.394399+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.479561+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-02",
+      "artifact_sha256": "5cca1b3cca7c924d6b0c87999bf632f51e4cae5dafa3120425a163980372cd6f",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Deepened: searched full HTML of contact, FAQs, and About pages — zero email addresses published anywhere on brodo.com. The only contact route is the Gorgias order-support form (recorded). No general-inquiry email exists in checked sources."
+    }
   }
 }

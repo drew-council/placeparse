@@ -450,11 +450,17 @@
   "website": "https://coffeeprojectny.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb_ch",
   "wheelchair_accessible_entrance": true,
   "business_status_checked_at": "2026-10-03T20:04:57.508263+00:00",
-  "emails": [],
+  "emails": [
+    "class@coffeeprojectny.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:25.351133+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "class@coffeeprojectny.com": [
+        "https://coffeeprojectny.com/about/faq/"
+      ]
+    },
     "pages": [
       {
         "url": "https://coffeeprojectny.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb_ch",
@@ -462,7 +468,37 @@
         "emails": []
       }
     ],
-    "contact_forms": []
+    "contact_forms": [],
+    "role_overrides": {
+      "class@coffeeprojectny.com": "classes/education"
+    },
+    "publication_evidence": {
+      "class@coffeeprojectny.com": {
+        "evidence": [
+          {
+            "url": "https://coffeeprojectny.com/about/faq/",
+            "quote": "\"Please notify us via email as soon as possible. You can reach out to us at class@coffeeprojectny.com.\" and \"Yes. We happily provide gift vouchers for classes! Please reach out to us at class@coffeeprojectny.com and we will accommodate you.\" (literal mailto links present)",
+            "identity_evidence": [
+              {
+                "url": "https://coffeeprojectny.com/cafe-locations/",
+                "quote": "Page contains '155 7th' (Chelsea cafe listing) — verified via DOM check hasChelsea:true"
+              },
+              {
+                "url": "https://coffeeprojectny.com/contact/",
+                "quote": "Subject dropdown 'General Inquiry / Classes / Shopping / Subscriptions / Press' — same organization routes both class and general traffic"
+              }
+            ],
+            "source_type": "official_restaurant_website_faq",
+            "purpose": "classes/education",
+            "parent_reason": "Parent confirmed three literal mailto links in official FAQ, restricted to classes, cancellation/rescheduling and class gift vouchers. Chelsea 155 7th Ave confirmed on official brand locations page. Not a general cafe/allergy contact.",
+            "notes": "Only literal email address published anywhere on the site (checked contact, wholesale, about, careers, locations, FAQ). Purpose is class scheduling/gift vouchers.",
+            "checked_at": "2026-10-05T08:21:32.559651+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Only literal email address published anywhere on the site (checked contact, wholesale, about, careers, locations, FAQ). Purpose is class scheduling/gift vouchers. Parent confirmed three literal mailto links in official FAQ, restricted to classes, cancellation/rescheduling and class gift vouchers. Chelsea 155 7th Ave confirmed on official brand locations page. Not a general cafe/allergy contact."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [
@@ -543,6 +579,82 @@
         "requires_login": true,
         "search_provider": "DuckDuckGo browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "coffee_project_new_york__chelsea.json",
+      "name": "Coffee Project New York | Chelsea",
+      "emails": [
+        {
+          "email": "class@coffeeprojectny.com",
+          "url": "https://coffeeprojectny.com/about/faq/",
+          "quote": "\"Please notify us via email as soon as possible. You can reach out to us at class@coffeeprojectny.com.\" and \"Yes. We happily provide gift vouchers for classes! Please reach out to us at class@coffeeprojectny.com and we will accommodate you.\" (literal mailto links present)",
+          "source_type": "official_restaurant_website_faq",
+          "purpose": "classes/scheduling inquiries (restricted purpose, not a general inbox)",
+          "business_match": "Published on the official Coffee Project New York website (coffeeprojectny.com); the same site's cafe-locations page lists the saved Chelsea cafe at '155 7th Ave' (confirmed string present), and the FAQ is brand-level covering classes run across its NYC cafes.",
+          "identity_evidence": [
+            {
+              "url": "https://coffeeprojectny.com/cafe-locations/",
+              "quote": "Page contains '155 7th' (Chelsea cafe listing) — verified via DOM check hasChelsea:true"
+            },
+            {
+              "url": "https://coffeeprojectny.com/contact/",
+              "quote": "Subject dropdown 'General Inquiry / Classes / Shopping / Subscriptions / Press' — same organization routes both class and general traffic"
+            }
+          ],
+          "confidence": "high that the address is literally published in the official FAQ; it is a classes-purpose mailbox, not a proven general-inquiry inbox",
+          "decision": "source_backed",
+          "notes": "Only literal email address published anywhere on the site (checked contact, wholesale, about, careers, locations, FAQ). Purpose is class scheduling/gift vouchers.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "classes/education",
+            "reason": "Parent confirmed three literal mailto links in official FAQ, restricted to classes, cancellation/rescheduling and class gift vouchers. Chelsea 155 7th Ave confirmed on official brand locations page. Not a general cafe/allergy contact."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://coffeeprojectny.com/contact/",
+          "matching_business_evidence": "Official brand site footer 'COPYRIGHT 2026 COFFEE PROJECT NEW YORK'; cafe-locations page lists the saved Chelsea cafe at 155 7th Ave.",
+          "fields": "Your Name (required); Your Email (required); Subject [General Inquiry / Classes / Shopping / Subscriptions / Press]; Your Message free-text; newsletter opt-in checkbox",
+          "general_vs_restricted": "general",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Coffee Project New York | Chelsea\" email contact 155 7th Ave, New York, NY 10011, USA",
+          "provider": "DuckDuckGo (parent search-leads cache, results inspected)"
+        }
+      ],
+      "inspected_urls": [
+        "https://coffeeprojectny.com/contact/",
+        "https://coffeeprojectny.com/wholesale-consulting/",
+        "https://coffeeprojectny.com/about/",
+        "https://coffeeprojectny.com/about/faq/",
+        "https://coffeeprojectny.com/about/careers/",
+        "https://coffeeprojectny.com/cafe-locations/"
+      ],
+      "errors": [],
+      "robot_excluded_urls_respected": [
+        "https://coffeeprojectny.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb_ch (prior robot_excluded_urls entry not revisited; navigated to clean path URLs instead)"
+      ],
+      "outcome": "emails_found",
+      "remaining_avenues": [
+        "No general or branch-specific email published; class@ is the only literal address on the site (contact, wholesale, about, careers, locations, FAQ all checked)."
+      ],
+      "effort_notes": "Deeper than prior sweep: prior pass stopped at directory pages; this pass inspected the official site's FAQ and found a literal published mailto. Prior rejected chamberofcommerce form respected (directory form, not a restaurant channel).",
+      "worker_claimed_checked_at": "2026-10-05T07:57:33Z",
+      "batch_completed_at": "2026-10-05T07:58:26.466566+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.559651+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-23",
+      "artifact_sha256": "b7058820f3bdb439fd1fe8133aff0dae9b2ec68a7ad0bfa92f3a262c45bd5350",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "class@coffeeprojectny.com"
+      ],
+      "no_general_email_reason": "Only limited-purpose published email(s); no accepted general-inquiry email in checked sources."
+    }
   }
 }

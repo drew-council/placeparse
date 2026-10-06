@@ -490,6 +490,39 @@
       }
     ],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "no_1_super_snack_inc.json",
+      "name": "超力福州美食 No.1 Super Snack Inc. - Fuzhou Snacks",
+      "emails": [],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://chinarestaurant-luckypalace.com/chinese-restaurants-near-me/no-1-super-snack-inc-fuzhou-snacks",
+        "https://wanderlog.com/place/details/4472996/%E8%B6%85%E5%8A%9B%E7%A6%8F%E5%B7%9E%E7%BE%8E%E9%A3%9F-no1-super-snack-inc-fuzhou-snacks",
+        "https://www.fantuanorder.com/dianping/zh-CN/store/-no1-super-snack-inc---fuzhou-snacks-1258399457-us"
+      ],
+      "errors": [
+        "chinarestaurant-luckypalace.com page returned net::ERR_HTTP_RESPONSE_CODE_FAILURE in this session (was listed as a parent lead).",
+        "fantuanorder.com store page loaded but contains no email/mailto (prior run also had a load error with the old method).",
+        "Search frontends were unavailable this run (DDG challenged, Bing degraded on another query), so no new targeted search could be issued from this session."
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Restaurant has no website; contact would have to come from a delivery-platform merchant profile (Fantuan store page loaded but exposes no public email).",
+        "Corner/Atly/Checkle listing pages (checked in the prior sweep) showed no email; a parent-supplied targeted search for 'No.1 Super Snack' flushing email could surface a Zelle/catering contact image on social media, which was not accessible without login."
+      ],
+      "effort_notes": "Checked the two packet lead pages not previously inspected (luckypalace — load failure; fantuanorder — loaded, no email) plus wanderlog. All directory/ordering sources carried no published mailbox. No restaurant-owned web presence exists.",
+      "worker_claimed_checked_at": "2026-10-05T07:42:24Z",
+      "batch_completed_at": "2026-10-05T07:45:41.668207+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.553027+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-21",
+      "artifact_sha256": "51ff24b7d9798402c1a227bf85e810a871341065602589e48523b43ab7ad0ad7",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Checked the two packet lead pages not previously inspected (luckypalace — load failure; fantuanorder — loaded, no email) plus wanderlog. All directory/ordering sources carried no published mailbox. No restaurant-owned web presence exists."
+    }
   }
 }

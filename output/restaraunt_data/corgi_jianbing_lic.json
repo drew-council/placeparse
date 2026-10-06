@@ -70,6 +70,48 @@
     ],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "corgi_jianbing_lic.json",
+      "name": "Corgi Jianbing LIC 可吉煎饼",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "Corgi Jianbing Hunter St Long Island City (direct Google Maps public business details lookup)",
+          "provider": "Google Maps browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://es.restaurantguru.com/Corgi-Jianbing-New-York",
+        "https://www.convergehq.ai/spot/5c6ae416-9c5d-4853-9a1d-996ffe3aa075",
+        "https://www.postcard.inc/places/corgi-jianbing-lic-new-york-TwvmixmbVsV",
+        "https://www.restaurantji.com/ny/long-island-city/corgi-jianbing-/",
+        "https://www.google.com/maps/search/Corgi+Jianbing+Hunter+St+Long+Island+City"
+      ],
+      "errors": [
+        "https://www.postcard.inc/places/corgi-jianbing-lic-new-york-TwvmixmbVsV blocked by Vercel Security Checkpoint ('We're verifying your browser'); not bypassed",
+        "https://www.restaurantji.com/ny/long-island-city/corgi-jianbing-/ now behind Cloudflare challenge ('Just a moment...') - was browser_ok in the prior sweep but is unavailable now; not bypassed",
+        "Google Maps place panel has 'Add website' (no website published) and no email field",
+        "No live keyword search possible: DuckDuckGo challenge and Bing degraded results encountered earlier in this session, so provider cycling was stopped per contract"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "TikTok/Instagram bios: Converge 'SEE IT ON SOCIAL' links only point to TikTok/Instagram search pages for the restaurant name (not actual handles), and Instagram is login-walled; a parent-retrieved search for the actual handle bio is the most promising next step",
+        "The 'Order online' route on the Google Maps panel is behind an opaque Google searchviewer URL; the underlying ordering platform (likely a Chinese-ordering app) might carry a contact route",
+        "Yellowpages/Delivery directories not yet tried (e.g., grubhub/doordash store pages with published support contact)"
+      ],
+      "effort_notes": "Re-checked all prior lead sources fresh rather than repeating the old conclusion: RestaurantGuru (no email, no social links exposed), ConvergeHQ spot page (only search-style TikTok/Instagram links, no email, no handle), Postcard (blocked), Restaurantji (newly challenged), plus a direct Google Maps business lookup which confirms the saved address/phone (44-05 Hunter St, (347) 685-5433), shows 'Add website' (no website), and offers no email. Not found in checked sources.",
+      "worker_claimed_checked_at": "2026-10-05T05:50:00Z",
+      "batch_completed_at": "2026-10-05T05:58:21.340085+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.487572+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-04",
+      "artifact_sha256": "a18b7ec9369f885c5beb3a317639c536d18b858f314d1337dba8ab0f9d78dd5d",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Re-checked all prior lead sources fresh rather than repeating the old conclusion: RestaurantGuru (no email, no social links exposed), ConvergeHQ spot page (only search-style TikTok/Instagram links, no email, no handle), Postcard (blocked), Restaurantji (newly challenged), plus a direct Google Maps business lookup which confirms the saved address/phone (44-05 Hunter St, (347) 685-5433), shows 'Add website' (no website), and offers no email. Not found in checked sources."
+    }
   }
 }

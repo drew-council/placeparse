@@ -449,13 +449,18 @@
   "wheelchair_accessible_entrance": true,
   "emails": [
     "casa-adela@gmail.com",
-    "placejoys.com@gmail.com"
+    "placejoys.com@gmail.com",
+    "casaadelarestaurant@gmail.com"
   ],
   "business_status_checked_at": "2026-10-03T20:04:51.623530+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:18.904863+00:00",
-    "outcome": "unverified_only",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "casaadelarestaurant@gmail.com": [
+        "https://www.facebook.com/p/Casa-Adela-100064056964827/"
+      ]
+    },
     "pages": [
       {
         "url": "https://casa-adela.placejoys.com/",
@@ -480,12 +485,50 @@
       }
     },
     "quality_reviewed_at": "2026-10-04T05:58:56.895514+00:00",
-    "candidate_sources": {
+    "candidate_sources": {},
+    "candidate_resolution_history": [
+      {
+        "email": "casaadelarestaurant@gmail.com",
+        "original_candidate": {
+          "urls": [
+            "https://callejero-nueva-york.openalfa.com/calles/avenue-c-east-village-ny-avenue-c"
+          ],
+          "reason": "Third-party public listing matches Casa Adela name, 66 Avenue C, and phone. Restaurant ownership/current use not confirmed; ask by phone before sharing allergy information."
+        },
+        "resolved_at": "2026-10-05T06:22:42.091399+00:00",
+        "decision": "primary_publication_verified",
+        "primary_source": "https://www.facebook.com/p/Casa-Adela-100064056964827/",
+        "reason": "Primary business-page publication verified in original child browser tool output (e7141c74 output-0.log line 904), not merely its final answer. 66 Avenue C and (212) 473-1882 match the saved restaurant. Parent's repeat visit was login-walled; recorded without bypass. Materially better first-party publication resolves the previous third-party candidate; retain original quarantine decision in history."
+      }
+    ],
+    "role_overrides": {
+      "casaadelarestaurant@gmail.com": "general/unspecified"
+    },
+    "publication_evidence": {
       "casaadelarestaurant@gmail.com": {
-        "urls": [
-          "https://callejero-nueva-york.openalfa.com/calles/avenue-c-east-village-ny-avenue-c"
+        "evidence": [
+          {
+            "url": "https://www.facebook.com/p/Casa-Adela-100064056964827/",
+            "quote": "Page · Puerto Rican Restaurant | 66 Avenue C, New York, NY, United States, New York | (212) 473-1882 | casaadelarestaurant@gmail.com | casa Adela restaurant | casaadela.netwaiter.com/new-",
+            "identity_evidence": [
+              {
+                "url": "https://www.facebook.com/p/Casa-Adela-100064056964827/",
+                "quote": "Casa Adela | 8.8K followers • 15 following | ... A Lower East Side institution, the specialty at Casa Adela is rotisserie chicken. Authentic PR food in an unpretentious environment... | Page · Puerto Rican Restaurant | 66 Avenue C, New York, NY, United States, New York | (212) 473-1882 | casaadelarestaurant@gmail.com"
+              },
+              {
+                "url": "https://casaadelanewyork.mybistro.online/",
+                "quote": "Casa Adela - 66 Ave C, New York - Full Menu and Reviews | Location | Adress: 66 Ave C, New York, NY 10009 | Phone: (212) 473-1882"
+              }
+            ],
+            "source_type": "official_facebook_page_bio",
+            "purpose": "general/unspecified",
+            "parent_reason": "Primary business-page publication verified in original child browser tool output (e7141c74 output-0.log line 904), not merely its final answer. 66 Avenue C and (212) 473-1882 match the saved restaurant. Parent's repeat visit was login-walled; recorded without bypass. Materially better first-party publication resolves the previous third-party candidate; retain original quarantine decision in history.",
+            "notes": "Upgrades the prior third-party candidate (callejero-nueva-york.openalfa.com listing) to a publication on the restaurant's OWN official Facebook page with matching address and phone. Ownership of the gmail inbox beyond publication not verified; do not share allergy data before phone confirmation.",
+            "checked_at": "2026-10-05T06:22:42.091399+00:00",
+            "delivery_tested": false
+          }
         ],
-        "reason": "Third-party public listing matches Casa Adela name, 66 Avenue C, and phone. Restaurant ownership/current use not confirmed; ask by phone before sharing allergy information."
+        "note": "Upgrades the prior third-party candidate (callejero-nueva-york.openalfa.com listing) to a publication on the restaurant's OWN official Facebook page with matching address and phone. Ownership of the gmail inbox beyond publication not verified; do not share allergy data before phone confirmation. Primary business-page publication verified in original child browser tool output (e7141c74 output-0.log line 904), not merely its final answer. 66 Avenue C and (212) 473-1882 match the saved restaurant. Parent's repeat visit was login-walled; recorded without bypass. Materially better first-party publication resolves the previous third-party candidate; retain original quarantine decision in history."
       }
     }
   },
@@ -559,6 +602,87 @@
         "\"casaadelarestaurant@gmail.com\" Casa Adela"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "casa_adela.json",
+      "name": "Casa Adela",
+      "emails": [
+        {
+          "email": "casaadelarestaurant@gmail.com",
+          "url": "https://www.facebook.com/p/Casa-Adela-100064056964827/",
+          "quote": "Page · Puerto Rican Restaurant | 66 Avenue C, New York, NY, United States, New York | (212) 473-1882 | casaadelarestaurant@gmail.com | casa Adela restaurant | casaadela.netwaiter.com/new-",
+          "source_type": "official_facebook_page_bio",
+          "purpose": "general contact address published in the intro of the restaurant's official Facebook page",
+          "business_match": "Official Facebook page 'Casa Adela' publishes the restaurant's address at 66 Avenue C (= 66 Loisaida Ave, the saved address — Avenue C is the cross-street name Loisaida Ave carries) and the exact saved phone (212) 473-1882, followed by the email.",
+          "identity_evidence": [
+            {
+              "url": "https://www.facebook.com/p/Casa-Adela-100064056964827/",
+              "quote": "Casa Adela | 8.8K followers • 15 following | ... A Lower East Side institution, the specialty at Casa Adela is rotisserie chicken. Authentic PR food in an unpretentious environment... | Page · Puerto Rican Restaurant | 66 Avenue C, New York, NY, United States, New York | (212) 473-1882 | casaadelarestaurant@gmail.com"
+            },
+            {
+              "url": "https://casaadelanewyork.mybistro.online/",
+              "quote": "Casa Adela - 66 Ave C, New York - Full Menu and Reviews | Location | Adress: 66 Ave C, New York, NY 10009 | Phone: (212) 473-1882"
+            }
+          ],
+          "confidence": "medium-high",
+          "decision": "source_backed",
+          "notes": "Upgrades the prior third-party candidate (callejero-nueva-york.openalfa.com listing) to a publication on the restaurant's OWN official Facebook page with matching address and phone. Ownership of the gmail inbox beyond publication not verified; do not share allergy data before phone confirmation.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Primary business-page publication verified in original child browser tool output (e7141c74 output-0.log line 904), not merely its final answer. 66 Avenue C and (212) 473-1882 match the saved restaurant. Parent's repeat visit was login-walled; recorded without bypass. Materially better first-party publication resolves the previous third-party candidate; retain original quarantine decision in history."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://casaadelanewyork.mybistro.online/",
+          "matching_business_evidence": "Restaurant ordering-page found via the official openalfa listing link for Casa Adela; page shows 'Adress: 66 Ave C, New York, NY 10009 | Phone: (212) 473-1882' matching the saved business. However the only contact affordance is 'Suggest an edit' linking to the mybistro.online PLATFORM contact page, not a restaurant-owned message form.",
+          "fields": "No general message form on the page; 'Suggest an edit' => https://mybistro.online/contact.php (platform/vendor route).",
+          "purpose": "platform suggestion/feedback only — not a restaurant general-inquiry form",
+          "submission_tested": false,
+          "notes": "Recorded for completeness only; mybistro.online is a vendor page generator (like placejoys), not the restaurant's own channel. Not recommended as a general inquiry route."
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Casa Adela\" New York, NY 10009 contact email",
+          "provider": "DuckDuckGo browser (prior sweep)"
+        }
+      ],
+      "inspected_urls": [
+        "https://casa-adela.shop/",
+        "https://casa-adela.placejoys.com/",
+        "https://casaadela.eggscellent.site/contact.html",
+        "https://callejero-nueva-york.openalfa.com/calles/avenue-c-east-village-ny-avenue-c",
+        "https://casaadelanewyork.mybistro.online/",
+        "https://www.facebook.com/p/Casa-Adela-100064056964827/",
+        "https://casaadela.netwaiter.com/new-"
+      ],
+      "errors": [
+        "https://casa-adela.shop/ (saved 'website') 301-redirects to casa-adela.placejoys.com — the already-excluded placejoys publisher/placeholder site (placejoys.com@gmail.com correctly withheld). The saved website field points to a directory page, not a restaurant-owned site.",
+        "https://casaadela.eggscellent.site/contact.html now returns HTTP ERROR 400 (site dead), reproducing the prior sweep's load errors.",
+        "https://casaadela.netwaiter.com/new- (website listed on the Facebook bio) returns 'Sorry, Page Not Found' (dead link).",
+        "The openalfa Avenue C page no longer lists Casa Adela's email in its rendered text; Casa Adela appears only as an entry whose external link opens casaadelanewyork.mybistro.online."
+      ],
+      "outcome": "email_found_official_facebook_bio",
+      "remaining_avenues": [
+        "Phone (212) 473-1882 to confirm the gmail inbox before sensitive outreach.",
+        "The mybistro.online vendor could theoretically relay messages but is not a restaurant channel."
+      ],
+      "effort_notes": "~8 browser command groups. Key depth gain: traced the openalfa listing entry to the restaurant's real ordering site (mybistro) and then to the official Facebook page, where the email is published directly with matching identity — resolving the prior 'unverified_email_leads_only' status.",
+      "worker_claimed_checked_at": "2026-10-05T05:40:00Z",
+      "batch_completed_at": "2026-10-05T05:54:15.783326+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.482436+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-03",
+      "artifact_sha256": "7ea29bb6d9a8d43f5cf1c18d5242c0651789326c70094b613244ec482ab8951d",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "casaadelarestaurant@gmail.com"
+      ],
+      "no_general_email_reason": ""
     }
   }
 }

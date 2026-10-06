@@ -35,11 +35,17 @@
   "website": "http://davellenewyork.com/",
   "details_checked_at": "2026-10-03T21:59:26.356068+00:00",
   "business_status_checked_at": "2026-10-03T21:59:26.356068+00:00",
-  "emails": [],
+  "emails": [
+    "hello@davellenewyork.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:59:59.249487+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "hello@davellenewyork.com": [
+        "https://www.facebook.com/davelle.nyc/"
+      ]
+    },
     "pages": [
       {
         "url": "https://davellenewyork.com/",
@@ -58,9 +64,40 @@
     "candidate_sources": {
       "102suffolk@gmail.com": {
         "urls": [
-          "https://www.raisin.digital/en/explore/united-states/new-york/venues/davelle-6637/"
+          "https://www.raisin.digital/en/explore/united-states/new-york/venues/davelle-6637/",
+          "https://cityseeker.com/new-york/1185873-davelle"
         ],
         "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    },
+    "role_overrides": {
+      "hello@davellenewyork.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "hello@davellenewyork.com": {
+        "evidence": [
+          {
+            "url": "https://www.facebook.com/davelle.nyc/",
+            "quote": "Page · Cafe · Japanese Restaurant · Specialty Grocery Store\n102 Suffolk St\n(646) 988-1973\nhello@davellenewyork.com\ndavellenewyork.com",
+            "identity_evidence": [
+              {
+                "url": "https://www.facebook.com/davelle.nyc/",
+                "quote": "Page · Cafe · Japanese Restaurant · Specialty Grocery Store\n102 Suffolk St\n(646) 988-1973\nhello@davellenewyork.com\ndavellenewyork.com"
+              },
+              {
+                "url": "https://davellenewyork.com/",
+                "quote": "Davelle — Japanese café · 102 Suffolk Street, New York (site header/visit section confirms 102 Suffolk Street, Lower East Side, open daily 8 AM – 5 PM)"
+              }
+            ],
+            "source_type": "official business Facebook page (public intro/about section, no login)",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently verified literal public business-contact publication. Facebook intro lists '102 Suffolk St' and '(646) 988-1973' — exact match to saved address and phone; linked website 'davellenewyork.com' matches the saved website Published on the restaurant's own Facebook page with matching address/phone and its own domain (davellenewyork.com). Official website itself (davellenewyork.com) is a single-page site with no contact page or mailto; email only appears on the official FB page.",
+            "notes": "Published on the restaurant's own Facebook page with matching address/phone and its own domain (davellenewyork.com). Official website itself (davellenewyork.com) is a single-page site with no contact page or mailto; email only appears on the official FB page.",
+            "checked_at": "2026-10-05T06:42:47.489534+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Published on the restaurant's own Facebook page with matching address/phone and its own domain (davellenewyork.com). Official website itself (davellenewyork.com) is a single-page site with no contact page or mailto; email only appears on the official FB page. Parent independently verified literal public business-contact publication. Facebook intro lists '102 Suffolk St' and '(646) 988-1973' — exact match to saved address and phone; linked website 'davellenewyork.com' matches the saved website Published on the restaurant's own Facebook page with matching address/phone and its own domain (davellenewyork.com). Official website itself (davellenewyork.com) is a single-page site with no contact page or mailto; email only appears on the official FB page."
       }
     }
   },
@@ -150,6 +187,95 @@
         "\"102suffolk@gmail.com\" Davelle"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "davelle.json",
+      "name": "Davelle",
+      "emails": [
+        {
+          "email": "hello@davellenewyork.com",
+          "url": "https://www.facebook.com/davelle.nyc/",
+          "quote": "Page · Cafe · Japanese Restaurant · Specialty Grocery Store\n102 Suffolk St\n(646) 988-1973\nhello@davellenewyork.com\ndavellenewyork.com",
+          "source_type": "official business Facebook page (public intro/about section, no login)",
+          "purpose": "general customer inquiry address published in the page intro alongside phone and website",
+          "business_match": "Facebook intro lists '102 Suffolk St' and '(646) 988-1973' — exact match to saved address and phone; linked website 'davellenewyork.com' matches the saved website",
+          "identity_evidence": [
+            {
+              "url": "https://www.facebook.com/davelle.nyc/",
+              "quote": "Page · Cafe · Japanese Restaurant · Specialty Grocery Store\n102 Suffolk St\n(646) 988-1973\nhello@davellenewyork.com\ndavellenewyork.com"
+            },
+            {
+              "url": "https://davellenewyork.com/",
+              "quote": "Davelle — Japanese café · 102 Suffolk Street, New York (site header/visit section confirms 102 Suffolk Street, Lower East Side, open daily 8 AM – 5 PM)"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Published on the restaurant's own Facebook page with matching address/phone and its own domain (davellenewyork.com). Official website itself (davellenewyork.com) is a single-page site with no contact page or mailto; email only appears on the official FB page.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently verified literal public business-contact publication. Facebook intro lists '102 Suffolk St' and '(646) 988-1973' — exact match to saved address and phone; linked website 'davellenewyork.com' matches the saved website Published on the restaurant's own Facebook page with matching address/phone and its own domain (davellenewyork.com). Official website itself (davellenewyork.com) is a single-page site with no contact page or mailto; email only appears on the official FB page."
+          }
+        },
+        {
+          "email": "102suffolk@gmail.com",
+          "url": "https://cityseeker.com/new-york/1185873-davelle",
+          "quote": "102 Suffolk Street, New York, NY, United States, 10002 102suffolk@gmail.com Today: 09:00 AM - 04:00 PM (per parent-retrieved DuckDuckGo snippet of the cityseeker listing; page itself returned a Cloudflare challenge on direct inspection)",
+          "source_type": "third-party directory listing (cityseeker.com, per parent search-leads snippet)",
+          "purpose": "directory-listed contact for the restaurant",
+          "business_match": "Same address (102 Suffolk St, 10002) as saved business; plausible restaurant-purpose address on the building-address domain, but not confirmed as published by the restaurant itself",
+          "identity_evidence": [
+            {
+              "url": "https://www.raisin.digital/en/explore/united-states/new-york/venues/davelle-6637/",
+              "quote": "candidate previously captured from Raisin venue page (page now behind Cloudflare 'Just a moment...')"
+            }
+          ],
+          "confidence": "low",
+          "decision": "candidate",
+          "notes": "Same address appeared independently on raisin.digital (prior packet candidate) and cityseeker (parent lead). Both are third-party mirrors; direct verification blocked by Cloudflare. Superseded by the source_backed hello@davellenewyork.com from the official FB page.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Davelle\" email contact 102 Suffolk St, New York, NY 10002, USA (parent search-leads)",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab"
+        }
+      ],
+      "inspected_urls": [
+        "https://davellenewyork.com/",
+        "https://davellenewyork.com/about (redirects to homepage)",
+        "https://cityseeker.com/new-york/1185873-davelle",
+        "https://www.raisin.digital/en/explore/united-states/new-york/venues/davelle-6637/",
+        "https://www.facebook.com/davelle.nyc/"
+      ],
+      "errors": [
+        "cityseeker.com/new-york/1185873-davelle returned Cloudflare 'Attention Required!' challenge; not bypassed.",
+        "raisin.digital venue page returned Cloudflare 'Just a moment...'; not bypassed.",
+        "davellenewyork.com/about serves the same single-page homepage; no separate contact page exists."
+      ],
+      "outcome": "source_backed_email_found",
+      "remaining_avenues": [
+        "Confirm inbox delivery on first outreach; hello@davellenewyork.com vs older 102suffolk@gmail.com may both exist."
+      ],
+      "effort_notes": "Homepage and about inspected (no email/mailto anywhere in HTML); FB page intro yielded the published address with exact matching address/phone. ~6 command groups used.",
+      "worker_claimed_checked_at": "2026-10-05T06:07:00Z",
+      "batch_completed_at": "2026-10-05T06:11:43.786915+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.490478+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-05",
+      "artifact_sha256": "64c31ccfb3906e276150604955f2eb251bddd9135580e1b195197e3a37732574",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "hello@davellenewyork.com"
+      ],
+      "no_general_email_reason": ""
     }
   }
 }

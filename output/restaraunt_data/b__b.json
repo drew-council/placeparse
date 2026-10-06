@@ -503,6 +503,54 @@
         "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "b__b.json",
+      "name": "B & B",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"BB Halal Food\" \"165 W 26th St\" OR \"New York\" contact email",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent-provided targeted search)"
+        },
+        {
+          "query": "\"BB Halal Food Inc\" New York 646-429-8174 OR \"26th St\"",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent-provided targeted search)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.allbiz.com/business/b-b_70O-646-429-8174",
+        "https://www.restaurant.com/locations/b-b-restaurant-corp-1421",
+        "https://www.yelp.com/biz/b-and-b-new-york-3",
+        "https://maps.google.com/?cid=12004329970573048359",
+        "https://bbhalalfoodinc.com/",
+        "https://bbhalalfoodinc.com/contact/",
+        "https://bbhalalfoodinc.com/faq/"
+      ],
+      "errors": [
+        "Identity discovery: Google Maps cid=12004329970573048359 resolves the saved 'B & B' to 'BB Halal Food Inc', Halal restaurant, 165 W 26th St, New York, NY 10001, phone (646) 429-8174 - both saved address and phone match.",
+        "allbiz.com Cloudflare 'Sorry, you have been blocked'; restaurant.com Cloudflare security verification; yelp.com returned empty bot-walled page.",
+        "bbhalalfoodinc.com/contact/ says 'Use the form for large groups, catering, or advance reservations' but the page contains zero <form> elements (iframes: none, form count: 0) - the advertised form does not exist on the page; not recorded as a usable form fallback.",
+        "brunchatsnackchat.com B&B article and yellowpages B&B Restaurant Corp page (parent leads) not opened; equivalent directory/blog pages yielded no emails this session and browser-command budget was near the guardrail."
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "bbhalalfoodinc.com is a strong identity match (exact address, phone, Google rating/reviews mirrored) yet publishes no email anywhere on Home/Contact/FAQ/About; a deeper crawl of /menu/ and /about/ pages could be re-run, though the evaluated pages exposed none.",
+        "Google Maps listing shows no website and no owner claim; owner-claimed listing could add a contact.",
+        "Third-party delivery apps (DoorDash/Grubhub/UberEats) may carry an operator contact field; not inspected this run."
+      ],
+      "effort_notes": "Parent targeted search resolved a previously unknown matching website (bbhalalfoodinc.com, title/snippet explicitly match 165 W 26th St + 646-429-8174). Loaded its homepage, contact page, and FAQ: address and phone match everywhere, but no mailto, no email string anywhere in the DOM, and the advertised contact form is absent from the DOM. Recorded no email and no form; the prior allbiz form rejection stands.",
+      "worker_claimed_checked_at": "2026-10-05T05:51:51Z",
+      "batch_completed_at": "2026-10-05T05:52:42.594255+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.449440+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-01",
+      "artifact_sha256": "fb1a9d8a8677829bf12161aebdaf9b2e2cad3a9256e7480e18f13f2e23edf770",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Parent targeted search resolved a previously unknown matching website (bbhalalfoodinc.com, title/snippet explicitly match 165 W 26th St + 646-429-8174). Loaded its homepage, contact page, and FAQ: address and phone match everywhere, but no mailto, no email string anywhere in the DOM, and the advertised contact form is absent from the DOM. Recorded no email and no form; the prior allbiz form rejection stands."
+    }
   }
 }

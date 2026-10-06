@@ -108,6 +108,64 @@
         "\"support@wahfungno1fastfood.site\" Wah Fung No.1 Fast Food"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "wah_fung_no1_fast_food.json",
+      "name": "Wah Fung No.1 Fast Food",
+      "emails": [
+        {
+          "email": "support@wahfungno1fastfood.site",
+          "url": "https://wahfungno1fastfood.goldenpalacebrooklyn.site/",
+          "quote": "Call: <a href=\"tel:+12129255175\">+12129255175</a> <br> Email: <a href=\"mailto:support@wahfungno1fastfood.site\">support@wahfungno1fastfood.site</a>",
+          "source_type": "third_party_directory_or_template_site",
+          "purpose": "footer 'Call / Email' widget presenting itself as the restaurant's contact channel",
+          "business_match": "uncertain: site footer lists tel:+12129255175 which matches the real Wah Fung at 79 Chrystie St, but the domain (wahfungno1fastfood.site serving content under wahfungno1fastfood.goldenpalacebrooklyn.site) is an auto-generated WordPress template ('Order Fast Food / Learn Mandarin / Try New Foods' filler content, gibberish About, reservation page with no actual form) inconsistent with the real cash-only, no-reservation restaurant; ownership by the restaurant unproven",
+          "identity_evidence": [
+            {
+              "url": "https://wahfungno1fastfood.goldenpalacebrooklyn.site/reservation/",
+              "quote": "Reservation page contains zero form elements and no booking mechanism (site-wide eval found forms:[]) — template artifact"
+            },
+            {
+              "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/miscellaneous/43307214-wah-fung-no-1-fast-food",
+              "quote": "Wah Fung No.1 Fast Food located at 79 Chrystie St, New York, NY 10002 (phone match 212-925-5175 confirmed via parent search snippet of kikisnyc variant: '(212) 925-5175')"
+            }
+          ],
+          "confidence": "low",
+          "decision": "candidate",
+          "notes": "Prior rejection reason stands: published on a directory-style template site; name/phone copied onto it does not establish the restaurant owns the mailbox. Kept as candidate; do not promote without ownership evidence.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Wah Fung No.1 Fast Food\" email contact 79 Chrystie St (parent-retrieved)",
+          "provider": "DuckDuckGo in parent-authorized pinned tab"
+        }
+      ],
+      "inspected_urls": [
+        "https://wahfungno1fastfood.site/ (redirects to https://wahfungno1fastfood.goldenpalacebrooklyn.site/)",
+        "https://wahfungno1fastfood.goldenpalacebrooklyn.site/reservation/ (no form; confirms template nature)"
+      ],
+      "errors": [],
+      "outcome": "unverified_email_candidate",
+      "remaining_avenues": [
+        "WHOIS/registrant-independent ownership proof is out of scope; the real Wah Fung (79 Chrystie St, cash-only) has no discoverable published email of its own"
+      ],
+      "effort_notes": "Re-inspected the previously rejected source at deeper level (footer HTML context + reservation page) to characterize it precisely rather than repeating the prior conclusion.",
+      "worker_claimed_checked_at": "2026-10-05T07:44:05Z",
+      "batch_completed_at": "2026-10-05T07:48:19.571010+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.548491+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-20",
+      "artifact_sha256": "2defc17f9a9bca915f7a051661666e86a8ff34a275abec13d318816a1d36390f",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
     }
   }
 }

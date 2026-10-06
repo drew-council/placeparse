@@ -577,6 +577,41 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "yamato_japanese_restaurant.json",
+      "name": "Yamato Japanese Restaurant",
+      "emails": [],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://www.facebook.com/p/Yamato-Japanese-Restaurant-100063610479187/",
+        "https://www.findglocal.com/US/Tucson/143320342346509/Yamato-Japanese-Restaurant",
+        "https://usarestaurants.info/explore/united-states/arizona/pima-county/tucson/yamato-japanese-restaurant-520-624-3377.htm",
+        "https://www.whereorg.com/yamato-japanese-restaurant-592660",
+        "https://www.buzzfile.com/business/Yamato-Japanese-Restaurant-520-624-3377"
+      ],
+      "errors": [
+        "facebook.com public page redirected to a login wall (no account use permitted); the robot-excluded m.facebook.com URL was not revisited.",
+        "findglocal.com (public FB-info mirror for page id 143320342346509) returned a Cloudflare bot-verification page; not bypassed."
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Buzzfile names owner Noboru Nakajima with phone (520) 624-3377; a deeper Buzzfile/Dun Bradstreet contact lookup is paywalled — parent may decide whether a paid-source lead is acceptable.",
+        "Yelp inbox-style 'Contact' or the Facebook page About section behind a non-login public render may carry an email; not accessible here.",
+        "Phone (520) 624-3377 remains the only published route."
+      ],
+      "effort_notes": "Inspected the public Facebook page (login wall), findglocal mirror (Cloudflare challenge, not bypassed), usarestaurants.info, whereorg, and buzzfile directory pages; only vendor-self emails (sales@/info@buzzfile.com) found and correctly withheld as non-restaurant.",
+      "worker_claimed_checked_at": "2026-10-05T07:42:24Z",
+      "batch_completed_at": "2026-10-05T07:45:41.668207+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.551764+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-21",
+      "artifact_sha256": "51ff24b7d9798402c1a227bf85e810a871341065602589e48523b43ab7ad0ad7",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Inspected the public Facebook page (login wall), findglocal mirror (Cloudflare challenge, not bypassed), usarestaurants.info, whereorg, and buzzfile directory pages; only vendor-self emails (sales@/info@buzzfile.com) found and correctly withheld as non-restaurant."
+    }
   }
 }

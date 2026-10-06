@@ -548,13 +548,18 @@
     "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
     "8c4075d5481d476e945486754f783364@sentry.io",
     "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
-    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com"
+    "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+    "customerservice@mangomangodessert.com"
   ],
   "business_status_checked_at": "2026-10-03T20:05:37.071995+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:20.789295+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "customerservice@mangomangodessert.com": [
+        "https://www.mangomangodessert.com/privacy"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.mangomangodessert.com/",
@@ -596,6 +601,36 @@
           "https://www.franchimp.com/?page=franchisor&id=108604"
         ],
         "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    },
+    "role_overrides": {
+      "customerservice@mangomangodessert.com": "privacy/legal"
+    },
+    "publication_evidence": {
+      "customerservice@mangomangodessert.com": {
+        "evidence": [
+          {
+            "url": "https://www.mangomangodessert.com/privacy",
+            "quote": "If at any time you wish to subscribe to any communications from us, you may do so by contacting us at customerservice@mangomangodessert.com.",
+            "identity_evidence": [
+              {
+                "url": "https://www.mangomangodessert.com/order-now",
+                "quote": "(917) 563-1847 136-28 39th Ave... Flushing, NY 11354"
+              },
+              {
+                "url": "https://www.mangomangodessert.com/privacy",
+                "quote": "contacting us at customerservice@mangomangodessert.com (published as mailto: link on official site)"
+              }
+            ],
+            "source_type": "official website privacy page (also published as mailto: link)",
+            "purpose": "privacy/legal",
+            "parent_reason": "Parent independently verified public publication and context. Published on the official Mango Mango Dessert site (title: 'Mango Mango Dessert-Official Site'); the same site's order-now page lists the saved Flushing branch with matching phone and address Found in this run's deeper inspection of the official site privacy page (not present on career/franchise pages, which are form-only). Purpose is customer-service/communications per the privacy-page wording, so treat as general customer-service address rather than a location-specific inbox. Publication verified only; inbox delivery not probed. Source-specific purpose preserved; not inferred from mailbox local-part.",
+            "notes": "Found in this run's deeper inspection of the official site privacy page (not present on career/franchise pages, which are form-only). Purpose is customer-service/communications per the privacy-page wording, so treat as general customer-service address rather than a location-specific inbox. Publication verified only; inbox delivery not probed.",
+            "checked_at": "2026-10-05T07:21:04.919980+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Found in this run's deeper inspection of the official site privacy page (not present on career/franchise pages, which are form-only). Purpose is customer-service/communications per the privacy-page wording, so treat as general customer-service address rather than a location-specific inbox. Publication verified only; inbox delivery not probed. Parent independently verified literal publication on brand privacy page, scoped to policy/data/communications questions. Saved Flushing branch confirmed on official brand location evidence. Accepted only as privacy/legal; not general despite customerservice local-part."
       }
     }
   },
@@ -673,6 +708,86 @@
         "\"info@mangomangodessert.com\" Mango Mango Dessert"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "mango_mango_dessert.json",
+      "name": "Mango Mango Dessert",
+      "emails": [
+        {
+          "email": "customerservice@mangomangodessert.com",
+          "url": "https://www.mangomangodessert.com/privacy",
+          "quote": "If at any time you wish to subscribe to any communications from us, you may do so by contacting us at customerservice@mangomangodessert.com.",
+          "source_type": "official website privacy page (also published as mailto: link)",
+          "purpose": "customer-service / general communications contact on the official brand site (privacy page context, mailto link present)",
+          "business_match": "Published on the official Mango Mango Dessert site (title: 'Mango Mango Dessert-Official Site'); the same site's order-now page lists the saved Flushing branch with matching phone and address",
+          "identity_evidence": [
+            {
+              "url": "https://www.mangomangodessert.com/order-now",
+              "quote": "(917) 563-1847 136-28 39th Ave... Flushing, NY 11354"
+            },
+            {
+              "url": "https://www.mangomangodessert.com/privacy",
+              "quote": "contacting us at customerservice@mangomangodessert.com (published as mailto: link on official site)"
+            }
+          ],
+          "confidence": "medium-high",
+          "decision": "source_backed",
+          "notes": "Found in this run's deeper inspection of the official site privacy page (not present on career/franchise pages, which are form-only). Purpose is customer-service/communications per the privacy-page wording, so treat as general customer-service address rather than a location-specific inbox. Publication verified only; inbox delivery not probed.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "privacy/legal",
+            "reason": "Parent independently verified literal publication on brand privacy page, scoped to policy/data/communications questions. Saved Flushing branch confirmed on official brand location evidence. Accepted only as privacy/legal; not general despite customerservice local-part."
+          }
+        },
+        {
+          "email": "info@mangomangodessert.com",
+          "url": "https://www.franchimp.com/?page=franchisor&id=108604",
+          "quote": "Prior packet citation: 'Restaurant-specific address published by a third-party source'. Re-inspection of the same franchimp URL in this run rendered no email address on the page.",
+          "source_type": "third-party directory (prior citation)",
+          "purpose": "general info contact (claimed)",
+          "business_match": "Third-party franchisor profile for Mango Mango Dessert; ownership/current use not confirmed",
+          "identity_evidence": [],
+          "confidence": "low",
+          "decision": "candidate",
+          "notes": "Carried forward from prior packet as candidate only. Current franchimp page no longer displays the address, so the lead could not be re-verified this run. Not promoted; customerservice@mangomangodessert.com is the preferred source-backed address.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "Parent-provided DuckDuckGo lead: \"Mango Mango Dessert\" email contact 136-28 39th Ave, Flushing, NY 11354, USA (results inspected; no email in results)",
+          "provider": "DuckDuckGo (parent-authorized tab, via parent-search-leads)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.mangomangodessert.com/career",
+        "https://www.mangomangodessert.com/franchise",
+        "https://www.mangomangodessert.com/privacy",
+        "https://www.franchimp.com/?page=franchisor&id=108604",
+        "https://www.mangomangodessert.com/order-now"
+      ],
+      "errors": [],
+      "outcome": "source_backed_email_found",
+      "remaining_avenues": [
+        "Per-location inbox for the Flushing branch, if one exists beyond the brand-level customerservice address"
+      ],
+      "effort_notes": "Crawled official career, franchise, privacy, and order-now pages; re-inspected franchimp candidate page. ~5 browser command groups.",
+      "worker_claimed_checked_at": "2026-10-05T06:40:15Z",
+      "batch_completed_at": "2026-10-05T06:41:32.322541+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.516401+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-12",
+      "artifact_sha256": "9d57fba9ea6f3190cf501ca8668997d254d6537a7936507fe739f58a8d4e1796",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "customerservice@mangomangodessert.com"
+      ],
+      "no_general_email_reason": "Only limited-purpose published email(s); no accepted general-inquiry email in checked sources."
     }
   }
 }

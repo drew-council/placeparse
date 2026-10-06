@@ -574,6 +574,54 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "very_fresh_noodles.json",
+      "name": "Very Fresh Noodles",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Very Fresh Noodles\" \"veryfreshnoodles.com\" email (parent-retrieved)",
+          "provider": "DuckDuckGo in parent-authorized pinned tab"
+        },
+        {
+          "query": "\"Very Fresh Noodles\" catering email (parent-retrieved)",
+          "provider": "DuckDuckGo in parent-authorized pinned tab"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.veryfreshnoodles.com/ (footer email icon links to malformed 'mailto:veryfreshnoodles.com' — no '@' present; surrounding footer otherwise phone + hours only)",
+        "https://foodguidez.com/directory/very-fresh-noodles/ (restaurant email shown only as Cloudflare-obfuscated '[email protected]'; page did not decode after JS wait; only admin@foodguidez.com = publisher contact)",
+        "https://www.cybo.com/US-biz/very-fresh-noodles_1m (Cloudflare security verification, no content)",
+        "https://www.chelseamarket.com/directory-all/very-fresh-noodles (CONTACT block is phone (332) 215-6161 only; CHELSEAMARKETINFO@JAMESTOWNLP.COM is landlord Jamestown LP leasing contact)"
+      ],
+      "errors": [
+        "Cybo served Cloudflare verification; not bypassed",
+        "FoodGuidez/cybo restaurant email rendered as Cloudflare-obfuscated [email protected] and never decoded in DOM"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "The malformed footer link 'mailto:veryfreshnoodles.com' on the official site suggests an email icon was misconfigured; the Vue app source may contain the intended address — worth a parent-side raw-HTML/API inspection.",
+        "Cybo listing states an email exists for the business but is Cloudflare-protected; FoodGuidez obfuscated value undecodable in-session."
+      ],
+      "candidate_addresses_withheld": [
+        {
+          "note": "obfuscated '[email protected]' shown in parent DDG snippet of foodguidez.com/directory/very-fresh-noodles/ — third-party directory, address unreadable, not counted",
+          "reason": "cannot read literal address; snippet alone is not source-backed"
+        }
+      ],
+      "effort_notes": "Official site checked (home, 404/visit-us probe, raw-HTML mailto scan). Two directory pages attempted; both obfuscated/blocked. Chelsea Market tenant page re-checked live: contact is phone-only; leasing email is landlord's.",
+      "worker_claimed_checked_at": "2026-10-05T07:44:05Z",
+      "batch_completed_at": "2026-10-05T07:48:19.571010+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.548118+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-20",
+      "artifact_sha256": "2defc17f9a9bca915f7a051661666e86a8ff34a275abec13d318816a1d36390f",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Official site checked (home, 404/visit-us probe, raw-HTML mailto scan). Two directory pages attempted; both obfuscated/blocked. Chelsea Market tenant page re-checked live: contact is phone-only; leasing email is landlord's."
+    }
   }
 }

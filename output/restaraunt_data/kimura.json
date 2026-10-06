@@ -565,8 +565,12 @@
   "business_status_checked_at": "2026-10-03T20:05:25.580787+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:09.493530+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "kimura.press@gmail.com": [
+        "https://www.kimuranyc.com/services-3"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.kimuranyc.com/",
@@ -581,7 +585,33 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:19.389714+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "kimura.press@gmail.com": "events/catering"
+    },
+    "publication_evidence": {
+      "kimura.press@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://www.kimuranyc.com/services-3",
+            "quote": "Catering & Events\\n\\nContact  kimura.press@gmail.com for all catering inquires",
+            "identity_evidence": [
+              {
+                "url": "https://www.kimuranyc.com/",
+                "quote": "Kimura NYC - Japanese Restaurant | Motsunabe | Sushi ... 31 St Marks Pl, New York, NY 10003 917-905-1864"
+              }
+            ],
+            "source_type": "official_website",
+            "purpose": "events/catering",
+            "parent_reason": "Parent independently verified publication and exact context: Catering & Events\n\nContact  kimura.press@gmail.com for all catering inquires\n\nAll dishes are served buffet style. \n\n​\n\nHalf tray serving recommended for 3-4guests\n\nFull tray serving recommended for 6-7guests\n\nStarter\n\nEdamame \n\n$35   (Half tray)\n\n$60 (Full tray)\n\n \n\nFried chicken karaage\n\n$40   (Half tray)\n\n$75 (Full tray)\n\n \n\nShrimp Shumai(steamed dumplings)\n\n$40   (Half tray)\n\n$75 (Full tray)\n\n \n\nHomemade pork gyoza(pan fried dumplings)   *contains nuts\n\n$40   (Half tray)\n\n$75 (Full tray)\n\n​\n\nGrilled beef tongue slices\n\n$60   (Half tray)\n\n$11 Purpose restricted; not a general-inquiry/dietary recipient.",
+            "notes": "Genuine published restaurant-specific address on the official site, but purpose is catering/press routing, not a verified general-inquiry mailbox; keep the routing caveat when promoting. Publication does not verify inbox delivery/ownership.",
+            "checked_at": "2026-10-05T06:42:47.504622+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Genuine published restaurant-specific address on the official site, but purpose is catering/press routing, not a verified general-inquiry mailbox; keep the routing caveat when promoting. Publication does not verify inbox delivery/ownership. Parent independently verified publication and exact context: Catering & Events\n\nContact  kimura.press@gmail.com for all catering inquires\n\nAll dishes are served buffet style. \n\n​\n\nHalf tray serving recommended for 3-4guests\n\nFull tray serving recommended for 6-7guests\n\nStarter\n\nEdamame \n\n$35   (Half tray)\n\n$60 (Full tray)\n\n \n\nFried chicken karaage\n\n$40   (Half tray)\n\n$75 (Full tray)\n\n \n\nShrimp Shumai(steamed dumplings)\n\n$40   (Half tray)\n\n$75 (Full tray)\n\n \n\nHomemade pork gyoza(pan fried dumplings)   *contains nuts\n\n$40   (Half tray)\n\n$75 (Full tray)\n\n​\n\nGrilled beef tongue slices\n\n$60   (Half tray)\n\n$11 Purpose restricted; not a general-inquiry/dietary recipient."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -663,6 +693,63 @@
         "requires_login": true,
         "search_provider": "DuckDuckGo browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "kimura.json",
+      "name": "Kimura",
+      "emails": [
+        {
+          "email": "kimura.press@gmail.com",
+          "url": "https://www.kimuranyc.com/services-3",
+          "quote": "Catering & Events\\n\\nContact  kimura.press@gmail.com for all catering inquires",
+          "source_type": "official_website",
+          "purpose": "Catering inquiries (explicitly scoped: 'for all catering inquires'); the 'press' label in the address suggests it may also route press/catering rather than day-to-day general inquiries",
+          "business_match": "Published as a mailto link on the restaurant's own website (kimuranyc.com, page 'Catering | Kimura' linked from homepage nav); the same site's homepage lists '31 St Marks Pl, New York, NY 10003 917-905-1864' matching the saved business.",
+          "identity_evidence": [
+            {
+              "url": "https://www.kimuranyc.com/",
+              "quote": "Kimura NYC - Japanese Restaurant | Motsunabe | Sushi ... 31 St Marks Pl, New York, NY 10003 917-905-1864"
+            }
+          ],
+          "confidence": 0.7,
+          "decision": "source_backed",
+          "notes": "Genuine published restaurant-specific address on the official site, but purpose is catering/press routing, not a verified general-inquiry mailbox; keep the routing caveat when promoting. Publication does not verify inbox delivery/ownership.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "events/catering",
+            "reason": "Parent independently verified publication and exact context: Catering & Events\n\nContact  kimura.press@gmail.com for all catering inquires\n\nAll dishes are served buffet style. \n\n​\n\nHalf tray serving recommended for 3-4guests\n\nFull tray serving recommended for 6-7guests\n\nStarter\n\nEdamame \n\n$35   (Half tray)\n\n$60 (Full tray)\n\n \n\nFried chicken karaage\n\n$40   (Half tray)\n\n$75 (Full tray)\n\n \n\nShrimp Shumai(steamed dumplings)\n\n$40   (Half tray)\n\n$75 (Full tray)\n\n \n\nHomemade pork gyoza(pan fried dumplings)   *contains nuts\n\n$40   (Half tray)\n\n$75 (Full tray)\n\n​\n\nGrilled beef tongue slices\n\n$60   (Half tray)\n\n$11 Purpose restricted; not a general-inquiry/dietary recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Kimura\" email contact 31 St Marks Pl, New York, NY 10003, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome (parent leads file, no challenge)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.kimuranyc.com/",
+        "https://www.kimuranyc.com/services-3"
+      ],
+      "errors": [],
+      "outcome": "source_backed_email_found",
+      "remaining_avenues": [
+        "A general (non-catering) inquiry email was not found; site nav offers only Catering and a Resy reservation link."
+      ],
+      "effort_notes": "Followed the observed 'Catering' link from the official homepage and found a published mailto with explicit purpose line — deeper than the prior 'social_profile_leads_only' outcome. ~2 browser groups.",
+      "worker_claimed_checked_at": "2026-10-05T06:28:34Z",
+      "batch_completed_at": "2026-10-05T06:29:41.779741+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.506623+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-09",
+      "artifact_sha256": "ce6e08a692c216168faa036bb937b26433b7f91f6e5d1c74518e0c366d18092c",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "kimura.press@gmail.com"
+      ],
+      "no_general_email_reason": "Only limited-purpose published email(s); no accepted general-inquiry email in checked sources."
+    }
   }
 }

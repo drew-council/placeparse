@@ -510,6 +510,57 @@
         "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "lhasa.json",
+      "name": "Lhasa",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Lhasa Tibetan Restaurant\" \"177 1st Ave\" email contact",
+          "provider": "parent DuckDuckGo (depth11-targeted-searches.json)"
+        },
+        {
+          "query": "lhasanyc New York Tibetan restaurant email",
+          "provider": "parent DuckDuckGo (depth11-targeted-searches.json)"
+        },
+        {
+          "query": "\"Lhasa\" email contact 177 1st Ave, New York, NY 10003, USA",
+          "provider": "parent DuckDuckGo (email-depth-11-parent-search-leads.json)"
+        }
+      ],
+      "inspected_urls": [
+        "https://maps.google.com/?cid=6124083237205411752",
+        "https://eastvillage.com/restaurants/lhasa-tibetan-restaurant/",
+        "https://www.postcard.inc/places/lhasa-new-york-juVc9ayTlbL",
+        "https://www.facebook.com/lhasafastfood/about",
+        "https://www.findglocal.com/US/New-York/117079168161919/Lhasa-Tibetan-Restaurant-%26-Bar",
+        "https://www.newyorkmeal.com/103105936015782/Lhasa-Tibetan-Restaurant",
+        "https://www.instagram.com/lhasanyc/ (login wall; snippet from parent search shows only phones 917-388-2230 / 347-952-6934)"
+      ],
+      "errors": [
+        "postcard.inc blocked by Vercel Security Checkpoint; not bypassed.",
+        "findglocal.com blocked by Cloudflare 'Just a moment...'; not bypassed.",
+        "instagram.com/lhasanyc redirected to login wall; not bypassed.",
+        "My own DuckDuckGo session was CAPTCHA-challenged and Bing degraded; targeted searches delegated to parent instead."
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "The Facebook page facebook.com/lhasafastfood (Lhasa Tibetan Restaurant & Bar) lists website commuhealtibet.org and the Jackson Heights address 37-50 74th St, 11372 with phone 347-952-6934 — a same-brand sister location, not the saved East Village branch (177 1st Ave, 917-388-2230). commuhealtibet.org may carry a shared/parent contact address but was not inspected due to time; verify brand relationship before any use.",
+        "East Village branch has no website in Google Maps ('Add website' shown); a phone-first contact attempt may be the only route."
+      ],
+      "effort_notes": "~5 command groups including parent-supplied targeted queries. Google Maps confirms no website field; no mailto/obfuscated emails on any inspected page. Facebook lead found by parent was verified to be a DIFFERENT branch (Jackson Heights address/phone), so it cannot serve the saved business.",
+      "worker_claimed_checked_at": "2026-10-05T06:37:59Z",
+      "batch_completed_at": "2026-10-05T06:38:39.698611+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.513448+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-11",
+      "artifact_sha256": "f36c0b8087551d0a36ceb7cbbfacee76232d63607cefe8bfb18bdb96ea205cf1",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. ~5 command groups including parent-supplied targeted queries. Google Maps confirms no website field; no mailto/obfuscated emails on any inspected page. Facebook lead found by parent was verified to be a DIFFERENT branch (Jackson Heights address/phone), so it cannot serve the saved business."
+    }
   }
 }

@@ -83,6 +83,46 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "birria_les_astoria.json",
+      "name": "Birria LES Astoria",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "Birria LES Astoria NY 11105 contact email (carried from prior sweep; new sweep used link-following instead of fresh searches after DDG/Google challenges)",
+          "provider": "Google browser (prior)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.mywebsample01.com/",
+        "https://www.mywebsample01.com/about-us/",
+        "https://www.birriales.com/",
+        "https://birriales.restaurants-info.com/",
+        "https://www.instagram.com/birriales/"
+      ],
+      "errors": [
+        "https://www.birriales.com/ serves a default 'Welcome to nginx!' placeholder page — the official domain (referenced from the brand site footer: 'Tell us about your event at www.birriales.com') is not hosting content.",
+        "https://www.instagram.com/birriales/ redirects to Instagram login ('Log into Instagram'); public bio could not be read without an account (no login permitted)."
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Read the @birriales or @birrialandianyc Instagram bio/contact button via an authenticated or API channel outside this task's constraints.",
+        "Check whether the Astoria branch's UberEats/Seamless merchant pages carry a merchant contact email (prior results listed them; merchant-support addresses would not count as restaurant staff anyway).",
+        "The brand site mywebsample01.com publishes only phone numbers per location; if the brand adds a contact page or revives birriales.com, re-check."
+      ],
+      "effort_notes": "Key deepening: mywebsample01.com is confirmed as the genuine BirriaLES brand site (about page documents founders Raymundo Garcia, Iqbal Ahmed, Emon Ullah; footer 'Contact Us' lists all four branches with phones). No email anywhere on the site (homepage + about page HTML searched). birriales.com, the catering contact destination published in the footer, is a dead nginx placeholder. No published email found for the Astoria branch.",
+      "worker_claimed_checked_at": "2026-10-05T05:43:00Z",
+      "batch_completed_at": "2026-10-05T05:44:15.394399+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.477824+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-02",
+      "artifact_sha256": "5cca1b3cca7c924d6b0c87999bf632f51e4cae5dafa3120425a163980372cd6f",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Key deepening: mywebsample01.com is confirmed as the genuine BirriaLES brand site (about page documents founders Raymundo Garcia, Iqbal Ahmed, Emon Ullah; footer 'Contact Us' lists all four branches with phones). No email anywhere on the site (homepage + about page HTML searched). birriales.com, the catering contact destination published in the footer, is a dead nginx placeholder. No published email found for the Astoria branch."
+    }
   }
 }

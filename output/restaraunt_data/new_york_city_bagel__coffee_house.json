@@ -577,6 +577,67 @@
         "\"info@nycbch.com\" New York City Bagel & Coffee House"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "new_york_city_bagel__coffee_house.json",
+      "name": "New York City Bagel & Coffee House",
+      "emails": [
+        {
+          "email": "info@nycbch.com",
+          "url": "https://www.allbiz.com/business/new-york-city-bagel-coffee-house-718-728-9500",
+          "quote": "Third-party directory listing 'New York City Bagel & Coffee House | (718) 728-9500 | Astoria, Queens' publishing info@nycbch.com (address-matching candidate carried from packet; live re-inspection this run was blocked by Cloudflare, so the literal on-page quote could not be re-captured).",
+          "source_type": "third_party_directory",
+          "purpose": "general business contact as published by the directory",
+          "business_match": "Domain nycbch.com matches the saved official website https://nycbch.com/ for this restaurant; directory entry matches saved address (40-05 Broadway, Astoria, NY 11103) and phone (718) 728-9500/9511.",
+          "identity_evidence": [
+            {
+              "url": "https://nycbch.com/ (saved website field of listing)",
+              "quote": "packet: website = https://nycbch.com/ - 'NYC Bagel and Coffee House | American Restaurant'"
+            }
+          ],
+          "confidence": "low-medium",
+          "decision": "candidate",
+          "notes": "Remains a candidate exactly as in the packet: restaurant-specific-looking address on the business's own domain published by a third party, but inbox ownership/current use unconfirmed. Re-verification attempts this run were blocked by Cloudflare on both allbiz.com and nycbch.com.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"New York City Bagel & Coffee House\" email contact 40-05 Broadway, Astoria, NY 11103, USA",
+          "provider": "parent-search-leads (DuckDuckGo, pre-retrieved)"
+        }
+      ],
+      "inspected_urls": [
+        "https://nycbch.com/",
+        "https://localitybiz.com/28858226/new-york-city-bagel-%26-coffee-house-astoria",
+        "https://a-better-place.com/US/new-york-city-bagel-coffee-house-i399530.html",
+        "https://www.allbiz.com/business/new-york-city-bagel-coffee-house-718-728-9500"
+      ],
+      "errors": [
+        "https://nycbch.com/ - Cloudflare 'Just a moment...' challenge persisting >10s; official contact page unreachable this run (not bypassed)",
+        "https://localitybiz.com/28858226/... - Cloudflare 'Just a moment...' challenge",
+        "https://www.allbiz.com/business/new-york-city-bagel-coffee-house-718-728-9500 - Cloudflare 'Sorry, you have been blocked'"
+      ],
+      "outcome": "unverified_email_leads_only",
+      "remaining_avenues": [
+        "Inspect https://nycbch.com/ contact/about/footer from a session that passes Cloudflare to confirm or refute info@nycbch.com on the official site",
+        "Check the restaurant's ordering/catering platform (Eater links Grubhub delivery) for a published contact email"
+      ],
+      "effort_notes": "Attempted deeper confirmation of the packet's candidate: official site and both corroborating directories are Cloudflare-challenged this run. Candidate carried forward unchanged with re-inspection failures documented. ~4 browser command groups.",
+      "worker_claimed_checked_at": "2026-10-05T06:58:00Z",
+      "batch_completed_at": "2026-10-05T06:54:00.676755+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.524290+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-13",
+      "artifact_sha256": "3287de346653c8e79fa618db4f0511c88e5e175262631811cb56a758280447df",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
     }
   }
 }

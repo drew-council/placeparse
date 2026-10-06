@@ -555,6 +555,57 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "cat_cafe_mocha_lounge_shibuya_koen-dori_store.json",
+      "name": "cat cafe Mocha Lounge Shibuya Koen-dori Store",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://catmocha.jp/contact/",
+          "matching_business_evidence": "Form includes 'お問い合わせ店舗(必須)' store selector listing 'モカラウンジ 渋谷公園通り店' (the saved branch); shop page https://catmocha.jp/shop/shibuyakoendori/ confirms 03-6277-5745 and 東京都渋谷区神南1-16-3 ブル・ヴァールビル5F.",
+          "fields": "お問い合わせ項目(必須) [システム・ルールのご質問 / 採用に関するお問い合わせ / コラボ企画・業務提携などのお問い合わせ / 取材・メディア掲載のお問い合わせ / その他ご意見・ご要望等]; 会社名; お名前(必須); 電話番号; E-mail(必須); E-mail確認用(必須); お問い合わせ店舗(必須); お問い合わせ内容(必須); 添付ファイル",
+          "general_vs_restricted": "general",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"cat cafe Mocha Lounge Shibuya Koen-dori Store\" email contact Japan, 〒150-0041 Tokyo, Shibuya, Jinnan, 1-chōme−16−３ Boule Vard, 5F",
+          "provider": "DuckDuckGo (parent search-leads cache, results inspected)"
+        },
+        {
+          "query": "猫カフェ MOCHA リポット メールアドレス",
+          "provider": "DuckDuckGo (degraded: results page rendered with zero result articles)"
+        }
+      ],
+      "inspected_urls": [
+        "https://catmocha.jp/shop/shibuyakoendori/",
+        "https://catmocha.jp/contact/",
+        "https://www.re-pot.com/ (COMPANY link target; operating company Re Pot Co., Ltd.)",
+        "https://www.re-pot.com/contact/ (404; お問い合わせ nav link points back to https://catmocha.jp/contact/)",
+        "https://catmocha.jp/faq/",
+        "https://recruit-catmocha.com/"
+      ],
+      "errors": [
+        "DuckDuckGo results page loaded but rendered no result articles for the live query (degraded frontend); per contract stopped provider cycling after DDG plus parent-lead review."
+      ],
+      "outcome": "general_contact_form",
+      "remaining_avenues": [
+        "Operating company Re Pot Co., Ltd. publishes no company-wide or branch email; its contact route is the same catmocha.jp/contact form.",
+        "No mailto anywhere on brand site, company site, FAQ, or recruit site."
+      ],
+      "effort_notes": "Followed the parent-brand chain (catmocha.jp -> re-pot.com -> recruit-catmocha.com) and FAQ; all email-free. Form is the documented general channel with branch-specific store selection.",
+      "worker_claimed_checked_at": "2026-10-05T07:57:33Z",
+      "batch_completed_at": "2026-10-05T07:58:26.466566+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.557680+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-23",
+      "artifact_sha256": "b7058820f3bdb439fd1fe8133aff0dae9b2ec68a7ad0bfa92f3a262c45bd5350",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Followed the parent-brand chain (catmocha.jp -> re-pot.com -> recruit-catmocha.com) and FAQ; all email-free. Form is the documented general channel with branch-specific store selection."
+    }
   }
 }

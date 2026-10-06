@@ -454,8 +454,12 @@
   "business_status_checked_at": "2026-10-03T20:05:30.568522+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:14.693149+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "laghmanexpress@gmail.com": [
+        "https://www.facebook.com/people/Laghman-Express/61574716337327/"
+      ]
+    },
     "pages": [
       {
         "url": "https://laghmanexpress.com/",
@@ -490,7 +494,37 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:34.729056+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "laghmanexpress@gmail.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "laghmanexpress@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://www.facebook.com/people/Laghman-Express/61574716337327/",
+            "quote": "Page · Halal Restaurant · Asian Restaurant · Restaurant\n2376 Coney Island Ave , New York, NY, United States, New York\n(315) 621-0525\nlaghmanexpress@gmail.com\nlaghmanexpress@gmail.com\nlaghmanexpress.com\nClosed now",
+            "identity_evidence": [
+              {
+                "url": "https://laghmanexpress.com/",
+                "quote": "Coney Island Ave · Gravesend 2376 Coney Island Ave, Brooklyn, NY 11223 Daily 11 am - 10 pm (718) 233-8333"
+              },
+              {
+                "url": "https://www.facebook.com/people/Laghman-Express/61574716337327/",
+                "quote": "We shall be closed tomorrow, March 20th (Friday) at both Brooklyn locations for Eid!"
+              }
+            ],
+            "source_type": "official business social page (public, no login)",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently verified public publication and context. Page lists address '2376 Coney Island Ave, New York, NY' exactly matching the saved record (2376 Coney Island Ave, Brooklyn, NY 11223) and links to laghmanexpress.com — the saved official website. Page posts reference 'both Brooklyn locations'. Published twice in the Intro. Caveat: the Facebook page lists phone (315) 621-0525, which differs from the saved (718) 233-8333 (possibly a newer/catering line); address and the official laghmanexpress.com link provide the identity match. Delivery not verified. Source-specific purpose preserved; not inferred from mailbox local-part.",
+            "notes": "Published twice in the Intro. Caveat: the Facebook page lists phone (315) 621-0525, which differs from the saved (718) 233-8333 (possibly a newer/catering line); address and the official laghmanexpress.com link provide the identity match. Delivery not verified.",
+            "checked_at": "2026-10-05T07:21:04.916184+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Published twice in the Intro. Caveat: the Facebook page lists phone (315) 621-0525, which differs from the saved (718) 233-8333 (possibly a newer/catering line); address and the official laghmanexpress.com link provide the identity match. Delivery not verified. Parent independently verified public publication and context. Page lists address '2376 Coney Island Ave, New York, NY' exactly matching the saved record (2376 Coney Island Ave, Brooklyn, NY 11223) and links to laghmanexpress.com — the saved official website. Page posts reference 'both Brooklyn locations'. Published twice in the Intro. Caveat: the Facebook page lists phone (315) 621-0525, which differs from the saved (718) 233-8333 (possibly a newer/catering line); address and the official laghmanexpress.com link provide the identity match. Delivery not verified. Source-specific purpose preserved; not inferred from mailbox local-part."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -557,6 +591,64 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "laghman_express.json",
+      "name": "Laghman Express",
+      "emails": [
+        {
+          "email": "laghmanexpress@gmail.com",
+          "url": "https://www.facebook.com/people/Laghman-Express/61574716337327/",
+          "quote": "Page · Halal Restaurant · Asian Restaurant · Restaurant\n2376 Coney Island Ave , New York, NY, United States, New York\n(315) 621-0525\nlaghmanexpress@gmail.com\nlaghmanexpress@gmail.com\nlaghmanexpress.com\nClosed now",
+          "source_type": "official business social page (public, no login)",
+          "purpose": "general contact email listed in the page's public Intro/contact block (published twice)",
+          "business_match": "Page lists address '2376 Coney Island Ave, New York, NY' exactly matching the saved record (2376 Coney Island Ave, Brooklyn, NY 11223) and links to laghmanexpress.com — the saved official website. Page posts reference 'both Brooklyn locations'.",
+          "identity_evidence": [
+            {
+              "url": "https://laghmanexpress.com/",
+              "quote": "Coney Island Ave · Gravesend 2376 Coney Island Ave, Brooklyn, NY 11223 Daily 11 am - 10 pm (718) 233-8333"
+            },
+            {
+              "url": "https://www.facebook.com/people/Laghman-Express/61574716337327/",
+              "quote": "We shall be closed tomorrow, March 20th (Friday) at both Brooklyn locations for Eid!"
+            }
+          ],
+          "confidence": "medium-high",
+          "decision": "source_backed",
+          "notes": "Published twice in the Intro. Caveat: the Facebook page lists phone (315) 621-0525, which differs from the saved (718) 233-8333 (possibly a newer/catering line); address and the official laghmanexpress.com link provide the identity match. Delivery not verified.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently verified public publication and context. Page lists address '2376 Coney Island Ave, New York, NY' exactly matching the saved record (2376 Coney Island Ave, Brooklyn, NY 11223) and links to laghmanexpress.com — the saved official website. Page posts reference 'both Brooklyn locations'. Published twice in the Intro. Caveat: the Facebook page lists phone (315) 621-0525, which differs from the saved (718) 233-8333 (possibly a newer/catering line); address and the official laghmanexpress.com link provide the identity match. Delivery not verified. Source-specific purpose preserved; not inferred from mailbox local-part."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://laghmanexpress.com/",
+        "https://laghmanexpress.com/about-us",
+        "https://laghmanexpress.com/about/",
+        "https://www.facebook.com/people/Laghman-Express/61574716337327/"
+      ],
+      "errors": [],
+      "outcome": "email_found",
+      "remaining_avenues": [
+        "The official laghmanexpress.com site itself publishes no email on home/about pages; if parent wants a site-published address, none exists in checked pages."
+      ],
+      "effort_notes": "Full-site email/mailto extraction on the official domain (home, /about-us, /about) found nothing; found the published email on the official public Facebook page with exact address + official-domain link match.",
+      "worker_claimed_checked_at": "2026-10-05T06:38:59Z",
+      "batch_completed_at": "2026-10-05T06:40:05.926079+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.512069+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-10",
+      "artifact_sha256": "1f7345e076c0c9bcd51b81f469a73373564f9634df130ec08785025944ebe3fb",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "laghmanexpress@gmail.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

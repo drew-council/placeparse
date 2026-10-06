@@ -533,6 +533,54 @@
         "requires_login": true,
         "search_provider": "DuckDuckGo browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "om_wok.json",
+      "name": "Om Wok",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Om Wok\" email contact 89-17 Northern Blvd, Jackson Heights, NY 11372, USA",
+          "provider": "DuckDuckGo browser (parent search-leads cache)"
+        },
+        {
+          "query": "\"Om Wok\" Jackson Heights email contact",
+          "provider": "DuckDuckGo browser (degraded, no results rendered)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.omwokmenu.com/",
+        "https://www.facebook.com/p/Om-Wok-100070394431550/",
+        "https://www.ngatso.com/eats/om-wok-restaurant",
+        "https://www.restaurantji.com/ny/queens/om-wok-/",
+        "https://local.yahoo.com/info-206156655-om-wok-jackson-heights/",
+        "https://web.archive.org/web/20241224174048/https://www.omwokmenu.com/"
+      ],
+      "errors": [
+        "https://www.omwokmenu.com/ (the Maps/Yahoo-listed website) fails DNS resolution (ERR_NAME_NOT_RESOLVED)",
+        "Facebook page https://www.facebook.com/p/Om-Wok-100070394431550/ redirects to a login wall (no login performed)",
+        "restaurantji.com blocked by Cloudflare 'Just a moment...' challenge (not bypassed)",
+        "DuckDuckGo full-JS search returned an empty shell with zero results (degraded; stopped cycling providers after Google was previously CAPTCHA-blocked in this run)"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "The Wayback Machine capture of omwokmenu.com (2024-12-24) shows a 'Contact us' section with only '8917 Northern Blvd, Jackson Heights, NY 11372, United States' and '+1 718-639-8800' — no email; earlier captures (2020-2023) were not checked and could predate a contact-email change",
+        "Facebook page bio/post text is behind a login wall; the page (Om Wok | Jackson Heights NY) may publish an email in its About section",
+        "Ngatso Tibetan community site page only publishes the platform contact info@ngatso.com (mailto present), consistent with prior rejection",
+        "Ask parent to retrieve targeted results for: \"Om Wok\" \"Northern Blvd\" email OR gmail"
+      ],
+      "effort_notes": "About 8 browser command groups including an archive.org deep-dive of the dead official site. Contact section of the archived site contains address/phone only.",
+      "worker_claimed_checked_at": "2026-10-05T06:53:19Z",
+      "batch_completed_at": "2026-10-05T06:54:31.233557+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.526384+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-14",
+      "artifact_sha256": "e6b5b8faa2c19283b59313e8cad615fc54cacb70462a0d23065cc6f55c0fbbb1",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. About 8 browser command groups including an archive.org deep-dive of the dead official site. Contact section of the archived site contains address/phone only."
+    }
   }
 }

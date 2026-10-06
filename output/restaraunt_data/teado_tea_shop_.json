@@ -75,6 +75,38 @@
         "requires_login": true
       }
     ],
-    "notes": "No email or general inquiry form on the Maps-linked website; matching public Facebook profile inspected, but login required and private messaging not verified. Do not confuse this independent shop with the separately branded TeaDo chain."
+    "notes": "No email or general inquiry form on the Maps-linked website; matching public Facebook profile inspected, but login required and private messaging not verified. Do not confuse this independent shop with the separately branded TeaDo chain.",
+    "email_investigation": {
+      "cache_file": "teado_tea_shop_.json",
+      "name": "Teado Tea Shop 葉風茶舖",
+      "emails": [],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://tea-leaf-conversions.lovable.app/",
+        "https://rankbaron.nyc/chinatown/tea-house/teado-tea-shop-xie-feng-cha-pu",
+        "https://www.facebook.com/145DHesterStreetNewYorkNY10002Tel2122267687/ (redirected to login)"
+      ],
+      "errors": [
+        "Facebook page URL redirects to facebook.com/login - public profile content inaccessible without login (no login performed)"
+      ],
+      "outcome": "no_email_found",
+      "remaining_avenues": [
+        "Facebook page public 'About' section (page vanity URL literally encodes the phone number 2122267687, suggesting an owner-run page) may hold an email; requires a non-login session or parent retrieval",
+        "The lovable.app one-pager publishes only 'Call to order ahead -> tel:+12122267687'; the shop is reachable by phone for a direct email request",
+        "Yelp biz page https://www.yelp.com/biz/teado-tea-shop-new-york-6 not loaded in this session; Yelp occasionally shows 'Business website' but never emails - low value"
+      ],
+      "effort_notes": "Official site (tea-leaf-conversions.lovable.app) inspected: only tel: link, no mailto, no email in DOM, no contact form beyond 'Call Now'. RankBaron directory has only its own ads@rankbaron.nyc. No email found in checked sources.",
+      "worker_claimed_checked_at": "2026-10-05T07:37:14Z",
+      "batch_completed_at": "2026-10-05T07:43:09.783387+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.544286+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-19",
+      "artifact_sha256": "c6e236df0a2fe0da9b0e351de461a5a6223860fd83d86b4efcd31e2aac919f51",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Official site (tea-leaf-conversions.lovable.app) inspected: only tel: link, no mailto, no email in DOM, no contact form beyond 'Call Now'. RankBaron directory has only its own ads@rankbaron.nyc. No email found in checked sources."
+    }
   }
 }

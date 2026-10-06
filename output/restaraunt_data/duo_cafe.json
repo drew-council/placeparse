@@ -484,6 +484,46 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "duo_cafe.json",
+      "name": "Duo Cafe",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Duo Cafe\" email contact 223 E 5th St, New York, NY 10003, USA (parent search-leads)",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab"
+        }
+      ],
+      "inspected_urls": [
+        "https://toast.app/r/duo-cafe-223-e-5th-st/order",
+        "https://www.instagram.com/duocafe.nyc/ (redirected to login)",
+        "https://duo-cafe-1.wheree.com/",
+        "https://maps.google.com/?cid=11040623526184817008"
+      ],
+      "errors": [
+        "toast.app order page blocked by Cloudflare 'Just a moment...' (no bypass).",
+        "duo-cafe-1.wheree.com blocked by Cloudflare 'Just a moment...'.",
+        "Instagram profile duocafe.nyc redirects to accounts/login — bio not viewable without login (no auth allowed)."
+      ],
+      "outcome": "not_found_in_checked_sources",
+      "remaining_avenues": [
+        "Instagram bio of @duocafe.nyc (observed handle from prior search results, not guessed) may contain a published email — requires Instagram login, out of scope.",
+        "Toast online-ordering site contact/support channel once Cloudflare is passable.",
+        "Google Maps 'About' tab for Duo Cafe (initial render did not resolve the place card; could be retried)."
+      ],
+      "effort_notes": "No website on record; Maps shows no authority link or email. Google/DDG search frontends were already challenged this session, so no further providers cycled. ~5 command groups used.",
+      "worker_claimed_checked_at": "2026-10-05T06:07:00Z",
+      "batch_completed_at": "2026-10-05T06:11:43.786915+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.491587+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-05",
+      "artifact_sha256": "64c31ccfb3906e276150604955f2eb251bddd9135580e1b195197e3a37732574",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. No website on record; Maps shows no authority link or email. Google/DDG search frontends were already challenged this session, so no further providers cycled. ~5 command groups used."
+    }
   }
 }

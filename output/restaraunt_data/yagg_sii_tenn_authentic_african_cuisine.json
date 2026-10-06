@@ -431,7 +431,26 @@
     "browser_outcome": "not_found_on_rendered_pages"
   },
   "text_contact_discovery": {
-    "channels": [],
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://yaggsitenn.com/about-contact-us",
+        "purpose": "general inquiry",
+        "business_match_confirmed": true,
+        "business_match_evidence": "Same page footer reads 'Yagg Sii Tenn 1440 Chapel ridge rd suite 170 Apex,NC 27502 TEL:919-629-4047' matching the saved address and site; site linked from Yellow Pages listing as the business website.",
+        "field_evidence": [
+          "text",
+          "text",
+          "text",
+          "text",
+          "textarea",
+          "g-recaptcha-response"
+        ],
+        "notes": "Parent independently confirmed actual message field and public general-inquiry wording. Not submitted/delivery tested.",
+        "checked_at": "2026-10-05T08:25:23.515720+00:00",
+        "submission_tested": false
+      }
+    ],
     "checked_at": "2026-10-04T20:46:39.130501+00:00",
     "method": "agent-browser rendered sites and public search results; no submissions or messages",
     "pages": [
@@ -504,6 +523,72 @@
         "requires_login": true,
         "search_provider": "DuckDuckGo browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "yagg_sii_tenn_authentic_african_cuisine.json",
+      "name": "Yagg Sii Tenn Authentic African Cuisine",
+      "emails": [
+        {
+          "email": "yaggsitenn@gmail.com",
+          "url": "https://yaggsitenn.com/about-contact-us",
+          "quote": "\"paypalAccountId\":\"yaggsitenn@gmail.com\",\"PayPalcurrency\":\"USD\"",
+          "source_type": "restaurant_website_embedded_configuration",
+          "purpose": "PayPal payments account of the site owner (site configuration data island in page source); not displayed as a contact link",
+          "business_match": "The address appears in the site configuration JSON of the restaurant's own website (yaggsitenn.com, listed as the restaurant's Website by Yellow Pages); the site footer confirms the saved address '1440 Chapel ridge rd suite 170 Apex,NC 27502' and phones (919) 349-1873 / (919) 522-3384 matching the saved business.",
+          "identity_evidence": [
+            {
+              "url": "https://yaggsitenn.com/about-contact-us",
+              "quote": "© 2012 - Yagg Sii Tenn 1440 Chapel ridge rd suite 170 Apex,NC 27502 TEL:919-629-4047"
+            },
+            {
+              "url": "https://www.yellowpages.com/apex-nc/mip/yagg-sii-tenn-573680730",
+              "quote": "Website: https://www.yaggsitenn.com ... AKA Yagg Sii Tenn Authentic African Cuisine"
+            }
+          ],
+          "confidence": "low",
+          "decision": "candidate",
+          "notes": "Published in the page source of the restaurant's own site (payments identity, likely owner-controlled), but not displayed as a customer-inquiry address and not verified as the general mailbox. Parent decides whether to promote; a live contact-form route exists below.",
+          "parent_decision": {
+            "decision": "withheld",
+            "role": "unpublished form recipient",
+            "reason": "Payments-account configuration is not an intentionally advertised customer-inquiry email. Retained as non-contact source evidence, not active recipient or candidate."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://yaggsitenn.com/about-contact-us",
+          "matching_business_evidence": "Same page footer reads 'Yagg Sii Tenn 1440 Chapel ridge rd suite 170 Apex,NC 27502 TEL:919-629-4047' matching the saved address and site; site linked from Yellow Pages listing as the business website.",
+          "visible_fields": "Name, Email, Phone, Subject, Message, Submit",
+          "purpose": "General inquiry — page text: 'Please get in touch with us if you have questions about our services or for any special request.'",
+          "general_vs_restricted": "general",
+          "submission_tested": false
+        }
+      ],
+      "queries": [],
+      "inspected_urls": [
+        "https://yaggsitenn.com/about-contact-us",
+        "https://www.findglocal.com/US/Apex/155887394562039/Yagg-sii-tenn-Authentic-African-Cuisine"
+      ],
+      "errors": [
+        "findglocal.com (public Facebook-page-info mirror) is currently behind a Cloudflare bot-verification page; not bypassed."
+      ],
+      "outcome": "form_fallback_found_general",
+      "remaining_avenues": [
+        "Facebook page (facebook.com/yaggsiitenn) public bio could not be read without login in this session; an About-page email may exist there.",
+        "StreetFoodFinder profile (streetfoodfinder.com/Yaggsiitenn, quoted in the Facebook snippet from parent leads) may publish contact details on a public page."
+      ],
+      "effort_notes": "Deeper than prior sweep: found the general-purpose contact form on the restaurant's own site (previously only directory forms were rejected) and surfaced the PayPal-account identity from the site's own configuration source. Search engines were not needed beyond packet leads.",
+      "worker_claimed_checked_at": "2026-10-05T07:42:24Z",
+      "batch_completed_at": "2026-10-05T07:45:41.668207+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.551215+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-21",
+      "artifact_sha256": "51ff24b7d9798402c1a227bf85e810a871341065602589e48523b43ab7ad0ad7",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
+    }
   }
 }

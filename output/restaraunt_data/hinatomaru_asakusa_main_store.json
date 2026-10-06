@@ -626,6 +626,42 @@
         "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "hinatomaru_asakusa_main_store.json",
+      "name": "Hinatomaru Asakusa main store",
+      "emails": [],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://tabelog.com/tokyo/A1311/A131102/13075573/table/",
+        "https://www.tokyocalling.me/maps/restaurants/hinatomaru-asakusa-main-store-Ndbl0",
+        "https://www.google.com/maps/search/%E3%81%B2%E3%81%AA%E3%81%A8%E3%81%BE%E3%82%8B+%E6%B5%85%E8%8D%89+asakusa+hinatomaru",
+        "https://www.google.com/maps/place/Hinatomaru+Asakusa+main+store/data=!4m7!3m6!1s0x60188ec0ced86987:0x696a0aadc097ecfa!8m2!3d35.711838!4d139.7958863!16s%2Fg%2F1td2tx8j!19sChIJh2nYzsCOGGAR-uyXwK0Kamk?authuser=0&hl=en",
+        "https://www.wheree.com/biz/hinatomaru-asakusa-main-store"
+      ],
+      "errors": [
+        "tabelog.com restaurant page stuck on Cloudflare 'Performing security verification' (no bypass attempted).",
+        "wheree.com listing page stuck on Cloudflare security verification.",
+        "No further search-engine queries run: DuckDuckGo was CAPTCHA-challenged and Bing degraded earlier in this session, and the contract forbids cycling a third provider."
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "Google Maps public listing shows website=tabelog.com only (no dedicated official site, no email field); tabelog page itself remains unreadable behind Cloudflare and may contain a mailto or reservation contact.",
+        "Parent-run search for the Japanese name '回転寿し 日向丸 浅草本店' (name shown on Google Maps) could surface an official site or parent-group contact page, if one exists.",
+        "Japanese reservation/booking platforms (e.g., Hitosara/Hot Pepper Gourmet, whose data feeds tabelog via webservice.recruit.co.jp) might publish a contact address."
+      ],
+      "effort_notes": "Live-checked tabelog (blocked), tokyocalling.me place page (no email; only tel:+81 3-5806-4222 and tabelog link), Google Maps business listing (name '回転寿し 日向丸 浅草本店', address 1 Chome-20-10 Asakusa matches saved record, phone +81 3-5806-4222 matches, website field = tabelog.com, no email published), wheree (blocked). No official restaurant website exists in checked sources.",
+      "worker_claimed_checked_at": "2026-10-05T06:28:59Z",
+      "batch_completed_at": "2026-10-05T06:30:02.042632+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.501642+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-08",
+      "artifact_sha256": "c184ae396f0dbac63230ab910b70e086f0bcce376d15cb49650b405fc683494b",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Live-checked tabelog (blocked), tokyocalling.me place page (no email; only tel:+81 3-5806-4222 and tabelog link), Google Maps business listing (name '回転寿し 日向丸 浅草本店', address 1 Chome-20-10 Asakusa matches saved record, phone +81 3-5806-4222 matches, website field = tabelog.com, no email published), wheree (blocked). No official restaurant website exists in checked sources."
+    }
   }
 }

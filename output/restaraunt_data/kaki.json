@@ -479,6 +479,59 @@
         "requires_login": true,
         "search_provider": "DuckDuckGo browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "kaki.json",
+      "name": "Kaki",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Kaki\" omakase Rivington New York email contact reservation",
+          "provider": "DuckDuckGo browser (challenged with CAPTCHA)"
+        },
+        {
+          "query": "\"Kaki\" omakase \"129 Rivington\" email",
+          "provider": "Bing browser (degraded, returned unrelated Microsoft results)"
+        },
+        {
+          "query": "\"Kaki\" omakase \"129 Rivington\" OR \"kaki_omakase\" email contact",
+          "provider": "Parent-authorized Chrome targeted search (supervisor; yielded no results)"
+        }
+      ],
+      "inspected_urls": [
+        "https://kaki.llc/contact",
+        "https://www.postcard.inc/places/kaki-new-york-gYnifbzbXon",
+        "https://www.resy.com/cities/new-york-ny/venues/kaki",
+        "https://restaurantjump.com/kaki-10002/",
+        "https://www.findglocal.com/US/New-York/272220059317294/Kaki-Kirk",
+        "https://www.timeout.com/newyork/restaurants/kaki",
+        "https://www.instagram.com/kaki_omakase/"
+      ],
+      "errors": [
+        "DuckDuckGo presented 'select all squares containing a duck' CAPTCHA; per contract stopped cycling providers after Bing also returned degraded unrelated results.",
+        "https://www.postcard.inc/places/kaki-new-york-gYnifbzbXon blocked by Vercel Security Checkpoint (Code 21).",
+        "https://restaurantjump.com/kaki-10002/ and https://www.findglocal.com/... blocked by Cloudflare 'Just a moment'.",
+        "https://www.instagram.com/kaki_omakase/ redirected to Instagram login wall (no logged-in browsing performed)."
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "Instagram bio for @kaki_omakase (handle observed on postcard.inc snippet) — login-walled here; a public cached bio could contain a contact email.",
+        "Resy venue page shows no website/email; if Kaki creates an owned site, its contact page would be the obvious route.",
+        "Facebook profile id=61550530905054 about section could not be reached (Cloudflare-blocked findglocal mirror; direct Facebook profile not attempted before scope budget).",
+        "Timeout/Resy/MapQuest editorial pages carry no contact email."
+      ],
+      "effort_notes": "Confirmed kaki.llc/contact is an unrelated 'KAKI.llc — AI tools for creators' SaaS site ('hello@kaki.llc' serves support/billing for the AI suite, footer says '© 2026 KAKI.llc... AI Tool Suite'), so the prior rejection of hello@kaki.llc is validated with primary-source proof. Resy page confirmed same business (129 Rivington St, +1 646 568 8859) but has no email or website link. ~8 browser groups spent including 3 search angles; stopped per guardrail.",
+      "worker_claimed_checked_at": "2026-10-05T06:28:34Z",
+      "batch_completed_at": "2026-10-05T06:29:41.779741+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.504874+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-09",
+      "artifact_sha256": "ce6e08a692c216168faa036bb937b26433b7f91f6e5d1c74518e0c366d18092c",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Confirmed kaki.llc/contact is an unrelated 'KAKI.llc — AI tools for creators' SaaS site ('hello@kaki.llc' serves support/billing for the AI suite, footer says '© 2026 KAKI.llc... AI Tool Suite'), so the prior rejection of hello@kaki.llc is validated with primary-source proof. Resy page confirmed same business (129 Rivington St, +1 646 568 8859) but has no email or website link. ~8 browser groups spent including 3 search angles; stopped per guardrail."
+    }
   }
 }

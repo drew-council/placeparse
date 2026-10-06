@@ -538,5 +538,79 @@
     ],
     "browser_checked_at": "2026-10-03T22:08:11.448154+00:00",
     "browser_outcome": "found"
+  },
+  "text_contact_discovery": {
+    "email_investigation": {
+      "cache_file": "cheli_manhattan_.json",
+      "name": "CHELI MANHATTAN 浙里",
+      "emails": [
+        {
+          "email": "cheli.press@gmail.com",
+          "url": "https://www.che-li.com/contact/",
+          "quote": "mailto:cheli.press@gmail.com | Email (the site's only email link, present in the footer of the contact page as the 'Email' social/contact link)",
+          "source_type": "official_website_mailto",
+          "purpose": "press/brand contact (per mailbox name); used site-wide as the official 'Email' link on the contact, private-events, and career pages — but labeled press",
+          "business_match": "Published as the only email mailto on the official site www.che-li.com, whose locations include Che Li East Village (19 St Marks Pl, the saved location); site footer/nav covers both East Village and Flushing locations.",
+          "identity_evidence": [
+            {
+              "url": "https://www.che-li.com/contact/",
+              "quote": "CONTACT US | Send us a message and we'll get back to you as soon as possible... What are you getting in touch about? | Press Inquiry | General Inquiry for Che Li East Village | General Inquiry for Che Li Flushing | ... Facebook | Instagram | Email | CONTACT"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "source_backed",
+          "notes": "Same address as prior sweep (limited_purpose_only). Re-verified live: it is the only published email across the site; no general mailbox exists in checked sources. Its purpose label stays 'press' even though it is presented as the site-wide Email link.",
+          "parent_decision": {
+            "decision": "withheld",
+            "role": "purpose uncertain; press-named",
+            "reason": "Primary site intentionally publishes Email mailto, but contact form separates Press Inquiry and General Inquiry by branch; no clear statement that press-named inbox is general. Preserve relevant published candidate without treating it as general/dietary contact."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://www.che-li.com/contact/",
+          "matching_business_evidence": "Official che-li.com contact page; subject dropdown explicitly includes 'General Inquiry for Che Li East Village' (19 St Marks Pl is the Che Li East Village location per che-li.com location pages).",
+          "fields": "Name - Required (text); Email - Required (text); Phone Number - Required (text); 'What are you getting in touch about?' - Optional (select: Press Inquiry / General Inquiry for Che Li East Village / General Inquiry for Che Li Flushing); 'Your Message' - Required (textarea); SEND button; reCAPTCHA protected; powered by BentoBox.",
+          "purpose": "general (explicit 'General Inquiry for Che Li East Village' option)",
+          "submission_tested": false,
+          "notes": "Strong general-inquiry form fallback for the saved location — subject choice lets the sender route to the Manhattan/East Village branch specifically."
+        }
+      ],
+      "queries": [],
+      "inspected_urls": [
+        "https://www.che-li.com/contact/",
+        "https://www.che-li.com/private-events-and-catering/",
+        "https://www.che-li.com/career/"
+      ],
+      "errors": [],
+      "outcome": "general_form_found_email_limited_purpose",
+      "remaining_avenues": [
+        "Only cheli.press@gmail.com is published; a general mailbox may exist internally but is not public.",
+        "Use the contact form's 'General Inquiry for Che Li East Village' subject for the saved location."
+      ],
+      "effort_notes": "~4 browser command groups. Depth gains: re-verified the press email live, confirmed it is the site-wide email (contact/private-events/career pages), and captured the full general-inquiry form fields including the branch-specific subject option — the prior sweep recorded the pages but not the form's general-purpose routing.",
+      "worker_claimed_checked_at": "2026-10-05T05:25:00Z",
+      "batch_completed_at": "2026-10-05T05:54:15.783326+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.484469+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-03",
+      "artifact_sha256": "7ea29bb6d9a8d43f5cf1c18d5242c0651789326c70094b613244ec482ab8951d",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Only limited-purpose published email(s); no accepted general-inquiry email in checked sources."
+    },
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.che-li.com/contact/",
+        "purpose": "general inquiry",
+        "business_match_confirmed": true,
+        "submission_tested": false,
+        "source_quote": "CONTACT US: Send us a message and we’ll get back to you as soon as possible. What are you getting in touch about? General Inquiry for Che Li East Village / General Inquiry for Che Li Flushing. Your Message — Required.",
+        "note": "Choose General Inquiry for Che Li East Village for saved 19 St Marks Pl branch. Name, email, phone and message fields verified by parent; no submission or delivery test."
+      }
+    ]
   }
 }

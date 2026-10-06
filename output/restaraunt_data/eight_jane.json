@@ -478,6 +478,57 @@
     ],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "eight_jane.json",
+      "name": "Eight Jane",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Eight Jane\" email contact 37-12 Main St, Flushing, NY 11354, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent search-leads file)"
+        },
+        {
+          "query": "\"Eight Jane\" Flushing restaurant email contact",
+          "provider": "DuckDuckGo browser (own isolated session)"
+        },
+        {
+          "query": "\"Eight Jane\" Flushing \"113-37 Main\" OR \"37-12 Main\" email",
+          "provider": "Google browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.eightjane.com/",
+        "https://www.nyctourism.com/restaurants/eight-jane/",
+        "https://duckduckgo.com/?q=%22Eight+Jane%22+Flushing+restaurant+email+contact&ia=web",
+        "https://www.google.com/search?q=%22Eight+Jane%22+Flushing+%22113-37+Main%22+OR+%2237-12+Main%22+email (redirected to /sorry/ CAPTCHA)",
+        "parent search-leads result URLs: cybo.com/US-biz/eight-jane, local.yahoo.com/info-212033198, mapquest.com/us/new-york/eight-jane-food--379681058, chamberofcommerce.com 2014133236-eight-jane, yelp.com/biz/eight-jane-food (titles/snippets reviewed)"
+      ],
+      "errors": [
+        "DuckDuckGo ordinary web page in own session returned only the homepage shell (body length 1034 chars, zero results) for both queries — degraded/challenged frontend",
+        "Google search redirected to https://www.google.com/sorry/index CAPTCHA: 'Our systems have detected unusual traffic from your computer network' (IP [network IP redacted])",
+        "old.reddit.com thread r/Flushing/1q2n9a9 returned 'whoa there, pardner!' network-policy block"
+      ],
+      "outcome": "not_found_in_checked_sources",
+      "remaining_avenues": [
+        "Fantuan delivery store page (us-1692586005) previously showed a 'Verification' challenge; not re-attempted",
+        "wanderlog.com/place/details/2010286 and maps.roadtrippers.com listing pages not re-inspected this run (directory pages rarely carry restaurant emails)",
+        "37-12 Main St food-court/building operator or landlord contact as an indirect route",
+        "Chinese-language platforms (Xiaohongshu, WeChat) and the stall's (917) 609-5898 phone channel",
+        "Retry DDG/other engines from a different IP at a later batch"
+      ],
+      "effort_notes": "4 browser command groups. eightjane.com is a generic SEO landing page with no links, mailtos, or emails anywhere in the HTML (extracted: zero emails, zero anchor links; body is auto-generated filler text). nyctourism.com official-tourism listing shows contact route as phone only: 'Contact (917) 609-5898'. Both owned search attempts failed (DDG degraded, Google CAPTCHA); per contract stopped cycling providers after two challenged frontends and relied on parent search-leads results, which contained no email-bearing sources for this stall.",
+      "worker_claimed_checked_at": "2026-10-05T06:07:26Z",
+      "batch_completed_at": "2026-10-05T06:08:26.553340+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.492905+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-06",
+      "artifact_sha256": "e11e1d9f58095060f98f50f52d96bb4678ba34ea4e22b0b50257b8c722ad9ada",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. 4 browser command groups. eightjane.com is a generic SEO landing page with no links, mailtos, or emails anywhere in the HTML (extracted: zero emails, zero anchor links; body is auto-generated filler text). nyctourism.com official-tourism listing shows contact route as phone only: 'Contact (917) 609-5898'. Both owned search attempts failed (DDG degraded, Google CAPTCHA); per contract stopped cycling providers after two challenged frontends and relied on parent search-leads results, which contained no email-bearing sources for this stall."
+    }
   }
 }

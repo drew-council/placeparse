@@ -94,6 +94,45 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "astoria_bagel_shop.json",
+      "name": "Astoria Bagel Shop",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "Astoria Bagel Shop email contact 28-12 Ditmars Blvd, Astoria, NY 11105, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent-provided leads file)"
+        }
+      ],
+      "inspected_urls": [
+        "https://astoria-bagel-shop.wheree.com/",
+        "https://astoriabagelshopanddeliastoria.cafecityguide.website/",
+        "https://astoriabagelshop.currentlvl.com/",
+        "https://astoriabagelshop.currentlvl.com/restaurant/order-online-36274.html"
+      ],
+      "errors": [
+        "https://astoria-bagel-shop.wheree.com/ served Cloudflare 'Just a moment...' challenge (not bypassed).",
+        "https://www.chamberofcommerce.com business-directory page (parent lead) returns Cloudflare challenge sitewide this session."
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "currentlvl.com ordering platform footer mentions 'Report a Problem' accessibility/support route; it is a platform support channel, not the restaurant's own email, and no email is published.",
+        "Google Maps listing ('Suggest an edit' / possible owner claim) may later expose a contact.",
+        "Other parent-lead directories (sreebakers.com, heavenlydelightsbakery.com, magicpin, restaurantji, restaurantedroop) are blog/directory content; not opened after equivalent directory pages yielded nothing, to stay within the browser-command guardrail."
+      ],
+      "effort_notes": "No website on the saved record; inspected the three reachable directories/platform pages including the new currentlvl online-ordering site (header shows exact address 28-12 Ditmars Blvd and 718-728-5169 matching saved data, but zero email/mailto/form). No restaurant-published email in checked sources.",
+      "worker_claimed_checked_at": "2026-10-05T05:51:51Z",
+      "batch_completed_at": "2026-10-05T05:52:42.594255+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.449002+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-01",
+      "artifact_sha256": "fb1a9d8a8677829bf12161aebdaf9b2e2cad3a9256e7480e18f13f2e23edf770",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. No website on the saved record; inspected the three reachable directories/platform pages including the new currentlvl online-ordering site (header shows exact address 28-12 Ditmars Blvd and 718-728-5169 matching saved data, but zero email/mailto/form). No restaurant-published email in checked sources."
+    }
   }
 }

@@ -654,6 +654,46 @@
         "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "cm_tm_ninh_kiu.json",
+      "name": "Cơm Tấm Ninh Kiều",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Cơm Tấm Ninh Kiều\" email contact 2641 Jerome Ave, Bronx, NY 10468, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent search-leads file)"
+        }
+      ],
+      "inspected_urls": [
+        "https://order.toasttab.com/online/com-tam-ninh-kieu-2641-jerome-ave",
+        "https://www.cybo.com/US-biz/c%C6%A1m-t%E1%BA%A5m-ninh-ki%E1%BB%81u",
+        "https://maps.google.com/?cid=3887276266076960728",
+        "https://www.datalane.com/contacts/restaurants/cm-tm-ninh-kiu (lead only)"
+      ],
+      "errors": [
+        "https://order.toasttab.com/online/com-tam-ninh-kieu-2641-jerome-ave blocked by Cloudflare 'Just a moment...' (no bypass attempted).",
+        "https://www.cybo.com/US-biz/c%C6%A1m-t%E1%BA%A5m-ninh-ki%E1%BB%81u returned 'Just a moment...' challenge page.",
+        "DuckDuckDo/Google search frontends challenged earlier in session; live search cycling stopped per contract."
+      ],
+      "outcome": "not_found_in_checked_sources",
+      "remaining_avenues": [
+        "Instagram bio of the restaurant's account (Cybo snippet says the business lists 3 social pages incl. Instagram) — profile bio requires Instagram login, which is out of scope.",
+        "Toast online-ordering page (order.toasttab.com/online/com-tam-ninh-kieu-2641-jerome-ave) contact section — Cloudflare-challenged; retry from a clean residential context later.",
+        "Grubhub restaurant info panel for a published owner contact."
+      ],
+      "effort_notes": "Small takeout restaurant; saved toasttab website redirects to a Cloudflare-gated Toast order page. Google Maps business details inspected: no email, website field is the same toasttab link. ~3 command groups used; prior rejected publisher contacts (yrosa968@gmail.com, server@restaurantedroop.com) not re-promoted.",
+      "worker_claimed_checked_at": "2026-10-05T06:07:00Z",
+      "batch_completed_at": "2026-10-05T06:11:43.786915+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.489441+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-05",
+      "artifact_sha256": "64c31ccfb3906e276150604955f2eb251bddd9135580e1b195197e3a37732574",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Small takeout restaurant; saved toasttab website redirects to a Cloudflare-gated Toast order page. Google Maps business details inspected: no email, website field is the same toasttab link. ~3 command groups used; prior rejected publisher contacts (yrosa968@gmail.com, server@restaurantedroop.com) not re-promoted."
+    }
   }
 }

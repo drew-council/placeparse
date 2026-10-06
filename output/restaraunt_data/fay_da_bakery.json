@@ -458,8 +458,12 @@
   "business_status_checked_at": "2026-10-03T20:05:08.159087+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:46.163857+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "info@fayda.com": [
+        "https://www.instagram.com/faydabakery/"
+      ]
+    },
     "pages": [
       {
         "url": "https://fayda.com/",
@@ -499,7 +503,41 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:49.169228+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "info@fayda.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "info@fayda.com": {
+        "evidence": [
+          {
+            "url": "https://www.instagram.com/faydabakery/",
+            "quote": "ALL INQUIRIES: 📩 info@fayda.com",
+            "identity_evidence": [
+              {
+                "url": "https://web.archive.org/web/20260512093722/https://fayda.com/pages/contact",
+                "quote": "© 2026, Fay Da Bakery ... Privacy policy / Refund policy / Terms of service (footer of archived official contact page)"
+              },
+              {
+                "url": "https://www.instagram.com/faydabakery/ (parent search-leads snippet of the official profile)",
+                "quote": "Fay Da Bakery (@faydabakery) ... \"ALL INQUIRIES: 📩 info@fayda.com\""
+              },
+              {
+                "url": "https://fayda.com/pages/locations (parent search-leads snippet)",
+                "quote": "321 6th Avenue New York, NY 10014 (Opens in Google Maps) Monday-Friday: 7:00am - 4:45pm"
+              }
+            ],
+            "source_type": "indexed_primary_business_bio",
+            "purpose": "general/unspecified",
+            "parent_reason": "Fresh parent browser search directly retrieved the brand Instagram bio advertising ALL INQUIRIES: info@fayda.com, and the official brand locations page lists saved 321 6th Ave branch. This acceptance is based on intentionally advertised business contact in the indexed public bio, NOT archived hidden form-recipient configuration. Direct Instagram replay was login-walled. Brand-level routing and current mailbox delivery require confirmation.",
+            "notes": "Address is published in the official website's contact-form recipient config (brand-level email, serves all Fay Da locations including the saved 321 6th Ave branch) and independently as the brand Instagram bio's all-inquiries email. Live fayda.com rendered only the header in the isolated headless session (body length 62 chars), so the archived official copy plus the parent's fresh Instagram snippet were used. Publication does not verify delivery.",
+            "checked_at": "2026-10-05T06:42:47.494914+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Address is published in the official website's contact-form recipient config (brand-level email, serves all Fay Da locations including the saved 321 6th Ave branch) and independently as the brand Instagram bio's all-inquiries email. Live fayda.com rendered only the header in the isolated headless session (body length 62 chars), so the archived official copy plus the parent's fresh Instagram snippet were used. Publication does not verify delivery. Fresh parent browser search directly retrieved the brand Instagram bio advertising ALL INQUIRIES: info@fayda.com, and the official brand locations page lists saved 321 6th Ave branch. This acceptance is based on intentionally advertised business contact in the indexed public bio, NOT archived hidden form-recipient configuration. Direct Instagram replay was login-walled. Brand-level routing and current mailbox delivery require confirmation."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -560,6 +598,109 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "fay_da_bakery.json",
+      "name": "Fay Da Bakery",
+      "emails": [
+        {
+          "email": "info@fayda.com",
+          "url": "https://www.instagram.com/faydabakery/",
+          "quote": "ALL INQUIRIES: 📩 info@fayda.com",
+          "source_type": "indexed_primary_business_bio",
+          "purpose": "general customer inquiries — recipient of the site's Contact form (subject options 'General' and 'Next Day Pickup'); corroborated as the brand's all-inquiries address by the official Instagram bio",
+          "business_match": "fayda.com is the official Fay Da Bakery brand site; the brand's locations page lists the saved branch 321 6th Avenue, New York, NY 10014 (per parent search-leads snippet of fayda.com/pages/locations).",
+          "identity_evidence": [
+            {
+              "url": "https://web.archive.org/web/20260512093722/https://fayda.com/pages/contact",
+              "quote": "© 2026, Fay Da Bakery ... Privacy policy / Refund policy / Terms of service (footer of archived official contact page)"
+            },
+            {
+              "url": "https://www.instagram.com/faydabakery/ (parent search-leads snippet of the official profile)",
+              "quote": "Fay Da Bakery (@faydabakery) ... \"ALL INQUIRIES: 📩 info@fayda.com\""
+            },
+            {
+              "url": "https://fayda.com/pages/locations (parent search-leads snippet)",
+              "quote": "321 6th Avenue New York, NY 10014 (Opens in Google Maps) Monday-Friday: 7:00am - 4:45pm"
+            }
+          ],
+          "confidence": 0.8,
+          "decision": "source_backed",
+          "notes": "Address is published in the official website's contact-form recipient config (brand-level email, serves all Fay Da locations including the saved 321 6th Ave branch) and independently as the brand Instagram bio's all-inquiries email. Live fayda.com rendered only the header in the isolated headless session (body length 62 chars), so the archived official copy plus the parent's fresh Instagram snippet were used. Publication does not verify delivery.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "source_url": "https://www.instagram.com/faydabakery/",
+            "quote_override": "ALL INQUIRIES: 📩 info@fayda.com",
+            "source_type_override": "indexed_primary_business_bio",
+            "reason": "Fresh parent browser search directly retrieved the brand Instagram bio advertising ALL INQUIRIES: info@fayda.com, and the official brand locations page lists saved 321 6th Ave branch. This acceptance is based on intentionally advertised business contact in the indexed public bio, NOT archived hidden form-recipient configuration. Direct Instagram replay was login-walled. Brand-level routing and current mailbox delivery require confirmation."
+          }
+        },
+        {
+          "email": "orders@fayda.com",
+          "url": "https://web.archive.org/web/20260512093722/https://fayda.com/pages/contact",
+          "quote": "\"add_admin_emails\":\"yes\",\"admin_values\":\"orders@fayda.com\\ninfo@fayda.com\" with Subject values \"Next Day Pickup\\nGeneral\"",
+          "source_type": "official_site (contact-form admin recipient configuration, same archived official page)",
+          "purpose": "orders / next-day-pickup requests routed through the contact form; purpose-specific rather than a general inquiries address",
+          "business_match": "Same official fayda.com contact page as info@fayda.com; brand site covers the saved 321 6th Ave branch.",
+          "identity_evidence": [
+            {
+              "url": "https://web.archive.org/web/20260512093722/https://fayda.com/pages/contact",
+              "quote": "\"type\":\"select\",\"position\":0,\"label\":\"Subject\",\"values\":\"Next Day Pickup\\nGeneral\" ... \"admin_values\":\"orders@fayda.com\\ninfo@fayda.com\""
+            }
+          ],
+          "confidence": 0.75,
+          "decision": "source_backed",
+          "notes": "Published on the official site as the first admin recipient of the Contact form alongside info@fayda.com; label as order/pickup-purpose email, not general.",
+          "parent_decision": {
+            "decision": "withheld",
+            "role": "unpublished form recipient",
+            "reason": "Found only in archived admin recipient configuration, not a publicly advertised email-inquiry route. Do not treat internal routing configuration as consent to direct email or current professional-contact publication."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://fayda.com/pages/contact",
+          "matching_business_evidence": "Official Fay Da Bakery brand site (© 2026, Fay Da Bakery footer); brand locations page lists the saved 321 6th Ave branch.",
+          "visible_free_text_field_and_labels": "Contact form with Subject select (values 'Next Day Pickup' and 'General', required), text inputs starting with 'First N...' (First/Last name fields), plus email and message fields per the published form config; form recipient emails info@fayda.com / orders@fayda.com published in the page config.",
+          "general_vs_restricted": "general (Subject includes 'General'); only verified via the archived snapshot because the live page renders header-only in the isolated session",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Fay Da Bakery\" email contact 321 6th Ave, New York, NY 10014, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent search-leads file)"
+        }
+      ],
+      "inspected_urls": [
+        "https://fayda.com/pages/contact (live — header-only render)",
+        "https://www.instagram.com/faydabakery/?hl=en (redirected to Instagram login wall; not bypassed)",
+        "https://web.archive.org/web/20260512093722/https://fayda.com/pages/contact"
+      ],
+      "errors": [
+        "Live fayda.com/pages/contact rendered only the header (body text length 62 chars, no main content) in the isolated headless session despite waiting; archived copy used instead",
+        "Instagram profile redirected to accounts/login — no login attempted per contract; bio evidence taken from the parent's fresh search snippet"
+      ],
+      "outcome": "email_found_official_site",
+      "remaining_avenues": [
+        "Verify live-page rendering of the contact form in a normal browser to confirm the form fields as currently published",
+        "Instagram bio could be viewed without login via another access path to directly capture 'ALL INQUIRIES: 📩 info@fayda.com'"
+      ],
+      "effort_notes": "5 browser command groups. Prior sweep visited fayda.com pages but extracted no email because the live page does not render its main content in headless; the archived official copy revealed the published form-recipient emails, and the parent leads file supplied the Instagram bio corroboration.",
+      "worker_claimed_checked_at": "2026-10-05T06:07:26Z",
+      "batch_completed_at": "2026-10-05T06:08:26.553340+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.496134+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-06",
+      "artifact_sha256": "e11e1d9f58095060f98f50f52d96bb4678ba34ea4e22b0b50257b8c722ad9ada",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "info@fayda.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

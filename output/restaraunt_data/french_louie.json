@@ -641,8 +641,15 @@
   "business_status_checked_at": "2026-10-03T20:05:09.882615+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:50.080007+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "info@frenchlouienyc.com": [
+        "https://frenchlouienyc.com/location/"
+      ],
+      "john@frenchlouienyc.com": [
+        "https://frenchlouienyc.com/location/"
+      ]
+    },
     "pages": [
       {
         "url": "http://frenchlouienyc.com/",
@@ -650,7 +657,59 @@
         "emails": []
       }
     ],
-    "contact_forms": []
+    "contact_forms": [],
+    "role_overrides": {
+      "info@frenchlouienyc.com": "general/unspecified",
+      "john@frenchlouienyc.com": "events/catering"
+    },
+    "publication_evidence": {
+      "info@frenchlouienyc.com": {
+        "evidence": [
+          {
+            "url": "https://frenchlouienyc.com/location/",
+            "quote": "Location — 320 Atlantic Ave Brooklyn, NY 11201 Between Smith and Hoyt (718) 935-1200 info@frenchlouienyc.com (rendered as mailto:info@frenchlouienyc.com)",
+            "identity_evidence": [
+              {
+                "url": "https://frenchlouienyc.com/location/",
+                "quote": "Location 320 Atlantic Ave Brooklyn, NY 11201 Between Smith and Hoyt (718) 935-1200 info@frenchlouienyc.com ... ©2026 320 Atlantic Restaurant LLC, All Rights Reserved"
+              },
+              {
+                "url": "https://www.nyctourism.com/restaurants/french-louie/ (prior sweep page)",
+                "quote": "French Louie | Brooklyn | Restaurants"
+              }
+            ],
+            "source_type": "official_site",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently verified literal public business-contact publication. Official frenchlouienyc.com location page publishes the exact saved address 320 Atlantic Ave, Brooklyn, NY 11201 and exact saved phone (718) 935-1200; site footer '©2026 320 Atlantic Restaurant LLC'. Published on the restaurant's own live website with exact address/phone match. Note: the site root http://frenchlouienyc.com/ was in prior robot_excluded_urls; before navigating I fetched https://frenchlouienyc.com/robots.txt, which currently disallows nothing ('User-agent: * / Disallow:'), so the /location/ visit was robots-compliant.",
+            "notes": "Published on the restaurant's own live website with exact address/phone match. Note: the site root http://frenchlouienyc.com/ was in prior robot_excluded_urls; before navigating I fetched https://frenchlouienyc.com/robots.txt, which currently disallows nothing ('User-agent: * / Disallow:'), so the /location/ visit was robots-compliant.",
+            "checked_at": "2026-10-05T06:42:47.495587+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Published on the restaurant's own live website with exact address/phone match. Note: the site root http://frenchlouienyc.com/ was in prior robot_excluded_urls; before navigating I fetched https://frenchlouienyc.com/robots.txt, which currently disallows nothing ('User-agent: * / Disallow:'), so the /location/ visit was robots-compliant. Parent independently verified literal public business-contact publication. Official frenchlouienyc.com location page publishes the exact saved address 320 Atlantic Ave, Brooklyn, NY 11201 and exact saved phone (718) 935-1200; site footer '©2026 320 Atlantic Restaurant LLC'. Published on the restaurant's own live website with exact address/phone match. Note: the site root http://frenchlouienyc.com/ was in prior robot_excluded_urls; before navigating I fetched https://frenchlouienyc.com/robots.txt, which currently disallows nothing ('User-agent: * / Disallow:'), so the /location/ visit was robots-compliant."
+      },
+      "john@frenchlouienyc.com": {
+        "evidence": [
+          {
+            "url": "https://frenchlouienyc.com/location/",
+            "quote": "Reservations can be made up to 30 days in advance via . For groups of ten or more, please email john@frenchlouienyc.com. (rendered as mailto:john@frenchlouienyc.com)",
+            "identity_evidence": [
+              {
+                "url": "https://frenchlouienyc.com/location/",
+                "quote": "For groups of ten or more, please email john@frenchlouienyc.com."
+              }
+            ],
+            "source_type": "official_site",
+            "purpose": "events/catering",
+            "parent_reason": "Parent independently verified publication and exact context: TACT\n \nhours & location\n\nLunch\nTuesday – Friday: 11:30am-3pm\n\nDinner\nSunday – Monday: 5pm – 9pm\nTuesday – Thursday: 5pm – 9:30pm\nFriday – Saturday: 5pm – 10:30pm\n\nBrunch\nSaturday & Sunday: 11am-3pm\n\nLocation\n320 Atlantic Ave\nBrooklyn, NY 11201\n\nBetween Smith and Hoyt\n\n(718) 935-1200\n\ninfo@frenchlouienyc.com\n\nreservations\n\nReservations can be made up to 30 days in advance via .\nFor groups of ten or more, please email john@frenchlouienyc.com.\n\njoin our mailing list\n \n©2026 320 Atlantic Restaurant LLC, All Rights Reserved. Accessibility Website by Orion Concepts Purpose restricted; not a general-inquiry/dietary recipient.",
+            "notes": "Purpose-specific address; do not use for general inquiries. Distinct from RestaurantJump's earlier garbled '[email protected]' rendering — the live page shows the literal address.",
+            "checked_at": "2026-10-05T06:42:47.495587+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Purpose-specific address; do not use for general inquiries. Distinct from RestaurantJump's earlier garbled '[email protected]' rendering — the live page shows the literal address. Parent independently verified publication and exact context: TACT\n \nhours & location\n\nLunch\nTuesday – Friday: 11:30am-3pm\n\nDinner\nSunday – Monday: 5pm – 9pm\nTuesday – Thursday: 5pm – 9:30pm\nFriday – Saturday: 5pm – 10:30pm\n\nBrunch\nSaturday & Sunday: 11am-3pm\n\nLocation\n320 Atlantic Ave\nBrooklyn, NY 11201\n\nBetween Smith and Hoyt\n\n(718) 935-1200\n\ninfo@frenchlouienyc.com\n\nreservations\n\nReservations can be made up to 30 days in advance via .\nFor groups of ten or more, please email john@frenchlouienyc.com.\n\njoin our mailing list\n \n©2026 320 Atlantic Restaurant LLC, All Rights Reserved. Accessibility Website by Orion Concepts Purpose restricted; not a general-inquiry/dietary recipient."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -700,6 +759,90 @@
         "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "french_louie.json",
+      "name": "French Louie",
+      "emails": [
+        {
+          "email": "info@frenchlouienyc.com",
+          "url": "https://frenchlouienyc.com/location/",
+          "quote": "Location — 320 Atlantic Ave Brooklyn, NY 11201 Between Smith and Hoyt (718) 935-1200 info@frenchlouienyc.com (rendered as mailto:info@frenchlouienyc.com)",
+          "source_type": "official_site",
+          "purpose": "general customer inquiry email in the restaurant's hours & location block",
+          "business_match": "Official frenchlouienyc.com location page publishes the exact saved address 320 Atlantic Ave, Brooklyn, NY 11201 and exact saved phone (718) 935-1200; site footer '©2026 320 Atlantic Restaurant LLC'.",
+          "identity_evidence": [
+            {
+              "url": "https://frenchlouienyc.com/location/",
+              "quote": "Location 320 Atlantic Ave Brooklyn, NY 11201 Between Smith and Hoyt (718) 935-1200 info@frenchlouienyc.com ... ©2026 320 Atlantic Restaurant LLC, All Rights Reserved"
+            },
+            {
+              "url": "https://www.nyctourism.com/restaurants/french-louie/ (prior sweep page)",
+              "quote": "French Louie | Brooklyn | Restaurants"
+            }
+          ],
+          "confidence": 0.95,
+          "decision": "source_backed",
+          "notes": "Published on the restaurant's own live website with exact address/phone match. Note: the site root http://frenchlouienyc.com/ was in prior robot_excluded_urls; before navigating I fetched https://frenchlouienyc.com/robots.txt, which currently disallows nothing ('User-agent: * / Disallow:'), so the /location/ visit was robots-compliant.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently verified literal public business-contact publication. Official frenchlouienyc.com location page publishes the exact saved address 320 Atlantic Ave, Brooklyn, NY 11201 and exact saved phone (718) 935-1200; site footer '©2026 320 Atlantic Restaurant LLC'. Published on the restaurant's own live website with exact address/phone match. Note: the site root http://frenchlouienyc.com/ was in prior robot_excluded_urls; before navigating I fetched https://frenchlouienyc.com/robots.txt, which currently disallows nothing ('User-agent: * / Disallow:'), so the /location/ visit was robots-compliant."
+          }
+        },
+        {
+          "email": "john@frenchlouienyc.com",
+          "url": "https://frenchlouienyc.com/location/",
+          "quote": "Reservations can be made up to 30 days in advance via . For groups of ten or more, please email john@frenchlouienyc.com. (rendered as mailto:john@frenchlouienyc.com)",
+          "source_type": "official_site",
+          "purpose": "restricted — large-group (10+) reservation and event inquiries only, per the surrounding sentence",
+          "business_match": "Same official location page with matching address/phone as above.",
+          "identity_evidence": [
+            {
+              "url": "https://frenchlouienyc.com/location/",
+              "quote": "For groups of ten or more, please email john@frenchlouienyc.com."
+            }
+          ],
+          "confidence": 0.9,
+          "decision": "source_backed",
+          "notes": "Purpose-specific address; do not use for general inquiries. Distinct from RestaurantJump's earlier garbled '[email protected]' rendering — the live page shows the literal address.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "events/catering",
+            "reason": "Parent independently verified publication and exact context: TACT\n \nhours & location\n\nLunch\nTuesday – Friday: 11:30am-3pm\n\nDinner\nSunday – Monday: 5pm – 9pm\nTuesday – Thursday: 5pm – 9:30pm\nFriday – Saturday: 5pm – 10:30pm\n\nBrunch\nSaturday & Sunday: 11am-3pm\n\nLocation\n320 Atlantic Ave\nBrooklyn, NY 11201\n\nBetween Smith and Hoyt\n\n(718) 935-1200\n\ninfo@frenchlouienyc.com\n\nreservations\n\nReservations can be made up to 30 days in advance via .\nFor groups of ten or more, please email john@frenchlouienyc.com.\n\njoin our mailing list\n \n©2026 320 Atlantic Restaurant LLC, All Rights Reserved. Accessibility Website by Orion Concepts Purpose restricted; not a general-inquiry/dietary recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"French Louie\" email contact 320 Atlantic Ave, Brooklyn, NY 11201, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent search-leads file)"
+        }
+      ],
+      "inspected_urls": [
+        "https://frenchlouienyc.com/robots.txt",
+        "https://frenchlouienyc.com/location/"
+      ],
+      "errors": [],
+      "outcome": "email_found_official_site",
+      "remaining_avenues": [
+        "None essential; a general contact form is not needed given the published mailto addresses"
+      ],
+      "effort_notes": "3 browser command groups. The prior 'no_text_route_found' outcome is superseded: the official location page publishes a general mailto address (plus a groups/events address), and robots.txt permitted the visit.",
+      "worker_claimed_checked_at": "2026-10-05T06:07:26Z",
+      "batch_completed_at": "2026-10-05T06:08:26.553340+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.497075+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-06",
+      "artifact_sha256": "e11e1d9f58095060f98f50f52d96bb4678ba34ea4e22b0b50257b8c722ad9ada",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "info@frenchlouienyc.com",
+        "john@frenchlouienyc.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

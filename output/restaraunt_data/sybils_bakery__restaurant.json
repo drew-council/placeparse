@@ -446,13 +446,49 @@
   "utc_offset": -240,
   "vicinity": "159-24 Hillside Ave., Jamaica",
   "business_status_checked_at": "2026-10-03T20:06:12.770906+00:00",
-  "emails": [],
+  "emails": [
+    "sybilshillside@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:50:01.544595+00:00",
-    "outcome": "no_website",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "sybilshillside@gmail.com": [
+        "https://www.facebook.com/SybilsHillside/about/"
+      ]
+    },
     "pages": [],
-    "contact_forms": []
+    "contact_forms": [],
+    "role_overrides": {
+      "sybilshillside@gmail.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "sybilshillside@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://www.facebook.com/SybilsHillside/about/",
+            "quote": "Sybil's Hillside Original of Guyana ... Contact info 159-24 Hillside Ave, Jamaica, NY, United States, 11432 Address (718) 297-2359 Mobile sybilshillside@gmail.com Email",
+            "identity_evidence": [
+              {
+                "url": "https://www.facebook.com/SybilsHillside/about/",
+                "quote": "Categories Caribbean Restaurant Contact info 159-24 Hillside Ave, Jamaica, NY, United States, 11432 Address (718) 297-2359 Mobile sybilshillside@gmail.com Email"
+              },
+              {
+                "url": "https://guyaneseswag.com/nl/pages/directory/sybils-bakery-restaurant-queens",
+                "quote": "Sybil's Bakery & Restaurant ... founded by Guyanese immigrant Sybil Bernard-Kerrutt ... locations in South Richmond Hill and Jamaica, Queens"
+              }
+            ],
+            "source_type": "official_social_profile_contact_info",
+            "purpose": "general/unspecified",
+            "parent_reason": "Original browser tool capture independently audited: public Sybils Hillside business Contact info lists exact mailbox beside saved 159-24 Hillside Ave and (718) 297-2359. Branch-specific, not other Sybils location. Parent replay login-walled; no bypass. Listed Wix domain is lapsed.",
+            "notes": "Published in the page's public Contact info section (rendered without login). The family also runs a South Richmond Hill branch and a Lauderhill, FL location; this address is specifically the Hillside/Jamaica page. Note: the page also links sybilsoriginal.com, which is currently a lapsed Wix 'Reconnect Your Domain' placeholder.",
+            "checked_at": "2026-10-05T07:37:41.955937+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Published in the page's public Contact info section (rendered without login). The family also runs a South Richmond Hill branch and a Lauderhill, FL location; this address is specifically the Hillside/Jamaica page. Note: the page also links sybilsoriginal.com, which is currently a lapsed Wix 'Reconnect Your Domain' placeholder. Original browser tool capture independently audited: public Sybils Hillside business Contact info lists exact mailbox beside saved 159-24 Hillside Ave and (718) 297-2359. Branch-specific, not other Sybils location. Parent replay login-walled; no bypass. Listed Wix domain is lapsed."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -500,6 +536,66 @@
     ],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "sybils_bakery__restaurant.json",
+      "name": "Sybil's Bakery & Restaurant",
+      "emails": [
+        {
+          "email": "sybilshillside@gmail.com",
+          "url": "https://www.facebook.com/SybilsHillside/about/",
+          "quote": "Sybil's Hillside Original of Guyana ... Contact info 159-24 Hillside Ave, Jamaica, NY, United States, 11432 Address (718) 297-2359 Mobile sybilshillside@gmail.com Email",
+          "source_type": "official_social_profile_contact_info",
+          "purpose": "Contact and basic info email on the business's own Facebook page; general customer contact",
+          "business_match": "The page 'Sybil's Hillside Original of Guyana' lists exactly the saved address (159-24 Hillside Ave, Jamaica, NY 11432) and saved phone (718) 297-2359, so the published email belongs to the saved Hillside Avenue branch.",
+          "identity_evidence": [
+            {
+              "url": "https://www.facebook.com/SybilsHillside/about/",
+              "quote": "Categories Caribbean Restaurant Contact info 159-24 Hillside Ave, Jamaica, NY, United States, 11432 Address (718) 297-2359 Mobile sybilshillside@gmail.com Email"
+            },
+            {
+              "url": "https://guyaneseswag.com/nl/pages/directory/sybils-bakery-restaurant-queens",
+              "quote": "Sybil's Bakery & Restaurant ... founded by Guyanese immigrant Sybil Bernard-Kerrutt ... locations in South Richmond Hill and Jamaica, Queens"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Published in the page's public Contact info section (rendered without login). The family also runs a South Richmond Hill branch and a Lauderhill, FL location; this address is specifically the Hillside/Jamaica page. Note: the page also links sybilsoriginal.com, which is currently a lapsed Wix 'Reconnect Your Domain' placeholder.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Original browser tool capture independently audited: public Sybils Hillside business Contact info lists exact mailbox beside saved 159-24 Hillside Ave and (718) 297-2359. Branch-specific, not other Sybils location. Parent replay login-walled; no bypass. Listed Wix domain is lapsed."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://guyaneseswag.com/nl/pages/directory/sybils-bakery-restaurant-queens (no email; phone belongs to a different branch)",
+        "https://www.facebook.com/SybilsHillside/about/",
+        "https://sybilsoriginal.com/ (lapsed Wix domain placeholder)",
+        "https://toast.app/r/sybilsbakeryhillside (Cloudflare challenge, not passed)"
+      ],
+      "errors": [
+        "toast.app returned a Cloudflare 'Just a moment...' challenge; not bypassed"
+      ],
+      "outcome": "source_backed_email_found",
+      "remaining_avenues": [
+        "Toast ordering site (toast.app / toasttab.com local pages) if reachable - may show a support/contact channel, though Toast-hosted pages rarely publish restaurant emails"
+      ],
+      "effort_notes": "3 command groups; found the business's own Facebook page contact-info section which publishes the email with exact address and phone match.",
+      "worker_claimed_checked_at": "2026-10-05T07:12:42Z",
+      "batch_completed_at": "2026-10-05T07:17:51.087573+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.541594+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-18",
+      "artifact_sha256": "16a28371751602f2c7169c43d6552d89c7da323e404aaba1d36e965715a710c9",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "sybilshillside@gmail.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

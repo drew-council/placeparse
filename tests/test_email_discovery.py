@@ -256,6 +256,15 @@ class EmailDiscoveryTests(unittest.TestCase):
                             }
                         ],
                         "browser_checked_at": "now",
+                        "role_overrides": {"info@restaurant.com": "privacy/legal"},
+                        "publication_evidence": {
+                            "info@restaurant.com": {
+                                "note": "Policy questions only; not a general inbox.",
+                                "evidence": [
+                                    {"checked_at": "2026-10-05T00:00:00+00:00"}
+                                ],
+                            }
+                        },
                     },
                 }
                 (data_dir / f"{name.lower()}.json").write_text(json.dumps(data))
@@ -269,6 +278,14 @@ class EmailDiscoveryTests(unittest.TestCase):
             self.assertEqual(len(rows), 2)
             self.assertTrue(all(r["Name"] == "Open" for r in rows))
             self.assertNotIn("legacy@restaurant.com", [r["Email"] for r in rows])
+            info = next(r for r in rows if r["Email"] == "info@restaurant.com")
+            self.assertEqual(info["Role"], "privacy/legal")
+            self.assertEqual(info["Suggested For Allergy Inquiry"], "False")
+            self.assertEqual(info["Checked At"], "2026-10-05T00:00:00+00:00")
+            self.assertIn(
+                "Policy questions only", info["Publication and Routing Notes"]
+            )
+            self.assertEqual(info["Delivery Tested"], "False")
             self.assertEqual(
                 next(
                     r["Suggested For Allergy Inquiry"]

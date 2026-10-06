@@ -442,13 +442,45 @@
   "vicinity": "34 Pell St, New York",
   "wheelchair_accessible_entrance": true,
   "business_status_checked_at": "2026-10-03T20:05:42.662278+00:00",
-  "emails": [],
+  "emails": [
+    "sichuanhotpotcuisine@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:31.511015+00:00",
-    "outcome": "no_website",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "sichuanhotpotcuisine@gmail.com": [
+        "https://www.facebook.com/mrs.fishnyc/about/"
+      ]
+    },
     "pages": [],
-    "contact_forms": []
+    "contact_forms": [],
+    "role_overrides": {
+      "sichuanhotpotcuisine@gmail.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "sichuanhotpotcuisine@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://www.facebook.com/mrs.fishnyc/about/",
+            "quote": "Contact info 34 Pell St, New York, NY, United States, 10013 Address (212) 267-8886 Mobile sichuanhotpotcuisine@gmail.com Email Websites and social links https://www.mrsfishnyc.com/ Website",
+            "identity_evidence": [
+              {
+                "url": "https://www.facebook.com/mrs.fishnyc/about/",
+                "quote": "Mrs. Fish ... Categories Szechuan/Sichuan Restaurant Contact info 34 Pell St, New York, NY, United States, 10013"
+              }
+            ],
+            "source_type": "public business social profile — official Mrs. Fish Facebook page About/Contact info (public, no login)",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently verified public publication and context. Published on the official Mrs. Fish Facebook page alongside the saved address 34 Pell St, New York, NY 10013 and the business phone; category 'Szechuan/Sichuan Restaurant' matches Verified this run directly in an isolated browser: the official page publicly lists this address in its Contact info with matching Pell St address. The site it advertises (mrsfishnyc.com) fails with SSL protocol error / DNS resolution failure, so no primary-site corroboration was possible; note the Facebook-listed phone (212) 267-8886 differs by one digit from the saved (212) 267-8885. Gmail address published as the business's own contact, not a personal individual address. Source-specific purpose preserved; not inferred from mailbox local-part.",
+            "notes": "Verified this run directly in an isolated browser: the official page publicly lists this address in its Contact info with matching Pell St address. The site it advertises (mrsfishnyc.com) fails with SSL protocol error / DNS resolution failure, so no primary-site corroboration was possible; note the Facebook-listed phone (212) 267-8886 differs by one digit from the saved (212) 267-8885. Gmail address published as the business's own contact, not a personal individual address.",
+            "checked_at": "2026-10-05T07:21:04.923243+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Verified this run directly in an isolated browser: the official page publicly lists this address in its Contact info with matching Pell St address. The site it advertises (mrsfishnyc.com) fails with SSL protocol error / DNS resolution failure, so no primary-site corroboration was possible; note the Facebook-listed phone (212) 267-8886 differs by one digit from the saved (212) 267-8885. Gmail address published as the business's own contact, not a personal individual address. Parent independently verified public publication and context. Published on the official Mrs. Fish Facebook page alongside the saved address 34 Pell St, New York, NY 10013 and the business phone; category 'Szechuan/Sichuan Restaurant' matches Verified this run directly in an isolated browser: the official page publicly lists this address in its Contact info with matching Pell St address. The site it advertises (mrsfishnyc.com) fails with SSL protocol error / DNS resolution failure, so no primary-site corroboration was possible; note the Facebook-listed phone (212) 267-8886 differs by one digit from the saved (212) 267-8885. Gmail address published as the business's own contact, not a personal individual address. Source-specific purpose preserved; not inferred from mailbox local-part."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -504,6 +536,67 @@
         "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "mrs_fish.json",
+      "name": "Mrs. Fish",
+      "emails": [
+        {
+          "email": "sichuanhotpotcuisine@gmail.com",
+          "url": "https://www.facebook.com/mrs.fishnyc/about/",
+          "quote": "Contact info 34 Pell St, New York, NY, United States, 10013 Address (212) 267-8886 Mobile sichuanhotpotcuisine@gmail.com Email Websites and social links https://www.mrsfishnyc.com/ Website",
+          "source_type": "public business social profile — official Mrs. Fish Facebook page About/Contact info (public, no login)",
+          "purpose": "business contact email published in the page's public Contact info section (labeled 'Email')",
+          "business_match": "Published on the official Mrs. Fish Facebook page alongside the saved address 34 Pell St, New York, NY 10013 and the business phone; category 'Szechuan/Sichuan Restaurant' matches",
+          "identity_evidence": [
+            {
+              "url": "https://www.facebook.com/mrs.fishnyc/about/",
+              "quote": "Mrs. Fish ... Categories Szechuan/Sichuan Restaurant Contact info 34 Pell St, New York, NY, United States, 10013"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "source_backed",
+          "notes": "Verified this run directly in an isolated browser: the official page publicly lists this address in its Contact info with matching Pell St address. The site it advertises (mrsfishnyc.com) fails with SSL protocol error / DNS resolution failure, so no primary-site corroboration was possible; note the Facebook-listed phone (212) 267-8886 differs by one digit from the saved (212) 267-8885. Gmail address published as the business's own contact, not a personal individual address.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently verified public publication and context. Published on the official Mrs. Fish Facebook page alongside the saved address 34 Pell St, New York, NY 10013 and the business phone; category 'Szechuan/Sichuan Restaurant' matches Verified this run directly in an isolated browser: the official page publicly lists this address in its Contact info with matching Pell St address. The site it advertises (mrsfishnyc.com) fails with SSL protocol error / DNS resolution failure, so no primary-site corroboration was possible; note the Facebook-listed phone (212) 267-8886 differs by one digit from the saved (212) 267-8885. Gmail address published as the business's own contact, not a personal individual address. Source-specific purpose preserved; not inferred from mailbox local-part."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "Parent-provided DuckDuckGo lead: \"Mrs. Fish\" email contact 34 Pell St, New York, NY 10013, USA (surfaced facebook.com/mrs.fishnyc/about with email)",
+          "provider": "DuckDuckGo (parent-authorized tab, via parent-search-leads)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.facebook.com/mrs.fishnyc/about/",
+        "https://www.mrsfishnyc.com/",
+        "http://mrsfishnyc.com/"
+      ],
+      "errors": [
+        "https://www.mrsfishnyc.com/ failed with net::ERR_SSL_PROTOCOL_ERROR and http://mrsfishnyc.com/ with net::ERR_NAME_NOT_RESOLVED — advertised website is unreachable, so it could not corroborate the email"
+      ],
+      "outcome": "source_backed_email_found",
+      "remaining_avenues": [
+        "If mrsfishnyc.com comes back online, confirm the email on the primary site",
+        "Google Maps public business details for Mrs. Fish (cid 11180059991966506763) could be checked for a listed email field"
+      ],
+      "effort_notes": "Independently verified the parent's Facebook-About lead in this session (no login), extracted the published email with matching address; attempted primary-site corroboration but the domain is dead. ~5 browser command groups.",
+      "worker_claimed_checked_at": "2026-10-05T06:40:15Z",
+      "batch_completed_at": "2026-10-05T06:41:32.322541+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.520027+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-12",
+      "artifact_sha256": "9d57fba9ea6f3190cf501ca8668997d254d6537a7936507fe739f58a8d4e1796",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "sichuanhotpotcuisine@gmail.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

@@ -591,7 +591,25 @@
     ],
     "contact_forms": [
       "https://www.liuyishouna.com/joininourteam"
-    ]
+    ],
+    "candidate_sources": {
+      "admin@liuyishouna.com": {
+        "urls": [
+          "https://www.liuyishouna.com/privacypolicy"
+        ],
+        "reason": "Parent review pending; publication, exact branch attribution, currentness, and purpose are not yet all accepted.",
+        "role": "general/unspecified",
+        "checked_at": "2026-10-05T07:37:41.929348+00:00"
+      },
+      "investment@liuyishouna.com": {
+        "urls": [
+          "https://www.liuyishouna.com/careers"
+        ],
+        "reason": "Parent review pending; publication, exact branch attribution, currentness, and purpose are not yet all accepted.",
+        "role": "general/unspecified",
+        "checked_at": "2026-10-05T07:37:41.929348+00:00"
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -659,6 +677,87 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "liuyishou_hotpot__ayce_hot_pot_flushing.json",
+      "name": "Liuyishou Hot Pot",
+      "emails": [
+        {
+          "email": "admin@liuyishouna.com",
+          "url": "https://www.liuyishouna.com/privacypolicy",
+          "quote": "You may contact us with questions, comments, and requests regarding this Privacy Policy at admin@liuyishouna.com.",
+          "source_type": "official_website_privacy_policy",
+          "purpose": "privacy/legal contact for Liuyishou North America (LYS); not a general dining-inquiry address",
+          "business_match": "Published on the official Liuyishou Hot Pot North America website, which operates the saved Flushing branch page https://www.liuyishouna.com/flushing (address 136-76 39th Ave, Queens NY 11354, phone +1 (347) 732-0201 shown on that page). Brand HQ footer: Liuyishou Int. Management Co. Ltd., 2188 No.5 Road, Richmond, BC.",
+          "identity_evidence": [
+            {
+              "url": "https://www.liuyishouna.com/flushing",
+              "quote": "FLUSHING A 136-76 39th Ave, Queens, NY 11354, United States T +1 (347) 732-0201"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "candidate",
+          "notes": "BRAND-LEVEL, privacy/legal purpose only — not branch-specific to the Flushing store. Recorded per contract guidance (do not reject a real published company email just because it is on a legal page; label purpose). Live Facebook page for the Flushing branch (facebook.com/p/Liuyishou-Hotpot-...-61563343573012, intro lists the matching address/phone and order.mealkeyway.com) publishes no email.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        },
+        {
+          "email": "investment@liuyishouna.com",
+          "url": "https://www.liuyishouna.com/careers",
+          "quote": "If you are looking for business opportunities and joining the excitement of Liuyishou, please contact us at investment@liuyishouna.com",
+          "source_type": "official_website_business_opportunities_page",
+          "purpose": "business opportunities/investment contact (mailto present)",
+          "business_match": "Same official Liuyishou NA brand site operating the saved Flushing branch page (see identity evidence).",
+          "identity_evidence": [
+            {
+              "url": "https://www.liuyishouna.com/flushing",
+              "quote": "A 136-76 39th Ave, Queens, NY 11354, United States T +1 (347) 732-0201"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "candidate",
+          "notes": "BRAND-LEVEL, restricted purpose (investment/business opportunities), not a general inquiry address and not branch-specific to Flushing.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Liuyishou Hot Pot\" email contact 136-76 39th Ave, Flushing, NY 11354, USA",
+          "provider": "parent DuckDuckGo (email-depth-11-parent-search-leads.json)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.liuyishouna.com/flushing",
+        "https://www.liuyishouna.com/joininus",
+        "https://www.liuyishouna.com/joininourteam",
+        "https://www.liuyishouna.com/careers",
+        "https://www.liuyishouna.com/privacypolicy",
+        "https://www.liuyishouna.com/",
+        "https://www.facebook.com/p/Liuyishou-Hotpot-%E5%88%98%E4%B8%80%E6%89%8B%E7%81%AB%E9%94%85-%E7%BA%BD%E7%BA%A6%E6%B3%95%E6%8B%89%E7%9B%9B-61563343573012/"
+      ],
+      "errors": [],
+      "outcome": "brand_level_emails_found_no_branch_specific_general_address",
+      "remaining_avenues": [
+        "Instagram instagram.com/liuyishou.newyork (linked from the branch page) may have a bio email; login wall prevented inspection this run.",
+        "Parent brand channels (Richmond BC HQ) or the mealkeyway ordering operator could expose a branch operations mailbox."
+      ],
+      "effort_notes": "~4 command groups. Deeper than prior social-only outcome: crawled all official-site contact routes (careers, join-us, apply, privacy policy) and the branch's live Facebook page; no branch-specific or general-purpose email exists on the official site.",
+      "worker_claimed_checked_at": "2026-10-05T06:37:59Z",
+      "batch_completed_at": "2026-10-05T06:38:39.698611+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.514113+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-11",
+      "artifact_sha256": "f36c0b8087551d0a36ceb7cbbfacee76232d63607cefe8bfb18bdb96ea205cf1",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
+    }
   }
 }

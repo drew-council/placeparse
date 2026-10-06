@@ -32,11 +32,21 @@
   "website": "http://charlespanfriedchicken.com/",
   "details_checked_at": "2026-10-03T21:59:39.868880+00:00",
   "business_status_checked_at": "2026-10-03T21:59:39.868880+00:00",
-  "emails": [],
+  "emails": [
+    "qslobert@charlespanfriedchicken.com",
+    "bledesma@charlespanfriedchicken.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:59:56.998581+00:00",
-    "outcome": "contact_form_only",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "qslobert@charlespanfriedchicken.com": [
+        "https://www.charlespanfriedchicken.com/press"
+      ],
+      "bledesma@charlespanfriedchicken.com": [
+        "https://www.charlespanfriedchicken.com/catering"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.charlespanfriedchicken.com/",
@@ -83,7 +93,59 @@
       "https://www.charlespanfriedchicken.com/guest-chef-series"
     ],
     "browser_checked_at": "2026-10-03T22:08:05.859805+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "qslobert@charlespanfriedchicken.com": "press",
+      "bledesma@charlespanfriedchicken.com": "events/catering"
+    },
+    "publication_evidence": {
+      "qslobert@charlespanfriedchicken.com": {
+        "evidence": [
+          {
+            "url": "https://www.charlespanfriedchicken.com/press",
+            "quote": "mailto:qslobert@charlespanfriedchicken.com?subject=Press%20Feature%3A%20 (anchor text 'Press Inquiry'); surrounding copy: \"If you’d like to feature the Chefs or have other projects in mind, please fill out the form below or simply email us.\"",
+            "identity_evidence": [
+              {
+                "url": "https://www.charlespanfriedchicken.com/contact",
+                "quote": "Harlem (West Side) 439 W 125nd St. New York, NY 10027 (646) 618-0438"
+              },
+              {
+                "url": "https://www.charlespanfriedchicken.com/locations",
+                "quote": "Harlem - West Side 439 W 125th St. New York, NY 10027 Phone: (646) 618-0438"
+              }
+            ],
+            "source_type": "official_restaurant_website",
+            "purpose": "press",
+            "parent_reason": "Parent confirmed official Press Inquiry mailto and saved Harlem West Side address/phone in footer. Press-only named staff business contact, not general.",
+            "notes": "Company-domain mailbox published as the explicit press contact ('or simply email us'). Brand-level address; individual three-branch brand so it plausibly serves the 125th St branch. No general email published.",
+            "checked_at": "2026-10-05T08:21:32.558042+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Company-domain mailbox published as the explicit press contact ('or simply email us'). Brand-level address; individual three-branch brand so it plausibly serves the 125th St branch. No general email published. Parent confirmed official Press Inquiry mailto and saved Harlem West Side address/phone in footer. Press-only named staff business contact, not general."
+      },
+      "bledesma@charlespanfriedchicken.com": {
+        "evidence": [
+          {
+            "url": "https://www.charlespanfriedchicken.com/catering",
+            "quote": "mailto:bledesma@charlespanfriedchicken.com?subject=New%20Catering%20Inquiry (anchor text 'Email Catering')",
+            "identity_evidence": [
+              {
+                "url": "https://www.charlespanfriedchicken.com/contact",
+                "quote": "Harlem (West Side) 439 W 125nd St. New York, NY 10027 (646) 618-0438"
+              }
+            ],
+            "source_type": "official_restaurant_website",
+            "purpose": "events/catering",
+            "parent_reason": "Parent confirmed official Email Catering mailto with subject New Catering Inquiry and exact saved Harlem West Side address/phone. Named staff business contact, catering only.",
+            "notes": "Staff-personal local-part (bledesma) on the official domain, published as the direct catering email contact.",
+            "checked_at": "2026-10-05T08:21:32.558042+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Staff-personal local-part (bledesma) on the official domain, published as the direct catering email contact. Parent confirmed official Email Catering mailto with subject New Catering Inquiry and exact saved Harlem West Side address/phone. Named staff business contact, catering only."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [
@@ -143,6 +205,101 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "charles_pan-fried_chicken__8784190666411291501.json",
+      "name": "Charles Pan-Fried Chicken",
+      "emails": [
+        {
+          "email": "qslobert@charlespanfriedchicken.com",
+          "url": "https://www.charlespanfriedchicken.com/press",
+          "quote": "mailto:qslobert@charlespanfriedchicken.com?subject=Press%20Feature%3A%20 (anchor text 'Press Inquiry'); surrounding copy: \"If you’d like to feature the Chefs or have other projects in mind, please fill out the form below or simply email us.\"",
+          "source_type": "official_restaurant_website",
+          "purpose": "press/media inquiries (restricted purpose, not a general inbox)",
+          "business_match": "Published on the restaurant's own domain (charlespanfriedchicken.com); same site's contact/locations pages list the saved branch 'Harlem (West Side) 439 W 125th St. New York, NY 10027 (646) 618-0438', matching the saved address and phone.",
+          "identity_evidence": [
+            {
+              "url": "https://www.charlespanfriedchicken.com/contact",
+              "quote": "Harlem (West Side) 439 W 125nd St. New York, NY 10027 (646) 618-0438"
+            },
+            {
+              "url": "https://www.charlespanfriedchicken.com/locations",
+              "quote": "Harlem - West Side 439 W 125th St. New York, NY 10027 Phone: (646) 618-0438"
+            }
+          ],
+          "confidence": "high that the address is literally published on the official site; it is a press-purpose mailbox, not a proven general-inquiry inbox",
+          "decision": "source_backed",
+          "notes": "Company-domain mailbox published as the explicit press contact ('or simply email us'). Brand-level address; individual three-branch brand so it plausibly serves the 125th St branch. No general email published.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "press",
+            "reason": "Parent confirmed official Press Inquiry mailto and saved Harlem West Side address/phone in footer. Press-only named staff business contact, not general."
+          }
+        },
+        {
+          "email": "bledesma@charlespanfriedchicken.com",
+          "url": "https://www.charlespanfriedchicken.com/catering",
+          "quote": "mailto:bledesma@charlespanfriedchicken.com?subject=New%20Catering%20Inquiry (anchor text 'Email Catering')",
+          "source_type": "official_restaurant_website",
+          "purpose": "catering inquiries (restricted purpose, not a general inbox)",
+          "business_match": "Same official restaurant domain; catering page is brand-level with locations footer listing 'Harlem West Side 439 W 125th St. New York, NY 10027 (646) 618-0438' matching the saved business.",
+          "identity_evidence": [
+            {
+              "url": "https://www.charlespanfriedchicken.com/contact",
+              "quote": "Harlem (West Side) 439 W 125nd St. New York, NY 10027 (646) 618-0438"
+            }
+          ],
+          "confidence": "high that the address is literally published on the official site; catering-purpose mailbox, not a proven general-inquiry inbox",
+          "decision": "source_backed",
+          "notes": "Staff-personal local-part (bledesma) on the official domain, published as the direct catering email contact.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "events/catering",
+            "reason": "Parent confirmed official Email Catering mailto with subject New Catering Inquiry and exact saved Harlem West Side address/phone. Named staff business contact, catering only."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://www.charlespanfriedchicken.com/contact",
+          "matching_business_evidence": "Page footer and form 'Locations' selector include 'Harlem (West Side)' (439 W 125th St, NY 10027, (646) 618-0438) matching the saved business.",
+          "fields": "First Name (required); Last Name (required); Email (required); Phone; Locations (Harlem (Flagship) / Upper West Side / Harlem (West Side)); Message (required); 'Send It!'",
+          "general_vs_restricted": "general",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Charles Pan-Fried Chicken\" email contact 439 W 125th St, New York, NY 10027, USA",
+          "provider": "DuckDuckGo (parent search-leads cache, results inspected)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.charlespanfriedchicken.com/contact",
+        "https://www.charlespanfriedchicken.com/press",
+        "https://www.charlespanfriedchicken.com/catering",
+        "https://www.charlespanfriedchicken.com/faq",
+        "https://www.charlespanfriedchicken.com/locations (via parent lead snippet)"
+      ],
+      "errors": [],
+      "outcome": "emails_found",
+      "remaining_avenues": [
+        "No general-purpose mailbox published anywhere on the site (contact, press, catering, FAQ all checked); FAQ and contact route visitors to the general form."
+      ],
+      "effort_notes": "Deeper than prior sweep: found two literal mailto addresses on press and catering pages that the prior one-query pass missed. General channel remains form-only.",
+      "worker_claimed_checked_at": "2026-10-05T07:57:33Z",
+      "batch_completed_at": "2026-10-05T07:58:26.466566+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.558042+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-23",
+      "artifact_sha256": "b7058820f3bdb439fd1fe8133aff0dae9b2ec68a7ad0bfa92f3a262c45bd5350",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "qslobert@charlespanfriedchicken.com",
+        "bledesma@charlespanfriedchicken.com"
+      ],
+      "no_general_email_reason": "Only limited-purpose published email(s); no accepted general-inquiry email in checked sources."
+    }
   }
 }

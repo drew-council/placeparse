@@ -500,6 +500,45 @@
     ],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "grand_street_skewer_cart.json",
+      "name": "Grand Street Skewer Cart",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "parent-lead cache: \"Grand Street Skewer Cart\" email contact 246 Grand St, New York, NY 10002, USA (DuckDuckGo, 2026-10-05T06:00:02Z)",
+          "provider": "parent-search-leads file (no re-query)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.manta.com/c/mkyjbf9/grand-street-skewer-cart",
+        "https://magicpin.com/usa/New-York/Chinatown/Restaurant/Grand-Street-Skewer-Cart/store/245506c",
+        "https://grand-street-skewer-cart.wheree.com/"
+      ],
+      "errors": [
+        "https://www.manta.com/c/mkyjbf9/grand-street-skewer-cart - Cloudflare block ('Sorry, you have been blocked')",
+        "https://grand-street-skewer-cart.wheree.com/ - Cloudflare 'Just a moment...' challenge",
+        "Live search frontends unavailable in this session (Google CAPTCHA; DuckDuckGo SERP rendered no results)"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Manta company page (blocked) is the one directory that sometimes lists SMB contact emails; could be rechecked via authorized access.",
+        "As a street cart with no website and no phone number in the saved record, any contact route would most plausibly surface via the operator's other ventures or social accounts, which are unknown in checked sources.",
+        "Yelp business profile (yelp.com/biz/grand-street-skewer-cart-new-york) could be re-inspected for a published business email, though Yelp profiles typically carry none."
+      ],
+      "effort_notes": "Street cart at 246 Grand St with no website and no phone on file; no official web presence exists in any checked source. Directory pages attempted were bot-blocked (manta, wheree) or platform-only (magicpin's care@magicpin.in withheld as platform support). Prior sweep's Reddit/Roadtrippers/wheree pages carry no contact info. Not found in checked sources.",
+      "worker_claimed_checked_at": "2026-10-05T06:16:30Z",
+      "batch_completed_at": "2026-10-05T06:21:42.248735+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.499328+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-07",
+      "artifact_sha256": "210847c8c12f7b094f6798ae347524295820591594d76b1d876f2848b7f0fcc4",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Street cart at 246 Grand St with no website and no phone on file; no official web presence exists in any checked source. Directory pages attempted were bot-blocked (manta, wheree) or platform-only (magicpin's care@magicpin.in withheld as platform support). Prior sweep's Reddit/Roadtrippers/wheree pages carry no contact info. Not found in checked sources."
+    }
   }
 }

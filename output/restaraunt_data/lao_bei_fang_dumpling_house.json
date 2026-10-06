@@ -566,7 +566,17 @@
         "reason": "Placeholder, publisher/vendor, or non-restaurant mailbox; withheld from restaurant contact exports."
       }
     },
-    "quality_reviewed_at": "2026-10-04T05:58:56.901472+00:00"
+    "quality_reviewed_at": "2026-10-04T05:58:56.901472+00:00",
+    "candidate_sources": {
+      "northerndumplinghouse.shop@gmail.com": {
+        "urls": [
+          "https://web.archive.org/web/20250304100921/https://northerndumplinghouse.shop/"
+        ],
+        "reason": "Parent review pending; publication, exact branch attribution, currentness, and purpose are not yet all accepted.",
+        "role": "general/unspecified",
+        "checked_at": "2026-10-05T07:37:41.928160+00:00"
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -604,6 +614,84 @@
     ],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "lao_bei_fang_dumpling_house.json",
+      "name": "Lao Bei Fang Dumpling House",
+      "emails": [
+        {
+          "email": "northerndumplinghouse.shop@gmail.com",
+          "url": "https://web.archive.org/web/20250304100921/https://northerndumplinghouse.shop/",
+          "quote": "83-05 Broadway, Elmhurst, NY 11373 - Email: [email protected] - Phone: (718) 639-3996 (published in footer behind Cloudflare email obfuscation; data-cfemail attribute \"402e2f32342825322e24352d302c292e27282f3533256e33282f3000272d21292c6e232f2d\" decodes to northerndumplinghouse.shop@gmail.com)",
+          "source_type": "official_website_archived_footer",
+          "purpose": "general contact published in the site footer alongside address and phone",
+          "business_match": "The archived footer publishes the exact saved address (83-05 Broadway, Elmhurst, NY 11373) and phone (718) 639-3996 of the saved Maps business (cid 4561895065011230332). The packet itself records https://northerndumplinghouse.shop/ as the website of that Maps listing. The site also links the TripAdvisor listing for Lao Bei Fang Dumpling House Elmhurst and Yelp 'northern-dumpling-house-flushing'.",
+          "identity_evidence": [
+            {
+              "url": "https://maps.google.com/?cid=4561895065011230332",
+              "quote": "Lao Bei Fang Dumpling House ... 83-05 Broadway, Elmhurst, NY 11373 ... (718) 639-3996"
+            },
+            {
+              "url": "https://web.archive.org/web/20250304100921/https://northerndumplinghouse.shop/",
+              "quote": "At Northern Dumpling House, we celebrate the authentic flavors of Chinese cuisine ... Located in Elmhurst, NY"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "candidate",
+          "notes": "Kept as CANDIDATE per supervisor instruction. The live domain now shows only a 'This domain is for sale' park page (checked 2026-10-05), and the archived 2025 site has a template-like structure (reservation/menu sections) without an obvious independent authority statement (no 'unofficial' disclaimer found either). Packet-based Maps website linkage plus matching address/phone is the ownership chain; publication (2025 archive) does not verify the inbox is still monitored. No repair or guessing applied; obfuscation decoding used the published data-cfemail payload.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Lao Bei Fang\" dumpling Elmhurst \"@\" email",
+          "provider": "DuckDuckGo browser (this session)"
+        },
+        {
+          "query": "\"Lao Bei Fang\" Elmhurst dumpling email contact",
+          "provider": "Bing browser (this session, returned degraded unrelated Laos results)"
+        },
+        {
+          "query": "\"Lao Bei Fang Dumpling House\" email contact 83-05 Broadway, Elmhurst, NY 11373, USA",
+          "provider": "parent DuckDuckGo (email-depth-11-parent-search-leads.json)"
+        }
+      ],
+      "inspected_urls": [
+        "https://northerndumplinghouse.shop/",
+        "https://web.archive.org/web/20250304100921/https://northerndumplinghouse.shop/",
+        "https://maps.google.com/?cid=4561895065011230332",
+        "https://local.yahoo.com/info-11384714-lao-bei-fang-dumpling-house-elmhurst/",
+        "https://www.cybo.com/US-biz/lao-bei-fang-dumpling-house",
+        "https://restaurantedroop.com/restaurants-near-me/lao-bei-fang-dumpling-house",
+        "https://www.fantuanorder.com/store/lao-bei-fang-dumpling-house/us-1858733459"
+      ],
+      "errors": [
+        "DuckDuckGo returned a bot-detection anomaly modal with an 'are you human' duck-selection CAPTCHA; challenge not bypassed, provider abandoned.",
+        "Bing returned degraded, unrelated results (Laos country pages) ignoring quoted terms; provider abandoned after second degraded frontend.",
+        "cybo.com blocked by Cloudflare 'Just a moment...' challenge; not bypassed.",
+        "restaurantedroop.com returned ERR_HTTP_RESPONSE_CODE_FAILURE.",
+        "fantuanorder.com store page stuck at a 'Verification' interstitial."
+      ],
+      "outcome": "candidate_email_found_ownership_not_independently_verified",
+      "remaining_avenues": [
+        "Confirm restaurant ownership of northerndumplinghouse.shop (e.g., via Google Maps edit history or a live re-publication) before promoting the footer email to source_backed.",
+        "Chinese-language search (e.g., 老北方风味小吃 邮箱) could surface dealmoon/xiaohongshu contact info if a search engine becomes available."
+      ],
+      "effort_notes": "~4 command groups. Official live site is parked for sale (new finding vs. prior outcome); Wayback archive of the business's own domain yielded the obfuscated footer email. Search engines unavailable (CAPTCHA + degradation); relied on packet leads and direct inspection.",
+      "worker_claimed_checked_at": "2026-10-05T06:37:59Z",
+      "batch_completed_at": "2026-10-05T06:38:39.698611+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.512833+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-11",
+      "artifact_sha256": "f36c0b8087551d0a36ceb7cbbfacee76232d63607cefe8bfb18bdb96ea205cf1",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
+    }
   }
 }

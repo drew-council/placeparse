@@ -1,0 +1,1432 @@
+{
+  "baseline_commit": "dfef2fa2ed2132b9835cc652784305afd1423fa0",
+  "completed_at": "2026-10-05T08:30:59.779150+00:00",
+  "model": "openrouter/z-ai/glm-5.3-flash:high",
+  "current_list_entries": 369,
+  "cached_records": 441,
+  "off_list_records_retained": 72,
+  "eligible_food_venues": 349,
+  "assigned_no_general_email_venues": 183,
+  "completed_investigations": 183,
+  "baseline_coverage": {
+    "sourced_email_places": 170,
+    "general_email_places": 166,
+    "general_form_places": 43,
+    "email_or_general_form_places": 201
+  },
+  "final_coverage": {
+    "general_email_places": 199,
+    "general_form_places": 51,
+    "sourced_email_places": 217,
+    "email_or_general_form_places": 238
+  },
+  "source_publications_accepted_in_deeper_pass": 55,
+  "candidate_addresses": 37,
+  "candidate_venues": 29,
+  "method_notes": [
+    "Non-overlapping GLM research packets; isolated headless sessions. Parent alone accepted contacts and edited caches.",
+    "Parent supplied public search leads and re-inspected primary publications or original browser tool output.",
+    "Some worker artifacts report public HTTP/PDF-text checks; those method notes remain explicit.",
+    "Per-place clock claims retained as worker_claimed_checked_at; actual artifact mtime and parent review timestamps used.",
+    "An image-input-limit failure was recovered through the same retained GLM contract; no model or protocol substitution."
+  ],
+  "untested": {
+    "email_delivery": true,
+    "form_submission": true,
+    "recipient_ownership": true,
+    "allergy_handling": true
+  },
+  "outreach_sent": false,
+  "forms_submitted": false,
+  "credentials_read": false,
+  "paid_places_api_calls": false,
+  "interpretation": "Completed means bounded investigation recorded, not exhaustive discovery or verified absence. Accepted means purpose-labeled published business contact, not proven deliverability, permission, or allergy suitability.",
+  "assignments": [
+    {
+      "cache_file": "2_bros_pizza.json",
+      "name": "2 Bros Pizza",
+      "batch": "email-depth-22",
+      "artifact_sha256": "a467a93aa7340f94c5b0f762b59bc5fc004bc4f3bcb81cd7a1f2c97ecb23f0d4",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "375_chicken_n_fries.json",
+      "name": "375° Chicken 'n Fries",
+      "batch": "email-depth-22",
+      "artifact_sha256": "a467a93aa7340f94c5b0f762b59bc5fc004bc4f3bcb81cd7a1f2c97ecb23f0d4",
+      "accepted_emails": [
+        "info@375chicken.com"
+      ]
+    },
+    {
+      "cache_file": "969_nyc_coffee.json",
+      "name": "969 NYC Coffee",
+      "batch": "email-depth-01",
+      "artifact_sha256": "fb1a9d8a8677829bf12161aebdaf9b2e2cad3a9256e7480e18f13f2e23edf770",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "aa_bake_doubles_and_roti.json",
+      "name": "A&A Bake Doubles and Roti",
+      "batch": "email-depth-01",
+      "artifact_sha256": "fb1a9d8a8677829bf12161aebdaf9b2e2cad3a9256e7480e18f13f2e23edf770",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "abuqir.json",
+      "name": "Abuqir",
+      "batch": "email-depth-01",
+      "artifact_sha256": "fb1a9d8a8677829bf12161aebdaf9b2e2cad3a9256e7480e18f13f2e23edf770",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "akino.json",
+      "name": "Akino",
+      "batch": "email-depth-22",
+      "artifact_sha256": "a467a93aa7340f94c5b0f762b59bc5fc004bc4f3bcb81cd7a1f2c97ecb23f0d4",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "alive__kicking_lobsters.json",
+      "name": "Alive & Kicking Lobsters",
+      "batch": "email-depth-01",
+      "artifact_sha256": "fb1a9d8a8677829bf12161aebdaf9b2e2cad3a9256e7480e18f13f2e23edf770",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "ando_patisserie.json",
+      "name": "ANDO patisserie",
+      "batch": "email-depth-01",
+      "artifact_sha256": "fb1a9d8a8677829bf12161aebdaf9b2e2cad3a9256e7480e18f13f2e23edf770",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "astoria_bagel_shop.json",
+      "name": "Astoria Bagel Shop",
+      "batch": "email-depth-01",
+      "artifact_sha256": "fb1a9d8a8677829bf12161aebdaf9b2e2cad3a9256e7480e18f13f2e23edf770",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "ayat_astoria.json",
+      "name": "Ayat Astoria",
+      "batch": "email-depth-22",
+      "artifact_sha256": "a467a93aa7340f94c5b0f762b59bc5fc004bc4f3bcb81cd7a1f2c97ecb23f0d4",
+      "accepted_emails": [
+        "ayatnyc@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "b__b.json",
+      "name": "B & B",
+      "batch": "email-depth-01",
+      "artifact_sha256": "fb1a9d8a8677829bf12161aebdaf9b2e2cad3a9256e7480e18f13f2e23edf770",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "ba_xuyn.json",
+      "name": "Ba Xuyên",
+      "batch": "email-depth-02",
+      "artifact_sha256": "5cca1b3cca7c924d6b0c87999bf632f51e4cae5dafa3120425a163980372cd6f",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "birria_les_astoria.json",
+      "name": "Birria LES Astoria",
+      "batch": "email-depth-02",
+      "artifact_sha256": "5cca1b3cca7c924d6b0c87999bf632f51e4cae5dafa3120425a163980372cd6f",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "birria_les_saint_marks_place.json",
+      "name": "Birria LES Saint Marks Place",
+      "batch": "email-depth-02",
+      "artifact_sha256": "5cca1b3cca7c924d6b0c87999bf632f51e4cae5dafa3120425a163980372cd6f",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "bnh_m_c_t.json",
+      "name": "Bánh Mì Cô Út",
+      "batch": "email-depth-03",
+      "artifact_sha256": "7ea29bb6d9a8d43f5cf1c18d5242c0651789326c70094b613244ec482ab8951d",
+      "accepted_emails": [
+        "pewin176@icloud.com"
+      ]
+    },
+    {
+      "cache_file": "bolivian_llama_party.json",
+      "name": "Bolivian Llama Party",
+      "batch": "email-depth-22",
+      "artifact_sha256": "a467a93aa7340f94c5b0f762b59bc5fc004bc4f3bcb81cd7a1f2c97ecb23f0d4",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "boris__horton.json",
+      "name": "Boris & Horton",
+      "batch": "email-depth-22",
+      "artifact_sha256": "a467a93aa7340f94c5b0f762b59bc5fc004bc4f3bcb81cd7a1f2c97ecb23f0d4",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "broad_nosh_bagels_deli__catering_58th_street.json",
+      "name": "Broad Nosh Bagels Deli & Catering 58th Street",
+      "batch": "email-depth-02",
+      "artifact_sha256": "5cca1b3cca7c924d6b0c87999bf632f51e4cae5dafa3120425a163980372cd6f",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "brodo_-_east_village.json",
+      "name": "Brodo - East Village",
+      "batch": "email-depth-02",
+      "artifact_sha256": "5cca1b3cca7c924d6b0c87999bf632f51e4cae5dafa3120425a163980372cd6f",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "brooklyn_ball_factory.json",
+      "name": "Brooklyn Ball Factory",
+      "batch": "email-depth-22",
+      "artifact_sha256": "a467a93aa7340f94c5b0f762b59bc5fc004bc4f3bcb81cd7a1f2c97ecb23f0d4",
+      "accepted_emails": [
+        "orders@brooklynballfactory.com"
+      ]
+    },
+    {
+      "cache_file": "bullocks_bar-b-cue.json",
+      "name": "Bullock's Bar-B-Cue",
+      "batch": "email-depth-02",
+      "artifact_sha256": "5cca1b3cca7c924d6b0c87999bf632f51e4cae5dafa3120425a163980372cd6f",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "bund_dumpling_house.json",
+      "name": "Bund Dumpling House",
+      "batch": "email-depth-02",
+      "artifact_sha256": "5cca1b3cca7c924d6b0c87999bf632f51e4cae5dafa3120425a163980372cd6f",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "calle_dao_bryant_park.json",
+      "name": "Calle Dao",
+      "batch": "email-depth-23",
+      "artifact_sha256": "b7058820f3bdb439fd1fe8133aff0dae9b2ec68a7ad0bfa92f3a262c45bd5350",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "caravan_chicken.json",
+      "name": "Caravan Chicken",
+      "batch": "email-depth-03",
+      "artifact_sha256": "7ea29bb6d9a8d43f5cf1c18d5242c0651789326c70094b613244ec482ab8951d",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "casa_adela.json",
+      "name": "Casa Adela",
+      "batch": "email-depth-03",
+      "artifact_sha256": "7ea29bb6d9a8d43f5cf1c18d5242c0651789326c70094b613244ec482ab8951d",
+      "accepted_emails": [
+        "casaadelarestaurant@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "cat_cafe_mocha_lounge_shibuya_koen-dori_store.json",
+      "name": "cat cafe Mocha Lounge Shibuya Koen-dori Store",
+      "batch": "email-depth-23",
+      "artifact_sha256": "b7058820f3bdb439fd1fe8133aff0dae9b2ec68a7ad0bfa92f3a262c45bd5350",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "cauldron_chicken.json",
+      "name": "Cauldron Chicken",
+      "batch": "email-depth-03",
+      "artifact_sha256": "7ea29bb6d9a8d43f5cf1c18d5242c0651789326c70094b613244ec482ab8951d",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "charles_pan-fried_chicken__8784190666411291501.json",
+      "name": "Charles Pan-Fried Chicken",
+      "batch": "email-depth-23",
+      "artifact_sha256": "b7058820f3bdb439fd1fe8133aff0dae9b2ec68a7ad0bfa92f3a262c45bd5350",
+      "accepted_emails": [
+        "qslobert@charlespanfriedchicken.com",
+        "bledesma@charlespanfriedchicken.com"
+      ]
+    },
+    {
+      "cache_file": "chavelas.json",
+      "name": "Chavela's",
+      "batch": "email-depth-03",
+      "artifact_sha256": "7ea29bb6d9a8d43f5cf1c18d5242c0651789326c70094b613244ec482ab8951d",
+      "accepted_emails": [
+        "info@chavelasnyc.com"
+      ]
+    },
+    {
+      "cache_file": "cheli_manhattan_.json",
+      "name": "CHELI MANHATTAN 浙里",
+      "batch": "email-depth-03",
+      "artifact_sha256": "7ea29bb6d9a8d43f5cf1c18d5242c0651789326c70094b613244ec482ab8951d",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "chichicken_.json",
+      "name": "ChiChicken 吃鸡",
+      "batch": "email-depth-03",
+      "artifact_sha256": "7ea29bb6d9a8d43f5cf1c18d5242c0651789326c70094b613244ec482ab8951d",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "chick_it_out__khao_man_gai.json",
+      "name": "Chick It Out \" Khao Man Gai\"",
+      "batch": "email-depth-23",
+      "artifact_sha256": "b7058820f3bdb439fd1fe8133aff0dae9b2ec68a7ad0bfa92f3a262c45bd5350",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "chick_rocks_inc.json",
+      "name": "Chick Rocks Inc",
+      "batch": "email-depth-04",
+      "artifact_sha256": "a18b7ec9369f885c5beb3a317639c536d18b858f314d1337dba8ab0f9d78dd5d",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "chongqing_lao_zao.json",
+      "name": "Chongqing Lao Zao",
+      "batch": "email-depth-04",
+      "artifact_sha256": "a18b7ec9369f885c5beb3a317639c536d18b858f314d1337dba8ab0f9d78dd5d",
+      "accepted_emails": [
+        "chongqinglaozao.media@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "chubby_cattle_bbq__new_york.json",
+      "name": "Chubby Cattle BBQ | New York",
+      "batch": "email-depth-04",
+      "artifact_sha256": "a18b7ec9369f885c5beb3a317639c536d18b858f314d1337dba8ab0f9d78dd5d",
+      "accepted_emails": [
+        "hi@chubbygroup.com"
+      ]
+    },
+    {
+      "cache_file": "chubby_tannew_york.json",
+      "name": "Chubby TAN｜New York",
+      "batch": "email-depth-23",
+      "artifact_sha256": "b7058820f3bdb439fd1fe8133aff0dae9b2ec68a7ad0bfa92f3a262c45bd5350",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "churrascaria_plataforma.json",
+      "name": "Churrascaria Plataforma",
+      "batch": "email-depth-04",
+      "artifact_sha256": "a18b7ec9369f885c5beb3a317639c536d18b858f314d1337dba8ab0f9d78dd5d",
+      "accepted_emails": [
+        "info@plataformanyc.com"
+      ]
+    },
+    {
+      "cache_file": "cm_tm_ninh_kiu.json",
+      "name": "Cơm Tấm Ninh Kiều",
+      "batch": "email-depth-05",
+      "artifact_sha256": "64c31ccfb3906e276150604955f2eb251bddd9135580e1b195197e3a37732574",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "cocoron.json",
+      "name": "Cocoron",
+      "batch": "email-depth-23",
+      "artifact_sha256": "b7058820f3bdb439fd1fe8133aff0dae9b2ec68a7ad0bfa92f3a262c45bd5350",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "coffee_project_new_york__chelsea.json",
+      "name": "Coffee Project New York | Chelsea",
+      "batch": "email-depth-23",
+      "artifact_sha256": "b7058820f3bdb439fd1fe8133aff0dae9b2ec68a7ad0bfa92f3a262c45bd5350",
+      "accepted_emails": [
+        "class@coffeeprojectny.com"
+      ]
+    },
+    {
+      "cache_file": "coffee_project_new_york__hells_kitchen.json",
+      "name": "Coffee Project New York | Hell's Kitchen",
+      "batch": "email-depth-24",
+      "artifact_sha256": "ef42be3a0d0ce7515dd2a3210746c8c6de94e946843b3136c149678413c12863",
+      "accepted_emails": [
+        "contact@coffeeprojectny.com",
+        "class@coffeeprojectny.com"
+      ]
+    },
+    {
+      "cache_file": "consuelo.json",
+      "name": "Consuelo",
+      "batch": "email-depth-04",
+      "artifact_sha256": "a18b7ec9369f885c5beb3a317639c536d18b858f314d1337dba8ab0f9d78dd5d",
+      "accepted_emails": [
+        "cocinaconsuelonyc@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "copacabana.json",
+      "name": "Copacabana",
+      "batch": "email-depth-24",
+      "artifact_sha256": "ef42be3a0d0ce7515dd2a3210746c8c6de94e946843b3136c149678413c12863",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "corgi_jianbing_lic.json",
+      "name": "Corgi Jianbing LIC 可吉煎饼",
+      "batch": "email-depth-04",
+      "artifact_sha256": "a18b7ec9369f885c5beb3a317639c536d18b858f314d1337dba8ab0f9d78dd5d",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "corner_28.json",
+      "name": "Corner 28",
+      "batch": "email-depth-04",
+      "artifact_sha256": "a18b7ec9369f885c5beb3a317639c536d18b858f314d1337dba8ab0f9d78dd5d",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "cucciolo_osteria.json",
+      "name": "Cucciolo Osteria Durham",
+      "batch": "email-depth-05",
+      "artifact_sha256": "64c31ccfb3906e276150604955f2eb251bddd9135580e1b195197e3a37732574",
+      "accepted_emails": [
+        "info@cucciolodurham.com"
+      ]
+    },
+    {
+      "cache_file": "daesung_korean_noodle.json",
+      "name": "Daesung korean Noodle",
+      "batch": "email-depth-05",
+      "artifact_sha256": "64c31ccfb3906e276150604955f2eb251bddd9135580e1b195197e3a37732574",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "davelle.json",
+      "name": "Davelle",
+      "batch": "email-depth-05",
+      "artifact_sha256": "64c31ccfb3906e276150604955f2eb251bddd9135580e1b195197e3a37732574",
+      "accepted_emails": [
+        "hello@davellenewyork.com"
+      ]
+    },
+    {
+      "cache_file": "dim_sum_palace.json",
+      "name": "Dim Sum Palace",
+      "batch": "email-depth-05",
+      "artifact_sha256": "64c31ccfb3906e276150604955f2eb251bddd9135580e1b195197e3a37732574",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "dundu.json",
+      "name": "dùndú",
+      "batch": "email-depth-05",
+      "artifact_sha256": "64c31ccfb3906e276150604955f2eb251bddd9135580e1b195197e3a37732574",
+      "accepted_emails": [
+        "info@eatdundu.com"
+      ]
+    },
+    {
+      "cache_file": "duo_cafe.json",
+      "name": "Duo Cafe",
+      "batch": "email-depth-05",
+      "artifact_sha256": "64c31ccfb3906e276150604955f2eb251bddd9135580e1b195197e3a37732574",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "eight_jane.json",
+      "name": "Eight Jane",
+      "batch": "email-depth-06",
+      "artifact_sha256": "e11e1d9f58095060f98f50f52d96bb4678ba34ea4e22b0b50257b8c722ad9ada",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "el_castillo_de_jagua_restaurant.json",
+      "name": "El Castillo De Jagua",
+      "batch": "email-depth-06",
+      "artifact_sha256": "e11e1d9f58095060f98f50f52d96bb4678ba34ea4e22b0b50257b8c722ad9ada",
+      "accepted_emails": [
+        "info@castillodejagua.com"
+      ]
+    },
+    {
+      "cache_file": "essex_pearl.json",
+      "name": "Essex Pearl",
+      "batch": "email-depth-06",
+      "artifact_sha256": "e11e1d9f58095060f98f50f52d96bb4678ba34ea4e22b0b50257b8c722ad9ada",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "falafel_tanami.json",
+      "name": "Falafel Tanami",
+      "batch": "email-depth-06",
+      "artifact_sha256": "e11e1d9f58095060f98f50f52d96bb4678ba34ea4e22b0b50257b8c722ad9ada",
+      "accepted_emails": [
+        "galitanami@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "falu_house.json",
+      "name": "Falu House",
+      "batch": "email-depth-24",
+      "artifact_sha256": "ef42be3a0d0ce7515dd2a3210746c8c6de94e946843b3136c149678413c12863",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "fat_cat_flatbread.json",
+      "name": "Fat Cat Flatbread",
+      "batch": "email-depth-06",
+      "artifact_sha256": "e11e1d9f58095060f98f50f52d96bb4678ba34ea4e22b0b50257b8c722ad9ada",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "fay_da_bakery.json",
+      "name": "Fay Da Bakery",
+      "batch": "email-depth-06",
+      "artifact_sha256": "e11e1d9f58095060f98f50f52d96bb4678ba34ea4e22b0b50257b8c722ad9ada",
+      "accepted_emails": [
+        "info@fayda.com"
+      ]
+    },
+    {
+      "cache_file": "for_all_things_good_bed-stuy.json",
+      "name": "For All Things Good Bed-Stuy",
+      "batch": "email-depth-24",
+      "artifact_sha256": "ef42be3a0d0ce7515dd2a3210746c8c6de94e946843b3136c149678413c12863",
+      "accepted_emails": [
+        "matt@forallthingsgoodbk.com"
+      ]
+    },
+    {
+      "cache_file": "french_louie.json",
+      "name": "French Louie",
+      "batch": "email-depth-06",
+      "artifact_sha256": "e11e1d9f58095060f98f50f52d96bb4678ba34ea4e22b0b50257b8c722ad9ada",
+      "accepted_emails": [
+        "info@frenchlouienyc.com",
+        "john@frenchlouienyc.com"
+      ]
+    },
+    {
+      "cache_file": "fu_yuan.json",
+      "name": "Fu Yuan",
+      "batch": "email-depth-07",
+      "artifact_sha256": "210847c8c12f7b094f6798ae347524295820591594d76b1d876f2848b7f0fcc4",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "fu_zhou_wei_zhong_wei_jia_xiang_feng_wei.json",
+      "name": "Fu Zhou Wei Zhong Wei Jia Xiang Feng Wei",
+      "batch": "email-depth-07",
+      "artifact_sha256": "210847c8c12f7b094f6798ae347524295820591594d76b1d876f2848b7f0fcc4",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "gaia_masala__burger_new_york.json",
+      "name": "Gaia Masala & Burger New York",
+      "batch": "email-depth-24",
+      "artifact_sha256": "ef42be3a0d0ce7515dd2a3210746c8c6de94e946843b3136c149678413c12863",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "ganblaze.json",
+      "name": "GanBlaze",
+      "batch": "email-depth-07",
+      "artifact_sha256": "210847c8c12f7b094f6798ae347524295820591594d76b1d876f2848b7f0fcc4",
+      "accepted_emails": [
+        "byganblaze@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "grand_street_skewer_cart.json",
+      "name": "Grand Street Skewer Cart",
+      "batch": "email-depth-07",
+      "artifact_sha256": "210847c8c12f7b094f6798ae347524295820591594d76b1d876f2848b7f0fcc4",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "haile.json",
+      "name": "Haile",
+      "batch": "email-depth-07",
+      "artifact_sha256": "210847c8c12f7b094f6798ae347524295820591594d76b1d876f2848b7f0fcc4",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "hanis_bakery__caf.json",
+      "name": "Hani’s bakery + café",
+      "batch": "email-depth-07",
+      "artifact_sha256": "210847c8c12f7b094f6798ae347524295820591594d76b1d876f2848b7f0fcc4",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "heytea_prince_street.json",
+      "name": "heytea (Prince Street)",
+      "batch": "email-depth-07",
+      "artifact_sha256": "210847c8c12f7b094f6798ae347524295820591594d76b1d876f2848b7f0fcc4",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "hi_sunny_restaurant_saladdimsum_.json",
+      "name": "Hi Sunny Restaurant Salad&Dimsum 花园轻食",
+      "batch": "email-depth-08",
+      "artifact_sha256": "c184ae396f0dbac63230ab910b70e086f0bcce376d15cb49650b405fc683494b",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "hinatomaru_asakusa_main_store.json",
+      "name": "Hinatomaru Asakusa main store",
+      "batch": "email-depth-08",
+      "artifact_sha256": "c184ae396f0dbac63230ab910b70e086f0bcce376d15cb49650b405fc683494b",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "homemade_dumpling.json",
+      "name": "Homemade Dumpling",
+      "batch": "email-depth-08",
+      "artifact_sha256": "c184ae396f0dbac63230ab910b70e086f0bcce376d15cb49650b405fc683494b",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "hyderabadi_zaiqa.json",
+      "name": "HYDERABADI ZAIQA",
+      "batch": "email-depth-08",
+      "artifact_sha256": "c184ae396f0dbac63230ab910b70e086f0bcce376d15cb49650b405fc683494b",
+      "accepted_emails": [
+        "hyderabadizaiqalexington@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "ibn_hamido_seafood.json",
+      "name": "IBN Hamido Seafood",
+      "batch": "email-depth-08",
+      "artifact_sha256": "c184ae396f0dbac63230ab910b70e086f0bcce376d15cb49650b405fc683494b",
+      "accepted_emails": [
+        "ibnhamidonyc@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "jakaru_bar__restaurant.json",
+      "name": "Jakaru Bar & Restaurant",
+      "batch": "email-depth-08",
+      "artifact_sha256": "c184ae396f0dbac63230ab910b70e086f0bcce376d15cb49650b405fc683494b",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "jing_feng_fish_ball_inc.json",
+      "name": "Jing Feng Fish Ball Inc.",
+      "batch": "email-depth-08",
+      "artifact_sha256": "c184ae396f0dbac63230ab910b70e086f0bcce376d15cb49650b405fc683494b",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "jurin_sushi.json",
+      "name": "Jurin Sushi",
+      "batch": "email-depth-09",
+      "artifact_sha256": "ce6e08a692c216168faa036bb937b26433b7f91f6e5d1c74518e0c366d18092c",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "kaki.json",
+      "name": "Kaki",
+      "batch": "email-depth-09",
+      "artifact_sha256": "ce6e08a692c216168faa036bb937b26433b7f91f6e5d1c74518e0c366d18092c",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "kashin_japanese_restaurant.json",
+      "name": "Kashin Japanese Restaurant",
+      "batch": "email-depth-09",
+      "artifact_sha256": "ce6e08a692c216168faa036bb937b26433b7f91f6e5d1c74518e0c366d18092c",
+      "accepted_emails": [
+        "kashinjapaneserestaurant@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "katsu-hama.json",
+      "name": "Katsu-Hama",
+      "batch": "email-depth-09",
+      "artifact_sha256": "ce6e08a692c216168faa036bb937b26433b7f91f6e5d1c74518e0c366d18092c",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "kimura.json",
+      "name": "Kimura",
+      "batch": "email-depth-09",
+      "artifact_sha256": "ce6e08a692c216168faa036bb937b26433b7f91f6e5d1c74518e0c366d18092c",
+      "accepted_emails": [
+        "kimura.press@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "kings_sandwich_shop.json",
+      "name": "King's Sandwich Shop",
+      "batch": "email-depth-09",
+      "artifact_sha256": "ce6e08a692c216168faa036bb937b26433b7f91f6e5d1c74518e0c366d18092c",
+      "accepted_emails": [
+        "tjmcdiv@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "ko_burger.json",
+      "name": "K.O. Burger",
+      "batch": "email-depth-24",
+      "artifact_sha256": "ef42be3a0d0ce7515dd2a3210746c8c6de94e946843b3136c149678413c12863",
+      "accepted_emails": [
+        "info@koburger.com"
+      ]
+    },
+    {
+      "cache_file": "kofoo.json",
+      "name": "KoFoo",
+      "batch": "email-depth-09",
+      "artifact_sha256": "ce6e08a692c216168faa036bb937b26433b7f91f6e5d1c74518e0c366d18092c",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "kohoku-ku_ramen.json",
+      "name": "KOHOKU-KU RAMEN",
+      "batch": "email-depth-10",
+      "artifact_sha256": "1f7345e076c0c9bcd51b81f469a73373564f9634df130ec08785025944ebe3fb",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "koi_omakase.json",
+      "name": "Koi Omakase",
+      "batch": "email-depth-10",
+      "artifact_sha256": "1f7345e076c0c9bcd51b81f469a73373564f9634df130ec08785025944ebe3fb",
+      "accepted_emails": [
+        "koiomakase@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "koliba.json",
+      "name": "Koliba",
+      "batch": "email-depth-10",
+      "artifact_sha256": "1f7345e076c0c9bcd51b81f469a73373564f9634df130ec08785025944ebe3fb",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "kong_sihk_tong.json",
+      "name": "Kong Sihk Tong",
+      "batch": "email-depth-10",
+      "artifact_sha256": "1f7345e076c0c9bcd51b81f469a73373564f9634df130ec08785025944ebe3fb",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "kung_fu_little_steamed_buns_ramen.json",
+      "name": "Kung Fu Little Steamed Buns Ramen",
+      "batch": "email-depth-10",
+      "artifact_sha256": "1f7345e076c0c9bcd51b81f469a73373564f9634df130ec08785025944ebe3fb",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "la_nueva_victoria.json",
+      "name": "La Nueva Victoria",
+      "batch": "email-depth-10",
+      "artifact_sha256": "1f7345e076c0c9bcd51b81f469a73373564f9634df130ec08785025944ebe3fb",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "laghman_express.json",
+      "name": "Laghman Express",
+      "batch": "email-depth-10",
+      "artifact_sha256": "1f7345e076c0c9bcd51b81f469a73373564f9634df130ec08785025944ebe3fb",
+      "accepted_emails": [
+        "laghmanexpress@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "lao_bei_fang_dumpling_house.json",
+      "name": "Lao Bei Fang Dumpling House",
+      "batch": "email-depth-11",
+      "artifact_sha256": "f36c0b8087551d0a36ceb7cbbfacee76232d63607cefe8bfb18bdb96ea205cf1",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "lenas_italian_kitchen_ues.json",
+      "name": "Lena's Italian Kitchen (UES)",
+      "batch": "email-depth-24",
+      "artifact_sha256": "ef42be3a0d0ce7515dd2a3210746c8c6de94e946843b3136c149678413c12863",
+      "accepted_emails": [
+        "info1167@lenasitaliankitchentogo.com"
+      ]
+    },
+    {
+      "cache_file": "lhasa.json",
+      "name": "Lhasa",
+      "batch": "email-depth-11",
+      "artifact_sha256": "f36c0b8087551d0a36ceb7cbbfacee76232d63607cefe8bfb18bdb96ea205cf1",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "librae_bakery.json",
+      "name": "Librae Bakery",
+      "batch": "email-depth-25",
+      "artifact_sha256": "792c5dda39f67d31a1f49c69ad2da90acf618feb5048a05abd438dec33fa3c92",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "liuyishou_hotpot__ayce_hot_pot_flushing.json",
+      "name": "Liuyishou Hot Pot",
+      "batch": "email-depth-11",
+      "artifact_sha256": "f36c0b8087551d0a36ceb7cbbfacee76232d63607cefe8bfb18bdb96ea205cf1",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "mahmouds_corner_halal_food_cart.json",
+      "name": "Mahmoud's Corner Halal Food Cart",
+      "batch": "email-depth-11",
+      "artifact_sha256": "f36c0b8087551d0a36ceb7cbbfacee76232d63607cefe8bfb18bdb96ea205cf1",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "maiko_matcha_cafe.json",
+      "name": "Maiko Matcha Cafe",
+      "batch": "email-depth-25",
+      "artifact_sha256": "792c5dda39f67d31a1f49c69ad2da90acf618feb5048a05abd438dec33fa3c92",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "maison_de_manee.json",
+      "name": "Maison de Manee",
+      "batch": "email-depth-11",
+      "artifact_sha256": "f36c0b8087551d0a36ceb7cbbfacee76232d63607cefe8bfb18bdb96ea205cf1",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "mama_lee-_williamsburg.json",
+      "name": "Mama Lee - Williamsburg",
+      "batch": "email-depth-11",
+      "artifact_sha256": "f36c0b8087551d0a36ceb7cbbfacee76232d63607cefe8bfb18bdb96ea205cf1",
+      "accepted_emails": [
+        "mamaleeofficialrestaurant@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "mamas.json",
+      "name": "Mama's",
+      "batch": "email-depth-11",
+      "artifact_sha256": "f36c0b8087551d0a36ceb7cbbfacee76232d63607cefe8bfb18bdb96ea205cf1",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "mango_mango_dessert.json",
+      "name": "Mango Mango Dessert",
+      "batch": "email-depth-12",
+      "artifact_sha256": "9d57fba9ea6f3190cf501ca8668997d254d6537a7936507fe739f58a8d4e1796",
+      "accepted_emails": [
+        "customerservice@mangomangodessert.com"
+      ]
+    },
+    {
+      "cache_file": "mariscos_el_submarino.json",
+      "name": "Mariscos El Submarino",
+      "batch": "email-depth-12",
+      "artifact_sha256": "9d57fba9ea6f3190cf501ca8668997d254d6537a7936507fe739f58a8d4e1796",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "marthas_country_bakery.json",
+      "name": "Martha's Country Bakery",
+      "batch": "email-depth-12",
+      "artifact_sha256": "9d57fba9ea6f3190cf501ca8668997d254d6537a7936507fe739f58a8d4e1796",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "maxis_noodle.json",
+      "name": "Maxi's Noodle",
+      "batch": "email-depth-25",
+      "artifact_sha256": "792c5dda39f67d31a1f49c69ad2da90acf618feb5048a05abd438dec33fa3c92",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "mazzola_bakery.json",
+      "name": "Mazzola Bakery",
+      "batch": "email-depth-12",
+      "artifact_sha256": "9d57fba9ea6f3190cf501ca8668997d254d6537a7936507fe739f58a8d4e1796",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "mexicocina_mezcaleria.json",
+      "name": "Mexicocina Mezcaleria",
+      "batch": "email-depth-25",
+      "artifact_sha256": "792c5dda39f67d31a1f49c69ad2da90acf618feb5048a05abd438dec33fa3c92",
+      "accepted_emails": [
+        "mexicocinabny@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "mikes_pastry.json",
+      "name": "Mike's Pastry",
+      "batch": "email-depth-25",
+      "artifact_sha256": "792c5dda39f67d31a1f49c69ad2da90acf618feb5048a05abd438dec33fa3c92",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "mile_end_delicatessen.json",
+      "name": "Mile End Delicatessen",
+      "batch": "email-depth-12",
+      "artifact_sha256": "9d57fba9ea6f3190cf501ca8668997d254d6537a7936507fe739f58a8d4e1796",
+      "accepted_emails": [
+        "hello@mileenddeli.com",
+        "catering@mileenddeli.com"
+      ]
+    },
+    {
+      "cache_file": "mm.json",
+      "name": "Mắm",
+      "batch": "email-depth-13",
+      "artifact_sha256": "3287de346653c8e79fa618db4f0511c88e5e175262631811cb56a758280447df",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "mr_ps_homemade_ice_cream.json",
+      "name": "Mr P's Homemade Ice Cream",
+      "batch": "email-depth-12",
+      "artifact_sha256": "9d57fba9ea6f3190cf501ca8668997d254d6537a7936507fe739f58a8d4e1796",
+      "accepted_emails": [
+        "mrpsicecream@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "mrs_fish.json",
+      "name": "Mrs. Fish",
+      "batch": "email-depth-12",
+      "artifact_sha256": "9d57fba9ea6f3190cf501ca8668997d254d6537a7936507fe739f58a8d4e1796",
+      "accepted_emails": [
+        "sichuanhotpotcuisine@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "mtskheta_cafe.json",
+      "name": "Mtskheta Cafe",
+      "batch": "email-depth-13",
+      "artifact_sha256": "3287de346653c8e79fa618db4f0511c88e5e175262631811cb56a758280447df",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "nan_xiang_express.json",
+      "name": "Nan Xiang Express - Williamsburg, NY",
+      "batch": "email-depth-13",
+      "artifact_sha256": "3287de346653c8e79fa618db4f0511c88e5e175262631811cb56a758280447df",
+      "accepted_emails": [
+        "hello@nanxiangexpress.com",
+        "catering@nanxiangexpress.com"
+      ]
+    },
+    {
+      "cache_file": "nan_xiang_soup_dumplings_-_flushing.json",
+      "name": "Nan Xiang Soup Dumplings - Flushing",
+      "batch": "email-depth-13",
+      "artifact_sha256": "3287de346653c8e79fa618db4f0511c88e5e175262631811cb56a758280447df",
+      "accepted_emails": [
+        "catering@nanxiangxiaolongbao.com"
+      ]
+    },
+    {
+      "cache_file": "nenes_taqueria.json",
+      "name": "Nenes Taqueria",
+      "batch": "email-depth-13",
+      "artifact_sha256": "3287de346653c8e79fa618db4f0511c88e5e175262631811cb56a758280447df",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "new_world_uyghur_cuisine.json",
+      "name": "New world Uyghur Cuisine",
+      "batch": "email-depth-13",
+      "artifact_sha256": "3287de346653c8e79fa618db4f0511c88e5e175262631811cb56a758280447df",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "new_york_city_bagel__coffee_house.json",
+      "name": "New York City Bagel & Coffee House",
+      "batch": "email-depth-13",
+      "artifact_sha256": "3287de346653c8e79fa618db4f0511c88e5e175262631811cb56a758280447df",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "no_1_super_snack_inc.json",
+      "name": "超力福州美食 No.1 Super Snack Inc. - Fuzhou Snacks",
+      "batch": "email-depth-21",
+      "artifact_sha256": "51ff24b7d9798402c1a227bf85e810a871341065602589e48523b43ab7ad0ad7",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "nyonya.json",
+      "name": "Nyonya",
+      "batch": "email-depth-14",
+      "artifact_sha256": "e6b5b8faa2c19283b59313e8cad615fc54cacb70462a0d23065cc6f55c0fbbb1",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "okonomi__yuji_ramen.json",
+      "name": "OKONOMI Brooklyn",
+      "batch": "email-depth-14",
+      "artifact_sha256": "e6b5b8faa2c19283b59313e8cad615fc54cacb70462a0d23065cc6f55c0fbbb1",
+      "accepted_emails": [
+        "okonomi@handhospitality.com"
+      ]
+    },
+    {
+      "cache_file": "om_wok.json",
+      "name": "Om Wok",
+      "batch": "email-depth-14",
+      "artifact_sha256": "e6b5b8faa2c19283b59313e8cad615fc54cacb70462a0d23065cc6f55c0fbbb1",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "omusubi_gonbei.json",
+      "name": "Omusubi Gonbei",
+      "batch": "email-depth-14",
+      "artifact_sha256": "e6b5b8faa2c19283b59313e8cad615fc54cacb70462a0d23065cc6f55c0fbbb1",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "ozakaya.json",
+      "name": "Ozakaya",
+      "batch": "email-depth-14",
+      "artifact_sha256": "e6b5b8faa2c19283b59313e8cad615fc54cacb70462a0d23065cc6f55c0fbbb1",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "pasticceria_monteleone_bk.json",
+      "name": "Pasticceria Monteleone BK",
+      "batch": "email-depth-14",
+      "artifact_sha256": "e6b5b8faa2c19283b59313e8cad615fc54cacb70462a0d23065cc6f55c0fbbb1",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "phayul.json",
+      "name": "Phayul",
+      "batch": "email-depth-14",
+      "artifact_sha256": "e6b5b8faa2c19283b59313e8cad615fc54cacb70462a0d23065cc6f55c0fbbb1",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "philomenas_pizza.json",
+      "name": "Philomena's Pizza",
+      "batch": "email-depth-15",
+      "artifact_sha256": "2823dc4cb0abec228d7f3debd15e3c3f6fcee75bf12c734f76f78b7da179ea94",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "pho__poke_house.json",
+      "name": "Pho & Poke House",
+      "batch": "email-depth-15",
+      "artifact_sha256": "2823dc4cb0abec228d7f3debd15e3c3f6fcee75bf12c734f76f78b7da179ea94",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "pierozek.json",
+      "name": "Pierozek",
+      "batch": "email-depth-15",
+      "artifact_sha256": "2823dc4cb0abec228d7f3debd15e3c3f6fcee75bf12c734f76f78b7da179ea94",
+      "accepted_emails": [
+        "catering@pierozekbrooklyn.com"
+      ]
+    },
+    {
+      "cache_file": "pig_and_khao__17981707761134598310.json",
+      "name": "Pig and Khao",
+      "batch": "email-depth-15",
+      "artifact_sha256": "2823dc4cb0abec228d7f3debd15e3c3f6fcee75bf12c734f76f78b7da179ea94",
+      "accepted_emails": [
+        "events@pigandkhao.com"
+      ]
+    },
+    {
+      "cache_file": "q_noodles.json",
+      "name": "Q noodles",
+      "batch": "email-depth-15",
+      "artifact_sha256": "2823dc4cb0abec228d7f3debd15e3c3f6fcee75bf12c734f76f78b7da179ea94",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "radio_bakery.json",
+      "name": "Radio Bakery",
+      "batch": "email-depth-25",
+      "artifact_sha256": "792c5dda39f67d31a1f49c69ad2da90acf618feb5048a05abd438dec33fa3c92",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "rays_candy_store.json",
+      "name": "Ray's Candy Store",
+      "batch": "email-depth-15",
+      "artifact_sha256": "2823dc4cb0abec228d7f3debd15e3c3f6fcee75bf12c734f76f78b7da179ea94",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "renees_kitchenette__grill.json",
+      "name": "Renee's Kitchenette & Grill",
+      "batch": "email-depth-25",
+      "artifact_sha256": "792c5dda39f67d31a1f49c69ad2da90acf618feb5048a05abd438dec33fa3c92",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "rice_thief.json",
+      "name": "Rice Thief",
+      "batch": "email-depth-15",
+      "artifact_sha256": "2823dc4cb0abec228d7f3debd15e3c3f6fcee75bf12c734f76f78b7da179ea94",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "rio_bonito_grill.json",
+      "name": "Rio Bonito Grill",
+      "batch": "email-depth-00",
+      "artifact_sha256": "7920b6b32e019b62e695508c9c3402ccc09e0504ff4cb98275c2c7828c29423d",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "robert_is_here_fruit_stand.json",
+      "name": "Robert Is Here Fruit Stand",
+      "batch": "email-depth-16",
+      "artifact_sha256": "262a2eb0b2c2a6c15cd73c565919ce8c1d546450c5b8f1d89cd16d596c96d769",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "s-meat__hueso.json",
+      "name": "S-Meat & Hueso",
+      "batch": "email-depth-16",
+      "artifact_sha256": "262a2eb0b2c2a6c15cd73c565919ce8c1d546450c5b8f1d89cd16d596c96d769",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "s_wan_cafe.json",
+      "name": "S Wan Cafe",
+      "batch": "email-depth-16",
+      "artifact_sha256": "262a2eb0b2c2a6c15cd73c565919ce8c1d546450c5b8f1d89cd16d596c96d769",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "saiguette.json",
+      "name": "Saiguette",
+      "batch": "email-depth-16",
+      "artifact_sha256": "262a2eb0b2c2a6c15cd73c565919ce8c1d546450c5b8f1d89cd16d596c96d769",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "samis_kabab_house.json",
+      "name": "Sami's Kabab House",
+      "batch": "email-depth-16",
+      "artifact_sha256": "262a2eb0b2c2a6c15cd73c565919ce8c1d546450c5b8f1d89cd16d596c96d769",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "sams_falafel_stand.json",
+      "name": "Sam's Falafel Stand",
+      "batch": "email-depth-16",
+      "artifact_sha256": "262a2eb0b2c2a6c15cd73c565919ce8c1d546450c5b8f1d89cd16d596c96d769",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "sanuki_udon.json",
+      "name": "Sanuki Udon",
+      "batch": "email-depth-26",
+      "artifact_sha256": "7fc18ab250a6f5d4bf02cbd351386f52ae1f7219124f5bee5f9bbca03d45e79c",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "saranrom_thai.json",
+      "name": "Saranrom Thai",
+      "batch": "email-depth-26",
+      "artifact_sha256": "7fc18ab250a6f5d4bf02cbd351386f52ae1f7219124f5bee5f9bbca03d45e79c",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "sarisa_cafe.json",
+      "name": "SARISA Cafe",
+      "batch": "email-depth-16",
+      "artifact_sha256": "262a2eb0b2c2a6c15cd73c565919ce8c1d546450c5b8f1d89cd16d596c96d769",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "shanghai_you_garden.json",
+      "name": "Shanghai You Garden",
+      "batch": "email-depth-17",
+      "artifact_sha256": "f2bbab4f989c9a3e0a6bdd59eab03dd8fcf8cfe693395a8cd42c29df99e4e7f5",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "shinn_west.json",
+      "name": "Shinn WEST",
+      "batch": "email-depth-26",
+      "artifact_sha256": "7fc18ab250a6f5d4bf02cbd351386f52ae1f7219124f5bee5f9bbca03d45e79c",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "silk_road_bites.json",
+      "name": "SILK ROAD BITES",
+      "batch": "email-depth-17",
+      "artifact_sha256": "f2bbab4f989c9a3e0a6bdd59eab03dd8fcf8cfe693395a8cd42c29df99e4e7f5",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "slik.json",
+      "name": "SLIK",
+      "batch": "email-depth-17",
+      "artifact_sha256": "f2bbab4f989c9a3e0a6bdd59eab03dd8fcf8cfe693395a8cd42c29df99e4e7f5",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "soba_noodle_azuma.json",
+      "name": "Soba Noodle Azuma",
+      "batch": "email-depth-17",
+      "artifact_sha256": "f2bbab4f989c9a3e0a6bdd59eab03dd8fcf8cfe693395a8cd42c29df99e4e7f5",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "southern_junction.json",
+      "name": "Southern Junction",
+      "batch": "email-depth-17",
+      "artifact_sha256": "f2bbab4f989c9a3e0a6bdd59eab03dd8fcf8cfe693395a8cd42c29df99e4e7f5",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "steves_authentic_key_lime_pie.json",
+      "name": "Steve's Authentic Key Lime Pie",
+      "batch": "email-depth-17",
+      "artifact_sha256": "f2bbab4f989c9a3e0a6bdd59eab03dd8fcf8cfe693395a8cd42c29df99e4e7f5",
+      "accepted_emails": [
+        "inquiry@keylime.com"
+      ]
+    },
+    {
+      "cache_file": "stowaway.json",
+      "name": "STOWAWAY",
+      "batch": "email-depth-17",
+      "artifact_sha256": "f2bbab4f989c9a3e0a6bdd59eab03dd8fcf8cfe693395a8cd42c29df99e4e7f5",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "sumatera_restaurant_nyc.json",
+      "name": "Sumatera Restaurant NYC",
+      "batch": "email-depth-18",
+      "artifact_sha256": "16a28371751602f2c7169c43d6552d89c7da323e404aaba1d36e965715a710c9",
+      "accepted_emails": [
+        "sumateranyc@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "sushi_35_west.json",
+      "name": "Sushi 35 West",
+      "batch": "email-depth-18",
+      "artifact_sha256": "16a28371751602f2c7169c43d6552d89c7da323e404aaba1d36e965715a710c9",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "sushi_sho.json",
+      "name": "Sushi Sho",
+      "batch": "email-depth-18",
+      "artifact_sha256": "16a28371751602f2c7169c43d6552d89c7da323e404aaba1d36e965715a710c9",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "sweet_cake.json",
+      "name": "Sweet Cake",
+      "batch": "email-depth-18",
+      "artifact_sha256": "16a28371751602f2c7169c43d6552d89c7da323e404aaba1d36e965715a710c9",
+      "accepted_emails": [
+        "sweetmomentcakeinc@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "sybils_bakery__restaurant.json",
+      "name": "Sybil's Bakery & Restaurant",
+      "batch": "email-depth-18",
+      "artifact_sha256": "16a28371751602f2c7169c43d6552d89c7da323e404aaba1d36e965715a710c9",
+      "accepted_emails": [
+        "sybilshillside@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "sylla.json",
+      "name": "Sylla",
+      "batch": "email-depth-18",
+      "artifact_sha256": "16a28371751602f2c7169c43d6552d89c7da323e404aaba1d36e965715a710c9",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "tacos_1986_west_village.json",
+      "name": "Tacos 1986 West Village",
+      "batch": "email-depth-18",
+      "artifact_sha256": "16a28371751602f2c7169c43d6552d89c7da323e404aaba1d36e965715a710c9",
+      "accepted_emails": [
+        "wecater@tacos1986.com"
+      ]
+    },
+    {
+      "cache_file": "taiwan_pork_chop_house.json",
+      "name": "Taiwan Pork Chop House",
+      "batch": "email-depth-19",
+      "artifact_sha256": "c6e236df0a2fe0da9b0e351de461a5a6223860fd83d86b4efcd31e2aac919f51",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "tao_hong.json",
+      "name": "Tao Hong",
+      "batch": "email-depth-19",
+      "artifact_sha256": "c6e236df0a2fe0da9b0e351de461a5a6223860fd83d86b4efcd31e2aac919f51",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "tapyorka.json",
+      "name": "Tapyorka",
+      "batch": "email-depth-19",
+      "artifact_sha256": "c6e236df0a2fe0da9b0e351de461a5a6223860fd83d86b4efcd31e2aac919f51",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "teado_tea_shop_.json",
+      "name": "Teado Tea Shop 葉風茶舖",
+      "batch": "email-depth-19",
+      "artifact_sha256": "c6e236df0a2fe0da9b0e351de461a5a6223860fd83d86b4efcd31e2aac919f51",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "the_dolar_shop_hot_pot_manhattan.json",
+      "name": "The Dolar Shop Hot Pot Manhattan",
+      "batch": "email-depth-19",
+      "artifact_sha256": "c6e236df0a2fe0da9b0e351de461a5a6223860fd83d86b4efcd31e2aac919f51",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "tnten.json",
+      "name": "Tènten",
+      "batch": "email-depth-26",
+      "artifact_sha256": "7fc18ab250a6f5d4bf02cbd351386f52ae1f7219124f5bee5f9bbca03d45e79c",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "tomi_jazz.json",
+      "name": "Tomi Jazz",
+      "batch": "email-depth-26",
+      "artifact_sha256": "7fc18ab250a6f5d4bf02cbd351386f52ae1f7219124f5bee5f9bbca03d45e79c",
+      "accepted_emails": [
+        "haken.performance@gmail.com"
+      ]
+    },
+    {
+      "cache_file": "tonchin_new_york.json",
+      "name": "TONCHIN NEW YORK",
+      "batch": "email-depth-26",
+      "artifact_sha256": "7fc18ab250a6f5d4bf02cbd351386f52ae1f7219124f5bee5f9bbca03d45e79c",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "tortas_neza.json",
+      "name": "Tortas Neza",
+      "batch": "email-depth-19",
+      "artifact_sha256": "c6e236df0a2fe0da9b0e351de461a5a6223860fd83d86b4efcd31e2aac919f51",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "trinciti_roti_shop__restaurant.json",
+      "name": "Trinciti Roti Shop & Restaurant",
+      "batch": "email-depth-19",
+      "artifact_sha256": "c6e236df0a2fe0da9b0e351de461a5a6223860fd83d86b4efcd31e2aac919f51",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "ubani-_georgian_cuisine.json",
+      "name": "Ubani - Bay Ridge",
+      "batch": "email-depth-20",
+      "artifact_sha256": "2defc17f9a9bca915f7a051661666e86a8ff34a275abec13d318816a1d36390f",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "uka_omakase.json",
+      "name": "Uka Omakase",
+      "batch": "email-depth-20",
+      "artifact_sha256": "2defc17f9a9bca915f7a051661666e86a8ff34a275abec13d318816a1d36390f",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "underground_pizza.json",
+      "name": "Underground Pizza",
+      "batch": "email-depth-20",
+      "artifact_sha256": "2defc17f9a9bca915f7a051661666e86a8ff34a275abec13d318816a1d36390f",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "very_fresh_noodles.json",
+      "name": "Very Fresh Noodles",
+      "batch": "email-depth-20",
+      "artifact_sha256": "2defc17f9a9bca915f7a051661666e86a8ff34a275abec13d318816a1d36390f",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "vezzo_nyc_thin_crust_pizza.json",
+      "name": "Vezzo NYC Thin Crust Pizza",
+      "batch": "email-depth-26",
+      "artifact_sha256": "7fc18ab250a6f5d4bf02cbd351386f52ae1f7219124f5bee5f9bbca03d45e79c",
+      "accepted_emails": [
+        "support@nycthincrust.com"
+      ]
+    },
+    {
+      "cache_file": "wah_fung_no1_fast_food.json",
+      "name": "Wah Fung No.1 Fast Food",
+      "batch": "email-depth-20",
+      "artifact_sha256": "2defc17f9a9bca915f7a051661666e86a8ff34a275abec13d318816a1d36390f",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "west_rice_roll_king_.json",
+      "name": "West Rice Roll King 西关肠粉王",
+      "batch": "email-depth-20",
+      "artifact_sha256": "2defc17f9a9bca915f7a051661666e86a8ff34a275abec13d318816a1d36390f",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "wo_hop.json",
+      "name": "Wo Hop",
+      "batch": "email-depth-20",
+      "artifact_sha256": "2defc17f9a9bca915f7a051661666e86a8ff34a275abec13d318816a1d36390f",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "xiang_hotpot-brooklyn.json",
+      "name": "Xiang Hotpot-Brooklyn",
+      "batch": "email-depth-21",
+      "artifact_sha256": "51ff24b7d9798402c1a227bf85e810a871341065602589e48523b43ab7ad0ad7",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "xie_bao_.json",
+      "name": "Xie Bao Flushing 蟹寶",
+      "batch": "email-depth-21",
+      "artifact_sha256": "51ff24b7d9798402c1a227bf85e810a871341065602589e48523b43ab7ad0ad7",
+      "accepted_emails": [
+        "hello@xiebao.com"
+      ]
+    },
+    {
+      "cache_file": "yagg_sii_tenn_authentic_african_cuisine.json",
+      "name": "Yagg Sii Tenn Authentic African Cuisine",
+      "batch": "email-depth-21",
+      "artifact_sha256": "51ff24b7d9798402c1a227bf85e810a871341065602589e48523b43ab7ad0ad7",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "yamato_japanese_restaurant.json",
+      "name": "Yamato Japanese Restaurant",
+      "batch": "email-depth-21",
+      "artifact_sha256": "51ff24b7d9798402c1a227bf85e810a871341065602589e48523b43ab7ad0ad7",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "yin_ji_chang_fen.json",
+      "name": "Yin Ji Chang Fen 銀記腸粉",
+      "batch": "email-depth-21",
+      "artifact_sha256": "51ff24b7d9798402c1a227bf85e810a871341065602589e48523b43ab7ad0ad7",
+      "accepted_emails": []
+    },
+    {
+      "cache_file": "zest_sushi.json",
+      "name": "Zest Sushi",
+      "batch": "email-depth-21",
+      "artifact_sha256": "51ff24b7d9798402c1a227bf85e810a871341065602589e48523b43ab7ad0ad7",
+      "accepted_emails": []
+    }
+  ]
+}

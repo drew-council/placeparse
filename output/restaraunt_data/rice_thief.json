@@ -488,7 +488,25 @@
     "contact_forms": []
   },
   "text_contact_discovery": {
-    "channels": [],
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://ricethief.online/contact/",
+        "purpose": "general inquiry",
+        "business_match_confirmed": true,
+        "business_match_evidence": "Official site ricethief.online; contact page and footer show '39-37 30th St, Long Island City, NY 11101 · (917) 832-7108' exactly matching the saved address and phone; privacy policy states 'This website belongs to Rice Thief, 39-37 30th St, Long Island City, NY 11101'",
+        "field_evidence": [
+          "Website",
+          "NAME",
+          "EMAIL",
+          "PHONE (optional)",
+          "MESSAGE"
+        ],
+        "notes": "Parent independently confirmed actual message field and public general-inquiry wording. Not submitted/delivery tested.",
+        "checked_at": "2026-10-05T08:25:23.510365+00:00",
+        "submission_tested": false
+      }
+    ],
     "checked_at": "2026-10-04T20:32:56.520847+00:00",
     "method": "agent-browser rendered sites and public search results; no submissions or messages",
     "pages": [
@@ -543,6 +561,51 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "rice_thief.json",
+      "name": "Rice Thief",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://ricethief.online/contact/",
+          "matching_business_evidence": "Official site ricethief.online; contact page and footer show '39-37 30th St, Long Island City, NY 11101 · (917) 832-7108' exactly matching the saved address and phone; privacy policy states 'This website belongs to Rice Thief, 39-37 30th St, Long Island City, NY 11101'",
+          "visible_free_text_field": "textarea labelled 'MESSAGE' plus NAME, EMAIL, PHONE (optional) fields and SEND MESSAGE button; WordPress form with action/lb_nonce hidden fields",
+          "general_vs_restricted": "General — page text: 'For the waitlist or take-out, call (917) 832-7108 during opening hours. For anything else, send us a note here.'",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "(no fresh search needed — packet lead https://ricethief.online/ inspected directly and all site pages swept)",
+          "provider": "direct navigation",
+          "note": "Privacy policy, about, contact pages all inspected for mailto/obfuscated addresses"
+        }
+      ],
+      "inspected_urls": [
+        "https://ricethief.online/",
+        "https://ricethief.online/contact/",
+        "https://ricethief.online/privacy-policy/",
+        "https://ricethief.online/about/"
+      ],
+      "errors": [],
+      "outcome": "general_form_fallback_no_email_published",
+      "remaining_avenues": [
+        "Instagram @ricethief.nyc bio (robot_excluded in prior packet — not revisited in violation of robots rules)",
+        "Yelp business page 'business owner' contact routes are platform-mediated, not published restaurant email",
+        "No mailto or obfuscated email found in homepage/footer/about/faq-adjacent pages checked; menu and gallery pages hold no contact content"
+      ],
+      "effort_notes": "Deep sweep of the official WordPress site: homepage, /contact/, /about/, /privacy-policy/. Zero mailto links, zero regex-matched addresses anywhere. Privacy policy explicitly redirects questions to phone or the contact form rather than an email address — strong signal the restaurant publishes no mailbox. The /contact/ form is general-purpose ('For anything else, send us a note here') with matching address/phone evidence.",
+      "worker_claimed_checked_at": "2026-10-05T06:58:20Z",
+      "batch_completed_at": "2026-10-05T06:59:29.442618+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.532532+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-15",
+      "artifact_sha256": "2823dc4cb0abec228d7f3debd15e3c3f6fcee75bf12c734f76f78b7da179ea94",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Deep sweep of the official WordPress site: homepage, /contact/, /about/, /privacy-policy/. Zero mailto links, zero regex-matched addresses anywhere. Privacy policy explicitly redirects questions to phone or the contact form rather than an email address — strong signal the restaurant publishes no mailbox. The /contact/ form is general-purpose ('For anything else, send us a note here') with matching address/phone evidence."
+    }
   }
 }

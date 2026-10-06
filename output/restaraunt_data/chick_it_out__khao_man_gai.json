@@ -106,6 +106,60 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "chick_it_out__khao_man_gai.json",
+      "name": "Chick It Out \" Khao Man Gai\"",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://www.chickitoutastoria.com/",
+          "matching_business_evidence": "Same homepage footer shows 'Chick it out “Khao Man Gai” 32-06 35th St. Astoria , NY 11106' matching the saved address.",
+          "fields": "'Contact us' block: First name*; Last name; Email*; 'Write a message' free-text; Submit",
+          "general_vs_restricted": "general",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Chick It Out \" Khao Man Gai\"\" email contact 32-06 35th St, Astoria, NY 11106, USA",
+          "provider": "DuckDuckGo (parent search-leads cache, results inspected)"
+        },
+        {
+          "query": "\"chick it out\" astoria thai contact email",
+          "provider": "DuckDuckGo (degraded: no result articles rendered)"
+        },
+        {
+          "query": "\"chick it out\" astoria thai contact email",
+          "provider": "Bing (degraded: unrelated results for chick/Chicken dictionary sites)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.chickitoutastoria.com/",
+        "https://www.chickitoutastoria.com/reservations",
+        "https://www.ezcater.com/catering/pvt/chick-it-out-3 (linked catering storefront)"
+      ],
+      "errors": [
+        "DuckDuckGo full-JS results page rendered zero result articles (degraded).",
+        "Bing returned unrelated degraded results (Chick-fil-A/dictionary pages); stopped provider cycling per contract.",
+        "ezcater.com storefront blocked by Cloudflare 'Just a moment...' challenge; not bypassed."
+      ],
+      "outcome": "general_contact_form",
+      "remaining_avenues": [
+        "ezCater storefront (officially linked catering channel) may expose a business contact email but is challenge-gated.",
+        "Facebook page facebook.com/chickitout.astoria.2025 could publish an email in its public about section (social bios allowed but page was not reachable within scope/time)."
+      ],
+      "effort_notes": "Homepage and reservations page checked (both carry the same footer 'Contact us' free-text form — homepage instance is general, reservations instance is booking-context). No mailto/plaintext email anywhere on the site.",
+      "worker_claimed_checked_at": "2026-10-05T07:57:33Z",
+      "batch_completed_at": "2026-10-05T07:58:26.466566+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.558357+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-23",
+      "artifact_sha256": "b7058820f3bdb439fd1fe8133aff0dae9b2ec68a7ad0bfa92f3a262c45bd5350",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Homepage and reservations page checked (both carry the same footer 'Contact us' free-text form — homepage instance is general, reservations instance is booking-context). No mailto/plaintext email anywhere on the site."
+    }
   }
 }

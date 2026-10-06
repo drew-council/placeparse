@@ -61,6 +61,101 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:16.159852+00:00",
-    "browser_outcome": "found"
+    "browser_outcome": "found",
+    "role_overrides": {
+      "chongqinglaozao.media@gmail.com": "press"
+    },
+    "publication_evidence": {
+      "chongqinglaozao.media@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://www.chongqinglaozao.com/",
+            "quote": "Footer/header anchor href=\"mailto:chongqinglaozao.media@gmail.com\" with link text 'chongqinglaozao.media@gmail.com' on the official homepage",
+            "identity_evidence": [
+              {
+                "url": "https://www.chongqinglaozao.com/",
+                "quote": "Page title '重庆老灶 | Chongqinglaozao | Flushing' - the only published pages are the homepage and /menu; the mailto anchor is the sole contact route on the site"
+              }
+            ],
+            "source_type": "official_website",
+            "purpose": "press",
+            "parent_reason": "Parent independently confirmed literal primary-site publication beside saved 37-04 Prince St and 917-563-7171. Explicit label Press / Media; not a general or dietary recipient.",
+            "notes": "Re-verifies the packet's existing sourced email (prior outcome limited_purpose_only). The address is literally published as a mailto link on the homepage, but its label/context is media-oriented; no general-inquiry email exists on the site. Site nav contains only Home and Menu; no contact, about, or privacy pages to yield a second address.",
+            "checked_at": "2026-10-05T07:37:41.901387+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Re-verifies the packet's existing sourced email (prior outcome limited_purpose_only). The address is literally published as a mailto link on the homepage, but its label/context is media-oriented; no general-inquiry email exists on the site. Site nav contains only Home and Menu; no contact, about, or privacy pages to yield a second address. Parent independently confirmed literal primary-site publication beside saved 37-04 Prince St and 917-563-7171. Explicit label Press / Media; not a general or dietary recipient."
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "email_investigation": {
+      "cache_file": "chongqing_lao_zao.json",
+      "name": "Chongqing Lao Zao",
+      "emails": [
+        {
+          "email": "chongqinglaozao.media@gmail.com",
+          "url": "https://www.chongqinglaozao.com/",
+          "quote": "Footer/header anchor href=\"mailto:chongqinglaozao.media@gmail.com\" with link text 'chongqinglaozao.media@gmail.com' on the official homepage",
+          "source_type": "official_website",
+          "purpose": "media/press inquiries (media-labeled mailbox, not a general inquiry address)",
+          "business_match": "Official website of Chongqing Lao Zao (site title: 'Chongqinglaozao | Flushing'); the saved Maps listing links this domain as the restaurant website, and Flushing matches the saved locality",
+          "identity_evidence": [
+            {
+              "url": "https://www.chongqinglaozao.com/",
+              "quote": "Page title '重庆老灶 | Chongqinglaozao | Flushing' - the only published pages are the homepage and /menu; the mailto anchor is the sole contact route on the site"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "source_backed",
+          "notes": "Re-verifies the packet's existing sourced email (prior outcome limited_purpose_only). The address is literally published as a mailto link on the homepage, but its label/context is media-oriented; no general-inquiry email exists on the site. Site nav contains only Home and Menu; no contact, about, or privacy pages to yield a second address.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "press",
+            "reason": "Parent independently confirmed literal primary-site publication beside saved 37-04 Prince St and 917-563-7171. Explicit label Press / Media; not a general or dietary recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"chongqinglaozao\" OR \"chongqing lao zao\" flushing email contact",
+          "provider": "DuckDuckGo browser (blocked by challenge)"
+        },
+        {
+          "query": "\"chongqing lao zao\" flushing email contact",
+          "provider": "Bing browser (degraded unrelated results)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.chongqinglaozao.com/",
+        "https://www.chongqinglaozao.com/menu",
+        "https://duckduckgo.com/?q=%22chongqinglaozao%22+OR+%22chongqing+lao+zao%22+flushing+email+contact&ia=web",
+        "https://www.bing.com/search?q=%22chongqing+lao+zao%22+flushing+email+contact"
+      ],
+      "errors": [
+        "DuckDuckGo presented a CAPTCHA-style challenge ('Please complete the following challenge to confirm this search was made by a human'); not bypassed",
+        "Bing returned degraded, unrelated results about Chongqing city, China"
+      ],
+      "outcome": "limited_purpose_only",
+      "remaining_avenues": [
+        "A parent-retrieved targeted search for the restaurant's Instagram/Facebook bio could surface a general contact email if the owners published one socially",
+        "Delivery-platform store pages (e.g., Fantuan/UberEats) as a long-shot for a published inquiry address"
+      ],
+      "effort_notes": "Deepened the prior single-page check: confirmed the homepage is the ONLY published page carrying an email (the media mailto), verified /menu publishes no email or contact info, and attempted two search angles which were both challenged/degraded - stopped cycling providers per contract. No general-purpose email found in checked sources; the media mailbox remains the only literal published address.",
+      "worker_claimed_checked_at": "2026-10-05T05:15:00Z",
+      "batch_completed_at": "2026-10-05T05:58:21.340085+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.485845+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-04",
+      "artifact_sha256": "a18b7ec9369f885c5beb3a317639c536d18b858f314d1337dba8ab0f9d78dd5d",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "chongqinglaozao.media@gmail.com"
+      ],
+      "no_general_email_reason": "Only limited-purpose published email(s); no accepted general-inquiry email in checked sources."
+    }
   }
 }

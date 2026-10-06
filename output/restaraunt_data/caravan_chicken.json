@@ -489,6 +489,49 @@
         "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "caravan_chicken.json",
+      "name": "Caravan Chicken",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Caravan Chicken\" Astoria, NY 11106 contact email",
+          "provider": "DuckDuckGo browser (prior sweep)"
+        }
+      ],
+      "inspected_urls": [
+        "https://caravan-chicken.res-menubox.com/",
+        "https://maps.google.com/?cid=7091414710069322262",
+        "https://www.restaurantji.com/ny/queens/caravan-/",
+        "https://opengovny.com/corporation/2087901",
+        "https://citysquares.com/b/caravan-chicken-inc-2569400"
+      ],
+      "errors": [
+        "https://caravan-chicken.res-menubox.com/ still returns Cloudflare 522 connection timed out (origin down), same as prior sweep.",
+        "https://opengovny.com/corporation/2087901 returns HTTP 403 'Access to opengovny.com was denied'.",
+        "https://citysquares.com/b/caravan-chicken-inc-2569400 shows Cloudflare security-verification challenge; not bypassed.",
+        "Google Maps business listing renders as limited view; it shows 'Add website' meaning NO website is registered on the Maps profile."
+      ],
+      "outcome": "not_found_in_checked_sources",
+      "remaining_avenues": [
+        "Google Maps listing confirms no registered website and no email field is exposed publicly; the practical route is phone (718) 545-3980.",
+        "Retry caravan-chicken.res-menubox.com when its origin recovers (522) — the prior packet treated it as a plausible official ordering/menu site.",
+        "State corporate record (opengovny corp 2087901) is 403-blocked; NY DOS OpenCorporate equivalent could confirm ownership names but is people-data adjacent.",
+        "Peruvian-community Facebook page for the restaurant, if it exists, was not discoverable without a working search engine."
+      ],
+      "effort_notes": "~4 browser command groups. Search engines already blocked earlier in this batch; used packet URLs + Maps. Every lead (res-menubox down, opengovny 403, citysquares challenge, Maps 'Add website') confirms absence of a published text route. Prior rejected info@buzzfile.com remains correctly rejected (publisher mailbox).",
+      "worker_claimed_checked_at": "2026-10-05T05:45:00Z",
+      "batch_completed_at": "2026-10-05T05:54:15.783326+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.481824+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-03",
+      "artifact_sha256": "7ea29bb6d9a8d43f5cf1c18d5242c0651789326c70094b613244ec482ab8951d",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. ~4 browser command groups. Search engines already blocked earlier in this batch; used packet URLs + Maps. Every lead (res-menubox down, opengovny 403, citysquares challenge, Maps 'Add website') confirms absence of a published text route. Prior rejected info@buzzfile.com remains correctly rejected (publisher mailbox)."
+    }
   }
 }

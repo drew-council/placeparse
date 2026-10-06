@@ -508,7 +508,17 @@
       "https://maxisnoodle.com/faq/img_88288904/"
     ],
     "browser_checked_at": "2026-10-03T22:10:07.726827+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "candidate_sources": {
+      "maxisnoodle@gmail.com": {
+        "urls": [
+          "https://www.bizarchive.com/business/maxis-noodle_1y-917-908-0808"
+        ],
+        "reason": "Parent review pending; publication, exact branch attribution, currentness, and purpose are not yet all accepted.",
+        "role": "general/unspecified",
+        "checked_at": "2026-10-05T08:21:32.564455+00:00"
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [
@@ -558,6 +568,68 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "maxis_noodle.json",
+      "name": "Maxi's Noodle",
+      "emails": [
+        {
+          "email": "maxisnoodle@gmail.com",
+          "url": "https://www.bizarchive.com/business/maxis-noodle_1y-917-908-0808",
+          "quote": "CONTACT INFORMATION Maxi's Noodle 135-11 38th Ave, Flushing, NY 11354 ... Phone: (917) 908-0808 ... Web: www.maxisnoodle.com Email: maxisnoodle@gmail.com",
+          "source_type": "third_party_directory",
+          "purpose": "Business contact email listed as the restaurant's contact email in a business directory profile",
+          "business_match": "Directory listing shows exact saved address 135-11 38th Ave, Flushing, NY 11354 and web www.maxisnoodle.com; phone shown as (917) 908-0808 matching saved phone (917) 908-0808.",
+          "identity_evidence": [
+            {
+              "url": "http://www.maxisnoodle.com/",
+              "quote": "135-11 38th Ave. Flushing NY, 11354 / 59-20 Main St. Flushing NY, 11354/ 68 Mott St. New York, NY 10013  38th Ave. 917-908-0808"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "candidate",
+          "notes": "bizarchive marks its data 'for archival purposes only'; directory-published address but not confirmed on an official Maxi's Noodle source. Site's own Facebook page redirects to login so could not corroborate via social bio. Promote only after parent verification.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://maxisnoodle.com/contact/",
+          "business_match": "Official site maxisnoodle.com; header shows 135-11 38th Ave. Flushing NY, 11354 and 917-908-0808 (matches saved address/phone).",
+          "fields": "Name (required), Email (required), Comment (required), Submit",
+          "general_or_restricted": "General free-text contact form ('HIT US UP' nav item; no purpose restriction observed).",
+          "submission_tested": false
+        }
+      ],
+      "queries": [],
+      "inspected_urls": [
+        "http://www.maxisnoodle.com/",
+        "https://maxisnoodle.com/contact/",
+        "https://www.bizarchive.com/business/maxis-noodle_1y-917-908-0808",
+        "https://www.facebook.com/250320555670780/"
+      ],
+      "errors": [
+        "Restaurant's own Facebook link (https://www.facebook.com/250320555670780/) redirected to a login wall; did not log in."
+      ],
+      "outcome": "candidate_email_found_with_form_fallback",
+      "remaining_avenues": [
+        "Corroborate maxisnoodle@gmail.com on an official channel (site Facebook bio is login-walled; Instagram @maxisnoodle could be checked login-free if possible).",
+        "Parent-authorized targeted search quoting 'maxisnoodle@gmail.com' plus 'Maxi's Noodle'."
+      ],
+      "effort_notes": "Inspected homepage and contact page (no published email/mailto), followed parent lead to bizarchive directory where the candidate email appears with matching address/phone/web; attempted social corroboration (login wall).",
+      "worker_claimed_checked_at": "2026-10-05T08:06:54Z",
+      "batch_completed_at": "2026-10-05T08:07:37.471630+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.564455+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-25",
+      "artifact_sha256": "792c5dda39f67d31a1f49c69ad2da90acf618feb5048a05abd438dec33fa3c92",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
+    }
   }
 }

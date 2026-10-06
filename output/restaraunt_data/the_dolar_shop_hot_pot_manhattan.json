@@ -724,6 +724,78 @@
         "\"dolarshopev@gmail.com\" The Dolar Shop Hot Pot Manhattan"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "the_dolar_shop_hot_pot_manhattan.json",
+      "name": "The Dolar Shop Hot Pot Manhattan",
+      "emails": [
+        {
+          "email": "dolarshopev@gmail.com",
+          "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/hot-pot-restaurant/2032618904-the-dolar-shop-hot-pot-manhattan",
+          "quote": "Restaurant-specific address published by a third-party directory listing for 'The Dolar Shop Hot Pot Manhattan in New York, NY 10003 - 646-590...'; quoted in prior packet candidate_sources. Address listed on page: 55 3rd Ave; phone (646) 590-0034.",
+          "source_type": "third_party_directory",
+          "purpose": "general business/event inquiries (per directory listing; exact wording 'ev' suggests events; general-inquiry use unconfirmed)",
+          "business_match": "Directory entry matches saved business name 'The Dolar Shop Hot Pot Manhattan', address 55 3rd Ave (55 3rd Ave, New York, NY 10003), and phone 646-590-0034. Official site dolarshop.com confirms Manhattan store at 55 3rd Ave, 646 590 0034.",
+          "identity_evidence": [
+            {
+              "url": "https://www.dolarshop.com/location/manhattan-location/manhattan-group-dining",
+              "quote": "Manhattan Location-GROUP & PRIVATE DINING - 55 3rd Ave New York, NY 10003 - 646 590 0034"
+            },
+            {
+              "url": "https://www.chamberofcommerce.com/business-directory/new-york/new-york/hot-pot-restaurant/2032618904-the-dolar-shop-hot-pot-manhattan",
+              "quote": "The Dolar Shop Hot Pot Manhattan in New York, NY 10003 - 646-590... (page was Cloudflare-challenged in this session; candidate carried over from prior packet candidate_sources)"
+            }
+          ],
+          "confidence": "low",
+          "decision": "candidate",
+          "notes": "Still not confirmed by any official dolarshop.com source; the entire official site (home, about, groupdining, event-request-manhattan, both location pages) contains no published email. Gmail handle 'dolarshopev' is plausibly restaurant-operated ('ev' likely = events) but ownership/current use unverified. Do not disclose allergy information before confirming recipient.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://www.dolarshop.com/event-request-manhattan",
+          "business_match": "Official site page titled 'Event Request-Manhattan' under the Manhattan location; page repeats '55 3rd Ave New York, NY 10003, 646 590 0034' matching the saved Maps record",
+          "visible_fields": "First Name, Last Name, Email, Phone Number, Company, Nature of this Event, Event Date (required), Start/End Time, Number Of People (at least 15 guests), Location, free-text 'Is there any additional information you would like to add?' textarea, SUBMIT",
+          "general_vs_restricted": "restricted - group/private event booking requests only (15+ guests), not a general inquiry channel",
+          "submission_tested": false
+        }
+      ],
+      "queries": [],
+      "inspected_urls": [
+        "https://www.dolarshop.com/",
+        "https://www.dolarshop.com/contact (404 - no such page)",
+        "https://www.dolarshop.com/about",
+        "https://www.dolarshop.com/groupdining",
+        "https://www.dolarshop.com/location/manhattan-location/manhattan-group-dining",
+        "https://www.dolarshop.com/event-request-manhattan",
+        "https://www.dolarshop.com/_files/ugd/f3843b_c3dfa837815c4c77b1867d69341c4f59.pdf",
+        "https://www.instagram.com/thedolarshopusa/ (login wall)"
+      ],
+      "errors": [
+        "dolarshop.com/contact returns 404",
+        "Instagram @thedolarshopusa redirects to accounts/login without login"
+      ],
+      "outcome": "candidate_only",
+      "remaining_avenues": [
+        "PDF group-dining menu (f3843b_c3dfa837815c4c77b1867d69341c4f59.pdf) extracted with pdftotext; no email strings found in text layer; an image-based scan could hide one (2.1 MB, screenshot/PDF-OCR extraction is a parent option)",
+        "Instagram/Facebook/TikTok bios (@thedolarshopusa, @chochohotpot, facebook.com/thedolarshopnewyork) are login-walled for this session",
+        "Sydney/Richmond sister-store pages might publish a brand-level email; site footer is contactless; the tiktok @chochohotpot link suggests a related brand worth one parent-side check"
+      ],
+      "effort_notes": "Deepened beyond prior sweep: crawled the entire official site link set (/, /about, /groupdining, /location/..., /event-request-manhattan), extracted the linked group-dining PDF and grepped it, confirmed the event form is event-restricted. Official site has zero published emails. Candidate remains chamberofcommerce-only.",
+      "worker_claimed_checked_at": "2026-10-05T07:37:14Z",
+      "batch_completed_at": "2026-10-05T07:43:09.783387+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.544780+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-19",
+      "artifact_sha256": "c6e236df0a2fe0da9b0e351de461a5a6223860fd83d86b4efcd31e2aac919f51",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
     }
   }
 }

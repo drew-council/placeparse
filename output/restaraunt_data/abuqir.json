@@ -446,7 +446,17 @@
     "outcome": "no_website",
     "sources": {},
     "pages": [],
-    "contact_forms": []
+    "contact_forms": [],
+    "candidate_sources": {
+      "abuquir.seafood@yahoo.com": {
+        "urls": [
+          "https://abuqir-seafood.eniplaces.com/"
+        ],
+        "reason": "Parent review pending; publication, exact branch attribution, currentness, and purpose are not yet all accepted.",
+        "role": "general/unspecified",
+        "checked_at": "2026-10-05T07:37:41.890980+00:00"
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -502,6 +512,70 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "abuqir.json",
+      "name": "Abuqir",
+      "emails": [
+        {
+          "email": "Abuquir.Seafood@yahoo.com",
+          "url": "https://abuqir-seafood.eniplaces.com/",
+          "quote": "Our Locations Abuqir Abuqir 24-19 Steinway St, Astoria, NY 11103 Price Range: $30–50 per person 718-274-3474 Abuquir.Seafood@yahoo.com Click the icon to view a larger map",
+          "source_type": "third-party restaurant platform page (eniplaces)",
+          "purpose": "general customer-inquiry contact for the restaurant (published directly under the location's address and phone in the 'Our Locations' block)",
+          "business_match": "Page is for Abuqir Seafood at exactly the saved address 24-19 Steinway St, Astoria, NY 11103 and phone 718-274-3474 (matches saved (718) 274-3474).",
+          "identity_evidence": [
+            {
+              "url": "https://abuqir-seafood.eniplaces.com/",
+              "quote": "Our Locations Abuqir Abuqir 24-19 Steinway St, Astoria, NY 11103 ... 718-274-3474 Abuquir.Seafood@yahoo.com"
+            },
+            {
+              "url": "https://www.facebook.com/p/AbuQir-Seafood-100067912425324/",
+              "quote": "Abuqir Seafood on 24-19 Steinway St, Astoria, NY 11103 is the only location for this restaurant. The owner is Ahmed Amir... (parent-provided search snippet; page itself login-walled this session)"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "candidate",
+          "notes": "Email address is business-purposed and restaurant-name-specific ('Abuquir.Seafood@'), published adjacent to the exact saved address+phone. However the same page carries the footer disclaimer 'This is not the official website. Content is updated by the community.', so the publication is community-maintained third-party content, not restaurant-owned primary publication. Not present as a mailto link (plain text). The restaurant's other platform sites (abuqirseafood.zoyaf.com, abuqir.site redirects to zoyaf) publish no email. Parent must decide whether to promote this candidate.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Abuqir\" email contact 24-19 Steinway St, Astoria, NY 11103, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent-provided leads file)"
+        }
+      ],
+      "inspected_urls": [
+        "https://abuqir.site/",
+        "https://abuqirseafood.zoyaf.com/",
+        "https://abuqir-seafood.eniplaces.com/contact",
+        "https://abuqir-seafood.eniplaces.com/"
+      ],
+      "errors": [
+        "https://abuqir.site/ redirects to abuqirseafood.zoyaf.com (platform page, no email/form).",
+        "https://abuqir-seafood.eniplaces.com/contact has no email, no forms."
+      ],
+      "outcome": "candidate_email_found",
+      "remaining_avenues": [
+        "Facebook page facebook.com/p/AbuQir-Seafood-100067912425324/ is login-walled without credentials; its public bio could confirm or contradict the email if accessed from an authorized context.",
+        "NY Halal Guide listing (nyhalalguide.com/locations/abuqir-astoria/) from prior sweep not re-inspected this run."
+      ],
+      "effort_notes": "Deeper attempt: followed abuqir.site redirect chain, inspected both zoyaf platform pages and the eniplaces contact page, then verified the parent-provided search snippet by loading the eniplaces homepage where the email is literally published next to the matching address and phone. Recorded as candidate due to the site's 'not the official website / community updated' disclaimer.",
+      "worker_claimed_checked_at": "2026-10-05T05:51:51Z",
+      "batch_completed_at": "2026-10-05T05:52:42.594255+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.447815+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-01",
+      "artifact_sha256": "fb1a9d8a8677829bf12161aebdaf9b2e2cad3a9256e7480e18f13f2e23edf770",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
+    }
   }
 }

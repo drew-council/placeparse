@@ -512,6 +512,54 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "chick_rocks_inc.json",
+      "name": "Chick Rocks Inc",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "Chick Rocks 136-20 Roosevelt Ave Flushing (direct Google Maps public business details lookup)",
+          "provider": "Google Maps browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.facebook.com/p/Chick-Rocks-Inc-100086820541395/",
+        "https://www.facebook.com/people/Chick-Rocks-Inc/100086820541395/?sk=about",
+        "https://chickrocksus.com/",
+        "https://chickrocksus.com/about/",
+        "https://chickrocksus.com/faq",
+        "https://chickrocksus.com/catering",
+        "https://chickrocksus.com/privacy",
+        "https://chickrocksus.com/terms",
+        "https://www.google.com/maps/search/Chick+Rocks+136-20+Roosevelt+Ave+Flushing",
+        "https://chick-rocks-inc.wheree.com/",
+        "https://chickrocksflushing.com/"
+      ],
+      "errors": [
+        "https://chickrocksflushing.com (website listed on the restaurant's Facebook page) is expired/parked at a DropCatch domain auction - dead end, not a real site",
+        "https://chick-rocks-inc.wheree.com/ returned Cloudflare challenge ('Just a moment...'); not bypassed",
+        "https://www.instagram.com/chickrocksus/ (official site's observed Instagram link) redirected to Instagram login wall; bio not readable without auth",
+        "DuckDuckGo search returned a human-verification challenge and Bing returned degraded unrelated results, so live keyword searching was stopped per contract; verification relied on direct source visits"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Instagram bio of @chickrocksus (officially linked from chickrocksus.com) could contain a contact email but is behind Instagram login; a parent-retrieved public search result of that bio could confirm",
+        "TikTok account bio, if the business maintains one",
+        "UberEats/DoorDash store pages may list a restaurant support route but are typically platform contacts, not restaurant staff"
+      ],
+      "effort_notes": "Major progress vs prior outcome: the packet had website:null and only social leads. I found the business's current official website chickrocksus.com via the Google Maps public listing (Maps shows 'chickrocksus.com'). Identity confirmed: FAQ page states 'We have 3 locations in Queens, New York: Chick Rocks Flushing at 136-20 Roosevelt Ave #25, Flushing, NY 11354, (347) 368-6181' - exact match to saved address and phone (136-20 Roosevelt Ave #25, (347) 368-6181). I then inspected homepage, about, faq, catering, privacy, and terms pages: zero emails, zero mailto links, and no contact forms anywhere on the site (catering page routes to 'ORDER CATERING' only). Facebook page and its Contact info/about tab publish only address, phone (347) 368-6181, and the now-dead chickrocksflushing.com - no email. Facebook About tab checked via profile.php?id=100086820541395&sk=about: no email field. Not found in checked sources; not claiming no email exists.",
+      "worker_claimed_checked_at": "2026-10-05T05:45:00Z",
+      "batch_completed_at": "2026-10-05T05:58:21.340085+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.485458+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-04",
+      "artifact_sha256": "a18b7ec9369f885c5beb3a317639c536d18b858f314d1337dba8ab0f9d78dd5d",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Major progress vs prior outcome: the packet had website:null and only social leads. I found the business's current official website chickrocksus.com via the Google Maps public listing (Maps shows 'chickrocksus.com'). Identity confirmed: FAQ page states 'We have 3 locations in Queens, New York: Chick Rocks Flushing at 136-20 Roosevelt Ave #25, Flushing, NY 11354, (347) 368-6181' - exact match to saved address and phone (136-20 Roosevelt Ave #25, (347) 368-6181). I then inspected homepage, about, faq, catering, privacy, and terms pages: zero emails, zero mailto links, and no contact forms anywhere on the site (catering page routes to 'ORDER CATERING' only). Facebook page and its Contact info/about tab publish only address, phone (347) 368-6181, and the now-dead chickrocksflushing.com - no email. Facebook About tab checked via profile.php?id=100086820541395&sk=about: no email field. Not found in checked sources; not claiming no email exists."
+    }
   }
 }

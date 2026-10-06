@@ -509,6 +509,46 @@
       }
     ],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "corner_28.json",
+      "name": "Corner 28",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "Corner 28 135-24 40th Rd Flushing (direct Google Maps public business details lookup)",
+          "provider": "Google Maps browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.beyondmenu.com/42256/flushing/corner-28-flushing-11354/info.aspx",
+        "https://whereyoueat.com/Corner-28-14459.html",
+        "https://local.yahoo.com/info-42156086-corner-28-flushing/",
+        "https://www.google.com/maps/search/Corner+28+135-24+40th+Rd+Flushing"
+      ],
+      "errors": [
+        "https://www.beyondmenu.com/42256/flushing/corner-28-flushing-11354/info.aspx behind Cloudflare challenge ('Performing security verification'); not bypassed",
+        "Google Maps place panel shows 'Add website' (no website) and no email field; Maps confirms address 135-24 40th Rd, Flushing, NY 11354 and phone (718) 886-6628 matching the saved business",
+        "No live keyword search performed: DuckDuckGo challenge and Bing degraded results encountered earlier in this session stopped provider cycling per contract"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "fantuanorder.com store page (from prior search results) for any published store contact route",
+        "Facebook page: no official handle observed in any checked source; a parent-retrieved search could locate one and its public bio/contact info",
+        "Tripadvisor/Mapquest listings (from prior results) - directories rarely carry restaurant emails but were not individually re-inspected this round"
+      ],
+      "effort_notes": "Fresh inspection rather than repeating the prior outcome: whereyoueat listing shows only phone 718-886-6628 (and an older 40-28 Main St address, same cross street), Yahoo Local listing confirms exact saved address 135-24 40th Rd with phone (718) 886-6628 but no email, BeyondMenu is newly Cloudflare-challenged, and Google Maps shows no website or email. No email published in any checked source.",
+      "worker_claimed_checked_at": "2026-10-05T05:55:00Z",
+      "batch_completed_at": "2026-10-05T05:58:21.340085+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.488024+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-04",
+      "artifact_sha256": "a18b7ec9369f885c5beb3a317639c536d18b858f314d1337dba8ab0f9d78dd5d",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Fresh inspection rather than repeating the prior outcome: whereyoueat listing shows only phone 718-886-6628 (and an older 40-28 Main St address, same cross street), Yahoo Local listing confirms exact saved address 135-24 40th Rd with phone (718) 886-6628 but no email, BeyondMenu is newly Cloudflare-challenged, and Google Maps shows no website or email. No email published in any checked source."
+    }
   }
 }

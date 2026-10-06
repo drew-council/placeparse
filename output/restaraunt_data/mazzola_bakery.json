@@ -564,6 +564,45 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "mazzola_bakery.json",
+      "name": "Mazzola Bakery",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "Parent-provided DuckDuckGo lead: \"Mazzola Bakery\" email contact 192 Union St, Brooklyn, NY 11231, USA (results inspected; directory results carry no email)",
+          "provider": "DuckDuckGo (parent-authorized tab, via parent-search-leads)"
+        }
+      ],
+      "inspected_urls": [
+        "https://mazzolabakerycafe.com/",
+        "https://mazzolabakerycafe.com/index.php/about/",
+        "https://mazzolabakerycafe.com/index.php/visit/",
+        "https://www.facebook.com/MazzolaBakery/about/",
+        "https://mazzola-bakery.wheree.com/"
+      ],
+      "errors": [
+        "wheree.com returned 'Just a moment...' Cloudflare challenge (not bypassed)"
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "Official site Location page publishes only 'Tel 718-643-1719 Fax 718-246-0899' — no email anywhere on home/about/visit pages",
+        "new-york.food-us.org directory page names President Frank Caravello (no email) — further historical directories could be checked",
+        "Phone (718) 643-1719 remains the only verified channel"
+      ],
+      "effort_notes": "Full crawl of the small WordPress site (home/about/visit), public Facebook About (no email), one directory challenge-blocked. ~6 browser command groups.",
+      "worker_claimed_checked_at": "2026-10-05T06:40:15Z",
+      "batch_completed_at": "2026-10-05T06:41:32.322541+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.517981+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-12",
+      "artifact_sha256": "9d57fba9ea6f3190cf501ca8668997d254d6537a7936507fe739f58a8d4e1796",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Full crawl of the small WordPress site (home/about/visit), public Facebook About (no email), one directory challenge-blocked. ~6 browser command groups."
+    }
   }
 }

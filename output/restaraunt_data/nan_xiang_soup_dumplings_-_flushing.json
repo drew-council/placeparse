@@ -471,11 +471,17 @@
   "website": "https://nanxiangxiaolongbao.com/?utm_source=gbp&utm_medium=organic&utm_content=flushing",
   "wheelchair_accessible_entrance": true,
   "business_status_checked_at": "2026-10-03T20:05:44.914883+00:00",
-  "emails": [],
+  "emails": [
+    "catering@nanxiangxiaolongbao.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:33.865048+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "catering@nanxiangxiaolongbao.com": [
+        "https://nanxiangxiaolongbao.com/catering/"
+      ]
+    },
     "pages": [
       {
         "url": "https://nanxiangxiaolongbao.com/?utm_source=gbp&utm_medium=organic&utm_content=flushing",
@@ -483,10 +489,65 @@
         "emails": []
       }
     ],
-    "contact_forms": []
+    "contact_forms": [],
+    "role_overrides": {
+      "catering@nanxiangxiaolongbao.com": "events/catering"
+    },
+    "publication_evidence": {
+      "catering@nanxiangxiaolongbao.com": {
+        "evidence": [
+          {
+            "url": "https://nanxiangxiaolongbao.com/catering/",
+            "quote": "Let Us Cater Your Next Event Need help planning your order? Submit an inquiry below or send us an email catering@nanxiangxiaolongbao.com",
+            "identity_evidence": [
+              {
+                "url": "https://nanxiangxiaolongbao.com/contact/",
+                "quote": "Location visited*: Flushing New York | Manhattan at Koreatown | Manhattan at East Village | ... (Flushing listed first as the original location); '©2024 Nan Xiang ... nanxiangsoupdumplings'"
+              }
+            ],
+            "source_type": "official_restaurant_website_catering_page",
+            "purpose": "events/catering",
+            "parent_reason": "Parent independently verified literal public publication and source-specific purpose. nanxiangxiaolongbao.com is the website saved on this Flushing branch's Google listing (saved website = https://nanxiangxiaolongbao.com/?utm_source=gbp&utm_medium=organic&utm_content=flushing); the site's own contact form 'Location visited' dropdown includes 'Flushing New York', confirming the Flushing branch is served by this official site. Literal published address on the official site; catering-restricted, not a general mailbox. The packet's robot_excluded root (nanxiangxiaolongbao.com/?utm...) was NOT revisited; robots.txt disallows only /admin/ /includes/ /config/ /logs/ /backup/ /.env /wp-admin/ /wp-includes/, and navigation used observed nav links (/catering/, /contact, /press, /story, /partnership).",
+            "notes": "Literal published address on the official site; catering-restricted, not a general mailbox. The packet's robot_excluded root (nanxiangxiaolongbao.com/?utm...) was NOT revisited; robots.txt disallows only /admin/ /includes/ /config/ /logs/ /backup/ /.env /wp-admin/ /wp-includes/, and navigation used observed nav links (/catering/, /contact, /press, /story, /partnership).",
+            "checked_at": "2026-10-05T07:21:04.925533+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Literal published address on the official site; catering-restricted, not a general mailbox. The packet's robot_excluded root (nanxiangxiaolongbao.com/?utm...) was NOT revisited; robots.txt disallows only /admin/ /includes/ /config/ /logs/ /backup/ /.env /wp-admin/ /wp-includes/, and navigation used observed nav links (/catering/, /contact, /press, /story, /partnership). Parent independently verified literal public publication and source-specific purpose. nanxiangxiaolongbao.com is the website saved on this Flushing branch's Google listing (saved website = https://nanxiangxiaolongbao.com/?utm_source=gbp&utm_medium=organic&utm_content=flushing); the site's own contact form 'Location visited' dropdown includes 'Flushing New York', confirming the Flushing branch is served by this official site. Literal published address on the official site; catering-restricted, not a general mailbox. The packet's robot_excluded root (nanxiangxiaolongbao.com/?utm...) was NOT revisited; robots.txt disallows only /admin/ /includes/ /config/ /logs/ /backup/ /.env /wp-admin/ /wp-includes/, and navigation used observed nav links (/catering/, /contact, /press, /story, /partnership)."
+      }
+    }
   },
   "text_contact_discovery": {
-    "channels": [],
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://nanxiangxiaolongbao.com/contact/",
+        "purpose": "general inquiry",
+        "business_match_confirmed": true,
+        "business_match_evidence": "Official brand website of the saved Flushing listing; form's 'Location visited' dropdown includes 'Flushing New York'; page footer '©2024 Nan Xiang / nanxiangsoupdumplings'.",
+        "field_evidence": [
+          "First Name*",
+          "Last Name*",
+          "Phone*",
+          "Email*",
+          "select-one",
+          "select-one",
+          "select-one",
+          "Message*",
+          "First Name*",
+          "Last Name*",
+          "Phone*",
+          "Email*",
+          "Company name*",
+          "Job Title*",
+          "Message*",
+          "Sign up for tasteful updates"
+        ],
+        "notes": "Parent independently confirmed actual message field and public general-inquiry wording. Not submitted/delivery tested. Select Flushing New York; reservations are explicitly excluded. Allergic / Q&A are actual options; no allergy details disclosed.",
+        "checked_at": "2026-10-05T08:25:23.505056+00:00",
+        "submission_tested": false
+      }
+    ],
     "checked_at": "2026-10-04T20:30:59.573912+00:00",
     "method": "agent-browser rendered sites and public search results; no submissions or messages",
     "pages": [
@@ -529,6 +590,75 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "nan_xiang_soup_dumplings_-_flushing.json",
+      "name": "Nan Xiang Soup Dumplings - Flushing",
+      "emails": [
+        {
+          "email": "catering@nanxiangxiaolongbao.com",
+          "url": "https://nanxiangxiaolongbao.com/catering/",
+          "quote": "Let Us Cater Your Next Event Need help planning your order? Submit an inquiry below or send us an email catering@nanxiangxiaolongbao.com",
+          "source_type": "official_restaurant_website_catering_page",
+          "purpose": "catering inquiries (restricted purpose)",
+          "business_match": "nanxiangxiaolongbao.com is the website saved on this Flushing branch's Google listing (saved website = https://nanxiangxiaolongbao.com/?utm_source=gbp&utm_medium=organic&utm_content=flushing); the site's own contact form 'Location visited' dropdown includes 'Flushing New York', confirming the Flushing branch is served by this official site.",
+          "identity_evidence": [
+            {
+              "url": "https://nanxiangxiaolongbao.com/contact/",
+              "quote": "Location visited*: Flushing New York | Manhattan at Koreatown | Manhattan at East Village | ... (Flushing listed first as the original location); '©2024 Nan Xiang ... nanxiangsoupdumplings'"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Literal published address on the official site; catering-restricted, not a general mailbox. The packet's robot_excluded root (nanxiangxiaolongbao.com/?utm...) was NOT revisited; robots.txt disallows only /admin/ /includes/ /config/ /logs/ /backup/ /.env /wp-admin/ /wp-includes/, and navigation used observed nav links (/catering/, /contact, /press, /story, /partnership).",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "events/catering",
+            "reason": "Parent independently verified literal public publication and source-specific purpose. nanxiangxiaolongbao.com is the website saved on this Flushing branch's Google listing (saved website = https://nanxiangxiaolongbao.com/?utm_source=gbp&utm_medium=organic&utm_content=flushing); the site's own contact form 'Location visited' dropdown includes 'Flushing New York', confirming the Flushing branch is served by this official site. Literal published address on the official site; catering-restricted, not a general mailbox. The packet's robot_excluded root (nanxiangxiaolongbao.com/?utm...) was NOT revisited; robots.txt disallows only /admin/ /includes/ /config/ /logs/ /backup/ /.env /wp-admin/ /wp-includes/, and navigation used observed nav links (/catering/, /contact, /press, /story, /partnership)."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://nanxiangxiaolongbao.com/contact/",
+          "business_match": "Official brand website of the saved Flushing listing; form's 'Location visited' dropdown includes 'Flushing New York'; page footer '©2024 Nan Xiang / nanxiangsoupdumplings'.",
+          "form_description": "'Get In Touch' general contact form with fields First Name*, Last Name*, Phone*, Email*, Reason for contacting us today* (Food Complain / Service Complain / Allergic / Q&A), State*, Location visited* (incl. Flushing New York), Message*. Note on page: 'We do not accept reservations via email or messages.' Also a separate sponsorship form on the same page.",
+          "general_or_restricted": "general (customer questions/feedback; reservations excluded by page note)",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "nanxiangxiaolongbao.com robots.txt + observed nav links (catering/contact/press/partnership/story)",
+          "provider": "direct navigation via observed links"
+        }
+      ],
+      "inspected_urls": [
+        "https://nanxiangxiaolongbao.com/robots.txt",
+        "https://nanxiangxiaolongbao.com/catering/",
+        "https://nanxiangxiaolongbao.com/contact/",
+        "https://nanxiangxiaolongbao.com/press",
+        "https://nanxiangxiaolongbao.com/story",
+        "https://nanxiangxiaolongbao.com/partnership"
+      ],
+      "errors": [],
+      "outcome": "email_found",
+      "remaining_avenues": [
+        "A general brand mailbox (if one exists) was not published on press/story/partnership/contact pages; only the catering address and the contact form are published"
+      ],
+      "effort_notes": "Prior outcome was social_profile_leads_only. This run went deeper into the official site via robots-permitted observed links and found a published catering address plus a proper general contact form scoped to the Flushing location. ~6 browser command groups.",
+      "worker_claimed_checked_at": "2026-10-05T06:58:00Z",
+      "batch_completed_at": "2026-10-05T06:54:00.676755+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.522573+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-13",
+      "artifact_sha256": "3287de346653c8e79fa618db4f0511c88e5e175262631811cb56a758280447df",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "catering@nanxiangxiaolongbao.com"
+      ],
+      "no_general_email_reason": "Only limited-purpose published email(s); no accepted general-inquiry email in checked sources."
+    }
   }
 }

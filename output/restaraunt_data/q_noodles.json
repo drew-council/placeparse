@@ -519,6 +519,51 @@
         "requires_login": true,
         "search_provider": "DuckDuckGo browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "q_noodles.json",
+      "name": "Q noodles",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "(search frontends already challenged/degraded in this session — DDG CAPTCHA, Bing degraded; relied on packet search-leads URLs and direct inspection)",
+          "provider": "direct navigation of prior/parent lead URLs",
+          "note": "No fresh provider queries to avoid violating the two-frontend stop rule"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.qnoodles.co/",
+        "https://www.qnoodles.co/the-fam",
+        "https://qnoodles.fronteats.com/",
+        "https://www.findglocal.com/US/Cary/1001301763069690/Q-Noodles-Cary (Cloudflare challenge)",
+        "https://usarestaurants.info/explore/united-states/north-carolina/wake-county/cary/q-noodles-919-468-9958.htm",
+        "https://www.tripadvisor.com/Restaurant_Review-g49007-d26320348-Reviews-Q_Noodles-Cary_North_Carolina.html (blank/challenge render)",
+        "https://qnoodlenc.kwickmenu.com/ (redirects to KwickMENU generic homepage — old ordering site retired)"
+      ],
+      "errors": [
+        "findglocal.com behind Cloudflare challenge",
+        "Tripadvisor page did not render content (empty body)",
+        "qnoodlenc.kwickmenu.com no longer serves the restaurant; redirects to platform homepage"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Instagram @qnoodle_cary (linked from official site) — profile page login-gated in this session; bio/contact-button content needs a parent-tab check",
+        "Facebook 'Q Noodles Cary' page (linked via findglocal ID 1001301763069690) — login-gated",
+        "Fronteats ordering UI has a 'Contact Us' tab not resolvable without interacting with the ordering app"
+      ],
+      "effort_notes": "Official qnoodles.co link graph contains no mailto and no contact page — only cart, Instagram, Yelp, /the-fam (newsletter signup form: Name/Email/Phone with perks copy — subscription-only, NOT a general inquiry form), and the fronteats ordering site. Fronteats page lists phone (919) 468-9958 and address 1026 Ryan Rd only. Not found in checked sources.",
+      "prior_context": "outcome moves from social_profile_leads_only to no_text_route_found after deeper site inspection; the findglocal Facebook mirror was the most promising remaining lead but is challenge-blocked.",
+      "worker_claimed_checked_at": "2026-10-05T06:58:20Z",
+      "batch_completed_at": "2026-10-05T06:59:29.442618+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.531478+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-15",
+      "artifact_sha256": "2823dc4cb0abec228d7f3debd15e3c3f6fcee75bf12c734f76f78b7da179ea94",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Official qnoodles.co link graph contains no mailto and no contact page — only cart, Instagram, Yelp, /the-fam (newsletter signup form: Name/Email/Phone with perks copy — subscription-only, NOT a general inquiry form), and the fronteats ordering site. Fronteats page lists phone (919) 468-9958 and address 1026 Ryan Rd only. Not found in checked sources."
+    }
   }
 }

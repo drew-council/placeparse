@@ -510,6 +510,36 @@
         "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "homemade_dumpling.json",
+      "name": "Homemade Dumpling",
+      "emails": [],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://mymenuweb.com/us/restaurants/1542990/",
+        "https://www.mapquest.com/us/new-york/homemade-dumpling-437147928",
+        "https://www.google.com/maps?cid=16662315927019849667"
+      ],
+      "errors": [],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "Google Maps listing currently shows 'Add website' (no website) and phone (917) 639-3639; no email field exists. Prior directories (chamberofcommerce, wheree, usarestaurants, yelp, eater) publish only phone numbers 212-529-2700 / 917-868-1561.",
+        "Yelp biz page occasionally exposes a business-website link for LES dumpling shops; yelp was not re-fetched this run.",
+        "NYC DOHMH restaurant inspection records can disclose an operator contact but are not customer-inquiry channels."
+      ],
+      "effort_notes": "Checked mymenuweb (contact info block: address 27 Essex St A and phone +1 917-868-1561 only, no email), MapQuest (no email; listing description conflates nearby China North Dumpling), Google Maps live listing (no website, no email). Small no-website takeout shop; directories uniformly publish only phone numbers.",
+      "worker_claimed_checked_at": "2026-10-05T06:28:59Z",
+      "batch_completed_at": "2026-10-05T06:30:02.042632+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.502178+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-08",
+      "artifact_sha256": "c184ae396f0dbac63230ab910b70e086f0bcce376d15cb49650b405fc683494b",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Checked mymenuweb (contact info block: address 27 Essex St A and phone +1 917-868-1561 only, no email), MapQuest (no email; listing description conflates nearby China North Dumpling), Google Maps live listing (no website, no email). Small no-website takeout shop; directories uniformly publish only phone numbers."
+    }
   }
 }

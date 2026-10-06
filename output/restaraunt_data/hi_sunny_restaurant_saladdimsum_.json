@@ -518,6 +518,55 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "hi_sunny_restaurant_saladdimsum_.json",
+      "name": "Hi Sunny Restaurant Salad&Dimsum 花园轻食",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"hisunnyrestaurantny.com\" OR \"Hi Sunny Restaurant\" New York email contact",
+          "provider": "Bing browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.hisunnyrestaurantny.com/contact-us/",
+        "https://hisunnyrestaurantny.com/contact-us/",
+        "http://www.hisunnyrestaurantny.com/contact-us/",
+        "https://www.hisunnyrestaurantny.com/",
+        "https://web.archive.org/web/20251118072149/https://www.hisunnyrestaurantny.com/contact-us/",
+        "https://web.archive.org/web/20260114163022/https://www.hisunnyrestaurantny.com/",
+        "https://www.cybo.com/US-biz/hi-sunny-restaurant-salad-dimsum-%E8%8A%B1%E5%9B%AD%E8%BD%BB%E9%A3%9F",
+        "https://www.checkle.com/biz/hi-sunny-restaurant-new-york",
+        "https://www.bing.com/search?q=%22hisunnyrestaurantny.com%22+OR+%22Hi+Sunny+Restaurant%22+New+York+email+contact",
+        "https://www.facebook.com/profile.php?id=61569959501313&about",
+        "https://www.instagram.com/hisunnyrestaurant/"
+      ],
+      "errors": [
+        "Live site https://www.hisunnyrestaurantny.com/ (and http://, non-www variants) repeatedly failed with ERR_CONNECTION_TIMED_OUT / Page.navigate timeout from the isolated browser.",
+        "DuckDuckGo full-JS search returned an anti-bot CAPTCHA challenge page; per contract no bypass attempted.",
+        "Bing results were degraded/unrelated (Pinterest login pages) for the targeted query.",
+        "cybo.com and checkle.com listing pages stuck on Cloudflare/Vercel security-verification pages.",
+        "Instagram profile redirected to login wall; Facebook page about view (limited, 2 followers) showed no contact info."
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "Re-check https://www.hisunnyrestaurantny.com/contact-us/ when the site is reachable again (Menusifu-hosted; archived snapshots of contact page and homepage contain only phone 212-660-9666 and address 342 7th Ave, no mailto/email).",
+        "Instagram bio for handle @hisunnyrestaurant (linked from the official site footer) is behind a login wall; a parent-authorized tab that renders public IG bios could reveal a published email.",
+        "Menusifu online-order portal (order.mealkeyway.com, mid=5049424737714c7232554b6b5357534439574a4d54513d3d) linked from the site was not checked for an inbox address."
+      ],
+      "effort_notes": "Attempted live site 4x (two domains, http/https), two Wayback Machine snapshots (contact page Jan/Nov 2025-2026: footer shows only 'PHONE 212-660-9666 / ADDRESS 342 7th Ave, New York, NY 10001', no email), Bing search (degraded), Cybo and Checkle listings (both challenge-walled), plus official FB profile and IG handle (login-walled/empty). Stop cycling search providers after DDG challenge + Bing degradation.",
+      "worker_claimed_checked_at": "2026-10-05T06:28:59Z",
+      "batch_completed_at": "2026-10-05T06:30:02.042632+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.501072+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-08",
+      "artifact_sha256": "c184ae396f0dbac63230ab910b70e086f0bcce376d15cb49650b405fc683494b",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Attempted live site 4x (two domains, http/https), two Wayback Machine snapshots (contact page Jan/Nov 2025-2026: footer shows only 'PHONE 212-660-9666 / ADDRESS 342 7th Ave, New York, NY 10001', no email), Bing search (degraded), Cybo and Checkle listings (both challenge-walled), plus official FB profile and IG handle (login-walled/empty). Stop cycling search providers after DDG challenge + Bing degradation."
+    }
   }
 }

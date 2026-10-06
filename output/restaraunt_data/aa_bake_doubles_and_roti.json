@@ -112,6 +112,48 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "aa_bake_doubles_and_roti.json",
+      "name": "A&A Bake Doubles and Roti",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"A&A Bake Doubles and Roti\" email contact 1337 Fulton St, Brooklyn, NY 11216, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent-provided leads file)"
+        }
+      ],
+      "inspected_urls": [
+        "https://aabakedoublesandroti.shop/",
+        "https://aa-bake-doubles-and-roti.foodyvo.com/",
+        "https://thebedstuybid.org/1076-2/",
+        "https://www.dehabroad.com/Merchant/aa-bake-doubles-and-roti-1823",
+        "https://www.cgmimm.com/biz/a-and-a-bake-doubles-and-roti-03e75e02"
+      ],
+      "errors": [
+        "https://aabakedoublesandroti.shop/ redirects to aa-bake-doubles-and-roti.foodyvo.com - the saved website is a Foodyvo platform-generated page, not an owned site.",
+        "https://www.dehabroad.com/Merchant/aa-bake-doubles-and-roti-1823 navigation timed out (CDP Page.navigate timeout).",
+        "https://aa-bake-doubles-and-roti.res-menu.net (parent lead) returned Cloudflare 'Just a moment...' challenge.",
+        "https://www.chamberofcommerce.com A&A page (parent lead) returned Cloudflare 'Just a moment...' challenge."
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "The foodyvo platform page publishes no contact email or form; the business's ordering/delivery channels (third-party delivery apps) could be inspected for a contact field.",
+        "Parent search lead datalane.com/contacts/restaurants/aa-bake-doubles-and-roti is a data-broker 'request data' page - not a published contact; not inspected per scope guardrail against data-broker sites.",
+        "Bed-Stuy BID (thebedstuybid.org) member page lists the business but no email; the BID's own contact might relay messages but is not a restaurant email."
+      ],
+      "effort_notes": "Attempted the saved website (redirects to Foodyvo platform page with zero email/form/contact links beyond tel:+1 347-425-0016 matching the saved phone), the Bed-Stuy BID member page, and two additional directories. No email published anywhere checked.",
+      "worker_claimed_checked_at": "2026-10-05T05:51:51Z",
+      "batch_completed_at": "2026-10-05T05:52:42.594255+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.447358+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-01",
+      "artifact_sha256": "fb1a9d8a8677829bf12161aebdaf9b2e2cad3a9256e7480e18f13f2e23edf770",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Attempted the saved website (redirects to Foodyvo platform page with zero email/form/contact links beyond tel:+1 347-425-0016 matching the saved phone), the Bed-Stuy BID member page, and two additional directories. No email published anywhere checked."
+    }
   }
 }

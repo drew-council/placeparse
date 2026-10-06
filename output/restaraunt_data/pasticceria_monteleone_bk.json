@@ -510,6 +510,47 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "pasticceria_monteleone_bk.json",
+      "name": "Pasticceria Monteleone BK",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Pasticceria Monteleone BK\" email contact 355 Court St, Brooklyn, NY 11231, USA",
+          "provider": "DuckDuckGo browser (parent search-leads cache)"
+        }
+      ],
+      "inspected_urls": [
+        "https://nonnaslist.com/italian-bakeries/new-york/brooklyn/pasticceria-monteleone-bk",
+        "https://maps.google.com/?cid=8936409419478076950",
+        "https://www.facebook.com/FMonteleoneBakery/",
+        "https://www.chamberofcommerce.com/business-directory/new-york/brooklyn/bakery/24228652-pasticceria-monteleone-bk"
+      ],
+      "errors": [
+        "Google Maps listing is UNCLAIMED — shows 'Claim this business' / 'Add website', phone tel:+17188525600 and no website or email",
+        "Facebook page https://www.facebook.com/FMonteleoneBakery/ redirects to a login wall (no login performed)",
+        "chamberofcommerce.com blocked by Cloudflare 'Just a moment...' challenge (not bypassed)"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "The Facebook page (FMonteleoneBakery, per prior search results) is the most promising published-source lead; its About/bio may contain an email but is behind Facebook's login wall",
+        "YellowPages 'F. Monteleone Bakery' listing (https://www.yellowpages.com/brooklyn-ny/mip/f-monteleone-bakery-16889140, phone (718) 852-5600, TollFree (855) 201-2286, AKA Monteleone Bakery & Cafe / Pasticceria Monteleone BK) was not re-inspected in this pass and YellowPages sometimes lists an email/website field",
+        "A quoted-address search like \"355 Court St\" bakery email was not run because both DDG and Google were degraded/CAPTCHA-blocked earlier in this run; parent-authorized search could retrieve it",
+        "Ask parent to retrieve targeted results for: \"Monteleone\" bakery \"355 Court\" email OR \"F. Monteleone Bakery\" contact email"
+      ],
+      "effort_notes": "About 5 browser command groups. Business has no website on Maps (unclaimed); both reachable directories were email-free or Cloudflare-blocked; Facebook is the strongest untested avenue.",
+      "worker_claimed_checked_at": "2026-10-05T06:53:19Z",
+      "batch_completed_at": "2026-10-05T06:54:31.233557+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.528375+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-14",
+      "artifact_sha256": "e6b5b8faa2c19283b59313e8cad615fc54cacb70462a0d23065cc6f55c0fbbb1",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. About 5 browser command groups. Business has no website on Maps (unclaimed); both reachable directories were email-free or Cloudflare-blocked; Facebook is the strongest untested avenue."
+    }
   }
 }

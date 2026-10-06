@@ -36,6 +36,11 @@ def export() -> Counter[str]:
         "Website",
         "Phone",
         "Checked At",
+        "Deeper Email Investigation",
+        "Email Investigation Sources",
+        "Email Investigation Queries",
+        "Why No General Email Accepted",
+        "Remaining Email Avenues",
         "Research Notes",
     ]
     output = placeparse.OUT_DIR / "food_text_contacts.csv"
@@ -65,6 +70,7 @@ def export() -> Counter[str]:
                 e: urls for e, urls in sources.items() if roles[e] in GENERAL_ROLES
             }
             research = data.get("text_contact_discovery", {})
+            investigation = research.get("email_investigation", {})
             channels = [
                 c
                 for c in research.get("channels", [])
@@ -122,7 +128,7 @@ def export() -> Counter[str]:
                 publication = discovery.get("publication_evidence", {}).get(email, {})
                 if publication.get("note"):
                     notes.append(f"{email}: {publication['note']}")
-            if research.get("errors"):
+            if research.get("errors") or investigation.get("errors"):
                 notes.append(
                     "Some lookups failed or were blocked; missing contacts are not proof none exist."
                 )
@@ -149,9 +155,25 @@ def export() -> Counter[str]:
                     "Text Contact Outcome": outcome,
                     "Website": data.get("website", ""),
                     "Phone": data.get("formatted_phone_number", ""),
-                    "Checked At": research.get("checked_at")
+                    "Checked At": investigation.get("parent_reviewed_at")
+                    or research.get("checked_at")
                     or discovery.get("browser_checked_at")
                     or discovery.get("checked_at", ""),
+                    "Deeper Email Investigation": investigation.get("outcome", ""),
+                    "Email Investigation Sources": " | ".join(
+                        investigation.get("inspected_urls", [])
+                    ),
+                    "Email Investigation Queries": " | ".join(
+                        q["query"] for q in investigation.get("queries", [])
+                    ),
+                    "Why No General Email Accepted": (
+                        investigation.get("no_general_email_reason", "")
+                        if not general
+                        else ""
+                    ),
+                    "Remaining Email Avenues": " | ".join(
+                        investigation.get("remaining_avenues", [])
+                    ),
                     "Research Notes": " ".join(notes),
                 }
             )

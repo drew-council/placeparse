@@ -426,11 +426,17 @@
   "website": "https://www.lenasitaliankitchen.com/",
   "wheelchair_accessible_entrance": true,
   "business_status_checked_at": "2026-10-03T20:05:32.188178+00:00",
-  "emails": [],
+  "emails": [
+    "info1167@lenasitaliankitchentogo.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:16.054983+00:00",
-    "outcome": "contact_form_only",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "info1167@lenasitaliankitchentogo.com": [
+        "https://www.lenasitaliankitchentogo.com/ny1167/menu.php"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.lenasitaliankitchen.com/",
@@ -462,7 +468,37 @@
       "https://www.lenasitaliankitchen.com/contact-us/"
     ],
     "browser_checked_at": "2026-10-03T22:09:42.148308+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "info1167@lenasitaliankitchentogo.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "info1167@lenasitaliankitchentogo.com": {
+        "evidence": [
+          {
+            "url": "https://www.lenasitaliankitchentogo.com/ny1167/menu.php",
+            "quote": "mailto:Lena's Italian Kitchen<info1167@lenasitaliankitchentogo.com> — footer 'COMPANY ... Location ... Contact Us' area, adjacent to 'If there is any reason you are unsatisfied with your order, please contact us immediately at Lena's Italian Kitchen or (212) 725-5362.'",
+            "identity_evidence": [
+              {
+                "url": "https://www.lenasitaliankitchen.com/contact-us/",
+                "quote": "UPPER EAST SIDE ... 1167 2nd Ave, New York, NY 10065 212-725-LENA (5362)"
+              },
+              {
+                "url": "https://www.lenasitaliankitchen.com/order-online/",
+                "quote": "ORDER ONLINE (UES) links to https://www.lenasitaliankitchentogo.com/ny1167/menu.php"
+              }
+            ],
+            "source_type": "official_online_ordering_site_footer",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent confirmed both exact literal email and standalone mailto in UES ordering-site footer beside 1167 2nd Avenue and (212)725-5362, matching saved branch. Official site links ORDER ONLINE (UES) to this business storefront. Location contact/refund questions; no general-use prohibition observed.",
+            "notes": "Location-specific mailbox for the 1167 2nd Ave branch (saved restaurant), distinct from the Kips Bay branch (which would use its own ny551 address). Literal published mailto including display name 'Lena's Italian Kitchen'.",
+            "checked_at": "2026-10-05T08:21:32.562975+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Location-specific mailbox for the 1167 2nd Ave branch (saved restaurant), distinct from the Kips Bay branch (which would use its own ny551 address). Literal published mailto including display name 'Lena's Italian Kitchen'. Parent confirmed both exact literal email and standalone mailto in UES ordering-site footer beside 1167 2nd Avenue and (212)725-5362, matching saved branch. Official site links ORDER ONLINE (UES) to this business storefront. Location contact/refund questions; no general-use prohibition observed."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [
@@ -508,6 +544,79 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "lenas_italian_kitchen_ues.json",
+      "name": "Lena's Italian Kitchen (UES)",
+      "emails": [
+        {
+          "email": "info1167@lenasitaliankitchentogo.com",
+          "url": "https://www.lenasitaliankitchentogo.com/ny1167/menu.php",
+          "quote": "mailto:Lena's Italian Kitchen<info1167@lenasitaliankitchentogo.com> — footer 'COMPANY ... Location ... Contact Us' area, adjacent to 'If there is any reason you are unsatisfied with your order, please contact us immediately at Lena's Italian Kitchen or (212) 725-5362.'",
+          "source_type": "official_online_ordering_site_footer",
+          "purpose": "location contact email for the UES location (published as the labeled email link 'Lena's Italian Kitchen' on the location's own ordering site)",
+          "business_match": "The ordering site is lenasitaliankitchentogo.com/ny1167 — 'ny1167' corresponds to the UES location at 1167 2nd Ave; header reads 'LENA'S ITALIAN KITCHEN | 1167 2ND AVENUE' and the page's refund-policy text cites (212) 725-5362, exactly the saved phone for the UES branch. Reached via the official website's Order Online -> 'ORDER ONLINE (UES)' link.",
+          "identity_evidence": [
+            {
+              "url": "https://www.lenasitaliankitchen.com/contact-us/",
+              "quote": "UPPER EAST SIDE ... 1167 2nd Ave, New York, NY 10065 212-725-LENA (5362)"
+            },
+            {
+              "url": "https://www.lenasitaliankitchen.com/order-online/",
+              "quote": "ORDER ONLINE (UES) links to https://www.lenasitaliankitchentogo.com/ny1167/menu.php"
+            }
+          ],
+          "confidence": 0.85,
+          "decision": "source_backed",
+          "notes": "Location-specific mailbox for the 1167 2nd Ave branch (saved restaurant), distinct from the Kips Bay branch (which would use its own ny551 address). Literal published mailto including display name 'Lena's Italian Kitchen'.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent confirmed both exact literal email and standalone mailto in UES ordering-site footer beside 1167 2nd Avenue and (212)725-5362, matching saved branch. Official site links ORDER ONLINE (UES) to this business storefront. Location contact/refund questions; no general-use prohibition observed."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://www.lenasitaliankitchen.com/contact-us/",
+          "business_match": "Official contact page lists both locations: Kips Bay (551 2nd Ave) and UES (1167 2nd Ave, 212-725-LENA (5362)) — the UES block matches the saved address/phone.",
+          "fields": "YOUR E-MAIL*, YOUR MESSAGE*, YOUR NAME, CAPTCHA (captcha token lenasitaliankitchen)",
+          "general_vs_restricted": "general ('Email Us' block on Contact Us (Two Locations) page)",
+          "visible_free_text_field": "YOUR MESSAGE* textarea",
+          "submission_tested": false
+        }
+      ],
+      "queries": [],
+      "inspected_urls": [
+        "https://www.lenasitaliankitchen.com/contact-us/",
+        "https://www.lenasitaliankitchen.com/our-story/",
+        "https://www.lenasitaliankitchen.com/order-online/",
+        "https://www.lenasitaliankitchentogo.com/ny1167/menu.php",
+        "https://www.lenasitaliankitchen.com/wordpress/wp-content/uploads/2016/08/catering.pdf (via https://www.lenasitaliankitchen.com/wordpress/wp-content/uploads/2016/08/catering.pdf after 301 redirect)"
+      ],
+      "errors": [
+        "No search-engine queries for this restaurant (DDG CAPTCHA-blocked and Bing degraded earlier in the session); discovery proceeded via on-site links.",
+        "Catering PDF text layer extracted successfully; it contains menu items and phone info but no email address (checked by regex over the full extracted text)."
+      ],
+      "outcome": "email_found",
+      "remaining_avenues": [
+        "Kips Bay branch counterpart (ny551 ordering site) likely exposes info551@lenasitaliankitchentogo.com but that is a different branch and out of scope for this packet.",
+        "Instagram (@lenasitaliankitchen) bio is login-walled; parent-side non-login bio snapshot could confirm additional addresses.",
+        "Our-story page reveals the family behind Gino's Pizzerias; a parent-brand contact route could be explored if a brand-level address is ever needed."
+      ],
+      "effort_notes": "Contact and story pages inspected (no email); catering PDF fetched and its text layer parsed with a custom extractor (no emails); the UES ordering site — reached from the official 'ORDER ONLINE (UES)' link — publishes the mailto in its footer with exact address/phone match.",
+      "worker_claimed_checked_at": "2026-10-05T07:58:27Z",
+      "batch_completed_at": "2026-10-05T07:59:29.456113+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.562975+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-24",
+      "artifact_sha256": "ef42be3a0d0ce7515dd2a3210746c8c6de94e946843b3136c149678413c12863",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "info1167@lenasitaliankitchentogo.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

@@ -611,8 +611,12 @@
   "business_status_checked_at": "2026-10-03T20:05:27.575984+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:10.507170+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "koiomakase@gmail.com": [
+        "https://www.facebook.com/p/KimyoOmakase-61559828941812/"
+      ]
+    },
     "pages": [
       {
         "url": "https://koiomakase.square.site/",
@@ -627,7 +631,37 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:24.321726+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "koiomakase@gmail.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "koiomakase@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://www.facebook.com/p/KimyoOmakase-61559828941812/",
+            "quote": "Page · Sushi Restaurant\n55 fifth Ave, Downtown Brooklyn, NY, United States, New York\n(917) 728-7563\nKoiomakase@gmail.com\nkimyoomakasenyc\nClosed now\nDine-in · Online booking",
+            "identity_evidence": [
+              {
+                "url": "https://www.facebook.com/p/KimyoOmakase-61559828941812/",
+                "quote": "KIMYO Omakase | NYC\n14-courses omakase · $49\n15-courses omakase + Unlimited Drinks · $69\nBook on Resy 🌸\nPage · Sushi Restaurant\n55 fifth Ave, Downtown Brooklyn, NY, United States, New York\n(917) 728-7563\nKoiomakase@gmail.com"
+              },
+              {
+                "url": "https://koi-omakase.wheree.com/",
+                "quote": "Koi Omakase, rebranded as Kimyo, is a sushi restaurant located at 55 5th Ave in Brooklyn that specializes in omakase experiences."
+              }
+            ],
+            "source_type": "official business social page (public, no login)",
+            "purpose": "general/unspecified",
+            "parent_reason": "Original public Facebook tool capture independently audited: KimyoOmakase sushi-business contact block publishes this exact mailbox at 55 Fifth Ave and (917) 728-7563, both matching the saved Koi venue. Rebrand/old-name routing caveat; parent replay was login-walled. No login/bypass/delivery test.",
+            "notes": "Published twice in the page Intro (email string appears in Intro block). Brand evolution Koi Omakase -> Kimyo Omakase documented; address and phone exactly match the saved record. Address case preserved as published ('Koiomakase@gmail.com'; lowercase equivalent koiomakase@gmail.com).",
+            "checked_at": "2026-10-05T07:37:41.924747+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Published twice in the page Intro (email string appears in Intro block). Brand evolution Koi Omakase -> Kimyo Omakase documented; address and phone exactly match the saved record. Address case preserved as published ('Koiomakase@gmail.com'; lowercase equivalent koiomakase@gmail.com). Original public Facebook tool capture independently audited: KimyoOmakase sushi-business contact block publishes this exact mailbox at 55 Fifth Ave and (917) 728-7563, both matching the saved Koi venue. Rebrand/old-name routing caveat; parent replay was login-walled. No login/bypass/delivery test."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -684,6 +718,71 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "koi_omakase.json",
+      "name": "Koi Omakase",
+      "emails": [
+        {
+          "email": "Koiomakase@gmail.com",
+          "url": "https://www.facebook.com/p/KimyoOmakase-61559828941812/",
+          "quote": "Page · Sushi Restaurant\n55 fifth Ave, Downtown Brooklyn, NY, United States, New York\n(917) 728-7563\nKoiomakase@gmail.com\nkimyoomakasenyc\nClosed now\nDine-in · Online booking",
+          "source_type": "official business social page (public, no login)",
+          "purpose": "general customer-inquiry/contact email listed in the page's public Intro/contact block",
+          "business_match": "Exact match: page lists address '55 fifth Ave, Downtown Brooklyn' (saved: 55 5th Ave, Brooklyn, NY 11217) and phone (917) 728-7563 (saved: (917) 728-7563). Page is the official presence of Kimyo Omakase, the rebrand of Koi Omakase at the same address (corroborated by directory results in parent leads: 'Koi Omakase, rebranded as Kimyo, ... 55 5th Ave in Brooklyn').",
+          "identity_evidence": [
+            {
+              "url": "https://www.facebook.com/p/KimyoOmakase-61559828941812/",
+              "quote": "KIMYO Omakase | NYC\n14-courses omakase · $49\n15-courses omakase + Unlimited Drinks · $69\nBook on Resy 🌸\nPage · Sushi Restaurant\n55 fifth Ave, Downtown Brooklyn, NY, United States, New York\n(917) 728-7563\nKoiomakase@gmail.com"
+            },
+            {
+              "url": "https://koi-omakase.wheree.com/",
+              "quote": "Koi Omakase, rebranded as Kimyo, is a sushi restaurant located at 55 5th Ave in Brooklyn that specializes in omakase experiences."
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Published twice in the page Intro (email string appears in Intro block). Brand evolution Koi Omakase -> Kimyo Omakase documented; address and phone exactly match the saved record. Address case preserved as published ('Koiomakase@gmail.com'; lowercase equivalent koiomakase@gmail.com).",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Original public Facebook tool capture independently audited: KimyoOmakase sushi-business contact block publishes this exact mailbox at 55 Fifth Ave and (917) 728-7563, both matching the saved Koi venue. Rebrand/old-name routing caveat; parent replay was login-walled. No login/bypass/delivery test."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Kimyo Omakase\" Brooklyn contact email",
+          "provider": "DuckDuckGo browser (ordinary JS page)"
+        }
+      ],
+      "inspected_urls": [
+        "https://koiomakase.square.site/",
+        "https://duckduckgo.com/?q=%22Kimyo+Omakase%22+Brooklyn+contact+email&ia=web",
+        "https://www.facebook.com/p/KimyoOmakase-61559828941812/"
+      ],
+      "errors": [
+        "https://koiomakase.square.site/ now returns 404 Page Not Found (consistent with rebrand to Kimyo Omakase).",
+        "DuckDuckGo served an anti-bot CAPTCHA for the Kimyo search; challenge not bypassed, no results retrieved."
+      ],
+      "outcome": "email_found",
+      "remaining_avenues": [
+        "A live Kimyo Omakase website or Resy profile could provide an independent second publication; not found via the degraded search frontend."
+      ],
+      "effort_notes": "Square site re-verified as dead (404, resolving prior browser_load_error). One DDG search attempted (CAPTCHA). Found published email on the official public Facebook page with exact address+phone match; stopped per stop rule.",
+      "worker_claimed_checked_at": "2026-10-05T06:38:59Z",
+      "batch_completed_at": "2026-10-05T06:40:05.926079+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.509361+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-10",
+      "artifact_sha256": "1f7345e076c0c9bcd51b81f469a73373564f9634df130ec08785025944ebe3fb",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "koiomakase@gmail.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

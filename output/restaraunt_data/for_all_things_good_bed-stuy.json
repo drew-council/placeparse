@@ -539,11 +539,17 @@
   "vicinity": "343 Franklin Ave, Brooklyn",
   "website": "http://forallthingsgoodbk.com/",
   "business_status_checked_at": "2026-10-03T20:05:09.203543+00:00",
-  "emails": [],
+  "emails": [
+    "matt@forallthingsgoodbk.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:48.913519+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "matt@forallthingsgoodbk.com": [
+        "https://brooklyn-molino-llc.square.site/"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.forallthingsgoodbk.com/",
@@ -593,7 +599,37 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:51.573611+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "matt@forallthingsgoodbk.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "matt@forallthingsgoodbk.com": {
+        "evidence": [
+          {
+            "url": "https://brooklyn-molino-llc.square.site/",
+            "quote": "mailto link in the site footer: <a href=\"mailto:matt@forallthingsgoodbk.com\" rel=\"noopener noreferrer\"><svg ...><title>Email</title></svg></a> — an 'Email' icon link on the official Square ordering site titled 'For All Things Good'",
+            "identity_evidence": [
+              {
+                "url": "https://www.forallthingsgoodbk.com/",
+                "quote": "Homepage link list includes https://brooklyn-molino-llc.square.site alongside /contact, /about-us, /ourmasa"
+              },
+              {
+                "url": "https://www.forallthingsgoodbk.com/contact",
+                "quote": "For All Things Good ... 343 Franklin Ave Brooklyn, NY 11238 (matches saved address)"
+              }
+            ],
+            "source_type": "official_ordering_site_footer",
+            "purpose": "general/unspecified",
+            "parent_reason": "Original browser tool capture independently audited: publicly advertised Email icon mailto on business Square storefront linked from saved restaurant homepage. Business-purpose named proprietor route on its own domain, not inferred private mailbox. Parent replay empty; publication does not prove inbox delivery/branch routing.",
+            "notes": "Personal-named (matt@) proprietor address published on the business's own ordering property with an Email icon; clearly serving this restaurant's customers. Publication evidence is the literal mailto attribute; the icon has no visible text label.",
+            "checked_at": "2026-10-05T08:21:32.561858+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Personal-named (matt@) proprietor address published on the business's own ordering property with an Email icon; clearly serving this restaurant's customers. Publication evidence is the literal mailto attribute; the icon has no visible text label. Original browser tool capture independently audited: publicly advertised Email icon mailto on business Square storefront linked from saved restaurant homepage. Business-purpose named proprietor route on its own domain, not inferred private mailbox. Parent replay empty; publication does not prove inbox delivery/branch routing."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [
@@ -649,6 +685,82 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "for_all_things_good_bed-stuy.json",
+      "name": "For All Things Good Bed-Stuy",
+      "emails": [
+        {
+          "email": "matt@forallthingsgoodbk.com",
+          "url": "https://brooklyn-molino-llc.square.site/",
+          "quote": "mailto link in the site footer: <a href=\"mailto:matt@forallthingsgoodbk.com\" rel=\"noopener noreferrer\"><svg ...><title>Email</title></svg></a> — an 'Email' icon link on the official Square ordering site titled 'For All Things Good'",
+          "source_type": "official_ordering_site_footer",
+          "purpose": "general email contact for For All Things Good (Email icon in the Square site's contact/footer area)",
+          "business_match": "The Square site (brooklyn-molino-llc.square.site, legal name Brooklyn Molino LLC) is titled 'For All Things Good' and is linked directly from the restaurant's own homepage (forallthingsgoodbk.com) as its ordering site; the address's domain is forallthingsgoodbk.com, the restaurant's own domain.",
+          "identity_evidence": [
+            {
+              "url": "https://www.forallthingsgoodbk.com/",
+              "quote": "Homepage link list includes https://brooklyn-molino-llc.square.site alongside /contact, /about-us, /ourmasa"
+            },
+            {
+              "url": "https://www.forallthingsgoodbk.com/contact",
+              "quote": "For All Things Good ... 343 Franklin Ave Brooklyn, NY 11238 (matches saved address)"
+            }
+          ],
+          "confidence": 0.8,
+          "decision": "source_backed",
+          "notes": "Personal-named (matt@) proprietor address published on the business's own ordering property with an Email icon; clearly serving this restaurant's customers. Publication evidence is the literal mailto attribute; the icon has no visible text label.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Original browser tool capture independently audited: publicly advertised Email icon mailto on business Square storefront linked from saved restaurant homepage. Business-purpose named proprietor route on its own domain, not inferred private mailbox. Parent replay empty; publication does not prove inbox delivery/branch routing."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://www.forallthingsgoodbk.com/contact",
+          "business_match": "Official contact page: 'For All Things Good ... 343 Franklin Ave Brooklyn, NY 11238' (matches saved address).",
+          "fields": "Name (First Name required, Last Name required), Email Address (required), Subject (required), Message (required), SUBMIT",
+          "general_vs_restricted": "general ('Any questions, comments, leave us a message below!')",
+          "visible_free_text_field": "Message (required textarea)",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"for all things good\" Brooklyn \"343 Franklin Ave\" email contact",
+          "provider": "Bing browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.forallthingsgoodbk.com/contact",
+        "https://www.forallthingsgoodbk.com/about-us",
+        "https://www.forallthingsgoodbk.com/ourmasa",
+        "https://www.forallthingsgoodbk.com/",
+        "https://brooklyn-molino-llc.square.site/",
+        "https://www.bing.com/search?q=%22for+all+things+good%22+Brooklyn+%22343+Franklin+Ave%22+email+contact",
+        "https://www.instagram.com/forallthingsgoodbk/"
+      ],
+      "errors": [
+        "Instagram profile redirected to a login wall; no email extractable without login (forbidden).",
+        "Bing returned degraded/unrelated results (dictionary definitions of 'for')."
+      ],
+      "outcome": "email_found",
+      "remaining_avenues": [],
+      "effort_notes": "Contact page is a general Squarespace form with no address. The winning source was the Square ordering site discovered via a homepage-observed link, whose footer contains the published mailto. Business match verified by site title, homepage linkage, domain in the address, and matching saved address on the contact page.",
+      "worker_claimed_checked_at": "2026-10-05T07:58:27Z",
+      "batch_completed_at": "2026-10-05T07:59:29.456113+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.561858+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-24",
+      "artifact_sha256": "ef42be3a0d0ce7515dd2a3210746c8c6de94e946843b3136c149678413c12863",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "matt@forallthingsgoodbk.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

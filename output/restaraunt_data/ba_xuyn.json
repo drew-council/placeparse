@@ -553,6 +553,52 @@
         "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "ba_xuyn.json",
+      "name": "Ba Xuyên",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Ba Xuyên\" Brooklyn banh mi contact email",
+          "provider": "DuckDuckGo browser"
+        },
+        {
+          "query": "\"Ba Xuyên\" Brooklyn 4222 8th Ave email contact",
+          "provider": "Google browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://orderbaxuyen.com/",
+        "https://www.quinnslighthouse.com/press2.html",
+        "https://www.google.com/maps?cid=9760671949773415119",
+        "https://ba-xuyn.wheree.com/",
+        "https://www.nyctourism.com/restaurants/ba-xuyen-sunset-park/"
+      ],
+      "errors": [
+        "https://orderbaxuyen.com/ redirects to unrelated spam/slot-gambling site https://www.quinnslighthouse.com/press2.html ('Demo Olympus 2025 Pragmatic Play Gacor X5000...') — official domain appears hijacked/expired; not the restaurant's site.",
+        "DuckDuckGo returned a bot challenge ('Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck').",
+        "Google search returned 'Our systems have detected unusual traffic from your computer network' robot page (IP [network IP redacted]); search-provider cycling stopped after two challenged frontends per contract.",
+        "https://ba-xuyn.wheree.com/ served a Cloudflare 'Just a moment...' challenge with empty DOM."
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "The restaurant's Google Maps listing is unclaimed ('Claim this business' visible) — an owner-claimed profile or a resuscitated orderbaxuyen.com could publish a contact email.",
+        "A public Facebook page for Ba Xuyên may exist but no verified handle was published in any inspected source; guessing handles is out of scope.",
+        "Third-party directories (allbiz, chamberofcommerce, usarestaurants) were re-checked in the prior sweep and contained only directory/review forms, no restaurant-published email."
+      ],
+      "effort_notes": "Confirmed the saved website is dead (spam redirect — same hijack observed in prior sweep, now reproduced live). Maps listing unclaimed, no email/website fields. Two search frontends challenged; stopped per contract. wheree and nyctourism pages re-checked: no email, no business social links beyond directory-owner accounts.",
+      "worker_claimed_checked_at": "2026-10-05T05:43:00Z",
+      "batch_completed_at": "2026-10-05T05:44:15.394399+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.450098+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-02",
+      "artifact_sha256": "5cca1b3cca7c924d6b0c87999bf632f51e4cae5dafa3120425a163980372cd6f",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Confirmed the saved website is dead (spam redirect — same hijack observed in prior sweep, now reproduced live). Maps listing unclaimed, no email/website fields. Two search frontends challenged; stopped per contract. wheree and nyctourism pages re-checked: no email, no business social links beyond directory-owner accounts."
+    }
   }
 }

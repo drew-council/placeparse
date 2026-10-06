@@ -769,6 +769,62 @@
         "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "ubani-_georgian_cuisine.json",
+      "name": "Ubani - Bay Ridge",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Ubani\" Bay Ridge Brooklyn \"ubani.us\" OR \"ubaniny\" email contact",
+          "provider": "DuckDuckGo browser (challenge: human-verification CAPTCHA served)"
+        },
+        {
+          "query": "\"Ubani\" Bay Ridge Brooklyn email contact",
+          "provider": "Bing browser (degraded/unrelated results)"
+        },
+        {
+          "query": "\"Ubani\" \"ubaniny\" email contact (parent-retrieved)",
+          "provider": "DuckDuckGo in parent-authorized pinned tab"
+        },
+        {
+          "query": "\"Ubani\" \"8309\" email (parent-retrieved)",
+          "provider": "DuckDuckGo in parent-authorized pinned tab"
+        }
+      ],
+      "inspected_urls": [
+        "https://ubaniny.com/contact (rendered 'File not found.')",
+        "https://ubaniny.com/",
+        "https://ubaniny.com/catering",
+        "https://ubaniny.com/locations",
+        "https://ubaniny.com/accessible-compliance.php",
+        "https://ubani.us/bay-ridge (Cloudflare 'Just a moment...' challenge, twice)",
+        "https://ubani.us/page/our-locations (Cloudflare challenge persisted after 9s wait)",
+        "https://duckduckgo.com/?q=... (CAPTCHA)",
+        "https://www.bing.com/search?q=... (degraded Microsoft-account-only results)"
+      ],
+      "errors": [
+        "https://ubaniny.com/contact returned 'File not found.' in my session (matches prior browser_load_error)",
+        "https://ubani.us/* served Cloudflare 'Just a moment...' challenge on two attempts (retried after 10s and 9s waits); not bypassed per contract",
+        "DuckDuckGo full-JS page served a human-verification CAPTCHA; Bing returned degraded unrelated results; search-provider cycling stopped per contract"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "ubani.us (parent-brand site with Bay Ridge page at https://ubani.us/bay-ridge and /page/our-locations per parent lead) is fully behind a Cloudflare challenge; its footer/privacy pages could contain a mailto. A parent-authorized non-headless fetch of ubani.us raw HTML would resolve this.",
+        "The chain link https://www.manhattan.ubaniny.com/catering (sister branch template) likely mirrors ubaniny.com with no email; not separately inspected."
+      ],
+      "effort_notes": "~5 command groups on primary site pages + 2 search angles (DDG challenged, Bing degraded) + parent's 2 targeted searches. All ubaniny.com pages contain zero email/mailto; footer contact is phone-only (718) 333-5363 / (646) 678-5595.",
+      "worker_claimed_checked_at": "2026-10-05T07:44:05Z",
+      "batch_completed_at": "2026-10-05T07:48:19.571010+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.546693+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-20",
+      "artifact_sha256": "2defc17f9a9bca915f7a051661666e86a8ff34a275abec13d318816a1d36390f",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. ~5 command groups on primary site pages + 2 search angles (DDG challenged, Bing degraded) + parent's 2 targeted searches. All ubaniny.com pages contain zero email/mailto; footer contact is phone-only (718) 333-5363 / (646) 678-5595."
+    }
   }
 }

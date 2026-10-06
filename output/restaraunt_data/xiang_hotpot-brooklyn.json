@@ -635,6 +635,55 @@
         "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "xiang_hotpot-brooklyn.json",
+      "name": "Xiang Hotpot-Brooklyn",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"xiang hotpot\" brooklyn \"fort hamilton\" email OR \"@\"",
+          "provider": "DuckDuckGo browser"
+        },
+        {
+          "query": "\"Xiang Hotpot\" Brooklyn email contact",
+          "provider": "Bing browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://xianghotpotbrooklyn.shop/",
+        "https://xiang-hotpot-brooklyn.localoria.com/",
+        "https://xiang-hotpot-brooklyn.wherevi.com/",
+        "https://www.cybo.com/US-biz/xiang-hotpot-brooklyn",
+        "https://www.restaurantji.com/ny/brooklyn/xiang-hot-pot-/",
+        "https://www.chamberofcommerce.com/united-states/new-york/brooklyn/hot-pot-restaurant/45225109-xiang-hotpot-brooklyn",
+        "https://local.yahoo.com/info-219888232-xiang-hotpot-brooklyn-brooklyn/",
+        "https://duckduckgo.com/?q=%22xiang+hotpot%22+brooklyn+%22fort+hamilton%22+email+OR+%22%40%22&ia=web",
+        "https://www.bing.com/search?q=%22Xiang+Hotpot%22+Brooklyn+email+contact"
+      ],
+      "errors": [
+        "DuckDuckGo full-JS search returned a bot challenge (select-all-ducks CAPTCHA) on the xiang hotpot query; per contract did not retry the challenged frontend after Bing also degraded.",
+        "Bing search returned degraded, unrelated results (eBay forum threads); per contract stopped cycling search frontends after two degraded/challenged providers.",
+        "The packet website https://xianghotpotbrooklyn.shop/ redirects to the Localoria directory page xiang-hotpot-brooklyn.localoria.com (placeholder/publisher mailbox localoria.com@gmail.com already excluded by parent); no external links to a genuine restaurant-owned site were found on that page."
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Chinese-language Flushing/Brooklyn community sources (e.g., WeChat-linked posts) may carry a published mailbox; not reachable via the allowed search frontends.",
+        "Google Maps public business profile 'about' tab was not directly renderable in this session; a parent-authorized Maps check could confirm absence or presence of a listed email.",
+        "Call the listed phone (718) 851-5888 to request an inquiry email (offline avenue, out of browser scope)."
+      ],
+      "effort_notes": "Multi-angle attempt: direct site (redirected to excluded Localoria directory), wherevi directory (prior rejected form re-confirmed as directory form, no email), DDG search (challenged), Bing search (degraded unrelated), plus cybo, restaurantji, chamberofcommerce, local.yahoo.com from parent leads — all source-checked for mailto/emails with zero restaurant-owned mailboxes. Stopped after two degraded/challenged search frontends per contract.",
+      "worker_claimed_checked_at": "2026-10-05T07:42:24Z",
+      "batch_completed_at": "2026-10-05T07:45:41.668207+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.550099+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-21",
+      "artifact_sha256": "51ff24b7d9798402c1a227bf85e810a871341065602589e48523b43ab7ad0ad7",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Multi-angle attempt: direct site (redirected to excluded Localoria directory), wherevi directory (prior rejected form re-confirmed as directory form, no email), DDG search (challenged), Bing search (degraded unrelated), plus cybo, restaurantji, chamberofcommerce, local.yahoo.com from parent leads — all source-checked for mailto/emails with zero restaurant-owned mailboxes. Stopped after two degraded/challenged search frontends per contract."
+    }
   }
 }

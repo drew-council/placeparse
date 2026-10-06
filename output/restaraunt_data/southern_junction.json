@@ -422,7 +422,33 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:26.270600+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "candidate_sources": {
+      "lydia@southernjunction716.com": {
+        "urls": [
+          "https://www.southernjunction716.com/s/SJ_CateringMenu_2026.pdf"
+        ],
+        "reason": "Parent review pending; publication, exact branch attribution, currentness, and purpose are not yet all accepted.",
+        "role": "general/unspecified",
+        "checked_at": "2026-10-05T07:37:41.952500+00:00"
+      },
+      "jobs@southernjunction716.com": {
+        "urls": [
+          "https://www.southernjunction716.com/s/OPEN-POSITIONS-2.pdf"
+        ],
+        "reason": "Parent review pending; publication, exact branch attribution, currentness, and purpose are not yet all accepted.",
+        "role": "careers",
+        "checked_at": "2026-10-05T07:37:41.952500+00:00"
+      },
+      "catering@southernjunction716.com": {
+        "urls": [
+          "https://www.leisuredock.com/directory-restaurants/listing/southern-junction/"
+        ],
+        "reason": "Parent review pending; publication, exact branch attribution, currentness, and purpose are not yet all accepted.",
+        "role": "events/catering",
+        "checked_at": "2026-10-05T07:37:41.952500+00:00"
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -492,6 +518,107 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "southern_junction.json",
+      "name": "Southern Junction",
+      "emails": [
+        {
+          "email": "lydia@southernjunction716.com",
+          "url": "https://www.southernjunction716.com/s/SJ_CateringMenu_2026.pdf",
+          "quote": "Catering services contact lydia herr, catering manager lydia@southernjunction716.com ** Please do not leave out the 716 at the end of the email address Phone inquiries: 716-262-0575 (please leave a voicemail)",
+          "source_type": "official_site_pdf",
+          "purpose": "catering services contact (catering manager) — explicitly instructs to include the 716 in the address",
+          "business_match": "Published on the restaurant's own official website's catering menu PDF; the PDF header and footer show 'SOUTHERN JUNCTION CATERING SERVICES / 365 Connecticut St Buffalo, NY 14213' and the ad's phone-inquiry line 716-262-0575 matches the saved phone exactly.",
+          "identity_evidence": [
+            {
+              "url": "https://www.southernjunction716.com/",
+              "quote": "links: /s/SJ_FoodMenu_2026v5.pdf, /s/SJ_CateringMenu_2026.pdf, /s/OPEN-POSITIONS-2.pdf, tel:716-262-0575"
+            },
+            {
+              "url": "https://www.leisuredock.com/directory-restaurants/listing/southern-junction/",
+              "quote": "365 Connecticut St, Buffalo, NY 14213, United States (716) 262-0575 catering@southernjunction716.com"
+            }
+          ],
+          "confidence": "high (attribution) / restricted (catering purpose)",
+          "decision": "source_backed",
+          "notes": "Extracted directly from the official catering-menu PDF text layer (ToUnicode CMap decode of the published document). It is the restaurant's published business address for catering inquiries, run by the named catering manager; not a general-info mailbox. leisuredock additionally lists a generic catering@ alias on the same domain (matching address/phone), included below as a candidate.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        },
+        {
+          "email": "jobs@southernjunction716.com",
+          "url": "https://www.southernjunction716.com/s/OPEN-POSITIONS-2.pdf",
+          "quote": "SOUTHERN JUNCTION OPEN POSITIONS ... HOW TO APPLY: Email resume to jobs@southernjunction716.com",
+          "source_type": "official_site_pdf",
+          "purpose": "employment applications ('HOW TO APPLY: Email resume to jobs@southernjunction716.com')",
+          "business_match": "PDF is served from the restaurant's own domain (southernjunction716.com) via its official site and is titled 'SOUTHERN JUNCTION OPEN POSITIONS'; official site footer carries the matching phone tel:716-262-0575.",
+          "identity_evidence": [
+            {
+              "url": "https://www.southernjunction716.com/",
+              "quote": "official site linking /s/OPEN-POSITIONS-2.pdf and tel:716-262-0575"
+            }
+          ],
+          "confidence": "high (attribution) / restricted (recruitment purpose)",
+          "decision": "source_backed",
+          "notes": "Also verified by CMap text extraction of the official PDF (previously observed rendered on page 1: 'Email resume to jobs@southernjunction716.com'). Recruitment-purpose mailbox.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        },
+        {
+          "email": "catering@southernjunction716.com",
+          "url": "https://www.leisuredock.com/directory-restaurants/listing/southern-junction/",
+          "quote": "Contact Information 365 Connecticut St, Buffalo, NY 14213, United States (716) 262-0575 catering@southernjunction716.com",
+          "source_type": "third_party_directory",
+          "purpose": "catering / general business contact",
+          "business_match": "Exact saved address and phone on the directory listing; domain matches the restaurant's official domain, consistent with the officially published catering contact block.",
+          "identity_evidence": [
+            {
+              "url": "https://www.leisuredock.com/directory-restaurants/listing/southern-junction/",
+              "quote": "365 Connecticut St, Buffalo, NY 14213, United States (716) 262-0575 catering@southernjunction716.com"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "candidate",
+          "notes": "Third-party only this run; the generic 'catering@' alias was not seen in the official PDF text (the official PDF instead publishes the catering manager's personal business address). Parent decides whether to promote.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://www.southernjunction716.com/",
+        "https://www.southernjunction716.com/s/SJ_CateringMenu_2026.pdf",
+        "https://www.southernjunction716.com/s/OPEN-POSITIONS-2.pdf",
+        "https://www.leisuredock.com/directory-restaurants/listing/southern-junction/"
+      ],
+      "errors": [
+        "Official Squarespace homepage publishes no mailto/email in DOM text (only tel:716-262-0575, Toast ordering/catering/gift-card links, and PDFs)",
+        "No live search this run (both public search frontends bot-challenged earlier; stopped per contract); leisuredock lead came from the parent search-leads file"
+      ],
+      "outcome": "source_backed_emails_found",
+      "remaining_avenues": [
+        "A general-info (info@/hello@) address was not found on any official source; Toast catering flow (https://www.toasttab.com/catering/southernjunction716?mode=fulfillment) could be checked for a general contact disclosure",
+        "Prior 'info@iloveny.com' rejection stands (tourism-board publisher contact, not the restaurant)"
+      ],
+      "effort_notes": "Deepened beyond prior sweep: downloaded both official PDFs and performed text-layer extraction (no screenshots used). Catering PDF yields a named catering-manager mailbox with an explicit 'do not leave out the 716' instruction; positions PDF yields jobs@. Third-party leisuredock listing independently opened via parent lead.",
+      "worker_claimed_checked_at": "2026-10-05T07:16:10Z",
+      "batch_completed_at": "2026-10-05T07:16:56.653953+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.537952+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-17",
+      "artifact_sha256": "f2bbab4f989c9a3e0a6bdd59eab03dd8fcf8cfe693395a8cd42c29df99e4e7f5",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
+    }
   }
 }

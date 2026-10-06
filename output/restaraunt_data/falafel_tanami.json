@@ -403,13 +403,18 @@
   "vicinity": "1305 E 17th St, Brooklyn",
   "website": "http://www.falafeltanami.getsauce.com/?utm_source=GMB&utm_medium=Website%20button&utm_id=Falafel%20Tanami",
   "emails": [
-    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+    "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "galitanami@gmail.com"
   ],
   "business_status_checked_at": "2026-10-03T20:05:07.520958+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:45.433492+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "galitanami@gmail.com": [
+        "https://www.facebook.com/TanamiBK/about/"
+      ]
+    },
     "pages": [
       {
         "url": "https://falafeltanami.com/?utm_source=GMB&utm_medium=Website%20button&utm_id=Falafel%20Tanami",
@@ -434,7 +439,37 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:44.049529+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "galitanami@gmail.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "galitanami@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://www.facebook.com/TanamiBK/about/",
+            "quote": "Falafel Tanami — About — Contact and basic info — Contact info: 1824 Avenue M, New York, NY, United States, 11230-6008 — Address ... (718) 483-9100 — Mobile ... galitanami@gmail.com — Email",
+            "identity_evidence": [
+              {
+                "url": "https://www.facebook.com/TanamiBK/about/",
+                "quote": "Falafel Tanami ... Mediterranean Restaurant ... (718) 483-9100 — Mobile — galitanami@gmail.com — Email"
+              },
+              {
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d26101321-Reviews-Falafel_Tanami-Brooklyn_New_York.html (parent leads snippet)",
+                "quote": "FALAFEL TANAMI, Brooklyn ... 1305 E 17th St, Brooklyn, NY 11230 Website +1 718-483-9100"
+              }
+            ],
+            "source_type": "official_social_public_contact_info",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently verified literal public business-contact publication. Official Facebook page for Falafel Tanami publishes the exact saved phone (718) 483-9100 and ZIP 11230, matching the saved business. Caveat: the FB page lists street address '1824 Avenue M' while the saved Google address is 1305 E 17th St, Brooklyn, NY 11230 (same ZIP). Phone number matches the saved business exactly and the page is the restaurant's official Facebook presence ('Falafel Tanami', Mediterranean Restaurant, matches saved name). Street-address discrepancy on the FB page (1824 Avenue M vs 1305 E 17th St) leaves slight attribution uncertainty — 'galitanami' plausibly refers to owner Gali Tanami. Parent may promote or hold as candidate; do not send sensitive information before confirming recipient.",
+            "notes": "Phone number matches the saved business exactly and the page is the restaurant's official Facebook presence ('Falafel Tanami', Mediterranean Restaurant, matches saved name). Street-address discrepancy on the FB page (1824 Avenue M vs 1305 E 17th St) leaves slight attribution uncertainty — 'galitanami' plausibly refers to owner Gali Tanami. Parent may promote or hold as candidate; do not send sensitive information before confirming recipient.",
+            "checked_at": "2026-10-05T06:42:47.493828+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Phone number matches the saved business exactly and the page is the restaurant's official Facebook presence ('Falafel Tanami', Mediterranean Restaurant, matches saved name). Street-address discrepancy on the FB page (1824 Avenue M vs 1305 E 17th St) leaves slight attribution uncertainty — 'galitanami' plausibly refers to owner Gali Tanami. Parent may promote or hold as candidate; do not send sensitive information before confirming recipient. Parent independently verified literal public business-contact publication. Official Facebook page for Falafel Tanami publishes the exact saved phone (718) 483-9100 and ZIP 11230, matching the saved business. Caveat: the FB page lists street address '1824 Avenue M' while the saved Google address is 1305 E 17th St, Brooklyn, NY 11230 (same ZIP). Phone number matches the saved business exactly and the page is the restaurant's official Facebook presence ('Falafel Tanami', Mediterranean Restaurant, matches saved name). Street-address discrepancy on the FB page (1824 Avenue M vs 1305 E 17th St) leaves slight attribution uncertainty — 'galitanami' plausibly refers to owner Gali Tanami. Parent may promote or hold as candidate; do not send sensitive information before confirming recipient."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -514,6 +549,67 @@
         "requires_login": true,
         "search_provider": "DuckDuckGo browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "falafel_tanami.json",
+      "name": "Falafel Tanami",
+      "emails": [
+        {
+          "email": "galitanami@gmail.com",
+          "url": "https://www.facebook.com/TanamiBK/about/",
+          "quote": "Falafel Tanami — About — Contact and basic info — Contact info: 1824 Avenue M, New York, NY, United States, 11230-6008 — Address ... (718) 483-9100 — Mobile ... galitanami@gmail.com — Email",
+          "source_type": "official_social_public_contact_info",
+          "purpose": "general customer contact email published in the business page's Email contact field",
+          "business_match": "Official Facebook page for Falafel Tanami publishes the exact saved phone (718) 483-9100 and ZIP 11230, matching the saved business. Caveat: the FB page lists street address '1824 Avenue M' while the saved Google address is 1305 E 17th St, Brooklyn, NY 11230 (same ZIP).",
+          "identity_evidence": [
+            {
+              "url": "https://www.facebook.com/TanamiBK/about/",
+              "quote": "Falafel Tanami ... Mediterranean Restaurant ... (718) 483-9100 — Mobile — galitanami@gmail.com — Email"
+            },
+            {
+              "url": "https://www.tripadvisor.com/Restaurant_Review-g60827-d26101321-Reviews-Falafel_Tanami-Brooklyn_New_York.html (parent leads snippet)",
+              "quote": "FALAFEL TANAMI, Brooklyn ... 1305 E 17th St, Brooklyn, NY 11230 Website +1 718-483-9100"
+            }
+          ],
+          "confidence": 0.7,
+          "decision": "source_backed",
+          "notes": "Phone number matches the saved business exactly and the page is the restaurant's official Facebook presence ('Falafel Tanami', Mediterranean Restaurant, matches saved name). Street-address discrepancy on the FB page (1824 Avenue M vs 1305 E 17th St) leaves slight attribution uncertainty — 'galitanami' plausibly refers to owner Gali Tanami. Parent may promote or hold as candidate; do not send sensitive information before confirming recipient.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently verified literal public business-contact publication. Official Facebook page for Falafel Tanami publishes the exact saved phone (718) 483-9100 and ZIP 11230, matching the saved business. Caveat: the FB page lists street address '1824 Avenue M' while the saved Google address is 1305 E 17th St, Brooklyn, NY 11230 (same ZIP). Phone number matches the saved business exactly and the page is the restaurant's official Facebook presence ('Falafel Tanami', Mediterranean Restaurant, matches saved name). Street-address discrepancy on the FB page (1824 Avenue M vs 1305 E 17th St) leaves slight attribution uncertainty — 'galitanami' plausibly refers to owner Gali Tanami. Parent may promote or hold as candidate; do not send sensitive information before confirming recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Falafel Tanami\" email contact 1305 E 17th St, Brooklyn, NY 11230, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent search-leads file)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.facebook.com/TanamiBK/about/"
+      ],
+      "errors": [],
+      "outcome": "email_found_official_social",
+      "remaining_avenues": [
+        "Confirm on the restaurant's own site falafeltanami.com (getSauce ordering site) or falafeltanami.wixsite.com/falafeltanami — not re-inspected this run since the FB contact route was found first",
+        "local.us-info.com USNY101347244 listing shows a masked email '..ami@..' consistent with the same lead"
+      ],
+      "effort_notes": "2 browser command groups. Parent leads file flagged the FB about-page email; verified live in the isolated session (logged-out public view). Page transparency was not needed; no login performed.",
+      "worker_claimed_checked_at": "2026-10-05T06:07:26Z",
+      "batch_completed_at": "2026-10-05T06:08:26.553340+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.494907+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-06",
+      "artifact_sha256": "e11e1d9f58095060f98f50f52d96bb4678ba34ea4e22b0b50257b8c722ad9ada",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "galitanami@gmail.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

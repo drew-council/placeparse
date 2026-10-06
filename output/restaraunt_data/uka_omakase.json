@@ -145,6 +145,51 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "uka_omakase.json",
+      "name": "Uka Omakase",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Uka Omakase\" email contact (parent-retrieved)",
+          "provider": "DuckDuckGo in parent-authorized pinned tab"
+        },
+        {
+          "query": "\"Uka Omakase\" \"238\" private events email (parent-retrieved)",
+          "provider": "DuckDuckGo in parent-authorized pinned tab"
+        }
+      ],
+      "inspected_urls": [
+        "https://ukaomakase.com/ (footer: Tel. (347) 496-7355, 238 E 60th St; no email; 'Made by candeco.design')",
+        "https://ukaomakase.com/about",
+        "https://ukaomakase.com/events (private events/catering sections end with reservation CTA only, no email)",
+        "https://local.us-info.com/USNY102556532-3474967355/uka_omakase-new_york.html (blocked: 'Your request was blocked.')",
+        "https://www.instagram.com/ukaomakase/?hl=en (login wall)",
+        "https://slaylebrity.com/videos/my-uka-omakase-new-york-billionaire-experience/ (via parent search snippet only; email shown as obfuscated '[email protected]')"
+      ],
+      "errors": [
+        "local.us-info.com returned 'Your request was blocked.'",
+        "Instagram profile redirected to login wall; not bypassed",
+        "Facebook page for Uka Omakase not opened (login wall expected on facebook.com/61576248845330)"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "slaylebrity.com article claims 'Email (listed on their Facebook): [email protected]' — the literal address is Cloudflare-obfuscated in the snippet and cannot be attributed from a snippet alone; a logged-out Facebook public page or the decoded slaylebrity DOM could reveal the published address.",
+        "local.us-info.com listing shows a masked email '..ase@..' — intentionally masked directory data; not a usable address."
+      ],
+      "effort_notes": "Official site fully swept (home/about/events); no mailto, no form, no privacy/contact pages exist. Directory lead (us-info) blocked; obfuscated third-party claims withheld, not inferred.",
+      "worker_claimed_checked_at": "2026-10-05T07:44:05Z",
+      "batch_completed_at": "2026-10-05T07:48:19.571010+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.547082+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-20",
+      "artifact_sha256": "2defc17f9a9bca915f7a051661666e86a8ff34a275abec13d318816a1d36390f",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Official site fully swept (home/about/events); no mailto, no form, no privacy/contact pages exist. Directory lead (us-info) blocked; obfuscated third-party claims withheld, not inferred."
+    }
   }
 }

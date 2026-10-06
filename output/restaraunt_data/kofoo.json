@@ -680,6 +680,44 @@
     ],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "kofoo.json",
+      "name": "KoFoo",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"KoFoo\" email contact 67 W 23rd St, New York, NY 10010, USA",
+          "provider": "Google browser (parent leads file)"
+        }
+      ],
+      "inspected_urls": [
+        "http://www.kofoony.com/",
+        "https://kofoo.wheree.com/",
+        "https://www.cozeetable.com/restaurant/us-new-york-kofoo-node-2630078319",
+        "https://order.online/en/store/kofoo-23rd-street-50135"
+      ],
+      "errors": [
+        "https://kofoo.wheree.com/ and https://order.online/en/store/kofoo-23rd-street-50135 blocked by Cloudflare 'Just a moment...' in this session."
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "Instagram @kofoobueno (handle observed in postcard.inc snippet in parent leads) — login-walled; a public bio view could reveal an email.",
+        "DoorDash/Postmates/UberEats store pages occasionally list owner contact details; not inspected before scope budget.",
+        "No owned website beyond the Grubhub storefront; no general inquiry form exists on kofoony.com (footer legal links go to Grubhub policies)."
+      ],
+      "effort_notes": "kofoony.com confirmed as a Grubhub-powered storefront ('A leading New York restaurant on Grubhub', '© 2026 Grubhub Holdings Inc.') showing only address 67 W 23rd St and phone (212) 924-2654 — no email or general form. wheree and order.online re-checks Cloudflare-blocked. ~4 browser groups.",
+      "worker_claimed_checked_at": "2026-10-05T06:28:34Z",
+      "batch_completed_at": "2026-10-05T06:29:41.779741+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.507978+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-09",
+      "artifact_sha256": "ce6e08a692c216168faa036bb937b26433b7f91f6e5d1c74518e0c366d18092c",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. kofoony.com confirmed as a Grubhub-powered storefront ('A leading New York restaurant on Grubhub', '© 2026 Grubhub Holdings Inc.') showing only address 67 W 23rd St and phone (212) 924-2654 — no email or general form. wheree and order.online re-checks Cloudflare-blocked. ~4 browser groups."
+    }
   }
 }

@@ -141,6 +141,52 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "bolivian_llama_party.json",
+      "name": "Bolivian Llama Party",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://www.blp.nyc/contact-us",
+          "business_match": "Official site blp.nyc; page shows 'Bolivian Llama Party - Woodside 44-14 48th Ave, Woodside, NY, 11377, US, 347-370-9102' exactly matching the saved address and phone.",
+          "fields": [
+            "Full Name",
+            "Email (required)",
+            "Phone",
+            "Message (required)",
+            "g-recaptcha-response"
+          ],
+          "purpose": "general",
+          "general_vs_restricted": "General 'Get in Touch With Us' free-text form (Chowly-built); hidden recipient_email field is encrypted server-side (LHfV5VEDmhg23P+VM0l/2Q==...), so the destination mailbox is not publicly recoverable.",
+          "submission_tested": false
+        }
+      ],
+      "queries": [],
+      "inspected_urls": [
+        "https://www.blp.nyc/contact-us",
+        "https://www.blp.nyc/privacy-policy (redirected to homepage)",
+        "https://www.cybo.com/US-contact/bolivian-llama-party_81/Patrick (parent search lead)"
+      ],
+      "errors": [
+        "cybo.com owner-contact page ('Patrick - Owner at Bolivian Llama Party', a candidate lead from the parent's search results) served a Cloudflare 'Just a moment...' challenge; not bypassed, so the directory's owner email could not be read or attributed."
+      ],
+      "outcome": "general_contact_form",
+      "remaining_avenues": [
+        "Cybo owner-contact page (unbypassed challenge) may hold a proprietor address; needs human/parent retrieval if desired.",
+        "Facebook/Instagram bios for @bolivianllamaparty could be re-checked for a published email."
+      ],
+      "effort_notes": "Re-inspected the official contact page including the form's hidden recipient field (encrypted, no recoverable mailbox), swept homepage/privacy pages for mailto/obfuscated emails (none), and attempted the Cybo owner directory lead, which was challenge-blocked. Candidate withheld: any Cybo-published owner email is unverifiable in this session.",
+      "worker_claimed_checked_at": "2026-10-05T07:52:00Z",
+      "batch_completed_at": "2026-10-05T07:52:36.451106+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.555467+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-22",
+      "artifact_sha256": "a467a93aa7340f94c5b0f762b59bc5fc004bc4f3bcb81cd7a1f2c97ecb23f0d4",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Re-inspected the official contact page including the form's hidden recipient field (encrypted, no recoverable mailbox), swept homepage/privacy pages for mailto/obfuscated emails (none), and attempted the Cybo owner directory lead, which was challenge-blocked. Candidate withheld: any Cybo-published owner email is unverifiable in this session."
+    }
   }
 }

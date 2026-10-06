@@ -440,11 +440,17 @@
   "website": "https://keylime.com/",
   "wheelchair_accessible_entrance": true,
   "business_status_checked_at": "2026-10-03T20:06:10.391604+00:00",
-  "emails": [],
+  "emails": [
+    "inquiry@keylime.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:50:00.796360+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "inquiry@keylime.com": [
+        "https://keylime.com/be-in-touch/"
+      ]
+    },
     "pages": [
       {
         "url": "https://keylime.com/",
@@ -453,12 +459,50 @@
       }
     ],
     "contact_forms": [],
-    "candidate_sources": {
+    "candidate_sources": {},
+    "candidate_resolution_history": [
+      {
+        "email": "inquiry@keylime.com",
+        "original_candidate": {
+          "urls": [
+            "https://maps.roadtrippers.com/us/new-york-ny/food-drink/steve-s-authentic-key-lime-pie"
+          ],
+          "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+        },
+        "resolved_at": "2026-10-05T07:37:41.953143+00:00",
+        "decision": "primary_publication_verified",
+        "primary_source": "https://keylime.com/be-in-touch/",
+        "reason": "Parent independently confirmed exact correct mailto:inquiry@keylime.com?subject=General%20Inquiry on official Be In Touch page beside 185 Van Dyke St and 718-858-5333. Page calls email preferred contact method. Another malformed duplicate ends .com.com; correct mailbox is separately published and was NOT repaired. Resolve prior directory candidate, retaining history."
+      }
+    ],
+    "role_overrides": {
+      "inquiry@keylime.com": "general/unspecified"
+    },
+    "publication_evidence": {
       "inquiry@keylime.com": {
-        "urls": [
-          "https://maps.roadtrippers.com/us/new-york-ny/food-drink/steve-s-authentic-key-lime-pie"
+        "evidence": [
+          {
+            "url": "https://keylime.com/be-in-touch/",
+            "quote": "Email by clicking the image below, this is by far the best method to touch base ... [anchor href=mailto:inquiry@keylime.com?subject=General%20Inquiry] ... If you're a rare-bird and would prefer to send a snail-mail, our mailing address is: Steve's Authentic, Inc. 185 Van Dyke Street, Brooklyn, NY, 11231",
+            "identity_evidence": [
+              {
+                "url": "https://keylime.com/be-in-touch/",
+                "quote": "You can give us a call, 718-858-5333 ... Steve's Authentic, Inc. 185 Van Dyke Street, Brooklyn, NY, 11231"
+              },
+              {
+                "url": "https://keylime.com/talk-to-us/",
+                "quote": "Steve's Authentic Key Lime Pie 185 Van Dyke St Brooklyn NY 11231 Our direct phone number, 718-858-5333 [anchor href=mailto:inquiry@keylime.com]"
+              }
+            ],
+            "source_type": "official_site_contact_page",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently confirmed exact correct mailto:inquiry@keylime.com?subject=General%20Inquiry on official Be In Touch page beside 185 Van Dyke St and 718-858-5333. Page calls email preferred contact method. Another malformed duplicate ends .com.com; correct mailbox is separately published and was NOT repaired. Resolve prior directory candidate, retaining history.",
+            "notes": "Promotes the prior roadtrippers candidate (inquiry@keylime.com) to source-backed: the restaurant's own 'Talk To Us' and 'Be In Touch' pages both publish mailto:inquiry@keylime.com as the preferred contact method. NOTE: the Be In Touch page also contains one malformed duplicate anchor 'mailto:inquiry@keylime.com.com' (doubled .com) next to the correct one; the correct address inquiry@keylime.com is the one independently published on /talk-to-us/ — not repaired silently, both recorded. keylime.com root was previously robot_excluded and was not fetched; only the /talk-to-us/ and /be-in-touch/ subpages were inspected.",
+            "checked_at": "2026-10-05T07:37:41.953143+00:00",
+            "delivery_tested": false
+          }
         ],
-        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+        "note": "Promotes the prior roadtrippers candidate (inquiry@keylime.com) to source-backed: the restaurant's own 'Talk To Us' and 'Be In Touch' pages both publish mailto:inquiry@keylime.com as the preferred contact method. NOTE: the Be In Touch page also contains one malformed duplicate anchor 'mailto:inquiry@keylime.com.com' (doubled .com) next to the correct one; the correct address inquiry@keylime.com is the one independently published on /talk-to-us/ — not repaired silently, both recorded. keylime.com root was previously robot_excluded and was not fetched; only the /talk-to-us/ and /be-in-touch/ subpages were inspected. Parent independently confirmed exact correct mailto:inquiry@keylime.com?subject=General%20Inquiry on official Be In Touch page beside 185 Van Dyke St and 718-858-5333. Page calls email preferred contact method. Another malformed duplicate ends .com.com; correct mailbox is separately published and was NOT repaired. Resolve prior directory candidate, retaining history."
       }
     }
   },
@@ -504,6 +548,62 @@
         "\"inquiry@keylime.com\" Steve's Authentic Key Lime Pie"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "steves_authentic_key_lime_pie.json",
+      "name": "Steve's Authentic Key Lime Pie",
+      "emails": [
+        {
+          "email": "inquiry@keylime.com",
+          "url": "https://keylime.com/be-in-touch/",
+          "quote": "Email by clicking the image below, this is by far the best method to touch base ... [anchor href=mailto:inquiry@keylime.com?subject=General%20Inquiry] ... If you're a rare-bird and would prefer to send a snail-mail, our mailing address is: Steve's Authentic, Inc. 185 Van Dyke Street, Brooklyn, NY, 11231",
+          "source_type": "official_site_contact_page",
+          "purpose": "general inquiry ('this is by far the best method to touch base'; mailto subject 'General Inquiry')",
+          "business_match": "Published on the restaurant's own website contact page, which also lists the exact saved mailing address (Steve's Authentic, Inc., 185 Van Dyke Street, Brooklyn, NY 11231) and exact saved phone 718-858-5333.",
+          "identity_evidence": [
+            {
+              "url": "https://keylime.com/be-in-touch/",
+              "quote": "You can give us a call, 718-858-5333 ... Steve's Authentic, Inc. 185 Van Dyke Street, Brooklyn, NY, 11231"
+            },
+            {
+              "url": "https://keylime.com/talk-to-us/",
+              "quote": "Steve's Authentic Key Lime Pie 185 Van Dyke St Brooklyn NY 11231 Our direct phone number, 718-858-5333 [anchor href=mailto:inquiry@keylime.com]"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Promotes the prior roadtrippers candidate (inquiry@keylime.com) to source-backed: the restaurant's own 'Talk To Us' and 'Be In Touch' pages both publish mailto:inquiry@keylime.com as the preferred contact method. NOTE: the Be In Touch page also contains one malformed duplicate anchor 'mailto:inquiry@keylime.com.com' (doubled .com) next to the correct one; the correct address inquiry@keylime.com is the one independently published on /talk-to-us/ — not repaired silently, both recorded. keylime.com root was previously robot_excluded and was not fetched; only the /talk-to-us/ and /be-in-touch/ subpages were inspected.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently confirmed exact correct mailto:inquiry@keylime.com?subject=General%20Inquiry on official Be In Touch page beside 185 Van Dyke St and 718-858-5333. Page calls email preferred contact method. Another malformed duplicate ends .com.com; correct mailbox is separately published and was NOT repaired. Resolve prior directory candidate, retaining history."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://keylime.com/talk-to-us/",
+        "https://keylime.com/be-in-touch/"
+      ],
+      "errors": [
+        "https://keylime.com/ root not visited (prior robot_excluded_urls entry)"
+      ],
+      "outcome": "source_backed_email_found",
+      "remaining_avenues": [],
+      "effort_notes": "The broken WPForms shortcode on /talk-to-us/ embeds a mailto:inquiry@keylime.com anchor; the dedicated /be-in-touch/ page confirms it as the stated best contact method with exact address/phone identity evidence. Prior third-party candidate resolved to an official primary source.",
+      "worker_claimed_checked_at": "2026-10-05T07:16:10Z",
+      "batch_completed_at": "2026-10-05T07:16:56.653953+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.538601+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-17",
+      "artifact_sha256": "f2bbab4f989c9a3e0a6bdd59eab03dd8fcf8cfe693395a8cd42c29df99e4e7f5",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "inquiry@keylime.com"
+      ],
+      "no_general_email_reason": ""
     }
   }
 }

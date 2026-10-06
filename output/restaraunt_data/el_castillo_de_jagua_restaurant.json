@@ -552,11 +552,17 @@
   "website": "https://www.castillodejagua2.com/",
   "wheelchair_accessible_entrance": true,
   "business_status_checked_at": "2026-10-03T20:05:05.356989+00:00",
-  "emails": [],
+  "emails": [
+    "info@castillodejagua.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:36.297755+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "info@castillodejagua.com": [
+        "https://www.facebook.com/ElCastillodeJaguaRivington/about/"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.castillodejagua2.com/",
@@ -571,7 +577,47 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:42.986175+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "info@castillodejagua.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "info@castillodejagua.com": {
+        "evidence": [
+          {
+            "url": "https://www.facebook.com/ElCastillodeJaguaRivington/about/",
+            "quote": "About — Contact and basic info — Contact info: 113 Rivington Street, New York, NY, United States, 10002 — Address ... (212) 982-6412 — Mobile ... info@castillodejagua.com — Email ... Websites and social links: http://www.castillodejagua.com/ — Website",
+            "identity_evidence": [
+              {
+                "url": "https://www.facebook.com/ElCastillodeJaguaRivington/about/",
+                "quote": "El Castillo de Jagua, New York. Lower East Side of New York restaurant in business for more than 30 Years (per page intro in prior search result)"
+              },
+              {
+                "url": "https://www.facebook.com/ElCastillodeJaguaRivington/about/",
+                "quote": "Contact info: 113 Rivington Street, New York, NY, United States, 10002 ... (212) 982-6412 ... info@castillodejagua.com"
+              }
+            ],
+            "source_type": "official_social_public_contact_info",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently verified literal public business-contact publication. Official Facebook page 'El Castillo de Jagua' (Dominican Restaurant) publishes the exact saved address 113 Rivington St, New York, NY 10002 and the exact saved phone (212) 982-6412, and links castillodejagua.com as the restaurant's own website (same domain as the email). Published on the restaurant's own public Facebook contact-info section; address and phone match the saved Google business exactly and the email is on the restaurant's own domain. Publication does not verify inbox delivery; official website is currently behind a Cloudflare challenge so the same address could not be confirmed on the primary site this run.",
+            "notes": "Published on the restaurant's own public Facebook contact-info section; address and phone match the saved Google business exactly and the email is on the restaurant's own domain. Publication does not verify inbox delivery; official website is currently behind a Cloudflare challenge so the same address could not be confirmed on the primary site this run.",
+            "checked_at": "2026-10-05T06:42:47.492606+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Published on the restaurant's own public Facebook contact-info section; address and phone match the saved Google business exactly and the email is on the restaurant's own domain. Publication does not verify inbox delivery; official website is currently behind a Cloudflare challenge so the same address could not be confirmed on the primary site this run. Parent independently verified literal public business-contact publication. Official Facebook page 'El Castillo de Jagua' (Dominican Restaurant) publishes the exact saved address 113 Rivington St, New York, NY 10002 and the exact saved phone (212) 982-6412, and links castillodejagua.com as the restaurant's own website (same domain as the email). Published on the restaurant's own public Facebook contact-info section; address and phone match the saved Google business exactly and the email is on the restaurant's own domain. Publication does not verify inbox delivery; official website is currently behind a Cloudflare challenge so the same address could not be confirmed on the primary site this run."
+      }
+    },
+    "candidate_sources": {
+      "osirist@castillodejagua.com": {
+        "urls": [
+          "https://www.leisuredock.com/directory-restaurants/listing/el-castillo-de-jagua/"
+        ],
+        "reason": "Parent review pending; publication, exact branch attribution, currentness, and purpose are not yet all accepted.",
+        "role": "general/unspecified",
+        "checked_at": "2026-10-05T07:37:41.909546+00:00"
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -639,6 +685,95 @@
         "requires_login": true,
         "search_provider": "DuckDuckGo browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "el_castillo_de_jagua_restaurant.json",
+      "name": "El Castillo De Jagua",
+      "emails": [
+        {
+          "email": "info@castillodejagua.com",
+          "url": "https://www.facebook.com/ElCastillodeJaguaRivington/about/",
+          "quote": "About — Contact and basic info — Contact info: 113 Rivington Street, New York, NY, United States, 10002 — Address ... (212) 982-6412 — Mobile ... info@castillodejagua.com — Email ... Websites and social links: http://www.castillodejagua.com/ — Website",
+          "source_type": "official_social_public_contact_info",
+          "purpose": "general customer inquiry email published as the page's public Email contact field",
+          "business_match": "Official Facebook page 'El Castillo de Jagua' (Dominican Restaurant) publishes the exact saved address 113 Rivington St, New York, NY 10002 and the exact saved phone (212) 982-6412, and links castillodejagua.com as the restaurant's own website (same domain as the email).",
+          "identity_evidence": [
+            {
+              "url": "https://www.facebook.com/ElCastillodeJaguaRivington/about/",
+              "quote": "El Castillo de Jagua, New York. Lower East Side of New York restaurant in business for more than 30 Years (per page intro in prior search result)"
+            },
+            {
+              "url": "https://www.facebook.com/ElCastillodeJaguaRivington/about/",
+              "quote": "Contact info: 113 Rivington Street, New York, NY, United States, 10002 ... (212) 982-6412 ... info@castillodejagua.com"
+            }
+          ],
+          "confidence": 0.85,
+          "decision": "source_backed",
+          "notes": "Published on the restaurant's own public Facebook contact-info section; address and phone match the saved Google business exactly and the email is on the restaurant's own domain. Publication does not verify inbox delivery; official website is currently behind a Cloudflare challenge so the same address could not be confirmed on the primary site this run.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently verified literal public business-contact publication. Official Facebook page 'El Castillo de Jagua' (Dominican Restaurant) publishes the exact saved address 113 Rivington St, New York, NY 10002 and the exact saved phone (212) 982-6412, and links castillodejagua.com as the restaurant's own website (same domain as the email). Published on the restaurant's own public Facebook contact-info section; address and phone match the saved Google business exactly and the email is on the restaurant's own domain. Publication does not verify inbox delivery; official website is currently behind a Cloudflare challenge so the same address could not be confirmed on the primary site this run."
+          }
+        },
+        {
+          "email": "osirist@castillodejagua.com",
+          "url": "https://www.leisuredock.com/directory-restaurants/listing/el-castillo-de-jagua/",
+          "quote": "Contact Information — 113 Rivington St, New York, NY 10002, United States — (212) 982-6412 — osirist@castillodejagua.com (rendered as a mailto:osirist@castillodejagua.com link)",
+          "source_type": "third_party_directory",
+          "purpose": "contact email listed in directory's contact-information block",
+          "business_match": "Directory listing carries the exact saved address 113 Rivington St, NY 10002 and exact saved phone (212) 982-6412.",
+          "identity_evidence": [
+            {
+              "url": "https://www.leisuredock.com/directory-restaurants/listing/el-castillo-de-jagua/",
+              "quote": "El Castillo De Jagua ... 113 Rivington St, New York, NY 10002, United States (212) 982-6412 osirist@castillodejagua.com"
+            }
+          ],
+          "confidence": 0.55,
+          "decision": "candidate",
+          "notes": "Third-party directory candidate only; whether it is the proprietor's published business address cannot be confirmed without the primary site (Cloudflare-blocked). Distinct from the stronger info@castillodejagua.com above. Parent to decide promotion.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"El Castillo De Jagua\" email contact 113 Rivington St, New York, NY 10002, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent search-leads file)"
+        }
+      ],
+      "inspected_urls": [
+        "https://castillodejagua.com/ (Cloudflare 'Just a moment...' challenge; not bypassed)",
+        "https://castillodejagua2nyc.com/page/contact-us (Cloudflare 'Just a moment...' challenge; not bypassed)",
+        "https://www.leisuredock.com/directory-restaurants/listing/el-castillo-de-jagua/",
+        "https://www.facebook.com/ElCastillodeJaguaRivington/about/"
+      ],
+      "errors": [
+        "https://www.castillodejagua2.com/ open request timed out after 60s (no response)",
+        "https://castillodejagua.com/ serves Cloudflare 'Performing security verification' challenge on every load; per contract no challenge bypass attempted",
+        "https://castillodejagua2nyc.com/page/contact-us also Cloudflare-challenged, so the previously rejected contact form could not be re-inspected"
+      ],
+      "outcome": "email_found_official_social_plus_directory_candidate",
+      "remaining_avenues": [
+        "Confirm info@castillodejagua.com on the official site (castillodejagua.com or castillodejagua2nyc.com) once Cloudflare is not challenging",
+        "Instagram bio castillodejaguanyc for any second published address"
+      ],
+      "effort_notes": "6 browser command groups. Official site and contact-us page are Cloudflare-blocked; pivoted to the official Facebook page, which publishes the email with exact address/phone match, plus the leisuredock directory lead from the parent leads file (verified live with matching address/phone).",
+      "worker_claimed_checked_at": "2026-10-05T06:07:26Z",
+      "batch_completed_at": "2026-10-05T06:08:26.553340+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.493554+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-06",
+      "artifact_sha256": "e11e1d9f58095060f98f50f52d96bb4678ba34ea4e22b0b50257b8c722ad9ada",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "info@castillodejagua.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

@@ -468,6 +468,8 @@ def export_email_reports() -> None:
                 "Suggested For Allergy Inquiry",
                 "Source URLs",
                 "Checked At",
+                "Publication and Routing Notes",
+                "Delivery Tested",
                 "Website",
             ],
         )
@@ -525,7 +527,13 @@ def export_email_reports() -> None:
             ):
                 continue
             for email, urls in sorted(sources.items()):
-                role = email_role(email)
+                role = discovery.get("role_overrides", {}).get(email, email_role(email))
+                publication = discovery.get("publication_evidence", {}).get(email, {})
+                evidence_times = [
+                    item["checked_at"]
+                    for item in publication.get("evidence", [])
+                    if item.get("checked_at")
+                ]
                 addresses.writerow(
                     {
                         "Name": data.get("name", file.stem),
@@ -539,8 +547,14 @@ def export_email_reports() -> None:
                         "Suggested For Allergy Inquiry": role
                         in {"general/unspecified", "allergy/dietary", "reservations"},
                         "Source URLs": " | ".join(urls),
-                        "Checked At": discovery.get("browser_checked_at")
+                        "Checked At": max(evidence_times)
+                        if evidence_times
+                        else discovery.get("browser_checked_at")
                         or discovery.get("checked_at", ""),
+                        "Publication and Routing Notes": " ".join(
+                            publication.get("note", "").split()
+                        ),
+                        "Delivery Tested": False,
                         "Website": data.get("website", ""),
                     }
                 )

@@ -32,11 +32,17 @@
   "website": "https://www.chubbycattle.com/project/chubby-cattle-new-york/",
   "details_checked_at": "2026-10-03T21:59:18.980295+00:00",
   "business_status_checked_at": "2026-10-03T21:59:18.980295+00:00",
-  "emails": [],
+  "emails": [
+    "hi@chubbygroup.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:59:58.567360+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "hi@chubbygroup.com": [
+        "https://www.chubbycattle.com/privacy-policy/"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.chubbycattle.com/project/chubby-cattle-new-york/",
@@ -88,7 +94,37 @@
       "https://www.chubbycattle.com/contact-us/"
     ],
     "browser_checked_at": "2026-10-03T22:08:18.898323+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "hi@chubbygroup.com": "privacy/legal"
+    },
+    "publication_evidence": {
+      "hi@chubbygroup.com": {
+        "evidence": [
+          {
+            "url": "https://www.chubbycattle.com/privacy-policy/",
+            "quote": "You may contact us with questions, comments, and requests regarding this Privacy Policy at hi@chubbygroup.com.",
+            "identity_evidence": [
+              {
+                "url": "https://www.chubbycattle.com/project/chubby-cattle-new-york/",
+                "quote": "CHUBBY CATTLE BBQ NEW YORK / 206 SPRING ST, NEW YORK, NY 10012 / Call Us (646)594-9742"
+              },
+              {
+                "url": "https://www.chubbycattle.com/privacy-policy/",
+                "quote": "Information gathered via Host Sites or a website co-sponsored by Chubby Group will remain the sole property of Chubby Group. You may contact us with questions, comments, and requests regarding this Privacy Policy at hi@chubbygroup.com."
+              }
+            ],
+            "source_type": "official_website_legal_page",
+            "purpose": "privacy/legal",
+            "parent_reason": "Parent directly verified policy publication and Chubby Cattle International/Chubby Group identity. Exact context restricts questions/comments/requests to THIS PRIVACY POLICY. Accept as a published limited-purpose corporate contact, NOT a general or dietary recipient unless broader primary evidence is found.",
+            "notes": "Brand-level address published for questions/comments/requests; it is explicitly labeled to the Privacy Policy context, so it is not proven as the branch's general dining inbox. Improves on the prior sweep, which only captured the malformed career address hr@www.chubbygroup.com (re-confirmed on chubbygroup.com/contact-us, quoted as 'Send your resume to hr@www.chubbygroup.com' - career-only and malformed; still rejected). The branch New York page itself publishes no email.",
+            "checked_at": "2026-10-05T06:22:42.094913+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Brand-level address published for questions/comments/requests; it is explicitly labeled to the Privacy Policy context, so it is not proven as the branch's general dining inbox. Improves on the prior sweep, which only captured the malformed career address hr@www.chubbygroup.com (re-confirmed on chubbygroup.com/contact-us, quoted as 'Send your resume to hr@www.chubbygroup.com' - career-only and malformed; still rejected). The branch New York page itself publishes no email. Parent directly verified policy publication and Chubby Cattle International/Chubby Group identity. Exact context restricts questions/comments/requests to THIS PRIVACY POLICY. Accept as a published limited-purpose corporate contact, NOT a general or dietary recipient unless broader primary evidence is found."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -166,6 +202,79 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "chubby_cattle_bbq__new_york.json",
+      "name": "Chubby Cattle BBQ | New York",
+      "emails": [
+        {
+          "email": "hi@chubbygroup.com",
+          "url": "https://www.chubbycattle.com/privacy-policy/",
+          "quote": "You may contact us with questions, comments, and requests regarding this Privacy Policy at hi@chubbygroup.com.",
+          "source_type": "official_website_legal_page",
+          "purpose": "privacy/legal and general questions/comments/requests channel for the Chubby Group brand family (brand-level, not branch-specific)",
+          "business_match": "Published on the official Chubby Cattle brand site (chubbycattle.com), the same brand as the saved branch. The brand's New York page identifies the saved branch exactly: 'CHUBBY CATTLE BBQ NEW YORK / 206 SPRING ST, NEW YORK, NY 10012' with phone (646)594-9742 matching the saved (646) 594-9742. Site footer states 'Copyright © 2025 Chubby Group' tying the site to parent Chubby Group.",
+          "identity_evidence": [
+            {
+              "url": "https://www.chubbycattle.com/project/chubby-cattle-new-york/",
+              "quote": "CHUBBY CATTLE BBQ NEW YORK / 206 SPRING ST, NEW YORK, NY 10012 / Call Us (646)594-9742"
+            },
+            {
+              "url": "https://www.chubbycattle.com/privacy-policy/",
+              "quote": "Information gathered via Host Sites or a website co-sponsored by Chubby Group will remain the sole property of Chubby Group. You may contact us with questions, comments, and requests regarding this Privacy Policy at hi@chubbygroup.com."
+            }
+          ],
+          "confidence": "medium",
+          "decision": "source_backed",
+          "notes": "Brand-level address published for questions/comments/requests; it is explicitly labeled to the Privacy Policy context, so it is not proven as the branch's general dining inbox. Improves on the prior sweep, which only captured the malformed career address hr@www.chubbygroup.com (re-confirmed on chubbygroup.com/contact-us, quoted as 'Send your resume to hr@www.chubbygroup.com' - career-only and malformed; still rejected). The branch New York page itself publishes no email.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "privacy/legal",
+            "reason": "Parent directly verified policy publication and Chubby Cattle International/Chubby Group identity. Exact context restricts questions/comments/requests to THIS PRIVACY POLICY. Accept as a published limited-purpose corporate contact, NOT a general or dietary recipient unless broader primary evidence is found."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://www.chubbycattle.com/contact-us/",
+          "purpose": "restricted-purpose: dropdown requires choosing Career or Feedback; includes CAPTCHA; no free-form general-inquiry subject",
+          "matching_business_evidence": "Official Chubby Cattle brand contact page (footer: 'Copyright © 2025 Chubby Group'); same brand site that hosts the New York branch page for 206 Spring St",
+          "visible_fields": "Name (Required, First/Last), Email (Required), Phone (Required), Career / Feedback (Required) with Choose One: Career | Feedback, CAPTCHA",
+          "general_or_restricted": "restricted",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "Direct inspection of chubbycattle.com contact-us, privacy-policy, and New York branch page (no live keyword search performed)",
+          "provider": "direct navigation"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.chubbycattle.com/contact-us/",
+        "https://www.chubbycattle.com/privacy-policy/",
+        "https://www.chubbycattle.com/project/chubby-cattle-new-york/",
+        "https://www.chubbygroup.com/contact-us/"
+      ],
+      "errors": [],
+      "outcome": "general_email_found_brand_level_plus_restricted_form",
+      "remaining_avenues": [
+        "A branch-specific inbox (e.g., ny@ or spring-st mailbox) is not published on chubbycattle.com; the CB2 liquor-license questionnaire PDF from prior results could be checked for an applicant contact email",
+        "Chubby Group news/partnership pages for a partnership-oriented address"
+      ],
+      "effort_notes": "Went deeper than the prior sweep: crawled the brand site's legal pages (robot robots.txt unrestricted; prior rejections respected - did not rely on hr@www.chubbygroup.com) and found the only literally published general-ish address on the brand: hi@chubbygroup.com, repeatedly published on the Privacy Policy page as the contact for 'questions, comments, and requests'. Documented the branch identity with the exact saved address/phone from the New York page. Contact-us form is restricted to Career/Feedback, so it is only fallback evidence.",
+      "worker_claimed_checked_at": "2026-10-05T05:25:00Z",
+      "batch_completed_at": "2026-10-05T05:58:21.340085+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.486200+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-04",
+      "artifact_sha256": "a18b7ec9369f885c5beb3a317639c536d18b858f314d1337dba8ab0f9d78dd5d",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "hi@chubbygroup.com"
+      ],
+      "no_general_email_reason": "Only limited-purpose published email(s); no accepted general-inquiry email in checked sources."
+    }
   }
 }

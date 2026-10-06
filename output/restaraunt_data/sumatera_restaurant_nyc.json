@@ -32,11 +32,17 @@
   "website": "http://linktr.ee/sumatera.nyc",
   "details_checked_at": "2026-10-03T21:59:20.555905+00:00",
   "business_status_checked_at": "2026-10-03T21:59:20.555905+00:00",
-  "emails": [],
+  "emails": [
+    "sumateranyc@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T22:00:25.059734+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "sumateranyc@gmail.com": [
+        "https://www.facebook.com/61561171916557/about/"
+      ]
+    },
     "pages": [
       {
         "url": "http://linktr.ee/sumatera.nyc",
@@ -44,7 +50,37 @@
         "emails": []
       }
     ],
-    "contact_forms": []
+    "contact_forms": [],
+    "role_overrides": {
+      "sumateranyc@gmail.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "sumateranyc@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://www.facebook.com/61561171916557/about/",
+            "quote": "Contact info 86-20 Whitney Ave, Queens, NY, United States, 11373 Address Queens, NY Service area (347) 448-6297 Mobile sumateranyc@gmail.com Email Websites and social links http://linktr.ee/sumatera.nyc Website",
+            "identity_evidence": [
+              {
+                "url": "https://www.facebook.com/61561171916557/about/",
+                "quote": "Sumatera Restaurant NYC ... Contact info 86-20 Whitney Ave, Queens, NY, United States, 11373 Address ... (347) 448-6297 Mobile"
+              },
+              {
+                "url": "https://www.eatrealfoodnyc.com/restaurants/sumatera-restaurant-nyc",
+                "quote": "Address 86-20 Whitney Ave, Elmhurst, NY 11373 Phone 13474486297 Web linktr.ee/sumatera.nyc"
+              }
+            ],
+            "source_type": "official_social_profile_contact_info",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently re-rendered public business Contact info: exact mailbox beside 86-20 Whitney Ave, (347) 448-6297 and saved linktr.ee/sumatera.nyc. Intentional general business publication, no login or delivery test.",
+            "notes": "Published on the business's own Facebook About/contact-info section (rendered publicly without login). Corroborates prior candidate-free status. Prior linktr.ee URL is robot-excluded and was not revisited.",
+            "checked_at": "2026-10-05T07:37:41.953894+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Published on the business's own Facebook About/contact-info section (rendered publicly without login). Corroborates prior candidate-free status. Prior linktr.ee URL is robot-excluded and was not revisited. Parent independently re-rendered public business Contact info: exact mailbox beside 86-20 Whitney Ave, (347) 448-6297 and saved linktr.ee/sumatera.nyc. Intentional general business publication, no login or delivery test."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -105,6 +141,70 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "sumatera_restaurant_nyc.json",
+      "name": "Sumatera Restaurant NYC",
+      "emails": [
+        {
+          "email": "sumateranyc@gmail.com",
+          "url": "https://www.facebook.com/61561171916557/about/",
+          "quote": "Contact info 86-20 Whitney Ave, Queens, NY, United States, 11373 Address Queens, NY Service area (347) 448-6297 Mobile sumateranyc@gmail.com Email Websites and social links http://linktr.ee/sumatera.nyc Website",
+          "source_type": "official_social_profile_contact_info",
+          "purpose": "General customer/business inquiry email published in the page's Contact and basic info section",
+          "business_match": "The restaurant's own Facebook page lists exactly the saved address (86-20 Whitney Ave, Elmhurst/Queens, NY 11373), the saved phone ((347) 448-6297), and the saved website (linktr.ee/sumatera.nyc), so the published email belongs to the same business/branch.",
+          "identity_evidence": [
+            {
+              "url": "https://www.facebook.com/61561171916557/about/",
+              "quote": "Sumatera Restaurant NYC ... Contact info 86-20 Whitney Ave, Queens, NY, United States, 11373 Address ... (347) 448-6297 Mobile"
+            },
+            {
+              "url": "https://www.eatrealfoodnyc.com/restaurants/sumatera-restaurant-nyc",
+              "quote": "Address 86-20 Whitney Ave, Elmhurst, NY 11373 Phone 13474486297 Web linktr.ee/sumatera.nyc"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Published on the business's own Facebook About/contact-info section (rendered publicly without login). Corroborates prior candidate-free status. Prior linktr.ee URL is robot-excluded and was not revisited.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently re-rendered public business Contact info: exact mailbox beside 86-20 Whitney Ave, (347) 448-6297 and saved linktr.ee/sumatera.nyc. Intentional general business publication, no login or delivery test."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Sumatera Restaurant NYC\" email contact 86-20 Whitney Ave, Elmhurst, NY 11373, USA",
+          "provider": "parent search-leads file (DuckDuckGo), used only to pick candidate sources; not counted as primary proof"
+        }
+      ],
+      "inspected_urls": [
+        "https://restaurantjump.com/sumatera-restaurant-nyc-11373/ (Cloudflare challenge, not passed)",
+        "https://www.eatrealfoodnyc.com/restaurants/sumatera-restaurant-nyc",
+        "https://www.facebook.com/61561171916557/about/"
+      ],
+      "errors": [
+        "restaurantjump.com returned a Cloudflare 'Just a moment...' security verification page; challenge not bypassed"
+      ],
+      "outcome": "source_backed_email_found",
+      "remaining_avenues": [
+        "Direct inspection of linktr.ee/sumatera.nyc targets if robots restrictions are ever lifted"
+      ],
+      "effort_notes": "2 browser command groups on Sumatera sources plus one blocked directory; primary evidence taken from the restaurant's own Facebook contact-info section which independently matches saved address, phone and website.",
+      "worker_claimed_checked_at": "2026-10-05T07:12:42Z",
+      "batch_completed_at": "2026-10-05T07:17:51.087573+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.539386+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-18",
+      "artifact_sha256": "16a28371751602f2c7169c43d6552d89c7da323e404aaba1d36e965715a710c9",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "sumateranyc@gmail.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

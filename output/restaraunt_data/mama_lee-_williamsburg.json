@@ -264,8 +264,12 @@
   "business_status_checked_at": "2026-10-03T20:05:36.749988+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:20.766337+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "mamaleeofficialrestaurant@gmail.com": [
+        "https://mamalee-williamsburg.square.site/"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.mamaleerestaurant.com/",
@@ -273,7 +277,41 @@
         "emails": []
       }
     ],
-    "contact_forms": []
+    "contact_forms": [],
+    "role_overrides": {
+      "mamaleeofficialrestaurant@gmail.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "mamaleeofficialrestaurant@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://mamalee-williamsburg.square.site/",
+            "quote": "mailto:mamaleeofficialrestaurant@gmail.com published as a footer link on the restaurant's own Square online-ordering site",
+            "identity_evidence": [
+              {
+                "url": "https://mamalee-williamsburg.square.site/",
+                "quote": "Order now Pickup from 66 grand street ... Traditional Taiwanese Food"
+              },
+              {
+                "url": "https://web.archive.org/web/20250104155313/https://www.mamaleerestaurant.com/",
+                "quote": "If you need anything, please send us an email at mamaleeofficialrestaurant@gmail.com."
+              },
+              {
+                "url": "https://maps.google.com/?cid=3979803024036291366",
+                "quote": "Mama Lee - Williamsburg ... 66 Grand St, Brooklyn, NY 11249 ... (718) 683-9820 ... mamaleerestaurant.com"
+              }
+            ],
+            "source_type": "official_ordering_site_mailto",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently verified public publication and context. The live Square site mamalee-williamsburg.square.site (official ordering site linked from the restaurant's own domain mamaleerestaurant.com, which the packet records as the website of Maps cid 3979803024036291366) displays 'Pickup from 66 grand street', matching the saved address 66 Grand St, Brooklyn, NY 11249. The archived mamaleerestaurant.com homepage (Jan 2025) publishes the same address-published email in plain text. Live mailto observed 2026-10-05 on the business's own Square site with matching address; corroborated by plain-text publication on the archived official domain. Restaurant is currently 'Temporarily closed' on Google Maps and the standalone mamaleerestaurant.com domain no longer resolves (DNS failure) — the Square site remains live; inbox monitoring during closure is unverified. Source-specific purpose preserved; not inferred from mailbox local-part.",
+            "notes": "Live mailto observed 2026-10-05 on the business's own Square site with matching address; corroborated by plain-text publication on the archived official domain. Restaurant is currently 'Temporarily closed' on Google Maps and the standalone mamaleerestaurant.com domain no longer resolves (DNS failure) — the Square site remains live; inbox monitoring during closure is unverified.",
+            "checked_at": "2026-10-05T07:21:04.919022+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Live mailto observed 2026-10-05 on the business's own Square site with matching address; corroborated by plain-text publication on the archived official domain. Restaurant is currently 'Temporarily closed' on Google Maps and the standalone mamaleerestaurant.com domain no longer resolves (DNS failure) — the Square site remains live; inbox monitoring during closure is unverified. Parent independently verified public publication and context. The live Square site mamalee-williamsburg.square.site (official ordering site linked from the restaurant's own domain mamaleerestaurant.com, which the packet records as the website of Maps cid 3979803024036291366) displays 'Pickup from 66 grand street', matching the saved address 66 Grand St, Brooklyn, NY 11249. The archived mamaleerestaurant.com homepage (Jan 2025) publishes the same address-published email in plain text. Live mailto observed 2026-10-05 on the business's own Square site with matching address; corroborated by plain-text publication on the archived official domain. Restaurant is currently 'Temporarily closed' on Google Maps and the standalone mamaleerestaurant.com domain no longer resolves (DNS failure) — the Square site remains live; inbox monitoring during closure is unverified. Source-specific purpose preserved; not inferred from mailbox local-part."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -343,6 +381,87 @@
         "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "mama_lee-_williamsburg.json",
+      "name": "Mama Lee - Williamsburg",
+      "emails": [
+        {
+          "email": "mamaleeofficialrestaurant@gmail.com",
+          "url": "https://mamalee-williamsburg.square.site/",
+          "quote": "mailto:mamaleeofficialrestaurant@gmail.com published as a footer link on the restaurant's own Square online-ordering site",
+          "source_type": "official_ordering_site_mailto",
+          "purpose": "general contact — customer inquiries for the Williamsburg location",
+          "business_match": "The live Square site mamalee-williamsburg.square.site (official ordering site linked from the restaurant's own domain mamaleerestaurant.com, which the packet records as the website of Maps cid 3979803024036291366) displays 'Pickup from 66 grand street', matching the saved address 66 Grand St, Brooklyn, NY 11249. The archived mamaleerestaurant.com homepage (Jan 2025) publishes the same address-published email in plain text.",
+          "identity_evidence": [
+            {
+              "url": "https://mamalee-williamsburg.square.site/",
+              "quote": "Order now Pickup from 66 grand street ... Traditional Taiwanese Food"
+            },
+            {
+              "url": "https://web.archive.org/web/20250104155313/https://www.mamaleerestaurant.com/",
+              "quote": "If you need anything, please send us an email at mamaleeofficialrestaurant@gmail.com."
+            },
+            {
+              "url": "https://maps.google.com/?cid=3979803024036291366",
+              "quote": "Mama Lee - Williamsburg ... 66 Grand St, Brooklyn, NY 11249 ... (718) 683-9820 ... mamaleerestaurant.com"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Live mailto observed 2026-10-05 on the business's own Square site with matching address; corroborated by plain-text publication on the archived official domain. Restaurant is currently 'Temporarily closed' on Google Maps and the standalone mamaleerestaurant.com domain no longer resolves (DNS failure) — the Square site remains live; inbox monitoring during closure is unverified.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently verified public publication and context. The live Square site mamalee-williamsburg.square.site (official ordering site linked from the restaurant's own domain mamaleerestaurant.com, which the packet records as the website of Maps cid 3979803024036291366) displays 'Pickup from 66 grand street', matching the saved address 66 Grand St, Brooklyn, NY 11249. The archived mamaleerestaurant.com homepage (Jan 2025) publishes the same address-published email in plain text. Live mailto observed 2026-10-05 on the business's own Square site with matching address; corroborated by plain-text publication on the archived official domain. Restaurant is currently 'Temporarily closed' on Google Maps and the standalone mamaleerestaurant.com domain no longer resolves (DNS failure) — the Square site remains live; inbox monitoring during closure is unverified. Source-specific purpose preserved; not inferred from mailbox local-part."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://mamalee-williamsburg.square.site/",
+          "matching_business_evidence": "Square ordering site for Mama Lee Williamsburg; footer shows 'Pickup from 66 grand street' matching saved address 66 Grand St, Brooklyn, NY 11249.",
+          "visible_free_text_message_field_and_labels": "Footer 'Stay in the Loop' newsletter signup (email input + 'Sign Up' button, reCAPTCHA) — newsletter only, NOT a general inquiry form; site publishes a mailto for general contact instead.",
+          "general_vs_restricted_purpose": "restricted (newsletter subscription only)",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Mama Lee - Williamsburg\" email contact 66 Grand St, Brooklyn, NY 11249, USA",
+          "provider": "parent DuckDuckGo (email-depth-11-parent-search-leads.json)"
+        },
+        {
+          "query": "\"Mama Lee\" Williamsburg Brooklyn Taiwanese \"mamaleerestaurant\" OR email",
+          "provider": "Bing browser (this session, degraded unrelated results)"
+        }
+      ],
+      "inspected_urls": [
+        "https://mamalee-williamsburg.square.site/",
+        "https://web.archive.org/web/20250104155313/https://www.mamaleerestaurant.com/",
+        "https://maps.google.com/?cid=3979803024036291366 (via https://www.google.com/maps/search/Mama+Lee+Williamsburg+66+Grand+St+Brooklyn)",
+        "https://sagemenu.com/new-york/mama-lee-williamsburg-brooklyn/",
+        "https://www.restaurantji.com/ny/brooklyn/mama-lee-/ (Cloudflare-challenged)"
+      ],
+      "errors": [
+        "mamaleerestaurant.com DNS does not resolve (ERR_NAME_NOT_RESOLVED) — live site dead; Wayback snapshot used.",
+        "restaurantji.com blocked by Cloudflare 'Just a moment...'; not bypassed."
+      ],
+      "outcome": "source_backed_general_email_found",
+      "remaining_avenues": [],
+      "effort_notes": "~5 command groups. Key discovery: the prior 'website dead' dead-end concealed the live official Square ordering site, which publishes a general mailto with matching pickup address. This upgrades the prior no_text_route_found outcome.",
+      "worker_claimed_checked_at": "2026-10-05T06:37:59Z",
+      "batch_completed_at": "2026-10-05T06:38:39.698611+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.515291+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-11",
+      "artifact_sha256": "f36c0b8087551d0a36ceb7cbbfacee76232d63607cefe8bfb18bdb96ea205cf1",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "mamaleeofficialrestaurant@gmail.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

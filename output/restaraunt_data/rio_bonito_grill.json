@@ -403,7 +403,25 @@
     "outcome": "no_website",
     "sources": {},
     "pages": [],
-    "contact_forms": []
+    "contact_forms": [],
+    "candidate_sources": {
+      "ricardobastos2000@gmail.com": {
+        "urls": [
+          "https://riobonitodelivery.com/policies/contact-information"
+        ],
+        "reason": "Parent review pending; publication, exact branch attribution, currentness, and purpose are not yet all accepted.",
+        "role": "general/unspecified",
+        "checked_at": "2026-10-05T07:37:41.889304+00:00"
+      },
+      "riobonitousa@gmail.com": {
+        "urls": [
+          "https://riobonitodelivery.com/policies/privacy-policy"
+        ],
+        "reason": "Parent review pending; publication, exact branch attribution, currentness, and purpose are not yet all accepted.",
+        "role": "general/unspecified",
+        "checked_at": "2026-10-05T07:37:41.889304+00:00"
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -443,6 +461,185 @@
         "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "rio_bonito_grill.json",
+      "name": "Rio Bonito Grill",
+      "emails": [
+        {
+          "email": "ricardobastos2000@gmail.com",
+          "url": "https://riobonitodelivery.com/policies/contact-information",
+          "quote": "Email: ricardobastos2000@gmail.com",
+          "source_type": "official_site_policy_page",
+          "purpose": "general store contact (also given for returns on https://riobonitodelivery.com/policies/refund-policy: 'To start a return, you can contact us at ricardobastos2000@gmail.com')",
+          "business_match": "PUBLISHED ON THE NEIGHBOR SUPERMARKET'S SITE, NOT THE SAVED RESTAURANT. riobonitodelivery.com is verified as Rio Market Inc's website (Google Maps Rio Market Inc listing, 32-15 36th Ave, shows website riobonitodelivery.com). Rio Market Inc sits ~50 m from Rio Bonito Grill (33-01 36th Ave, adjacent block of 36th Ave) and both use 'Rio Bonito' branding (domain riobonitodelivery.com vs the grill's Instagram @riobonitochurrascaria); RestaurantGuru lists riosupermarket.com (which redirects to riobonitodelivery.com) as Rio Bonito Grill's website. No first-party document links the grill to this store/owner, and the grill's own Google Maps listing shows NO website and a different phone, (845) 314-2845 vs the store's +1 718-706-7272. Same-email rejection previously recorded; relationship remains unproven.",
+          "identity_evidence": [
+            {
+              "url": "https://maps.google.com/?cid=1392949894972118054",
+              "quote": "Rio Bonito Grill ... 33-01 36th Ave, Astoria, NY 11106 ... (845) 314-2845 ... Add website"
+            },
+            {
+              "url": "https://www.google.com/maps/search/Rio+Market+32-15+36th+Ave+Astoria",
+              "quote": "Rio Market Inc ... Supermarket ... 32-15 36th Ave ... riobonitodelivery.com"
+            },
+            {
+              "url": "https://www.restaurantguru.com/Rio-Bonito-Grill-New-York",
+              "quote": "33-01 36th Ave ... +1 845-314-2845 ... Website riosupermarket.com"
+            },
+            {
+              "url": "https://riobonitodelivery.com/policies/contact-information",
+              "quote": "Trade name: riobonitodelivery ... Phone number: 17187067272 ... Physical address: 3215 36TH AVE, ASTORIA NY 32257, United States"
+            }
+          ],
+          "confidence": "low",
+          "decision": "candidate",
+          "notes": "Plausible owner-level/brand-level contact shared between Rio Market Inc (supermarket) and Rio Bonito Grill, but attribution to the SAVED restaurant is unverified; prior rejection stands pending ownership proof. Address on store site malformed (NY 32257).",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        },
+        {
+          "email": "riobonitousa@gmail.com",
+          "url": "https://riobonitodelivery.com/policies/privacy-policy",
+          "quote": "Should you have any questions about our privacy practices or this Privacy Policy, or if you would like to exercise any of the rights available to you, please call +1 718-706-7272 or email us at riobonitousa@gmail.com or contact us at rio supermarket, 3215 36TH AVE, ASTORIA NY 11106, United States",
+          "source_type": "official_site_privacy_legal_page",
+          "purpose": "privacy/legal and data-rights inquiries for 'rio supermarket' (riobonitodelivery.com); not stated as a general customer-service address",
+          "business_match": "Same attribution problem as ricardobastos2000@gmail.com: address given is 'rio supermarket, 3215 36TH AVE, ASTORIA NY 11106' (Rio Market Inc, 32-15 36th Ave), one block from the saved grill at 33-01 36th Ave. Shared 'Rio Bonito' branding and adjacent location suggest common ownership but no first-party proof links this legal contact to Rio Bonito Grill.",
+          "identity_evidence": [
+            {
+              "url": "https://maps.google.com/?cid=1392949894972118054",
+              "quote": "Rio Bonito Grill ... 33-01 36th Ave, Astoria, NY 11106 ... (845) 314-2845"
+            },
+            {
+              "url": "https://www.google.com/maps/search/Rio+Market+32-15+36th+Ave+Astoria",
+              "quote": "Rio Market Inc ... Supermarket ... 32-15 36th Ave ... riobonitodelivery.com"
+            }
+          ],
+          "confidence": "low",
+          "decision": "candidate",
+          "notes": "Legal/privacy-purpose address discovered this run (new, not in prior record); labeled per contract rather than presented as general. Brand-level only; parent decides whether to promote.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://riobonitodelivery.com/pages/contact",
+          "matching_business_evidence": "Footer/header of riobonitodelivery.com; site verified as Rio Market Inc's store (Google Maps listing shows riobonitodelivery.com as the supermarket's website at 32-15 36th Ave, adjacent to the saved grill at 33-01 36th Ave). Attribution to Rio Bonito Grill itself is the same unproven sister-business relationship as the email candidates.",
+          "visible_fields": "Name (text), Email* (required), Phone (text), Comment (textarea) with Submit button; page title 'Contact'",
+          "general_vs_restricted": "general contact form (free-text Comment field), not newsletter/order/booking-only",
+          "submission_tested": false,
+          "notes": "Fallback only; form serves the supermarket/delivery business, not confirmed as the restaurant's route."
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Rio Bonito Grill\" Astoria email contact",
+          "provider": "DuckDuckGo (html endpoint) - CAPTCHA 'Select all squares containing a duck', not bypassed"
+        },
+        {
+          "query": "\"Rio Bonito Grill\" Astoria contact email",
+          "provider": "Bing - degraded results for 'rio' only; same behavior with format=rss and multiple query variants"
+        },
+        {
+          "query": "\"Rio Bonito\" Astoria \"36th Ave\" email OR contact",
+          "provider": "Bing - degraded results"
+        },
+        {
+          "query": "\"riobonitodelivery\" OR \"Rio Bonito Grill\" Astoria gmail",
+          "provider": "Bing - degraded results"
+        },
+        {
+          "query": "\"Rio Bonito Grill\" Astoria contact email",
+          "provider": "Google web - /sorry CAPTCHA page"
+        },
+        {
+          "query": "\"Rio Bonito Grill\" Astoria contact email",
+          "provider": "Brave Search - 'Verifying you're not a bot' slider CAPTCHA"
+        },
+        {
+          "query": "\"Rio Bonito Grill\" Astoria contact email",
+          "provider": "Startpage - Access Temporarily Suspended block page"
+        },
+        {
+          "query": "\"Rio Bonito Grill\" Astoria contact email",
+          "provider": "Mojeek - 403 Forbidden (automated-query block)"
+        },
+        {
+          "query": "\"Rio Bonito Grill\" Astoria contact email",
+          "provider": "Ecosia - Cloudflare 'Just a moment...' challenge loop, never resolved"
+        },
+        {
+          "query": "\"Rio Bonito Grill\" Astoria email contact",
+          "provider": "Yandex - SmartCaptcha"
+        },
+        {
+          "query": "Rio Bonito Astoria",
+          "provider": "Google Maps site search (worked) - only Rio Bonito Grill (33-01 36th Ave) and Rio Market Inc (32-15 36th Ave)"
+        },
+        {
+          "query": "Rio Market 32-15 36th Ave Astoria",
+          "provider": "Google Maps site search (worked)"
+        }
+      ],
+      "inspected_urls": [
+        "https://riobonitodelivery.com/",
+        "https://riobonitodelivery.com/policies/contact-information",
+        "https://riobonitodelivery.com/pages/contact",
+        "https://riobonitodelivery.com/policies/privacy-policy",
+        "https://riobonitodelivery.com/policies/refund-policy",
+        "https://riobonitodelivery.com/policies/terms-of-service",
+        "https://riobonitodelivery.com/policies/shipping-policy",
+        "https://riobonitodelivery.com/policies/legal",
+        "https://riosupermarket.com/ (redirects to riobonitodelivery.com)",
+        "https://maps.google.com/?cid=1392949894972118054",
+        "https://www.google.com/maps/search/Rio+Market+32-15+36th+Ave+Astoria",
+        "https://www.google.com/maps/search/Rio%20Bonito%20Astoria",
+        "https://rio-bonito-grill-2.menumeat.com/",
+        "https://rio-bonito-grill-2.menumeat.com/menu",
+        "https://www.restaurantguru.com/Rio-Bonito-Grill-New-York",
+        "https://www.grubhub.com/restaurant/rio-market-32-15-36th-ave-long-island-city/414166",
+        "https://www.instagram.com/reel/DadiHYZp0if/",
+        "https://www.instagram.com/riobonitochurrascaria/ (linked from menumeat page; login-walled)",
+        "https://www.yelp.com/biz/rio-bonito-astoria-3 (returned blank page)"
+      ],
+      "errors": [
+        "DuckDuckGo html and lite endpoints: bot-detection CAPTCHA (code 02f8), not bypassed per contract",
+        "Google web search: /sorry CAPTCHA page",
+        "Bing: returns irrelevant results for just 'rio' across HTML and RSS formats with several query variants (degraded anti-bot mode)",
+        "Brave Search: pre-search slider CAPTCHA",
+        "Startpage: 'Access Temporarily Suspended' block page",
+        "Mojeek: 403 Forbidden",
+        "Ecosia: Cloudflare challenge loop (never completed)",
+        "Yandex: SmartCaptcha",
+        "Instagram profile page for @riobonitochurrascaria: redirected to accounts/login (bio not publicly viewable anonymously); guessed handles @riobonitogrill, @riobonitogrillastoria, @riobonito.grill, @riobonito_ny, @riobonitony all 'Profile isn't available'",
+        "Yelp biz page: blank response (blocked)",
+        "TripAdvisor review page: blank response (blocked)",
+        "rio-bonito-grill.wheree.com: Cloudflare 'Performing security verification' loop, never loaded",
+        "Menumeat page exposes only tel:+1 845-314-2845 and wa.me/0018453142845 links plus Instagram link; no email, no menu PDF with contact"
+      ],
+      "outcome": "candidate_emails_found_not_attributed_to_saved_business",
+      "remaining_avenues": [
+        "Instagram bio of @riobonitochurrascaria (the grill's own account, found via menumeat link) may publish an email; requires a public viewer or logged-in access, which was out of scope this run",
+        "WhatsApp Business profile behind wa.me/0018453142845 may list an email in its business profile (requires WhatsApp app, not browsable)",
+        "Yelp, TripAdvisor and wheree.com pages for the business were blocked (blank/Cloudflare); may contain a website or email field when accessed from a non-challenged network",
+        "NY Department of State corporation registry for a Rio Bonito Grill / Rio Market Inc entity could document the ownership link needed to promote ricardobastos2000@gmail.com / riobonitousa@gmail.com from brand-level candidates",
+        "Direct phone (845) 314-2845 or WhatsApp contact remains the practical route absent a published email"
+      ],
+      "effort_notes": "Deep re-investigation this run: re-read all riobonitodelivery.com policy pages (found NEW email riobonitousa@gmail.com on privacy/legal page), re-examined contact-information page, followed RestaurantGuru's website claim (riosupermarket.com -> riobonitodelivery.com), verified via Google Maps that riobonitodelivery.com belongs to Rio Market Inc (supermarket at 32-15 36th Ave) while the saved grill (33-01 36th Ave, ~50 m away) has no website on its Maps listing, confirmed the grill's Instagram handle @riobonitochurrascaria from its menumeat page, and attempted ~11 search-engine angles (all major engines challenged/blocked except Google Maps site search). No restaurant-specific published email found in checked sources; both discovered emails are supermarket-published brand-level candidates whose link to the grill is suggested by adjacency, shared 'Rio Bonito' branding, and a third-party directory website claim, but is not proven by any first-party source. Browser session closed cleanly.",
+      "worker_claimed_checked_at": "2026-10-05T05:28:22Z",
+      "batch_completed_at": "2026-10-05T05:29:14.271653+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.446065+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-00",
+      "artifact_sha256": "7920b6b32e019b62e695508c9c3402ccc09e0504ff4cb98275c2c7828c29423d",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
+    }
   }
 }

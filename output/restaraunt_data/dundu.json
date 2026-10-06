@@ -486,8 +486,12 @@
   "business_status_checked_at": "2026-10-03T20:05:03.427877+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:34.183085+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "info@eatdundu.com": [
+        "https://eatdundu.com/contact-us/"
+      ]
+    },
     "pages": [
       {
         "url": "http://www.eatdundu.com/",
@@ -496,12 +500,50 @@
       }
     ],
     "contact_forms": [],
-    "candidate_sources": {
+    "candidate_sources": {},
+    "candidate_resolution_history": [
+      {
+        "email": "info@eatdundu.com",
+        "original_candidate": {
+          "urls": [
+            "https://findit.city/en/usa/new-york-city/places/restaurants/dundu-13250232453"
+          ],
+          "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+        },
+        "resolved_at": "2026-10-05T06:42:47.491116+00:00",
+        "decision": "primary_publication_verified",
+        "primary_source": "https://eatdundu.com/contact-us/",
+        "reason": "Parent independently verified literal public business-contact publication. Same page lists the exact saved address '140 E 41st St, New York, NY 10017, USA' and phone '646 767 0100' (saved phone (646) 767-0100); footer repeats the address and links Instagram (@eatdundu) / Facebook (Eatdundu) Primary-source publication on the restaurant's own WooCommerce/WordPress site. Same page also offers a general Contact Form 7 (name, e-mail, phone, company, message) as redundant route. Publication does not verify delivery; the packet's prior candidate info@eatdundu.com from findit.city is now independently confirmed on the primary source."
+      }
+    ],
+    "role_overrides": {
+      "info@eatdundu.com": "general/unspecified"
+    },
+    "publication_evidence": {
       "info@eatdundu.com": {
-        "urls": [
-          "https://findit.city/en/usa/new-york-city/places/restaurants/dundu-13250232453"
+        "evidence": [
+          {
+            "url": "https://eatdundu.com/contact-us/",
+            "quote": "VISIT OUR RESTAURANT IN NEW YORK\n\n140 E 41st St,\nNew York,\nNY 10017, USA\n\n 646 767 0100\n info@eatdundu.com",
+            "identity_evidence": [
+              {
+                "url": "https://eatdundu.com/contact-us/",
+                "quote": "140 E 41st St,\nNew York,\nNY 10017, USA\n\n  646 767 0100\n  info@eatdundu.com"
+              },
+              {
+                "url": "https://eatdundu.com/contact-us/ (footer)",
+                "quote": "LOCATION\n\n140 E 41st St,\nNew York,\nNY 10017, USA\n\nOpened Mon - Fri (11am - 7pm)"
+              }
+            ],
+            "source_type": "official restaurant website contact page",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently verified literal public business-contact publication. Same page lists the exact saved address '140 E 41st St, New York, NY 10017, USA' and phone '646 767 0100' (saved phone (646) 767-0100); footer repeats the address and links Instagram (@eatdundu) / Facebook (Eatdundu) Primary-source publication on the restaurant's own WooCommerce/WordPress site. Same page also offers a general Contact Form 7 (name, e-mail, phone, company, message) as redundant route. Publication does not verify delivery; the packet's prior candidate info@eatdundu.com from findit.city is now independently confirmed on the primary source.",
+            "notes": "Primary-source publication on the restaurant's own WooCommerce/WordPress site. Same page also offers a general Contact Form 7 (name, e-mail, phone, company, message) as redundant route. Publication does not verify delivery; the packet's prior candidate info@eatdundu.com from findit.city is now independently confirmed on the primary source.",
+            "checked_at": "2026-10-05T06:42:47.491116+00:00",
+            "delivery_tested": false
+          }
         ],
-        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+        "note": "Primary-source publication on the restaurant's own WooCommerce/WordPress site. Same page also offers a general Contact Form 7 (name, e-mail, phone, company, message) as redundant route. Publication does not verify delivery; the packet's prior candidate info@eatdundu.com from findit.city is now independently confirmed on the primary source. Parent independently verified literal public business-contact publication. Same page lists the exact saved address '140 E 41st St, New York, NY 10017, USA' and phone '646 767 0100' (saved phone (646) 767-0100); footer repeats the address and links Instagram (@eatdundu) / Facebook (Eatdundu) Primary-source publication on the restaurant's own WooCommerce/WordPress site. Same page also offers a general Contact Form 7 (name, e-mail, phone, company, message) as redundant route. Publication does not verify delivery; the packet's prior candidate info@eatdundu.com from findit.city is now independently confirmed on the primary source."
       }
     }
   },
@@ -555,6 +597,76 @@
         "\"info@eatdundu.com\" dùndú"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "dundu.json",
+      "name": "dùndú",
+      "emails": [
+        {
+          "email": "info@eatdundu.com",
+          "url": "https://eatdundu.com/contact-us/",
+          "quote": "VISIT OUR RESTAURANT IN NEW YORK\n\n140 E 41st St,\nNew York,\nNY 10017, USA\n\n 646 767 0100\n info@eatdundu.com",
+          "source_type": "official restaurant website contact page",
+          "purpose": "general customer inquiry (page invites 'feedback, questions or just a simple note saying hi'); also repeated in the site footer and as a mailto link: <a href=\"mailto:info@eatdundu.com\"><strong><i class=\"fas fa-envelope\"></i> &nbsp;info@eatdundu.com</strong></a>",
+          "business_match": "Same page lists the exact saved address '140 E 41st St, New York, NY 10017, USA' and phone '646 767 0100' (saved phone (646) 767-0100); footer repeats the address and links Instagram (@eatdundu) / Facebook (Eatdundu)",
+          "identity_evidence": [
+            {
+              "url": "https://eatdundu.com/contact-us/",
+              "quote": "140 E 41st St,\nNew York,\nNY 10017, USA\n\n  646 767 0100\n  info@eatdundu.com"
+            },
+            {
+              "url": "https://eatdundu.com/contact-us/ (footer)",
+              "quote": "LOCATION\n\n140 E 41st St,\nNew York,\nNY 10017, USA\n\nOpened Mon - Fri (11am - 7pm)"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Primary-source publication on the restaurant's own WooCommerce/WordPress site. Same page also offers a general Contact Form 7 (name, e-mail, phone, company, message) as redundant route. Publication does not verify delivery; the packet's prior candidate info@eatdundu.com from findit.city is now independently confirmed on the primary source.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently verified literal public business-contact publication. Same page lists the exact saved address '140 E 41st St, New York, NY 10017, USA' and phone '646 767 0100' (saved phone (646) 767-0100); footer repeats the address and links Instagram (@eatdundu) / Facebook (Eatdundu) Primary-source publication on the restaurant's own WooCommerce/WordPress site. Same page also offers a general Contact Form 7 (name, e-mail, phone, company, message) as redundant route. Publication does not verify delivery; the packet's prior candidate info@eatdundu.com from findit.city is now independently confirmed on the primary source."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://eatdundu.com/contact-us/",
+          "matching_business_evidence": "Official eatdundu.com contact page showing '140 E 41st St, New York, NY 10017, USA' and '646 767 0100' (exact saved address/phone)",
+          "visible_fields": "Name * (text), E-mail Address * (email), Phone Number (tel), Company (text), Message * (textarea), Send (Contact Form 7)",
+          "general_vs_restricted": "general ('We'd love to hear from you. We particularly appreciate feedback, questions or just a simple note saying hi')",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"dùndú\" email contact 140 E 41st St, New York, NY 10017, USA (parent search-leads)",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab"
+        }
+      ],
+      "inspected_urls": [
+        "https://eatdundu.com/contact-us/",
+        "https://eatdundu.com/robots.txt",
+        "https://eatdundu.com/about-us/ (parent lead; not separately visited — contact page sufficed)"
+      ],
+      "errors": [],
+      "outcome": "source_backed_email_found",
+      "remaining_avenues": [
+        "Confirm inbox delivery during first outreach; the prior root-level robot exclusion for www.eatdundu.com no longer reflects the current robots.txt (only wp-admin/upload paths disallowed), which is how the contact page was reached."
+      ],
+      "effort_notes": "Resolved in 2 command groups after reading robots.txt; exact mailto markup and surrounding address/phone captured.",
+      "worker_claimed_checked_at": "2026-10-05T06:07:00Z",
+      "batch_completed_at": "2026-10-05T06:11:43.786915+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.492186+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-05",
+      "artifact_sha256": "64c31ccfb3906e276150604955f2eb251bddd9135580e1b195197e3a37732574",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "info@eatdundu.com"
+      ],
+      "no_general_email_reason": ""
     }
   }
 }

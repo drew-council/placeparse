@@ -496,6 +496,39 @@
         "requires_login": true,
         "search_provider": "DuckDuckGo browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "s_wan_cafe.json",
+      "name": "S Wan Cafe",
+      "emails": [],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://swancafeinc.netwaiter.com/new-york/about",
+        "https://www.facebook.com/profile.php?id=100860169959366",
+        "https://www.restaurantji.com/ny/new-york/s-wan-cafe-/"
+      ],
+      "errors": [
+        "https://www.restaurantji.com/ny/new-york/s-wan-cafe-/ served a Cloudflare 'Just a moment...' challenge; not bypassed",
+        "Search providers were exhausted earlier in the batch (DuckDuckGo CAPTCHA, Bing degraded results), so no new live web search was run for this restaurant"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Parent-supervised targeted search: 'S Wan Cafe' Eldridge email / 洋紫荆 contact",
+        "NetWaiter 'EDIT RESTAURANT INFORMATION' / comment channels reach the platform, not the restaurant staff",
+        "In-person/phone (212) 966-8269; social DMs are out of scope"
+      ],
+      "effort_notes": "Business has no official website; its NetWaiter listing page (linked from its Facebook page) was inspected in full: address 85 Eldridge St, phone (212) 966-8269, hours — zero email addresses or mailto links in rendered HTML. Facebook page is an 'Unofficial Page' with no email in public bio. Prior packet leads (us-info, allbiz, a-better-place) were already swept; no new email evidence found.",
+      "worker_claimed_checked_at": "2026-10-05T07:06:11Z",
+      "batch_completed_at": "2026-10-05T07:13:27.430429+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.533841+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-16",
+      "artifact_sha256": "262a2eb0b2c2a6c15cd73c565919ce8c1d546450c5b8f1d89cd16d596c96d769",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Business has no official website; its NetWaiter listing page (linked from its Facebook page) was inspected in full: address 85 Eldridge St, phone (212) 966-8269, hours — zero email addresses or mailto links in rendered HTML. Facebook page is an 'Unofficial Page' with no email in public bio. Prior packet leads (us-info, allbiz, a-better-place) were already swept; no new email evidence found."
+    }
   }
 }

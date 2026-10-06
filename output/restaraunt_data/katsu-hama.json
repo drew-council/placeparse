@@ -129,6 +129,48 @@
     "searches": [],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "katsu-hama.json",
+      "name": "Katsu-Hama",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://katsuhamanewyork.com/contact/",
+          "matching_business_evidence": "Page states '11 E 47th St, New York, NY 10017, USA' and phone '+1 212-758-5909' — exact match to saved address and phone; site title 'Katsu-Hama | Tonkatsu restaurant New York'.",
+          "visible_free_text_field_and_labels": "Textarea labeled 'Reservation notes'; inputs labeled 'Guest name', 'Phone with country code', 'Email for reservation updates', 'Preferred date', 'Preferred time', 'Party size', 'Time flexibility', 'Request type'.",
+          "general_vs_restricted_purpose": "restricted — Request type dropdown offers only 'Table reservation'; page copy directs same-day/10+ groups to call; this is a reservation-request form, not a general inquiry form",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Katsu-Hama\" email contact 11 E 47th St, New York, NY 10017, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome (parent leads file, no challenge)"
+        }
+      ],
+      "inspected_urls": [
+        "https://katsuhamanewyork.com/contact/",
+        "https://katsuhamanewyork.com/",
+        "http://www.katsuhama.com/"
+      ],
+      "errors": [],
+      "outcome": "form_fallback_only_no_email",
+      "remaining_avenues": [
+        "No email on any page of katsuhamanewyork.com (contact, home footer, FAQ all phone-only).",
+        "Older official domain www.katsuhama.com (linked by Eater NY) is a parked 'domain may be for sale' page — dead end; no other official presence located."
+      ],
+      "effort_notes": "Deepened prior 'limited_purpose_only' outcome: enumerated all site links from the homepage, confirmed contact form request-type is reservation-only via DOM option extraction, and verified katsuhama.com is parked. ~3 browser groups.",
+      "worker_claimed_checked_at": "2026-10-05T06:28:34Z",
+      "batch_completed_at": "2026-10-05T06:29:41.779741+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.506070+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-09",
+      "artifact_sha256": "ce6e08a692c216168faa036bb937b26433b7f91f6e5d1c74518e0c366d18092c",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Deepened prior 'limited_purpose_only' outcome: enumerated all site links from the homepage, confirmed contact form request-type is reservation-only via DOM option extraction, and verified katsuhama.com is parked. ~3 browser groups."
+    }
   }
 }

@@ -505,6 +505,59 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "tao_hong.json",
+      "name": "Tao Hong",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Tao Hong Bakery\" Chrystie email contact taohongbakery",
+          "provider": "DuckDuckGo browser"
+        },
+        {
+          "query": "\"tao hong bakery\" new york email @",
+          "provider": "DuckDuckGo browser"
+        },
+        {
+          "query": "\"tao hong bakery\" chrystie email contact",
+          "provider": "Bing"
+        }
+      ],
+      "inspected_urls": [
+        "https://sreebakers.com/find-bakers/tao-hong",
+        "https://www.superpages.com/new-york-ny/bpp/tao-hong-inc-469133625",
+        "https://www.chamberofcommerce.com/united-states/new-york/new-york/chinese-bakery/2002467471-tao-hong",
+        "https://tao-hong.wheree.com/",
+        "https://www.moodap.com/new-york-city/chinatown/cafes/tao-hong",
+        "https://www.buzzfile.com/business/Tao-Hong-Incorporated-212-219-0981"
+      ],
+      "errors": [
+        "sreebakers.com/find-bakers/tao-hong returned ERR_HTTP_RESPONSE_CODE_FAILURE (4xx, no page)",
+        "superpages.com blocked by Cloudflare challenge",
+        "chamberofcommerce.com blocked by 'Just a moment...' Cloudflare challenge",
+        "tao-hong.wheree.com blocked by 'Just a moment...' challenge",
+        "buzzfile.com blocked by Cloudflare (publisher emails only in page)",
+        "DuckDuckGo full-JS frontend returned zero rendered results across two queries; Bing returned only unrelated Tao Group/Taoism results - both search frontends degraded, provider cycling stopped per contract"
+      ],
+      "outcome": "no_email_found",
+      "remaining_avenues": [
+        "Parent-side retrieval of the sreebakers.com/find-bakers/tao-hong 'Contact Information' snippet (page returned 4xx in this session; snippet in parent leads suggests a contact block that may contain a published address)",
+        "Facebook page https://www.facebook.com/pages/Tao-Hong-Bakery/534751813215746 requires login in this session; a logged-out parent check of the public bio could still surface a published email",
+        "us-info/bizarchive-style legal-entity profiles for 'Tao Hong Inc' (NY DOS corporate records) may name a principal, but that would be a person-level lead, not promoted per scope guardrails"
+      ],
+      "effort_notes": "Two distinct search angles attempted (DDG exact-name+contact, Bing exact-name+contact); both degraded. Prior lead sources (wheree, chamberofcommerce, superpages, buzzfile) all Cloudflare-challenged in this session; no challenge bypass attempted. Moodap directory inspected live: lists address 79 Chrystie St, phone (212) 219-0981, no email (its mailto hi@moodap.com is the publisher's). No email found in checked sources.",
+      "worker_claimed_checked_at": "2026-10-05T07:37:14Z",
+      "batch_completed_at": "2026-10-05T07:43:09.783387+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.543714+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-19",
+      "artifact_sha256": "c6e236df0a2fe0da9b0e351de461a5a6223860fd83d86b4efcd31e2aac919f51",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Two distinct search angles attempted (DDG exact-name+contact, Bing exact-name+contact); both degraded. Prior lead sources (wheree, chamberofcommerce, superpages, buzzfile) all Cloudflare-challenged in this session; no challenge bypass attempted. Moodap directory inspected live: lists address 79 Chrystie St, phone (212) 219-0981, no email (its mailto hi@moodap.com is the publisher's). No email found in checked sources."
+    }
   }
 }

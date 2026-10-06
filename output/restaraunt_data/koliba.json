@@ -51,7 +51,25 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:24.652527+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "candidate_sources": {
+      "kolibaastoria@gmail.com": {
+        "urls": [
+          "https://web.archive.org/web/20240329102545/https://www.kolibarestaurant.com/"
+        ],
+        "reason": "Genuine archived publication, but 2024/2019 addresses are absent on rebuilt current website. Preserve historical evidence without claiming a current general-inquiry email until newer primary confirmation.",
+        "role": "historical contact",
+        "checked_at": "2026-10-05T07:37:41.925243+00:00"
+      },
+      "koliba@kolibarestaurant.com": {
+        "urls": [
+          "https://web.archive.org/web/20191112231351/http://kolibarestaurant.com/new-page-1"
+        ],
+        "reason": "Genuine archived publication, but 2024/2019 addresses are absent on rebuilt current website. Preserve historical evidence without claiming a current general-inquiry email until newer primary confirmation.",
+        "role": "historical contact",
+        "checked_at": "2026-10-05T07:37:41.925243+00:00"
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -119,6 +137,89 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "koliba.json",
+      "name": "Koliba",
+      "emails": [
+        {
+          "email": "kolibaastoria@gmail.com",
+          "url": "https://web.archive.org/web/20240329102545/https://www.kolibarestaurant.com/",
+          "quote": "<h4 style=\"text-align:center;white-space:pre-wrap;\">Contact</h4><p ...>31-11 23rd Avenue Astoria NY 11105</p><p ...>kolibaastoria@gmail.com<br><a href=\"http://squarespace.com/\" target=\"_blank\">( </a>718)-626-0430</p>",
+          "source_type": "official website (own domain kolibarestaurant.com), archived March 2024 snapshot",
+          "purpose": "general contact email in the site's Contact/footer block",
+          "business_match": "Same page prints the saved address '31-11 23rd Avenue Astoria NY 11105' and saved phone '(718)-626-0430' immediately around the email on the restaurant's own domain.",
+          "identity_evidence": [
+            {
+              "url": "https://www.kolibarestaurant.com/new-page",
+              "quote": "KOLIBA\nHome\nMenu\nGallery\nStory\nCONTACT\n31-11 23rd Avenue\nAstoria, NY 11105\n718 626-0430"
+            },
+            {
+              "url": "https://www.eastphoenixau.com/k-pages/koliba-restaurant-inc.html",
+              "quote": "KOLIBA restaurant, 31-11 23rd AVE. Astoria, NY 11105 phone: (718) 626-0430, koliba@kolibarestaurant.com"
+            }
+          ],
+          "confidence": "medium-high",
+          "decision": "source_backed",
+          "notes": "Literal publication on the official kolibarestaurant.com domain (Wayback snapshot 2024-03-29). Caveat: the CURRENT live kolibarestaurant.com (Squarespace rebuild) no longer displays any email (only placeholder 'user@domain.com' in page source); the archive is the publication evidence. Inboxed-delivery not verified.",
+          "parent_decision": {
+            "decision": "withheld",
+            "role": "historical contact",
+            "reason": "Genuine archived publication, but 2024/2019 addresses are absent on rebuilt current website. Preserve historical evidence without claiming a current general-inquiry email until newer primary confirmation."
+          }
+        },
+        {
+          "email": "koliba@kolibarestaurant.com",
+          "url": "https://web.archive.org/web/20191112231351/http://kolibarestaurant.com/new-page-1",
+          "quote": "KOLIBA restaurant, 31-11 23rd AVE. Astoria, NY 11105<br>phone: (718) 626-0430, koliba@kolibarestaurant.com<br>",
+          "source_type": "official website (own domain kolibarestaurant.com), archived November 2019 menu-page snapshot",
+          "purpose": "general contact email printed on the official menu page",
+          "business_match": "Same page prints saved address '31-11 23rd AVE. Astoria, NY 11105' and saved phone '(718) 626-0430'; the address is on the restaurant's own kolibarestaurant.com domain.",
+          "identity_evidence": [
+            {
+              "url": "https://www.eastphoenixau.com/k-pages/koliba-restaurant-inc.html",
+              "quote": "Koliba Restaurant\nhttp://kolibarestaurant.com/\n\nKOLIBA restaurant, 31-11 23rd AVE. Astoria, NY 11105 phone: (718) 626-0430, koliba@kolibarestaurant.com"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "source_backed",
+          "notes": "Older (2019) publication from the restaurant's previous official site; independently quoted by third-party directory eastphoenixau.com citing the official site. koliba@kolibarestaurant.com is a branded address under the restaurant's own domain. Delivery not verified; prefer kolibaastoria@gmail.com (more recent) unless this proves stale.",
+          "parent_decision": {
+            "decision": "withheld",
+            "role": "historical contact",
+            "reason": "Genuine archived publication, but 2024/2019 addresses are absent on rebuilt current website. Preserve historical evidence without claiming a current general-inquiry email until newer primary confirmation."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://www.kolibarestaurant.com/new-page",
+        "https://www.eastphoenixau.com/k-pages/koliba-restaurant-inc.html",
+        "https://www.kolibarestaurant.com/new-page-1/",
+        "https://www.kolibarestaurant.com/contact",
+        "https://web.archive.org/web/20240329102545/https://www.kolibarestaurant.com/",
+        "https://web.archive.org/web/20191112231351/http://kolibarestaurant.com/new-page-1"
+      ],
+      "errors": [
+        "https://www.kolibarestaurant.com/contact is a 404 page (nav CONTACT item exists but no dedicated live contact page/form found).",
+        "Live kolibarestaurant.com pages contain only the Squarespace placeholder 'user@domain.com', no real email."
+      ],
+      "outcome": "email_found",
+      "remaining_avenues": [
+        "Current live site publishes no email; if parent wants a guaranteed-current address, a phone-verified confirmation would be needed. No general message form exists on the live site."
+      ],
+      "effort_notes": "Followed the parent-lead directory link (eastphoenixau) to the obfuscated '[email protected]' lead, then verified both candidate addresses as literal publications in Wayback snapshots of the restaurant's own domain with matching address+phone printed alongside.",
+      "worker_claimed_checked_at": "2026-10-05T06:38:59Z",
+      "batch_completed_at": "2026-10-05T06:40:05.926079+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.509856+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-10",
+      "artifact_sha256": "1f7345e076c0c9bcd51b81f469a73373564f9634df130ec08785025944ebe3fb",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
+    }
   }
 }

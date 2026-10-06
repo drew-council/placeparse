@@ -458,11 +458,17 @@
   "website": "https://www.375chicken.com/",
   "wheelchair_accessible_entrance": true,
   "business_status_checked_at": "2026-10-03T20:04:36.040981+00:00",
-  "emails": [],
+  "emails": [
+    "info@375chicken.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:03.205589+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "info@375chicken.com": [
+        "https://www.375chicken.com/privacy-policy"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.375chicken.com/",
@@ -514,7 +520,37 @@
       "https://www.375chicken.com/contact"
     ],
     "browser_checked_at": "2026-10-03T22:07:08.357434+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "info@375chicken.com": "privacy/legal"
+    },
+    "publication_evidence": {
+      "info@375chicken.com": {
+        "evidence": [
+          {
+            "url": "https://www.375chicken.com/privacy-policy",
+            "quote": "CONTACT INFORMATION - 375º Chicken 'n Fries welcomes your questions or comments regarding this Statement of Privacy. If you believe that 375º Chicken 'n Fries has not adhered to this Statement, please contact 375º Chicken 'n Fries at: 375 Enterprises, LLC 5 Eldridge Street New York, New York 10002 - Email Address: info@375chicken.com",
+            "identity_evidence": [
+              {
+                "url": "https://www.375chicken.com/locations/hells-kitchen",
+                "quote": "HELL'S KITCHEN - 649 9th Avenue (45th Street), New York"
+              },
+              {
+                "url": "https://www.375chicken.com/contact",
+                "quote": "Contact | 375 Chicken and Fries in New York, NY (official contact form on same domain)"
+              }
+            ],
+            "source_type": "official_website_privacy_policy",
+            "purpose": "privacy/legal",
+            "parent_reason": "Parent reinspection confirms explicit Statement of Privacy-only questions/comments, not general despite info local-part. Brand operator website identifies saved Hells Kitchen branch.",
+            "notes": "Brand-level general address on official legal/contact page rather than a branch-specific mailbox; no branch-specific email was published anywhere on the site. Contact-page form kept as fallback.",
+            "checked_at": "2026-10-05T08:21:32.554233+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Brand-level general address on official legal/contact page rather than a branch-specific mailbox; no branch-specific email was published anywhere on the site. Contact-page form kept as fallback. Parent reinspection confirms explicit Statement of Privacy-only questions/comments, not general despite info local-part. Brand operator website identifies saved Hells Kitchen branch."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [
@@ -565,6 +601,82 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "375_chicken_n_fries.json",
+      "name": "375° Chicken 'n Fries",
+      "emails": [
+        {
+          "email": "info@375chicken.com",
+          "url": "https://www.375chicken.com/privacy-policy",
+          "quote": "CONTACT INFORMATION - 375º Chicken 'n Fries welcomes your questions or comments regarding this Statement of Privacy. If you believe that 375º Chicken 'n Fries has not adhered to this Statement, please contact 375º Chicken 'n Fries at: 375 Enterprises, LLC 5 Eldridge Street New York, New York 10002 - Email Address: info@375chicken.com",
+          "source_type": "official_website_privacy_policy",
+          "purpose": "privacy/legal contact explicitly worded as welcoming 'your questions or comments' - functions as the published general contact email of 375 Enterprises, LLC (brand operator)",
+          "business_match": "Published on the official brand website 375chicken.com, the exact saved website for this business. The site's locations list includes 'HELL'S KITCHEN - 649 9th Avenue (45th Street), New York' matching the saved address, and the saved Google Business Profile website URL is 375chicken.com.",
+          "identity_evidence": [
+            {
+              "url": "https://www.375chicken.com/locations/hells-kitchen",
+              "quote": "HELL'S KITCHEN - 649 9th Avenue (45th Street), New York"
+            },
+            {
+              "url": "https://www.375chicken.com/contact",
+              "quote": "Contact | 375 Chicken and Fries in New York, NY (official contact form on same domain)"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "source_backed",
+          "notes": "Brand-level general address on official legal/contact page rather than a branch-specific mailbox; no branch-specific email was published anywhere on the site. Contact-page form kept as fallback.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "privacy/legal",
+            "reason": "Parent reinspection confirms explicit Statement of Privacy-only questions/comments, not general despite info local-part. Brand operator website identifies saved Hells Kitchen branch."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://www.375chicken.com/contact",
+          "business_match": "Official site 375chicken.com; Hell's Kitchen location page at 649 9th Avenue matches the saved address.",
+          "fields": [
+            "name",
+            "Contact-Info",
+            "What-are-you-getting-in-touch-about (select)",
+            "Message",
+            "g-recaptcha-response"
+          ],
+          "purpose": "general",
+          "general_vs_restricted": "General free-text contact form with topic selector ('What are you getting in touch about?').",
+          "submission_tested": false
+        }
+      ],
+      "queries": [],
+      "inspected_urls": [
+        "https://www.375chicken.com/contact",
+        "https://www.375chicken.com/",
+        "https://www.375chicken.com/locations/hells-kitchen",
+        "https://www.375chicken.com/franchise",
+        "https://www.375chicken.com/privacy-policy"
+      ],
+      "errors": [
+        "https://www.375chicken.com/franchise returned a 'Protected page' state with no extractable content; no email found there."
+      ],
+      "outcome": "email_found",
+      "remaining_avenues": [
+        "Franchise page (protected) and FDD-related pages might contain a dedicated franchise@ mailbox; not accessible without bypass."
+      ],
+      "effort_notes": "Went beyond the previously-known contact form: swept homepage, brand location page for the saved address, franchise page, and privacy policy. Found the published info@ address with mailto link on the official privacy-policy contact-information section.",
+      "worker_claimed_checked_at": "2026-10-05T07:52:00Z",
+      "batch_completed_at": "2026-10-05T07:52:36.451106+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.554233+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-22",
+      "artifact_sha256": "a467a93aa7340f94c5b0f762b59bc5fc004bc4f3bcb81cd7a1f2c97ecb23f0d4",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "info@375chicken.com"
+      ],
+      "no_general_email_reason": "Only limited-purpose published email(s); no accepted general-inquiry email in checked sources."
+    }
   }
 }

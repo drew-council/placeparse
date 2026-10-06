@@ -555,11 +555,17 @@
   "website": "http://www.kashin.com/",
   "wheelchair_accessible_entrance": true,
   "business_status_checked_at": "2026-10-03T20:05:24.451288+00:00",
-  "emails": [],
+  "emails": [
+    "kashinjapaneserestaurant@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:08.607570+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "kashinjapaneserestaurant@gmail.com": [
+        "https://www.facebook.com/kashinsushi/about"
+      ]
+    },
     "pages": [
       {
         "url": "http://www.kashin.com/",
@@ -582,6 +588,32 @@
           "https://www.allbiz.com/business/kashin-japanese-restaurant-919-851-7101"
         ],
         "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    },
+    "role_overrides": {
+      "kashinjapaneserestaurant@gmail.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "kashinjapaneserestaurant@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://www.facebook.com/kashinsushi/about",
+            "quote": "Address\\n(919) 851-7101\\nMobile\\nkashinjapaneserestaurant@gmail.com\\nEmail\\nWebsites and social links\\nhttp://www.kashin.com/\\nWebsite",
+            "identity_evidence": [
+              {
+                "url": "https://www.facebook.com/kashinsushi/",
+                "quote": "Kashin Japanese Restaurant ... established 1991 ... Page · Sushi Restaurant ... Cary, NC, United States, North Carolina ... (919) 851-7101 ... kashinjapaneserestaurant@gmail.com ... kashin.com"
+              }
+            ],
+            "source_type": "official_social_page",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently verified literal public business-contact publication. Same official Facebook page lists phone (919) 851-7101 (exact match to saved phone) and website http://www.kashin.com/ (exact match to saved website); page titled 'Kashin Japanese Restaurant | Cary NC', 'established 1991', 'Page · Sushi Restaurant'. Published on the restaurant's own Facebook page (rendered publicly without login) alongside exact-matching phone and website. Publication proves intent as the restaurant's contact route; Gmail address and inbox ownership/delivery not independently verified. The restaurant's own site kashin.com is robot_excluded from prior sweeps and was not revisited.",
+            "notes": "Published on the restaurant's own Facebook page (rendered publicly without login) alongside exact-matching phone and website. Publication proves intent as the restaurant's contact route; Gmail address and inbox ownership/delivery not independently verified. The restaurant's own site kashin.com is robot_excluded from prior sweeps and was not revisited.",
+            "checked_at": "2026-10-05T06:42:47.503771+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Published on the restaurant's own Facebook page (rendered publicly without login) alongside exact-matching phone and website. Publication proves intent as the restaurant's contact route; Gmail address and inbox ownership/delivery not independently verified. The restaurant's own site kashin.com is robot_excluded from prior sweeps and was not revisited. Parent independently verified literal public business-contact publication. Same official Facebook page lists phone (919) 851-7101 (exact match to saved phone) and website http://www.kashin.com/ (exact match to saved website); page titled 'Kashin Japanese Restaurant | Cary NC', 'established 1991', 'Page · Sushi Restaurant'. Published on the restaurant's own Facebook page (rendered publicly without login) alongside exact-matching phone and website. Publication proves intent as the restaurant's contact route; Gmail address and inbox ownership/delivery not independently verified. The restaurant's own site kashin.com is robot_excluded from prior sweeps and was not revisited."
       }
     }
   },
@@ -659,6 +691,101 @@
         "\"nauashika@gmail.com\" Kashin Japanese Restaurant"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "kashin_japanese_restaurant.json",
+      "name": "Kashin Japanese Restaurant",
+      "emails": [
+        {
+          "email": "kashinjapaneserestaurant@gmail.com",
+          "url": "https://www.facebook.com/kashinsushi/about",
+          "quote": "Address\\n(919) 851-7101\\nMobile\\nkashinjapaneserestaurant@gmail.com\\nEmail\\nWebsites and social links\\nhttp://www.kashin.com/\\nWebsite",
+          "source_type": "official_social_page",
+          "purpose": "Published customer contact email in the official Facebook page's contact/About section (general inquiries)",
+          "business_match": "Same official Facebook page lists phone (919) 851-7101 (exact match to saved phone) and website http://www.kashin.com/ (exact match to saved website); page titled 'Kashin Japanese Restaurant | Cary NC', 'established 1991', 'Page · Sushi Restaurant'.",
+          "identity_evidence": [
+            {
+              "url": "https://www.facebook.com/kashinsushi/",
+              "quote": "Kashin Japanese Restaurant ... established 1991 ... Page · Sushi Restaurant ... Cary, NC, United States, North Carolina ... (919) 851-7101 ... kashinjapaneserestaurant@gmail.com ... kashin.com"
+            }
+          ],
+          "confidence": 0.75,
+          "decision": "source_backed",
+          "notes": "Published on the restaurant's own Facebook page (rendered publicly without login) alongside exact-matching phone and website. Publication proves intent as the restaurant's contact route; Gmail address and inbox ownership/delivery not independently verified. The restaurant's own site kashin.com is robot_excluded from prior sweeps and was not revisited.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently verified literal public business-contact publication. Same official Facebook page lists phone (919) 851-7101 (exact match to saved phone) and website http://www.kashin.com/ (exact match to saved website); page titled 'Kashin Japanese Restaurant | Cary NC', 'established 1991', 'Page · Sushi Restaurant'. Published on the restaurant's own Facebook page (rendered publicly without login) alongside exact-matching phone and website. Publication proves intent as the restaurant's contact route; Gmail address and inbox ownership/delivery not independently verified. The restaurant's own site kashin.com is robot_excluded from prior sweeps and was not revisited."
+          }
+        },
+        {
+          "email": "nauashika@gmail.com",
+          "url": "https://www.allbiz.com/business/kashin-japanese-restaurant-919-851-7101",
+          "quote": "Prior sweep recorded this address as published on allbiz, superpages and yellowpages listing pages for the exact business (309 Crossroads Blvd, Cary, NC; (919) 851-7101).",
+          "source_type": "third_party_directory",
+          "purpose": "Restaurant contact address as published by third-party directories",
+          "business_match": "Directory listings match saved address and phone; directory publication only.",
+          "identity_evidence": [],
+          "confidence": 0.4,
+          "decision": "candidate",
+          "notes": "Carried over from prior sweep (quarantined candidate). Re-verification attempt this session was Cloudflare-blocked (allbiz/superpages/yellowpages 'Sorry, you have been blocked'); could not capture live exact quote.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        },
+        {
+          "email": "p.su@kashin.com",
+          "url": "https://www.allbiz.com/business/kashin-japanese-restaurant-919-851-7101",
+          "quote": "Prior sweep recorded this domain-matched address as published on the allbiz listing for the exact business (309 Crossroads Blvd, Cary, NC; (919) 851-7101).",
+          "source_type": "third_party_directory",
+          "purpose": "Restaurant contact address as published by a third-party directory; domain matches the restaurant's own site kashin.com",
+          "business_match": "Directory listing matches saved address and phone; the kashin.com domain matches the saved website.",
+          "identity_evidence": [],
+          "confidence": 0.45,
+          "decision": "candidate",
+          "notes": "Carried over from prior sweep (quarantined candidate). kashin.com is robot_excluded so primary-site confirmation unavailable; directory re-verification Cloudflare-blocked this session.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Kashin Japanese Restaurant\" email contact 309 Crossroads Blvd, Cary, NC 27518, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome (parent leads file, no challenge)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.facebook.com/kashinsushi/",
+        "https://www.facebook.com/kashinsushi/about",
+        "https://www.allbiz.com/business/kashin-japanese-restaurant_1h-919-851-7101",
+        "https://www.superpages.com/cary-nc/bpp/kashin-japanese-restaurant-4638014",
+        "https://www.yellowpages.com/cary-nc/mip/kashin-japanese-restaurant-4638014"
+      ],
+      "errors": [
+        "allbiz.com, superpages.com and yellowpages.com pages re-attempted for exact candidate quotes were blocked by Cloudflare ('Sorry, you have been blocked') in this session; exact current quotes for the directory candidates could not be captured live."
+      ],
+      "outcome": "source_backed_email_found",
+      "remaining_avenues": [
+        "Directory-published candidate emails (nauashika@gmail.com, p.su@kashin.com) retained below; re-verification of the allbiz/superpages/yellowpages publication would require a session that clears Cloudflare.",
+        "kashin.com (robots-excluded) could not be inspected; a permitted future crawl may confirm a primary-site email."
+      ],
+      "effort_notes": "Official Facebook page (previously only a search-result URL) was loaded and its public About/Intro contact block yielded a restaurant-specific general email with matching phone and website — a materially deeper result than the prior 'unverified_email_leads_only' status. ~4 browser groups.",
+      "worker_claimed_checked_at": "2026-10-05T06:28:34Z",
+      "batch_completed_at": "2026-10-05T06:29:41.779741+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.505575+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-09",
+      "artifact_sha256": "ce6e08a692c216168faa036bb937b26433b7f91f6e5d1c74518e0c366d18092c",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "kashinjapaneserestaurant@gmail.com"
+      ],
+      "no_general_email_reason": ""
     }
   }
 }

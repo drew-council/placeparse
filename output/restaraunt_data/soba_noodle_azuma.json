@@ -61,7 +61,17 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:22.770050+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "candidate_sources": {
+      "sobayaazuma55@gmail.com": {
+        "urls": [
+          "https://nyc.mixb.net/job/articles/268433"
+        ],
+        "reason": "Parent review pending; publication, exact branch attribution, currentness, and purpose are not yet all accepted.",
+        "role": "general/unspecified",
+        "checked_at": "2026-10-05T07:37:41.951998+00:00"
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -134,6 +144,63 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "soba_noodle_azuma.json",
+      "name": "Soba Noodle Azuma",
+      "emails": [
+        {
+          "email": "sobayaazuma55@gmail.com",
+          "url": "https://nyc.mixb.net/job/articles/268433",
+          "quote": "社名 Soba Noodle Azuma Restaurant New York ... 担当者 Tomoe ... 電話番号 9172620540 ... メールアドレス sobayaazuma55@gmail.com ... URL http://sobaazuma55.com ... 住所 251 W 55th St New York, NY 10019",
+          "source_type": "third_party_classified_ad",
+          "purpose": "job recruitment / applications (assistant manager applications: 'sobayaazuma55@gmail.com までEmailにて簡単な自己紹介と、履歴書添付の上、ご連絡ください')",
+          "business_match": "Ad lists the exact saved phone (917-262-0540), exact saved address (251 W 55th St, NY 10019), and the exact official website (sobaazuma55.com), under the company name 'Soba Noodle Azuma Restaurant New York'; contact person Tomoe.",
+          "identity_evidence": [
+            {
+              "url": "https://nyc.mixb.net/job/articles/268433",
+              "quote": "人気日本食レストランSoba Noodle Azuma NY店 アシスタントマネージャー募集 ... 電話番号 9172620540 ... メールアドレス sobayaazuma55@gmail.com ... URL http://sobaazuma55.com ... 住所 251 W 55th St New York, NY 10019"
+            },
+            {
+              "url": "https://www.sobaazuma55.com/special",
+              "quote": "LOCATION | Soba Noodle Azuma ... We're located on West 55th Street"
+            }
+          ],
+          "confidence": "high (attribution) / restricted (purpose)",
+          "decision": "candidate",
+          "notes": "Published 2025/04/07 in a Japanese-language NYC classified (MixB) by the restaurant itself with three-way identity match (phone+address+official domain). Purpose is hiring inquiries, not general customer inquiries; the parent should decide whether a recruitment address is acceptable. Official website publishes no email at all, so this is the only restaurant-specific published address found.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://www.sobaazuma55.com/",
+        "https://www.sobaazuma55.com/special",
+        "https://www.sobaazuma55.com/menu-1",
+        "https://nyc.mixb.net/job/articles/268433",
+        "https://www.eastjprestaurant.com/"
+      ],
+      "errors": [],
+      "outcome": "candidate_email_found",
+      "remaining_avenues": [
+        "Sister restaurants linked from the official site (kikinyc.square.site, eastjprestaurant.com) publish no email either; a shared-operating-group general address was not found",
+        "Instagram (soba.azuma) and Facebook bios not inspectable (login walls) — could contain a general contact address"
+      ],
+      "effort_notes": "Official site (home/location/menu) has no mailto/email. MixB classified independently opened and read in this session's browser with mailto: links present (mailto:sobayaazuma55@gmail.com, 3 occurrences) and full identity fields.",
+      "worker_claimed_checked_at": "2026-10-05T07:16:10Z",
+      "batch_completed_at": "2026-10-05T07:16:56.653953+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.537427+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-17",
+      "artifact_sha256": "f2bbab4f989c9a3e0a6bdd59eab03dd8fcf8cfe693395a8cd42c29df99e4e7f5",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
+    }
   }
 }

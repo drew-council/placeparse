@@ -559,6 +559,49 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "calle_dao_bryant_park.json",
+      "name": "Calle Dao",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://www.calledao.com/contact/",
+          "matching_business_evidence": "Header/footer shows '38 W 39TH ST, NEW YORK, NY 10018 (646)476-5696' matching the saved business address and phone; form includes 'Choose Your Location' with option 'Bryant Park'.",
+          "fields": "Name - Required; Email - Required; Phone Number - Required; Choose Your Location - Required (Bryant Park); What are you getting in touch about? - Optional (General Inquiry / Press Inquiry); Your Message - Required; SEND (reCAPTCHA protected)",
+          "general_vs_restricted": "general",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Calle Dao\" email contact 38 W 39th St, New York, NY 10018, USA",
+          "provider": "DuckDuckGo (parent search-leads cache, results inspected)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.calledao.com/contact/",
+        "https://www.calledao.com/catering/",
+        "https://www.calledao.com/jobs/",
+        "https://www.calledao.com/ (via parent lead snippet, nav confirms Contact/Jobs/Press pages)"
+      ],
+      "errors": [],
+      "outcome": "general_contact_form",
+      "remaining_avenues": [
+        "Cybo directory listing (https://www.cybo.com/US-biz/calle-dao) advertises an 'Email' field; directory-sourced and typically gated/unverified, not inspected as primary ownership proof.",
+        "No mailto or published address found on contact, catering, or jobs pages (BentoBox site publishes forms only)."
+      ],
+      "effort_notes": "Contact/catering/jobs pages inspected with scoped DOM extraction for mailto and plaintext addresses; all empty. Form is a genuine general-inquiry form tied to the Bryant Park location.",
+      "worker_claimed_checked_at": "2026-10-05T07:57:33Z",
+      "batch_completed_at": "2026-10-05T07:58:26.466566+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.557144+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-23",
+      "artifact_sha256": "b7058820f3bdb439fd1fe8133aff0dae9b2ec68a7ad0bfa92f3a262c45bd5350",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Contact/catering/jobs pages inspected with scoped DOM extraction for mailto and plaintext addresses; all empty. Form is a genuine general-inquiry form tied to the Bryant Park location."
+    }
   }
 }

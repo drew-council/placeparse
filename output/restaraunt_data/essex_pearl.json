@@ -473,6 +473,14 @@
           "https://www.bizarchive.com/business/essex-pearl-347-899-4998"
         ],
         "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      },
+      "info@essexpearl.com": {
+        "urls": [
+          "https://www.essexpearl.com/"
+        ],
+        "reason": "Parent review pending; publication, exact branch attribution, currentness, and purpose are not yet all accepted.",
+        "role": "general/unspecified",
+        "checked_at": "2026-10-05T07:37:41.910239+00:00"
       }
     }
   },
@@ -554,6 +562,89 @@
         "\"nicolew@essexpearl.com\" Essex Pearl"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "essex_pearl.json",
+      "name": "Essex Pearl",
+      "emails": [
+        {
+          "email": "info@essexpearl.com",
+          "url": "https://www.essexpearl.com/",
+          "quote": "25 11TH AVENUE, PIER 57, NEW YORK, NY 10011 EVERYDAY: 11:30AM - 7PM E-MAIL: INFO@ESSEXPEARL.COM CALL US: 347.899.4998 FOLLOW US ON INSTAGRAM ©2026 ESSEX PEARL INC. | DESIGN: CORSE",
+          "source_type": "official_site_footer (verified via public Wayback Machine copy of the official site, https://web.archive.org/web/20260613021351/https://essexpearl.com/)",
+          "purpose": "general customer inquiry email published in the site footer ('E-MAIL:')",
+          "business_match": "Footer on the official essexpearl.com site lists the exact saved address 25 11th Avenue, Pier 57, New York, NY 10011 and the exact saved phone 347.899.4998 = (347) 899-4998; page is ©2026 Essex Pearl Inc.",
+          "identity_evidence": [
+            {
+              "url": "https://web.archive.org/web/20260613021351/https://essexpearl.com/",
+              "quote": "Essex Pearl is a Southeast Asian seafood station at Pier 57 ... 25 11TH AVENUE, PIER 57, NEW YORK, NY 10011 ... E-MAIL: INFO@ESSEXPEARL.COM CALL US: 347.899.4998"
+            },
+            {
+              "url": "https://duckduckgo.com/?q=%22Essex+Pearl%22+email+contact+25+11th+Ave%2C+New+York%2C+NY+10011%2C+USA&ia=web (parent leads snippet of the live site)",
+              "quote": "Essex Pearl | Creative Southeast Asian Kitchen — 25 11th Avenue, Pier 57, New York, NY 10011 EVERYDAY: 11:30AM - 7PM e-mail: info@EssexPearl.com call us: 347.899.4998"
+            }
+          ],
+          "confidence": 0.9,
+          "decision": "source_backed",
+          "notes": "Email is published on the restaurant's official website footer. The live site currently serves an expired TLS certificate (NET::ERR_CERT_DATE_INVALID on both www and apex, HTTP redirects to HTTPS), which explains the prior browser_load_errors; content was verified through the Wayback snapshot dated 2026-06-13 and the parent's fresh DDG snippet quoting the live footer. Address published as 'info@EssexPearl.com' (casing from publication).",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        },
+        {
+          "email": "nicolew@essexpearl.com",
+          "url": "https://www.bizarchive.com/business/essex-pearl-347-899-4998",
+          "quote": "Restaurant-specific address published by third-party directory bizarchive (carried over from prior sweep candidate_sources; not re-verified this run)",
+          "source_type": "third_party_directory",
+          "purpose": "unclear — directory-listed staff/owner address",
+          "business_match": "Directory entry matches saved phone (347) 899-4998 and address 25 11th Ave, New York, NY 10011.",
+          "identity_evidence": [
+            {
+              "url": "https://www.bizarchive.com/business/essex-pearl-347-899-4998",
+              "quote": "Essex Pearl | (347) 899-4998 | New York City — Essex Pearl is located at 25 11th Ave, New York, NY 10011"
+            }
+          ],
+          "confidence": 0.4,
+          "decision": "candidate",
+          "notes": "Prior-sweep candidate retained. Not re-inspected this run because a stronger general address (info@essexpearl.com) was confirmed on the official site. Person-named address; recipient role unconfirmed.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Essex Pearl\" email contact 25 11th Ave, New York, NY 10011, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent search-leads file)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.essexpearl.com/ (live — TLS cert expired, content not retrievable this run)",
+        "https://web.archive.org/web/20260613021351/https://essexpearl.com/",
+        "https://web.archive.org/web/2026/https://www.essexpearl.com/ (redirected to the 20260613021351 snapshot)"
+      ],
+      "errors": [
+        "https://www.essexpearl.com/ — Navigation failed: net::ERR_CERT_DATE_INVALID (Chrome privacy error)",
+        "http://essexpearl.com/ — Navigation failed: net::ERR_CERT_DATE_INVALID (HTTP redirects to HTTPS with the same expired certificate)"
+      ],
+      "outcome": "email_found_official_site",
+      "remaining_avenues": [
+        "None essential; optionally confirm on the live site once the certificate is fixed, or check essexpearl.com/lunch footer copy for the same address"
+      ],
+      "effort_notes": "3 browser command groups. Prior load errors were a site-side expired certificate, not a dead site. Wayback verification plus parent's fresh search snippet quoting the live footer gives strong attribution; exact address and phone match the saved business.",
+      "worker_claimed_checked_at": "2026-10-05T06:07:26Z",
+      "batch_completed_at": "2026-10-05T06:08:26.553340+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.494263+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-06",
+      "artifact_sha256": "e11e1d9f58095060f98f50f52d96bb4678ba34ea4e22b0b50257b8c722ad9ada",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
     }
   }
 }

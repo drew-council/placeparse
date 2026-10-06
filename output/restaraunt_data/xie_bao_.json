@@ -444,13 +444,45 @@
   "utc_offset": -240,
   "vicinity": "133-35 Roosevelt Ave, Flushing",
   "business_status_checked_at": "2026-10-03T20:06:26.487292+00:00",
-  "emails": [],
+  "emails": [
+    "hello@xiebao.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:50:25.650256+00:00",
-    "outcome": "no_website",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "hello@xiebao.com": [
+        "https://www.xiebaousa.com/about"
+      ]
+    },
     "pages": [],
-    "contact_forms": []
+    "contact_forms": [],
+    "role_overrides": {
+      "hello@xiebao.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "hello@xiebao.com": {
+        "evidence": [
+          {
+            "url": "https://www.xiebaousa.com/about",
+            "quote": "hello@xiebao.com\nInstagram\nTikTok",
+            "identity_evidence": [
+              {
+                "url": "https://www.xiebaousa.com/about",
+                "quote": "FLUSHING\n\nXie Bao — Flushing\n\n133-35 Roosevelt Avenue\n\nFlushing, NY 11354\n\nPhone: (929) 332-2747"
+              }
+            ],
+            "source_type": "matching_brand_website",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent twice directly confirmed advertised mailbox/mailto in Visit & Contact section of brand about page, expressly inviting phone/email/social and listing saved Flushing 133-35 Roosevelt Avenue. Brand-level recipient; live Flushing phone differs from cache. Confirm branch routing/ownership before sensitive disclosure.",
+            "notes": "Brand-level email, not a verified branch-specific recipient. The published Flushing phone differs from cached (917) 563-1011. Confirm branch routing and recipient before discussing medical information. Publication was directly re-inspected in an isolated headless browser; inbox delivery untested.",
+            "checked_at": "2026-10-05T08:21:32.550656+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Brand-level email, not a verified branch-specific recipient. The published Flushing phone differs from cached (917) 563-1011. Confirm branch routing and recipient before discussing medical information. Publication was directly re-inspected in an isolated headless browser; inbox delivery untested. Parent twice directly confirmed advertised mailbox/mailto in Visit & Contact section of brand about page, expressly inviting phone/email/social and listing saved Flushing 133-35 Roosevelt Avenue. Brand-level recipient; live Flushing phone differs from cache. Confirm branch routing/ownership before sensitive disclosure."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -467,6 +499,73 @@
     ],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "xie_bao_.json",
+      "name": "Xie Bao Flushing 蟹寶",
+      "emails": [
+        {
+          "email": "hello@xiebao.com",
+          "url": "https://www.xiebaousa.com/about",
+          "quote": "hello@xiebao.com\nInstagram\nTikTok",
+          "mailto_evidence": "hello@xiebao.com is published immediately below the Manhattan, Flushing and Edison location list.",
+          "source_type": "matching_brand_website",
+          "purpose": "general/unspecified",
+          "business_match": "The same page explicitly lists Xie Bao — Flushing at 133-35 Roosevelt Avenue, Flushing, NY 11354, matching the saved branch name and full street address.",
+          "identity_evidence": [
+            {
+              "url": "https://www.xiebaousa.com/about",
+              "quote": "FLUSHING\n\nXie Bao — Flushing\n\n133-35 Roosevelt Avenue\n\nFlushing, NY 11354\n\nPhone: (929) 332-2747"
+            }
+          ],
+          "notes": "Brand-level email, not a verified branch-specific recipient. The published Flushing phone differs from cached (917) 563-1011. Confirm branch routing and recipient before discussing medical information. Publication was directly re-inspected in an isolated headless browser; inbox delivery untested.",
+          "decision": "source_backed",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent twice directly confirmed advertised mailbox/mailto in Visit & Contact section of brand about page, expressly inviting phone/email/social and listing saved Flushing 133-35 Roosevelt Avenue. Brand-level recipient; live Flushing phone differs from cache. Confirm branch routing/ownership before sensitive disclosure."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Xie Bao\" 蟹寶 Flushing contact email",
+          "provider": "DuckDuckGo browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://xie-bao-flushing.wherevi.com/",
+        "https://www.postcard.inc/places/xie-bao-flushing-TOHhPeM3uvB",
+        "https://foodle.pro/restaurants/new-york/xie-bao-flushing",
+        "https://nooklyn.com/locations/-6GjCuofzsvLevxXoKkJ",
+        "https://duckduckgo.com/?q=%22Xie+Bao%22+%E8%9F%B9%E5%AF%B6+Flushing+contact+email&ia=web",
+        "https://www.datalane.com/contacts/restaurants/xie-bao-flushing"
+      ],
+      "errors": [
+        "DuckDuckGo full-JS search returned a bot challenge on this query; Bing had already returned degraded unrelated results for a different assigned restaurant, so provider cycling was stopped per contract.",
+        "datalane.com lead from parent is a paywalled lead-gen/data-broker page ('Request data to get started'), not a published contact; not pursued per contract's data-broker guardrail."
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Instagram/Facebook business bios behind the login wall may publish an email; account-free public viewing was blocked by a login redirect in this session.",
+        "The parent could retrieve a targeted search (e.g., site-restricted query for xiebäo ordering platforms like Fantuan/Expatese with contact info) outside this session if deemed worthwhile.",
+        "On-site visit/phone (+1 929-332-2747 per wherevi directory listing) to request an inquiry email."
+      ],
+      "effort_notes": "Checked the wherevi, postcard.inc, foodle.pro, and nooklyn pages from parent leads plus a direct DDG query; no published email on any source. No restaurant-owned website exists. Stopped within scope guardrails.",
+      "parent_supplement_sha256": "7c50485c8104dfd9d5b6ff18f46f6c1363b9d649fbe1207d14ac6a6b4fe34a85",
+      "worker_claimed_checked_at": "2026-10-05T07:42:24Z",
+      "batch_completed_at": "2026-10-05T07:45:41.668207+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.550656+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-21",
+      "artifact_sha256": "51ff24b7d9798402c1a227bf85e810a871341065602589e48523b43ab7ad0ad7",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "hello@xiebao.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

@@ -464,11 +464,21 @@
   "website": "https://nanxiangexpress.com/",
   "wheelchair_accessible_entrance": true,
   "business_status_checked_at": "2026-10-03T20:05:44.573373+00:00",
-  "emails": [],
+  "emails": [
+    "hello@nanxiangexpress.com",
+    "catering@nanxiangexpress.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:33.764340+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "hello@nanxiangexpress.com": [
+        "https://nanxiangexpress.com/catering/"
+      ],
+      "catering@nanxiangexpress.com": [
+        "https://nanxiangexpress.com/catering/"
+      ]
+    },
     "pages": [
       {
         "url": "https://nanxiangexpress.com/",
@@ -476,7 +486,59 @@
         "emails": []
       }
     ],
-    "contact_forms": []
+    "contact_forms": [],
+    "role_overrides": {
+      "hello@nanxiangexpress.com": "general/unspecified",
+      "catering@nanxiangexpress.com": "events/catering"
+    },
+    "publication_evidence": {
+      "hello@nanxiangexpress.com": {
+        "evidence": [
+          {
+            "url": "https://nanxiangexpress.com/catering/",
+            "quote": "Site footer (all pages): <a href=\"mailto:hello@nanxiangexpress.com\"><img src=\"/wp-content/themes/nanxiangexpressv2/asset/footer/mail_white.png\" title=\"email link\" alt=\"email icon\"></a>",
+            "identity_evidence": [
+              {
+                "url": "https://maps.google.com/?cid=6999154815032714971 (saved listing website field)",
+                "quote": "packet: website = https://nanxiangexpress.com/"
+              },
+              {
+                "url": "https://www.checkle.com/biz/nan-xiang-express-soup-dumplings-brooklyn",
+                "quote": "Nan Xiang Express brings you the same top-quality dumplings as Nan Xiang Xiao Long Bao, with its Michelin-recommended quality and authentic Chinese taste."
+              }
+            ],
+            "source_type": "official_restaurant_website_footer",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently verified literal public publication and source-specific purpose. nanxiangexpress.com is the website saved on this branch's Google listing (saved website field = https://nanxiangexpress.com/); the brand operates Nan Xiang Express branches including 167 Grand St, Williamsburg (third-party listings restaurantjump/wheree/checkle describe the Williamsburg branch as a Nan Xiang Express location of the Nan Xiang Xiao Long Bao brand). robots.txt of nanxiangexpress.com disallows only /admin/, /includes/, /config/, /logs/, /backup/, /.env, /wp-admin/, /wp-includes/ - the packet's robot_excluded root URL was not revisited; only robots-permitted subpages (/catering/, /location) were opened. Brand-level general address published on the official site footer; the saved Williamsburg branch has no branch-specific mailbox published. Parent may prefer this as the brand route for the Williamsburg branch or keep as promoted-with-caveat.",
+            "notes": "Brand-level general address published on the official site footer; the saved Williamsburg branch has no branch-specific mailbox published. Parent may prefer this as the brand route for the Williamsburg branch or keep as promoted-with-caveat.",
+            "checked_at": "2026-10-05T07:21:04.924909+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Brand-level general address published on the official site footer; the saved Williamsburg branch has no branch-specific mailbox published. Parent may prefer this as the brand route for the Williamsburg branch or keep as promoted-with-caveat. Parent independently verified literal public publication and source-specific purpose. nanxiangexpress.com is the website saved on this branch's Google listing (saved website field = https://nanxiangexpress.com/); the brand operates Nan Xiang Express branches including 167 Grand St, Williamsburg (third-party listings restaurantjump/wheree/checkle describe the Williamsburg branch as a Nan Xiang Express location of the Nan Xiang Xiao Long Bao brand). robots.txt of nanxiangexpress.com disallows only /admin/, /includes/, /config/, /logs/, /backup/, /.env, /wp-admin/, /wp-includes/ - the packet's robot_excluded root URL was not revisited; only robots-permitted subpages (/catering/, /location) were opened. Brand-level general address published on the official site footer; the saved Williamsburg branch has no branch-specific mailbox published. Parent may prefer this as the brand route for the Williamsburg branch or keep as promoted-with-caveat."
+      },
+      "catering@nanxiangexpress.com": {
+        "evidence": [
+          {
+            "url": "https://nanxiangexpress.com/catering/",
+            "quote": "Let us cater your next event Need help planning your order? Submit an inquiry below or send us an email catering@nanxiangexpress.com",
+            "identity_evidence": [
+              {
+                "url": "https://nanxiangexpress.com/catering/",
+                "quote": "Catering - Nan Xiang Express (page title); 'send us an email catering@nanxiangexpress.com'"
+              }
+            ],
+            "source_type": "official_restaurant_website_catering_page",
+            "purpose": "events/catering",
+            "parent_reason": "Parent independently verified literal public publication and source-specific purpose. Published on the official brand website (nanxiangexpress.com) that is the saved website of the Williamsburg branch; catering serves all Nan Xiang Express locations. Explicitly published literal address next to a catering inquiry form; restricted to catering, not general inquiries.",
+            "notes": "Explicitly published literal address next to a catering inquiry form; restricted to catering, not general inquiries.",
+            "checked_at": "2026-10-05T07:21:04.924909+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Explicitly published literal address next to a catering inquiry form; restricted to catering, not general inquiries. Parent independently verified literal public publication and source-specific purpose. Published on the official brand website (nanxiangexpress.com) that is the saved website of the Williamsburg branch; catering serves all Nan Xiang Express locations. Explicitly published literal address next to a catering inquiry form; restricted to catering, not general inquiries."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -549,6 +611,97 @@
         "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "nan_xiang_express.json",
+      "name": "Nan Xiang Express - Williamsburg, NY",
+      "emails": [
+        {
+          "email": "hello@nanxiangexpress.com",
+          "url": "https://nanxiangexpress.com/catering/",
+          "quote": "Site footer (all pages): <a href=\"mailto:hello@nanxiangexpress.com\"><img src=\"/wp-content/themes/nanxiangexpressv2/asset/footer/mail_white.png\" title=\"email link\" alt=\"email icon\"></a>",
+          "source_type": "official_restaurant_website_footer",
+          "purpose": "general customer inquiries (brand-wide email icon link in site footer)",
+          "business_match": "nanxiangexpress.com is the website saved on this branch's Google listing (saved website field = https://nanxiangexpress.com/); the brand operates Nan Xiang Express branches including 167 Grand St, Williamsburg (third-party listings restaurantjump/wheree/checkle describe the Williamsburg branch as a Nan Xiang Express location of the Nan Xiang Xiao Long Bao brand). robots.txt of nanxiangexpress.com disallows only /admin/, /includes/, /config/, /logs/, /backup/, /.env, /wp-admin/, /wp-includes/ - the packet's robot_excluded root URL was not revisited; only robots-permitted subpages (/catering/, /location) were opened.",
+          "identity_evidence": [
+            {
+              "url": "https://maps.google.com/?cid=6999154815032714971 (saved listing website field)",
+              "quote": "packet: website = https://nanxiangexpress.com/"
+            },
+            {
+              "url": "https://www.checkle.com/biz/nan-xiang-express-soup-dumplings-brooklyn",
+              "quote": "Nan Xiang Express brings you the same top-quality dumplings as Nan Xiang Xiao Long Bao, with its Michelin-recommended quality and authentic Chinese taste."
+            }
+          ],
+          "confidence": "medium-high",
+          "decision": "source_backed",
+          "notes": "Brand-level general address published on the official site footer; the saved Williamsburg branch has no branch-specific mailbox published. Parent may prefer this as the brand route for the Williamsburg branch or keep as promoted-with-caveat.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently verified literal public publication and source-specific purpose. nanxiangexpress.com is the website saved on this branch's Google listing (saved website field = https://nanxiangexpress.com/); the brand operates Nan Xiang Express branches including 167 Grand St, Williamsburg (third-party listings restaurantjump/wheree/checkle describe the Williamsburg branch as a Nan Xiang Express location of the Nan Xiang Xiao Long Bao brand). robots.txt of nanxiangexpress.com disallows only /admin/, /includes/, /config/, /logs/, /backup/, /.env, /wp-admin/, /wp-includes/ - the packet's robot_excluded root URL was not revisited; only robots-permitted subpages (/catering/, /location) were opened. Brand-level general address published on the official site footer; the saved Williamsburg branch has no branch-specific mailbox published. Parent may prefer this as the brand route for the Williamsburg branch or keep as promoted-with-caveat."
+          }
+        },
+        {
+          "email": "catering@nanxiangexpress.com",
+          "url": "https://nanxiangexpress.com/catering/",
+          "quote": "Let us cater your next event Need help planning your order? Submit an inquiry below or send us an email catering@nanxiangexpress.com",
+          "source_type": "official_restaurant_website_catering_page",
+          "purpose": "catering inquiries (restricted purpose)",
+          "business_match": "Published on the official brand website (nanxiangexpress.com) that is the saved website of the Williamsburg branch; catering serves all Nan Xiang Express locations.",
+          "identity_evidence": [
+            {
+              "url": "https://nanxiangexpress.com/catering/",
+              "quote": "Catering - Nan Xiang Express (page title); 'send us an email catering@nanxiangexpress.com'"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Explicitly published literal address next to a catering inquiry form; restricted to catering, not general inquiries.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "events/catering",
+            "reason": "Parent independently verified literal public publication and source-specific purpose. Published on the official brand website (nanxiangexpress.com) that is the saved website of the Williamsburg branch; catering serves all Nan Xiang Express locations. Explicitly published literal address next to a catering inquiry form; restricted to catering, not general inquiries."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "web.archive.org CDX for nanxiangexpress.com (to locate robots-permitted contact/catering paths after root was robot-excluded)",
+          "provider": "Wayback Machine CDX API via browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://nanxiangexpress.com/robots.txt",
+        "https://web.archive.org/cdx/search/cdx?url=nanxiangexpress.com*&output=text&limit=40&filter=statuscode:200&collapse=urlkey&fl=original,timestamp",
+        "https://nanxiangexpress.com/catering/",
+        "https://nanxiangexpress.com/location/"
+      ],
+      "errors": [
+        "https://web.archive.org/cdx/search/cdx?...&from=2024&to=2026 - 'Internet Archive: Temporarily Offline' on second CDX query (first query succeeded)",
+        "https://web.archive.org/web/20240117094257/https://nanxiangexpress.com/about/ - archived React page rendered only nav, no body content",
+        "https://nanxiangexpress.com/location/ - locations render lazily via JS and stayed empty; could not enumerate branch-specific pages",
+        "https://nanxiangexpress.com/locations/ - 404 (guessed path, corrected via observed nav link to /location)"
+      ],
+      "outcome": "email_found",
+      "remaining_avenues": [
+        "Live branch-specific mailbox for Williamsburg, if one exists, would be on the lazily-rendered /location/ pages"
+      ],
+      "effort_notes": "Root of nanxiangexpress.com was robot_excluded in the packet; verified robots.txt permits non-listed paths and navigated via observed nav links only (About/Catering/Locations). Found the brand-general footer email and an explicitly published catering address. ~6 browser command groups.",
+      "worker_claimed_checked_at": "2026-10-05T06:58:00Z",
+      "batch_completed_at": "2026-10-05T06:54:00.676755+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.521892+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-13",
+      "artifact_sha256": "3287de346653c8e79fa618db4f0511c88e5e175262631811cb56a758280447df",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "hello@nanxiangexpress.com",
+        "catering@nanxiangexpress.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

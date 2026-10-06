@@ -523,6 +523,59 @@
     "searches": [],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "akino.json",
+      "name": "Akino",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://www.akinonyc.com/",
+          "business_match": "Official site (saved website akinonewyork.com redirects to akinonyc.com). Page footer shows 'Elmhurst 8280 Broadway Elmhurst 11373, Tel: 718-779-8280' matching the saved address/phone, plus a separate Flushing branch.",
+          "fields": [
+            "First Name",
+            "Last Name",
+            "Email",
+            "Write a message (textarea)",
+            "Submit"
+          ],
+          "purpose": "general",
+          "general_vs_restricted": "General 'CONTACT US - DROP US A LINE AND WE'LL GET BACK TO YOU' free-text form embedded on the homepage (Chowbus-powered site).",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Akino\" Elmhurst sushi email \"akinonyc\"",
+          "provider": "DuckDuckGo (full JS page, own isolated session)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.akinonewyork.com/ (redirects to https://www.akinonyc.com/)",
+        "https://www.akinonyc.com/",
+        "https://duckduckgo.com/?q=%22Akino%22+Elmhurst+sushi+email+%22akinonyc%22&ia=web",
+        "https://restaurantjump.com/akino-11373/ (parent search lead)"
+      ],
+      "errors": [
+        "DuckDuckGo presented a human-verification challenge; not bypassed.",
+        "restaurantjump.com (directory lead from parent search) served a Cloudflare 'Just a moment...' challenge; not bypassed."
+      ],
+      "outcome": "general_contact_form",
+      "remaining_avenues": [
+        "Directory pages (restaurantjump, magicpin, zmenu) blocked by challenges may later expose a candidate email.",
+        "Chowbus ordering portal (pos.chowbus.com stores 14875/14535/22099) could have store support contact but is platform-level, not restaurant staff."
+      ],
+      "effort_notes": "Verified domain redirect (akinonewyork.com -> akinonyc.com), swept the full homepage DOM and link set (only Chowbus ordering links, no contact page), attempted a distinct live search and a parent-lead directory page; both blocked by anti-bot challenges. Form-only outcome stands with the redirect and form-field evidence recorded.",
+      "worker_claimed_checked_at": "2026-10-05T07:52:00Z",
+      "batch_completed_at": "2026-10-05T07:52:36.451106+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.554821+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-22",
+      "artifact_sha256": "a467a93aa7340f94c5b0f762b59bc5fc004bc4f3bcb81cd7a1f2c97ecb23f0d4",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Verified domain redirect (akinonewyork.com -> akinonyc.com), swept the full homepage DOM and link set (only Chowbus ordering links, no contact page), attempted a distinct live search and a parent-lead directory page; both blocked by anti-bot challenges. Form-only outcome stands with the redirect and form-field evidence recorded."
+    }
   }
 }

@@ -661,6 +661,49 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "marthas_country_bakery.json",
+      "name": "Martha's Country Bakery",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Martha's Country Bakery\" Astoria email contact \"Ditmars\"",
+          "provider": "Bing (degraded, unrelated Martha Stewart results; provider cycling stopped per contract)"
+        },
+        {
+          "query": "Parent-provided DuckDuckGo lead: \"Martha's Country Bakery\" email contact 36-21 Ditmars Blvd, Astoria, NY 11105, USA",
+          "provider": "DuckDuckGo (parent-authorized tab, via parent-search-leads)"
+        }
+      ],
+      "inspected_urls": [
+        "https://marthascountrybakery.com/",
+        "https://marthascountrybakery.com/locations-updated/",
+        "https://www.facebook.com/marthasny/about/",
+        "https://www.allbiz.com/business/marthas-country-bakery_3e-718-545-9737"
+      ],
+      "errors": [
+        "allbiz.com returned Cloudflare 'Attention Required!' block (not bypassed)",
+        "Bing returned unrelated results ignoring the quoted business name (degraded search)"
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "Official site has no contact/about page beyond homepage anchors and a careers section directing applicants to walk in; no email route observed",
+        "Third-party directory pages not yet inspected: checkle.com/biz/marthas-country-bakery-astoria, chamberofcommerce.com entry",
+        "Contact via phone (718) 545-9737 remains the only verified channel"
+      ],
+      "effort_notes": "Inspected official homepage and locations/careers page (email-free), public Facebook About (Austin St branch contact info only, no email), one directory blocked. ~5 browser command groups.",
+      "worker_claimed_checked_at": "2026-10-05T06:40:15Z",
+      "batch_completed_at": "2026-10-05T06:41:32.322541+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.517389+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-12",
+      "artifact_sha256": "9d57fba9ea6f3190cf501ca8668997d254d6537a7936507fe739f58a8d4e1796",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Inspected official homepage and locations/careers page (email-free), public Facebook About (Austin St branch contact info only, no email), one directory blocked. ~5 browser command groups."
+    }
   }
 }

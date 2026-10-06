@@ -144,6 +144,53 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "librae_bakery.json",
+      "name": "Librae Bakery",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://www.libraebakery.com/contact/",
+          "business_match": "Official site libraebakery.com for Librae Bakery; site footer and location page confirm 35 Cooper Sq, New York, NY 10003 (matches saved Google address).",
+          "fields": "Name (required, text), Email (required, email), Phone Number (required, tel), 'What are you getting in touch about?' (optional select with options 'General Inquiry' and 'Press Inquiry'), Your Message (required, textarea)",
+          "general_or_restricted": "General (explicit 'General Inquiry' option; intro text: 'Send us a message and we'll get back to you as soon as possible.')",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"libraebakery.com\" OR \"Librae Bakery\" email contact",
+          "provider": "DuckDuckGo full-JS page"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.libraebakery.com/contact/",
+        "https://www.libraebakery.com/",
+        "https://www.libraebakery.com/about/",
+        "https://www.libraebakery.com/press/",
+        "https://www.libraebakery.com/jobs/",
+        "https://duckduckgo.com/?q=%22libraebakery.com%22+OR+%22Librae+Bakery%22+email+contact&ia=web"
+      ],
+      "errors": [
+        "DuckDuckGo full-JS search returned a bot challenge ('Please complete the following challenge to confirm this search was made by a human') instead of results; did not bypass and did not cycle further providers after the second frontend experience in this batch."
+      ],
+      "outcome": "general_contact_form",
+      "remaining_avenues": [
+        "BentoBox-hosted site publishes no mailto or literal email anywhere in HTML of contact/home/about/press/jobs; a parent-authorized targeted search (e.g. quoted plausible addresses or press coverage quoting a press contact email) could still surface one.",
+        "Instagram/Facebook bios were not inspected because social login walls were encountered elsewhere in this batch."
+      ],
+      "effort_notes": "Inspected contact page, homepage nav/footer, about, press, jobs pages with scoped email/mailto extraction (zero hits); confirmed general inquiry form fields; attempted one live search (challenged). Parent search-leads inspected; official-site results only, no email-bearing source.",
+      "worker_claimed_checked_at": "2026-10-05T08:06:54Z",
+      "batch_completed_at": "2026-10-05T08:07:37.471630+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.563479+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-25",
+      "artifact_sha256": "792c5dda39f67d31a1f49c69ad2da90acf618feb5048a05abd438dec33fa3c92",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Inspected contact page, homepage nav/footer, about, press, jobs pages with scoped email/mailto extraction (zero hits); confirmed general inquiry form fields; attempted one live search (challenged). Parent search-leads inspected; official-site results only, no email-bearing source."
+    }
   }
 }

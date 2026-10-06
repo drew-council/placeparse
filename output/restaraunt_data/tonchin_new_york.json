@@ -505,7 +505,17 @@
       "https://www.tonchinus.com/contact-us"
     ],
     "browser_checked_at": "2026-10-03T22:11:53.721236+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "candidate_sources": {
+      "info@foodexny.com": {
+        "urls": [
+          "https://www.tonchinus.com/contact-us"
+        ],
+        "reason": "Parent verified exact Restaurant.email JSON-LD paired with saved address/phone on official page, but no visible advertised email/mailto and separate operator domain did not load. Relevant public machine-readable lead preserved; confirm operator relationship/current general routing before direct outreach.",
+        "role": "structured-data contact",
+        "checked_at": "2026-10-05T08:21:32.569036+00:00"
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [
@@ -556,6 +566,72 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "tonchin_new_york.json",
+      "name": "TONCHIN NEW YORK",
+      "emails": [
+        {
+          "email": "info@foodexny.com",
+          "url": "https://www.tonchinus.com/contact-us",
+          "quote": "JSON-LD on the page: { \"@context\" : \"http://schema.org\", \"@type\" : \"Restaurant\", \"name\" : \"TONCHIN\", \"telephone\" : \"(646) 692-9912\", \"email\" : \"info@foodexny.com\", \"address\" : { \"@type\" : \"PostalAddress\", \"streetAddress\" : \"13 w 36th st New york ny 10018\", \"addressLocality\" : \"Manhattan, New York\" } }",
+          "source_type": "official_website",
+          "purpose": "general restaurant contact email published by the restaurant itself in its structured data on the official Contact Us page (contact form topic select includes 'General Inquiries/Feedback')",
+          "business_match": "The JSON-LD on the page pairs the email with 'telephone': '(646) 692-9912' and 'streetAddress': '13 w 36th st New york ny 10018' — both exactly match the saved TONCHIN NEW YORK phone and address.",
+          "identity_evidence": [
+            {
+              "url": "https://www.tonchinus.com/contact-us",
+              "quote": "Contact us ... Location: New York | Brooklyn | Los Angeles | Mexico City ... How can we help? General Inquiries/Feedback | Reservations & Private Events | Press/Media | Franchise/Business Opportunities | Partnerships/Collaborations"
+            }
+          ],
+          "confidence": "medium-high",
+          "decision": "source_backed",
+          "notes": "Published in the restaurant's own schema.org Restaurant markup with exact matching phone and street address, so it is the restaurant's published contact email on the brand's US site. Uncertainty: the domain foodexny.com suggests a parent/operator-group mailbox (brand-level rather than branch-specific), and foodexny.com itself did not load during this session (connection timeout), so the operator relationship could not be independently confirmed. No mailto link — the address appears only in JSON-LD.",
+          "parent_decision": {
+            "decision": "withheld",
+            "role": "structured-data contact",
+            "reason": "Parent verified exact Restaurant.email JSON-LD paired with saved address/phone on official page, but no visible advertised email/mailto and separate operator domain did not load. Relevant public machine-readable lead preserved; confirm operator relationship/current general routing before direct outreach."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://www.tonchinus.com/contact-us",
+          "matching_business_evidence": "Official TONCHIN US site Contact Us page; JSON-LD address '13 w 36th st New york ny 10018' and phone '(646) 692-9912' match the saved business.",
+          "visible_fields": "NAME, EMAIL ADDRESS, Location (New York/Brooklyn/Los Angeles/Mexico City), 'How can we help?' topic select (General Inquiries/Feedback, Reservations & Private Events, Press/Media, Franchise/Business Opportunities, Partnerships/Collaborations), message field (8 inputs)",
+          "general_vs_restricted": "general (includes General Inquiries/Feedback); NY location selectable",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"TONCHIN NEW YORK\" email contact 13 W 36th St., New York, NY 10018, USA",
+          "provider": "DuckDuckGo (parent-authorized tab, via parent-search-leads file)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.tonchinus.com/contact-us",
+        "https://foodexny.com"
+      ],
+      "errors": [
+        "https://foodexny.com navigation timed out twice (CDP Page.navigate timeout at 40s and 60s); operator-group site could not be inspected."
+      ],
+      "outcome": "published_email_found",
+      "remaining_avenues": [
+        "Retry foodexny.com later to document the operator relationship and distinguish brand-level vs branch-specific mailbox.",
+        "Check TONCHIN Japan parent (Tonchin group) contact routes for a NY-branch-specific address."
+      ],
+      "effort_notes": "Contact page DOM + embedded JSON-LD swept; email found in the restaurant's own structured data with exact identity match. Attempted corroboration at foodexny.com but site unreachable. ~3 command groups used.",
+      "worker_claimed_checked_at": "2026-10-05T08:13:32Z",
+      "batch_completed_at": "2026-10-05T08:14:34.636570+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.569036+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-26",
+      "artifact_sha256": "7fc18ab250a6f5d4bf02cbd351386f52ae1f7219124f5bee5f9bbca03d45e79c",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
+    }
   }
 }

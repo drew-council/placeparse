@@ -516,6 +516,54 @@
         "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "pho__poke_house.json",
+      "name": "Pho & Poke House",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"phopokehouse.com\" OR \"Pho & Poke House\" Durham email",
+          "provider": "Bing browser (isolated session)",
+          "note": "Degraded unrelated results (Xfinity ISP pages); second degraded frontend, stopped cycling providers"
+        },
+        {
+          "query": "\"Pho & Poke House\" Durham facebook.com email about",
+          "provider": "parent-retrieved targeted search (email-depth-15-targeted-searches.json)",
+          "note": "Only yield: threebestrated.com/vietnamese-restaurants-in-durham-nc — inspected directly"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.phopokehouse.com/",
+        "https://www.ezcater.com/catering/pvt/pho-and-poke-house-3?fcv=1 (Cloudflare challenge)",
+        "https://usarestaurants.info/explore/united-states/north-carolina/durham-county/durham/pho-poke-house-919-382-0805.htm",
+        "https://www.discoverdurham.com/directory/pho-poke-house/",
+        "https://threebestrated.com/vietnamese-restaurants-in-durham-nc"
+      ],
+      "errors": [
+        "ezcater.com behind Cloudflare challenge",
+        "Bing degraded to unrelated results; DDG already CAPTCHA-challenged in this session, so no further provider cycling",
+        "wheree.com previously browser-challenged (prior packet), not revisited"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Facebook Page About for Pho & Poke House (handle unknown without search; FB profile pages render login wall in this session)",
+        "ezcater private catering page may expose a contact route when not challenged",
+        "Google Maps public business profile detail cards (Maps shows no email field historically)"
+      ],
+      "effort_notes": "Official site is a single-page Squarespace: complete link graph contains only tel: anchor, section anchors, and the ezcater catering link — zero mailto, zero contact/about/privacy pages. Directories (usarestaurants, discoverdurham) list only address 2816 Erwin Rd #207 + (919) 382-0805 with no email. threebestrated page inspected in full context: the only published email on it, bowlofphonc@gmail.com, is attributed in the page itself to a DIFFERENT Durham business — Contact block 'bowlofphonc@gmail.com / bowlofphonc.com / (984) 219-1010' under the Bowl of Pho listing — explicitly NOT Pho & Poke House; withheld/rejected. Not found in checked sources.",
+      "prior_context": "bizarchive and chamberofcommerce forms previously rejected as directory forms — consistent with this sweep.",
+      "worker_claimed_checked_at": "2026-10-05T06:58:20Z",
+      "batch_completed_at": "2026-10-05T06:59:29.442618+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.530212+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-15",
+      "artifact_sha256": "2823dc4cb0abec228d7f3debd15e3c3f6fcee75bf12c734f76f78b7da179ea94",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Official site is a single-page Squarespace: complete link graph contains only tel: anchor, section anchors, and the ezcater catering link — zero mailto, zero contact/about/privacy pages. Directories (usarestaurants, discoverdurham) list only address 2816 Erwin Rd #207 + (919) 382-0805 with no email. threebestrated page inspected in full context: the only published email on it, bowlofphonc@gmail.com, is attributed in the page itself to a DIFFERENT Durham business — Contact block 'bowlofphonc@gmail.com / bowlofphonc.com / (984) 219-1010' under the Bowl of Pho listing — explicitly NOT Pho & Poke House; withheld/rejected. Not found in checked sources."
+    }
   }
 }

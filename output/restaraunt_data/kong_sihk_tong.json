@@ -564,6 +564,73 @@
         "\"kstchinatown88@gmail.com\" Kong Sihk Tong"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "kong_sihk_tong.json",
+      "name": "Kong Sihk Tong",
+      "emails": [
+        {
+          "email": "kstchinatown88@gmail.com",
+          "url": "https://uspto.report/TM/88832155/APP20200316081406/",
+          "quote": "Primary applicant/correspondence mailbox in a 2020 trademark application matching 65 Bayard Street (per prior packet record; page re-open not possible this run, see errors).",
+          "source_type": "legal/trademark registration record (third-party mirror of USPTO data)",
+          "purpose": "applicant correspondence mailbox in the 2020 trademark filing for the business at 65 Bayard St; plausibly a business-purpose address but not a published customer-inquiry email",
+          "business_match": "Trademark application (serial 88832155) corresponds to 65 Bayard Street, New York, NY 10013 per prior packet; official site confirms 65 Bayard St as Address 1.",
+          "identity_evidence": [
+            {
+              "url": "https://kongsihktong.com/contact",
+              "quote": "Address 1: 65 Bayard St, New York, NY 10013 Phone: +1 646-850-6140 Address 2: 42-35 Main St #1A, Queens, NY 11355 Phone: +1 929-275-3730"
+            }
+          ],
+          "confidence": "low",
+          "decision": "candidate",
+          "notes": "Carried from prior packet as a candidate; not promoted previously because it is a legal/registration mailbox, not a verified customer contact. Re-verification attempted this run: uspto.report and trademarks.justia.com both served Cloudflare 'Just a moment...' challenges; official TSDR statusview rendered empty and a guessed TSDR JSON endpoint 404'd. No new publication evidence found; do not promote without further verification.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://kongsihktong.com/contact",
+          "business_match": "Official restaurant domain kongsihktong.com (saved website); page shows 'Contact Kong Sihk Tong' and the saved Address 1: 65 Bayard St, New York, NY 10013, Phone: +1 646-850-6140 (plus Queens Address 2: 42-35 Main St #1A, +1 929-275-3730).",
+          "visible_fields": "Contact Form 7 form: text 'your-name', tel 'tel-573', date 'date-688', number 'number-777', textarea 'your-message' (free-text message field), submit button; hidden CF7 fields (_wpcf7).",
+          "purpose": "general customer inquiry form on the official site (get in touch / feedback wording)",
+          "submission_tested": false,
+          "notes": "Prior packet rejected this form generically as 'not a verified restaurant inquiry channel', but the current page is a real Contact Form 7 general-inquiry form on the saved official domain with saved address/phone present; recording as form fallback for parent review. Note: the only email in site source is excluded placeholder freewebsitecopyright@gmail.com, so the form's delivery target is unverified."
+        }
+      ],
+      "queries": [],
+      "inspected_urls": [
+        "https://kongsihktong.com/contact",
+        "https://uspto.report/TM/88832155/APP20200316081406/",
+        "https://trademarks.justia.com/888/32/88832155.html",
+        "https://tsdr.uspto.gov/statusview/rn88832155",
+        "https://tsdr.uspto.gov/ts/cd/casestatus/sn88832155/info.json"
+      ],
+      "errors": [
+        "uspto.report: Cloudflare 'Just a moment...' challenge; not bypassed.",
+        "trademarks.justia.com: Cloudflare 'Just a moment...' challenge; not bypassed.",
+        "tsdr.uspto.gov/statusview/rn88832155: rendered empty page (JS app); guessed /ts/cd/casestatus/sn88832155/info.json endpoint returned 404."
+      ],
+      "outcome": "no_general_email_found_candidate_and_form_only",
+      "remaining_avenues": [
+        "Official TSDR record for serial 88832155 (could confirm applicant correspondence email attribution) - blocked by challenges this run.",
+        "Findglocal mirror of the KST Facebook page or the Facebook page itself may publish an email; not attempted after search frontends degraded.",
+        " Queens location (42-35 Main St) contacts may share the same mailbox."
+      ],
+      "effort_notes": "Re-inspected official contact page live (form fields and emails extracted); attempted three routes to re-verify the USPTO trademark attribution, all challenge-blocked. Stopped within the command-group budget.",
+      "worker_claimed_checked_at": "2026-10-05T06:38:59Z",
+      "batch_completed_at": "2026-10-05T06:40:05.926079+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.510398+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-10",
+      "artifact_sha256": "1f7345e076c0c9bcd51b81f469a73373564f9634df130ec08785025944ebe3fb",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
     }
   }
 }

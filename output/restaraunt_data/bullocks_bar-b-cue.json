@@ -546,6 +546,73 @@
         "\"bullocksbbq@gmail.com\" Bullock's Bar-B-Cue"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "bullocks_bar-b-cue.json",
+      "name": "Bullock's Bar-B-Cue",
+      "emails": [
+        {
+          "email": "bullocksbbq@gmail.com",
+          "url": "https://www.allbiz.com/business/bullocks-bar-b-cue-919-383-3211",
+          "quote": "Address published in the allbiz directory listing for Bullock's Bar-B-Cue, (919) 383-3211, Durham NC (exact quote not re-capturable this run; see errors).",
+          "source_type": "third_party_directory",
+          "purpose": "business/general contact as published by directory listing",
+          "business_match": "Listing title 'Bullock's Bar-B-Cue | (919) 383-3211 | Durham, North Carolina' matches the saved business name and phone exactly.",
+          "identity_evidence": [
+            {
+              "url": "https://www.allbiz.com/business/bullocks-bar-b-cue-919-383-3211",
+              "quote": "Bullock's Bar-B-Cue | (919) 383-3211 | Durham, North Carolina"
+            },
+            {
+              "url": "https://www.bullocks-bbq.com/map.html",
+              "quote": "3330 Quebec Dr. Durham, NC 27705 Tuesday - Saturday 11:30am - 8:00pm"
+            }
+          ],
+          "confidence": "low",
+          "decision": "candidate",
+          "notes": "Carried forward from prior sweep as an unverified lead. Re-verification this run failed: allbiz.com served a Cloudflare block ('Sorry, you have been blocked...'), so the literal on-page quote could not be re-captured. Official site bullocks-bbq.com (homepage HTML, catering.html, map.html) publishes NO email — catering instructions say only 'Give us a call'. gmail.com address on a directory listing could be stale or scrape-derived; not source_backed.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Bullock's Bar-B-Cue\" Durham, NC 27705 contact email (carried from prior sweep; new sweep used official-site pages and direct directory re-check)",
+          "provider": "DuckDuckGo browser (prior)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.bullocks-bbq.com/",
+        "https://www.bullocks-bbq.com/catering.html",
+        "https://www.bullocks-bbq.com/map.html",
+        "https://www.allbiz.com/business/bullocks-bar-b-cue-919-383-3211",
+        "https://www.yellowpages.com/search?search_terms=Bullock%27s+Bar-B-Cue&geo_location_terms=Durham%2C+NC"
+      ],
+      "errors": [
+        "https://www.allbiz.com/business/bullocks-bar-b-cue-919-383-3211 Cloudflare block ('Sorry, you have been blocked') — could not re-verify the bullocksbbq@gmail.com quote.",
+        "https://www.yellowpages.com/search?... Cloudflare block ('Attention Required!').",
+        "Search engines not retried after DDG/Google challenges earlier in the batch (per contract, stop cycling after two challenged frontends)."
+      ],
+      "outcome": "unverified_email_leads_only",
+      "remaining_avenues": [
+        "Directory snapshot/archived copies of the allbiz listing to re-capture the exact bullocksbbq@gmail.com publication context.",
+        "BBB, MerchantCircle, or Durham-venue directories accessible outside Cloudflare.",
+        "Facebook page for Bullock's if a verified handle surfaces in a working search provider."
+      ],
+      "effort_notes": "Crawled all four linked pages of the official site (menu link pages share no email per homepage/catering/map HTML scans — zero mailto or @ matches). Catering page directs callers by phone only. The single candidate email remains directory-sourced and unverified; labeled candidate.",
+      "worker_claimed_checked_at": "2026-10-05T05:43:00Z",
+      "batch_completed_at": "2026-10-05T05:44:15.394399+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.480175+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-02",
+      "artifact_sha256": "5cca1b3cca7c924d6b0c87999bf632f51e4cae5dafa3120425a163980372cd6f",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
     }
   }
 }

@@ -438,11 +438,17 @@
   "vicinity": "137-06 Northern Blvd, Flushing",
   "website": "https://www.instagram.com/sweetcakenewyork/",
   "business_status_checked_at": "2026-10-03T20:06:12.059090+00:00",
-  "emails": [],
+  "emails": [
+    "sweetmomentcakeinc@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:50:01.133434+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "sweetmomentcakeinc@gmail.com": [
+        "https://www.facebook.com/SweetCakeNY/about/"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.instagram.com/sweetcakenewyork/",
@@ -451,12 +457,50 @@
       }
     ],
     "contact_forms": [],
-    "candidate_sources": {
+    "candidate_sources": {},
+    "candidate_resolution_history": [
+      {
+        "email": "sweetmomentcakeinc@gmail.com",
+        "original_candidate": {
+          "urls": [
+            "https://www.chamberofcommerce.com/business-directory/new-york/flushing/dessert-shop/2023016365-sweet-cake"
+          ],
+          "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+        },
+        "resolved_at": "2026-10-05T07:37:41.955382+00:00",
+        "decision": "primary_publication_verified",
+        "primary_source": "https://www.facebook.com/SweetCakeNY/about/",
+        "reason": "Parent independently re-rendered public business Contact info: exact mailbox beside saved 137-06 Northern Blvd and (929) 329-0666. Primary evidence resolves prior third-party candidate, preserving history. Listed website redirects to spam and is not used as authority."
+      }
+    ],
+    "role_overrides": {
+      "sweetmomentcakeinc@gmail.com": "general/unspecified"
+    },
+    "publication_evidence": {
       "sweetmomentcakeinc@gmail.com": {
-        "urls": [
-          "https://www.chamberofcommerce.com/business-directory/new-york/flushing/dessert-shop/2023016365-sweet-cake"
+        "evidence": [
+          {
+            "url": "https://www.facebook.com/SweetCakeNY/about/",
+            "quote": "Sweet Cake NY ... Contact info 137-06 Northern Blvd, 11354 Address Flushing, NY Service area (929) 329-0666 Mobile sweetmomentcakeinc@gmail.com Email Websites and social links https://dessertsflushing.com/ Website",
+            "identity_evidence": [
+              {
+                "url": "https://www.facebook.com/SweetCakeNY/about/",
+                "quote": "Sweet Cake NY ... Categories Dessert Shop Contact info 137-06 Northern Blvd, 11354 Address Flushing, NY Service area (929) 329-0666 Mobile sweetmomentcakeinc@gmail.com Email"
+              },
+              {
+                "url": "https://www.chamberofcommerce.com/business-directory/new-york/flushing/dessert-shop/2023016365-sweet-cake",
+                "quote": "Sweet Cake located at 137-06 Northern Blvd, Flushing, NY 11354 - reviews, ratings, hours, phone number (prior packet candidate source)"
+              }
+            ],
+            "source_type": "official_social_profile_contact_info",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently re-rendered public business Contact info: exact mailbox beside saved 137-06 Northern Blvd and (929) 329-0666. Primary evidence resolves prior third-party candidate, preserving history. Listed website redirects to spam and is not used as authority.",
+            "notes": "Promotes the prior chamberofcommerce candidate: now verified as published on the restaurant's own Facebook contact-info section with matching address/phone. NY DOS record (opengovny.com/corporation/6590821) shows the operating entity is Sweet Moment Cake Inc., consistent with the address owner. The Facebook-listed website dessertsflushing.com currently redirects to an unrelated spam/slot site and should not be trusted.",
+            "checked_at": "2026-10-05T07:37:41.955382+00:00",
+            "delivery_tested": false
+          }
         ],
-        "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+        "note": "Promotes the prior chamberofcommerce candidate: now verified as published on the restaurant's own Facebook contact-info section with matching address/phone. NY DOS record (opengovny.com/corporation/6590821) shows the operating entity is Sweet Moment Cake Inc., consistent with the address owner. The Facebook-listed website dessertsflushing.com currently redirects to an unrelated spam/slot site and should not be trusted. Parent independently re-rendered public business Contact info: exact mailbox beside saved 137-06 Northern Blvd and (929) 329-0666. Primary evidence resolves prior third-party candidate, preserving history. Listed website redirects to spam and is not used as authority."
       }
     }
   },
@@ -533,6 +577,61 @@
         "\"sweetmomentcakeinc@gmail.com\" Sweet Cake"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "sweet_cake.json",
+      "name": "Sweet Cake",
+      "emails": [
+        {
+          "email": "sweetmomentcakeinc@gmail.com",
+          "url": "https://www.facebook.com/SweetCakeNY/about/",
+          "quote": "Sweet Cake NY ... Contact info 137-06 Northern Blvd, 11354 Address Flushing, NY Service area (929) 329-0666 Mobile sweetmomentcakeinc@gmail.com Email Websites and social links https://dessertsflushing.com/ Website",
+          "source_type": "official_social_profile_contact_info",
+          "purpose": "Contact and basic info email on the business's own Facebook page; general customer contact",
+          "business_match": "Facebook page 'Sweet Cake NY' lists exactly the saved address (137-06 Northern Blvd, 11354 Flushing) and saved phone (929) 329-0666. Also corroborated by the Chamber of Commerce directory listing at the same address/phone, which is why the prior candidate address matches.",
+          "identity_evidence": [
+            {
+              "url": "https://www.facebook.com/SweetCakeNY/about/",
+              "quote": "Sweet Cake NY ... Categories Dessert Shop Contact info 137-06 Northern Blvd, 11354 Address Flushing, NY Service area (929) 329-0666 Mobile sweetmomentcakeinc@gmail.com Email"
+            },
+            {
+              "url": "https://www.chamberofcommerce.com/business-directory/new-york/flushing/dessert-shop/2023016365-sweet-cake",
+              "quote": "Sweet Cake located at 137-06 Northern Blvd, Flushing, NY 11354 - reviews, ratings, hours, phone number (prior packet candidate source)"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Promotes the prior chamberofcommerce candidate: now verified as published on the restaurant's own Facebook contact-info section with matching address/phone. NY DOS record (opengovny.com/corporation/6590821) shows the operating entity is Sweet Moment Cake Inc., consistent with the address owner. The Facebook-listed website dessertsflushing.com currently redirects to an unrelated spam/slot site and should not be trusted.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently re-rendered public business Contact info: exact mailbox beside saved 137-06 Northern Blvd and (929) 329-0666. Primary evidence resolves prior third-party candidate, preserving history. Listed website redirects to spam and is not used as authority."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://www.facebook.com/SweetCakeNewYork/about/ (different business: 215 1st Ave Manhattan, (646) 559-0999 - rejected)",
+        "https://www.facebook.com/SweetCakeNY/about/",
+        "https://dessertsflushing.com/ (hijacked/expired domain redirecting to unrelated spam site)"
+      ],
+      "errors": [],
+      "outcome": "source_backed_email_found",
+      "remaining_avenues": [],
+      "effort_notes": "Facebook about-page inspection directly confirmed the prior third-party candidate at the official source; do not disclose allergy information until recipient confirmed.",
+      "worker_claimed_checked_at": "2026-10-05T07:12:42Z",
+      "batch_completed_at": "2026-10-05T07:17:51.087573+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.540977+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-18",
+      "artifact_sha256": "16a28371751602f2c7169c43d6552d89c7da323e404aaba1d36e965715a710c9",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "sweetmomentcakeinc@gmail.com"
+      ],
+      "no_general_email_reason": ""
     }
   }
 }

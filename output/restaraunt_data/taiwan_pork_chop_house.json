@@ -536,6 +536,50 @@
     "searches": [],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "taiwan_pork_chop_house.json",
+      "name": "Taiwan Pork Chop House",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Taiwan Pork Chop House\" email contact 3 Doyers St, New York, NY 10013, USA (parent search-leads cache, results inspected)",
+          "provider": "parent-search-leads (DuckDuckGo in parent-authorized tab)"
+        },
+        {
+          "query": "taiwanporkchophouse.com direct site inspection",
+          "provider": "direct browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://taiwanporkchophouse.com/",
+        "https://www.taiwanporkchop.com/contact",
+        "https://www.us-info.com/en/usa/taiwan_pork_chop_house/new_york_city/USNY100229977-2127917007/businessdetails.aspx",
+        "https://www.allbiz.com/business/taiwan-pork-chop-house-212-791-7007",
+        "https://taiwanporkchophouse.com/#contact"
+      ],
+      "errors": [
+        "us-info.com businessdetails page rendered empty content (no usable email context)",
+        "allbiz.com page blocked by Cloudflare 'Attention Required!' challenge; not bypassed"
+      ],
+      "outcome": "no_email_found",
+      "remaining_avenues": [
+        "us-info.com/local.us-info.com list a 'Send an email' action for this business; the page did not render in this session (empty body) so the underlying address could not be extracted. Worth a parent-side recheck of https://www.us-info.com/en/usa/taiwan_pork_chop_house/new_york_city/USNY100229977-2127917007/businessdetails.aspx",
+        "The ordering-site /contact page says 'please contact us using the information below' but publishes only phone (212) 791-7007 and Yelp/TripAdvisor links; the technical-support form (reportbug) is platform-support-only",
+        "Phone call (212) 791-7007 to request an email address is outside this public-web scope"
+      ],
+      "effort_notes": "Checked both domains tied to the business: taiwanporkchophouse.com (newly discovered in parent search leads) contains only an internal config placeholder 'noemail@gmail.com' (EzorderNow/Go3Technology platform config, not a published contact) and a contact section with phone only; taiwanporkchop.com/contact explicitly says to call for non-technical issues and lists no email and no message form. Two Cloudflare-blocked directories (allbiz, us-info variants) not bypassed. Searches not cycled further because DDG/Bing frontends degraded earlier in this session (see tao_hong entry).",
+      "worker_claimed_checked_at": "2026-10-05T07:37:14Z",
+      "batch_completed_at": "2026-10-05T07:43:09.783387+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.543198+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-19",
+      "artifact_sha256": "c6e236df0a2fe0da9b0e351de461a5a6223860fd83d86b4efcd31e2aac919f51",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Checked both domains tied to the business: taiwanporkchophouse.com (newly discovered in parent search leads) contains only an internal config placeholder 'noemail@gmail.com' (EzorderNow/Go3Technology platform config, not a published contact) and a contact section with phone only; taiwanporkchop.com/contact explicitly says to call for non-technical issues and lists no email and no message form. Two Cloudflare-blocked directories (allbiz, us-info variants) not bypassed. Searches not cycled further because DDG/Bing frontends degraded earlier in this session (see tao_hong entry)."
+    }
   }
 }

@@ -122,6 +122,59 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "sarisa_cafe.json",
+      "name": "SARISA Cafe",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Sarisa Cafe\" \"243 E 53rd\" email contact",
+          "provider": "DuckDuckGo in parent-authorized Chrome (parent-supervised targeted search)"
+        },
+        {
+          "query": "\"sarisacafe\" OR \"sarisa\" 10022 \"@gmail.com\" OR \"@sarisacafe.com\"",
+          "provider": "DuckDuckGo in parent-authorized Chrome (parent-supervised targeted search)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.sarisacafe.com/",
+        "https://order.sarisacafe.com/",
+        "https://www.newyorkmeal.com/125041717348852/Sarisa-Cafe-New-York",
+        "https://www.facebook.com/p/Sarisa-Cafe-New-York-61550668197470/",
+        "https://restaurantjump.com/sarisa-cafe-10022/",
+        "https://www.novacircle.com/spots/north-america/united-states/new-york-state/new-york-city/new-york-ny/sarisa-cafe-new-york-a95f72/menu"
+      ],
+      "errors": [
+        "https://www.newyorkmeal.com/125041717348852/Sarisa-Cafe-New-York served a Cloudflare 'Just a moment...' challenge on both inspection attempts; the parent snippet showed a redacted 'contact [email protected]' placeholder that could not be inspected",
+        "Facebook business page https://www.facebook.com/p/Sarisa-Cafe-New-York-61550668197470/ redirected to the Facebook login wall on direct navigation; no public contact block extractable without login (not performed per scope)",
+        "restaurantjump.com/sarisa-cafe-10022/ served a Cloudflare 'Just a moment...' challenge; not bypassed",
+        "Search providers were exhausted earlier in the batch for this agent's own queries; targeted searches were retrieved by the parent"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "candidate_addresses_withheld": [
+        {
+          "lead": "newyorkmeal.com Sarisa Cafe page snippet: 'For more information and reservations, contact [email protected] or DM on social media' — literal redacted placeholder, not a publishable address",
+          "reason": "Page Cloudflare-challenged on live inspection; snippet shows an obfuscation placeholder rather than a literal address. Cannot be promoted without the underlying address."
+        }
+      ],
+      "remaining_avenues": [
+        "Public Facebook About/contact block of https://www.facebook.com/p/Sarisa-Cafe-New-York-61550668197470/ (observed as the primary business page in parent results) — login-walled in this session; a logged-out public-About extraction or parent-side inspection could reveal the published contact",
+        "Re-inspect newyorkmeal page when its Cloudflare challenge clears (still challenged on second attempt)",
+        "Reservations run through resy.com; ordering through order.sarisacafe.com — neither publishes an email; IG @sarisacafe_newyork bio (observed snippet) shows hours but no email"
+      ],
+      "effort_notes": "Official Wix homepage inspected: navigation limited to Menu / Gallery / Order / Reservations — no contact page, no email, no mailto (only template placeholder user@domain.com, excluded). Ordering subdomain order.sarisacafe.com inspected in full: no email/mailto. Followed supervisor lead to the primary Facebook page: login-walled in this session. RestaurantJump and novacircle directory pages attempted post-supervision: novacircle loaded with zero email/mailto; RestaurantJump Cloudflare-challenged. The redacted newyorkmeal lead remains unresolved.",
+      "worker_claimed_checked_at": "2026-10-05T07:06:11Z",
+      "batch_completed_at": "2026-10-05T07:13:27.430429+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.535873+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-16",
+      "artifact_sha256": "262a2eb0b2c2a6c15cd73c565919ce8c1d546450c5b8f1d89cd16d596c96d769",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Official Wix homepage inspected: navigation limited to Menu / Gallery / Order / Reservations — no contact page, no email, no mailto (only template placeholder user@domain.com, excluded). Ordering subdomain order.sarisacafe.com inspected in full: no email/mailto. Followed supervisor lead to the primary Facebook page: login-walled in this session. RestaurantJump and novacircle directory pages attempted post-supervision: novacircle loaded with zero email/mailto; RestaurantJump Cloudflare-challenged. The redacted newyorkmeal lead remains unresolved."
+    }
   }
 }

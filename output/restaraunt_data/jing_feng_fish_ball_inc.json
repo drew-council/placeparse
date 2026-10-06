@@ -499,6 +499,38 @@
     ],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "jing_feng_fish_ball_inc.json",
+      "name": "Jing Feng Fish Ball Inc.",
+      "emails": [],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://www.datalane.com/contact/restaurants/jing-feng-fish-ball-inc",
+        "https://www.google.com/maps?cid=13236785100411469745",
+        "https://crispylist.com/restaurants/jing-feng-fish-ball-inc-flushing"
+      ],
+      "errors": [
+        "datalane.com 'Owner Phone & Email' page stuck on Cloudflare 'Performing security verification'; even if readable it is a data-broker-style lead requiring independent confirmation and was not treated as a restaurant contact."
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "No website exists (Google Maps shows 'Add website'); email would have to come from a private operator listing (datalane) that is challenge-walled and of unverified restaurant-ownership provenance.",
+        "Order-online integration reachable from the Google Maps 'Order online' link was not opened to the merchant layer; merchant platforms rarely publish inquiry emails.",
+        "Parent-run search for the Chinese shop name in Chinese (fish-ball shop at Friendship Shopping Plaza, 41-40 Main St) could surface a WeChat/Xiaohongshu listing; those are not email channels in practice."
+      ],
+      "effort_notes": "Checked datalane (blocked by challenge), live Google Maps listing (address 41-40 Main St, Flushing matches; phone (718) 888-9839 matches; no website, no email), crispylist share page (address/phone/hours only, no email, gated content). Prior wheree/localoria directory pages already showed no email per packet.",
+      "worker_claimed_checked_at": "2026-10-05T06:28:59Z",
+      "batch_completed_at": "2026-10-05T06:30:02.042632+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.503938+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-08",
+      "artifact_sha256": "c184ae396f0dbac63230ab910b70e086f0bcce376d15cb49650b405fc683494b",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Checked datalane (blocked by challenge), live Google Maps listing (address 41-40 Main St, Flushing matches; phone (718) 888-9839 matches; no website, no email), crispylist share page (address/phone/hours only, no email, gated content). Prior wheree/localoria directory pages already showed no email per packet."
+    }
   }
 }

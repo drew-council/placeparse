@@ -719,6 +719,56 @@
         "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "nyonya.json",
+      "name": "Nyonya",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Nyonya\" email contact 199 Grand St, New York, NY 10013, USA",
+          "provider": "DuckDuckGo browser (parent search-leads cache)"
+        },
+        {
+          "query": "\"Nyonya\" restaurant \"199 Grand\" official website email",
+          "provider": "DuckDuckGo browser (degraded, no results rendered)"
+        },
+        {
+          "query": "\"Nyonya\" Malaysian \"199 Grand St\" restaurant official site contact",
+          "provider": "Google browser (blocked by /sorry/ CAPTCHA)"
+        }
+      ],
+      "inspected_urls": [
+        "https://nyonya.org/contact-us/",
+        "https://nyonya.store/",
+        "https://nyonya.locallya.com/",
+        "https://maps.google.com/?cid=7688614298524263028",
+        "https://birchio.com/reviews/nyonya/"
+      ],
+      "errors": [
+        "DuckDuckGo full-JS search returned an empty shell with zero results (degraded) for the official-website query",
+        "Google search redirected to google.com/sorry/ CAPTCHA page (challenge not bypassed; stopped cycling providers per contract)",
+        "https://nyonya.store/ redirects to https://nyonya.locallya.com/, a locallya.com directory-template page (platform, not a restaurant-run site with email)"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Confirm whether nyonya.org or nyonya.store is claimed by the business itself (both behave as directory/blog templates: nyonya.org footer says 'This blog is only here to keep users informed'; nyonya.store renders locallya.com 'Suggest an update'/'Send a message' platform forms)",
+        "Only email observed anywhere is review@nyonya.org on https://nyonya.org/contact-us/ ('Email: review@nyonya.org' with address 199 Grand St and phone +1 212-334-3669 shown above it), consistent with prior rejection as a publisher/platform contact; withheld as non-promotable without ownership evidence",
+        "Ask parent to retrieve targeted search results for: \"Nyonya\" \"199 Grand\" restaurant gmail OR email; Malaysian restaurant \"199 Grand St\" contact email",
+        "Check in-store printed menus/door signage if a published address exists there"
+      ],
+      "effort_notes": "About 6 browser command groups. Verified Maps-listed website (nyonya.store) resolves to a locallya.com directory page; nyonya.org is a blog-style directory whose only email is the already-rejected review@nyonya.org. Two search frontends degraded/challenged, so provider cycling stopped and primary sources were exhausted.",
+      "worker_claimed_checked_at": "2026-10-05T06:53:19Z",
+      "batch_completed_at": "2026-10-05T06:54:31.233557+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.525065+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-14",
+      "artifact_sha256": "e6b5b8faa2c19283b59313e8cad615fc54cacb70462a0d23065cc6f55c0fbbb1",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. About 6 browser command groups. Verified Maps-listed website (nyonya.store) resolves to a locallya.com directory page; nyonya.org is a blog-style directory whose only email is the already-rejected review@nyonya.org. Two search frontends degraded/challenged, so provider cycling stopped and primary sources were exhausted."
+    }
   }
 }

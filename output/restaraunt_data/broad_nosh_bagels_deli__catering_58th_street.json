@@ -528,6 +528,49 @@
         "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "broad_nosh_bagels_deli__catering_58th_street.json",
+      "name": "Broad Nosh Bagels Deli & Catering 58th Street",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://broadnosh.com/contact/",
+          "matching_business_evidence": "Official brand site broadnosh.com lists 'WEST SIDE COLUMBUS CIRCLE (W 58TH ST.) 314 W 58th St PH: 1 (212) 933-4844' — exact address and phone match the saved business.",
+          "visible_fields": "Name (First/Last) *, Email *, Phone Number *, Subject *, Select Location *, Comment or Message * — WPForms on broadnosh.com/contact/",
+          "purpose": "general_inquiry",
+          "general_vs_restricted": "General purpose contact form ('CONTACT US' page) with free-text 'Comment or Message' field; not order/booking/review-only.",
+          "submission_tested": false,
+          "caveat": "CAUTION: the contact page's static surroundings are unreplaced WordPress theme placeholder content ('CORPORATE OFFICE ... Roma, Italy', 'mail@example.com', location options 'The Pizzeria Roma/Madrid/Paris/Miami'), so whether submissions actually route to Broad Nosh staff is unverified. Recorded as fallback evidence only."
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Broad Nosh Bagels Deli & Catering 58th Street\" New York, NY 10019 contact email (carried from prior sweep; new sweep used official-site link-following)",
+          "provider": "Google browser (prior)"
+        }
+      ],
+      "inspected_urls": [
+        "https://broadnosh.com/",
+        "https://broadnosh.com/contact/"
+      ],
+      "errors": [],
+      "outcome": "form_fallback_only",
+      "remaining_avenues": [
+        "Re-check broadnosh.com/contact/ if the operator replaces the placeholder theme text with real corporate contact details — a real email may then appear.",
+        "ezcater.com and toasttab.com catering storefronts (linked from homepage) may list a catering manager email behind their platforms."
+      ],
+      "effort_notes": "Deepened beyond prior sweep: searched homepage and contact page full HTML for mailto/emails — none published (only theme placeholder mail@example.com on the contact page). Captured the official general contact form as fallback with explicit ownership caveat due to unreplaced demo content.",
+      "worker_claimed_checked_at": "2026-10-05T05:43:00Z",
+      "batch_completed_at": "2026-10-05T05:44:15.394399+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.478966+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-02",
+      "artifact_sha256": "5cca1b3cca7c924d6b0c87999bf632f51e4cae5dafa3120425a163980372cd6f",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Deepened beyond prior sweep: searched homepage and contact page full HTML for mailto/emails — none published (only theme placeholder mail@example.com on the contact page). Captured the official general contact form as fallback with explicit ownership caveat due to unreplaced demo content."
+    }
   }
 }

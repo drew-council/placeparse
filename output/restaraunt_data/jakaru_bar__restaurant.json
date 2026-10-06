@@ -50,7 +50,17 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:17.134256+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "candidate_sources": {
+      "jakaru125@gmail.com": {
+        "urls": [
+          "https://www.facebook.com/jakaru20/about"
+        ],
+        "reason": "Publication is real, but page is Actor-category, city-only address, and no saved-phone match or documented link from the saved menu site. Name+cuisine alone do not settle attribution to the Corona restaurant. Keep candidate until material identity proof.",
+        "role": "unverified business contact",
+        "checked_at": "2026-10-05T07:37:41.919184+00:00"
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -111,6 +121,63 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "jakaru_bar__restaurant.json",
+      "name": "Jakaru Bar & Restaurant",
+      "emails": [
+        {
+          "email": "jakaru125@gmail.com",
+          "url": "https://www.facebook.com/jakaru20/about",
+          "quote": "About\nContact and basic info ... Contact info\nNew York, NY, United States\nAddress\n(347) 856-6788\nMobile\njakaru125@gmail.com\nEmail",
+          "source_type": "official_social_bio",
+          "purpose": "general business contact email in the Facebook page's public Contact info block",
+          "business_match": "Moderate: Facebook page 'Jakaru.Ny' (facebook.com/jakaru20, linked from prior search results for this restaurant) presents itself as Paraguayan food in New York ('COMIDA PARAGUAYA 🇵🇾'), matching the saved Paraguayan restaurant at 108-59 Roosevelt Ave, Corona, NY 11368 whose official canva menu site is Paraguayan cuisine. Page address block is city-level ('New York, NY, United States') rather than the full street address, and phone (347) 856-6788 is not present in the saved record (saved phone is null). No login used; email is published in the page's own Contact info.",
+          "identity_evidence": [
+            {
+              "url": "https://www.facebook.com/jakaru20/",
+              "quote": "Jakaru.Ny\n1.1K followers · 19 following ... Intro\nCOMIDA PARAGUAYA 🇵🇾\nPage · Actor"
+            },
+            {
+              "url": "https://jakarumenu.my.canva.site/",
+              "quote": "MENÚ ... CHIPA $2 Traditional cassava cheese bread. ... SOPA PARAGUAYA / TORTA DE MAIZ $6 PARAGUAYAN SOUP"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "source_backed",
+          "notes": "Email is literally published on the business's own Facebook page contact block, so it is not a guessed address. Identity match rests on the unique 'Jakaru.Ny' name + Paraguayan cuisine + New York; the page does not display the full Roosevelt Ave street address. Parent may wish to treat as high-priority candidate if it prefers street-address-level proof.",
+          "parent_decision": {
+            "decision": "withheld",
+            "role": "unverified business contact",
+            "reason": "Publication is real, but page is Actor-category, city-only address, and no saved-phone match or documented link from the saved menu site. Name+cuisine alone do not settle attribution to the Corona restaurant. Keep candidate until material identity proof."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://jakarumenu.my.canva.site/",
+        "https://www.facebook.com/jakaru20/",
+        "https://www.facebook.com/jakaru20/about"
+      ],
+      "errors": [
+        "Official canva menu site (jakarumenu.my.canva.site) contains menu content only; its only outbound links are canva.com legal pages, no contact/email."
+      ],
+      "outcome": "email_found_source_backed",
+      "remaining_avenues": [
+        "Facebook page posts/reels or the 'Actor'-categorized page's other tabs were not fully browsed; Instagram account (if any) not identified this run."
+      ],
+      "effort_notes": "Loaded official canva menu site (menu only, no email), then the officially referenced Facebook page and its public About/Contact-info tab, where jakaru125@gmail.com is published with a mobile number and city-level address.",
+      "worker_claimed_checked_at": "2026-10-05T06:28:59Z",
+      "batch_completed_at": "2026-10-05T06:30:02.042632+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.503494+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-08",
+      "artifact_sha256": "c184ae396f0dbac63230ab910b70e086f0bcce376d15cb49650b405fc683494b",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
+    }
   }
 }

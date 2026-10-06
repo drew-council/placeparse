@@ -559,6 +559,60 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "2_bros_pizza.json",
+      "name": "2 Bros Pizza",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://www.2brospizza.com/contact/",
+          "business_match": "Official site 2brospizza.com (matches saved website); contact page footer/locations list TIMES SQUARE 557 8th Ave, New York, NY 10018 matching the saved address, alongside 5 other 2 Bros branches.",
+          "fields": [
+            "Name",
+            "Email",
+            "Phone",
+            "Reason (select)",
+            "Message",
+            "Get Latest Updates (opt-in)"
+          ],
+          "purpose": "general",
+          "general_vs_restricted": "General customer contact form posting to https://www.2brospizza.com/form_to_email/ with a Reason selector and free-text Message field; separate newsletter-subscribe form is distinct.",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"2 Bros Pizza\" \"@2brospizza\" OR \"@2bros.com\" OR email contact",
+          "provider": "DuckDuckGo (full JS page, own isolated session)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.2brospizza.com/contact/",
+        "https://www.2brospizza.com/",
+        "https://www.2brospizza.com/Locations2/",
+        "https://www.2brospizza.com/private-events/",
+        "https://duckduckgo.com/?q=%222+Bros+Pizza%22+%22%402brospizza%22+OR+%22%402bros.com%22+OR+email+contact&ia=web"
+      ],
+      "errors": [
+        "DuckDuckGo presented a human-verification CAPTCHA challenge on the live search; not bypassed per contract. Parent's prior DDG lead search (in email-depth-22-parent-search-leads.json) contained no email-bearing results for this restaurant."
+      ],
+      "outcome": "general_contact_form",
+      "remaining_avenues": [
+        "Check the Sauce-powered ordering portal https://2brospizza.getsauce.com/ linked from the official homepage for any published store email.",
+        "Social channels (@2brospizza on Twitter/X, Facebook) bios could be re-inspected if a published email appears there."
+      ],
+      "effort_notes": "Inspected official contact, homepage, locations, and catering/private-events pages for mailto/obfuscated emails; none published. Hidden recipient field in form_to_email post target is empty. One fresh browser search attempted; blocked by DDG challenge. Form-only outcome stands with deeper verification of the form fields and Times Square location listing.",
+      "worker_claimed_checked_at": "2026-10-05T07:52:00Z",
+      "batch_completed_at": "2026-10-05T07:52:36.451106+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.553671+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-22",
+      "artifact_sha256": "a467a93aa7340f94c5b0f762b59bc5fc004bc4f3bcb81cd7a1f2c97ecb23f0d4",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Inspected official contact, homepage, locations, and catering/private-events pages for mailto/obfuscated emails; none published. Hidden recipient field in form_to_email post target is empty. One fresh browser search attempted; blocked by DDG challenge. Form-only outcome stands with deeper verification of the form fields and Times Square location listing."
+    }
   }
 }

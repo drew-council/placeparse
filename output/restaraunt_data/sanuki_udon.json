@@ -521,6 +521,61 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "sanuki_udon.json",
+      "name": "Sanuki Udon",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://www.sanukiudonusa.com/contact",
+          "matching_business_evidence": "Page footer/contact page states 'Sanuki Udon 31 W 4th St New York, NY 10012 (917) 310-0313' (per parent DuckDuckGo snippet of same page); official site title 'Contact Sanuki Udon | Udon Restaurant in New York' matched the saved business.",
+          "visible_fields": "First Name (required), Last Name (required), Email (required), Message (required)",
+          "general_vs_restricted": "general",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Sanuki Udon\" email contact 31 W 4th St, New York, NY 10012, USA",
+          "provider": "DuckDuckGo (parent-authorized tab, via parent-search-leads file)"
+        },
+        {
+          "query": "\"sanukiudonusa\" OR \"Sanuki Udon\" NYC email @",
+          "provider": "DuckDuckGo browser (SERP returned no result articles)"
+        },
+        {
+          "query": "Sanuki Udon 31 W 4th St email contact",
+          "provider": "DuckDuckGo browser (SERP returned no result articles)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.sanukiudonusa.com/contact",
+        "https://www.sanukiudonusa.com/",
+        "https://www.findglocal.com/US/New-York/215786504949057/Sanuki-Udon",
+        "https://duckduckgo.com/?q=%22sanukiudonusa%22+OR+%22Sanuki+Udon%22+NYC+email+%40&ia=web"
+      ],
+      "errors": [
+        "DuckDuckGo SERP in this session rendered the page shell but zero result articles on both attempts (degraded).",
+        "findglocal.com mirror of the Sanuki Udon Facebook page blocked by Cloudflare 'Just a moment...' challenge; not bypassed."
+      ],
+      "outcome": "general_contact_form",
+      "remaining_avenues": [
+        "Facebook page https://www.facebook.com/p/Sanuki-Udon-61555665605392/ and Instagram https://www.instagram.com/sanukiudonusa bios are login-walled from an anonymous session; an authenticated-view check could reveal a published email.",
+        "findglocal.com page (Cloudflare-challenged) may mirror a Facebook 'email' field.",
+        "Yelp business page sometimes carries a public business email in the Business Info section."
+      ],
+      "effort_notes": "Official site contact page and homepage DOM swept for mailto/regex emails: none (only placeholder user@domain.com in a template asset). Contact form is the only general inquiry route on the official site. Two in-session searches degraded; parent search leads showed no email-bearing source. ~4 command groups used.",
+      "worker_claimed_checked_at": "2026-10-05T08:13:32Z",
+      "batch_completed_at": "2026-10-05T08:14:34.636570+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.567007+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-26",
+      "artifact_sha256": "7fc18ab250a6f5d4bf02cbd351386f52ae1f7219124f5bee5f9bbca03d45e79c",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Official site contact page and homepage DOM swept for mailto/regex emails: none (only placeholder user@domain.com in a template asset). Contact form is the only general inquiry route on the official site. Two in-session searches degraded; parent search leads showed no email-bearing source. ~4 command groups used."
+    }
   }
 }

@@ -32,11 +32,17 @@
   "website": "https://www.instagram.com/banh_mi_co_ut_nyc/",
   "details_checked_at": "2026-10-03T21:59:19.305959+00:00",
   "business_status_checked_at": "2026-10-03T21:59:19.305959+00:00",
-  "emails": [],
+  "emails": [
+    "Pewin176@icloud.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:59:56.236771+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "pewin176@icloud.com": [
+        "https://www.facebook.com/banhmicoutnyc/"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.instagram.com/banh_mi_co_ut_nyc/",
@@ -44,7 +50,33 @@
         "emails": []
       }
     ],
-    "contact_forms": []
+    "contact_forms": [],
+    "role_overrides": {
+      "pewin176@icloud.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "pewin176@icloud.com": {
+        "evidence": [
+          {
+            "url": "https://www.facebook.com/banhmicoutnyc/",
+            "quote": "Page · Sandwich Shop | 83 Elizabeth St , north store, New York, NY, United States, New York | (646) 767-0444 | Pewin176@icloud.com",
+            "identity_evidence": [
+              {
+                "url": "https://www.facebook.com/banhmicoutnyc/",
+                "quote": "Bánh Mì Cô út NYC | 1.3K followers • 1 following | ... The Real Vietnamese taste in USA | Page · Sandwich Shop | 83 Elizabeth St , north store, New York, NY, United States, New York | (646) 767-0444 | Pewin176@icloud.com"
+              }
+            ],
+            "source_type": "official_facebook_page_bio",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently re-rendered the public business page and verified literal publication immediately alongside matching 83 Elizabeth St address and (646) 767-0444 phone. Professional/business-purpose proprietor mailbox, not an inferred personal contact.",
+            "notes": "Published on the restaurant's own official Facebook page intro as its public contact, with exact address and phone match. Address is a proprietor-style icloud.com mailbox (published business-purpose proprietor address serving this restaurant); delivery/ownership beyond publication not verified. Exact casing preserved as published.",
+            "checked_at": "2026-10-05T06:22:42.090415+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Published on the restaurant's own official Facebook page intro as its public contact, with exact address and phone match. Address is a proprietor-style icloud.com mailbox (published business-purpose proprietor address serving this restaurant); delivery/ownership beyond publication not verified. Exact casing preserved as published. Parent independently re-rendered the public business page and verified literal publication immediately alongside matching 83 Elizabeth St address and (646) 767-0444 phone. Professional/business-purpose proprietor mailbox, not an inferred personal contact."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -97,6 +129,87 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "bnh_m_c_t.json",
+      "name": "Bánh Mì Cô Út",
+      "emails": [
+        {
+          "email": "Pewin176@icloud.com",
+          "url": "https://www.facebook.com/banhmicoutnyc/",
+          "quote": "Page · Sandwich Shop | 83 Elizabeth St , north store, New York, NY, United States, New York | (646) 767-0444 | Pewin176@icloud.com",
+          "source_type": "official_facebook_page_bio",
+          "purpose": "general customer/contact address published as the sole contact line on the restaurant's official Facebook page",
+          "business_match": "Official Facebook page 'Bánh Mì Cô út NYC' publishes the exact saved address (83 Elizabeth St, north store, New York) and exact saved phone (646) 767-0444, immediately followed by the email address.",
+          "identity_evidence": [
+            {
+              "url": "https://www.facebook.com/banhmicoutnyc/",
+              "quote": "Bánh Mì Cô út NYC | 1.3K followers • 1 following | ... The Real Vietnamese taste in USA | Page · Sandwich Shop | 83 Elizabeth St , north store, New York, NY, United States, New York | (646) 767-0444 | Pewin176@icloud.com"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "source_backed",
+          "notes": "Published on the restaurant's own official Facebook page intro as its public contact, with exact address and phone match. Address is a proprietor-style icloud.com mailbox (published business-purpose proprietor address serving this restaurant); delivery/ownership beyond publication not verified. Exact casing preserved as published.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently re-rendered the public business page and verified literal publication immediately alongside matching 83 Elizabeth St address and (646) 767-0444 phone. Professional/business-purpose proprietor mailbox, not an inferred personal contact."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://nycpho.com/contact",
+          "matching_business_evidence": "Sister-brand official site nycpho.com is titled 'Kitchen Cô Út - New York, NY Vietnamese Restaurant' and shares the Cô Út brand name; however it lists its own location at 85 Chrystie St, New York, NY 10002 and phone (646) 678-3188, NOT the saved branch at 83 Elizabeth St / (646) 767-0444.",
+          "fields": "A 'Write a Message' section is present in page text; no <form> element or input fields rendered in headless DOM (0 forms, 0 inputs observed; reCAPTCHA script present, suggesting a JS-rendered form).",
+          "purpose": "general ('Have question? Get in touch!' — menu questions, feedback, special requests)",
+          "submission_tested": false,
+          "notes": "CANDIDATE ONLY: branch mismatch. This form serves Kitchen Cô Út (85 Chrystie St), a sister location under the same 'Cô Út' brand family, not the saved Bánh Mì Cô Út at 83 Elizabeth St. No documented parent-company link between the two beyond the shared brand name; footer of nycpho.com credits 'GLORIA DEO | TRINITY BUSINESS SOLUTIONS LLC'. Parent should decide whether to treat as brand-level route."
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Bánh Mì Cô Út\" Elizabeth St email contact",
+          "provider": "DuckDuckGo browser"
+        },
+        {
+          "query": "\"Bánh Mì Cô Út\" 83 Elizabeth St email",
+          "provider": "Google browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://nycpho.com/",
+        "https://nycpho.com/contact",
+        "https://nycpho.com/about",
+        "https://nycpho.com/terms-conditions",
+        "https://www.corner.inc/place/pqyMLSPuzTs1",
+        "https://docentpro.com/places/bnh-m-c-t_NjUyMTEz",
+        "https://www.facebook.com/banhmicoutnyc/"
+      ],
+      "errors": [
+        "DuckDuckGo search returned a human-verification CAPTCHA challenge ('Please complete the following challenge... Select all squares containing a duck').",
+        "Google search returned 'unusual traffic' captcha page (captcha:true). Both frontends challenged; per contract, stopped cycling providers and switched to direct primary sources.",
+        "https://docentpro.com/places/bnh-m-c-t_NjUyMTEz contains only the publisher mailbox support@docentpro.com (mailto), not a restaurant contact — not treated as restaurant email."
+      ],
+      "outcome": "email_found_official_facebook_bio",
+      "remaining_avenues": [
+        "Official Instagram account (https://www.instagram.com/banh_mi_co_ut_nyc/) is robot-excluded per packet and was not revisited.",
+        "Live phone call to (646) 767-0444 to confirm the icloud.com inbox is monitored.",
+        "Kitchen Cô Út sister-site form/phone could be a brand-level escalation route if the parent documents the shared ownership."
+      ],
+      "effort_notes": "~6 browser command groups. Sister site nycpho.com inspected fully (home, about, contact, terms) — no email published there at all (0 mailto/emails on all pages). Search engines both challenged; pivoted to packet URLs and Facebook bio, which produced the matching published address.",
+      "worker_claimed_checked_at": "2026-10-05T05:50:00Z",
+      "batch_completed_at": "2026-10-05T05:54:15.783326+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.481330+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-03",
+      "artifact_sha256": "7ea29bb6d9a8d43f5cf1c18d5242c0651789326c70094b613244ec482ab8951d",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "pewin176@icloud.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

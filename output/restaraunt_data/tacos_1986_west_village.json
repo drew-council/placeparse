@@ -32,11 +32,17 @@
   "website": "https://tacos1986.com/westvillage",
   "details_checked_at": "2026-10-03T21:59:39.463308+00:00",
   "business_status_checked_at": "2026-10-03T21:59:39.463308+00:00",
-  "emails": [],
+  "emails": [
+    "wecater@tacos1986.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T22:00:25.368237+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "wecater@tacos1986.com": [
+        "https://tacos1986.com/catering"
+      ]
+    },
     "pages": [
       {
         "url": "https://tacos1986.com/westvillage",
@@ -81,7 +87,37 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:31.123752+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "wecater@tacos1986.com": "events/catering"
+    },
+    "publication_evidence": {
+      "wecater@tacos1986.com": {
+        "evidence": [
+          {
+            "url": "https://tacos1986.com/catering",
+            "quote": "For more information contact wecater@tacos1986.com",
+            "identity_evidence": [
+              {
+                "url": "https://tacos1986.com/catering",
+                "quote": "Our catering and events team is ready to serve at any type of event... For more information contact wecater@tacos1986.com"
+              },
+              {
+                "url": "https://tacos1986.com/westvillage",
+                "quote": "West Village NYC | Tacos 1986 (official brand location page for the saved branch; prior packet browser page)"
+              }
+            ],
+            "source_type": "official_website_catering_page",
+            "purpose": "events/catering",
+            "parent_reason": "Parent independently confirmed literal publication and mailto on official brand Catering page. Context expressly catering/events, not general email. Brand covers West Village via its official location page; general inquiries use existing form instead.",
+            "notes": "Published as a mailto link on the official site's catering page. Purpose is catering-specific; the general-inquiry channel is the contact form below.",
+            "checked_at": "2026-10-05T07:37:41.956930+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Published as a mailto link on the official site's catering page. Purpose is catering-specific; the general-inquiry channel is the contact form below. Parent independently confirmed literal publication and mailto on official brand Catering page. Context expressly catering/events, not general email. Brand covers West Village via its official location page; general inquiries use existing form instead."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -163,6 +199,72 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "tacos_1986_west_village.json",
+      "name": "Tacos 1986 West Village",
+      "emails": [
+        {
+          "email": "wecater@tacos1986.com",
+          "url": "https://tacos1986.com/catering",
+          "quote": "For more information contact wecater@tacos1986.com",
+          "source_type": "official_website_catering_page",
+          "purpose": "Catering and events inquiries (brand-level catering/events team; not a general-inquiry address)",
+          "business_match": "tacos1986.com is the official brand website of Tacos 1986; the West Village location (1 Cornelia St) is one of its listed locations (tacos1986.com/westvillage), and the catering/events team serves all locations. Verified by matching brand, NYC presence, and shared site domain on the saved listing.",
+          "identity_evidence": [
+            {
+              "url": "https://tacos1986.com/catering",
+              "quote": "Our catering and events team is ready to serve at any type of event... For more information contact wecater@tacos1986.com"
+            },
+            {
+              "url": "https://tacos1986.com/westvillage",
+              "quote": "West Village NYC | Tacos 1986 (official brand location page for the saved branch; prior packet browser page)"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Published as a mailto link on the official site's catering page. Purpose is catering-specific; the general-inquiry channel is the contact form below.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "events/catering",
+            "reason": "Parent independently confirmed literal publication and mailto on official brand Catering page. Context expressly catering/events, not general email. Brand covers West Village via its official location page; general inquiries use existing form instead."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://tacos1986.com/contact",
+          "matching_business_evidence": "Official brand website footer/nav includes the West Village location page (tacos1986.com/westvillage) for the saved 1 Cornelia St branch; page belongs to the same brand as the assigned restaurant.",
+          "visible_free_text_field": "Free-text 'message:' textarea plus 'name:', 'email:', 'phone:' fields and a 'send' button; intro text 'Have a question for us? Please fill out the form below!'",
+          "general_or_restricted": "General inquiry form (not restricted to order/booking/profile purposes)",
+          "submission_tested": false,
+          "notes": "No general info@ mailto exists on the site; only mailto:no-reply@tacos1986.com (accessibility feedback) on contact/press pages and wecater@tacos1986.com on the catering page. Press page likewise has no published press email."
+        }
+      ],
+      "queries": [],
+      "inspected_urls": [
+        "https://tacos1986.com/contact",
+        "https://tacos1986.com/catering",
+        "https://tacos1986.com/press"
+      ],
+      "errors": [],
+      "outcome": "source_backed_email_found_with_form_fallback",
+      "remaining_avenues": [
+        "The general contact form is the general-inquiry route; no general-purpose email address is published on the site"
+      ],
+      "effort_notes": "Contact page inspected (no general mailto; free-text form confirmed), catering and press pages checked; brand-level catering email found and labeled by purpose.",
+      "worker_claimed_checked_at": "2026-10-05T07:12:42Z",
+      "batch_completed_at": "2026-10-05T07:17:51.087573+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.542614+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-18",
+      "artifact_sha256": "16a28371751602f2c7169c43d6552d89c7da323e404aaba1d36e965715a710c9",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "wecater@tacos1986.com"
+      ],
+      "no_general_email_reason": "Only limited-purpose published email(s); no accepted general-inquiry email in checked sources."
+    }
   }
 }

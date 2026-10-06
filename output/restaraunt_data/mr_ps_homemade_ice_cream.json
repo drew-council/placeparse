@@ -435,13 +435,49 @@
   "utc_offset": -240,
   "vicinity": "1397 Nostrand Ave, Brooklyn",
   "business_status_checked_at": "2026-10-03T20:05:42.337110+00:00",
-  "emails": [],
+  "emails": [
+    "Mrpsicecream@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:31.511002+00:00",
-    "outcome": "no_website",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "mrpsicecream@gmail.com": [
+        "https://mr-ps-homemade-ice-cream.com/"
+      ]
+    },
     "pages": [],
-    "contact_forms": []
+    "contact_forms": [],
+    "role_overrides": {
+      "mrpsicecream@gmail.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "mrpsicecream@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://mr-ps-homemade-ice-cream.com/",
+            "quote": "CONTACT HOURS MON - THU 12:30 PM - 9:00 PM ... +1- (347) 300 - 0347 +1 - (973) 640 - 3200 Mrpsicecream@gmail.com (Contact page; address 'Nostrand Ave' listed on same page)",
+            "identity_evidence": [
+              {
+                "url": "https://mr-ps-homemade-ice-cream.com/",
+                "quote": "CONTACT HOURS ... +1 - (973) 640 - 3200 Mrpsicecream@gmail.com © 2024. All rights reserved. Mr Ps Homemade Ice Cream"
+              },
+              {
+                "url": "https://mr-ps-homemade-ice-cream.com/contact",
+                "quote": "Nostrand Ave (address block on contact page alongside Mrpsicecream@gmail.com)"
+              }
+            ],
+            "source_type": "official website (mr-ps-homemade-ice-cream.com, Contact page and homepage footer)",
+            "purpose": "general/unspecified",
+            "parent_reason": "Original official-site rendered tool output independently audited: homepage CONTACT footer openly publishes exact mailbox with +1 (973) 640-3200 matching saved phone and Flatbush/Brooklyn identity. Parent replay encountered browser-check page. Source is public business contact, not guessed personal mailbox.",
+            "notes": "Address published as 'Mrpsicecream@gmail.com' (case as published); no mailto link observed. Also corroborated by thesugar.app lead listing language 'mr-ps-homemade-ice-cream.com @ mrpsicecream phone +19736403200'. The earlier local.us-info.com partial-email lead ('..con@..') is superseded by this official-site find.",
+            "checked_at": "2026-10-05T07:37:41.934503+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Address published as 'Mrpsicecream@gmail.com' (case as published); no mailto link observed. Also corroborated by thesugar.app lead listing language 'mr-ps-homemade-ice-cream.com @ mrpsicecream phone +19736403200'. The earlier local.us-info.com partial-email lead ('..con@..') is superseded by this official-site find. Original official-site rendered tool output independently audited: homepage CONTACT footer openly publishes exact mailbox with +1 (973) 640-3200 matching saved phone and Flatbush/Brooklyn identity. Parent replay encountered browser-check page. Source is public business contact, not guessed personal mailbox."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -482,6 +518,76 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "mr_ps_homemade_ice_cream.json",
+      "name": "Mr P's Homemade Ice Cream",
+      "emails": [
+        {
+          "email": "Mrpsicecream@gmail.com",
+          "url": "https://mr-ps-homemade-ice-cream.com/",
+          "quote": "CONTACT HOURS MON - THU 12:30 PM - 9:00 PM ... +1- (347) 300 - 0347 +1 - (973) 640 - 3200 Mrpsicecream@gmail.com (Contact page; address 'Nostrand Ave' listed on same page)",
+          "source_type": "official website (mr-ps-homemade-ice-cream.com, Contact page and homepage footer)",
+          "purpose": "general customer contact (footer contact block of official site)",
+          "business_match": "Official site's homepage footer shows '+1 - (973) 640 - 3200' matching saved phone (973) 640-3200; contact page lists Nostrand Ave address matching saved 1397 Nostrand Ave, Brooklyn, NY 11226",
+          "identity_evidence": [
+            {
+              "url": "https://mr-ps-homemade-ice-cream.com/",
+              "quote": "CONTACT HOURS ... +1 - (973) 640 - 3200 Mrpsicecream@gmail.com © 2024. All rights reserved. Mr Ps Homemade Ice Cream"
+            },
+            {
+              "url": "https://mr-ps-homemade-ice-cream.com/contact",
+              "quote": "Nostrand Ave (address block on contact page alongside Mrpsicecream@gmail.com)"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Address published as 'Mrpsicecream@gmail.com' (case as published); no mailto link observed. Also corroborated by thesugar.app lead listing language 'mr-ps-homemade-ice-cream.com @ mrpsicecream phone +19736403200'. The earlier local.us-info.com partial-email lead ('..con@..') is superseded by this official-site find.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Original official-site rendered tool output independently audited: homepage CONTACT footer openly publishes exact mailbox with +1 (973) 640-3200 matching saved phone and Flatbush/Brooklyn identity. Parent replay encountered browser-check page. Source is public business contact, not guessed personal mailbox.",
+            "source_url": "https://mr-ps-homemade-ice-cream.com/"
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://mr-ps-homemade-ice-cream.com/contact",
+          "business_match": "Official site contact page listing Nostrand Ave address and phone (973) 640-3200 matching saved business",
+          "purpose": "general inquiry ('We're here to help you with any questions or concerns')",
+          "evidence_quote": "Welcome to our Contact Us page! We're here to help you with any questions or concerns you may have. Please feel free to reach out below, and our team will get back to you as soon as possible.",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "Parent-provided DuckDuckGo lead surfaced mr-ps-homemade-ice-cream.com via thesugar.app ('mr-ps-homemade-ice-cream.com @ mrpsicecream'); official site then inspected directly",
+          "provider": "DuckDuckGo (parent-authorized tab, via parent-search-leads)"
+        }
+      ],
+      "inspected_urls": [
+        "https://mr-ps-homemade-ice-cream.com/",
+        "https://mr-ps-homemade-ice-cream.com/contact"
+      ],
+      "errors": [
+        "mr-ps-homemade-ice-cream.com initially served a Cloudflare 'Checking your browser' interstitial that passed after waiting (not bypassed manually)"
+      ],
+      "outcome": "source_backed_email_found",
+      "remaining_avenues": [],
+      "effort_notes": "Parent lead revealed a real website previously absent from the packet (website: null); direct inspection of official homepage + contact page produced a phone/identity-matched published email. ~4 browser command groups.",
+      "worker_claimed_checked_at": "2026-10-05T06:40:15Z",
+      "batch_completed_at": "2026-10-05T06:41:32.322541+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.519416+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-12",
+      "artifact_sha256": "9d57fba9ea6f3190cf501ca8668997d254d6537a7936507fe739f58a8d4e1796",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "mrpsicecream@gmail.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

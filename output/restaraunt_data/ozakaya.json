@@ -896,6 +896,53 @@
         "requires_login": true,
         "search_provider": "DuckDuckGo browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "ozakaya.json",
+      "name": "Ozakaya",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://www.ozakaya.com/copy-of-hours-location",
+          "matching_business_evidence": "Official Wix site of Ozakaya; same nav/footer shows ADDRESS 635 Vanderbilt Ave Brooklyn NY 11238 and phones 929-456-3954 / 929-456-5956 matching the saved listing",
+          "visible_free_text_field": "none — page contains only 'FEEDBACK / Give us your feedback / We'd love to hear what you thought about us. / Rate Ozakaya' with five star-rating inputs (INPUT:rating-name-1101 x5); no free-text message field",
+          "general_vs_restricted": "restricted (star-rating feedback only; not a general inquiry form)",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Ozakaya\" email contact 635 Vanderbilt Ave, Brooklyn, NY 11238, USA",
+          "provider": "DuckDuckGo browser (parent search-leads cache)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.ozakaya.com/",
+        "https://www.ozakaya.com/hours-location",
+        "https://www.ozakaya.com/copy-of-hours-location",
+        "http://www.ezcater.com/catering/ozakaya-3"
+      ],
+      "errors": [
+        "All email matches on ozakaya.com are Wix/Sentry telemetry addresses (e.g. ...@sentry-next.wixpress.com) — not published business emails",
+        "ezcater.com catering page blocked by Cloudflare 'Just a moment...' challenge (not bypassed)"
+      ],
+      "outcome": "limited_purpose_only",
+      "remaining_avenues": [
+        "Catering page http://www.ezcater.com/catering/ozakaya-3 (Cloudflare-blocked here) may publish the business' catering contact email — worth one parent-authorized retry",
+        "Instagram @ozakaya_nyc (linked from the official site) bio may publish an email; not inspected (login-adjacent social page)",
+        "Order Online (order.online/business/ozakaya-1040056) and Toast pages are ordering routes, not inquiry channels"
+      ],
+      "effort_notes": "About 4 browser command groups. Confirmed the only form is a star-rating feedback widget (no free text); no email on the official site.",
+      "worker_claimed_checked_at": "2026-10-05T06:53:19Z",
+      "batch_completed_at": "2026-10-05T06:54:31.233557+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.527783+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-14",
+      "artifact_sha256": "e6b5b8faa2c19283b59313e8cad615fc54cacb70462a0d23065cc6f55c0fbbb1",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. About 4 browser command groups. Confirmed the only form is a star-rating feedback widget (no free text); no email on the official site."
+    }
   }
 }

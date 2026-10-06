@@ -142,6 +142,56 @@
     ],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "shinn_west.json",
+      "name": "Shinn WEST",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://www.shinneast.com/findus",
+          "matching_business_evidence": "Page lists 'FIND US | EAST VILLAGE: 119 E 7TH ST, NEW YORK NY 10009 | HELLS KITCHEN: 525 W 53RD ST, NEW YORK NY 10019' — the Hell's Kitchen entry is exactly the saved Shinn WEST address 525 W 53rd St, New York, NY 10019.",
+          "visible_fields": "'SAY HI TO US!' form: First Name (required), Last Name (required), email (required), topic (required, select), message (required), SUBMIT",
+          "general_vs_restricted": "general (topic select covers general inquiries; labeled 'SAY HI TO US!')",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Shinn WEST\" email contact 525 W 53rd St, New York, NY 10019, USA",
+          "provider": "DuckDuckGo (parent-authorized tab, via parent-search-leads file)"
+        },
+        {
+          "query": "\"Shinn West\" OR \"Shinn East\" omakase NYC \"email\" contact",
+          "provider": "Bing browser (returned degraded, unrelated Walmart results)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.shinneast.com/new-page",
+        "https://www.shinneast.com/findus",
+        "https://www.bing.com/search?q=%22Shinn+West%22+OR+%22Shinn+East%22+omakase+NYC+%22email%22+contact"
+      ],
+      "errors": [
+        "Bing SERP returned only unrelated Walmart results (degraded); DuckDuckGo SERP earlier rendered zero result articles. Per contract, stopped cycling search frontends after two degraded providers.",
+        "Instagram results for Shinn (from parent leads) are login-walled from an anonymous session."
+      ],
+      "outcome": "general_contact_form",
+      "remaining_avenues": [
+        "Parent leads include Dun & Bradstreet and Bizapedia profiles for SHINN WEST LLC; these registry/data-broker style pages were not crawled (avoid-people-data scope) and typically list no public restaurant email.",
+        "Resy venue page and frankiapp.com business page could conceivably carry a contact email; not inspected after the brand's own site showed no email.",
+        "Instagram bios for Shinn East/West may publish an email (login required)."
+      ],
+      "effort_notes": "Both official contact ('new-page') and 'findus' pages swept for mailto/regex emails: none (only template placeholder user@domain.com). Form confirmed with matching address. ~3 command groups used.",
+      "worker_claimed_checked_at": "2026-10-05T08:13:32Z",
+      "batch_completed_at": "2026-10-05T08:14:34.636570+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.567926+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-26",
+      "artifact_sha256": "7fc18ab250a6f5d4bf02cbd351386f52ae1f7219124f5bee5f9bbca03d45e79c",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Both official contact ('new-page') and 'findus' pages swept for mailto/regex emails: none (only template placeholder user@domain.com). Form confirmed with matching address. ~3 command groups used."
+    }
   }
 }

@@ -605,11 +605,17 @@
   "website": "https://www.okonomi.us/",
   "wheelchair_accessible_entrance": false,
   "business_status_checked_at": "2026-10-03T20:05:49.217298+00:00",
-  "emails": [],
+  "emails": [
+    "okonomi@handhospitality.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:37.250980+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "okonomi@handhospitality.com": [
+        "https://nyc.mixb.net/job/articles/240139"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.okonomi.us/",
@@ -624,10 +630,68 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:10:38.803768+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "okonomi@handhospitality.com": "careers"
+    },
+    "publication_evidence": {
+      "okonomi@handhospitality.com": {
+        "evidence": [
+          {
+            "url": "https://nyc.mixb.net/job/articles/240139",
+            "quote": "社名 HAND HOSPITALITY ... メールアドレス okonomi@handhospitality.com ... エリア名 Brooklyn , 150 Ainslie St, Brooklyn, NY 11211 ... 勤務地: 【150 Ainslie St, Brooklyn, NY 11211】 ... 応募方法: 履歴書と職務経歴書をメールで【okonomi@handhospitality.com】までお送りください。/ We're Hiring at OKONOMI Brooklyn! ... Please send your resume and work history to okonomi@handhospitality.com.",
+            "identity_evidence": [
+              {
+                "url": "https://www.okonomi.us/",
+                "quote": "footer links include https://www.handhospitality.com/accessibility-statement — the official okonomi.us site links to the HAND HOSPITALITY domain, and the okonomi.us footer also carries tel:+19292950480 (the saved phone)"
+              },
+              {
+                "url": "https://www.okonomi.us/bkhome",
+                "quote": "\"Seating at Okonomi Brooklyn is available by reservation up to two weeks in advanced via Resy\" — same one-restaurant/two-names brand"
+              }
+            ],
+            "source_type": "third-party_job_posting_mixb",
+            "purpose": "careers",
+            "parent_reason": "Parent independently verified literal public publication and source-specific purpose. The posting is explicitly for OKONOMI Brooklyn at the saved address 150 Ainslie St, Brooklyn, NY 11211, with company HAND HOSPITALITY and contact person Yugo. Literal address published on MixB (Japanese community classifieds) on 2026-06-30 for this exact branch/address. Purpose is hiring only; parent should decide whether a restricted-purpose address is useful. No general customer email found on okonomi.us.",
+            "notes": "Literal address published on MixB (Japanese community classifieds) on 2026-06-30 for this exact branch/address. Purpose is hiring only; parent should decide whether a restricted-purpose address is useful. No general customer email found on okonomi.us.",
+            "checked_at": "2026-10-05T07:21:04.928495+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Literal address published on MixB (Japanese community classifieds) on 2026-06-30 for this exact branch/address. Purpose is hiring only; parent should decide whether a restricted-purpose address is useful. No general customer email found on okonomi.us. Parent independently verified literal public publication and source-specific purpose. The posting is explicitly for OKONOMI Brooklyn at the saved address 150 Ainslie St, Brooklyn, NY 11211, with company HAND HOSPITALITY and contact person Yugo. Literal address published on MixB (Japanese community classifieds) on 2026-06-30 for this exact branch/address. Purpose is hiring only; parent should decide whether a restricted-purpose address is useful. No general customer email found on okonomi.us."
+      }
+    }
   },
   "text_contact_discovery": {
-    "channels": [],
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.handhospitality.com/handcontact",
+        "purpose": "general inquiry",
+        "business_match_confirmed": true,
+        "business_match_evidence": "okonomi.us links to handhospitality.com (accessibility statement); MixB posting names HAND HOSPITALITY as the operator of OKONOMI Brooklyn at 150 Ainslie St; handhospitality.com headquarters listed as 347 5th Ave, Suite 701, New York, NY 10016",
+        "field_evidence": [
+          "First Name\n(required)",
+          "Last Name\n(required)",
+          "Email Address\n(required)",
+          "HAND Hospitality's Store Name\n(required)",
+          "Subject\n(required)",
+          "Message\n(required)",
+          "message-yui_b7498440-f5bc-4947-b84f-040d932866b2-field",
+          "fname",
+          "lname",
+          "email",
+          "text",
+          "text",
+          "textarea",
+          "message-yui_e38ceec1-cdcb-40d3-b26e-253d863efbf5-field",
+          "g-recaptcha-response"
+        ],
+        "notes": "Parent independently confirmed actual message field and public general-inquiry wording. Not submitted/delivery tested. HAND Hospitality group route with store-name field; not a branch-specific recipient. Confirm OKONOMI routing before sensitive disclosure.",
+        "checked_at": "2026-10-05T08:25:23.507741+00:00",
+        "submission_tested": false
+      }
+    ],
     "checked_at": "2026-10-04T20:26:26.671533+00:00",
     "method": "agent-browser rendered sites and public search results; no submissions or messages",
     "pages": [
@@ -675,6 +739,81 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "okonomi__yuji_ramen.json",
+      "name": "OKONOMI Brooklyn",
+      "emails": [
+        {
+          "email": "okonomi@handhospitality.com",
+          "url": "https://nyc.mixb.net/job/articles/240139",
+          "quote": "社名 HAND HOSPITALITY ... メールアドレス okonomi@handhospitality.com ... エリア名 Brooklyn , 150 Ainslie St, Brooklyn, NY 11211 ... 勤務地: 【150 Ainslie St, Brooklyn, NY 11211】 ... 応募方法: 履歴書と職務経歴書をメールで【okonomi@handhospitality.com】までお送りください。/ We're Hiring at OKONOMI Brooklyn! ... Please send your resume and work history to okonomi@handhospitality.com.",
+          "source_type": "third-party_job_posting_mixb",
+          "purpose": "job applications / hiring (resume submission) — NOT a general customer-inquiry address",
+          "business_match": "The posting is explicitly for OKONOMI Brooklyn at the saved address 150 Ainslie St, Brooklyn, NY 11211, with company HAND HOSPITALITY and contact person Yugo.",
+          "identity_evidence": [
+            {
+              "url": "https://www.okonomi.us/",
+              "quote": "footer links include https://www.handhospitality.com/accessibility-statement — the official okonomi.us site links to the HAND HOSPITALITY domain, and the okonomi.us footer also carries tel:+19292950480 (the saved phone)"
+            },
+            {
+              "url": "https://www.okonomi.us/bkhome",
+              "quote": "\"Seating at Okonomi Brooklyn is available by reservation up to two weeks in advanced via Resy\" — same one-restaurant/two-names brand"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "source_backed",
+          "notes": "Literal address published on MixB (Japanese community classifieds) on 2026-06-30 for this exact branch/address. Purpose is hiring only; parent should decide whether a restricted-purpose address is useful. No general customer email found on okonomi.us.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "careers",
+            "reason": "Parent independently verified literal public publication and source-specific purpose. The posting is explicitly for OKONOMI Brooklyn at the saved address 150 Ainslie St, Brooklyn, NY 11211, with company HAND HOSPITALITY and contact person Yugo. Literal address published on MixB (Japanese community classifieds) on 2026-06-30 for this exact branch/address. Purpose is hiring only; parent should decide whether a restricted-purpose address is useful. No general customer email found on okonomi.us."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://www.handhospitality.com/handcontact",
+          "matching_business_evidence": "okonomi.us links to handhospitality.com (accessibility statement); MixB posting names HAND HOSPITALITY as the operator of OKONOMI Brooklyn at 150 Ainslie St; handhospitality.com headquarters listed as 347 5th Ave, Suite 701, New York, NY 10016",
+          "visible_free_text_field": "Message (required) textarea; fields: First Name (required), Last Name (required), Email Address (required), HAND Hospitality's Store Name (required), Subject (required), Message (required)",
+          "general_vs_restricted": "general (brand-level customer contact form covering all HAND Hospitality stores; store-name field allows targeting OKONOMI Brooklyn)",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"OKONOMI Brooklyn\" email contact 150 Ainslie St, Brooklyn, NY 11211, USA",
+          "provider": "DuckDuckGo browser (parent search-leads cache)"
+        }
+      ],
+      "inspected_urls": [
+        "https://nyc.mixb.net/job/articles/240139",
+        "https://www.okonomi.us/",
+        "https://www.okonomi.us/bkhome",
+        "https://www.handhospitality.com/",
+        "https://www.handhospitality.com/handcontact"
+      ],
+      "errors": [
+        "okonomi.us and handhospitality.com pages expose only the placeholder 'user@domain.com' (template artifact), no real published email"
+      ],
+      "outcome": "restricted_purpose_email_and_brand_form_found",
+      "remaining_avenues": [
+        "Ask OKONOMI/YUJI about a general customer-inquiry mailbox via Instagram (@yuji_hawaii linked from okonomi.us) if the parent wants social-bio scraping of a specific post",
+        "Resy/OpenTable listing pages might show an owner-updated email but were not reachable in this pass within budget"
+      ],
+      "effort_notes": "About 5 browser command groups. Deeper than prior 'social_profile_leads_only' sweep: found a published restaurant-specific email (hiring) and proved the HAND HOSPITALITY parent relationship plus a brand-level general inquiry form.",
+      "worker_claimed_checked_at": "2026-10-05T06:53:19Z",
+      "batch_completed_at": "2026-10-05T06:54:31.233557+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.525757+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-14",
+      "artifact_sha256": "e6b5b8faa2c19283b59313e8cad615fc54cacb70462a0d23065cc6f55c0fbbb1",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "okonomi@handhospitality.com"
+      ],
+      "no_general_email_reason": "Only limited-purpose published email(s); no accepted general-inquiry email in checked sources."
+    }
   }
 }

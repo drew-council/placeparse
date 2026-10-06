@@ -666,11 +666,21 @@
   "website": "http://www.mileenddeli.com/",
   "wheelchair_accessible_entrance": false,
   "business_status_checked_at": "2026-10-03T20:05:39.359583+00:00",
-  "emails": [],
+  "emails": [
+    "hello@mileenddeli.com",
+    "catering@mileenddeli.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:25.007317+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "hello@mileenddeli.com": [
+        "https://devmileend.squarespace.com/contact"
+      ],
+      "catering@mileenddeli.com": [
+        "https://devmileend.squarespace.com/catering"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.mileenddeli.com/",
@@ -702,6 +712,54 @@
           "https://localbizdirectoryweb.com/business/mile-end-delicatessen-97-hoyt-st-brooklyn-ny-11217-usa-brooklyn-new-york"
         ],
         "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    },
+    "role_overrides": {
+      "hello@mileenddeli.com": "press",
+      "catering@mileenddeli.com": "events/catering"
+    },
+    "publication_evidence": {
+      "hello@mileenddeli.com": {
+        "evidence": [
+          {
+            "url": "https://devmileend.squarespace.com/contact",
+            "quote": "CONTACT MEDIA INQUIRIES: hello@mileenddeli.com CATERING & EVENTS: catering@mileenddeli.com RESERVATIONS: Book your table via Resy",
+            "identity_evidence": [
+              {
+                "url": "https://devmileend.squarespace.com/contact",
+                "quote": "FIND US LOCATION: 97A HOYT STREET BKLYN, NY 11217 (718) 852-7510"
+              }
+            ],
+            "source_type": "official restaurant Squarespace site (business-owned Mile End Deli site; nav: HOME / THE DELI ON HOYT / ABOUT / MENU / RESERVATIONS / PRIVATE EVENTS / CONTACT / ORDER NOW)",
+            "purpose": "press",
+            "parent_reason": "Parent independently verified public publication and context. Page footer states '97A HOYT STREET, BROOKLYN, NY 11217 (718) 852 - 7510' matching saved address 97 Hoyt St, Brooklyn, NY 11217 and saved phone (718) 852-7510 Live domain www.mileenddeli.com/contact was blocked by a Cloudflare security verification this run; the identical business-owned Squarespace site (devmileend.squarespace.com, same nav/branding/address/phone) publishes this address. Purpose label is media inquiries — a general hello address, though not explicitly a customer-service label. Source-specific purpose preserved; not inferred from mailbox local-part.",
+            "notes": "Live domain www.mileenddeli.com/contact was blocked by a Cloudflare security verification this run; the identical business-owned Squarespace site (devmileend.squarespace.com, same nav/branding/address/phone) publishes this address. Purpose label is media inquiries — a general hello address, though not explicitly a customer-service label.",
+            "checked_at": "2026-10-05T07:21:04.922083+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Live domain www.mileenddeli.com/contact was blocked by a Cloudflare security verification this run; the identical business-owned Squarespace site (devmileend.squarespace.com, same nav/branding/address/phone) publishes this address. Purpose label is media inquiries — a general hello address, though not explicitly a customer-service label. Parent independently verified public publication and context. Page footer states '97A HOYT STREET, BROOKLYN, NY 11217 (718) 852 - 7510' matching saved address 97 Hoyt St, Brooklyn, NY 11217 and saved phone (718) 852-7510 Live domain www.mileenddeli.com/contact was blocked by a Cloudflare security verification this run; the identical business-owned Squarespace site (devmileend.squarespace.com, same nav/branding/address/phone) publishes this address. Purpose label is media inquiries — a general hello address, though not explicitly a customer-service label. Source-specific purpose preserved; not inferred from mailbox local-part."
+      },
+      "catering@mileenddeli.com": {
+        "evidence": [
+          {
+            "url": "https://devmileend.squarespace.com/catering",
+            "quote": "For questions about catering… Give us a call at (646) 617-3188, or send us an email at catering@mileenddeli.com. ... CATERING@MILEENDDELI.COM Let us cater to all of your office, party, and event needs",
+            "identity_evidence": [
+              {
+                "url": "https://devmileend.squarespace.com/catering",
+                "quote": "97A HOYT STREET, BROOKLYN, NY 11217 (718) 852 - 7510"
+              }
+            ],
+            "source_type": "official restaurant Squarespace catering page",
+            "purpose": "events/catering",
+            "parent_reason": "Parent independently verified public publication and context. Same business-owned site; catering page footer states '97A HOYT STREET, BROOKLYN, NY 11217 (718) 852 - 7510' matching saved address/phone Also published on the contact page as 'CATERING & EVENTS: catering@mileenddeli.com'. Purpose is catering-specific; use only for catering inquiries unless promoted as general by parent. Source-specific purpose preserved; not inferred from mailbox local-part.",
+            "notes": "Also published on the contact page as 'CATERING & EVENTS: catering@mileenddeli.com'. Purpose is catering-specific; use only for catering inquiries unless promoted as general by parent.",
+            "checked_at": "2026-10-05T07:21:04.922083+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Also published on the contact page as 'CATERING & EVENTS: catering@mileenddeli.com'. Purpose is catering-specific; use only for catering inquiries unless promoted as general by parent. Parent independently verified public publication and context. Same business-owned site; catering page footer states '97A HOYT STREET, BROOKLYN, NY 11217 (718) 852 - 7510' matching saved address/phone Also published on the contact page as 'CATERING & EVENTS: catering@mileenddeli.com'. Purpose is catering-specific; use only for catering inquiries unless promoted as general by parent. Source-specific purpose preserved; not inferred from mailbox local-part."
       }
     }
   },
@@ -766,6 +824,111 @@
         "\"info@mileenddeli.com\" Mile End Delicatessen"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "mile_end_delicatessen.json",
+      "name": "Mile End Delicatessen",
+      "emails": [
+        {
+          "email": "hello@mileenddeli.com",
+          "url": "https://devmileend.squarespace.com/contact",
+          "quote": "CONTACT MEDIA INQUIRIES: hello@mileenddeli.com CATERING & EVENTS: catering@mileenddeli.com RESERVATIONS: Book your table via Resy",
+          "source_type": "official restaurant Squarespace site (business-owned Mile End Deli site; nav: HOME / THE DELI ON HOYT / ABOUT / MENU / RESERVATIONS / PRIVATE EVENTS / CONTACT / ORDER NOW)",
+          "purpose": "media inquiries / general hello contact (labeled 'MEDIA INQUIRIES')",
+          "business_match": "Page footer states '97A HOYT STREET, BROOKLYN, NY 11217 (718) 852 - 7510' matching saved address 97 Hoyt St, Brooklyn, NY 11217 and saved phone (718) 852-7510",
+          "identity_evidence": [
+            {
+              "url": "https://devmileend.squarespace.com/contact",
+              "quote": "FIND US LOCATION: 97A HOYT STREET BKLYN, NY 11217 (718) 852-7510"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Live domain www.mileenddeli.com/contact was blocked by a Cloudflare security verification this run; the identical business-owned Squarespace site (devmileend.squarespace.com, same nav/branding/address/phone) publishes this address. Purpose label is media inquiries — a general hello address, though not explicitly a customer-service label.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "press",
+            "reason": "Parent independently verified public publication and context. Page footer states '97A HOYT STREET, BROOKLYN, NY 11217 (718) 852 - 7510' matching saved address 97 Hoyt St, Brooklyn, NY 11217 and saved phone (718) 852-7510 Live domain www.mileenddeli.com/contact was blocked by a Cloudflare security verification this run; the identical business-owned Squarespace site (devmileend.squarespace.com, same nav/branding/address/phone) publishes this address. Purpose label is media inquiries — a general hello address, though not explicitly a customer-service label. Source-specific purpose preserved; not inferred from mailbox local-part."
+          }
+        },
+        {
+          "email": "catering@mileenddeli.com",
+          "url": "https://devmileend.squarespace.com/catering",
+          "quote": "For questions about catering… Give us a call at (646) 617-3188, or send us an email at catering@mileenddeli.com. ... CATERING@MILEENDDELI.COM Let us cater to all of your office, party, and event needs",
+          "source_type": "official restaurant Squarespace catering page",
+          "purpose": "catering & events inquiries (restricted purpose: catering, not general)",
+          "business_match": "Same business-owned site; catering page footer states '97A HOYT STREET, BROOKLYN, NY 11217 (718) 852 - 7510' matching saved address/phone",
+          "identity_evidence": [
+            {
+              "url": "https://devmileend.squarespace.com/catering",
+              "quote": "97A HOYT STREET, BROOKLYN, NY 11217 (718) 852 - 7510"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Also published on the contact page as 'CATERING & EVENTS: catering@mileenddeli.com'. Purpose is catering-specific; use only for catering inquiries unless promoted as general by parent.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "events/catering",
+            "reason": "Parent independently verified public publication and context. Same business-owned site; catering page footer states '97A HOYT STREET, BROOKLYN, NY 11217 (718) 852 - 7510' matching saved address/phone Also published on the contact page as 'CATERING & EVENTS: catering@mileenddeli.com'. Purpose is catering-specific; use only for catering inquiries unless promoted as general by parent. Source-specific purpose preserved; not inferred from mailbox local-part."
+          }
+        },
+        {
+          "email": "info@mileenddeli.com",
+          "url": "https://localbizdirectoryweb.com/business/mile-end-delicatessen-97-hoyt-st-brooklyn-ny-11217-usa-brooklyn-new-york",
+          "quote": "97 Hoyt St, Brooklyn, NY 11217, USA Brooklyn, New York, 11217 (718) 852-7510 info@mileenddeli.com http://www.mileenddeli.com",
+          "source_type": "third-party directory (prior citation, matching business details)",
+          "purpose": "general info contact (claimed)",
+          "business_match": "Directory entry matches saved address (97 Hoyt St), phone (718) 852-7510, and website (mileenddeli.com)",
+          "identity_evidence": [
+            {
+              "url": "https://localbizdirectoryweb.com/business/mile-end-delicatessen-97-hoyt-st-brooklyn-ny-11217-usa-brooklyn-new-york",
+              "quote": "97 Hoyt St, Brooklyn, NY 11217, USA ... (718) 852-7510 info@mileenddeli.com http://www.mileenddeli.com"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "candidate",
+          "notes": "Directory entry matches exact address/phone/domain, but attribution is third-party only; the address was not found on any primary source this run. Parent decides whether to promote. Preferred addresses are hello@/catering@ from the business-owned site.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "Parent-provided DuckDuckGo lead: \"Mile End Delicatessen\" email contact 97 Hoyt St, Brooklyn, NY 11217, USA (surfaced devmileend.squarespace.com/catering)",
+          "provider": "DuckDuckGo (parent-authorized tab, via parent-search-leads)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.mileenddeli.com/",
+        "https://www.mileenddeli.com/contact",
+        "https://devmileend.squarespace.com/catering",
+        "https://devmileend.squarespace.com/contact"
+      ],
+      "errors": [
+        "www.mileenddeli.com/contact blocked by Cloudflare 'Performing security verification' (not bypassed); devmileend.squarespace.com used as the business-owned inspectable primary source"
+      ],
+      "outcome": "source_backed_email_found",
+      "remaining_avenues": [
+        "Confirm whether hello@mileenddeli.com is also published on the live www.mileenddeli.com site once Cloudflare challenge passes"
+      ],
+      "effort_notes": "Followed parent lead to the Squarespace catering page, then found the contact page with two addresses; verified business identity via address/phone match. ~5 browser command groups.",
+      "worker_claimed_checked_at": "2026-10-05T06:40:15Z",
+      "batch_completed_at": "2026-10-05T06:41:32.322541+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.518702+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-12",
+      "artifact_sha256": "9d57fba9ea6f3190cf501ca8668997d254d6537a7936507fe739f58a8d4e1796",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "hello@mileenddeli.com",
+        "catering@mileenddeli.com"
+      ],
+      "no_general_email_reason": "Only limited-purpose published email(s); no accepted general-inquiry email in checked sources."
     }
   }
 }

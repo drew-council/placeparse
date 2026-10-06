@@ -103,6 +103,40 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "samis_kabab_house.json",
+      "name": "Sami's Kabab House",
+      "emails": [],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://samis.nyc/",
+        "http://samis.nyc/",
+        "https://web.archive.org/web/20241215115702/https://samis.nyc/",
+        "https://www.foodiecard.com/our-restaurants/samis-kabab-house-astoria"
+      ],
+      "errors": [
+        "https://samis.nyc/ fails with net::ERR_SSL_PROTOCOL_ERROR (also via http) — the official website is currently unreachable, confirming the prior browser_load_error",
+        "web.archive.org replay of samis.nyc (20241215159702 snapshot) loaded with empty body text (Readymag JS site not rendered); only platform emails (support@/hello@readymag.com) in HTML, which are excluded as platform contacts"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Fetch archived samis.nyc raw content (web.archive.org/web/*/samis.nyc/* raw HTML) to extract any historically published contact email if the site returns",
+        "Parent-supervised targeted search: 'Sami's Kabab House' Astoria email OR samiskababhouse @gmail",
+        "Phone (917) 832-7165; Instagram DM out of scope"
+      ],
+      "effort_notes": "Deeper than prior sweep: retried the previously failing official site (still SSL-broken, both schemes), pulled the Internet Archive snapshot (renders empty; no historical email extractable this way), and fully inspected the Foodie Card business page including its Contact tab (phone + Yelp link only, no email). No candidate email surfaced.",
+      "worker_claimed_checked_at": "2026-10-05T07:06:11Z",
+      "batch_completed_at": "2026-10-05T07:13:27.430429+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.535594+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-16",
+      "artifact_sha256": "262a2eb0b2c2a6c15cd73c565919ce8c1d546450c5b8f1d89cd16d596c96d769",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Deeper than prior sweep: retried the previously failing official site (still SSL-broken, both schemes), pulled the Internet Archive snapshot (renders empty; no historical email extractable this way), and fully inspected the Foodie Card business page including its Contact tab (phone + Yelp link only, no email). No candidate email surfaced."
+    }
   }
 }

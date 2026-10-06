@@ -531,6 +531,63 @@
         "reason": "Unrelated/publisher/platform contact or insufficient same-business evidence; not promoted."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "philomenas_pizza.json",
+      "name": "Philomena's Pizza",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Philomena's Pizza\" Sunnyside @philomenasqueens email",
+          "provider": "DuckDuckGo browser (isolated session)",
+          "note": "CAPTCHA challenge page ('Please complete the following challenge... Select all squares containing a duck'); not bypassed"
+        },
+        {
+          "query": "\"Philomena's Pizza\" Sunnyside Queens email contact",
+          "provider": "Bing browser (isolated session)",
+          "note": "Degraded unrelated results (Philomena 2013 film pages); treated as second degraded frontend, stopped cycling providers"
+        },
+        {
+          "query": "\"philomenasqueens.com\" email",
+          "provider": "parent-retrieved targeted search (email-depth-15-targeted-searches.json)",
+          "note": "Parent reported query returned no results"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.philomenasqueens.com/",
+        "https://order.toasttab.com/online/philomena-s#!/order (Cloudflare challenge)",
+        "https://www.instagram.com/philomenasqueens/ (login wall)",
+        "https://www.checkle.com/biz/philomenas-pizza-sunnyside (Vercel security checkpoint)",
+        "https://www.postcard.inc/places/philomenas-pizza-new-york-CWv3YQSFxhA (Vercel security checkpoint)",
+        "https://www.restaurantji.com/ny/queens/philomena-s-restaurant-/ (Cloudflare challenge)",
+        "https://threebestrated.com/vietnamese-restaurants-in-durham-nc (checked only for Pho & Poke House)"
+      ],
+      "errors": [
+        "DuckDuckGo served human-verification CAPTCHA; not bypassed per contract",
+        "Bing returned unrelated degraded results (movie 'Philomena'); two frontends degraded -> stopped cycling search providers",
+        "order.toasttab.com and restaurantji.com behind Cloudflare challenges",
+        "checkle.com and postcard.inc behind Vercel security checkpoints",
+        "instagram.com profile redirects to login wall without account"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Instagram bio @philomenasqueens (handle confirmed via postcard.inc search snippet) cannot be read without login; a parent-tab check of the public bio could confirm presence/absence of a published email",
+        "Facebook Page About section for the business (page not linked from the Wix site; handle would need a parent search to confirm)",
+        "Owner-cited press contacts in amNY profile article were previously rejected as reporter addresses, correctly"
+      ],
+      "effort_notes": "Primary Wix site examined end-to-end: entire homepage link graph contains only tel:718-255-1778 and a Toast online-order link; zero mailto/links to contact/about/privacy pages; footer reads '©2019 by AFG, Inc. Proudly created with Wix.com'. No contact page exists in observed navigation. Directory/social leads all blocked by challenges or login walls. Not found in checked sources; not asserting no email exists.",
+      "prior_context": "Previously rejected restaurantjump yrosa968@gmail.com, amNY edavenport@qns.com, restaurantedroop server@restaurantedroop.com (publisher contacts) — not revisited as leads.",
+      "worker_claimed_checked_at": "2026-10-05T06:58:20Z",
+      "batch_completed_at": "2026-10-05T06:59:29.442618+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.529640+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-15",
+      "artifact_sha256": "2823dc4cb0abec228d7f3debd15e3c3f6fcee75bf12c734f76f78b7da179ea94",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Primary Wix site examined end-to-end: entire homepage link graph contains only tel:718-255-1778 and a Toast online-order link; zero mailto/links to contact/about/privacy pages; footer reads '©2019 by AFG, Inc. Proudly created with Wix.com'. No contact page exists in observed navigation. Directory/social leads all blocked by challenges or login walls. Not found in checked sources; not asserting no email exists."
+    }
   }
 }

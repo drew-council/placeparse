@@ -457,11 +457,17 @@
   "website": "https://www.brooklynballfactory.com/",
   "wheelchair_accessible_entrance": true,
   "business_status_checked_at": "2026-10-03T20:04:47.679071+00:00",
-  "emails": [],
+  "emails": [
+    "orders@brooklynballfactory.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:13.495667+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "orders@brooklynballfactory.com": [
+        "https://www.brooklynballfactory.com/location/"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.brooklynballfactory.com/",
@@ -486,7 +492,37 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:07:49.038514+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "orders@brooklynballfactory.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "orders@brooklynballfactory.com": {
+        "evidence": [
+          {
+            "url": "https://www.brooklynballfactory.com/location/",
+            "quote": "Brooklyn Ball Factory Inc - 95 Montrose Ave - Brooklyn, New York 11206-2007 - (718) 387-5092 - orders@brooklynballfactory.com (live mailto link: mailto:orders@brooklynballfactory.com)",
+            "identity_evidence": [
+              {
+                "url": "https://www.brooklynballfactory.com/location/",
+                "quote": "Location & Hours - Brooklyn Ball Factory Inc 95 Montrose Ave Brooklyn, New York 11206-2007 (718) 387-5092 orders@brooklynballfactory.com"
+              },
+              {
+                "url": "https://www.brooklynballfactory.com/contact",
+                "quote": "Contact us - Send us a message and we'll get back to you as soon as possible (same domain, 95 Montrose Avenue footer)"
+              }
+            ],
+            "source_type": "official_website_location_page",
+            "purpose": "general/unspecified",
+            "parent_reason": "Original browser tool output independently audited: primary Location & Hours page publishes mailbox and mailto beside exact saved 95 Montrose Ave. Phone differs (718-387-5092 vs cached 5296), preserved routing caveat; primary contact block has no orders-only restriction. Parent replays returned blank DOM.",
+            "notes": "Address-prefixed mailbox named 'orders@'; treat as general/orders line rather than a named individual. Parent's search lead independently surfaced the same address on the same page, now verified in-session via live mailto extraction.",
+            "checked_at": "2026-10-05T08:21:32.556462+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Address-prefixed mailbox named 'orders@'; treat as general/orders line rather than a named individual. Parent's search lead independently surfaced the same address on the same page, now verified in-session via live mailto extraction. Original browser tool output independently audited: primary Location & Hours page publishes mailbox and mailto beside exact saved 95 Montrose Ave. Phone differs (718-387-5092 vs cached 5296), preserved routing caveat; primary contact block has no orders-only restriction. Parent replays returned blank DOM."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [
@@ -539,6 +575,72 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "brooklyn_ball_factory.json",
+      "name": "Brooklyn Ball Factory",
+      "emails": [
+        {
+          "email": "orders@brooklynballfactory.com",
+          "url": "https://www.brooklynballfactory.com/location/",
+          "quote": "Brooklyn Ball Factory Inc - 95 Montrose Ave - Brooklyn, New York 11206-2007 - (718) 387-5092 - orders@brooklynballfactory.com (live mailto link: mailto:orders@brooklynballfactory.com)",
+          "source_type": "official_website_location_page",
+          "purpose": "general business contact / orders mailbox published as the location's primary contact line on the official Location & Hours page",
+          "business_match": "Official website brooklynballfactory.com (saved website) location page lists 'Brooklyn Ball Factory Inc, 95 Montrose Ave, Brooklyn, New York 11206-2007' - an exact match to the saved address (95 Montrose Ave, Brooklyn, NY 11206). Phone shown is (718) 387-5092 vs saved (718) 387-5296; address and domain identity are exact.",
+          "identity_evidence": [
+            {
+              "url": "https://www.brooklynballfactory.com/location/",
+              "quote": "Location & Hours - Brooklyn Ball Factory Inc 95 Montrose Ave Brooklyn, New York 11206-2007 (718) 387-5092 orders@brooklynballfactory.com"
+            },
+            {
+              "url": "https://www.brooklynballfactory.com/contact",
+              "quote": "Contact us - Send us a message and we'll get back to you as soon as possible (same domain, 95 Montrose Avenue footer)"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Address-prefixed mailbox named 'orders@'; treat as general/orders line rather than a named individual. Parent's search lead independently surfaced the same address on the same page, now verified in-session via live mailto extraction.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Original browser tool output independently audited: primary Location & Hours page publishes mailbox and mailto beside exact saved 95 Montrose Ave. Phone differs (718-387-5092 vs cached 5296), preserved routing caveat; primary contact block has no orders-only restriction. Parent replays returned blank DOM."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://www.brooklynballfactory.com/contact",
+          "business_match": "Official site; footer '95 Montrose Avenue, Brooklyn NY 11206' matches the saved address.",
+          "fields": [
+            "free-text message form (reCAPTCHA-protected, 'Send us a message...')",
+            "Submit"
+          ],
+          "purpose": "general",
+          "general_vs_restricted": "General free-text contact form.",
+          "submission_tested": false
+        }
+      ],
+      "queries": [],
+      "inspected_urls": [
+        "https://www.brooklynballfactory.com/location/",
+        "https://www.brooklynballfactory.com/contact"
+      ],
+      "errors": [],
+      "outcome": "email_found",
+      "remaining_avenues": [],
+      "effort_notes": "Followed the parent's search lead to the official /location/ page (JS-rendered Maker app), waited for render, and extracted the live mailto plus surrounding identity text; cross-checked the contact page which publishes no separate mailbox.",
+      "worker_claimed_checked_at": "2026-10-05T07:52:00Z",
+      "batch_completed_at": "2026-10-05T07:52:36.451106+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.556462+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-22",
+      "artifact_sha256": "a467a93aa7340f94c5b0f762b59bc5fc004bc4f3bcb81cd7a1f2c97ecb23f0d4",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "orders@brooklynballfactory.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

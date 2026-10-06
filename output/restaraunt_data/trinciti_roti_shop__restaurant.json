@@ -450,7 +450,17 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:58.493490+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "candidate_sources": {
+      "badskyz89@gmail.com": {
+        "urls": [
+          "https://findindianrestaurants.com/restaurants/trinciti-roti-shop-restaurant/"
+        ],
+        "reason": "Parent review pending; publication, exact branch attribution, currentness, and purpose are not yet all accepted.",
+        "role": "general/unspecified",
+        "checked_at": "2026-10-05T08:21:32.545913+00:00"
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -523,6 +533,64 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "trinciti_roti_shop__restaurant.json",
+      "name": "Trinciti Roti Shop & Restaurant",
+      "emails": [
+        {
+          "email": "badskyz89@gmail.com",
+          "url": "https://findindianrestaurants.com/restaurants/trinciti-roti-shop-restaurant/",
+          "quote": "\"Address: 111-03 Lefferts Boulevard\\nqueens\\nNew York\\nNew York\\n11420\\nUnited States\\n Email: badskyz89@gmail.com\\n Website\"",
+          "source_type": "third_party_directory",
+          "purpose": "general business contact email as published in the directory's business-contact block",
+          "business_match": "Directory listing titled 'Trinciti Roti Shop & Restaurant' with address 111-03 Lefferts Boulevard, 11420 - exact match to saved address 111-03 Lefferts Blvd, South Ozone Park, NY 11420. Gmail personal-style handle suggests the proprietor; contract permits published business-purpose proprietor addresses when clearly serving this restaurant, but single-source attribution is weak.",
+          "identity_evidence": [
+            {
+              "url": "https://findindianrestaurants.com/restaurants/trinciti-roti-shop-restaurant/",
+              "quote": "\" 111-03 Lefferts Boulevard\\nqueens\\nNew York\\nNew York\\n11420\\nUnited States\\n Email: badskyz89@gmail.com\\n Website ... 111-03 Lefferts Boulevard, 11420\""
+            }
+          ],
+          "confidence": "low",
+          "decision": "candidate",
+          "notes": "Single third-party source; no corroboration on wherevi.com or promallu.com pages (both list the business without any email). Not promoted to source_backed. The restaurant's own domain trinciti.com now redirects to an unrelated Indonesian gambling site (nav-links.com 'WAZETOTO'), so no official-source confirmation is currently possible.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://trinciti.com/ (redirects to https://www.nav-links.com/ - hijacked/lapsed domain)",
+        "https://restaurantjump.com/trinciti-roti-shop-restaurant-11420/ (Cloudflare challenge)",
+        "https://findindianrestaurants.com/restaurants/trinciti-roti-shop-restaurant/",
+        "https://trinciti-roti-shop-restaurant.wherevi.com/",
+        "https://promallu.com/toprated/united-states/trinciti-roti-shop-restaurant-0e6xpe/"
+      ],
+      "errors": [
+        "trinciti.com redirects to nav-links.com (WAZETOTO gambling site) with ERR_TOO_MANY_REDIRECTS - official domain no longer serves the restaurant",
+        "restaurantjump.com blocked by Cloudflare 'Just a moment...'",
+        "chamberofcommerce.com Trinciti listing not loaded (same Cloudflare-challenged domain as earlier this session)"
+      ],
+      "outcome": "candidate_only",
+      "remaining_avenues": [
+        "Chamber of Commerce listing https://www.chamberofcommerce.com/business-directory/new-york/jamaica/miscellaneous/2012356601-trinciti-roti-shop-restaurant from parent leads (Cloudflare-challenged this session; may contain an additional published email)",
+        "Facebook 'fb-answers' result from prior searches suggests a Facebook page exists; logged-out bio check could confirm/corroborate the Gmail address",
+        "Direct phone call to (718) 641-3636 to request a published email address"
+      ],
+      "effort_notes": "Confirmed the official domain is dead/hijacked (explains the prior nav-links.com browser page). Extracted a concrete published candidate (badskyz89@gmail.com) from findindianrestaurants.com with exact quote and matching address; cross-checked two other directories with negative results. Did not promote without official or second-source confirmation.",
+      "worker_claimed_checked_at": "2026-10-05T07:37:14Z",
+      "batch_completed_at": "2026-10-05T07:43:09.783387+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.545913+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-19",
+      "artifact_sha256": "c6e236df0a2fe0da9b0e351de461a5a6223860fd83d86b4efcd31e2aac919f51",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
+    }
   }
 }

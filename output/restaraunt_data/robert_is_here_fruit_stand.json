@@ -475,7 +475,8 @@
     "candidate_sources": {
       "fresh@robertishere.com": {
         "urls": [
-          "https://www.bringfido.com/attraction/44171"
+          "https://www.bringfido.com/attraction/44171",
+          "https://miami.kidsoutandabout.com/content/robert-here-fruit-stand-and-farm"
         ],
         "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
       },
@@ -488,7 +489,26 @@
     }
   },
   "text_contact_discovery": {
-    "channels": [],
+    "channels": [
+      {
+        "kind": "contact_form",
+        "url": "https://www.robertishere.com/pages/contact-us",
+        "purpose": "general inquiry",
+        "business_match_confirmed": true,
+        "business_match_evidence": "Official site footer and page show 'Robert Is Here, Inc.', phone (305)246-1592, address 19200 SW 344th St, Homestead, FL 33034",
+        "field_evidence": [
+          "Search",
+          "q",
+          "Name",
+          "Email *",
+          "Phone number",
+          "Comment"
+        ],
+        "notes": "Parent independently confirmed actual message field and public general-inquiry wording. Not submitted/delivery tested.",
+        "checked_at": "2026-10-05T08:25:23.512999+00:00",
+        "submission_tested": false
+      }
+    ],
     "checked_at": "2026-10-04T20:25:45.321777+00:00",
     "method": "agent-browser rendered sites and public search results; no submissions or messages",
     "pages": [
@@ -559,6 +579,106 @@
         "\"fresh@robertishere.com\" Robert Is Here Fruit Stand"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "robert_is_here_fruit_stand.json",
+      "name": "Robert Is Here Fruit Stand",
+      "emails": [
+        {
+          "email": "fresh@robertishere.com",
+          "url": "https://miami.kidsoutandabout.com/content/robert-here-fruit-stand-and-farm",
+          "quote": "Address: 19200 SW 344th St Homestead , FL , 33034 Phone: 305-246-1592 https://www.robertishere.com/ fresh@robertishere.com Contact name: Robert is Here",
+          "source_type": "third_party_directory (Kids Out and About Miami organization listing, published mailto link)",
+          "purpose": "general business contact (contact field of the venue's organization listing)",
+          "business_match": "Listing shows the exact saved address (19200 SW 344th St, Homestead, FL 33034), matching phone 305-246-1592, and the official site https://www.robertishere.com/ with contact name 'Robert is Here'",
+          "identity_evidence": [
+            {
+              "url": "https://miami.kidsoutandabout.com/content/robert-here-fruit-stand-and-farm",
+              "quote": "Family owned and operated since 1959. We specialize in rare and exotic tropical fruits and fresh tropical fruit milkshakes."
+            },
+            {
+              "url": "https://www.robertishere.com/pages/contact-us",
+              "quote": "Phone: (305)246-1592 ... 19200 SW 344th St, Homestead, FL 33034"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "candidate",
+          "notes": "Published as a live mailto: link on a third-party family-guide listing whose address/phone/website exactly match the saved business. Same address also appeared as prior candidate from BringFido (BringFido re-fetch returned a Cloudflare challenge this run, so re-verification there was not possible). Not published on the official site; treat as candidate until the business confirms.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        },
+        {
+          "email": "info@robertishere.com",
+          "url": "https://farmhopflorida.com/farm/robert-is-here-fruit-stand",
+          "quote": "\"name\":\"Robert Is Here Fruit Stand\",\"description\":\"Iconic tropical fruit stand and small zoo in Homestead since 1959.\",\"telephone\":\"305-246-1592\",\"email\":\"info@robertishere.com\",\"sameAs\":[\"https://robertishere.com\"],\"address\":{\"streetAddress\":\"19200 SW 344th St\",\"addressLocality\":\"Homestead\"}",
+          "source_type": "third_party_directory (Farm Hop Florida farm listing with JSON-LD contact data)",
+          "purpose": "general business contact (email field of the venue's listing)",
+          "business_match": "Listing telephone 305-246-1592 and streetAddress 19200 SW 344th St, Homestead FL 33034 match the saved business; sameAs points to the official site robertishere.com",
+          "identity_evidence": [
+            {
+              "url": "https://farmhopflorida.com/farm/robert-is-here-fruit-stand",
+              "quote": "You can call 305-246-1592, or email info@robertishere.com, or visit https://robertishere.com"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "candidate",
+          "notes": "Same address independently republished by prior packet lead; official site contact page publishes no email, so third-party ownership cannot be confirmed from primary sources this run.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://www.robertishere.com/pages/contact-us",
+          "business_match": "Official site footer and page show 'Robert Is Here, Inc.', phone (305)246-1592, address 19200 SW 344th St, Homestead, FL 33034",
+          "fields": "Name, Email *, Phone number, Comment, Send (visible free-text 'Comment' field)",
+          "general_or_restricted": "general",
+          "submission_tested": false,
+          "notes": "Official Shopify contact form labeled 'EMAIL FORM'; no published email address anywhere on the official contact page."
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"info@robertishere.com\" OR \"fresh@robertishere.com\"",
+          "provider": "DuckDuckGo browser"
+        },
+        {
+          "query": "\"robertishere.com\" email contact",
+          "provider": "Bing browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.robertishere.com/pages/contact-us",
+        "https://farmhopflorida.com/farm/robert-is-here-fruit-stand",
+        "https://www.bringfido.com/attraction/44171",
+        "https://www.miamiandbeaches.com/l/attractions/robert-is-here-fruit-stand-and-farm/16990",
+        "https://miami.kidsoutandabout.com/content/robert-here-fruit-stand-and-farm"
+      ],
+      "errors": [
+        "DuckDuckGo returned an anti-bot CAPTCHA ('Please complete the following challenge... Select all squares containing a duck') for the quoted-email query; not bypassed",
+        "Bing returned degraded unrelated results (YouTube Music pages) for the domain-email query",
+        "https://www.bringfido.com/attraction/44171 served a Cloudflare 'Attention Required!' challenge page on re-inspection"
+      ],
+      "outcome": "candidate_emails_found_third_party_published_official_form_available",
+      "remaining_avenues": [
+        "Parent-supervised targeted search to find a primary-source publication of fresh@robertishere.com or info@robertishere.com (e.g., official Facebook/Instagram bio, career or event listings)",
+        "Re-inspect BringFido listing when Cloudflare challenge clears"
+      ],
+      "effort_notes": "Official contact page inspected (form only, no email); both prior third-party candidate leads re-verified in live pages with identity matching; two search angles attempted, one CAPTCHA + one degraded; Kids Out and About page surfaced a new mailto lead with full identity match.",
+      "worker_claimed_checked_at": "2026-10-05T07:06:11Z",
+      "batch_completed_at": "2026-10-05T07:13:27.430429+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.533253+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-16",
+      "artifact_sha256": "262a2eb0b2c2a6c15cd73c565919ce8c1d546450c5b8f1d89cd16d596c96d769",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
     }
   }
 }

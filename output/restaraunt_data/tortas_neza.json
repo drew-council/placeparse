@@ -529,6 +529,41 @@
         "requires_login": true,
         "search_provider": "DuckDuckGo browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "tortas_neza.json",
+      "name": "Tortas Neza",
+      "emails": [],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://tortasnezany.com/ (SSL failure; raw HTTP fetch attempted)",
+        "http://tortasnezany.com/ (curl, no browser)",
+        "https://fromtherestaurant.com/tortas-neza/ (redirects to /locations/)",
+        "https://www.datalane.com/contacts/restaurants/tortas-neza"
+      ],
+      "errors": [
+        "https://tortasnezany.com/ fails with net::ERR_SSL_PROTOCOL_ERROR (invalid TLS response)",
+        "http://tortasnezany.com/ now serves 'FromTheRestaurant | Find Restaurants Near You' platform homepage - the former restaurant domain is lapsed/repurposed and no longer restaurant content",
+        "datalane.com blocked by Cloudflare 'Performing security verification'; not bypassed"
+      ],
+      "outcome": "no_email_found",
+      "remaining_avenues": [
+        "datalane.com/contacts/restaurants/tortas-neza explicitly advertises 'Owner Phone & Email' for Tortas Neza but is Cloudflare-gated in this session; the parent could retrieve this page in an authorized tab - it is the single most promising remaining lead",
+        "Facebook public page https://www.facebook.com/p/Tortas-Neza-100063750061179/ bio may contain an email; login-walled here",
+        "fromtherestaurant.com platform 'Contact' flow for the Flushing location (no contact route observed on the locations page)"
+      ],
+      "effort_notes": "Key discovery: the restaurant's former official domain tortasnezany.com is dead/repurposed (HTTP fetch serves the FromTheRestaurant placeholder homepage; HTTPS fails). The live ordering presence fromtherestaurant.com/tortas-neza/locations/ confirms the same business (104-58 Roosevelt Ave, Flushing NY 11368) but publishes no email or general form. Directory lead datalane blocked by Cloudflare.",
+      "worker_claimed_checked_at": "2026-10-05T07:37:14Z",
+      "batch_completed_at": "2026-10-05T07:43:09.783387+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.545370+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-19",
+      "artifact_sha256": "c6e236df0a2fe0da9b0e351de461a5a6223860fd83d86b4efcd31e2aac919f51",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Key discovery: the restaurant's former official domain tortasnezany.com is dead/repurposed (HTTP fetch serves the FromTheRestaurant placeholder homepage; HTTPS fails). The live ordering presence fromtherestaurant.com/tortas-neza/locations/ confirms the same business (104-58 Roosevelt Ave, Flushing NY 11368) but publishes no email or general form. Directory lead datalane blocked by Cloudflare."
+    }
   }
 }

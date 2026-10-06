@@ -521,6 +521,48 @@
         "reason": "Directory/review/profile-update/assistant form, different business, or website ownership unconfirmed; not a verified restaurant inquiry channel."
       }
     ],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "fat_cat_flatbread.json",
+      "name": "Fat Cat Flatbread",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Fat Cat Flatbread\" email contact Foot Court #6, 133-35, Roosevelt Ave, Flushing, NY 11354, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent search-leads file)"
+        },
+        {
+          "query": "\"Fat Cat Flatbread\" OR \"牛王照烧\" Flushing contact email",
+          "provider": "DuckDuckGo browser (own isolated session)"
+        }
+      ],
+      "inspected_urls": [
+        "https://duckduckgo.com/?q=%22Fat+Cat+Flatbread%22+OR+%22%E7%89%9B%E7%8E%8B%E7%85%A7%E7%83%A7%22+Flushing+contact+email&ia=web",
+        "parent search-leads result URLs (snippets reviewed): chamberofcommerce.com 2014134615-fat-cat-flatbread, usarestaurants.info fat-cat-flatbread-929-758-8666.htm, yelp.com/biz/fat-cat-flatbread-flushing, local.yahoo.com/info-228491208, checkle.com/biz/fat-cat-flatbread-flushing, mapquest.com/us/new-york/fat-cat-flatbread-430304649, opengovus.com/new-york-restaurant/50109712"
+      ],
+      "errors": [
+        "DuckDuckGo ordinary web page in own session again returned only the homepage shell (body length 1034 chars, zero results) — degraded/challenged frontend, second and final search-provider attempt per contract",
+        "Google not retried after the CAPTCHA block seen in the Eight Jane attempt (same IP/session)"
+      ],
+      "outcome": "not_found_in_checked_sources",
+      "remaining_avenues": [
+        "Contact the host venue: stall is 'Located in: New York Food Court 紐約美食城' at 133-35 Roosevelt Ave, Flushing (per Yelp) — the food-court operator may publish a general email",
+        "DOHMH permit record (opengovus.com/new-york-restaurant/50109712) lists a second phone 917-855-9486 usable for phone-first contact",
+        "Chinese-language search (Xiaohongshu/WeChat/Dianping) and delivery-platform (Uber Eats/Grubhub) merchant channels",
+        "Retry DDG/other engines from a different IP at a later batch"
+      ],
+      "effort_notes": "2 browser command groups (plus shared engine failures). Parent leads contained only directory listings with address/phone, no email-bearing source. Food-court stall with no website; no email published in any checked source. Explicitly: not found in checked sources, not proven absent.",
+      "worker_claimed_checked_at": "2026-10-05T06:07:26Z",
+      "batch_completed_at": "2026-10-05T06:08:26.553340+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.495496+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-06",
+      "artifact_sha256": "e11e1d9f58095060f98f50f52d96bb4678ba34ea4e22b0b50257b8c722ad9ada",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. 2 browser command groups (plus shared engine failures). Parent leads contained only directory listings with address/phone, no email-bearing source. Food-court stall with no website; no email published in any checked source. Explicitly: not found in checked sources, not proven absent."
+    }
   }
 }

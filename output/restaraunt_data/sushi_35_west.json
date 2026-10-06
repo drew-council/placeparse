@@ -517,6 +517,52 @@
         "requires_login": true,
         "search_provider": "DuckDuckGo browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "sushi_35_west.json",
+      "name": "Sushi 35 West",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"sushi35west\" OR \"Sushi 35 West\" contact \"@\" email 35th St",
+          "provider": "DuckDuckGo full-JS page"
+        },
+        {
+          "query": "\"sushi35west.com\" email contact",
+          "provider": "Bing"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.sushi35west.com/ (navigation timed out repeatedly)",
+        "https://www.sushi35west.com/contact-us/ (navigation timed out twice)",
+        "https://www.facebook.com/people/Sushi-35-West/100068705081123/ (About contact section not exposed on main page; no email in rendered text)",
+        "https://www.findglocal.com/US/New-York/104783001812830/Sushi-35-West (Cloudflare challenge)",
+        "https://sushi-35-west.wheree.com/ (Cloudflare challenge)"
+      ],
+      "errors": [
+        "www.sushi35west.com contact-us and root: Page.navigate / Runtime.evaluate CDP command timeouts on 3 attempts, including with 60s timeout; official site unreachable from this session",
+        "findglocal.com and wheree.com returned Cloudflare 'Performing security verification' challenges; not bypassed",
+        "DuckDuckGo search returned a human-verification CAPTCHA ('Select all squares containing a duck'); not bypassed",
+        "Bing returned degraded unrelated results (microsoft.com results); search-provider cycling stopped per contract after two degraded frontends"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Retry www.sushi35west.com/contact-us/ from a different network/time; the Menusifu-powered site previously loaded (prior_browser_pages shows browser_ok) and its footer/contact markup may contain a mailto",
+        "Call (646) 882-6666 and ask for a customer-inquiry address",
+        "Re-check the Facebook page's full Contact info section when viewable without login"
+      ],
+      "effort_notes": "~4 command groups plus 2 searches. Official site persistently unreachable (timeouts); FB page and two mirror/directory sites had no email or were challenge-gated. Prior rejected yrosa968@gmail.com (RestaurantJump) not revisited; still looks like publisher/directory-owner contact.",
+      "worker_claimed_checked_at": "2026-10-05T07:12:42Z",
+      "batch_completed_at": "2026-10-05T07:17:51.087573+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.539865+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-18",
+      "artifact_sha256": "16a28371751602f2c7169c43d6552d89c7da323e404aaba1d36e965715a710c9",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. ~4 command groups plus 2 searches. Official site persistently unreachable (timeouts); FB page and two mirror/directory sites had no email or were challenge-gated. Prior rejected yrosa968@gmail.com (RestaurantJump) not revisited; still looks like publisher/directory-owner contact."
+    }
   }
 }

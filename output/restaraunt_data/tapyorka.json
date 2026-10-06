@@ -111,6 +111,46 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "tapyorka.json",
+      "name": "Tapyorka",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"tapyorka\" astoria email contact",
+          "provider": "DuckDuckGo (returned no rendered results - degraded frontend)"
+        }
+      ],
+      "inspected_urls": [
+        "http://tapyorka.com/",
+        "https://tapyorka.com/menu/ (observed from homepage links, not separately opened)",
+        "https://www.buyblack.org/united-states/astoria/restaurants/tapyorka",
+        "https://www.nycrestaurantgrades.com/restaurants/queens/tapyorka-50178034",
+        "https://www.instagram.com/tapyorka/ (login-walled)"
+      ],
+      "errors": [
+        "buyblack.org blocked by 'Just a moment...' Cloudflare challenge",
+        "Instagram profile redirects to accounts/login; public bio not retrievable without login (not attempted)"
+      ],
+      "outcome": "no_email_found",
+      "remaining_avenues": [
+        "Instagram @tapyorka bio (public profile) may contain an email; requires a logged-out mobile/og-meta route or parent retrieval",
+        "Grubhub/UberEats/Postmates merchant listings sometimes expose a public business email in legal/operator footer fields; not checked this pass",
+        "Tapyorka is 'por Axya Studio' (web agency); the studio site might link an owner contact, but this would be a designer/agency route, likely not restaurant staff"
+      ],
+      "effort_notes": "Official site footer contains: 'Fale conosco ... Tel.: (347) 396 58-35 ... @tapyorka ... Endereço: 31-05 36th ave, Astoria NY, 11106' plus a newsletter signup form (newsletter-only, not a general inquiry form) and Instagram link. No mailto or published email anywhere on the site. Social-profile-lead outcome confirmed; only the newsletter form exists (not promoted per contract rules).",
+      "worker_claimed_checked_at": "2026-10-05T07:37:14Z",
+      "batch_completed_at": "2026-10-05T07:43:09.783387+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.544053+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-19",
+      "artifact_sha256": "c6e236df0a2fe0da9b0e351de461a5a6223860fd83d86b4efcd31e2aac919f51",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Official site footer contains: 'Fale conosco ... Tel.: (347) 396 58-35 ... @tapyorka ... Endereço: 31-05 36th ave, Astoria NY, 11106' plus a newsletter signup form (newsletter-only, not a general inquiry form) and Instagram link. No mailto or published email anywhere on the site. Social-profile-lead outcome confirmed; only the newsletter form exists (not promoted per contract rules)."
+    }
   }
 }

@@ -454,7 +454,17 @@
     "outcome": "no_website",
     "sources": {},
     "pages": [],
-    "contact_forms": []
+    "contact_forms": [],
+    "excluded_sources": {
+      "privacy@dine.online": {
+        "urls": [
+          "https://cauldronchicken.dine.online/legal/privacy-policy?fulfillment=pickup"
+        ],
+        "reason": "Ordering-platform privacy processor's mailbox, not restaurant staff. Store-customized privacy-request subjects do not establish a restaurant inquiry route. Preserve as explicitly excluded evidence, never as a recipient or an active restaurant-email candidate.",
+        "role": "platform privacy/legal",
+        "checked_at": "2026-10-05T06:22:42.091991+00:00"
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -512,6 +522,76 @@
         "requires_login": true,
         "search_provider": "DuckDuckGo browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "cauldron_chicken.json",
+      "name": "Cauldron Chicken",
+      "emails": [
+        {
+          "email": "privacy@dine.online",
+          "url": "https://cauldronchicken.dine.online/legal/privacy-policy?fulfillment=pickup",
+          "quote": "mailto:privacy@dine.online | privacy@dine.online (published on the official Cauldron Chicken dine.online ordering site's privacy-policy page)",
+          "source_type": "official_ordering_site_legal_page",
+          "purpose": "platform data-privacy/legal contact (privacy requests, deletion requests) of the dine.online ordering platform that powers cauldronchicken.dine.online",
+          "business_match": "Published on the restaurant's own officially linked site (linked from its Facebook bio: 'cauldronchicken.dine.online/locations/919819?fulfillment=pickup&utm_source=website'), and the mailto bodies are customized with 'cauldronchicken portability request'/'cauldronchicken deletion request' strings, tying it to this store.",
+          "identity_evidence": [
+            {
+              "url": "https://www.facebook.com/profile.php?id=61554606834103&sk=about",
+              "quote": "Cauldron Chicken ... Page · Restaurant | 190 Bleecker St, New York, NY, United States, 10012 | (646) 869-8888 | Websites and social links | https://cauldronchicken.dine.online/locations/919819?fulfillment=pickup&utm_source=website"
+            },
+            {
+              "url": "https://cauldronchicken.dine.online/locations/919819",
+              "quote": "Cauldron Chicken, 190 Bleecker Street | Store Info | 190 Bleecker Street | New York, NY, 10012 | +1 (646) 869-8888"
+            }
+          ],
+          "confidence": "low",
+          "decision": "candidate",
+          "notes": "This is the PLATFORM's privacy/legal mailbox, not a restaurant general-inquiry address; it does not route to restaurant staff for general questions. Listed as a candidate with explicit purpose labeling per contract (legal-page email labeled by purpose); parent should almost certainly withhold it for general customer contact. No general restaurant email was found anywhere on the dine.online store, its legal pages, Chowbus store, or the Facebook page bio.",
+          "parent_decision": {
+            "decision": "reject",
+            "role": "platform privacy/legal",
+            "reason": "Ordering-platform privacy processor's mailbox, not restaurant staff. Store-customized privacy-request subjects do not establish a restaurant inquiry route. Preserve as explicitly excluded evidence, never as a recipient or an active restaurant-email candidate."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Cauldron Chicken\" New York, NY 10012 contact email",
+          "provider": "DuckDuckGo browser (prior sweep)"
+        }
+      ],
+      "inspected_urls": [
+        "https://pos.chowbus.com/online-ordering/store/Cauldron-Chicken/14138",
+        "https://cauldronchicken.dine.online/locations/919819",
+        "https://cauldronchicken.dine.online/legal/terms-of-use?fulfillment=pickup",
+        "https://cauldronchicken.dine.online/legal/privacy-policy?fulfillment=pickup",
+        "https://fudpin.com/place/cauldron-chicken",
+        "https://www.facebook.com/profile.php/?id=61554606834103",
+        "https://www.facebook.com/profile.php?id=61554606834103&sk=about",
+        "https://opengovny.com/corporation/6792710"
+      ],
+      "errors": [
+        "https://opengovny.com/corporation/6792710 returns HTTP 403 'Access to opengovny.com was denied'.",
+        "No email or mailto found on the official dine.online store page, its terms-of-use page, the Chowbus POS store, or fudpin."
+      ],
+      "outcome": "not_found_in_checked_sources_platform_contact_only",
+      "remaining_avenues": [
+        "dine.online platform may offer a store-specific contact/feedback route behind interactive UI not rendered in headless browsing.",
+        "Phone (646) 869-8888 remains the only restaurant-staff channel.",
+        "If a working search engine becomes available, search for press/coverage naming an owner contact."
+      ],
+      "effort_notes": "~7 browser command groups. Depth gains this run: discovered the official ordering site cauldronchicken.dine.online via the Facebook bio (not in the saved website field) and swept its store + legal pages; found only the platform privacy mailbox, which is labeled as a low-confidence platform candidate rather than a restaurant contact.",
+      "worker_claimed_checked_at": "2026-10-05T05:35:00Z",
+      "batch_completed_at": "2026-10-05T05:54:15.783326+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.483080+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-03",
+      "artifact_sha256": "7ea29bb6d9a8d43f5cf1c18d5242c0651789326c70094b613244ec482ab8951d",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
+    }
   }
 }

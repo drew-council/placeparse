@@ -539,8 +539,12 @@
   "business_status_checked_at": "2026-10-03T20:04:56.499123+00:00",
   "email_discovery": {
     "checked_at": "2026-10-03T21:48:24.568734+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "info@plataformanyc.com": [
+        "https://plataformaonline.com/contact-steakhouse-nyc/"
+      ]
+    },
     "pages": [
       {
         "url": "https://plataformaonline.com/",
@@ -548,7 +552,37 @@
         "emails": []
       }
     ],
-    "contact_forms": []
+    "contact_forms": [],
+    "role_overrides": {
+      "info@plataformanyc.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "info@plataformanyc.com": {
+        "evidence": [
+          {
+            "url": "https://plataformaonline.com/contact-steakhouse-nyc/",
+            "quote": "Footer icon anchor href=\"mailto:info@plataformanyc.com\" with aria-label=\"mail\", data-title=\"Email\" (tooltip 'Email') on the official Contact Us page",
+            "identity_evidence": [
+              {
+                "url": "https://plataformaonline.com/contact-steakhouse-nyc/",
+                "quote": "Page title 'Contact Us - Plataforma Steakhouse'; footer '©2026 • Plataforma Steakhouse • All Rights Reserved'; contact page lists phone (212) 245-0505"
+              },
+              {
+                "url": "https://plataformaonline.com/group-dining-new-york/",
+                "quote": "Same mailto:info@plataformanyc.com footer icon appears on the Group Dining page; page offers 'Inquire Now' group-dining routes"
+              }
+            ],
+            "source_type": "official_website",
+            "purpose": "general/unspecified",
+            "parent_reason": "Parent independently confirmed literal mailto link on known restaurant website's Contact Us page. Original child tool output verified Email icon label and (212) 245-0505 phone match. Not the historical engineering-company false positive.",
+            "notes": "This is a literal published general email on the restaurant's own site - a concrete improvement over the prior social_profile_leads_only outcome. The root https://plataformaonline.com/ was previously robot_excluded; I first fetched robots.txt, which disallows nothing ('User-agent: * Disallow:' with empty path, Yoast block), so no robots rule barred inspection, and I still avoided the root entirely, entering via /contact-steakhouse-nyc/ and /group-dining-new-york/. The mailto anchor appears once per page as a footer social-icon link labeled 'Email'.",
+            "checked_at": "2026-10-05T06:22:42.095425+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "This is a literal published general email on the restaurant's own site - a concrete improvement over the prior social_profile_leads_only outcome. The root https://plataformaonline.com/ was previously robot_excluded; I first fetched robots.txt, which disallows nothing ('User-agent: * Disallow:' with empty path, Yoast block), so no robots rule barred inspection, and I still avoided the root entirely, entering via /contact-steakhouse-nyc/ and /group-dining-new-york/. The mailto anchor appears once per page as a footer social-icon link labeled 'Email'. Parent independently confirmed literal mailto link on known restaurant website's Contact Us page. Original child tool output verified Email icon label and (212) 245-0505 phone match. Not the historical engineering-company false positive."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -601,6 +635,78 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "churrascaria_plataforma.json",
+      "name": "Churrascaria Plataforma",
+      "emails": [
+        {
+          "email": "info@plataformanyc.com",
+          "url": "https://plataformaonline.com/contact-steakhouse-nyc/",
+          "quote": "Footer icon anchor href=\"mailto:info@plataformanyc.com\" with aria-label=\"mail\", data-title=\"Email\" (tooltip 'Email') on the official Contact Us page",
+          "source_type": "official_website",
+          "purpose": "general restaurant email (site-wide footer 'Email' icon link)",
+          "business_match": "Published on plataformaonline.com, the official site of Plataforma Steakhouse (Churrascaria Plataforma). The Contact Us page footer shows phone (212) 245-0505, exactly matching the saved phone for 316 W 49th St.",
+          "identity_evidence": [
+            {
+              "url": "https://plataformaonline.com/contact-steakhouse-nyc/",
+              "quote": "Page title 'Contact Us - Plataforma Steakhouse'; footer '©2026 • Plataforma Steakhouse • All Rights Reserved'; contact page lists phone (212) 245-0505"
+            },
+            {
+              "url": "https://plataformaonline.com/group-dining-new-york/",
+              "quote": "Same mailto:info@plataformanyc.com footer icon appears on the Group Dining page; page offers 'Inquire Now' group-dining routes"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "This is a literal published general email on the restaurant's own site - a concrete improvement over the prior social_profile_leads_only outcome. The root https://plataformaonline.com/ was previously robot_excluded; I first fetched robots.txt, which disallows nothing ('User-agent: * Disallow:' with empty path, Yoast block), so no robots rule barred inspection, and I still avoided the root entirely, entering via /contact-steakhouse-nyc/ and /group-dining-new-york/. The mailto anchor appears once per page as a footer social-icon link labeled 'Email'.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Parent independently confirmed literal mailto link on known restaurant website's Contact Us page. Original child tool output verified Email icon label and (212) 245-0505 phone match. Not the historical engineering-company false positive."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://plataformaonline.com/group-dining-new-york/#inquire",
+          "purpose": "group-dining/private-events inquiry only (not general customer inquiries)",
+          "matching_business_evidence": "Official Plataforma Steakhouse site (plataformaonline.com), NYC group dining page with the same info@plataformanyc.com footer mailto and restaurant phone (212) 245-0505",
+          "visible_fields": "'Inquire Now' anchor targets #inquire section of the group dining page",
+          "general_or_restricted": "restricted",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "Direct inspection of plataformaonline.com robots.txt, group-dining page, and contact page (followed observed site links; no keyword search needed)",
+          "provider": "direct navigation"
+        }
+      ],
+      "inspected_urls": [
+        "https://plataformaonline.com/robots.txt",
+        "https://plataformaonline.com/group-dining-new-york/",
+        "https://plataformaonline.com/contact-steakhouse-nyc/"
+      ],
+      "errors": [],
+      "outcome": "general_email_found",
+      "remaining_avenues": [
+        "Confirm whether info@plataformanyc.com is also displayed in text (not only as an icon href) anywhere, e.g., group-dining PDFs",
+        "Sister-brand routes if Plataforma operates additional venues with shared contact pages"
+      ],
+      "effort_notes": "Strong new finding: the prior sweep only had social/profile leads and a rejected AOL personal address, and had excluded the root URL. I established robots.txt permits the site, entered via interior pages, and captured the literal mailto info@plataformanyc.com published twice (Contact Us and Group Dining pages) with the saved phone (212) 245-0505 visible on the contact page. General-inquiry email found; stopping per stop-search rule.",
+      "worker_claimed_checked_at": "2026-10-05T05:30:00Z",
+      "batch_completed_at": "2026-10-05T05:58:21.340085+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.486772+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-04",
+      "artifact_sha256": "a18b7ec9369f885c5beb3a317639c536d18b858f314d1337dba8ab0f9d78dd5d",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "info@plataformanyc.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

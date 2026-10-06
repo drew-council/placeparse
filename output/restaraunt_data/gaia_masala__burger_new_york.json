@@ -130,6 +130,51 @@
     "searches": [],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "gaia_masala__burger_new_york.json",
+      "name": "Gaia Masala & Burger New York",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://gaiamasalaandburger.com/contact",
+          "business_match": "Official Gaia Masala & Burger site ('Get In Touch' page); locations page points to the Astoria restaurant at 33-11 Broadway (saved address) and the ordering platform chowchowexpress.com.",
+          "fields": "First Name, Last Name, Email, Phone Number, 'Where do you hear about us?' (select), Message, Send Message, plus 'Select Restaurant Location'",
+          "general_vs_restricted": "general ('We'd love to hear from you. Please fill out this form.')",
+          "visible_free_text_field": "Message textarea",
+          "submission_tested": false
+        }
+      ],
+      "queries": [],
+      "inspected_urls": [
+        "https://gaiamasalaandburger.com/contact",
+        "https://gaiamasalaandburger.com/locations",
+        "https://gaiamasalaandburger.com/fromtheowner",
+        "https://gaiamasalaandburger.com/",
+        "https://chowchowexpress.com/search/?serachRestaurant=gaia+masala+%26+burger&address=&lat=&lng=&radius=20",
+        "https://www.facebook.com/p/Gaia-Masala-Burger-New-York-61574735265038/"
+      ],
+      "errors": [
+        "Facebook page (from parent search leads) redirected to a login wall; no email extractable without login (forbidden).",
+        "DuckDuckGo was already CAPTCHA-blocked and Bing was returning degraded results earlier in this session, so no additional search-engine queries were run for this restaurant (two-frontend rule)."
+      ],
+      "outcome": "no_email_found",
+      "remaining_avenues": [
+        "Parent-side targeted search: 'Gaia Masala Burger Astoria email' and 'gaiamasalaandburger.com email' via a non-degraded engine.",
+        "Facebook page bio for the restaurant (login-walled here).",
+        "The catering link on the official site ('CATERING SERVICES (opens in new tab)') was not resolvable in the homepage link list this session; it may point to a third-party catering form that could carry an email."
+      ],
+      "effort_notes": "All official site pages inspected (contact, locations, from-the-owner, homepage); no email anywhere on the site. ChowChow Express (the ordering technology partner per the site footer 'Technology supported by chowchowexpress.com') publishes only support@chowchowexpress.com — that is the platform's operator support, NOT restaurant staff, so it is withheld. Parent search leads contained no email-bearing sources; Instagram/Facebook posts from leads show only the phone (718) 889-0530 and address.",
+      "worker_claimed_checked_at": "2026-10-05T07:58:27Z",
+      "batch_completed_at": "2026-10-05T07:59:29.456113+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.562256+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-24",
+      "artifact_sha256": "ef42be3a0d0ce7515dd2a3210746c8c6de94e946843b3136c149678413c12863",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. All official site pages inspected (contact, locations, from-the-owner, homepage); no email anywhere on the site. ChowChow Express (the ordering technology partner per the site footer 'Technology supported by chowchowexpress.com') publishes only support@chowchowexpress.com — that is the platform's operator support, NOT restaurant staff, so it is withheld. Parent search leads contained no email-bearing sources; Instagram/Facebook posts from leads show only the phone (718) 889-0530 and address."
+    }
   }
 }

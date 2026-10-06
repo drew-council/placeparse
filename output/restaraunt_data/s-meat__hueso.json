@@ -516,6 +516,40 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "s-meat__hueso.json",
+      "name": "S-Meat & Hueso",
+      "emails": [],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://s-meat-hueso-1.wheree.com/",
+        "https://www.instagram.com/s.meathueso.nyc/",
+        "https://whereyoueat.com/Smeat-&-Hueso-30712.html"
+      ],
+      "errors": [
+        "https://s-meat-hueso-1.wheree.com/ served a Cloudflare 'Just a moment...' challenge; not bypassed",
+        "Instagram profile https://www.instagram.com/s.meathueso.nyc/ redirected to accounts/login (bio not readable without login); no login performed per scope",
+        "Search providers were exhausted earlier in the batch, so no new live web search was run for this restaurant"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Parent-supervised targeted search: 'S-Meat & Hueso' Astoria email OR 'meathueso' @gmail",
+        "Instagram bio read once logged-in access is permissible (out of scope here)",
+        "Phone (718) 304-0046"
+      ],
+      "effort_notes": "No official website (packet website: null). Inspected whereyoueat.com listing page in full — no email/mailto anywhere in HTML. Wheree and Instagram attempts both blocked by challenges/login walls. Prior parent search snippet showed only phone and address in directory copy.",
+      "worker_claimed_checked_at": "2026-10-05T07:06:11Z",
+      "batch_completed_at": "2026-10-05T07:13:27.430429+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.534394+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-16",
+      "artifact_sha256": "262a2eb0b2c2a6c15cd73c565919ce8c1d546450c5b8f1d89cd16d596c96d769",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. No official website (packet website: null). Inspected whereyoueat.com listing page in full — no email/mailto anywhere in HTML. Wheree and Instagram attempts both blocked by challenges/login walls. Prior parent search snippet showed only phone and address in directory copy."
+    }
   }
 }

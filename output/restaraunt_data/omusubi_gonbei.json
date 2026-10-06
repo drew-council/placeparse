@@ -487,7 +487,17 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:10:41.054992+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "candidate_sources": {
+      "contact@gonbei-eshop.com": {
+        "urls": [
+          "https://gonbei-eshop.com/html/info.html"
+        ],
+        "reason": "Parent review pending; publication, exact branch attribution, currentness, and purpose are not yet all accepted.",
+        "role": "general/unspecified",
+        "checked_at": "2026-10-05T07:37:41.941985+00:00"
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -598,6 +608,81 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "omusubi_gonbei.json",
+      "name": "Omusubi Gonbei",
+      "emails": [
+        {
+          "email": "contact@gonbei-eshop.com",
+          "url": "https://gonbei-eshop.com/html/info.html",
+          "quote": "発送手続きが完了すると、本登録アドレスにおむすび権米衛公式オンラインショップ＜contact@gonbei-eshop.com＞より「ご注文商品の発送のお知らせ」メールを配信いたします。",
+          "source_type": "official_brand_online_shop_information_page",
+          "purpose": "online-shop order/shipping support and notification sender address for the official おむすび権米衛 (Omusubi Gonbei) online shop — NOT branch-specific for the 370 Lexington Ave store",
+          "business_match": "gonbei-eshop.com is the 'おむすび権米衛公式オンラインショップ' (official online shop) linked directly from the brand's official site homepage (omusubi-gonbei.com nav item 'オンラインショップ -> https://gonbei-eshop.com/'); the same brand operates the Katagiri GC store at 370 Lexington Ave, New York, NY 10017 (phone +1 (917)472-7025 per omusubi-gonbei.com/en/shoplist/)",
+          "identity_evidence": [
+            {
+              "url": "https://www.omusubi-gonbei.com/",
+              "quote": "nav link 'オンラインショップ -> https://gonbei-eshop.com/' and footer '© Iwai Co., Ltd.'"
+            },
+            {
+              "url": "http://www.omusubi-gonbei.com/en/shoplist/",
+              "quote": "OMUSUBI GONBEI Katagiri GC store 370 Lexington Avenue, New York, NY 10017, U.S.A. (41st street between Lexington & Park) +1 (917)472-7025"
+            }
+          ],
+          "confidence": "low-medium",
+          "decision": "candidate",
+          "notes": "Literal published address on the brand's own e-commerce information page, but it serves the Japanese online shop (order/shipping/returns), not the NYC Lexington branch specifically. Label as brand-level e-commerce support; parent decides whether to promote. Also appears as the shop's inquiry sender context (返品/お問い合わせフォーム is the alternative route).",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://www.omusubi-gonbei.com/contact/form1/",
+          "matching_business_evidence": "Official brand site contact page ご意見・お問い合わせ states おむすび権米衛ではお客様からの声を大切にしております... おむすび権米衛に関するご意見・ご感想をお寄せください (brand customer-inquiry route; © Iwai Co., Ltd.); the brand operates the NYC Katagiri GC store (omusubi-gonbei.com/en/shoplist/)",
+          "visible_free_text_field": "TEXTAREA 'message' (required) plus INPUT 'shop_name' (store name) and inquiry_type selector; a second variant exists at https://www.omusubi-gonbei.com/contact/form2/ for customers who want a reply (返信を「希望する」方)",
+          "general_vs_restricted": "general (customer opinions/inquiries about the brand and stores; reached via https://www.omusubi-gonbei.com/contact/ after agreeing to 利用規約)",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Omusubi Gonbei\" email contact 370 Lexington Ave, New York, NY 10017, USA",
+          "provider": "DuckDuckGo browser (parent search-leads cache)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.omusubi-gonbei.com/en/",
+        "https://www.omusubi-gonbei.com/",
+        "https://www.omusubi-gonbei.com/contact/",
+        "https://www.omusubi-gonbei.com/contact/form1/",
+        "https://www.omusubi-gonbei.com/privacy/",
+        "https://gonbei-eshop.com/",
+        "https://gonbei-eshop.com/html/info.html"
+      ],
+      "errors": [
+        "No published email anywhere on the official brand site (en + JP), privacy policy, or shop list; the only email found is the online-shop address contact@gonbei-eshop.com",
+        "The /contact/ page requires a consent checkbox before the input form appears; the actual input form lives at /contact/form1/ (no-reply variant) and /contact/form2/ (reply variant)"
+      ],
+      "outcome": "brand_general_form_and_shop_support_email_found",
+      "remaining_avenues": [
+        "The e-shop お問い合わせ form (javascript:top_sendmail() on gonbei-eshop.com) is a mailto-triggered dialog that was not rendered in this pass; it may expose another address",
+        "Instagram @omusubigonbei_us bio may publish a store-level email (not inspected within budget)"
+      ],
+      "effort_notes": "About 9 browser command groups. Found the brand's real customer-inquiry form (with free-text message + store-name field) and a published brand e-shop support email; no store-specific mailbox exists in checked sources.",
+      "worker_claimed_checked_at": "2026-10-05T06:53:19Z",
+      "batch_completed_at": "2026-10-05T06:54:31.233557+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.527032+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-14",
+      "artifact_sha256": "e6b5b8faa2c19283b59313e8cad615fc54cacb70462a0d23065cc6f55c0fbbb1",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "Published lead(s) remain unverified, unrelated, historical, or purpose-restricted; no accepted general-inquiry email in checked sources."
+    }
   }
 }

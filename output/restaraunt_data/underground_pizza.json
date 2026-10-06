@@ -599,6 +599,48 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "underground_pizza.json",
+      "name": "Underground Pizza",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"undergroundpizzanyny.com\" email (parent-retrieved)",
+          "provider": "DuckDuckGo in parent-authorized pinned tab (0 results)"
+        },
+        {
+          "query": "\"Underground Pizza\" \"3 Hanover\" email (parent-retrieved)",
+          "provider": "DuckDuckGo in parent-authorized pinned tab"
+        }
+      ],
+      "inspected_urls": [
+        "https://undergroundpizzanyny.com/contact (official: address 3 Hanover Square, phone 212-425-4442; no email, no mailto, no form elements)",
+        "https://undergroundpizzanyny.com/privacy (no email addresses in text or HTML)",
+        "https://www.undergroundpizzamenu.com (Slicelife ordering front; not inspected further after official site showed no route)",
+        "https://www.facebook.com/UndergroundPizza/ (login wall)",
+        "https://x.com/UndergrounPizza (identified via parent search; not email-bearing in snippet)"
+      ],
+      "errors": [
+        "Facebook business page behind login wall; not browsed further"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "X profile https://x.com/UndergrounPizza bio (x.com is typically viewable logged-out; not attempted due to batch budget) could carry a published email",
+        "Slicelife restaurant console/operator contact is platform-side, not a restaurant inquiry route"
+      ],
+      "effort_notes": "Official site contact and privacy pages fully inspected (no form exists despite 'Contact Us' heading); no email published anywhere on the domain.",
+      "worker_claimed_checked_at": "2026-10-05T07:44:05Z",
+      "batch_completed_at": "2026-10-05T07:48:19.571010+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.547565+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-20",
+      "artifact_sha256": "2defc17f9a9bca915f7a051661666e86a8ff34a275abec13d318816a1d36390f",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Official site contact and privacy pages fully inspected (no form exists despite 'Contact Us' heading); no email published anywhere on the domain."
+    }
   }
 }

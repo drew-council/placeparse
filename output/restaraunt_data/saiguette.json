@@ -139,6 +139,59 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "saiguette.json",
+      "name": "Saiguette",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Saiguette\" 935 Columbus email OR saiguette email \"@gmail.com\"",
+          "provider": "DuckDuckGo in parent-authorized Chrome (parent-supervised targeted search)"
+        },
+        {
+          "query": "site:us-info.com saiguette email",
+          "provider": "DuckDuckGo in parent-authorized Chrome (parent-supervised targeted search)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.saiguette.com/contact-us",
+        "https://local.us-info.com/USNY102956189-2128668886/saiguette-manhattan.html",
+        "https://www.merchantcircle.com/saiguette1-new-york-ny",
+        "https://www.facebook.com/Saiguette/",
+        "https://www.sipa.columbia.edu/business-office/approved-vendors",
+        "https://local.us-info.com/USNY100422122-2128668886/saiguette-new_york.html"
+      ],
+      "errors": [
+        "local.us-info.com returned 'Your request was blocked' — the parent search snippet showed a truncated email 'email (..con@..)' that could not be inspected or verified",
+        "A second us-info listing (https://local.us-info.com/USNY100422122-2128668886/saiguette-new_york.html) shows the identical truncated 'email (..con@..)' redaction per parent-supervised search results; both us-info pages block live access, so the literal address remains unverifiable",
+        "Facebook page https://www.facebook.com/Saiguette/ redirected to login wall; no email extractable",
+        "Search providers were exhausted earlier in the batch, so no new live web search was run for this restaurant"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "candidate_addresses_withheld": [
+        {
+          "lead": "Truncated directory email pattern '(..con@..)' shown in the parent DuckDuckGo snippet for local.us-info.com/USNY102956189-2128668886/saiguette-manhattan.html",
+          "reason": "Page blocked on live inspection ('Your request was blocked'); only a redacted fragment visible, full literal address never published in an inspectable form. Not a verifiable literal address."
+        }
+      ],
+      "remaining_avenues": [
+        "Retrieve the full us-info Saiguette pages (USNY102956189-2128668886 and USNY100422122-2128668886) from an unblocked environment to read the truncated '(..con@..)' email literally — do not infer/repair the fragment",
+        "Official site has only phone numbers (212-866-8886 / 212-866-6888); Facebook About tab may hold an email behind the login wall",
+        "Columbia SIPA approved-vendors page lists Saiguette with exact venue/address/phone (+1 212 866-8886, 935 Columbus Ave) but per observed snippet publishes no email"
+      ],
+      "effort_notes": "Official Wix site contact-us page inspected: publishes only phones, hours, address — no email, no mailto, no visible form fields (only sentry/wixpress telemetry addresses in HTML, excluded). MerchantCircle listing has no email. Parent-supervised targeted searches returned people-search brokers (not inspected per instruction) and the Columbia SIPA approved-vendors page (exact venue match, no email in snippet; live re-inspection Cloudflare-challenged). The truncated '(..con@..)' us-info lead remains the one concrete unresolved lead; recorded as withheld candidate fragment.",
+      "worker_claimed_checked_at": "2026-10-05T07:06:11Z",
+      "batch_completed_at": "2026-10-05T07:13:27.430429+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.534786+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-16",
+      "artifact_sha256": "262a2eb0b2c2a6c15cd73c565919ce8c1d546450c5b8f1d89cd16d596c96d769",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Official Wix site contact-us page inspected: publishes only phones, hours, address — no email, no mailto, no visible form fields (only sentry/wixpress telemetry addresses in HTML, excluded). MerchantCircle listing has no email. Parent-supervised targeted searches returned people-search brokers (not inspected per instruction) and the Columbia SIPA approved-vendors page (exact venue match, no email in snippet; live re-inspection Cloudflare-challenged). The truncated '(..con@..)' us-info lead remains the one concrete unresolved lead; recorded as withheld candidate fragment."
+    }
   }
 }

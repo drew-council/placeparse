@@ -91,6 +91,111 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:11:05.762694+00:00",
-    "browser_outcome": "found"
+    "browser_outcome": "found",
+    "role_overrides": {
+      "events@pigandkhao.com": "events/catering"
+    },
+    "publication_evidence": {
+      "events@pigandkhao.com": {
+        "evidence": [
+          {
+            "url": "https://www.pigandkhao.com/contact",
+            "quote": "FOR EVENTS: EVENTS@PIGANDKHAO.COM — link href=\"mailto:events@pigandkhao.com\"",
+            "identity_evidence": [
+              {
+                "url": "https://www.pigandkhao.com/uws",
+                "quote": "UPPER WEST SIDE 433 AMSTERDAM AVENUE NEW YORK, NY 10024"
+              },
+              {
+                "url": "https://www.pigandkhao.com/contact",
+                "quote": "FOR EVENTS: EVENTS@PIGANDKHAO.COM FOR GENERAL INQUIRIES, PLEASE USE THE FORM BELOW"
+              }
+            ],
+            "source_type": "official_restaurant_site_contact_page",
+            "purpose": "events/catering",
+            "parent_reason": "Parent independently verified literal public publication and source-specific purpose. Same site's Visit Us page (https://www.pigandkhao.com/uws) footer shows 'UPPER WEST SIDE 433 AMSTERDAM AVENUE NEW YORK, NY 10024', matching the saved UWS branch address; contact page is the brand's official contact route covering this location Limited-purpose only; no general mailbox published anywhere on the site (contact, press-take-2 pages checked; /jobs is a 404). Stays limited-purpose per parent guidance.",
+            "notes": "Limited-purpose only; no general mailbox published anywhere on the site (contact, press-take-2 pages checked; /jobs is a 404). Stays limited-purpose per parent guidance.",
+            "checked_at": "2026-10-05T07:21:04.933261+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Limited-purpose only; no general mailbox published anywhere on the site (contact, press-take-2 pages checked; /jobs is a 404). Stays limited-purpose per parent guidance. Parent independently verified literal public publication and source-specific purpose. Same site's Visit Us page (https://www.pigandkhao.com/uws) footer shows 'UPPER WEST SIDE 433 AMSTERDAM AVENUE NEW YORK, NY 10024', matching the saved UWS branch address; contact page is the brand's official contact route covering this location Limited-purpose only; no general mailbox published anywhere on the site (contact, press-take-2 pages checked; /jobs is a 404). Stays limited-purpose per parent guidance."
+      }
+    }
+  },
+  "text_contact_discovery": {
+    "email_investigation": {
+      "cache_file": "pig_and_khao__17981707761134598310.json",
+      "name": "Pig and Khao",
+      "emails": [
+        {
+          "email": "events@pigandkhao.com",
+          "url": "https://www.pigandkhao.com/contact",
+          "quote": "FOR EVENTS: EVENTS@PIGANDKHAO.COM — link href=\"mailto:events@pigandkhao.com\"",
+          "source_type": "official_restaurant_site_contact_page",
+          "purpose": "events inquiries only, per explicit on-page label 'FOR EVENTS:'",
+          "business_match": "Same site's Visit Us page (https://www.pigandkhao.com/uws) footer shows 'UPPER WEST SIDE 433 AMSTERDAM AVENUE NEW YORK, NY 10024', matching the saved UWS branch address; contact page is the brand's official contact route covering this location",
+          "identity_evidence": [
+            {
+              "url": "https://www.pigandkhao.com/uws",
+              "quote": "UPPER WEST SIDE 433 AMSTERDAM AVENUE NEW YORK, NY 10024"
+            },
+            {
+              "url": "https://www.pigandkhao.com/contact",
+              "quote": "FOR EVENTS: EVENTS@PIGANDKHAO.COM FOR GENERAL INQUIRIES, PLEASE USE THE FORM BELOW"
+            }
+          ],
+          "confidence": "high for attribution, limited purpose",
+          "decision": "source_backed",
+          "notes": "Limited-purpose only; no general mailbox published anywhere on the site (contact, press-take-2 pages checked; /jobs is a 404). Stays limited-purpose per parent guidance.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "events/catering",
+            "reason": "Parent independently verified literal public publication and source-specific purpose. Same site's Visit Us page (https://www.pigandkhao.com/uws) footer shows 'UPPER WEST SIDE 433 AMSTERDAM AVENUE NEW YORK, NY 10024', matching the saved UWS branch address; contact page is the brand's official contact route covering this location Limited-purpose only; no general mailbox published anywhere on the site (contact, press-take-2 pages checked; /jobs is a 404). Stays limited-purpose per parent guidance."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://www.pigandkhao.com/contact",
+          "matching_business_evidence": "Official brand site footer shows UPPER WEST SIDE 433 AMSTERDAM AVENUE NEW YORK, NY 10024 matching the saved branch; Squarespace-hosted official domain pigandkhao.com",
+          "visible_free_text_field": "textarea labelled 'Message (required)' plus Name (First/Last), Email Address, Subject fields, SUBMIT button; form posts to https://www.pigandkhao.com/contact",
+          "general_vs_restricted": "General — page text explicitly reads 'FOR GENERAL INQUIRIES, PLEASE USE THE FORM BELOW'",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "(no search needed — official site inspected directly; prior packet cited events@pigandkhao.com on /contact)",
+          "provider": "direct navigation",
+          "note": "Verified current /contact text and captured form structure"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.pigandkhao.com/uws",
+        "https://www.pigandkhao.com/contact",
+        "https://www.pigandkhao.com/jobs (404 page)",
+        "https://www.pigandkhao.com/press-take-2"
+      ],
+      "errors": [],
+      "outcome": "limited_purpose_email_plus_general_form_fallback",
+      "remaining_avenues": [
+        "No general mailbox exists in checked sources; the explicit general-inquiries form is the text route",
+        "Jobs/press pages contain no mailtos"
+      ],
+      "effort_notes": "Verified the UWS branch identity on /uws (433 Amsterdam Ave), re-confirmed events@ with exact mailto, captured the full general-inquiry form field list from /contact without submitting.",
+      "worker_claimed_checked_at": "2026-10-05T06:58:20Z",
+      "batch_completed_at": "2026-10-05T06:59:29.442618+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.531000+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-15",
+      "artifact_sha256": "2823dc4cb0abec228d7f3debd15e3c3f6fcee75bf12c734f76f78b7da179ea94",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "events@pigandkhao.com"
+      ],
+      "no_general_email_reason": "Only limited-purpose published email(s); no accepted general-inquiry email in checked sources."
+    }
   }
 }

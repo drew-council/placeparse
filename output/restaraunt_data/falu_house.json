@@ -166,6 +166,60 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "falu_house.json",
+      "name": "Falu House",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://www.faluhouse.com/visit",
+          "business_match": "Official Falu House Scandinavian Deli site; visit page shows '34 Norman Ave Brooklyn, NY 11222 (718) 554-3796' — matches saved address. (Squarespace site.)",
+          "fields": "Prior packet recorded the visit page as the general form; this session confirmed the site's contact surface is phone + Squarespace forms.",
+          "general_vs_restricted": "general visit/contact page",
+          "visible_free_text_field": "Squarespace contact block; free-text message field assumed per prior packet record",
+          "submission_tested": false
+        },
+        {
+          "url": "https://www.faluhouse.com/custom-catering-inquiry",
+          "business_match": "Official Falu House custom catering inquiry page (catering page links to it: 'Fill out our custom order form').",
+          "fields": "Custom catering inquiry form (Squarespace) — name/contact/message fields for custom catering requests",
+          "general_vs_restricted": "restricted (catering inquiries only)",
+          "visible_free_text_field": "Custom catering inquiry message field",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Falu House\" faluhouse Brooklyn email \"@\"",
+          "provider": "Bing browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.faluhouse.com/",
+        "https://www.faluhouse.com/catering",
+        "https://www.bing.com/search?q=%22Falu+House%22+faluhouse+Brooklyn+email+%22%40%22"
+      ],
+      "errors": [
+        "Bing returned degraded/unrelated results (Falu Municipality Wikipedia, falu.com, music sites, YouTube) for the Falu House email query; DuckDuckGo was already CAPTCHA-blocked earlier in this session, so per the two-frontend rule provider cycling was stopped."
+      ],
+      "outcome": "no_email_found",
+      "remaining_avenues": [
+        "Instagram bio (@faluhouse) is login-walled in this session; a parent-side non-login snapshot of the bio text is the most promising remaining source for an email.",
+        "Facebook page (people/Falu-House/61571760144094) bio likewise login-walled.",
+        "Tinned Fish Club sign-up page (https://www.faluhouse.com/tinned-fish-club-sign-up) is newsletter-only per its title; not a general inquiry source but could be checked for a contact address."
+      ],
+      "effort_notes": "Homepage and catering page inspected this session (homepage: no mailto; catering page: 'CALL TO ORDER ... Reach us by phone, (718) 554-3796' plus custom-order form link — explicitly phone-first). Phone (718) 554-3796 and address match the saved Google record. No email address appeared in any inspected official page or search result.",
+      "worker_claimed_checked_at": "2026-10-05T07:58:27Z",
+      "batch_completed_at": "2026-10-05T07:59:29.456113+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.561379+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-24",
+      "artifact_sha256": "ef42be3a0d0ce7515dd2a3210746c8c6de94e946843b3136c149678413c12863",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Homepage and catering page inspected this session (homepage: no mailto; catering page: 'CALL TO ORDER ... Reach us by phone, (718) 554-3796' plus custom-order form link — explicitly phone-first). Phone (718) 554-3796 and address match the saved Google record. No email address appeared in any inspected official page or search result."
+    }
   }
 }

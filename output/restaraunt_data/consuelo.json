@@ -32,11 +32,17 @@
   "website": "https://www.cocinaconsuelonyc.com/consuelouws",
   "details_checked_at": "2026-10-03T21:59:11.590865+00:00",
   "business_status_checked_at": "2026-10-03T21:59:11.590865+00:00",
-  "emails": [],
+  "emails": [
+    "cocinaconsuelonyc@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:59:58.822721+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "cocinaconsuelonyc@gmail.com": [
+        "https://www.facebook.com/cocinaconsuelonyc/"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.cocinaconsuelonyc.com/consuelouws",
@@ -51,7 +57,33 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:08:27.052589+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "cocinaconsuelonyc@gmail.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "cocinaconsuelonyc@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://www.facebook.com/cocinaconsuelonyc/",
+            "quote": "Page Intro: 'Cocina mexicana en Harlem / Page · Mexican Restaurant / (646) 250-7172 / cocinaconsuelonyc@gmail.com / cocinaconsuelonyc / Cocinaconsuelonyc.com'",
+            "identity_evidence": [
+              {
+                "url": "https://www.cocinaconsuelonyc.com/consuelouws",
+                "quote": "Page 'UPPER WEST SIDE LOCATION — Cocina Consuelo NYC' shows address '224 WEST 104 ST.' and footer social links to https://www.facebook.com/cocinaconsuelonyc/ and https://www.instagram.com/cocinaconsuelonyc/"
+              }
+            ],
+            "source_type": "official_social_page_public_bio",
+            "purpose": "general/unspecified",
+            "parent_reason": "Original child browser output (0c4870e2 output-0.log line 717) captured public business-page publication. The saved UWS location page links the same business page; documented brand relationship, not name-only inference. Brand-level inbox; Facebook phone is original Harlem location, so confirm routing to the saved UWS branch before sensitive disclosure.",
+            "notes": "Published email on the restaurant's officially linked Facebook page (no login needed; public Intro block). Caveat: the FB page's Intro phone (646) 250-7172 corresponds to the brand's original Harlem/Hamilton Pl location, and the page tagline says Harlem, while the saved branch is the Upper West Side location (646) 391-1123 - the email is brand-level and likely reaches the same operator, but it is not proven to be the UWS branch's own inbox. Improvement over the prior social_profile_leads_only outcome, where no email was extracted.",
+            "checked_at": "2026-10-05T06:22:42.095843+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Published email on the restaurant's officially linked Facebook page (no login needed; public Intro block). Caveat: the FB page's Intro phone (646) 250-7172 corresponds to the brand's original Harlem/Hamilton Pl location, and the page tagline says Harlem, while the saved branch is the Upper West Side location (646) 391-1123 - the email is brand-level and likely reaches the same operator, but it is not proven to be the UWS branch's own inbox. Improvement over the prior social_profile_leads_only outcome, where no email was extracted. Original child browser output (0c4870e2 output-0.log line 717) captured public business-page publication. The saved UWS location page links the same business page; documented brand relationship, not name-only inference. Brand-level inbox; Facebook phone is original Harlem location, so confirm routing to the saved UWS branch before sensitive disclosure."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -114,6 +146,71 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "consuelo.json",
+      "name": "Consuelo",
+      "emails": [
+        {
+          "email": "cocinaconsuelonyc@gmail.com",
+          "url": "https://www.facebook.com/cocinaconsuelonyc/",
+          "quote": "Page Intro: 'Cocina mexicana en Harlem / Page · Mexican Restaurant / (646) 250-7172 / cocinaconsuelonyc@gmail.com / cocinaconsuelonyc / Cocinaconsuelonyc.com'",
+          "source_type": "official_social_page_public_bio",
+          "purpose": "restaurant business contact published in the page's public Intro/contact block (general)",
+          "business_match": "The saved Consuelo business's official website is cocinaconsuelonyc.com/consuelouws, whose UWS page shows '224 WEST 104 ST.' (matching the saved 224 W 104th St address) and whose footer/nav link directly to this Facebook page (facebook.com/cocinaconsuelonyc/) as the brand's official page. The email is on the brand's domain name (cocinaconsuelonyc = Cocina Consuelo NYC) and the site copyright is 'Cocina Consuelo NYC'.",
+          "identity_evidence": [
+            {
+              "url": "https://www.cocinaconsuelonyc.com/consuelouws",
+              "quote": "Page 'UPPER WEST SIDE LOCATION — Cocina Consuelo NYC' shows address '224 WEST 104 ST.' and footer social links to https://www.facebook.com/cocinaconsuelonyc/ and https://www.instagram.com/cocinaconsuelonyc/"
+            }
+          ],
+          "confidence": "medium",
+          "decision": "source_backed",
+          "notes": "Published email on the restaurant's officially linked Facebook page (no login needed; public Intro block). Caveat: the FB page's Intro phone (646) 250-7172 corresponds to the brand's original Harlem/Hamilton Pl location, and the page tagline says Harlem, while the saved branch is the Upper West Side location (646) 391-1123 - the email is brand-level and likely reaches the same operator, but it is not proven to be the UWS branch's own inbox. Improvement over the prior social_profile_leads_only outcome, where no email was extracted.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Original child browser output (0c4870e2 output-0.log line 717) captured public business-page publication. The saved UWS location page links the same business page; documented brand relationship, not name-only inference. Brand-level inbox; Facebook phone is original Harlem location, so confirm routing to the saved UWS branch before sensitive disclosure."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "Direct inspection of cocinaconsuelonyc.com pages (home, /consuelouws, /media, /live-music-fund) and officially linked Facebook page",
+          "provider": "direct navigation"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.cocinaconsuelonyc.com/consuelouws",
+        "https://www.cocinaconsuelonyc.com/",
+        "https://www.cocinaconsuelonyc.com/media",
+        "https://www.cocinaconsuelonyc.com/live-music-fund",
+        "https://www.facebook.com/cocinaconsuelonyc/",
+        "https://www.instagram.com/consuelo_nyc/"
+      ],
+      "errors": [
+        "Instagram page https://www.instagram.com/consuelo_nyc/ redirected to the Instagram login wall; bio not readable without auth (not bypassed)",
+        "cocinaconsuelonyc.com publishes no email/mailto on any inspected page (home, UWS location, press/media, live-music-fund)"
+      ],
+      "outcome": "general_email_found_brand_level",
+      "remaining_avenues": [
+        "Instagram bios (@consuelo_nyc and @cocinaconsuelonyc, both observed site links) behind login wall - parent-retrieved public bio text could confirm or surface a second address",
+        "UWS-specific inbox is not published anywhere checked; the UWS page itself offers no contact route beyond phone"
+      ],
+      "effort_notes": "Deepened the prior sweep: confirmed the official Squarespace site publishes no email on any page (home, UWS, press/media, live-music-fund all scanned for emails/mailtos), then followed the site's own observed Facebook link and found the literal published address cocinaconsuelonyc@gmail.com in the public Intro block, with site-to-page linkage and saved address (224 WEST 104 ST.) documented. Instagram bio remains login-walled.",
+      "worker_claimed_checked_at": "2026-10-05T05:35:00Z",
+      "batch_completed_at": "2026-10-05T05:58:21.340085+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.487251+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-04",
+      "artifact_sha256": "a18b7ec9369f885c5beb3a317639c536d18b858f314d1337dba8ab0f9d78dd5d",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "cocinaconsuelonyc@gmail.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

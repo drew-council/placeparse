@@ -32,11 +32,17 @@
   "website": "https://hyderabadizaiqalexington.com/",
   "details_checked_at": "2026-10-03T21:59:29.613408+00:00",
   "business_status_checked_at": "2026-10-03T21:59:29.613408+00:00",
-  "emails": [],
+  "emails": [
+    "Hyderabadizaiqalexington@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T22:00:08.914361+00:00",
-    "outcome": "incomplete_lookup",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "hyderabadizaiqalexington@gmail.com": [
+        "https://www.hyderabadizaiqalexington.com/"
+      ]
+    },
     "pages": [
       {
         "url": "https://hyderabadizaiqalexington.com/",
@@ -51,7 +57,37 @@
     ],
     "contact_forms": [],
     "browser_checked_at": "2026-10-03T22:09:15.294406+00:00",
-    "browser_outcome": "incomplete_lookup"
+    "browser_outcome": "incomplete_lookup",
+    "role_overrides": {
+      "hyderabadizaiqalexington@gmail.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "hyderabadizaiqalexington@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://www.hyderabadizaiqalexington.com/",
+            "quote": "FIND US\n\n184 Lexington Ave, New York, NY 10016 646-454-0033 Hyderabadizaiqalexington@gmail.com\n\nFOLLOW US ON\nInstagram",
+            "identity_evidence": [
+              {
+                "url": "https://www.hyderabadizaiqalexington.com/",
+                "quote": "Mail : Hyderabadizaiqalexington@gmail.com"
+              },
+              {
+                "url": "https://www.hyderabadizaiqalexington.com/",
+                "quote": "FIND US\n\n184 Lexington Ave, New York, NY 10016 646-454-0033 Hyderabadizaiqalexington@gmail.com"
+              }
+            ],
+            "source_type": "official_website",
+            "purpose": "general/unspecified",
+            "parent_reason": "Original official-site browser output independently audited: exact literal mailbox and mailto in FIND US block beside 184 Lexington Ave and 646-454-0033, matching saved identity. Parent replay encountered browser-check page. Publication is verified from original capture, not search inference.",
+            "notes": "Address is case-preserved as published ('Hyderabadizaiqalexington@gmail.com'); page renders two mailto: links to the same address. Site initially served a 5-second browser check page which passed automatically; no challenge bypass performed. Parent packet's prior error for this URL was 'browser_challenge_or_unavailable' - now resolved and page fully loaded.",
+            "checked_at": "2026-10-05T07:37:41.918192+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Address is case-preserved as published ('Hyderabadizaiqalexington@gmail.com'); page renders two mailto: links to the same address. Site initially served a 5-second browser check page which passed automatically; no challenge bypass performed. Parent packet's prior error for this URL was 'browser_challenge_or_unavailable' - now resolved and page fully loaded. Original official-site browser output independently audited: exact literal mailbox and mailto in FIND US block beside 184 Lexington Ave and 646-454-0033, matching saved identity. Parent replay encountered browser-check page. Publication is verified from original capture, not search inference."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [],
@@ -102,6 +138,61 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "hyderabadi_zaiqa.json",
+      "name": "HYDERABADI ZAIQA",
+      "emails": [
+        {
+          "email": "Hyderabadizaiqalexington@gmail.com",
+          "url": "https://www.hyderabadizaiqalexington.com/",
+          "quote": "FIND US\n\n184 Lexington Ave, New York, NY 10016 646-454-0033 Hyderabadizaiqalexington@gmail.com\n\nFOLLOW US ON\nInstagram",
+          "source_type": "official_website",
+          "purpose": "general business contact ('Mail :' line in the site's FIND US / contact block)",
+          "business_match": "Strong: the official site header/footer lists exactly the saved address 184 Lexington Ave, New York, NY 10016 and the saved phone 646-454-0033, and the site is the saved website hyderabadizaiqalexington.com.",
+          "identity_evidence": [
+            {
+              "url": "https://www.hyderabadizaiqalexington.com/",
+              "quote": "Mail : Hyderabadizaiqalexington@gmail.com"
+            },
+            {
+              "url": "https://www.hyderabadizaiqalexington.com/",
+              "quote": "FIND US\n\n184 Lexington Ave, New York, NY 10016 646-454-0033 Hyderabadizaiqalexington@gmail.com"
+            }
+          ],
+          "confidence": "high",
+          "decision": "source_backed",
+          "notes": "Address is case-preserved as published ('Hyderabadizaiqalexington@gmail.com'); page renders two mailto: links to the same address. Site initially served a 5-second browser check page which passed automatically; no challenge bypass performed. Parent packet's prior error for this URL was 'browser_challenge_or_unavailable' - now resolved and page fully loaded.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Original official-site browser output independently audited: exact literal mailbox and mailto in FIND US block beside 184 Lexington Ave and 646-454-0033, matching saved identity. Parent replay encountered browser-check page. Publication is verified from original capture, not search inference."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://www.hyderabadizaiqalexington.com/"
+      ],
+      "errors": [],
+      "outcome": "email_found_source_backed",
+      "remaining_avenues": [
+        "Site has an ABOUT US / CONTACT US / FRANCHISE EXPANSION nav; a dedicated contact page could hold a second (form or branch-specific) route, but the homepage mailto is already a strong general-inquiry email."
+      ],
+      "effort_notes": "Parent search-leads snippet flagged 'Hyderabadizaiqalexington@gmail.com'; independently loaded the live official site in the isolated session and extracted the mailto links plus the FIND US block, confirming saved address and phone on the same page. Stop condition (strong current general-inquiry email) met.",
+      "worker_claimed_checked_at": "2026-10-05T06:28:59Z",
+      "batch_completed_at": "2026-10-05T06:30:02.042632+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.502527+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-08",
+      "artifact_sha256": "c184ae396f0dbac63230ab910b70e086f0bcce376d15cb49650b405fc683494b",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "hyderabadizaiqalexington@gmail.com"
+      ],
+      "no_general_email_reason": ""
+    }
   }
 }

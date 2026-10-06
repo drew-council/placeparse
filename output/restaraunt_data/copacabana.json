@@ -540,6 +540,64 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "copacabana.json",
+      "name": "Copacabana",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://www.copacabanabraziliangrill.com/contact.html",
+          "business_match": "Official site of Copacabana Brazilian Grill; contact page lists both branches: '31-13 36 Avenue Astoria, NY 11106 (718) 545-3685' (matches saved Astoria address/phone) and the Jackson Heights branch (80-26 Roosevelt Ave, (718) 255-5093).",
+          "fields": "Contact page presents location/phone details and delivery links; visible form fields were not enumerated (page rendered as static text with phone and addresses; delivery-provider links DoorDash/UberEats/Postmates)",
+          "general_vs_restricted": "general contact page for both branches",
+          "visible_free_text_field": "No general free-text message form was observed on the rendered contact page; prior packet recorded this URL as the general contact form.",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"copacabanabraziliangrill\" OR \"Copacabana Brazilian Grill\" email @gmail OR @aol OR @hotmail Astoria",
+          "provider": "DuckDuckGo browser (ordinary full-JS page)"
+        },
+        {
+          "query": "\"Copacabana\" email contact 31-13 36th Ave Astoria NY 11106",
+          "provider": "Bing browser"
+        },
+        {
+          "query": "\"copacabanabraziliangrill\" OR \"copacabana brazilian grill\" Astoria @email OR \"email\" contact",
+          "provider": "Bing browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.copacabanabraziliangrill.com/contact.html",
+        "https://www.copacabanabraziliangrill.com/about.html",
+        "https://www.copacabanabraziliangrill.com/index.html",
+        "https://duckduckgo.com/?q=%22copacabanabraziliangrill%22+OR+%22Copacabana+Brazilian+Grill%22+email+%40gmail+OR+%40aol+OR+%40hotmail+Astoria&ia=web",
+        "https://www.bing.com/search?q=%22Copacabana%22+email+contact+31-13+36th+Ave+Astoria+NY+11106",
+        "https://www.bing.com/search?q=%22copacabanabraziliangrill%22+OR+%22copacabana+brazilian+grill%22+Astoria+%40email+OR+%22email%22+contact"
+      ],
+      "errors": [
+        "DuckDuckGo ordinary search page returned a bot-detection CAPTCHA ('Select all squares containing a duck'); not bypassed.",
+        "Bing returned degraded/unrelated results (Rio de Janeiro beach/nightclub content; then Microsoft support pages) for both queries."
+      ],
+      "outcome": "no_email_found",
+      "remaining_avenues": [
+        "Parent-side targeted search (non-degraded engine): '\"Copacabana Brazilian Grill\" Astoria \"36th Ave\" email' and 'copacabanabraziliangrill.com contact email'.",
+        "Check Facebook page bio for the restaurant (login-walled in this session; contract forbids login).",
+        "DoorDash/UberEats/Postmates merchant profiles linked from the contact page could be re-checked, though they typically publish no restaurant email."
+      ],
+      "effort_notes": "Official site (index/about/contact) has no email anywhere; site was built by NR2D Digital Marketing (footer credit, no contact email shown). Two search frontends were challenged/degraded per contract, so provider cycling stopped. No candidate address was withheld because none was encountered in any source.",
+      "worker_claimed_checked_at": "2026-10-05T07:58:27Z",
+      "batch_completed_at": "2026-10-05T07:59:29.456113+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.560993+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-24",
+      "artifact_sha256": "ef42be3a0d0ce7515dd2a3210746c8c6de94e946843b3136c149678413c12863",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Official site (index/about/contact) has no email anywhere; site was built by NR2D Digital Marketing (footer credit, no contact email shown). Two search frontends were challenged/degraded per contract, so provider cycling stopped. No candidate address was withheld because none was encountered in any source."
+    }
   }
 }

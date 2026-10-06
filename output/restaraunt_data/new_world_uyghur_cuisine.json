@@ -504,6 +504,45 @@
     ],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "new_world_uyghur_cuisine.json",
+      "name": "New world Uyghur Cuisine",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"New world Uyghur Cuisine\" email contact 136-20 Roosevelt Ave, Flushing, NY 11354, USA",
+          "provider": "parent-search-leads (Google browser, pre-retrieved)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.newworlduyghurcuisine.com/",
+        "https://www.newworlduyghurcuisine.com/0yl4f5tl/new-world-uyghur-cuisine-queens-11354/menu",
+        "https://www.newworlduyghurcuisine.com/0yl4f5tl/restaurant/order-online",
+        "https://mymenuweb.com/us/restaurants/1550952/",
+        "https://www.restaurantji.com/ny/queens/tarim-uyghur-cuisine-/"
+      ],
+      "errors": [
+        "https://www.newworlduyghurcuisine.com/ - 'Vercel Security Checkpoint ... Failed to verify your browser, Code 21'; persisted across root and order-online paths and after retries; not bypassed per contract (prior parent crawls of the same pages were browser_ok, so the block is transient/IP-specific)",
+        "https://www.restaurantji.com/ny/queens/tarim-uyghur-cuisine-/ - Cloudflare 'Just a moment...' challenge"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "The official site www.newworlduyghurcuisine.com (order-online platform) is the most likely place for a published email/footer contact; retry from a network/session that passes the Vercel checkpoint",
+        "The order-online platform behind /0yl4f5tl/ may expose a support email in its footer once reachable"
+      ],
+      "effort_notes": "Official site blocked at the Vercel Security Checkpoint (Code 21) on all attempts (root, menu path, order-online path, non-www implied same platform). mymenuweb directory lists phone only, no email. Search frontends were already CAPTCHA-blocked this run. ~5 browser command groups; did not exhaustively sweep third-party clones.",
+      "worker_claimed_checked_at": "2026-10-05T06:58:00Z",
+      "batch_completed_at": "2026-10-05T06:54:00.676755+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.523698+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-13",
+      "artifact_sha256": "3287de346653c8e79fa618db4f0511c88e5e175262631811cb56a758280447df",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Official site blocked at the Vercel Security Checkpoint (Code 21) on all attempts (root, menu path, order-online path, non-www implied same platform). mymenuweb directory lists phone only, no email. Search frontends were already CAPTCHA-blocked this run. ~5 browser command groups; did not exhaustively sweep third-party clones."
+    }
   }
 }

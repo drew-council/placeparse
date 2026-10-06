@@ -115,6 +115,50 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "mariscos_el_submarino.json",
+      "name": "Mariscos El Submarino",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Mariscos El Submarino\" email \"submarino\" Brooklyn contact",
+          "provider": "DuckDuckGo (full-JS page; bot challenge returned)"
+        },
+        {
+          "query": "Parent-provided DuckDuckGo lead: \"Mariscos El Submarino\" email contact 222 Franklin St, Brooklyn, NY 11222, USA",
+          "provider": "DuckDuckGo (parent-authorized tab, via parent-search-leads)"
+        }
+      ],
+      "inspected_urls": [
+        "https://mariscoselsubmarinonyc.com/",
+        "https://mariscoselsubmarinonyc.com/menu/",
+        "https://www.facebook.com/mariscoselsubmarino/about/",
+        "https://www.postcard.inc/places/mariscos-el-submarino-new-york-zTRXMJFy_ww",
+        "https://local.yahoo.com/info-240918984-mariscos-el-submarino-brooklyn/"
+      ],
+      "errors": [
+        "DuckDuckGo search returned 'Please complete the following challenge to confirm this search was made by a human' (not bypassed)",
+        "postcard.inc blocked by Vercel Security Checkpoint ('Failed to verify your browser Code 21', not bypassed)"
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Retry DuckDuckGo later for the chain's Queens/Jersey City branch names ('Submarino' restaurant group) which may publish a group email",
+        "Public Instagram bio (instagram.com/mariscoselsubmarino) if accessible without login in a non-challenged session",
+        "Ask parent to run a targeted search, e.g. '\"El Submarino\" restaurant Brooklyn OR \"Jackson Heights\" email' if one more search is authorized"
+      ],
+      "effort_notes": "Official multi-branch site publishes only phone numbers/addresses for 5 branches (222 Franklin St phone +1 (347) 384-2422 matches saved), no email; Facebook public About shows address/phone only; two sources challenge-blocked. ~7 browser command groups.",
+      "worker_claimed_checked_at": "2026-10-05T06:40:15Z",
+      "batch_completed_at": "2026-10-05T06:41:32.322541+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.516876+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-12",
+      "artifact_sha256": "9d57fba9ea6f3190cf501ca8668997d254d6537a7936507fe739f58a8d4e1796",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Official multi-branch site publishes only phone numbers/addresses for 5 branches (222 Franklin St phone +1 (347) 384-2422 matches saved), no email; Facebook public About shows address/phone only; two sources challenge-blocked. ~7 browser command groups."
+    }
   }
 }

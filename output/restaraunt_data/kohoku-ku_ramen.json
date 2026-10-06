@@ -555,6 +555,49 @@
         "requires_login": true,
         "search_provider": "Google browser"
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "kohoku-ku_ramen.json",
+      "name": "KOHOKU-KU RAMEN",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"kohokukuramen@gmail.com\"",
+          "provider": "DuckDuckGo browser (ordinary JS page)"
+        },
+        {
+          "query": "\"kohokukuramen\" \"709 9th Ave\" email",
+          "provider": "Bing browser"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.kohoku-kuramen.com/contact",
+        "https://www.kohoku-kuramen.com/about-us",
+        "https://mindtrip.ai/restaurant/new-york-city/kohoku-ku-ramen/re-ZqBmWAJh"
+      ],
+      "errors": [
+        "DuckDuckGo served an anti-bot CAPTCHA ('Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck') for the quoted-email search; challenge not bypassed.",
+        "Bing returned degraded, unrelated results (ignoring the query terms entirely, returning generic Copilot/LA pages) for both targeted queries; per contract, provider cycling stopped after two degraded frontends.",
+        "mindtrip.ai prior-lead page now behind 'Additional Verification' wall; email context could not be re-inspected."
+      ],
+      "outcome": "no_email_found_in_checked_sources",
+      "remaining_avenues": [
+        "Prior rejected candidate kohokukuramen@gmail.com (mindtrip.ai directory listing) could not be re-attributed: mindtrip.ai is behind a verification wall and no other source publishing that address was reachable. It remains un-attributed; parent may request a targeted parent-side search if desired.",
+        "Official Wix site (kohoku-kuramen.com, home/contact/about inspected) publishes no email and no usable contact form (no form fields/iframes detected on /contact; only Sentry placeholder addresses in page source). Instagram bio @kohokuku.ramen shows address+phone only (per parent leads snippet).",
+        "Remaining avenues: ask staff via Google Maps Q&A, Toast/Grubhub/DoorDash order-issue channels, or a parent-side targeted search (e.g., quoted email on a reachable index)."
+      ],
+      "effort_notes": "Official site contact/about inspected live with email/mailto extraction; 2 search attempts (both degraded/challenged) plus direct re-inspection of the prior mindtrip lead. Stopped after two degraded search frontends per contract.",
+      "worker_claimed_checked_at": "2026-10-05T06:38:59Z",
+      "batch_completed_at": "2026-10-05T06:40:05.926079+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.508682+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-10",
+      "artifact_sha256": "1f7345e076c0c9bcd51b81f469a73373564f9634df130ec08785025944ebe3fb",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Official site contact/about inspected live with email/mailto extraction; 2 search attempts (both degraded/challenged) plus direct re-inspection of the prior mindtrip lead. Stopped after two degraded search frontends per contract."
+    }
   }
 }

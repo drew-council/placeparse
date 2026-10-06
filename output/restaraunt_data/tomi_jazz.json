@@ -637,11 +637,17 @@
   "website": "http://www.tomijazz.com/",
   "wheelchair_accessible_entrance": false,
   "business_status_checked_at": "2026-10-03T20:06:19.848991+00:00",
-  "emails": [],
+  "emails": [
+    "haken.performance@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:50:12.030019+00:00",
-    "outcome": "contact_form_only",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "haken.performance@gmail.com": [
+        "https://www.tomijazz.com/booking-for-musicians/"
+      ]
+    },
     "pages": [
       {
         "url": "https://www.tomijazz.com/",
@@ -683,7 +689,33 @@
       "https://www.tomijazz.com/contact/"
     ],
     "browser_checked_at": "2026-10-03T22:11:51.923650+00:00",
-    "browser_outcome": "not_found_on_rendered_pages"
+    "browser_outcome": "not_found_on_rendered_pages",
+    "role_overrides": {
+      "haken.performance@gmail.com": "musician booking"
+    },
+    "publication_evidence": {
+      "haken.performance@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://www.tomijazz.com/booking-for-musicians/",
+            "quote": "For booking, please send your music samples to haken.performance@gmail.com.",
+            "identity_evidence": [
+              {
+                "url": "https://www.tomijazz.com/location-hours/",
+                "quote": "Tomi Jazz | 239 East 53rd Street | (Between 2nd-3rd Avenue) | New York, NY 10022"
+              }
+            ],
+            "source_type": "official_website",
+            "purpose": "musician booking",
+            "parent_reason": "Parent confirmed explicit send music samples mailto on official musician-booking page. Text also says not currently hiring due to COVID-19 (stale notice); retain current publication with historical-purpose/monitoring caveat, never general customer contact.",
+            "notes": "This is NOT a general customer-inquiry email; the official contact page (https://www.tomijazz.com/contact/) explicitly directs all questions to its on-page form ('If you have any questions, please use the form below. We do not accept any private event requests.'). Recorded because it is a real published restaurant-specific address with a labeled restricted purpose; a general address does not appear to be published.",
+            "checked_at": "2026-10-05T08:21:32.568440+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "This is NOT a general customer-inquiry email; the official contact page (https://www.tomijazz.com/contact/) explicitly directs all questions to its on-page form ('If you have any questions, please use the form below. We do not accept any private event requests.'). Recorded because it is a real published restaurant-specific address with a labeled restricted purpose; a general address does not appear to be published. Parent confirmed explicit send music samples mailto on official musician-booking page. Text also says not currently hiring due to COVID-19 (stale notice); retain current publication with historical-purpose/monitoring caveat, never general customer contact."
+      }
+    }
   },
   "text_contact_discovery": {
     "channels": [
@@ -721,6 +753,74 @@
     "searches": [],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "tomi_jazz.json",
+      "name": "Tomi Jazz",
+      "emails": [
+        {
+          "email": "haken.performance@gmail.com",
+          "url": "https://www.tomijazz.com/booking-for-musicians/",
+          "quote": "For booking, please send your music samples to haken.performance@gmail.com.",
+          "source_type": "official_website",
+          "purpose": "musician booking ONLY — restricted purpose, explicitly not a general customer-inquiry address ('We receive so many e-mail inquiries every day and we are unable to reply to all e-mails... NO PHONE INQUIRIES PLEASE.')",
+          "business_match": "Published on Tomi Jazz's own official website (tomijazz.com), whose Location & Hours page states '239 East 53rd Street (Between 2nd-3rd Avenue) New York, NY 10022', exactly matching the saved business address.",
+          "identity_evidence": [
+            {
+              "url": "https://www.tomijazz.com/location-hours/",
+              "quote": "Tomi Jazz | 239 East 53rd Street | (Between 2nd-3rd Avenue) | New York, NY 10022"
+            }
+          ],
+          "confidence": "high for publication, but restricted to musician booking",
+          "decision": "source_backed",
+          "notes": "This is NOT a general customer-inquiry email; the official contact page (https://www.tomijazz.com/contact/) explicitly directs all questions to its on-page form ('If you have any questions, please use the form below. We do not accept any private event requests.'). Recorded because it is a real published restaurant-specific address with a labeled restricted purpose; a general address does not appear to be published.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "musician booking",
+            "reason": "Parent confirmed explicit send music samples mailto on official musician-booking page. Text also says not currently hiring due to COVID-19 (stale notice); retain current publication with historical-purpose/monitoring caveat, never general customer contact."
+          }
+        }
+      ],
+      "forms": [
+        {
+          "url": "https://www.tomijazz.com/contact/",
+          "matching_business_evidence": "Official tomijazz.com site; Location & Hours page confirms 239 East 53rd Street, New York, NY 10022 matching the saved business.",
+          "visible_fields": "Name, Email, Phone, Question, plus a CAPTCHA-style 'Please enter the code:' field",
+          "general_vs_restricted": "general questions (form explicitly says 'If you have any questions, please use the form below'; private event requests excluded)",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Tomi Jazz\" email contact 239 E 53rd St, New York, NY 10022, USA",
+          "provider": "DuckDuckGo (parent-authorized tab, via parent-search-leads file)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.tomijazz.com/contact/",
+        "https://www.tomijazz.com/booking-for-musicians/",
+        "https://www.tomijazz.com/location-hours/",
+        "https://www.tomijazz.com/link/"
+      ],
+      "errors": [],
+      "outcome": "restricted_purpose_email_found_plus_general_form",
+      "remaining_avenues": [
+        "Facebook page linked from tomijazz.com/link/ (https://facebook.com/tomi.jazz.3) is login-walled anonymously; its About section might publish a general email.",
+        "X/Twitter profile ('Connect to X') not inspected."
+      ],
+      "effort_notes": "Followed site nav from Contact to Booking-for-Musicians, Location & Hours, and Link pages; swept each for mailto/regex emails. Only the booking address is published. ~4 command groups used.",
+      "worker_claimed_checked_at": "2026-10-05T08:13:32Z",
+      "batch_completed_at": "2026-10-05T08:14:34.636570+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.568440+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-26",
+      "artifact_sha256": "7fc18ab250a6f5d4bf02cbd351386f52ae1f7219124f5bee5f9bbca03d45e79c",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "haken.performance@gmail.com"
+      ],
+      "no_general_email_reason": "Only limited-purpose published email(s); no accepted general-inquiry email in checked sources."
+    }
   }
 }

@@ -130,6 +130,49 @@
     "searches": [],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "zest_sushi.json",
+      "name": "Zest Sushi",
+      "emails": [],
+      "forms": [
+        {
+          "url": "https://zestsushinewyork.com/contact/",
+          "matching_business_evidence": "Page title 'Contact | Zest Sushi | Sushi restaurant New York'; page states 'Contact Zest Sushi for walk-in seating, takeout questions, current hours and directions to 249 Broome St, New York' and phone '+1 212-677-3158' matching the saved phone (212) 677-3158.",
+          "visible_labels": "Guest name, Phone with country code, Email for reservation updates, Preferred date, Preferred time, Party size, Time flexibility, Request type (Choose a request type / Table reservation / Visit details), free-text 'message' input; submits to https://zestsushinewyork.com/__forms/submit",
+          "purpose": "Restricted: walk-in/visit planning and table-reservation details (groups of 10+ directed to call). A free-text message field exists, but the form's stated purpose is visit/reservation planning, not general inquiry.",
+          "general_vs_restricted": "restricted",
+          "submission_tested": false
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Zest Sushi\" email contact 249 Broome St, New York, NY 10002, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome pinned tab (parent cache, reused per packet)"
+        }
+      ],
+      "inspected_urls": [
+        "https://zestsushinewyork.com/contact/",
+        "https://zestsushinewyork.com/faq/",
+        "https://zestsushinewyork.com/"
+      ],
+      "errors": [],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "NYC Community Board application PDF (35-249-Broome-Zest-Sushi-Roadway-Application.pdf, found in parent search leads) names BROOME HOSPITALITY CORP as legal entity; a public corporate/filing email could exist in other DOB/State records but was not pursued further this pass.",
+        "Facebook page (facebook.com/ZestNYC) About section may publish an email behind a logged-out view blocked by login redirects in this session."
+      ],
+      "effort_notes": "Confirmed prior outcome with deeper inspection: no mailto or published email anywhere on the FAQ or contact pages; the only form is a visit-details/reservation form (restricted purpose), consistent with the prior limited_purpose_only classification. No general-inquiry form exists on the site.",
+      "worker_claimed_checked_at": "2026-10-05T07:42:24Z",
+      "batch_completed_at": "2026-10-05T07:45:41.668207+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.552643+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-21",
+      "artifact_sha256": "51ff24b7d9798402c1a227bf85e810a871341065602589e48523b43ab7ad0ad7",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Confirmed prior outcome with deeper inspection: no mailto or published email anywhere on the FAQ or contact pages; the only form is a visit-details/reservation form (restricted purpose), consistent with the prior limited_purpose_only classification. No general-inquiry form exists on the site."
+    }
   }
 }

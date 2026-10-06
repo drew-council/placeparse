@@ -605,6 +605,42 @@
     ],
     "errors": [],
     "rejected_contacts": [],
-    "social_profiles": []
+    "social_profiles": [],
+    "email_investigation": {
+      "cache_file": "bund_dumpling_house.json",
+      "name": "Bund Dumpling House",
+      "emails": [],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"Bund Dumpling House\" Astoria, NY 11106 contact email (carried from prior sweep; new sweep used Maps + directory page)",
+          "provider": "Google browser (prior)"
+        }
+      ],
+      "inspected_urls": [
+        "https://www.google.com/maps?cid=9315881873171862330",
+        "https://whereyoueat.com/Bund-Dumpling-House-31352.html"
+      ],
+      "errors": [
+        "https://order.toasttab.com/online/bunddumplinghouse is listed in robot_excluded_urls and was not revisited; it is an ordering page and would not publish a staff email anyway."
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "ToastTab-powered listing's catering pages (e.g., toasttab.com/catering/*) if the merchant enables a catering contact — not observed for this business.",
+        "Yelp merchant page may carry 'Business website' updates but prior sweeps found no email there.",
+        "Women-owned certification profiles (Maps 'Identifies as women-owned') could surface a separate brand site later."
+      ],
+      "effort_notes": "Google Maps public details re-checked live: only website field is the robot-excluded ToastTab ordering link; no email/contact fields. whereyoueat.com directory page scanned (full HTML) — no emails or mailto links. No published email found in checked sources.",
+      "worker_claimed_checked_at": "2026-10-05T05:43:00Z",
+      "batch_completed_at": "2026-10-05T05:44:15.394399+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.480796+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-02",
+      "artifact_sha256": "5cca1b3cca7c924d6b0c87999bf632f51e4cae5dafa3120425a163980372cd6f",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Google Maps public details re-checked live: only website field is the robot-excluded ToastTab ordering link; no email/contact fields. whereyoueat.com directory page scanned (full HTML) — no emails or mailto links. No published email found in checked sources."
+    }
   }
 }

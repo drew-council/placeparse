@@ -540,6 +540,39 @@
         "messaging_verified": false,
         "requires_login": true
       }
-    ]
+    ],
+    "email_investigation": {
+      "cache_file": "yin_ji_chang_fen.json",
+      "name": "Yin Ji Chang Fen 銀記腸粉",
+      "emails": [],
+      "forms": [],
+      "queries": [],
+      "inspected_urls": [
+        "https://www.yinji-usa.com/contact-us/",
+        "https://web.archive.org/web/20260213134910/https://www.yinji-usa.com/contact-us/",
+        "https://thepulse.com/us/ny/queens/yin-ji-chang-fen-%E9%8A%80%E8%A8%98%E8%85%B8%E7%B2%89"
+      ],
+      "errors": [
+        "https://www.yinji-usa.com/contact-us/ repeatedly timed out (Page.navigate and Runtime.evaluate CDP timeouts) in the isolated browser; direct HEAD requests via curl also returned no response — the site was unreachable during this session, though the packet shows it loaded successfully in a prior sweep.",
+        "Wayback Machine archive (snapshot 20260213134910) of the contact page contains no email address or mailto link: page lists only '91 Bayard Street New York, NY 10013', '38-12 Prince Street Flushing, NY 11354', '2122 86th Street, Brooklyn, NY 11214', hours, and 'Online Order' links (Powered by Menusifu)."
+      ],
+      "outcome": "no_text_route_found_in_checked_sources",
+      "remaining_avenues": [
+        "Retry yinji-usa.com when the server responds; check 'Online Order' links (Menusifu ordering platform) which sometimes expose a merchant contact email.",
+        "The Guangzhou parent brand (银记肠粉店) official Chinese site could document a brand-level email, but the specific domain was not established from the inspected sources; a parent-supplied targeted search for the official China domain would be needed.",
+        "Check the Facebook/Instagram bios (@yinjichangfen_nyc referenced in the parent's Facebook snippet) via a logged-out public view."
+      ],
+      "effort_notes": "Live site was unreachable this run; performed the deeper fallback of retrieving the February 2026 Wayback snapshot of the exact contact page — no email published there. Three locations are confirmed for the brand (matching Flushing address), so the brand is the right one.",
+      "worker_claimed_checked_at": "2026-10-05T07:42:24Z",
+      "batch_completed_at": "2026-10-05T07:45:41.668207+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.552299+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-21",
+      "artifact_sha256": "51ff24b7d9798402c1a227bf85e810a871341065602589e48523b43ab7ad0ad7",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [],
+      "no_general_email_reason": "No general-inquiry email found in checked sources. Live site was unreachable this run; performed the deeper fallback of retrieving the February 2026 Wayback snapshot of the exact contact page — no email published there. Three locations are confirmed for the brand (matching Flushing address), so the brand is the right one."
+    }
   }
 }

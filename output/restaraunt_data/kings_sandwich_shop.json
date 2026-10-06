@@ -427,11 +427,17 @@
   "website": "https://kingssandwichshop.com/index.html",
   "wheelchair_accessible_entrance": true,
   "business_status_checked_at": "2026-10-03T20:05:26.239730+00:00",
-  "emails": [],
+  "emails": [
+    "tjmcdiv@gmail.com"
+  ],
   "email_discovery": {
     "checked_at": "2026-10-03T21:49:09.961323+00:00",
-    "outcome": "not_found_on_checked_pages",
-    "sources": {},
+    "outcome": "found",
+    "sources": {
+      "tjmcdiv@gmail.com": [
+        "https://kingsdurham.square.site/"
+      ]
+    },
     "pages": [
       {
         "url": "https://kingssandwichshop.com/index.html",
@@ -453,6 +459,32 @@
           "https://www.allbiz.com/business/kings-sandwich-shop_23-919-682-0071"
         ],
         "reason": "Restaurant-specific address published by a third-party source; business ownership/current use not confirmed. Do not disclose allergy information before confirming the recipient."
+      }
+    },
+    "role_overrides": {
+      "tjmcdiv@gmail.com": "general/unspecified"
+    },
+    "publication_evidence": {
+      "tjmcdiv@gmail.com": {
+        "evidence": [
+          {
+            "url": "https://kingsdurham.square.site/",
+            "quote": "King's Sandwich Shop\\n701 Foster Street\\nDurham, North Carolina 27701\\n(919) 682-0071\\ntjmcdiv@gmail.com",
+            "identity_evidence": [
+              {
+                "url": "https://kingssandwichshop.com/index.html",
+                "quote": "KINGS SANDWICH SHOP DURHAM | Food for the people ... 701 FOSTER ST. DURHAM, NC 27701 ... ORDER ONLINE => https://kingsdurham.square.site/?owg-fulfillment=pickup..."
+              }
+            ],
+            "source_type": "official_website",
+            "purpose": "general/unspecified",
+            "parent_reason": "Original browser tool capture independently audited: official Square ordering-site contact footer lists 701 Foster Street, Durham NC 27701, (919) 682-0071, and the exact mailbox, plus mailto. Parent replay had empty DOM. Business-purpose publication, not private-person inference.",
+            "notes": "Personal-style Gmail published in the business's own official contact footer with exact address/phone match; publication proves the restaurant publishes it as a contact route, but inbox ownership/delivery not verified. The mailto link is rendered as mailto:tjmcdiv@gmail.com on the page.",
+            "checked_at": "2026-10-05T07:37:41.922779+00:00",
+            "delivery_tested": false
+          }
+        ],
+        "note": "Personal-style Gmail published in the business's own official contact footer with exact address/phone match; publication proves the restaurant publishes it as a contact route, but inbox ownership/delivery not verified. The mailto link is rendered as mailto:tjmcdiv@gmail.com on the page. Original browser tool capture independently audited: official Square ordering-site contact footer lists 701 Foster Street, Durham NC 27701, (919) 682-0071, and the exact mailbox, plus mailto. Parent replay had empty DOM. Business-purpose publication, not private-person inference."
       }
     }
   },
@@ -542,6 +574,79 @@
         "\"info@kingssandwichshop.com\" King's Sandwich Shop"
       ],
       "result_urls": []
+    },
+    "email_investigation": {
+      "cache_file": "kings_sandwich_shop.json",
+      "name": "King's Sandwich Shop",
+      "emails": [
+        {
+          "email": "tjmcdiv@gmail.com",
+          "url": "https://kingsdurham.square.site/",
+          "quote": "King's Sandwich Shop\\n701 Foster Street\\nDurham, North Carolina 27701\\n(919) 682-0071\\ntjmcdiv@gmail.com",
+          "source_type": "official_website",
+          "purpose": "General customer contact email published in the contact/footer block of the restaurant's official Square online-ordering site",
+          "business_match": "Published with exact-matching business name 'King's Sandwich Shop', address '701 Foster Street, Durham, North Carolina 27701' and phone '(919) 682-0071' (all match saved business); the ordering site is the 'OrderOnline' destination linked from the restaurant's own homepage kingssandwichshop.com.",
+          "identity_evidence": [
+            {
+              "url": "https://kingssandwichshop.com/index.html",
+              "quote": "KINGS SANDWICH SHOP DURHAM | Food for the people ... 701 FOSTER ST. DURHAM, NC 27701 ... ORDER ONLINE => https://kingsdurham.square.site/?owg-fulfillment=pickup..."
+            }
+          ],
+          "confidence": 0.8,
+          "decision": "source_backed",
+          "notes": "Personal-style Gmail published in the business's own official contact footer with exact address/phone match; publication proves the restaurant publishes it as a contact route, but inbox ownership/delivery not verified. The mailto link is rendered as mailto:tjmcdiv@gmail.com on the page.",
+          "parent_decision": {
+            "decision": "accept",
+            "role": "general/unspecified",
+            "reason": "Original browser tool capture independently audited: official Square ordering-site contact footer lists 701 Foster Street, Durham NC 27701, (919) 682-0071, and the exact mailbox, plus mailto. Parent replay had empty DOM. Business-purpose publication, not private-person inference."
+          }
+        },
+        {
+          "email": "info@kingssandwichshop.com",
+          "url": "https://www.allbiz.com/business/kings-sandwich-shop_23-919-682-0071",
+          "quote": "Prior sweep recorded this address as published on the allbiz listing for the exact business (701 Foster St, Durham, NC 27701; (919) 682-0071).",
+          "source_type": "third_party_directory",
+          "purpose": "Restaurant contact address as published by a third-party directory; domain matches the restaurant's own site kingssandwichshop.com",
+          "business_match": "Directory listing matches saved address and phone; the kingssandwichshop.com domain matches the saved website.",
+          "identity_evidence": [],
+          "confidence": 0.45,
+          "decision": "candidate",
+          "notes": "Carried over from prior sweep (quarantined candidate). allbiz re-verification Cloudflare-blocked this session; superseded in strength by the officially published tjmcdiv@gmail.com above.",
+          "parent_decision": {
+            "decision": "withheld",
+            "reason": "Not accepted in this bounded parent audit: primary publication, current business/branch attribution, or intended customer-inquiry purpose remains insufficient. Preserved as evidence rather than an outreach recipient."
+          }
+        }
+      ],
+      "forms": [],
+      "queries": [
+        {
+          "query": "\"King's Sandwich Shop\" email contact 701 Foster St, Durham, NC 27701, USA",
+          "provider": "DuckDuckGo in parent-authorized Chrome (parent leads file, no challenge)"
+        }
+      ],
+      "inspected_urls": [
+        "https://kingssandwichshop.com/index.html",
+        "https://kingsdurham.square.site/"
+      ],
+      "errors": [],
+      "outcome": "source_backed_email_found",
+      "remaining_avenues": [
+        "Directory candidate info@kingssandwichshop.com retained below (allbiz was Cloudflare-blocked on re-verification this session)."
+      ],
+      "effort_notes": "Followed the 'OrderOnline' link from the official homepage into the Square storefront and extracted the footer contact block with mailto — turns the prior third-party-only candidate state into an official-site published email. ~2 browser groups.",
+      "worker_claimed_checked_at": "2026-10-05T06:28:34Z",
+      "batch_completed_at": "2026-10-05T06:29:41.779741+00:00",
+      "parent_reviewed_at": "2026-10-05T08:21:32.507313+00:00",
+      "model": "openrouter/z-ai/glm-5.3-flash:high",
+      "research_batch": "email-depth-09",
+      "artifact_sha256": "ce6e08a692c216168faa036bb937b26433b7f91f6e5d1c74518e0c366d18092c",
+      "submission_tested": false,
+      "delivery_tested": false,
+      "accepted_emails": [
+        "tjmcdiv@gmail.com"
+      ],
+      "no_general_email_reason": ""
     }
   }
 }
