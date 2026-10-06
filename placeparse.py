@@ -105,6 +105,11 @@ def cached_cid(data: dict) -> str:
     return parse_qs(urlsplit(data.get("url", "")).query).get("cid", [""])[0]
 
 
+def consider_for_outreach(data: dict) -> bool:
+    """Respect manual deselections without changing Maps membership or history."""
+    return data.get("outreach_selection", {}).get("selected", True) is not False
+
+
 def current_list_cids() -> set[str]:
     file = OUT_DIR / "maps_saved_list.json"
     if not file.exists():
@@ -343,7 +348,11 @@ def get_emails(
     limit: int | None, workers: int, max_pages: int, only_unchecked: bool
 ) -> None:
     """Check public websites and linked contact pages, including already cached emails."""
-    files = get_out_files()
+    files = [
+        file
+        for file in get_out_files()
+        if consider_for_outreach(json.loads(file.read_text()))
+    ]
     if limit:
         files = files[:limit]
     counts: dict[str, int] = {}
@@ -444,6 +453,8 @@ def export_email_reports() -> None:
                 "Name",
                 "Place ID",
                 "On Saved List",
+                "Consider For Outreach",
+                "Outreach Exclusion Reason",
                 "Food Place",
                 "Business Status",
                 "Website",
@@ -495,6 +506,10 @@ def export_email_reports() -> None:
                     "Name": data.get("name", file.stem),
                     "Place ID": data.get("place_id", ""),
                     "On Saved List": on_list,
+                    "Consider For Outreach": consider_for_outreach(data),
+                    "Outreach Exclusion Reason": data.get("outreach_selection", {}).get(
+                        "reason", ""
+                    ),
                     "Food Place": is_food,
                     "Business Status": data.get("business_status", ""),
                     "Website": data.get("website", ""),
@@ -522,6 +537,7 @@ def export_email_reports() -> None:
             )
             if (
                 not on_list
+                or not consider_for_outreach(data)
                 or not is_food
                 or data.get("business_status") != "OPERATIONAL"
             ):
@@ -575,6 +591,8 @@ def export_email_reports() -> None:
         writer.writeheader()
         for file in get_out_files():
             data = json.loads(file.read_text())
+            if not consider_for_outreach(data):
+                continue
             for email, candidate in (
                 data.get("email_discovery", {}).get("candidate_sources", {}).items()
             ):

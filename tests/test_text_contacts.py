@@ -17,6 +17,7 @@ class TextContactTests(unittest.TestCase):
             cache.mkdir()
             records = [
                 ("Cafe", "OPERATIONAL", ["cafe"], "general inquiry", True),
+                ("Visited", "OPERATIONAL", ["restaurant"], "general inquiry", True),
                 (
                     "Closed",
                     "CLOSED_PERMANENTLY",
@@ -40,6 +41,7 @@ class TextContactTests(unittest.TestCase):
                     json.dumps(
                         {
                             "name": name,
+                            "outreach_selection": {"selected": name != "Visited"},
                             "business_status": status,
                             "types": types,
                             "email_discovery": {
@@ -136,6 +138,48 @@ class TextContactTests(unittest.TestCase):
             self.assertIn(
                 "reservation request", rows["Booking"]["Limited Purpose Forms"]
             )
+
+    def test_visited_skips_email_and_browser_checks(self):
+        from scripts import check_rendered_emails
+
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            cache = root / "data"
+            cache.mkdir()
+            data = {
+                "name": "Visited",
+                "maps_cid": "1",
+                "types": ["restaurant"],
+                "business_status": "OPERATIONAL",
+                "website": "https://restaurant.com",
+                "outreach_selection": {"selected": False, "reason": "already_visited"},
+            }
+            file = cache / "visited.json"
+            original = json.dumps(data)
+            file.write_text(original)
+            (root / "maps_saved_list.json").write_text(
+                json.dumps(
+                    {
+                        "complete": True,
+                        "places": [{"cid": "1", "cache_file": file.name}],
+                    }
+                )
+            )
+            with (
+                patch.object(placeparse, "OUT_DIR", root),
+                patch.object(placeparse, "OUT_JSON_DIR", cache),
+                patch.object(placeparse, "discover_emails") as discover,
+                patch.object(placeparse, "export_email_reports"),
+                patch.object(check_rendered_emails, "browser") as browser,
+                patch("sys.argv", ["check_rendered_emails", "--session", "test"]),
+            ):
+                callback = placeparse.get_emails.callback
+                assert callback is not None
+                callback(limit=1, workers=1, max_pages=1, only_unchecked=False)
+                check_rendered_emails.main()
+                discover.assert_not_called()
+                browser.assert_not_called()
+            self.assertEqual(file.read_text(), original)
 
     def test_hr_is_not_general_inquiry(self):
         from email_discovery import email_role

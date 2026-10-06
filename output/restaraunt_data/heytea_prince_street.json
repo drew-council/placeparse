@@ -140,5 +140,11 @@
       "accepted_emails": [],
       "no_general_email_reason": "No general-inquiry email found in checked sources. Retried the previously failing heytea.com/contact in this isolated session with long waits and re-evals; the SPA consistently renders an empty body (nav only on homepage). Confirmed site nav offers 'contact us' and 'franchise' routes but no renderable email. Atly public listing (from parent leads) carries no email. No emails withheld; prior outcome maintained with more inspection detail."
     }
+  },
+  "outreach_selection": {
+    "selected": false,
+    "reason": "already_visited",
+    "source": "user_manual_selection",
+    "recorded_at": "2026-10-06T17:08:33.583988+00:00"
   }
 }

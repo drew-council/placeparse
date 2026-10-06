@@ -1,4 +1,4 @@
-"""Offline, current-list food-venue contacts; excludes permanently closed places.
+"""Offline, current-list food contacts; excludes visited/permanently closed places.
 
 Publication/form inspection is not ownership, delivery, or submission testing.
 Social profiles and third-party email leads are explicitly not verified channels.
@@ -51,6 +51,8 @@ def export() -> Counter[str]:
             data = json.loads(
                 (placeparse.OUT_JSON_DIR / member["cache_file"]).read_text()
             )
+            if not placeparse.consider_for_outreach(data):
+                continue
             if data.get("business_status") == "CLOSED_PERMANENTLY":
                 continue
             if not (

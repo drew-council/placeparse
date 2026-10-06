@@ -225,9 +225,14 @@ class EmailDiscoveryTests(unittest.TestCase):
                 ("1", "Open", "OPERATIONAL"),
                 ("2", "Closed", "CLOSED_PERMANENTLY"),
                 ("3", "Removed", "OPERATIONAL"),
+                ("1", "Visited", "OPERATIONAL"),
             ]:
                 data = {
                     "name": name,
+                    "outreach_selection": {
+                        "selected": name != "Visited",
+                        "reason": "already_visited" if name == "Visited" else "",
+                    },
                     "maps_cid": cid,
                     "food_place": True,
                     "business_status": status,
@@ -297,6 +302,10 @@ class EmailDiscoveryTests(unittest.TestCase):
             with (root / "email_coverage.csv").open() as stream:
                 coverage = list(csv.DictReader(stream))
             self.assertTrue(all(not r["Failed Pages"] for r in coverage))
+            visited = next(r for r in coverage if r["Name"] == "Visited")
+            self.assertEqual(visited["Consider For Outreach"], "False")
+            self.assertEqual(visited["Outreach Exclusion Reason"], "already_visited")
+            self.assertTrue(visited["Verified Emails"])
             with (root / "new_places.csv").open() as stream:
                 new = list(csv.DictReader(stream))
             self.assertEqual(len(new), 1)
@@ -306,6 +315,7 @@ class EmailDiscoveryTests(unittest.TestCase):
                 candidates = list(csv.DictReader(stream))
             self.assertEqual(len(candidates), 3)
             self.assertTrue(all(r["Review Required"] == "True" for r in candidates))
+            self.assertTrue(all(r["Name"] != "Visited" for r in candidates))
 
     def test_import_uses_ids_and_avoids_name_collision(self):
         with tempfile.TemporaryDirectory() as tmp:

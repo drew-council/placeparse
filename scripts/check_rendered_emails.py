@@ -1,6 +1,6 @@
 """Second-pass public website checks with agent-browser in a separate pinned tab.
 
-Only current operational food places needing a general/reservation/dietary email.
+Only current, not-deselected operational food places needing a general email.
 Does not submit forms, bypass robots exclusions/challenges, or send messages.
 """
 
@@ -57,6 +57,7 @@ def main() -> None:
         ) or data.get("food_place")
         if (
             not is_food
+            or not placeparse.consider_for_outreach(data)
             or data.get("business_status") != "OPERATIONAL"
             or not data.get("website")
         ):

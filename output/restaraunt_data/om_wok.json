@@ -582,5 +582,11 @@
       "accepted_emails": [],
       "no_general_email_reason": "No general-inquiry email found in checked sources. About 8 browser command groups including an archive.org deep-dive of the dead official site. Contact section of the archived site contains address/phone only."
     }
+  },
+  "outreach_selection": {
+    "selected": false,
+    "reason": "already_visited",
+    "source": "user_manual_selection",
+    "recorded_at": "2026-10-06T17:08:33.586778+00:00"
   }
 }

@@ -546,5 +546,11 @@
         "search_provider": "DuckDuckGo browser"
       }
     ]
+  },
+  "outreach_selection": {
+    "selected": false,
+    "reason": "already_visited",
+    "source": "user_manual_selection",
+    "recorded_at": "2026-10-06T17:08:33.586018+00:00"
   }
 }
